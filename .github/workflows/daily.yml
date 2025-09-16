@@ -2,11 +2,11 @@ name: daily-summaries
 
 on:
   schedule:
-    - cron: '59 22 * * *'   # 22:59 UTC ≈ 23:59 à Paris (hiver)
-  workflow_dispatch:        # bouton "Run workflow" manuel
+    - cron: '59 22 * * *'   # 22:59 UTC ~ 23:59 en hiver à Paris
+  workflow_dispatch:        # bouton "Run workflow"
 
 permissions:
-  contents: write           # autorise le push des fichiers générés
+  contents: write           # autorise le push
 
 jobs:
   run:
@@ -20,16 +20,15 @@ jobs:
         with:
           python-version: '3.11'
 
-      # 1) Installer les dépendances
+      # installe les dépendances (chemin selon ta structure)
       - name: Install deps
         run: |
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           if [ -f google-alerts-summarizer/requirements.txt ]; then pip install -r google-alerts-summarizer/requirements.txt; fi
           pip install markdown
 
-      # 2) Lancer TON script qui produit output/YYYY-MM-DD.md
-      #    ⚠️ Si ton main.py est dans le dossier google-alerts-summarizer, on lance cette ligne
-      - name: Run your script (produit output/*.md)
+      # 1) lance TON script (chemin à adapter si besoin)
+      - name: Run your script
         env:
           FEEDS: "https://www.google.fr/alerts/feeds/06828307252155608763/17948382890845885017"
           SENTENCES: "4"
@@ -39,15 +38,15 @@ jobs:
           elif [ -f google-alerts-summarizer/main.py ]; then python google-alerts-summarizer/main.py; \
           else echo "main.py introuvable"; exit 1; fi
 
-      # 3) Construire les pages HTML jolies dans docs/
-      - name: Build static site (docs/)
+      # 2) construit le site HTML
+      - name: Build static site
         run: python build_site.py
 
-      # 4) Commit + push des fichiers générés (docs/ et output/)
+      # 3) commit + push
       - name: Commit & Push results
         run: |
           git config user.name "rss-bot"
           git config user.email "rss-bot@users.noreply.github.com"
           git add docs output
-          git commit -m "site maj $(date -u +'%Y-%m-%d %H:%M')" || echo "rien à committer"
+          git commit -m "maj $(date -u +'%Y-%m-%d %H:%M')" || echo "rien à committer"
           git push
