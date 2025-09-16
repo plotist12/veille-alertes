@@ -2,11 +2,11 @@ name: daily-summaries
 
 on:
   schedule:
-    - cron: '59 22 * * *'   # 22:59 UTC ~ 23:59 en hiver à Paris
-  workflow_dispatch:        # bouton "Run workflow"
+    - cron: '59 22 * * *'        # 22:59 UTC ≈ 23:59 hiver Paris
+  workflow_dispatch:             # bouton manuel
 
 permissions:
-  contents: write           # autorise le push
+  contents: write
 
 jobs:
   run:
@@ -15,34 +15,48 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Show repo layout (debug)
+        run: |
+          echo "ROOT:"; ls -la
+          echo "google-alerts-summarizer:"; ls -la google-alerts-summarizer || true
+          echo "docs:"; ls -la docs || true
+          echo "output:"; ls -la output || true
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      # installe les dépendances (chemin selon ta structure)
       - name: Install deps
         run: |
+          python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           if [ -f google-alerts-summarizer/requirements.txt ]; then pip install -r google-alerts-summarizer/requirements.txt; fi
-          pip install markdown
+          # minimum requis pour main.py et build_site.py
+          python -m pip install feedparser requests beautifulsoup4 markdown
 
-      # 1) lance TON script (chemin à adapter si besoin)
-      - name: Run your script
+      - name: Run your script (génère output/YYYY-MM-DD.md + latest.md)
         env:
           FEEDS: "https://www.google.fr/alerts/feeds/06828307252155608763/17948382890845885017"
-          SENTENCES: "4"
           MAX_PER_FEED: "50"
+          TIMEOUT: "20"
         run: |
-          if [ -f main.py ]; then python main.py; \
-          elif [ -f google-alerts-summarizer/main.py ]; then python google-alerts-summarizer/main.py; \
-          else echo "main.py introuvable"; exit 1; fi
+          set -xe
+          # 👉 adapte cette ligne si ton main.py est ailleurs
+          python google-alerts-summarizer/main.py
+          echo "Après exécution, contenu de output/:"
+          ls -la output || true
+          echo "Aperçu du fichier du jour (si présent) :"
+          DAY=$(date -u +%F)  # date UTC du runner
+          test -f output/$DAY.md && tail -n +1 output/$DAY.md | head -n 80 || echo "Pas de fichier $DAY.md"
 
-      # 2) construit le site HTML
-      - name: Build static site
-        run: python build_site.py
+      - name: Build static site (docs/)
+        run: |
+          set -xe
+          python build_site.py
+          echo "docs/ contient désormais :"
+          ls -la docs
 
-      # 3) commit + push
       - name: Commit & Push results
         run: |
           git config user.name "rss-bot"
