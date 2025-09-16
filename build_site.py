@@ -1,4 +1,4 @@
-# build_site.py — même contenu, design plus pro (thème cybersécurité)
+# build_site.py — même contenu, design plus pro (thème cybersécurité) + REGEX FIX
 
 import re, pathlib
 from string import Template
@@ -58,10 +58,8 @@ main{padding-top:16px}
 .page-title .dot{width:10px;height:10px;border-radius:50%;background:var(--accent)}
 
 .content{padding:10px 6px}
-.content h1{display:none} /* on masque le # Résumés – YYYY-MM-DD du markdown */
-.content h2{
-  font-size:20px;margin:18px 0 6px;
-}
+.content h1{display:none} /* masque le # Résumés – YYYY-MM-DD du markdown */
+.content h2{font-size:20px;margin:18px 0 6px;}
 .content p{margin:10px 0}
 .content em{color:var(--muted)}
 .content ul{margin:8px 0 14px 22px}
@@ -74,9 +72,7 @@ main{padding-top:16px}
   background:var(--code); border:1px solid #16284e; border-radius:6px;
   padding:2px 6px; font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 }
-.content pre code{
-  display:block; padding:14px; overflow:auto;
-}
+.content pre code{display:block; padding:14px; overflow:auto;}
 
 .card{
   background:var(--card); border:1px solid var(--line);
@@ -84,9 +80,7 @@ main{padding-top:16px}
   border-radius:14px; padding:14px; margin:16px 0;
 }
 .card h2{margin-top:0}
-.footer{
-  color:var(--muted); font-size:13px; margin-top:22px; text-align:center
-}
+.footer{color:var(--muted); font-size:13px; margin-top:22px; text-align:center}
 </style>
 """
 
@@ -122,19 +116,22 @@ $style
 def find_md_files():
     files = []
     for base in OUTS:
-        if not base.exists(): continue
-        files += sorted([p for p in base.glob("*.md") if re.match(r"\\d{4}-\\d{2}-\\d{2}\\.md$", p.name)])
+        if not base.exists():
+            continue
+        # ✅ REGEX CORRIGÉE : \d (un seul antislash)
+        files += sorted([p for p in base.glob("*.md") if re.match(r"\d{4}-\d{2}-\d{2}\.md$", p.name)])
     if not files:
         for base in OUTS:
             p = base / "latest.md"
-            if p.exists(): return [p]
+            if p.exists():
+                print(f"(fallback) utilisation de {p}")
+                return [p]
+    print("Sources MD trouvées :", [str(p) for p in files])
     return files
 
 def md_to_html(md_text: str) -> str:
-    # on ajoute une classe .card autour de chaque article (## Titre)
-    import markdown
     html = markdown.markdown(md_text, extensions=["extra","tables"])
-    # convertir chaque bloc d'article en .card (h2 + ce qui suit jusqu'au prochain h2)
+    # Encapsuler chaque article (## ...) dans une carte
     parts = re.split(r"(<h2>.*?</h2>)", html, flags=re.S)
     if len(parts) <= 1:
         return html
@@ -143,8 +140,7 @@ def md_to_html(md_text: str) -> str:
         h2 = parts[i]
         body = parts[i+1] if i+1 < len(parts) else ""
         out.append(f'<section class="card">{h2}{body}</section>')
-    # conserver le h1 initial (caché via CSS) au début
-    prefix = parts[0]
+    prefix = parts[0]  # contient le H1 (caché par CSS)
     return prefix + "".join(out)
 
 def write_page(path: pathlib.Path, title: str, subtitle: str, md_text: str):
@@ -161,15 +157,16 @@ def main():
 
     days = []
     for p in files:
-        day = p.stem if re.match(r"\\d{4}-\\d{2}-\\d{2}$", p.stem) else "Aujourd'hui"
+        # ✅ REGEX CORRIGÉE ici aussi
+        day = p.stem if re.match(r"\d{4}-\d{2}-\d{2}$", p.stem) else "Aujourd'hui"
         md = p.read_text(encoding="utf-8")
         write_page(DOCS / f"{day}.html", f"Résumés – {day}", "Synthèse quotidienne", md)
         days.append(day)
 
     # index
     days = sorted(set(days), reverse=True)
-    links_md = "\\n".join(f"- [{d}](./{d}.html)" for d in days)
-    index_md = f"# Historique\\n\\n{links_md}"
+    links_md = "\n".join(f"- [{d}](./{d}.html)" for d in days)
+    index_md = f"# Historique\n\n{links_md}"
     write_page(DOCS / "index.html", "Historique – Veille cybersécurité", "Accès aux pages quotidiennes", index_md)
 
     print("OK : rendu stylé généré dans docs/")
