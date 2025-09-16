@@ -3,10 +3,10 @@
 # - Design sombre "cyber"
 # - Une page par jour + index
 # - Filtres par tags + recherche côté navigateur
-# - Détection de tags via mots-clés du titre/résumé
 
 import re, pathlib, html
 from urllib.parse import urlparse
+from string import Template
 
 try:
     import markdown  # pip install markdown
@@ -17,7 +17,7 @@ ROOT = pathlib.Path(__file__).parent
 OUT  = ROOT / "output"
 DOCS = ROOT / "docs"
 DOCS.mkdir(parents=True, exist_ok=True)
-(DOCS / ".nojekyll").write_text("", encoding="utf-8")  # pas de Jekyll
+(DOCS / ".nojekyll").write_text("", encoding="utf-8")
 
 md = markdown.Markdown(extensions=["extra", "tables"])
 
@@ -68,22 +68,22 @@ footer{border-top:1px solid var(--line);margin-top:24px}
 </style>
 """
 
-SHELL = """<!doctype html><html lang="fr"><head>
+SHELL = Template("""<!doctype html><html lang="fr"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{title}</title>{style}</head><body>
+<title>$title</title>$style</head><body>
 <header><div class="wrap">
   <div class="brand">
     <div class="logo" aria-hidden="true"></div>
     <div>
-      <h1>{brand}</h1>
-      <div class="sub">{subtitle}</div>
+      <h1>$brand</h1>
+      <div class="sub">$subtitle</div>
     </div>
   </div>
-  {toolbar}
+  $toolbar
 </div></header>
 <main><div class="wrap">
-  {daynav}
-  {content}
+  $daynav
+  $content
 </div></main>
 <footer><div class="wrap">Publié automatiquement avec GitHub Pages – veille cybersécurité.</div></footer>
 <script>
@@ -105,11 +105,10 @@ function applyFilters(){
 if(q){ q.addEventListener('input', applyFilters); }
 chips.forEach(c=>c.addEventListener('click', ()=>{ c.classList.toggle('active'); applyFilters(); }));
 </script>
-</body></html>"""
+</body></html>""")
 
 # ---------- Parsing du markdown du jour ----------
 def parse_articles(md_text: str):
-    """Retourne une liste d'objets: title, link, source, pub, md_segment, text_for_tags"""
     lines = md_text.splitlines()
     blocks, cur = [], []
     for ln in lines:
@@ -123,12 +122,11 @@ def parse_articles(md_text: str):
     items = []
     for seg in blocks:
         m = re.search(r"^## \[(?P<title>.+?)\]\((?P<link>.+?)\)", seg, re.M|re.S)
-        if not m: 
+        if not m:
             title = "(Sans titre)"; link = ""
         else:
             title = m.group("title").strip()
             link  = m.group("link").strip()
-        # métadonnées en italique
         meta_m = re.search(r"^\*(?P<meta>.+?)\*\s*$", seg, re.M)
         src = pub = ""
         if meta_m:
@@ -138,13 +136,10 @@ def parse_articles(md_text: str):
                     src = part.split(":",1)[-1].strip()
                 elif part.lower().startswith("publication"):
                     pub = part.split(":",1)[-1].strip()
-        # texte brut pour recherche / tags
         bullets = "\n".join([ln for ln in seg.splitlines() if ln.strip().startswith("- ")])
         text_for_tags = (title + " " + bullets).lower()
-        items.append({
-            "title": title, "link": link, "source": src, "pub": pub,
-            "segment": seg, "text": text_for_tags
-        })
+        items.append({"title": title, "link": link, "source": src, "pub": pub,
+                      "segment": seg, "text": text_for_tags})
     return items
 
 # ---------- Tagging heuristique ----------
@@ -161,11 +156,7 @@ TAG_RULES = [
 ]
 
 def tags_for(text: str):
-    tags = []
-    for label, patt in TAG_RULES:
-        if re.search(patt, text, re.I):
-            tags.append(label)
-    return tags
+    return [label for (label, patt) in TAG_RULES if re.search(patt, text, re.I)]
 
 def favicon_url(url: str):
     try:
@@ -194,12 +185,9 @@ def render_cards(items):
     out = []
     for it in items:
         seg_html = markdown.markdown(it["segment"], extensions=["extra","tables"])
-        seg_html = re.sub(r"<p><em>.*?</em></p>", "", seg_html, flags=re.S)  # enlève la ligne meta en italique
+        seg_html = re.sub(r"<p><em>.*?</em></p>", "", seg_html, flags=re.S)
         title_html = re.search(r"<h2>(.*?)</h2>", seg_html, re.S)
-        if title_html:
-            body_html = seg_html.replace(title_html.group(0), "")
-        else:
-            body_html = seg_html
+        body_html = seg_html.replace(title_html.group(0), "") if title_html else seg_html
         tag_list = tags_for(it["text"])
         tags_attr = ",".join(tag_list)
         chips = " ".join(f'<span class="chip">{html.escape(t)}</span>' for t in tag_list)
@@ -231,7 +219,7 @@ def build_day_page(day: str, items):
     if days:
         links = " ".join(f'<a href="./{d}.html">{d}</a>' for d in days[:14])
         daynav = f'<div class="daynav"><strong>Jours récents :</strong> {links}</div>'
-    html_page = SHELL.format(
+    html_page = SHELL.safe_substitute(
         title=f"Veille cybersécurité – {day}",
         style=STYLE, brand="Veille Cybersécurité",
         subtitle=f"Résumés automatiques – {day}",
@@ -242,16 +230,16 @@ def build_day_page(day: str, items):
 def build_index(days):
     links = "\n".join(f'<li><a href="./{d}.html">{d}</a></li>' for d in days)
     content = f'<section class="grid"><div class="card"><h2>Jours disponibles</h2><ul>{links or "<li>(vide)</li>"}</ul></div></section>'
-    html_page = SHELL.format(
+    html_page = SHELL.safe_substitute(
         title="Veille cybersécurité – Index",
         style=STYLE, brand="Veille Cybersécurité",
         subtitle="Historique quotidien",
-        toolbar=render_toolbar(False), daynav="",
+        toolbar="", daynav="",
         content=content)
     (DOCS / "index.html").write_text(html_page, encoding="utf-8")
 
 def build_all(items):
-    html_page = SHELL.format(
+    html_page = SHELL.safe_substitute(
         title="Veille cybersécurité – Historique",
         style=STYLE, brand="Veille Cybersécurité",
         subtitle="Tous les articles connus",
@@ -265,22 +253,16 @@ def parse_day_file(path: pathlib.Path):
     return parse_articles(text)
 
 def main():
-    # 1) pages par jour
     day_files = sorted([p for p in OUT.glob("*.md") if p.name not in ("all_articles.md","latest.md")])
-    all_items = []
-    days = []
+    all_items, days = [], []
     for p in day_files:
         day = p.stem
         items = parse_day_file(p)
         build_day_page(day, items)
-        all_items.extend(items)
-        days.append(day)
+        all_items.extend(items); days.append(day)
     days.sort(reverse=True)
     build_index(days)
-
-    # 2) page "all" (récents d'abord)
-    build_all(all_items[::-1])
-
+    build_all(all_items[::-1])  # récents d'abord
     print("OK : pages générées dans docs/ (index, YYYY-MM-DD, all.html)")
 
 if __name__ == "__main__":
