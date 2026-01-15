@@ -1,5 +1,162 @@
-# Résumés – 2026-01-14
+# Résumés – 2026-01-15
 
+
+## [Bilan 2025 : menaces cyber et leviers pour renforcer sa sécurité numérique - ESET](https://www.eset.com/fr/about/newsroom/conseils/conseils/bilan-cybersecurite-2025-securite-numerique/)  
+*Source : eset.com | Publication : 2026-01-15*
+
+- Bilan de l’année 2025 et perspectives pour renforcer sa sécurité numérique Benoit Grunemwald, Expert en cybersécurité L'année 2025 s’inscrit dans le mouvement initié par la transformation numérique de nos sociétés.
+- L’impact sur le grand public, en termes de protection de la vie privée et de cyber sécurité, est conséquent.
+- Le numérique occupe une place centrale dans nos quotidiens, à la fois par son caractère intime, tout autant qu’il nous expose sur les réseaux, avec notre consentement plus ou moins éclairé.
+- Chaque clic, chaque partage ou interaction peut potentiellement nous confronter à des risques invisibles mais bien réels.
+
+## [« La <b>cybersécurité</b> industrielle commence par les équipes » | Alliancy](https://www.alliancy.fr/la-cybersecurite-industrielle-commence-par-les-equipes-e76a8f66-8f0d-4d05-ac54-07e38002060e)  
+*Source : alliancy.fr | Publication : 2026-01-15*
+
+- E-mail Profil Instagram Profil LinkedIn Profil Twitter Chaîne YouTube 15 janvier 2026 Transformations numériques Technopolitique Points de vue Les faiseurs Défis Agenda Kiosque À la une Transformations numériques Technopolitique Les Faiseurs Ressources Ressources Organisations Guides & Carnets Soumettre un article Soumettre une organisation Informations À propos Nous contacter Informations légales.
+- Politiques de protections de vos données © 2026 Alliancy.
+- Tous droits réservés.
+- Propulsé par Omerlo.
+
+## [Succession de François Legault : un premier appui pour Christine Fréchette | Radio-Canada](https://ici.radio-canada.ca/nouvelle/2220951/christine-frechette-succession-legault-gilles-belanger-appui-caucus-caq)  
+*Source : ici.radio-canada.ca | Publication : 2026-01-15*
+
+- Succession de Legault : Fréchette en « réflexion », Girard « intéressé » Les ministres Bernard Drainville, Ian Lafrenière, Christopher Skeete et Jean-François Simard, le député François Bonnardel et l'homme d'affaires Olivier Primeau pourraient également être sur les rangs.
+- La ministre Christine Fréchette songe à se porter candidate à la succession de François Legault.
+- Photo : La Presse canadienne / Christinne Muschi Vingt-quatre heures après l'annonce par François Legault de son départ prochain, ceux et celles qui aspirent à le remplacer à la tête de la Coalition avenir Québec (CAQ) et du gouvernement commencent à se positionner.
+- Et la valse des appuis est lancée.
+
+## [Synacktiv lance une solution de déverrouillage des téléphones 400 fois plus rapide pour les ...](https://www.clubic.com/actualite-595354-synacktiv-lance-une-solution-de-deverrouillage-des-telephones-400-fois-plus-rapide-pour-les-enqueteurs.html)  
+*Source : clubic.com | Publication : 2026-01-15*
+
+- La société française de cybersécurité Synacktiv lance REVEL·IO, une solution de criminalistique numérique destinée aux forces de l'ordre européennes, qui pourront déverrouiller les smartphones saisis lors d'enquêtes criminelles.
+- Les enquêteurs le savent bien : un téléphone verrouillé peut potentiellement représenter des mois d'attente et laisser une enquête au point mort.
+- Pire, ce sont parfois des preuves qui s'évaporent, des complices qui disparaissent, des victimes qu'on ne retrouve pas.
+- Pour inverser la tendance, l'entreprise française de cybersécurité Synacktiv, spécialiste dans les tests d'intrusion, dévoile aujourd'hui REVEL·IO, un système qui promet de débloquer ces coffres-forts numériques bien plus rapidement que tout ce qui existe.
+
+## [La Chine interdit les logiciels de <b>cybersécurité</b> américains et israéliens - Mac4Ever](https://www.mac4ever.com/securite/194153-la-chine-interdit-les-logiciels-de-cybersecurite-americains-et-israeliens)  
+*Source : mac4ever.com | Publication : 2026-01-15*
+
+- La Chine interdit les logiciels de cybersécurité américains et israéliens Par Vincent Lautier - Publié le Les autorités chinoises viennent de frapper fort.
+- Une directive gouvernementale exige que les entreprises du pays cessent d'utiliser les solutions de sécurité informatique d'une vingtaine de sociétés américaines et israéliennes.
+- Délai de mise en conformité : premier semestre 2026.
+- Les entreprises visées ne sont pas des petits joueurs.
+
+## [Le Vietnam et Singapour coopèrent sur la <b>cybersécurité</b> et la transformation numérique](https://fr.vietnamplus.vn/le-vietnam-et-singapour-cooperent-sur-la-cybersecurite-et-la-transformation-numerique-post257528.vnp)  
+*Source : fr.vietnamplus.vn | Publication : 2026-01-15*
+
+- Hanoi (VNA) – Le ministre de la Sécurité publique, Luong Tam Quang, s’est entretenu jeudi 15 janvier avec la ministre singapourienne du Développement numérique et de l’Information, Josephine Teo, présente à Hanoi pour assister à la 6e réunion des ministres du Numérique de l’ASEAN (ADGMIN).
+- Le ministre Luong Tam Quang s’est félicité du développement de plus en plus concret, efficace et approfondi des relations bilatérales et a souligné l’engagement commun des deux pays à promouvoir l’économie numérique et à bâtir un environnement numérique sûr et fiable.
+- Dans le domaine de la cybersécurité, conformément au mémorandum d’entente sur la coopération en matière de cybersécurité, la lutte contre la cybercriminalité et la protection des données personnelles signé en 2022, les ministères vietnamien et singapourien mettent activement en œuvre les dispositions convenues.
+- Les échanges réguliers de délégations d’experts et la participation d’officiers vietnamiens aux conférences et séminaires sur la lutte contre la cybercriminalité et la criminalité de haute technologie, organisés par les forces de l’ordre singapouriennes, ont été maintenus.
+
+## [Phishing: l'armée piège 5000 soldats avant le WEF - 24 Heures](https://www.24heures.ch/phishing-larmee-piege-5000-soldats-avant-le-wef-222958495277)  
+*Source : 24heures.ch | Publication : 2026-01-15*
+
+- Exercice de cybersÃ©curitÃ© Des miliciens ont reÃ§u un SMS leur demandant de cliquer sur un lien.
+- Ceux qui lâont ouvert ont dÃ©couvert quâils venaient dâÃªtre victimes dâune attaque de phishing.
+- Des milliers de soldats de lâarmÃ©e suisse ont eu la surprise de dÃ©couvrir un Ã©trange ordre de marche sur leur tÃ©lÃ©phone.
+- EnvoyÃ© par SMS, lâÂ«ordre de mission*MOBÂ» demandait aux militaires de cliquer sur un lien pour recevoir davantage dâinformations.
+
+## [Après une baisse de son chiffre d'affaires en 2025, Ekinops veut rebondir grâce aux data ...](https://www.lejournaldesentreprises.com/article/apres-une-baisse-de-son-chiffre-daffaires-en-2025-ekinops-veut-rebondir-grace-aux-data-centers-et-2134677)  
+*Source : lejournaldesentreprises.com | Publication : 2026-01-15*
+
+- Baptême du feu inconfortable pour Lionel Chmilewsky, le directeur général d’Ekinops nommé il y a quelques jours.
+- Le fournisseur lannionnais de solutions de télécommunication et de cybersécurité pour les opérateurs de télécommunication et les entreprises a en effet présenté, lors d’une conférence de presse le 14 janvier 2026, des résultats en baisse de 11 %, avec un chiffre d’affaires 2025 de 105 millions d’euros, contre 117,7 millions d’euros en 2024.
+- Des marchés porteurs Cependant, le nouveau dirigeant s’est montré optimiste pour l’avenir.
+- "Nous avons une histoire de 22 ans, des équipes, des technologies et des références clients impressionnantes : la moitié des 30 plus gros opérateurs de télécommunications mondiaux sont nos clients, a indiqué Lionel Chmilewsky.
+
+## [PODCAST S'implanter à l'international en <b>cybersécurité</b> : retour d'expérience sans filtre du ...](https://incyber.org/article/podcast-simplanter-a-linternational-en-cybersecurite-retour-dexperience-sans-filtre-du-ceo-de-qohash/)  
+*Source : incyber.org | Publication : 2026-01-15*
+
+- PODCAST S’implanter à l’international en cybersécurité : retour d’expérience sans filtre du CEO de Qohash Articles du même auteur : 2 21.11.25 Cybersécurité Éric Singer, CISO d’Ingenico, artisan de la confiance numérique Lire 06.
+- 3 4.
+
+## [Attaques informatiques : &quot;On a des pirates dont s'est devenu le métier&quot;, explique l'expert ...](https://www.francebleu.fr/emissions/l-invite-du-matin-ici-nord/attaques-informatiques-on-a-des-pirates-dont-s-est-devenu-le-metier-explique-l-expert-nordiste-damien-bancal-6381667)  
+*Source : francebleu.fr | Publication : 2026-01-15*
+
+- Émission L'invité du matin, ICI Nord Attaques informatiques : "On a des pirates dont s'est devenu le métier", explique l'expert nordiste Damien Bancal Diffusé le Publié le Expert des questions de cybersécurité et fondateur du site zataz.com, Damien Bancal explique sur ici Nord les méthodes et les objectifs des pirates informatiques qui s'attaquent aux collectivités locales.
+- "Un pirate informatique c'est un peu bateau de pêche : il lance son filet dans cet océan qu'est Internet et tout ce qui tombera potentiellement dedans deviendra une victime", explique ce jeudi sur ici Nord Damien Bancal, expert des questions de cybersécurité, alors que plusieurs collectivités (Dunkerque, Lens et désormais la communauté d'agglomération d'Hénin-Carvin) ont été ciblées par des cyberattaques ces derniers jours dans les Hauts-de-France.
+- "On est dans une espèce de far-west" Pour expliquer comment fonctionne les pirates, le fondateur du site zataz.com utilise une autre image : "C'est un couteau suisse.
+- Ce couteau suisse, chaque lame, chaque outil est une potentialité de malveillance et d'infiltration dans un ordinateur.
+
+## [Sophia : l'ETSI pose les fondations mondiales de la <b>cybersécurité</b> de l'IA | Sophianet](https://www.sophianet.com/article/sophia-etsi-pose-fondations-mondiales-cybersecurite-ia)  
+*Source : sophianet.com | Publication : 2026-01-15*
+
+- Basé à Sophia Antipolis, l’ETSI franchit une étape majeure dans la sécurisation de l’intelligence artificielle.
+- L’organisme européen de normalisation vient de publier la norme ETSI EN 304 223, premier standard européen à portée mondiale établissant des exigences de cybersécurité dédiées aux modèles et systèmes d’IA.
+- Officiellement approuvée par les organismes nationaux de normalisation, cette norme marque un tournant dans la manière d’aborder la sécurité de technologies désormais largement déployées dans des services et infrastructures critiques.
+- ( Contrairement aux logiciels traditionnels, l’IA introduit des risques cyber inédits : empoisonnement des données d’apprentissage, manipulation des modèles, injections indirectes de prompts ou encore vulnérabilités liées à la complexité des chaînes de données.
+
+## [Le <b>ransomware</b> DeadLock utilise des contrats intelligents Polygon pour l'évasion - Binance](https://www.binance.com/fr/square/post/35123523390913)  
+*Source : binance.com | Publication : 2026-01-15*
+
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
+
+## [Pourquoi l'action Broadcom connaît-elle aujourd'hui une forte chute - TradingView](https://fr.tradingview.com/news/invezz:1bacb8685b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-01-15*
+
+- Pourquoi l’action Broadcom connaît-elle aujourd’hui une forte chute ?.
+- L’action Broadcom AVGO a chuté d’environ 5 % mercredi après que Reuters ait rapporté que les autorités chinoises auraient demandé aux entreprises nationales de cesser d’utiliser des logiciels de cybersécurité provenant d’une douzaine de fournisseurs américains et israéliens.
+- La liste inclut VMware, détenue par Broadcom, et un sentiment déjà fragile des investisseurs autour de la compression de marge.
+- Cette forte chute montre à quel point les actions de croissance restent vulnérables aux chocs géopolitiques, notamment lorsqu’ils dépendent de l’exposition à la Chine.
+
+## [Vietnam et Singapour coopèrent sur la <b>cybersécurité</b> et la transformation numérique](https://lecourrier.vn/vietnam-et-singapour-cooperent-sur-la-cybersecurite-et-la-transformation-numerique/1309538.html)  
+*Source : lecourrier.vn | Publication : 2026-01-15*
+
+- >> Vietnam et Singapour renforcent leur coopération pour le développement d’un CFI >> Un nouvel élan pour les relations Vietnam - Singapour >> Coopération Vietnam - Singapour dans le secteur des finances et de la banque Le ministre Luong Tam Quang s’est félicité du développement de plus en plus concret, efficace et approfondi des relations bilatérales et a souligné l’engagement commun des deux pays à promouvoir l’économie numérique et à bâtir un environnement numérique sûr et fiable.
+- Dans le domaine de la cybersécurité, conformément au mémorandum d’entente sur la coopération en matière de cybersécurité, la lutte contre la cybercriminalité et la protection des données personnelles signé en 2022, les ministères vietnamien et singapourien mettent activement en œuvre les dispositions convenues.
+- Les échanges réguliers de délégations d’experts et la participation d’officiers vietnamiens aux conférences et séminaires sur la lutte contre la cybercriminalité et la criminalité de haute technologie, organisés par les forces de l’ordre singapouriennes, ont été maintenus.
+- Les deux parties ont également signé un mémorandum d’entente sur la transformation numérique, facilitant le partage d’expériences par le biais d’échanges d’experts, de programmes de formation et d’une coopération pour le développement de solutions technologiques d’intérêt général, adaptées aux conditions et aux besoins spécifiques de chaque pays.
+
+## [Nouveautés RGPD 2026 : comment adapter sa conformité dès maintenant ?](https://solutions.lesechos.fr/juridique/loi-conformite/nouveautes-rgpd-2026-comment-adapter-sa-conformite-des-maintenant/)  
+*Source : solutions.lesechos.fr | Publication : 2026-01-15*
+
+- Nouveautés RGPD 2026 : comment adapter sa conformité dès maintenant ?.
+- En 2026, le RGPD entre dans une nouvelle phase où les textes ne se contentent plus d’énoncer des principes.
+- Les autorités exigent désormais des preuves concrètes et continues de conformité.
+- Entre renforcement des contrôles, durcissement des attentes en matière de sécurité et clarification des règles autour des cookies, de l’IA et de la gestion des données, les entreprises doivent revoir leurs pratiques pour rester dans les clous.
+
+## [Sécurité des navigateurs : CrowdStrike muscle sa plateforme Falcon en rachetant Seraphic](https://www.usine-digitale.fr/cybersecurite/securite-des-navigateurs-crowdstrike-muscle-sa-plateforme-falcon-en-rachetant-seraphic.FV5ZWAYKNVEQFME3DJQHPPX2YU.html)  
+*Source : usine-digitale.fr | Publication : 2026-01-15*
+
+- Quelques jours après avoir annoncé l’acquisition de SGNL, une start-up spécialisée dans les identités, CrowdStrike annonce le 13 janvier le rachat de Seraphic pour un montant non communiqué.
+- Cette jeune pousse d’origine israélienne, également basée à Palo Alto aux Etats-Unis, est spécialisée dans la sécurisation des sessions de navigation web en temps réel.
+- Pas de navigateur spécifique Elle a développé une technologie qui s’insère directement dans l’exécution du navigateur pour analyser et contrôler les actions des utilisateurs pendant qu’ils naviguent.
+- Sa particularité : elle n’impose pas de navigateur spécifique, n’a pas besoin de tunnel réseau (VPN) et n’installe pas d’agent lourd sur la machine.
+
+## [<b>Cybersécurité</b>: la société gantoise Aikido valorisée à un milliard de dollars - Data News](https://datanews.levif.be/actualite/entreprises/start-ups/cybersecurite-la-societe-gantoise-aikido-valorise-a-un-milliard-de-dollars/)  
+*Source : datanews.levif.be | Publication : 2026-01-15*
+
+- La société gantoise Aikido a annoncé mercredi avoir réalisé une levée de fonds de 60 millions d’euros.
+- Ce tour de table valorise la start-up à plus d’un milliard de dollars ce qui en fait désormais une ‘licorne’ c’est-à-dire une jeune société innovante non cotée en Bourse dont la valorisation dépasse le seuil symbolique du milliard de dollars.
+- Aikido s’affiche ainsi comme l’une des entreprises du secteur de la cybersécurité à la croissance la plus fulgurante.
+- La start-up gantoise a mis au point une plateforme qui aide les développeurs à sécuriser leurs applications et programmes informatiques.
+
+## [Un cybercriminel roumain jugé à Paris après avoir été pris en flagrant délit d'attaque au rançongiciel](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/un-cybercriminel-roumain-juge-a-paris-apres-avoir-ete-pris-en-flagrant-delit-d-attaque-au-rancongiciel-3244010)  
+*Source : radiofrance.fr | Publication : 2026-01-15*
+
+- Alexandru n'a pas eu le temps d'éteindre l'ordinateur de sa mère, Valentina, et de tout supprimer quand les policiers roumains sont intervenus dans la villa familiale de la rue Scolli, à Bucarest.
+- Sur l'écran, trois mails de victimes françaises implorant de récupérer leurs données volées.
+- Et dans les fichiers du jeune homme de 24 ans, tous les identifiants et les mots de passe de bien d'autres victimes européennes :1062 fichiers recensés au total.
+- Un flagrant délit rarissime Alexandru et son principal complice Tomas, transféré et jugé, lui aussi, à Paris jeudi, sont accusés d'avoir bloqué les serveurs puis raquettés plus de 70 entreprises avec leur rançongiciel "Umbrella".
+
+## [CrowdStrike, Palo Alto ou encore Fortinet : la Chine bannit plusieurs gros éditeurs de <b>cybersécurité</b>](https://www.clubic.com/actualite-595339-crowdstrike-palo-alto-ou-encore-fortinet-la-chine-bannit-plusieurs-gros-editeurs-de-cybersecurite.html)  
+*Source : clubic.com | Publication : 2026-01-15*
+
+- Pékin vient de bannir plus de douze éditeurs de cybersécurité américains et israéliens de son territoire.
+- Un séisme pour les géants du secteur, révélateur d'une stratégie industrielle chinoise mûrement réfléchie.
+- Les autorités chinoises ont frappé très fort en décidant de blacklister une douzaine d'éditeurs de solutions de sécurité informatique américains et israéliens.
+- CrowdStrike, Fortinet, Check Point et VMware sont parmi les entreprises concernées.
+
+## [Un réseau discret derrière des milliers d'arnaques vient d'être démantelé grâce à Microsoft](https://siecledigital.fr/2026/01/15/redvds-linfrastructure-de-cyberfraude-mise-hors-ligne-par-microsoft/)  
+*Source : siecledigital.fr | Publication : 2026-01-15*
+
+- Depuis plusieurs mois, RedVDS opérait loin des radars du grand public, tout en jouant un rôle de premier plan dans des campagnes de cyberfraude à grande échelle.
+- Ce service d’hébergement à bas coût, proposé par abonnement, vient d’être stoppé à la suite d’une offensive judiciaire et policière coordonnée menée par la Digital Crimes Unit de Microsoft, avec le soutien des autorités européennes et d’Europol.
+- 📩 L’actu digitale évolue vite.
+- Restez à jour.
 
 ## [Les 5 meilleures actions de <b>cybersécurité</b> selon Piper Sandler pour 2026 - Investing.com](https://fr.investing.com/news/stock-market-news/les-5-meilleures-actions-de-cybersecurite-selon-piper-sandler-pour-2026-93CH-3221852)  
 *Source : fr.investing.com | Publication : 2026-01-14*
