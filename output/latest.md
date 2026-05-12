@@ -1,144 +1,147 @@
-# Résumés – 2026-05-11
+# Résumés – 2026-05-12
 
 
-## [Arkéa Asset Management réaffirme son engagement en faveur de la souveraineté européenne](https://zoominvest.fr/actualites/arkea-asset-management-reaffirme-son-engagement-en-faveur-de-la-souverainete-eur/rh8y50neqyjb7x2llgbia4mw)  
-*Source : zoominvest.fr | Publication : 2026-05-11*
+## [<b>Cybersécurité</b> : des menaces plus intenses - 12/05 - BFM](https://www.bfmtv.com/economie/replay-emissions/01-business/video-cybersecurite-des-menaces-plus-intenses-12-05_VN-202605120947.html)  
+*Source : bfmtv.com | Publication : 2026-05-12*
 
-- Actions 1Obligations 1Flexibles 1Perf.
-- absolue 1L'essentiel de l'actualité patrimoniale et financière pour les CIF, chaque matin dans votre boîte mail.
-- En Europe, la souveraineté s'impose comme une priorité : l'Union Européenne cherche à renforcer son autonomie dans des secteurs clés tels que la défense, l'énergie, la santé, l'alimentation, la cybersécurité et les infrastructures, y compris numériques.
-- En Europe, la souveraineté s'impose comme une priorité : l'Union Européenne cherche à renforcer son autonomie dans des secteurs clés tels que la défense, l'énergie, la santé, l'alimentation, la cybersécurité et les infrastructures, y compris numériques.
+- Cybersécurité : des menaces plus intenses - 12/05 Ce mardi 12 mai, Michel Juvin, ecosystem advisor chez Alliancy ; Pascal Le Digol, directeur France de WatchGuard Technologies ; Gerôme Billois, associé en Cybersécurité et Confiance numérique chez Wavestone, et Benoit Grunemwald, expert en cybersécurité chez ESET France, se sont penchés sur le piratage de l'ANTS par un jeune hacker de 15 ans surnommé breach3d, la militarisation de l'éducation en Russie, l'apparition de nouvelles formes d'hameçonnage, et le chiffrement post quantique, dans l'émission Tech&Co Business présentée par Frédéric Simottel.
+- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.
+- | Durée : 26:29.
 
-## [Les collaborateurs des entreprises constituent le principal risque en matière de <b>cybersécurité</b>](https://itrnews.com/articles/209739/les-collaborateurs-des-entreprises-constituent-le-principal-risque-en-matiere-de-cybersecurite.html)  
-*Source : itrnews.com | Publication : 2026-05-11*
+## [Pour 82% des entreprises, l'IA rend les cyberattaques plus sophistiquées mais elle devient ...](https://www.usine-digitale.fr/cybersecurite/pour-82-des-entreprises-lia-rend-les-cyberattaques-plus-sophistiquees-mais-elle-devient-aussi-leur-meilleure-arme-de-defense.DSD7ZTLPCBDIRICFUSMVY7P5JQ.html)  
+*Source : usine-digitale.fr | Publication : 2026-05-12*
 
-- Veuillez activer Javascript.
+- Or, le vrai défi reste culturel, soit d'intégrer la cybersécurité dans l'ADN de chaque organisation.
+- Thibault Caudron.
+- Publié le 12 mai 2026 à 11h30.
 
-## [Les collaborateurs des entreprises constituent le principal risque en matière de <b>cybersécurité</b>](https://itchannel.info/articles/209739/les-collaborateurs-des-entreprises-constituent-le-principal-risque-en-matiere-de-cybersecurite.html)  
-*Source : itchannel.info | Publication : 2026-05-11*
-
-- Veuillez activer Javascript.
-
-## [Transmettre les bon réflexes cyber aux jeunes - YouTube](https://www.youtube.com/watch?v=q2apAC1ZZ6k)  
-*Source : youtube.com | Publication : 2026-05-11*
+## [Craintes d'espionnage de PSPP : une théorie « farfelue », juge un expert | Zone Info](https://www.youtube.com/watch?v=3JHy8O9ydlw)  
+*Source : youtube.com | Publication : 2026-05-12*
 
 - About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [<b>Cybersécurité</b> : comment Zendata utilise les agents IA pour automatiser son déploiement aux Émirats](https://itrnews.com/articles/209734/cybersecurite-comment-zendata-utilise-les-agents-ia-pour-automatiser-son-deploiement-aux-emirats.html)  
-*Source : itrnews.com | Publication : 2026-05-11*
+## [Craintes d'espionnage de PSPP : une théorie « farfelue », juge un expert | Zone info](https://ici.radio-canada.ca/rdi/zone-info/site/videos/10664575/craintes-espionnage-pspp-une-theorie-farfelue-juge-un-expert)  
+*Source : ici.radio-canada.ca | Publication : 2026-05-12*
 
-- Veuillez activer Javascript.
+- Craintes d’espionnage de PSPP : une théorie « farfelue », juge un expert Craintes d’espionnage de PSPP : une théorie « farfelue », juge un expert Le chef péquiste Paul St-Pierre Plamondon dit craindre que son parti soit espionné par le gouvernement fédéral, arguant qu’Ottawa a déjà agi de la sorte, notamment à la suite de la crise d’Octobre 1970.
+- Depuis, la Gendarmerie royale du Canada s’est vu retirer le droit de mener des activités d’espionnage électronique sans mandat judiciaire.
+- Entrevue avec Steve Waterhouse, spécialiste en cybersécurité.
+- Extraits Craintes d’espionnage de PSPP : une théorie « farfelue », juge un … « Je ne suis pas rendu » à démissionner, dit Steven Guilbeault Diane Bibaud, l’organiste qui fait vibrer les partisans du CH … Redécoupage électoral : une ingérence « regrettable » de Québec, … « Deux langues officielles » : Roberge qualifie Milliard de « … En vedette Craintes d’espionnage de PSPP : une théorie « farfelue », juge un … « Je ne suis pas rendu » à démissionner, dit Steven Guilbeault Diane Bibaud, l’organiste qui fait vibrer les partisans du CH … Redécoupage électoral : une ingérence « regrettable » de Québec, … « Deux langues officielles » : Roberge qualifie Milliard de « ….
 
-## [MARSEILLE : <b>Cybersécurité</b> - Mailinblack nomme Vanessa DAHAN pour piloter sa stratégie ...](https://presseagence.fr/marseille-cybersecurite-mailinblack-nomme-vanessa-dahan-pour-piloter-sa-strategie-de-distribution/)  
-*Source : presseagence.fr | Publication : 2026-05-11*
+## [Hantavirus : «En quelques jours, les patients peuvent passer de &quot;je suis fatigué&quot; à &quot;je suis ...](https://www.cnews.fr/videos/france/2026-05-12/en-quelques-jours-les-patients-peuvent-passer-de-je-suis-fatigue-je-suis)  
+*Source : cnews.fr | Publication : 2026-05-12*
 
-- MARSEILLE : Cybersécurité – Mailinblack nomme Vanessa… Partager : MARSEILLE : Cybersécurité – Mailinblack nomme Vanessa DAHAN pour piloter sa stratégie de distribution L’éditeur marseillais Mailinblack recrute Vanessa Dahan, ex-TD Synnex, pour renforcer sa stratégie de vente indirecte et sa croissance.
-- L’éditeur français de cybersécurité souveraine Mailinblack annonce la nomination de Vanessa Dahan, 44 ans, au poste de Distribution Business Manager.
-- Son arrivée, effective depuis décembre dernier, vient consolider la stratégie de vente par réseau de partenaires (« channel ») que l’entreprise marseillaise développe activement depuis deux ans.
-- Cette décision stratégique vise à accélérer la diffusion de ses solutions de sécurité sur le marché.
+- «En quelques jours, les patients peuvent passer de "je suis fatigué" à "je suis en réanimation" intubés et ventilés», a expliqué ce mardi Xavier Lescure, infectiologue à l’hôpital Bichat - Claude-Bernard dans le 18e arrondissement de Paris, lors d'une conférence de presse sur l'hantavirus.
+- Hantavirus : «En quelques jours, les patients peuvent passer de "je suis fatigué" à "je suis en réanimation"», assure cet infectiologue Par.
+- Publié le - Mis à jour le.
 
-## [Cloudflare supprime 1 100 postes et assume le virage de l'IA agentique](https://www.solutions-numeriques.com/cloudflare-supprime-1-100-postes-et-assume-le-virage-de-lia-agentique/)  
-*Source : solutions-numeriques.com | Publication : 2026-05-11*
+## [Streaming, voyage, <b>cybersécurité</b> : NordVPN à moins de 3€/mois, n'attendez plus pour en profiter](https://www.laprovence.com/article/guide-shopping/37130170097008/streaming-voyage-cybersecurite-nordvpn-a-moins-de-3e-mois-nattendez-plus-pour-en-profiter)  
+*Source : laprovence.com | Publication : 2026-05-12*
 
-- Cloudflare va réduire ses effectifs de plus de 1 100 personnes dans le monde.
-- L’entreprise assure que cette décision n’est pas une mesure d’économie, mais la conséquence directe de l’adoption massive de l’IA dans son fonctionnement interne.
-- Cloudflare réduit ses effectifs de 20 % Cloudflare engage la première réduction massive d’effectifs de son histoire.
-- L’entreprise américaine, spécialisée dans la sécurité, la performance web et les services cloud, a annoncé la suppression de plus de 1 100 postes dans le monde, soit environ 20 % de ses effectifs.
+- Streaming, voyage, cybersécurité : NordVPN à moins de 3€/mois, n'attendez plus pour en profiter L’option Dark Web Monitor de NordVPN vous alerte si vos données circulent sur le dark web Interne NordVPN casse ses prix avec jusqu’à 76 % de réduction sur ses abonnements longue durée.
+- Une offre limitée proposée par NordVPN qui permet de sécuriser vos connexions et protéger vos données au quotidien, dès 2,99 euros par mois.
+- À retenir sur l’offre NordVPN : Prix dès 2,99 euros par mois avec jusqu’à 76 % de réduction - Abonnements 24 mois avec garantie satisfait ou remboursé 30 jours - Protection complète : VPN, anti-menaces, gestionnaire de mots de passe - Un VPN complet pour protéger votre vie numérique NordVPN s’impose comme l’un des services VPN les plus populaires du moment.
+- Avec plus de 8 900 serveurs répartis dans 129 pays, il permet de sécuriser votre connexion en quelques secondes.
 
-## [CPF plafonné : ces formations que votre entreprise paie déjà et que vous ignorez - Capital](https://www.capital.fr/votre-carriere/cpf-plafonne-ces-formations-que-votre-entreprise-paie-deja-et-que-vous-ignorez-1526412)  
-*Source : capital.fr | Publication : 2026-05-11*
+## [<b>Cybercriminalité</b> : L'IA devient une arme industrielle selon Google - Journal du Coin](https://journalducoin.com/analyses/cybercriminalite-ia-arme-industrielle-google/)  
+*Source : journalducoin.com | Publication : 2026-05-12*
 
-- Le marché de la formation professionnelle a basculé en 2026.
-- Avec un ticket modérateur porté à 150€ sur chaque dossier CPF et un plafonnement à 1 500 euros sur la plupart des certifications, les actifs mobilisent désormais des budgets plus modestes pour leur montée en compétences.
-- Chez Lingueo, organisme de référence en formation linguistique, le panier moyen par dossier est passé de 2000 euros à 1 300 euros depuis la réforme.
-- Ce n’est pas la demande qui faiblit, c’est le financement individuel qui se contracte.
+- Cybercriminalité : L’IA devient une arme industrielle selon Google The dark side of IA.
+- Le rapport de mai 2026 du Google Threat Intelligence Group (GTIG) met en lumière une transition structurelle dans l’usage de l’intelligence artificielle par les acteurs malveillants.
+- Les observations techniques révèlent que l’IA ne sert plus seulement d’outil d’expérimentation, mais devient un moteur d’industrialisation pour les opérations de cyberattaques.
+- Cette évolution se manifeste par une intégration des modèles de langage à grande échelle dans les processus de découverte de vulnérabilités et de développement de logiciels malveillants.
 
-## [La <b>cybersécurité</b> offensive, un moyen de répondre à la « menace Mythos » ? | LeMagIT](https://www.lemagit.fr/actualites/366642686/La-cybersecurite-offensive-un-moyen-de-repondre-a-la-menace-Mythos)  
-*Source : lemagit.fr | Publication : 2026-05-11*
+## [<b>Ransomware</b> : dans les coulisses de TheGentlemen - LeMagIT](https://www.lemagit.fr/actualites/366642921/Ransomware-dans-les-coulisses-de-TheGentlemen)  
+*Source : lemagit.fr | Publication : 2026-05-12*
 
-- Jose Ignacio Soto - stock.adobe.
-- La cybersécurité offensive, un moyen de répondre à la « menace Mythos » ?.
-- Les IA génératives peuvent représenter un vrai danger pour la sécurité des organisations.
-- La recherche de vulnérabilités entre dans une nouvelle dimension et l’agentique va permettre aux attaquants d’aller beaucoup plus vite.
+- Ransomware : dans les coulisses de TheGentlemen L'enseigne, qui figure parmi les plus actives du moment, vient d'être victime d'une brèche de données.
+- Hélas limitée, celle-ci n'en recèle pas moins de précieux enseignements.
+- La relativement jeune enseigne de rançongiciel TheGentlemen vient à son tour de subir une brèche de données : environ 50 Mo non compressés d'échanges internes à la franchise, depuis début novembre 2025.
+- La fuite de données est de toute évidence, très partielle, comme les intéressés l'ont eux-mêmes évoqué.
 
-## [L'UE indique qu'OpenAI propose de rendre accessible son modèle de <b>cybersécurité</b>, tandis ...](https://www.boursorama.com/actualite-economique/actualites-amp/l-ue-indique-qu-openai-propose-de-rendre-accessible-son-modele-de-cybersecurite-tandis-qu-anthropic-n-en-est-pas-encore-la-26afea767c1ddd3a138a0629e5cb8eb3)  
-*Source : boursorama.com | Publication : 2026-05-11*
+## [Lecornu débranche l'Anssi, accusée de ne pas avoir sécurisé des sites sensibles de l'Etat](https://www.lecanardenchaine.fr/technologie-sciences/53846-lecornu-debranche-l-anssi-accusee-de-ne-pas-avoir-securise-des-sites-sensibles-de-l-etat)  
+*Source : lecanardenchaine.fr | Publication : 2026-05-12*
 
-- L'UE indique qu'OpenAI propose de rendre accessible son modèle de cybersécurité, tandis qu'Anthropic n'en est pas encore là information fournie par Reuters 11/05/2026 à 19:27 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Ajout de l'offre d'OpenAI visant à donner accès à ses modèles de cybersécurité au paragraphe 1, ainsi que des commentaires supplémentaires d'OpenAI aux paragraphes 4 et 5) La Commission européenne a salué lundi l'offre du géant américain de l'intelligence artificielle OpenAI visant à fournir un accès libre à ses fonctionnalités de cybersécurité, mais a indiqué que son concurrent Anthropic n'était pas encore allé aussi loin.
-- Alors que la Commission a reçu l'offre d'OpenAI, elle a tenu quatre ou cinq réunions avec Anthropic, bien qu'aucune discussion sur un éventuel accès à ses modèles d'IA n'ait eu lieu jusqu'à présent, a déclaré le porte-parole Thomas Regnier lors d'un point presse quotidien.
-- “D'un côté (OpenAI), nous avons une entreprise qui propose de manière proactive de donner accès à ses ressources.
-- De l'autre (Anthropic), nous avons de bons échanges, mais nous n'en sommes pas encore au stade où nous pouvons spéculer sur un éventuel accès ou non”, a-t-il déclaré.
+- L'Agence nationale de la sécurité des systèmes d'information est dans le viseur de Matignon après la vague de cyberattaques et les fuites de données qui ont frappé des sites sensibles de l'Etat.
+- En cause : des contrôles défaillants et un statut bâtard qui plombent l'efficacité de l'organisme.
+- Trois vols en moyenne par jour !.
+- Les fuites de données s’accentuent, et le plombier Lecornu a un bouc émissaire dans les tuyaux.
 
-## [OpenAI propose à l'UE un accès à ses outils de <b>cybersécurité</b> Par Investing.com](https://fr.investing.com/news/stock-market-news/openai-propose-a-lue-un-acces-a-ses-outils-de-cybersecurite-93CH-3409824)  
-*Source : fr.investing.com | Publication : 2026-05-11*
+## [GPT-5.5-Cyber : OpenAI limite son IA de <b>cybersécurité</b> - Geekinfos](https://www.geekinfos.fr/2026/05/12/gpt-55-cyber-openai/)  
+*Source : geekinfos.fr | Publication : 2026-05-12*
 
-- Investing.com -- OpenAI a proposé à la Commission européenne un accès libre à ses fonctionnalités de cybersécurité , tandis que son concurrent.
+- GPT-5.5-Cyber : OpenAI limite son IA de cybersécurité GPT-5.5-Cyber arrive avec un message clair : l’IA dédiée à la cybersécurité devient trop sensible pour une diffusion classique.
+- Le modèle doit d’abord être proposé à des cyberdéfenseurs qualifiés, plutôt qu’au grand public.
+- Pour les lecteurs techniques, l’enjeu dépasse le nom du modèle : il touche l’audit de code, les tests d’intrusion, la réponse aux failles et la gestion du risque.
+- À retenir GPT-5.5-Cyber vise d’abord des acteurs vérifiés de la cyberdéfense.
 
-## [L'Europe alerte : Les <b>cybermenaces</b> explosent avec l'essor de l'IA - 20 Minutes](https://www.20minutes.fr/high-tech/4223027-20260511-europe-alerte-cybermenaces-explosent-essor-ia)  
-*Source : 20minutes.fr | Publication : 2026-05-11*
+## [Le Pentagone déploie Mythos d'Anthropic pour combler ses failles de <b>cybersécurité</b> tout en ...](https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N41P2KN:0/)  
+*Source : fr.tradingview.com | Publication : 2026-05-12*
 
-- L’Europe alerte : Les cybermenaces explosent avec l’essor de l’IA INTELLIGENCE ARTIFICIELLE•L’Union européenne met en garde contre une hausse spectaculaire des cybermenaces liée à l’essor de l’intelligence artificielle.
-- Des attaques plus rapides et plus difficiles à détecter inquiètent les experts en cybersécurité20 Minutes avec agences L'essentiel L’ESMA alerte sur l’explosion des cybermenaces liées à l’essor de l’intelligence artificielle ces dernières années.
-- - Selon les experts, l’IA pourrait rendre les attaques informatiques plus rapides, plus crédibles et encore plus difficiles à repérer qu’auparavant.
-- - Face à ces nouveaux risques, l’Union européenne vise donc à renforcer la surveillance des grandes entreprises technologiques jugées critiques pour le secteur financier.
+- Le Pentagone déploie Mythos d'Anthropic pour combler ses failles de cybersécurité tout en prévoyant de se séparer de l'entreprise Refinitiv2 min de lecture © Copyright Thomson Reuters 2026.
+- Click For Restrictions - https://agency.reuters.com/en/copyright.html Connectez-vous ou créez un compte gratuit à vie pour lire ces nouvelles.
 
-## [La France insoumise : des dizaines de milliers d'adhérents victimes d'une fuite de données](https://www.liberation.fr/politique/la-france-insoumise-des-dizaines-de-milliers-dadherents-victimes-dune-fuite-de-donnees-20260511_HX4X5XUB4FFADKS6WRKSVYYY4Y/)  
-*Source : liberation.fr | Publication : 2026-05-11*
+## [Expert en <b>cybersécurité</b>, SaxX livre ses astuces simples à mettre en place pour se protéger ...](https://www.cnews.fr/vie-numerique/2026-05-12/expert-en-cybersecurite-saxx-livre-ses-astuces-simples-mettre-en-place)  
+*Source : cnews.fr | Publication : 2026-05-12*
 
-- Cybersécurité La France insoumise (LFI).
-- Dans la même rubrique.
-- Le billet de Jonathan Bouchet-Petersen · Le pouvoir de nomination du Président.
+- Communiquer de fausses informations sur soi pour se prémunir des escroqueries sur internet, c’est la technique, préconisée par des hackers éthiques, qui bouscule les idées reçues sur la protection des données personnelles.
+- Le constat est alarmant.
+- À l'heure où les cyberattaques explosent, repenser sa présence numérique devient une nécessité.
+- Selon Cybermalveillance.gouv.fr, le phishing a bondi de 70 % en 2025, et la fraude au faux conseiller bancaire a progressé de près de 160 % sur la même période.
 
-## [Cyberhebdo du 8 mai 2026 : une cyberattaque affecte de nombreux établissements scolaires](https://www.lemagit.fr/actualites/366643004/Cyberhebdo-du-8-mai-2026-une-cyberattaque-affecte-de-nombreux-etablissements-scolaires)  
-*Source : lemagit.fr | Publication : 2026-05-11*
+## [Cyberhebdo : l'IA générative avance, nous aussi - LeMagIT](https://www.lemagit.fr/actualites/366643014/Cyberhebdo-lIA-generative-avance-nous-aussi)  
+*Source : lemagit.fr | Publication : 2026-05-12*
 
-- Cyberhebdo du 8 mai 2026 : une cyberattaque affecte de nombreux établissements scolaires Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
-- Chaque semaine, notre rédaction parcourt la presse internationale pour recenser et analyser les cyberattaques rapportées par les médias à travers le monde.
-- Au cours de la semaine écoulée, nous avons pu identifier 8 cyberattaques relayées dans la presse, témoignant une nouvelle fois de l'intensité et de la diversité géographique de la menace cyber à l'échelle mondiale.
-- Ces incidents ont été rapportés dans pas moins de 6 pays différents : Taiwan (TWN), l'Espagne (ESP), les États-Unis (USA), l'Australie (AUS), l'Allemagne (DEU) et la France (FRA).
+- ipopba - stock.adobe.com Cyberhebdo : l'IA générative avance, nous aussi Il y a tout juste trois ans, nous lancions notre revue de presse internationale hebdomadaire sur les cyberattaques.
+- avec l'aide de ChatGPT.
+- Nous venons d'améliorer le processus... en abandonnant la GenAI en mode Cloud au profit de son exécution en local.
+- Depuis septembre 2020, LeMagIT propose tous les mois à ses lecteurs un véritable bulletin météo ransomware.
 
-## [<b>Cybersécurité</b> et données : des enjeux cruciaux de la gestion d'une association - Carenews](https://www.carenews.com/salesforce-org/news/cybersecurite-et-donnees-des-enjeux-cruciaux-de-la-gestion-d-une-association)  
-*Source : carenews.com | Publication : 2026-05-11*
+## [Le Pentagone déploie Mythos d'Anthropic pour combler ses failles de <b>cybersécurité</b> tout en ...](https://www.boursorama.com/bourse/actualites/le-pentagone-deploie-mythos-d-anthropic-pour-combler-ses-failles-de-cybersecurite-tout-en-prevoyant-de-se-separer-de-l-entreprise-967a764b9a34c49e8086446e8554cf3c)  
+*Source : boursorama.com | Publication : 2026-05-12*
 
-- Cybersécurité et données : des enjeux cruciaux de la gestion d’une association Le dernier rapport « Non-profit Pulse » de Salesforce est formel : les associations européennes n’ont pas assez d’outils en place pour assurer une gestion sécurisée des données.
-- Pourtant, le dernier rapport « Non-profit Pulse » montre que les organisations européennes accusent encore un retard dans le respect des exigences relatives à la gestion sécurisée des données de leurs parties prenantes.
-- Le rapport de cette année a été réalisé par Salesforce en partenariat avec l’European Fundraising Association (EFA) et le Chartered Institute of Fundraising (CIOF) du Royaume-Uni.
-- Les données sont composées des réponses de 751 organisations à but non lucratif réparties dans quatre pays européens : le Royaume-Uni (300), la France (183), l’Allemagne (194) et les Pays-Bas (74).
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Ajoute des citations d'un responsable du ministère de la Défense ainsi que des informations contextuelles sur le différend opposant Anthropic au gouvernement américain) par Mike Stone Le Pentagone déploie le modèle de cybersécurité Mythos d'Anthropic pour détecter et corriger les vulnérabilités logicielles au sein du gouvernement américain, alors même qu'il s'efforce de mener à bien sa transition pour se passer de cette entreprise spécialisée dans l'IA, a déclaré mardi le responsable technologique en chef du département de la Défense.
+- Annoncé le 7 avril, Mythos est déployé dans le cadre du « Project Glasswing » d'Anthropic, une initiative contrôlée dans le cadre de laquelle certaines organisations sont autorisées à utiliser le modèle Claude Mythos préversion, qui n'a pas encore été commercialisé, à des fins de cybersécurité défensive.
+- Selon Anthropic, Mythos est capable de détecter des vulnérabilités vieilles de plusieurs décennies dans les navigateurs web, les infrastructures et les logiciels.
+- Emil Michael, directeur technique du département de la Défense et sous-secrétaire à la recherche et à l'ingénierie, a déclaré que le Pentagone continuait à mettre en œuvre son plan visant à retirer les produits d'Anthropic de ses travaux dans les mois à venir.
 
-## [Nouvelle cyberattaque sur Windows et Linux : ce logiciel gratuit, utilisé par des millions d ...](https://www.01net.com/actualites/nouvelle-cyberattaque-sur-windows-et-linux-ce-logiciel-gratuit-utilise-par-des-millions-dutilisateurs-a-ete-piege.html)  
-*Source : 01net.com | Publication : 2026-05-11*
+## [Mobilité électrique : pallier les risques via une <b>cybersécurité</b> multicouche - L'Argus](https://www.largus.fr/pros/actualite-automobile/mobilite-electrique-pallier-les-risques-via-une-cybersecurite-multicouche-30046621.html)  
+*Source : largus.fr | Publication : 2026-05-12*
 
-- Entre le 6 et le 7 mai 2026, le site officiel de JDownloader, l’un des gestionnaires de téléchargements les plus populaires au monde, a été compromis.
-- Gratuit et open source, le logiciel permet aux internautes d’automatiser leurs téléchargements depuis des hébergeurs de fichiers, des sites vidéo ou des générateurs de liens premium.
-- Depuis plus de dix ans, il est utilisé par des millions de personnes.
-- À lire aussi : Ces 28 applications ont piégé des millions d’utilisateurs sur le Play Store Des fichiers d’installation qui cachent un virus Des attaquants ont en effet réussi à s’introduire dans le système de gestion de contenu (CMS) du site officiel jdownloader.org.
+- Vulnérabilités physiques et logicielles des bornes de recharge · Risque de vol de données · Renforcer la cybersécurité des infrastructures · Éviter la.
 
-## [SantExpo : le rendez-vous pour prendre le pouls du secteur de la santé - Big Media](https://bigmedia.bpifrance.fr/nos-actualites/santexpo-le-rendez-vous-pour-prendre-le-pouls-du-secteur-de-la-sante)  
-*Source : bigmedia.bpifrance.fr | Publication : 2026-05-11*
+## [Comment l'IA est en train de forcer les verrous de la <b>cybersécurité</b> - MacGeneration](https://www.macg.co/intelligence-artificielle/2026/05/comment-lia-est-en-train-de-forcer-les-verrous-de-la-cybersecurite-308553)  
+*Source : macg.co | Publication : 2026-05-12*
 
-- Didier Véron [G5 Santé] : « La France a tout pour devenir leader européen du médicament » Le 23/04/2026 5 min Mercredi 8 avril, le président du G5 Santé s’est exprimé sur la souveraineté sanitaire française et européenne.
-- Dans un contexte géopolitique tendu, son diagnostic soulève autant de difficultés systémiques pour la filière, que d’opportunités pour les années à venir.
+- Le monde de la cybersécurité semble lui aussi entrer dans une phase de profond bouleversement avec l’IA.
+- Et Anthropic aimerait faire de Mythos, son nouveau modèle spécialisé dans la détection de failles de sécurité, le symbole de ce tournant.
+- Cette technologie est tellement puissante qu’elle pourrait devenir dangereuse entre de mauvaises mains, affirme l’entreprise.
+- Simple marketing de la peur pour mieux vendre ses services aux grosses entreprises ou vrai changement de paradigme ?.
 
-## [OpenAI offre à l'Union européenne un accès à son IA la plus avancée - POLITICO](https://www.politico.eu/article/openai-offre-a-lunion-europeenne-un-acces-a-son-ia-la-plus-avancee/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)  
-*Source : politico.eu | Publication : 2026-05-11*
+## [L'École polytechnique et Accenture nouent un partenariat stratégique en intelligence ...](https://www.polytechnique.edu/actualites/lecole-polytechnique-et-accenture-nouent-un-partenariat-strategique-en-intelligence-artificielle-et)  
+*Source : polytechnique.edu | Publication : 2026-05-12*
 
-- BRUXELLES — OpenAI, l'entreprise derrière ChatGPT, est en pourparlers avec la Commission européenne pour lui permettre d’accéder à son modèle le plus avancé sur le plan cyber.
-- Celui-ci est capable d’identifier des failles logicielles.
-- Cette initiative inattendue est une aubaine pour l'Union européenne, qui peine depuis des semaines à cerner les risques liés à la cybersécurité posés par les nouveaux modèles d’IA.
-- Mais c’est aussi un revers pour Anthropic, concurrent d’OpenAI, qui n’a pas encore autorisé l’UE à accéder à son modèle Mythos, spécialisé dans la cybersécurité.
+- Accueil - Actualités - L’École Polytechnique et Accenture Nouent un Partenariat Stratégique En Intelligence Artificielle et Cybersécurité - L’École polytechnique et Accenture nouent un partenariat stratégique en intelligence artificielle et cybersécurité Ce mercredi 6 mai, la directrice-générale de l’Ecole polytechnique Laura Chaubard et le président d’Accenture France Olivier Girard ont signé un nouveau partenariat stratégique entre les deux entités, soutenu par la Fondation de l’Ecole polytechnique, unissant ainsi leurs forces pour promouvoir des technologies responsables et sûres face aux enjeux numériques de demain.
+- Une ambition commune face aux enjeux technologiques et sociétaux Dans un contexte marqué par l’accélération des transformations numériques et la montée des risques cyber, les deux partenaires souhaitent conjuguer leurs expertises pour promouvoir des technologies responsables, sûres et au service des transitions économiques, industrielles et environnementales.
+- Ce partenariat s’inscrit pleinement dans les priorités de l’École polytechnique, qui vise à renforcer son rôle de leader académique sur les enjeux de souveraineté numérique et de technologies de confiance.
+- Trois axes structurants pour une collaboration d’ampleur Le partenariat repose sur trois piliers complémentaires, qui feront chacun l’objet d’accords dédiés : Une Chaire d’enseignement et de recherche portée notamment par Grégory Corcos, chercheur au Centre de recherche en économie et statistique (CREST) de l’X.
 
-## [Cyberespionnage: une vaste opération chinoise infiltre ministères, gouvernements et ... - BFM](https://www.bfmtv.com/tech/cybersecurite/cyberespionnage-une-vaste-operation-chinoise-infiltre-ministeres-gouvernements-et-reseaux-sensibles-sur-plusieurs-continents-de-l-asie-a-l-europe-en-passant-par-l-amerique_AN-202605110615.html)  
-*Source : bfmtv.com | Publication : 2026-05-11*
+## [Le Pentagone déploie Mythos d'Anthropic pour combler ses failles de <b>cybersécurité</b> tout en ...](https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N41P2DN:0/)  
+*Source : fr.tradingview.com | Publication : 2026-05-12*
 
-- Cyberespionnage: une vaste opération chinoise infiltre ministères, gouvernements et réseaux sensibles sur plusieurs continents, de l’Asie à l’Europe en passant par l’Amérique Une vaste campagne de cyberespionnage attribuée à des acteurs liés à la Chine cible les institutions gouvernementales et les secteurs de la défense en Asie.
-- Des chercheurs de Trend Micro, l'un des leaders mondiaux de la cybersécurité, ont mis au jour cette opération jusqu’alors inconnue, révélant une infiltration de réseaux sensibles dans plusieurs pays de la région.
-- Identifiée sous le nom de code "Shadow-Earth-053", cette activité est en cours depuis au moins décembre 2024.
-- Elle a notamment ciblé des ministères et des entreprises sous contrat dans plusieurs États asiatiques, notamment le Pakistan, la Thaïlande, la Malaisie, l’Inde, le Myanmar, le Sri Lanka et Taïwan.
+- Le Pentagone déploie Mythos d'Anthropic pour combler ses failles de cybersécurité tout en prévoyant de se séparer de l'entreprise RefinitivMoins d'1 minute de lecture © Copyright Thomson Reuters 2026.
+- Click For Restrictions - https://agency.reuters.com/en/copyright.html Connectez-vous ou créez un compte gratuit à vie pour lire ces nouvelles.
 
-## [La ministre en charge du Numérique en visite dans l'Hérault pour parler <b>cybersécurité</b> et ...](https://www.midilibre.fr/2026/05/11/la-ministre-en-charge-du-numerique-en-visite-dans-lherault-pour-parler-cybersecurite-et-souverainete-europeenne-avec-les-acteurs-locaux-13366084.php)  
-*Source : midilibre.fr | Publication : 2026-05-11*
+## [OpenAI Daybreak : l'IA cyber passe à l'usine à patchs - InformatiqueNews.fr](https://www.informatiquenews.fr/gpt-5-5-cyber-openai-met-son-puissant-et-risque-modele-de-cyberdefense-sous-bracelet-electronique-111388)  
+*Source : informatiquenews.fr | Publication : 2026-05-12*
 
-- La ministre en charge du Numérique en visite dans l’Hérault pour parler cybersécurité et souveraineté européenne avec les acteurs locaux La ministre déléguée chargée de l’Intelligence artificielle et du Numérique était en déplacement à Montpellier ce lundi 11 mai.
-- Anne Le Hénanff s’est notamment rendue chez Septeo, à Lattes, pour parler souveraineté numérique, intelligence artificielle et protection des données sensibles.
-- Une semaine après son appel aux administrations publiques à interroger la vulnérabilité de leurs données informatiques, et alors qu’une enveloppe de 200 millions d’euros vient d’être allouée par le Premier ministre pour une "mise à niveau" cybersécuritaire, Anne Le Hénanff était en déplacement à Montpellier ce lundi 11 mai.
-- Dans l’Hérault, la ministre déléguée chargée de l’Intelligence artificielle et du Numérique est notamment venue parler souveraineté, sécurité et compétitivité avec les dirigeants de Septeo, leader européen de l’édition de logiciels pour les métiers du droit, de l’immobilier et des ressources humaines, installée à Lattes.
+- Après le coup de tonnerre Claude Mythos chez Anthropic, OpenAI poursuit sa riposte cyber.
+- GPT-5.4-Cyber avait ouvert la voie.
+- Lancé cette semaine, GPT-5.5-Cyber affine la recette avec des modèles plus permissifs, mais réservés aux défenseurs vérifiés.
+- Pour l’accompagner, OpenAI lance son alternative au projet Glasswing d’Anthropic : Daybreak.
+
+## [Sandrine Tarnaud, directrice générale France de Palo Alto Networks - L'1FO Tech par L'Informaticien](https://www.linformaticien.com/magazine/cybersecurite/64833-sandrine-tarnaud-directrice-generale-france-de-palo-alto-networks.html)  
+*Source : linformaticien.com | Publication : 2026-05-12*
+
+- Le géant américain de la cybersécurité a annoncé la nomination de Sandrine Tarnaud au poste de directrice générale France.
+- « Sa solide expertise sera.
