@@ -1,154 +1,154 @@
-# Résumés – 2026-05-13
+# Résumés – 2026-05-14
 
 
-## [PwC Canada lance un service de préparation au PCCC pour aider les fournisseurs de la ...](https://www.pwc.com/ca/fr/media/release/pwc-canada-cpcsc-readiness-service-cyber-certification.html)  
-*Source : pwc.com | Publication : 2026-05-13*
+## [L'attaque du <b>ransomware</b> de Foxconn se traduit par le vol des données de Apple et de Nvidia](https://www.notebookcheck.biz/L-attaque-du-ransomware-de-Foxconn-se-traduit-par-le-vol-des-donnees-de-Apple-et-de-Nvidia.1297103.0.html)  
+*Source : notebookcheck.biz | Publication : 2026-05-14*
 
-- Toronto, le 13 mai 2026 – Alors que le gouvernement canadien prend un engagement financier historique pour moderniser la défense nationale, à compter de l'été 2026, les entreprises canadiennes souhaitant saisir cette occasion de croissance et soumissionner sur des contrats de défense devront se conformer aux nouvelles exigences obligatoires en matière de cybersécurité.
-- En réponse à ces nouvelles exigences, PwC Canada a annoncé le lancement de son Service de préparation et de conseil en PCCC, une nouvelle offre conçue pour guider les organisations à travers le PCCC et s'assurer qu'elles sont admissibles à l'approvisionnement en défense.
-- « Les investissements prévus du Canada en matière de défense représentent une occasion unique dans une génération, mais pour en faire partie, les entreprises doivent être prêtes en matière de cybersécurité.
-- Nous simplifions la démarche pour les entreprises canadiennes afin qu'elles puissent satisfaire aux exigences du PCCC, en traduisant des exigences complexes en cybersécurité en étapes claires et concrètes pour qu'elles soient en mesure de se qualifier, de soumissionner et de croître avec ce marché.
+- L'attaque du ransomware de Foxconn se traduit par le vol des données de Apple et de Nvidia #news_maintext Foxconn a confirmé que plusieurs de ses usines nord-américaines avaient été victimes d'une attaque par ransomware, le groupe Nitrogen ayant affirmé le 11 mai avoir dérobé 8 To de données comprenant plus de 11 millions de fichiers.
+- L'attaque a touché les usines de Mount Pleasant (Wisconsin) et de Houston (Texas), obligeant certains employés à se rabattre sur le papier et le crayon et renvoyant d'autres chez eux jusqu'à ce que l'accès au réseau soit rétabli.
+- "L'équipe de cybersécurité a immédiatement activé le mécanisme de réponse et mis en œuvre de multiples mesures opérationnelles pour assurer la continuité de la production et de la livraison", a déclaré un porte-parole de Foxconn à BleepingComputer.
+- "Les usines concernées reprennent actuellement une production normale Foxconn est le plus grand fabricant d'électronique à façon au monde, avec plus de 900 000 employés répartis sur 240 sites dans 24 pays et un chiffre d'affaires de plus de 260 milliards de dollars en 2025.
 
-## [Au Nouveau-Mexique, cet ex-patron s'offre deux Lamborghini de collection, dont l'une est ...](https://www.sportauto.fr/actu/insolites-actu/nouveau-mexique-patron-offre-deux-lamborghini-collection-liee-collection-sultan-brunei-455606.html)  
-*Source : sportauto.fr | Publication : 2026-05-13*
+## [Le Conseil Canadien se rejouit de l'élaboration d'une nouvelle stratégie nationale sur l'électricité](https://www.thebusinesscouncil.ca/fr/publication/le-conseil-canadien-se-rejouit-de-lelaboration-dune-nouvelle-strategie-nationale-sur-lelectricite/)  
+*Source : thebusinesscouncil.ca | Publication : 2026-05-14*
 
-- Au Nouveau-Mexique, cet ex-patron s’offre deux Lamborghini de collection, dont l’une est liée à la collection du sultan de Brunei À Rio Rancho, Heath Adams a troqué son entreprise de cybersécurité pour deux Lamborghini de collection qui détonnent dans le désert du Nouveau-Mexique.
-- Derrière ce duo Countach-LM002 se cache un lien inattendu avec le garage du sultan de Brunei.
-- Dans un lotissement tranquille de Rio Rancho, au Nouveau-Mexique, un garage abrite deux machines qui n'ont rien de banal.
-- Deux moteurs douze cylindres italiens qui démarrent rarement, coûtent cher à entretenir et attirent tout le quartier dès qu'ils sortent.
+- Le Conseil Canadien se rejouit de l’élaboration d’une nouvelle stratégie nationale sur l’électricité Le Conseil canadien des affaires (CCA) se réjouit du plan du gouvernement visant à élaborer une nouvelle Stratégie nationale sur l’électricité axée sur la mise en place d’un réseau d’électricité propre, fiable et abordable au Canada.
+- Depuis des décennies, l’accès à une électricité propre et abordable constitue un atout stratégique pour le Canada.
+- Il a attiré les investissements nécessaires à la croissance de nos secteurs des ressources naturelles, de l’énergie et des technologies de pointe.
+- Alors que la demande mondiale d’électricité augmente de façon exponentielle, la capacité de production d’électricité croissante du Canada peut servir d’atout majeur pour attirer les investissements au cours des prochaines décennies.
 
-## [L'État de la Hesse coupe l'accès à Internet ; son fournisseur Trellix a été victime de cyberattaque](https://www.lemagit.fr/actualites/366643039/LEtat-de-Hesse-coupe-lacces-a-Internet-son-fournisseur-Trellix-a-ete-victime-de-cyberattaque)  
-*Source : lemagit.fr | Publication : 2026-05-13*
+## [L'IA Mythos d'Anthropic est devenue plus puissante en un mois à peine, les experts s'inquiètent](https://www.lesnumeriques.com/intelligence-artificielle/l-ia-mythos-d-anthropic-est-devenue-plus-puissante-en-un-mois-a-peine-les-experts-s-inquietent-n255960.html)  
+*Source : lesnumeriques.com | Publication : 2026-05-14*
 
-- Eakrin - stock.adobe.com L'État de la Hesse coupe l'accès à Internet ; son fournisseur Trellix a été victime de cyberattaque L'administration de l'État de la Hesse dit avoir, par précaution, interdit à ses fonctionnaire d'accéder à Internet depuis leurs postes de travail, protégés par des outils de Trellix dont le code source a été compromis par des cybercriminels.
-- L'administration de l'État de la Hesse, en Allemagne, a décidé d'interdire l'accès à Internet via ses postes de travail.
-- Cette restriction, visant les navigateurs standards comme Chrome et Edge, est une mesure préventive imposée suite à un incident de sécurité chez Trellix, fournisseur dont le logiciel est déployé au sein du système.
-- Si les communications par e-mail et la visioconférence restent fonctionnelles, cette segmentation forcée démontre une incapacité à isoler les fonctions critiques de l'impact d'un composant tiers.
+- L'IA Mythos d'Anthropic est devenue plus puissante en un mois à peine, les experts s'inquiètent Mythos, l'IA d'Anthropic, inquiète les experts en cybersécurité.
+- Le 6 mai 2026, l'AI Security Institute (AISI) a publié un rapport qui confirme que cette IA dépasse GPT-5.5 d'OpenAI.
+- Et son évolution est très rapide.
+- Un mois après son lancement restreint, Mythos a déjà résolu deux scénarios de cyberattaque que l'AISI considérait jusqu'ici comme infranchissables.
 
-## [Mistral développe un modèle d'IA en <b>cybersécurité</b> pour les banques européennes Par Investing.com](https://fr.investing.com/news/stock-market-news/mistral-developpe-un-modele-dia-en-cybersecurite-pour-les-banques-europeennes-93CH-3415756)  
-*Source : fr.investing.com | Publication : 2026-05-13*
+## [Retail : la planification continue et l'IA protègent les marges - InformatiqueNews.fr](https://www.informatiquenews.fr/de-la-prevision-figee-a-la-planification-continue-le-nouveau-moteur-de-performance-du-retail-laurent-martini-anaplan-111443)  
+*Source : informatiquenews.fr | Publication : 2026-05-14*
 
-- Mistral travaille au développement de son propre modèle d'IA axé sur la cybersécurité , selon un reportage de Bloomberg citant des sources proches du.
+- Inflation, demande imprévisible, pression sur les marges, accélération du digital… le retail entre dans une ère où décider vite et bien fait toute la différence.
+- Et si la vraie performance ne venait plus d’une meilleure prévision, mais d’une planification capable d’évoluer en continu au rythme du marché ?.
+- En 2026, le commerce de détail en France évolue dans un contexte instable.
+- Après une année 2025 marquée par une consommation sous tension, la croissance reste modérée car l’inflation, bien qu’en net reflux par rapport aux pics de 2022-2023, continue d’influencer les arbitrages des ménages.
 
-## [Il avait contourné les garde-fous de ChatGPT : Denis Shilov lève 9,35 millions d'euros pour ...](https://www.frenchweb.fr/il-avait-contourne-les-garde-fous-de-chatgpt-denis-shilov-leve-935-millions-deuros/461740)  
-*Source : frenchweb.fr | Publication : 2026-05-13*
+## [Face à l'enfer des scam centers, le courage des victimes - Libération](https://www.liberation.fr/idees-et-debats/editorial/face-a-lenfer-des-scam-centers-le-courage-des-victimes-20260514_CHLGADQTPRAK5BSPTWEOQGJOOM/)  
+*Source : liberation.fr | Publication : 2026-05-14*
 
-- Il avait contourné les garde-fous de ChatGPT : Denis Shilov lève 9,35 millions d’euros pour WHITE CIRCLE 📩 Pour nous contacter: redaction@fw.media White Circle, startup spécialisée dans la supervision et la sécurisation des modèles d’intelligence artificielle, annonce avoir levé 11 millions de dollars, soit environ 9,35 millions d’euros.
-- Le tour réunit plusieurs figures majeures de l’écosystème IA mondial, parmi lesquelles Romain Huet, Dirk Kingma, Guillaume Lample, Thomas Wolf, François Chollet, Olivier Pomel ou encore Paige Bailey.
-- Fondée par Denis Shilov, White Circle développe une plateforme permettant aux entreprises de surveiller en temps réel les comportements de leurs modèles IA et de leurs agents autonomes.
-- La startup affirme déjà traiter plus d’un milliard de requêtes API et compte parmi ses clients plusieurs grands groupes internationaux, dont deux grandes banques numériques mondiales ainsi que Lovable.
+- Scam centers CybercriminalitéCybersécurité.
+- Dans la même rubrique.
+- L'édito de Paul Quinio · Hantavirus des Andes : malgré les mauvais souvenirs du.
 
-## [BlueSecure devient membre d'Hexatrust - ChannelNews](https://www.channelnews.fr/bluesecure-devient-membre-dhexatrust-156673)  
-*Source : channelnews.fr | Publication : 2026-05-13*
+## [L'agence canadienne de <b>cybersécurité</b> accèdera au dernier modèle d'OpenAI - Globe and Mail](https://ch.zonebourse.com/actualite-bourse/l-agence-canadienne-de-cybersecurite-accedera-au-dernier-modele-d-openai-globe-and-mail-ce7f5bddda89f421)  
+*Source : ch.zonebourse.com | Publication : 2026-05-14*
 
-- L’éditeur français BlueSecure, spécialisé dans la sensibilisation à la cybersécurité, rejoint l’association Hexatrust qui compte déjà plus de 130 acteurs français et européens du secteur.
-- « Rejoindre Hexatrust, c’est intégrer le réseau de référence de la cybersécurité française et européenne », affirme Jean-Baptiste Artignan, co-fondateur et CEO de BlueSecure (cf.
-- photo), dans un communiqué.
-- « C’est l’opportunité de créer des synergies concrètes avec des acteurs complémentaires, de contribuer activement aux enjeux NIS2 et CyberOT et de défendre ensemble une vision souveraine du numérique.
+- L'agence canadienne de cybersécurité accèdera au dernier modèle d'OpenAI - Globe and Mail Publié le 14/05/2026 à 12:29 - Modifié le 14/05/2026 à 12:30 Reuters - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager Cet article est réservé aux membres Débloquer l'article : INSCRIVEZ-VOUS !.
+- Inscription 100% Gratuite Vous êtes déja client ?.
+- Se connecter © Reuters - 2026 Partager.
 
-## [Orange CyberDéfense s'implante en Espagne - ElectronLibre](https://electronlibre.info/articles/105899-orange-cyberdefense-simplante-en-espagne/)  
-*Source : electronlibre.info | Publication : 2026-05-13*
+## [Un faux gestionnaire de mots de passe a piégé ses utilisateurs pendant 8 mois - 01net.com](https://www.01net.com/actualites/faux-gestionnaire-mots-passe-piege-utilisateurs-pendant-8-mois.html)  
+*Source : 01net.com | Publication : 2026-05-14*
 
-- L’expansion d’Orange Cyberdefense en Espagne, officialisée par un partenariat avec MasOrange, premier opérateur du pays récemment acquis par l’opérateur, s’inscrit dans une stratégie d’ancrage sur un marché jugé crucial.
-- Cette initiative s’inscrit directement dans le plan d’Orange « Trust the future », avec un objectif affiché de 2 milliards d’euros de chiffre d’affaires pour sa filiale cybersécurité d’ici 2030.
-- L’entrée sur le marché espagnol, estimé à 2,3 milliards d’euros d’ici 2025 et en croissance de 10%, s’appuie sur des donnée solides.
-- En Espagne 54 % des entreprises locales ont subi une cyberattaque, et le secteur public anticipe plus de 400 millions d’euros d’appels d’offres cyber dans les prochaines années.
+- Les chercheurs en cybersécurité de WithSecure lèvent le voile sur une campagne malveillante qui repose sur la diffusion d’un faux gestionnaire de mots de passe.
+- La cyberattaque a fait des ravages pendant plus de huit mois avant d’être découverte par les chercheurs.
+- L’offensive s’appuie sur une version piégée de KeePass, un outil open source très populaire permettant de stocker et de gérer ses mots de passe.
+- À lire aussi : Arnaque au téléphone – pourquoi il ne faut plus dire « allô » quand personne ne répond Une copie convaincante Cette version factice, baptisée KeeLoader par les chercheurs, ne se contente pas de ressembler à KeePass.
 
-## [Cyberattaque contre une usine Foxconn : des données Intel, Google, Dell, Nvidia et AMD ...](https://www.01net.com/actualites/cyberattaque-contre-usine-foxconn-donnees-intel-google-dell-nvidia-amd-volees.html)  
-*Source : 01net.com | Publication : 2026-05-13*
+## [Michael Bittan, directeur exécutif, responsable des activités <b>cybersécurité</b> France et BeLux ... - BFM](https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/michael-bittan-directeur-executif-responsable-des-activites-cybersecurite-france-et-benelux-chez-accenture-14-05_EN-202605140151.html)  
+*Source : bfmtv.com | Publication : 2026-05-14*
 
-- Le 1ᵉʳ mai 2026, l’usine Foxconn de Mount Pleasant, dans le Wisconsin (États-Unis), a été visée par une cyberattaque.
-- Dès 7 heures du matin, les connexions Wi-Fi ont commencé à lâcher.
-- Dans la matinée, tout le système informatique s’est mis à dysfonctionner.
-- Les employés ont été invités à éteindre leurs ordinateurs.
+- Podcast Michael Bittan, directeur exécutif, responsable des activités cybersécurité France et BeLux chez Accenture - 14/05 Michael Bittan, directeur exécutif, responsable des activités cybersécurité France et BeLux chez Accenture - 14/05 9:47 Michael Bittan, directeur exécutif, responsable des activités cybersécurité France et BeLux chez Accenture, était l'invité d'Erwan Morice dans Good Morning Business, ce jeudi 14 mai.
+- Il a abordé le combat des entreprises contre les cyberattaques menées par l'IA, ainsi que le plan d'urgence de la France pour faire face à cette situation, sur BFM Business.
+- Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.
+- Autres épisodes L’After Foot, l'émission qui dit tout haut ce que le monde du foot pense tout bas, fête ses 20 ans cette saison !.
 
-## [4.000 postes vacants en <b>cybersécurité</b> dans notre pays, et l'IA n'est pas la solution miracle](https://trends.levif.be/a-la-une/tech/4-000-postes-vacants-en-cybersecurite-dans-notre-pays-et-lia-nest-pas-la-solution-miracle/)  
-*Source : trends.levif.be | Publication : 2026-05-13*
+## [FAR : Mohammed VI met l'accent sur l'IA et la <b>cybersécurité</b> - APAnews](https://fr.apanews.net/security/far-mohammed-vi-met-laccent-sur-lia-et-la-cybersecurite/)  
+*Source : fr.apanews.net | Publication : 2026-05-14*
 
-- La Belgique est aux prises avec une pénurie structurelle de professionnels de la cybersécurité.
-- Alors qu'elle recense 4.000 emplois vacants,.
+- Le roi Mohammed VI a appelé à accélérer la modernisation des Forces armées royales (FAR), avec un accent particulier sur l’intelligence artificielle ( IA), la digitalisation et la cybersécurité, à l’occasion du 70ème anniversaire de la création des FAR.
+- Dans un ordre du jour adressé jeudi aux officiers, officiers du rang et militaires du rang, le souverain marocain, chef suprême et chef d’état-major général des FAR, a souligné que le développement des capacités défensives constitue «une grande priorité» pour le Maroc, insistant sur la modernisation via l’intelligence artificielle ( IA), la digitalisation et la cybersécurité.
+- Le message royal intervient dans un contexte marqué par l’accélération des mutations technologiques dans les domaines militaires et sécuritaires à l’échelle internationale.
+- Mohammed VI a ainsi insisté sur «l’exécution des programmes scientifiques modernes adoptés», dans les domaines de «la recherche scientifique, appliquée et technique, de l’Intelligence artificielle, de la digitalisation et de la cybersécurité».
 
-## [VPN, le grand n'importe quoi gouvernemental ? Un député demande des clarifications](https://www.numerama.com/cyberguerre/2252365-vpn-le-grand-nimporte-quoi-gouvernemental-un-depute-demande-des-clarifications.html)  
-*Source : numerama.com | Publication : 2026-05-13*
+## [&quot;Mieux vaut se fier au terrain qu'aux tableaux Excel&quot; : les leçons de Shane Parrish, l'expert ...](https://www.lexpress.fr/idees-et-debats/mieux-vaut-se-fier-au-terrain-quaux-tableaux-excel-les-lecons-de-shane-parrish-lexpert-le-plus-H7C4OLJCX5GKHM74UNIUVUZRQE/)  
+*Source : lexpress.fr | Publication : 2026-05-14*
 
-- « Les VPN, c’est le prochain sujet sur ma liste ».
-- Voilà ce que déclarait en début d’année Anne Le Hénanff, la ministre déléguée pour l’IA et le numérique, sur l’antenne de France Info.
-- L’intéressée réagissait alors à la loi visant à interdire les réseaux sociaux aux mineurs de moins de 15 ans, et par extension aux moyens de contourner le texte.
-- Les réseaux privés virtuels (Virtual Private Networks) sont l’un des outils que l’on peut effectivement mobiliser pour échapper aux effets d’une législation nationale, en faisant transiter sa connexion Internet par un point de passage à l’étranger.
+- Ancien agent du renseignement canadien et l’une des figures les plus influentes de Wall Street, Shane Parrish, disciple du grand financier et bras droit de Warren Buffett, Charlie Munger, est un expert reconnu de la prise de décision et des modèles mentaux.
+- Dans le premier des quatre volumes de la version française de The Great Mental Models qui paraît ce 13 mai (Les grands modèles mentaux - Les outils fondamentaux de la réflexion et de la prise de décision, Arpa, 216 p.), l'auteur présente ces représentations mentales, largement inconscientes, qui façonnent notre manière de penser, de comprendre le monde et de former nos croyances.
+- Les étudier et les maîtriser constituent le meilleur moyen d’anticiper les problèmes, d’éviter les pièges cognitifs et de réduire nos angles morts, souvent à l’origine de mauvaises décisions.
+- Il y explore des concepts issus notamment de la biologie, de la physique, de la philosophie, de la psychologie ou encore du management, en s’appuyant sur des figures comme Nassim Nicholas Taleb, Charles Darwin ou encore Albert Einstein.
 
-## [Pourquoi la <b>cybersécurité</b> applicative est devenue un enjeu stratégique](https://www.journaldunet.com/cybersecurite/1550285-pourquoi-la-cybersecurite-applicative-est-devenue-un-enjeu-strategique/)  
-*Source : journaldunet.com | Publication : 2026-05-13*
+## [Cette PME rennaise est l'une des meilleures en France pour « décortiquer » les failles des logiciels](https://www.ouest-france.fr/bretagne/rennes-35000/cette-pme-rennaise-est-lune-des-meilleures-en-france-pour-decortiquer-les-failles-des-logiciels-a9f37234-4c81-11f1-aaad-3dc0b7ad690d)  
+*Source : ouest-france.fr | Publication : 2026-05-14*
 
-- Pourquoi la cybersécurité applicative est devenue un enjeu stratégique La sécurité des applications web ne relève plus uniquement de l'IT.
-- Elle conditionne désormais la continuité d'activité, la protection des données et la confiance des utilisateurs.
-- Applications mobiles, plateformes e-commerce, services en ligne, outils métiers accessibles via le web : les applications sont devenues le point d’accès principal aux services numériques.
-- Elles concentrent les interactions avec les clients, les partenaires et les collaborateurs.
+- Une expertise de pointe.
+- Yves.
 
-## [carte grise, dépôt de plainte… des données dérobées lors d'une attaque informatique qui a ...](https://www.sudouest.fr/gironde/gradignan/gironde-carte-grise-depot-de-plainte-des-donnees-derobees-lors-d-une-attaque-informatique-qui-a-touche-la-police-municipale-de-gradignan-29049109.php)  
-*Source : sudouest.fr | Publication : 2026-05-13*
+## [La Pologne mise toujours plus sur sa jeunesse pour assurer sa cyberdéfense - Le Temps](https://www.letemps.ch/cyber/cybersecurite/la-pologne-mise-toujours-plus-sur-sa-jeunesse-pour-assurer-sa-cyberdefense)  
+*Source : letemps.ch | Publication : 2026-05-14*
 
-- Le logiciel de la police municipale a fait l’objet d’une attaque dimanche 10 mai.
-- Aucune indication ne confirme de diffusion des données, indique la Ville de Gradignan qui appelle à la vigilance et précise qu’aucune donnée bancaire n’est concernée La commune de Gradignan, en Gironde, vient s’ajouter à la liste déjà longue des collectivités territoriales ciblées par les cybercriminels.
-- La Ville a annoncé mercredi 13 mai qu’un piratage informatique d’ampleur a visé le logiciel de sa police municipale le dimanche 10 mai.
-- « Cette cyberattaque implique un risque de divulgation de données personnelles.
+- «Je ne m’attendais pas à le gagner.» Du haut de ses 24 ans, Julia Pióro raconte la journée où elle a remporté le prestigieux concours Marian Rejewski.
+- «Nous étions 60 participants.
+- Les travaux sont évalués par les experts en cybersécurité les plus éminents de notre armée et de nos services de sécurité».
+- Organisé par le Ministère de la défense nationale polonais, ce concours récompense les meilleurs travaux de fin d’études en cybersécurité et cryptologie.
 
-## [Un exercice grandeur nature pour renforcer la réponse aux <b>cybermenaces</b> - ge.ch](https://www.ge.ch/actualite/exercice-grandeur-nature-renforcer-reponse-aux-cybermenaces-13-05-2026)  
-*Source : ge.ch | Publication : 2026-05-13*
+## [Aviation : le Gabon muscle la <b>cybersécurité</b> de ses infrastructures stratégiques](https://www.agenceecofin.com/actualites/1405-138458-aviation-le-gabon-muscle-la-cybersecurite-de-ses-infrastructures-strategiques)  
+*Source : agenceecofin.com | Publication : 2026-05-14*
 
-- Piloté par l’office cantonal des systèmes d'information et du numérique (OCSIN), en collaboration avec la police cantonale, l’Etat-major cantonal de conduite (EMCC), le gestionnaire des risques de l’Etat ainsi qu’une société genevoise spécialisée en gestion de crise, cet exercice a réuni des représentantes et représentants de l’administration cantonale, des communes et des établissements publics autonomes.
-- Cette simulation a permis de mettre à l’épreuve les processus de gestion de crise, de renforcer la coordination entre les différentes entités impliquées et de consolider les réflexes opérationnels des participantes et participants face à un incident cyber majeur.
-- L’exercice a également contribué à renforcer la sensibilisation aux enjeux de cybersécurité et à identifier des axes d’amélioration concrets.
-- Dans un contexte où les cybermenaces évoluent rapidement et ciblent de plus en plus les institutions publiques, le canton de Genève poursuit ses efforts pour garantir la continuité des prestations publiques et protéger les infrastructures numériques ainsi que les données traitées par l’administration.
+- (Agence Ecofin) - Face à la recrudescence des cyberattaques sur le continent, la protection des systèmes numériques des infrastructures critiques.
 
-## [OpenAI ouvre l'accès à son nouveau puissant modèle d'IA à l'Union européenne pour tester ...](https://www.bfmtv.com/tech/intelligence-artificielle/open-ai-ouvre-l-acces-a-son-nouveau-puissant-modele-d-ia-a-l-union-europeenne-pour-tester-et-anticiper-les-risques-anthropic-s-y-refuse-toujours-malgre-des-discussions_AN-202605120629.html)  
-*Source : bfmtv.com | Publication : 2026-05-13*
+## [À l'ère de l'IA, ne sacrifiez pas les jeunes talents - ITforBusiness.fr](https://www.itforbusiness.fr/a-lere-de-lia-ne-sacrifiez-pas-les-jeunes-talents-103672)  
+*Source : itforbusiness.fr | Publication : 2026-05-14*
 
-- OpenAI ouvre l’accès à son nouveau puissant modèle d’IA à l’Union européenne pour tester et anticiper les risques, Anthropic s’y refuse toujours, malgré des discussions OpenAI a annoncé qu’elle accorderait à l’Union européenne un accès encadré à son nouveau modèle "GPT-5.5-Cyber", destiné en priorité à des partenaires triés sur le volet (entreprises, gouvernements, autorités de cybersécurité et institutions comme le bureau européen de l’IA) afin de mieux anticiper les risques liés aux usages des nouveaux modèles que permettent ces intelligences artificielles, notamment d'un point de vue de la cybersécurité.
-- Une initiative saluée par la Commission européenne, qui confirme des échanges en cours pour suivre de près le développement et répondre aux enjeux de sécurité.
-- Cette annonce intervient dans un contexte de vigilance accrue, un mois après la sortie de Mythos par Anthropic, qui avait suscité des inquiétudes sur ses capacités offensives.
-- "Les laboratoires d’IA comme le nôtre ne devraient pas être les seuls arbitres de la cybersécurité, car la résilience dépend de la collaboration de partenaires de confiance", a déclaré George Osborne, un responsable d’OpenAI.
+- À l’ère de l’IA, ne sacrifiez pas les jeunes talents Par La rédaction, publié le 14 mai 2026 L’IA promet de faire gagner du temps aux équipes cyber, mais elle ne remplacera ni l’instinct, ni la responsabilité, ni la relève humaine.
+- En coupant les postes juniors, qui sont aujourd’hui très menacés, les entreprises risquent surtout de saboter leur propre résilience.
+- De James Robinson, RSSI chez Netskope En avril 2026, le Conseil de l’IA et du Numérique a publié une note consacrée aux liens entre intelligence artificielle (IA) et cybersécurité.
+- Celle-ci souligne que l’IA constitue une aide précieuse pour le développement, la correction et les tests logiciels.
 
-## [Free Pro veut simplifier les offres mobiles des grands comptes - Solutions-Numeriques](https://www.solutions-numeriques.com/free-pro-veut-simplifier-les-offres-mobiles-des-grands-comptes/)  
-*Source : solutions-numeriques.com | Publication : 2026-05-13*
+## [Michael Bittan, directeur exécutif, responsable des activités <b>cybersécurité</b> France et BeLux ... - BFM](https://www.bfmtv.com/economie/replay-emissions/good-morning-business/michael-bittan-directeur-executif-responsable-des-activites-cybersecurite-france-et-benelux-chez-accenture-14-05_EN-202605140152.html)  
+*Source : bfmtv.com | Publication : 2026-05-14*
 
-- Après plusieurs années passées à développer ses activités cloud, fibre et cybersécurité auprès des entreprises, Free Pro s’attaque désormais plus frontalement au marché des flottes mobiles pour les grands comptes.
-- Lors d’un entretien accordé à Solutions Numériques & Cybersécurité, Guillaume de Lavallade, directeur général de Free Pro, détaille la stratégie de l’opérateur, qui mise sur une simplification des offres et une approche plus flexible pour tenter de se différencier sur un marché déjà très structuré.
-- Jusqu’ici, Free Pro disposait déjà d’offres mobiles destinées aux TPE et PME, mais n’avait pas réellement structuré de proposition dédiée aux grandes flottes d’entreprise.
-- « Il manquait clairement dans notre portefeuille produit la partie flotte mobile pour les grandes entreprises », explique Guillaume de Lavallade.
+- Podcast Michael Bittan, directeur exécutif, responsable des activités cybersécurité France et BeLux chez Accenture - 14/05 Michael Bittan, directeur exécutif, responsable des activités cybersécurité France et BeLux chez Accenture - 14/05 9:47 Michael Bittan, directeur exécutif, responsable des activités cybersécurité France et BeLux chez Accenture, était l'invité d'Erwan Morice dans Good Morning Business, ce jeudi 14 mai.
+- Il a abordé le combat des entreprises contre les cyberattaques menées par l'IA, ainsi que le plan d'urgence de la France pour faire face à cette situation, sur BFM Business.
+- Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.
+- Autres épisodes Ce jeudi 14 mai, Michael Bittan, directeur exécutif, responsable des activités cybersécurité France et BeLux chez Accenture, Jérémy Bercoff, cofondateur et président de Sonomind, et Pierre Brossollet, PDG d'Arverne, étaient les invités dans l'émission Good Morning Business sur BFM Business.
 
-## [Un étudiant en <b>cybersécurité</b> jugé en Moselle pour une escroquerie au faux conseiller bancaire](https://www.ouest-france.fr/societe/justice/un-etudiant-en-cybersecurite-juge-en-moselle-pour-une-escroquerie-au-faux-conseiller-bancaire-8fd68b24-4eda-11f1-8a88-828bd0475d8f)  
-*Source : ouest-france.fr | Publication : 2026-05-13*
+## [Je me suis encore fait pirater mon compte PlayStation (et il y a eu un rebondissement inattendu)](https://www.numerama.com/cyberguerre/2253449-je-me-suis-encore-fait-pirater-mon-compte-playstation-et-il-y-a-eu-un-rebondissement-inattendu.html)  
+*Source : numerama.com | Publication : 2026-05-14*
 
-- Un étudiant en cybersécurité a été condamné par le tribunal de Sarreguemines (Moselle) à une peine de 9 mois de prison intégralement assortie d'un.
+- Le 22 décembre 2025, j’ai reçu un mail avec pour objet « Cet e-mail confirme que l’ID de connexion (adresse e-mail) de votre compte a été changé ».
+- J’étais à l’époque loin d’imaginer la suite : pendant plusieurs jours, j’allais me retrouver pris au piège d’un feuilleton médiatique repris dans le monde entier.
+- En cause : un problème de sécurité chez Sony qui, beaucoup trop facilement, peut confier votre compte PlayStation, et donc tous vos jeux, à n’importe quel inconnu capable de se faire passer pour vous.
+- Pendant plusieurs jours, j’ai parfois réussi à retrouver mon compte… et parfois de nouveau été piraté.
 
-## [Summit 2026 : Red Hat AI 3.4 veut industrialiser l'IA agentique - InformatiqueNews.fr](https://www.informatiquenews.fr/red-hat-summit-2026-red-hat-ai-avance-sur-lindustrialisation-de-lia-agentique-du-poste-developpeur-au-cloud-111435)  
-*Source : informatiquenews.fr | Publication : 2026-05-13*
+## [Daybreak : l'offensive d'OpenAI contre Claude Mythos dans la <b>cybersécurité</b> IA](https://trustmyscience.com/daybreak-offensive-openai-contre-claude-mythos-cybersecurite-ia/)  
+*Source : trustmyscience.com | Publication : 2026-05-14*
 
-- Fini l’IA magique, place à l’IA administrable.
-- Tracer chaque appel d’agent, gouverner chaque modèle, sécuriser chaque outil sans céder un pouce de contrôle : c’est sur ce terrain industriel que se positionne désormais Red Hat avec ses cartes habituelles à savoir open source, hybridation et maîtrise du socle.
-- Au Red Hat Summit 2026, Red Hat a surfé sur la même vague que les dernières conférences Google, Microsoft ou AWS : comment sortir les agents des démonstrations séduisantes pour les faire entrer dans les chaînes de production, avec les mêmes exigences de sécurité, de traçabilité et de gouvernance que les applications critiques.
-- Au cœur de la stratégie de l’éditeur et des annonces de la conférence trône une brique essentielle (pour Red Hat mais également IBM avec notamment son Sovereign Core) : Red Hat AI 3.4.
+- OpenAI vient de lancer Daybreak, une initiative de cybersécurité utilisant ses modèles IA de pointe et les capacités agentiques de son modèle Codex.
+- Le nouveau projet semble se positionner en concurrent direct du projet Glasswing d’Anthropic piloté par l’agent IA Claude Mythos, dont les performances presque hors normes ont fait parler de lui.
+- Le projet d’OpenAI prévoit de prioriser les vulnérabilités critiques et de réduire les temps d’analyses de plusieurs heures à quelques minutes.
+- Les agents IA ont apporté une évolution notable dans le secteur de la cybersécurité où les menaces deviennent toujours plus complexes, au point que les systèmes conventionnels peinent à assurer une protection adaptée.
 
-## [De faux installateurs « Claude Code » utilisés pour piéger les développeurs](https://www.solutions-numeriques.com/de-faux-installateurs-claude-code-utilises-pour-pieger-les-developpeurs/)  
-*Source : solutions-numeriques.com | Publication : 2026-05-13*
+## [L'agence canadienne de <b>cybersécurité</b> accèdera au dernier modèle d'OpenAI - Globe and Mail](https://www.zonebourse.com/actualite-bourse/l-agence-canadienne-de-cybersecurite-accedera-au-dernier-modele-d-openai-globe-and-mail-ce7f5bddda89f421)  
+*Source : zonebourse.com | Publication : 2026-05-14*
 
-- Une campagne malveillante repérée par Ontinue cible les développeurs recherchant l’outil « Claude Code » d’Anthropic.
-- Les attaquants utilisent de faux sites sponsorisés pour diffuser un malware capable de voler des identifiants et des données de navigation.
-- Un malheureux mais parfait scénario qui illustre la montée rapide des risques autour des nouveaux assistants IA dédiés au développement.
-- Les outils de développement dopés à l’intelligence artificielle attirent désormais aussi les cybercriminels.
+- L'agence canadienne de cybersécurité accèdera au dernier modèle d'OpenAI - Globe and Mail Publié le 14/05/2026 à 12:29 - Modifié le 14/05/2026 à 12:30 Reuters - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager Cet article est réservé aux membres Débloquer l'article : INSCRIVEZ-VOUS !.
+- Inscription 100% Gratuite Vous êtes déja client ?.
+- Se connecter © Reuters - 2026 Partager.
 
-## [La pépite française de la navigation web sécurisée VirtualBrowser lève 6 millions d'euros](https://www.journaldunet.com/cybersecurite/1550255-la-pepite-francaise-de-la-navigation-web-securisee-virtual-browser-leve-6-millions-d-euros/)  
-*Source : journaldunet.com | Publication : 2026-05-13*
+## [Sécuriser l'industriel à la source : quand la connectivité série devient un enjeu cyber critique](https://www.elektormagazine.fr/news/securiser-l-industriel-a-la-source-quand-la-connectivite-serie-devient-un-enjeu-cyber-critique)  
+*Source : elektormagazine.fr | Publication : 2026-05-14*
 
-- La pépite française de la navigation web sécurisée VirtualBrowser lève 6 millions d'euros La start-up veut accélérer la commercialisation de sa solution de navigation web sécurisée et l'étendre aux smartphones.
-- Issue de la société de cybersécurité Oodrive et créée en 2024, la jeune pousse française spécialisée dans la sécurisation de la navigation web VirtualBrowser annonce un premier tour de table de 6 millions d'euros.
-- Quatre investisseurs y ont participé : Go Capital, BNP Paribas Développement, Auriga Partners et BPI France.
-- Une partie des salariés a également pris part à cette opération en devenant eux-mêmes actionnaires.
+- Sécuriser l’industriel à la source : quand la connectivité série devient un enjeu cyber critique 14 mai 2026 sur sur Dans de nombreuses installations industrielles, les équipements les plus critiques reposent encore sur des technologies éprouvées comme les interfaces série.
+- Discrètes mais omniprésentes, elles assurent le lien entre capteurs, automates et systèmes de contrôle.
+- Mais dans un monde connecté, ces fondations deviennent aussi des points d’entrée potentiels pour les cybermenaces.
+- Avec la certification IEC 62443‑4‑2 de sa série NPort 6000‑G2, Moxa apporte une réponse concrète à ce défi.
 
-## [Indonésie : l'exemption de visa bientôt réévaluée après plusieurs affaires de <b>cybercriminalité</b>](https://visasnews.com/indonesie-lexemption-de-visa-bientot-reevaluee-apres-plusieurs-affaires-de-cybercriminalite/)  
-*Source : visasnews.com | Publication : 2026-05-13*
+## [<b>Cybersécurité</b> des PME, ce danger si ignoré - Visionary Marketing](https://visionarymarketing.com/fr/2026/05/14/cybersecurite-des-pme-ce-danger-si-ignore/)  
+*Source : visionarymarketing.com | Publication : 2026-05-14*
 
-- L’Indonésie s’interroge sur l’usage réel de son régime d’exemption de visa.
-- Alors que la Thaïlande a elle aussi engagé une révision de sa politique d’exemption de visa, après avoir constaté des abus liés à des séjours touristiques détournés de leur objet, l’Indonésie semble à son tour vouloir réexaminer certaines facilités d’entrée accordées aux voyageurs étrangers.
-- À Jakarta, la Direction générale de l’immigration indique que les affaires récentes impliquant des ressortissants étrangers, notamment ceux originaires de pays bénéficiant de l’exemption de visa, sont désormais prises en compte dans l’évaluation de la politique migratoire du pays.
-- Aucune suppression de l’exemption de visa n’a toutefois été annoncée à ce stade.
+- Cybersécurité des PME, ce danger si ignoré Hervé Kabla, avec qui j’ai écrit quelques livres dans notre collection À mon boss, vient de publier un ouvrage sur la cybersécurité des PME.
+- La cybersécurité expliquée à mon boss est un ouvrage qui traite d’un sujet que beaucoup de dirigeants de PME continuent d’ignorer.
+- Non par mauvaise volonté, mais par une conviction tenace.
+- Celle d’être trop petit pour intéresser qui que ce soit.
