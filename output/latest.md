@@ -1,153 +1,154 @@
-# Résumés – 2026-05-17
+# Résumés – 2026-05-19
 
 
-## [Le Japon va Développer des Directives de Défense Cybernétique en Utilisant le Mythos d'Anthropic](https://www.binance.com/fr/square/post/324195398422881)  
-*Source : binance.com | Publication : 2026-05-17*
+## [Anthropic autorise ses partenaires à partager les résultats de <b>cybersécurité</b> issus de Mythos](https://www.zonebourse.com/actualite-bourse/anthropic-autorise-ses-partenaires-a-partager-les-resultats-de-cybersecurite-issus-de-mythos-ce7f5adbd98cf627)  
+*Source : zonebourse.com | Publication : 2026-05-18*
 
-- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
-- This requires JavaScript.
-- Enable JavaScript and then reload the page.
+- Anthropic a déclaré lundi revenir sur sa position initiale afin de permettre aux utilisateurs de son modèle de cybersécurité Mythos de partager des informations sur les cybermenaces avec des tiers susceptibles d&#039;être exposés à des vulnérabilités similaires.
+- Mythos, annoncé le 7 avril, est déployé dans le cadre du &#039;Projet Glasswing&#039; d&#039;Anthropic, une initiative contrôlée permettant à certaines organisations sélectionnées, dont des géants de la technologie tels qu&#039;Amazon, Microsoft, Nvidia et Apple, d&#039;utiliser le modèle non encore commercialisé Claude Mythos Preview à des fins de cybersécurité défensive.
+- Selon les experts, les capacités de programmation de haut niveau de Mythos lui confèrent une aptitude potentiellement sans précédent pour identifier les failles de sécurité informatique et concevoir des méthodes d&#039;exploitation de ces dernières.
+- La semaine dernière, Anthropic a commencé à informer ses partenaires qu&#039;ils sont désormais généralement autorisés à divulguer leur participation à Glasswing et, à leur discrétion, à partager les résultats, les meilleures pratiques, les outils ou le code développés via le programme.
 
-## [Elite Controller Series 3 : le nec plus ultra de la manette en préparation chez Microsoft](https://www.clubic.com/actualite-613105-elite-controller-series-3-le-nec-plus-ultra-de-la-manette-en-preparation-chez-microsoft.html)  
-*Source : clubic.com | Publication : 2026-05-17*
+## [Vidéo : <b>Cybercriminalité</b> : la prévention au cœur des portes ouvertes de la DGSN - medi1tv](https://www.medi1tv.com/fr/reportage/395356/Cybercriminalité--la-prévention-au-cœur-des-portes-ouvertes-de-la-DGSN)  
+*Source : medi1tv.com | Publication : 2026-05-18*
 
-- Plus de dix ans après la première version et sept ans après la seconde, la manette Xbox Elite Controller est de retour, plus complète que jamais.
-- L’une des meilleures manettes jamais conçues revient dans une version qui se veut encore un peu plus riche… En espérant qu’elle ne soit pas non plus encore un peu plus chère.
-- On peut rêver.
-- La meilleure manette Xbox bientôt de retour Pas plus tard qu’hier, nous évoquions la sortie prochaine, chez Microsoft, d'une petite manette dont le design fait immédiatement penser aux produits de 8BitDo, une manette dotée d'une connexion Wi-Fi pour moins de latence.
+- Vidéo : Cybercriminalité : la prévention au cœur des portes ouvertes de la DGSN.
+- lundi 18 mai 2026.
+- Regarder la vidéo.
+- Pour plus de détails voir ce.
 
-## [Transitions Pro Centre-Val de Loire : des dizaines de Go de données menacées après un ...](https://www.cyberattaque.org/transitions-pro-centre-val-de-loire-des-dizaines-de-go-de-donnees-menacees-apres-un-ransomware/)  
-*Source : cyberattaque.org | Publication : 2026-05-17*
+## [Coordinateur.rice de projet ( en Intelligence Artificielle et <b>Cybersécurité</b> )](https://choisirleservicepublic.gouv.fr/offre-emploi/coordinateurrice-de-projet--en-intelligence-artificielle-et-cybersecurite--reference-2026-2282507/)  
+*Source : choisirleservicepublic.gouv.fr | Publication : 2026-05-18*
 
-- Transitions Pro Centre-Val de Loire, organisme chargé d’accompagner les salariés dans leurs projets de reconversion professionnelle, est visé par une cyberattaque revendiquée par le groupe de ransomware Prinz Eugen.
-- Sur son site de fuite, le groupe affirme avoir à la fois chiffré les systèmes et exfiltré « des centaines de gigaoctets » de données internes.
-- Les cybercriminels menacent désormais de publier l’ensemble des fichiers si aucun accord n’est trouvé avec la victime.
-- Des serveurs et bases SQL déjà listés La page publiée par le groupe mentionne plusieurs systèmes internes ainsi que des volumes de données déjà récupérés : SRVDC01 – 17,4 Go - SQL – 23,5 Go - La présence d’une base SQL laisse craindre l’exposition de données structurées potentiellement sensibles liées aux salariés accompagnés par l’organisme.
+- Coordinateur.rice de projet ( en Intelligence Artificielle et Cybersécurité ) Référence : 2026-2282507 Fonction publique : Fonction publique de l'État - Employeur : Université de la Guyane - Localisation : Université de Guyane - Partager la page Veuillez pour partager sur Facebook, Twitter et LinkedIn.
+- Nature de l’emploi Emploi ouvert uniquement aux contractuels - Nature du contrat CDD de 2 ans - Expérience souhaitée Confirmé - Rémunération Fourchette indicative pour les contractuels Non renseignée Fourchette indicative pour les fonctionnaires Non renseignée - Catégorie Catégorie A (cadre) - Management Non renseigné - Télétravail possible Non renseigné - Vos missions en quelques mots Dans le cadre de l'AMI CMA, l'Université de Guyane, lance le projet ACAl (Amazonian Cybersécurity Artificial Intelligence), projet stratégique de sensibilisation et de formation à l'Intelligence Artificielle et à la Cybersécurité en contexte Amazonien.
+- Porté par l'Université de Guyane et suivi par des partenaires locaux, il répond à un besoin clairement identifié de formation de niveau Bac+5 et professionnelle en lA et cybersécurité sur le territoire guyanais.
+- Il jouera un rôle clé pour le développement du territoire guyanais, en répondant aux besoins en compétences aussi bien dans le secteur numérique que dans l'ensemble des secteurs impactés par le développement de l'IA et par les risques cyber.
 
-## [VPN pas cher : cette offre disparaît bientôt et c'est l'une des plus performantes - BFM](https://www.bfmtv.com/tech/bons-plans/vpn/vpn-pas-cher-cette-offre-disparait-bientot-et-c-est-l-une-des-plus-performantes_AB-202605170008.html)  
-*Source : bfmtv.com | Publication : 2026-05-17*
+## [<b>Cybersécurité</b> : nombre &quot;record&quot; de violations de données en 2025, en hausse de près de ...](https://www.ici.fr/infos/societe/cybersecurite-nombre-record-de-violations-de-donnees-en-2025-en-hausse-de-pres-de-10-en-france-selon-la-cnil-4197768)  
+*Source : ici.fr | Publication : 2026-05-18*
 
-- VPN pas cher : cette offre disparaît bientôt et c'est l'une des plus performantes Avec NordVPN, la protection rassemble vitesse, outils de sécurité et surveillance du Dark Web.
-- L’abonnement propose trois formules disponibles au mois, à l’année ou sur deux ans.
-- La version Standard inclut déjà la surveillance de fuites de données, capable de vérifier jusqu’à cinq adresses mail si des identifiants apparaissent en ligne.
-- La formule Plus ajoute un gestionnaire de mots de passe, des alertes liées aux fuites et un blocage des publicités.
+- Cybersécurité : nombre "record" de violations de données en 2025, en hausse de près de 10% en France, selon la Cnil Publié le La France a connu un nombre "record" de violations de données en 2025, en hausse de près de 10%, a annoncé lundi la Cnil, l'autorité protectrice de la vie privée.
+- Elle indique renforcer ses contrôles et sanctions en 2026.
+- En 2025, la Cnil (Commission nationale de l'informatique et des libertés) a enregistré 6.167 notifications de violations de données, soit 9,5% de plus qu'en 2024, a annoncé l'autorité lundi.
+- Il s'agit du plus haut niveau jamais comptabilisé, selon son rapport annuel.
 
-## [Les entreprises ont créé tellement d'agents IA qu'elles ne les contrôlent plus - Les Numériques](https://www.lesnumeriques.com/intelligence-artificielle/les-entreprises-ont-cree-tellement-d-agents-ia-qu-elles-ne-les-controlent-plus-n256054.html)  
-*Source : lesnumeriques.com | Publication : 2026-05-17*
+## [Face à un nombre record de violations de données en 2025, la Cnil va renforcer ses contrôles](https://www.ouest-france.fr/societe/cyberattaque/face-a-un-nombre-record-de-violations-de-donnees-en-2025-la-cnil-va-renforcer-ses-controles-2c3fa350-52f1-11f1-8066-69bb349938ad)  
+*Source : ouest-france.fr | Publication : 2026-05-18*
 
-- Les entreprises ont créé tellement d'agents IA qu'elles ne les contrôlent plus Les entreprises sont submergées par leurs propres agents IA.
-- Le phénomène a un nom, c'est l'agent sprawl.
-- Et il touche déjà des géants comme Ben & Jerry's, Lyft ou DaVita.
-- Le Wall Street Journal a publié une enquête sur ce nouveau mal qui transforme la promesse de productivité en cauchemar.
+- .
+- La Cnil a averti que ses contrôles et la répression en matière de cybersécurité vont fortement s'accentuer en 2026.
+- |.
 
-## [<b>Cybersécurité</b> : les 8 actualités majeures du 17 mai 2026](https://dcod.ch/2026/05/17/cybersecurite-les-8-actualites-majeures-du-17-mai-2026/)  
-*Source : dcod.ch | Publication : 2026-05-17*
+## [L'identité, nouvelle ligne de front de la <b>cybersécurité</b>… Marc Schmitt, Sasety - InformatiqueNews.fr](https://www.informatiquenews.fr/lidentite-nouvelle-ligne-de-front-de-la-cybersecurite-marc-schmitt-sasety-111472)  
+*Source : informatiquenews.fr | Publication : 2026-05-18*
 
-- Faits marquants de la semaine La responsable de la cybersécurité allemande alerte sur des modèles d’intelligence artificielle chinois proches des capacités de piratage avancées de Mythos, alors que l’Union européenne reste sans accès direct à ces systèmes et dépend des évaluations britannique et américaine.
-- - En parallèle, la présidence de la Commission européenne envisage de relever dès cet été l’âge minimum d’accès aux réseaux sociaux, s’appuyant sur une application européenne de vérification d’âge critiquée pour ses failles de sécurité mais jugée conforme au Digital Services Act.
-- - Au Canada, la messagerie chiffrée Signal menace de se retirer du pays plutôt que de se conformer à un projet de loi sur l’accès légal qu’elle estime dangereux pour l’intégrité du chiffrement et générateur de vulnérabilités systémiques.
-- - Apple déploie avec iOS 26.5 un chiffrement de bout en bout par défaut pour la messagerie Rich Communication Services entre iPhone et Android, via une phase bêta limitée aux opérateurs compatibles et à la dernière version de Google Messages.
+- Le cloud, le travail hybride et les applications SaaS ont déplacé le centre de gravité de la cybersécurité vers l’identité.
+- Dans un SI distribué, chaque compte, privilège et signal comportemental devient un indicateur critique pour contenir l’usurpation, réduire la dette identitaire et appliquer une logique Zero Trust.
+- La cybersécurité a longtemps reposé sur une idée simple : protéger le réseau pour protéger l’entreprise.
+- On fortifiait le périmètre, on segmentait, on contrôlait les flux.
 
-## [RECRUTEMENT À LA SOCIÉTÉ MINIÈRE CANADIENNE B2GOLD (17 mai 2026)](https://yop.l-frii.com/emploi/recrutement-a-la-societe-miniere-canadienne-b2gold-17-mai-2026/)  
-*Source : yop.l-frii.com | Publication : 2026-05-17*
+## [Rapport annuel : le bilan et les actions marquantes de la CNIL en 2025](https://www.cnil.fr/fr/rapport-annuel-2025)  
+*Source : cnil.fr | Publication : 2026-05-18*
 
-- B2Gold est un acteur majeur de l’industrie aurifère internationale, reconnu pour ses faibles coûts de production, avec son siège situé à Vancouver, au Canada.
-- Fondée en 2007, B2Gold exploite des mines d’or au Mali, en Namibie et aux Philippines, ainsi que le projet Goose, actuellement en construction dans le nord du Canada.
-- La société mène également de nombreux projets de développement et d’exploration dans plusieurs pays, notamment au Mali, en Colombie et en Finlande.
-- B2Gold Mali SARL, l’une de ses filiales au Mali, recherche un(e) Administrateur des Systèmes et Réseaux (H/F).
+- Rapport annuel : le bilan et les actions marquantes de la CNIL en 2025 18 mai 2026 Accompagnement des professionnels, contrôle de leurs pratiques, sensibilisation du public, mais aussi régulation de l’IA, cybersécurité et coopération européenne… la CNIL fait le bilan d’une année 2025 intense, au service de la protection des données personnelles et de la vie privée de tous.
+- Chaque année, la CNIL publie son rapport d'activité pour faire le point sur ses actions autour de ses quatre grandes missions : informer et protéger le grand public, accompagner et conseiller les professionnels et les pouvoirs publics, anticiper et innover pour construire le numérique de demain et, enfin, contrôler et sanctionner les manquements aux exigences en matière de protection des données, qui découlent notamment du règlement général sur la protection des données (RGPD).
+- 2025 a notamment été marquée par une hausse très importante des plaintes reçues, un montant total d’amendes inédit, mais aussi un record de notifications de violations de données.
+- En dépit de moyens contraints au regard de l’accroissement de sa charge, la CNIL s’organise et se transforme, notamment pour accompagner l’entrée en application progressive du règlement sur l’ (RIA).
 
-## [Cyberattaque : Belambra à son tour victime d'une fuite de données, 400 000 personnes concernées](https://www.capital.fr/economie-politique/cyberattaque-belambra-a-son-tours-victime-d-une-fuite-de-donnees-400-000-personnes-concernees-1526625)  
-*Source : capital.fr | Publication : 2026-05-17*
+## [Les investissements informatiques en progression au sein du groupe Hospi Grand Ouest](https://www.ticsante.com/story?ID=8240)  
+*Source : ticsante.com | Publication : 2026-05-18*
 
-- Après la fuite de données sur 1,8 million de réservations dont a fait l’objet le groupe de tourisme Pierre et Vacances, son concurrent direct Belambra pourrait être concerné également selon le site spécialisé French Breaches, selon Sud-Ouest.
-- Selon cette source, un hacker serait parvenu à obtenir les données de 402 000 personnes.
-- Parmi elles, nombreuses sont mineures.
-- Le site a par ailleurs été directement contacté par le hacker, qui lui a communiqué des échantillons des données fuitées.
+- Cette progression "tradui[t] l'accélération de la transformation digitale et des projets liés aux systèmes d'information".
+- Le groupe investit dans l'adaptation des parcours de soins.
+- HGO a aussi dû investir après la cyberattaque dont il a été victime en novembre 2024.
+- L'ancien employé de la clinique de la Sagesse de Rennes à l'origine de l'attaque a été condamné en janvier à 30 mois de prison dont six ferme, rappelle-t-on.
 
-## [C'est Quoi Le Phishing ? Comment Éviter Cette Arnaque En Ligne #phishing ... - YouTube](https://www.youtube.com/watch?v=l_pAAl7SlWY)  
-*Source : youtube.com | Publication : 2026-05-17*
+## [IA et finance : Anthropic pourrait présenter son modèle « Mythos » aux autorités du G20](https://zoominvest.fr/actualites/ia-et-finance-anthropic-pourrait-presenter-son-modele-mythos-aux-autorites-du-g2/a9azzjqnz7jxtzt37fphwue0)  
+*Source : zoominvest.fr | Publication : 2026-05-18*
+
+- Actions 1Obligations 1Flexibles 1Perf.
+- absolue 1L'essentiel de l'actualité patrimoniale et financière pour les CIF, chaque matin dans votre boîte mail.
+- Anthropic commence à ouvrir le dialogue avec les régulateurs financiers internationaux autour de son modèle d’intelligence artificielle baptisé « Mythos ».
+- La société américaine serait effectivement prête à présenter les premiers enseignements du système au Conseil de stabilité financière (FSB), organisme chargé d’identifier les risques pesant sur le système mondial.
+
+## [Il a validé 50€. Sa banque a débité 1 200€. #<b>cybersecurite</b> #banque #hacking #Shorts - YouTube](https://www.youtube.com/watch?v=m4OoA5hUVxo)  
+*Source : youtube.com | Publication : 2026-05-18*
 
 - About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Le malware TrickMo est de retour sur Android, et il se cache sur la blockchain - 01net.com](https://www.01net.com/actualites/malware-trickmo-retour-android-cache-blockchain.html)  
-*Source : 01net.com | Publication : 2026-05-17*
+## [Guillaume Almeida, expert en <b>Cybersécurité</b> chez GNA-CI : 'Nous proposons une éva](https://www.sikafinance.com/marches/guillaume-almeida-expert-en-cybersecurite-chez-gna-ci-nous-proposons-une-evaluation-de-vulnerabilite-cyber-gratuite-en-moins-de-cinq-minutes_61757)  
+*Source : sikafinance.com | Publication : 2026-05-18*
 
-- TrickMo n’est pas inconnu des chercheurs en cybersécurité.
-- Depuis plusieurs années, ce cheval de Troie prend d’assaut les smartphones Android pour tenter de dépouiller les utilisateurs.
-- Apparu en 2020, le virus s’en prend surtout aux utilisateurs d’applications bancaires.
-- Il y a près de deux ans, TrickMo est notamment réapparu sous la forme d’une quarantaine de variantes malveillantes.
+- Guillaume Almeida, expert en Cybersécurité & Business Developer chez GNA-CI : Chez GNA-CI, nous proposons une évaluation de vulnérabilité cyber gratuite, en moins de cinq minutes Le numérique a transformé l'économie ivoirienne à une vitesse remarquable.
+- Mais cette transformation a-t-elle été accompagnée d'une protection suffisante ?.
+- Guillaume Almeida, Expert en Cybersécurité et Business Developer chez GNA-CI, pose un diagnostic sans détour sur la cybersécurité des entreprises ouest-africaines, le rôle de l'intelligence artificielle, et la solution locale qui existe déjà pour y répondre.
+- Les institutions financières sont aujourd'hui parmi les principales cibles des cyberattaques dans le monde.
 
-## [Sanctionner sévèrement les actes d'exploitation de l'IA et des deepfakes pour diffuser de ...](https://www.vietnam.vn/fr/nghiem-khac-xu-ly-cac-hanh-vi-loi-dung-ai-va-deepfake-de-phat-tan-tin-gia)  
-*Source : vietnam.vn | Publication : 2026-05-17*
+## [La conformité et la documentation font perdre un temps précieux aux équipes de sécurité ...](https://b2b-cyber-security.de/fr/La-conformité-et-la-documentation-font-perdre-un-temps-précieux-aux-équipes-de-sécurité-informatique./')  
+*Source : b2b-cyber-security.de | Publication : 2026-05-18*
 
-- Concernant les nouveaux points et les dispositions importantes de plusieurs projets de décrets détaillant et guidant la mise en œuvre de la loi de 2025 sur la cybersécurité, le lieutenant-colonel Trieu Manh Tung, directeur adjoint du département de la cybersécurité et de la prévention de la criminalité de haute technologie (ministère de la Sécurité publique), a déclaré que le projet de loi de 2025 sur la cybersécurité est mis en œuvre sur la base de la fusion de la loi de 2018 sur la cybersécurité et de la loi de 2015 sur la sécurité des réseaux d'information afin d'assurer la compatibilité avec le modèle organisationnel des agences de niveau ministériel conformément à la résolution 18 du Politburo.
-- Il est à noter que l'utilisation de l'IA ou des deepfakes pour créer de fausses images et informations est désormais très courante sur diverses plateformes.
-- Bien que la loi de 2015 sur la cybersécurité contienne certaines dispositions à ce sujet, elle ne réglemente ni ne sanctionne efficacement l'utilisation non autorisée de ces applications.
-- Le lieutenant-colonel Trieu Manh Tung a donc déclaré que le projet de « Décret relatif aux sanctions administratives pour les violations en matière de cybersécurité et de protection des données personnelles » devrait ajouter de nombreuses dispositions strictes afin de lutter contre l'exploitation de l'intelligence artificielle et des technologies de deepfake pour créer et diffuser de fausses informations.
+- En Allemagne, en Autriche et en Suisse, comme de nombreuses organisations à travers le monde, les entreprises doivent relever le défi de la conformité à un nombre croissant de réglementations en matière de technologies de l'information et de cybersécurité.
+- Une étude internationale récente commandée par Sophos montre l'impact significatif des exigences réglementaires sur les opérations quotidiennes et leurs conséquences pour les équipes informatiques et de sécurité.
+- Pour cette étude, un total de 5 000 responsables informatiques et de cybersécurité issus de 17 pays et de divers secteurs d’activité ont été interrogés début 2026.
+- Les résultats montrent que la conformité est depuis longtemps devenue une tâche de gestion permanente qui mobilise des ressources considérables et met de nombreuses organisations à rude épreuve.
 
-## [Le Sri Lanka, nouvel eldorado asiatique de l'arnaque en ligne ? - France 24](https://www.france24.com/fr/info-en-continu/20260517-le-sri-lanka-nouvel-eldorado-asiatique-de-l-arnaque-en-ligne)  
-*Source : france24.com | Publication : 2026-05-17*
+## [Le secteur de la santé déploie l'IA à grande échelle sans l'infrastructure nécessaire pour la gérer.](https://health-isac.org/fr/healthcare-is-scaling-ai-without-the-infrastructure-to-manage-it/)  
+*Source : health-isac.org | Publication : 2026-05-18*
 
-- Le Sri Lanka, nouvel eldorado asiatique de l'arnaque en ligne ?.
-- Colombo (AFP) – Le Sri Lanka est-il en passe de devenir un nouveau "hub" de la cybercriminalité internationale ?.
-- Lourdement réprimés au Cambodge ou en Birmanie, les escrocs du net semblent s'être redéployés dans l'île d'Asie du Sud, où les arrestations se multiplient.
-- Publié le : Depuis le début de l'année, plus d'un millier d'étrangers - pour la plupart issus de Chine, du Vietnam et d'Inde - ont été interpellés pour fraude en ligne, détaille à l'AFP un porte-parole de la police, Fredrick Wootler, un chiffre en nette hausse par rapport à 2024 et 2025.
+- Le secteur de la santé déploie l'IA à grande échelle sans l'infrastructure nécessaire pour la gérer.
+- Personne n'a cherché à créer un problème de gouvernance.
+- C'est arrivé simplement parce qu'il n'y avait aucun processus pour l'empêcher.
+- Les organismes de santé adoptent l'IA plus rapidement qu'ils n'apprennent à la gérer.
 
-## [Après Pierre et Vacances, Belambra touché à son tour par une fuite de données](https://www.latribune.fr/article/economie/230111076531714/apres-pierre-et-vacances-belambra-touche-a-son-tour-par-une-fuite-de-donnees)  
-*Source : latribune.fr | Publication : 2026-05-17*
+## [[Communiqué] Maine-et-Loire : nomination de Samuel Richer au poste de responsible IA ...](https://www.usinenouvelle.com/pays-de-la-loire/maine-et-loire/communique-maine-et-loire-nomination-de-samuel-richer-au-poste-de-responsible-ia-chez-baker-tilly-france.BAWTOMZRZNDC7HSY4Z7ZBSO4KM.html)  
+*Source : usinenouvelle.com | Publication : 2026-05-18*
 
-- Après Pierre et Vacances, Belambra touché à son tour par une fuite de données latribune.fr Les spécialistes de la cybersécurité alertent depuis plusieurs années sur la vulnérabilité particulière du secteur touristique.
-- /FW1F/Sherry Jacob - REUTERS - Kacper Pempel.
+- Âgé de 35 ans, il rejoint le groupe après des expériences dans l'intelligence économique, la cybersécurité et les technologies liées à l'IA.
+- Cette.
 
-## [Zerrouki annonce le lancement du programme national d'autonomisation numérique](https://news.radioalgerie.dz/fr/node/86319)  
-*Source : news.radioalgerie.dz | Publication : 2026-05-17*
+## [Windows 11 : une faille majeure permet de neutraliser BitLocker - 01net.com](https://www.01net.com/actualites/windows-11-une-faille-majeure-permet-de-neutraliser-bitlocker.html)  
+*Source : 01net.com | Publication : 2026-05-18*
 
-- Le ministre de la Poste et des Télécommunications, Sid Ali Zerrouki, a annoncé, samedi, à l'occasion de la Journée mondiale des télécommunications et de la société de l'information, le lancement du programme national d'autonomisation numérique (77.7) visant à doter les citoyens algériens des compétences numériques requises pour soutenir le processus national de transformation numérique.
-- Cette ambitieuse initiative nationale, placée sous le slogan «De 7 à 77 ans : un parcours national vers les compétences numériques», vise à «qualifier les citoyens algériens de tous âges en les dotant des compétences numériques requises pour répondre aux exigences de l'époque et soutenir le processus national de transformation numérique», indique un communiqué du ministère.
-- Ce programme, présenté comme «le plus intégré du genre à l'échelle nationale», cible sept catégories d'âge à travers «sept parcours pédagogiques soigneusement conçus pour répondre aux besoins de chaque étape».
-- Le programme commence par le parcours «Explorateurs de la technologie», destiné aux enfants de 7 à 10 ans.
+- Un dossier mis en libre-service, une clé USB et une touche du clavier enfoncée : c’est tout ce qu’il faut pour neutraliser la protection BitLocker et accéder aux données chiffrées d’un ordinateur.
+- L’expert en cybersécurité Nightmare-Eclipse a révélé publiquement cette faille majeure, qu’il n’hésite pas à qualifier de « backdoor ».
+- Microsoft a promis d’enquêter sur la situation.
+- Une faille critique dans Windows 11 permet de neutraliser la protection BitLocker Nightmare-Eclipse, un spécialiste en cybersécurité, a expliqué sur GitHub avoir découvert une faille majeure sur Windows 11 qui permet tout simplement de neutraliser BitLocker, le logiciel destiné à assurer le chiffrement et la sécurité des données.
 
-## [Mythos : la boîte de Pandore de la <b>cybersécurité</b> est ouverte | We demain](https://www.wedemain.fr/societe-de-demain/nouvelles-technologies/mythos-la-boite-de-pandore-de-la-cybersecurite-est-ouverte-1152171)  
-*Source : wedemain.fr | Publication : 2026-05-17*
+## [MISE À JOUR N° 2-Selon le Financial Times, Anthropic va présenter un exposé devant l ...](https://www.boursorama.com/actualite-economique/actualites-amp/mise-a-jour-n-2-selon-le-financial-times-anthropic-va-presenter-un-expose-devant-l-organisme-mondial-de-surveillance-financiere-sur-les-failles-informatiques-mises-au-jour-par-mythos-78d63fd46ce617f82a647347aa56d42c)  
+*Source : boursorama.com | Publication : 2026-05-18*
 
-- Beaucoup est dit sur Mythos (un LLM, un grand modèle de langage, d’Anthropic axé sur le raisonnement, le codage et la cybersécurité) et le culte du secret d’Anthropic.
-- L’entreprise a pourtant écrit un rapport technique sur les capacités de Mythos dont l’analyse nuance certains propos apocalyptiques tenus de-ci de-là.
-- Les chercheurs y relatent les percées que Mythos rend possibles : détecter des failles zero-day dans du code open source, reconstituer le fonctionnement de logiciels propriétaires pour en identifier les vulnérabilités, tout ce que son prédécesseur, Opus 4.6, faisait déjà bien.
-- Le saut de Mythos, c’est sa capacité à exploiter ces failles.
+- MISE À JOUR N° 2-Selon le Financial Times, Anthropic va présenter un exposé devant l'organisme mondial de surveillance financière sur les failles informatiques mises au jour par Mythos information fournie par Reuters 18/05/2026 à 16:44 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Le gouverneur de la Banque d'Angleterre, Andrew Bailey, a demandé à ce qu'Anthropic fasse un exposé devant le FSB, rapporte le Financial Times * Les experts en cybersécurité avertissent que Mythos pourrait permettre des attaques sophistiquées, augmentant ainsi les risques pour les banques utilisant des technologies obsolètes (Ajout de la réponse du Conseil de stabilité financière au paragraphe 5) La start-up spécialisée dans l'intelligence artificielle Anthropic s'apprête à présenter au Conseil de stabilité financière (FSB) les vulnérabilités cybernétiques du système financier mondial identifiées par son dernier modèle d'IA, Mythos, a rapporté lundi le Financial Times, citant des sources proches du dossier.
+- Le créateur du chatbot Claude discutera des capacités de son nouveau modèle d'IA Mythos Preview avec les principaux ministères des Finances et banques centrales membres du FSB, à la demande du gouverneur de la Banque d'Angleterre, Andrew Bailey, a indiqué le FT.
+- M. Bailey préside leFSB, un organisme mondial de surveillance des risques chargé de coordonner les règles financières des économies du G20.
+- Anthropic n'a pas immédiatement répondu à la demande de commentaires de Reuters.
 
-## [Arnaques dopées à l'IA : comment le crime change d'échelle - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/05/17/arnaques-dopees-ia/)  
-*Source : dcod.ch | Publication : 2026-05-17*
+## [Piratage de sites de réservation de vacances : Gîtes de France rejoint la liste, 1,6 million de ...](https://actu.orange.fr/france/piratage-de-sites-de-reservation-de-vacances-gites-de-france-rejoint-la-liste-1-6-million-de-clients-impactes-magic-CNT000002ppmwn.html)  
+*Source : actu.orange.fr | Publication : 2026-05-18*
 
-- TL;DR : L’essentiel L’intelligence artificielle générative produit des messages malveillants et des vidéos trompeuses.
-- Ces contenus imitent parfaitement le langage humain.
-- Ils contournent ainsi les filtres de sécurité classiques des boîtes mail.
-- - Des centres d’appels malveillants en Asie du Sud-Est utilisent des outils peu coûteux.
+- Piratage de sites de réservation de vacances : Gîtes de France rejoint la liste, 1,6 million de clients impactés © Pexels - Illustration.
+- Le site FrenchBreaches a révélé que plusieurs sites de réservations de séjours touristiques ont été victimes de cyberattaques, dont Gîtes de France.
+- Près de cinq millions de données ont été subtilisées.
+- La prudence est de mise à l’approche des vacances d’été.
 
-## [Numérisation: l'ambitieux programme de formation de l'Etat au profit des citoyens](https://lalgerieaujourdhui.dz/numerisation-lambitieux-programme-de-formation-de-letat-au-profit-des-citoyens/)  
-*Source : lalgerieaujourdhui.dz | Publication : 2026-05-17*
+## [« La France est une passoire en matière de <b>cybersécurité</b> » : Gîtes de France visé à son tour ...](https://www.sudouest.fr/faits-divers/la-france-est-une-passoire-en-matiere-de-cybersecurite-gites-de-france-vise-a-son-tour-par-une-cyberattaque-plus-de-389-000-clients-pourraient-etre-concernes-29117945.php)  
+*Source : sudouest.fr | Publication : 2026-05-18*
 
-- يتم التحقّق من أن طلبك ليس طلباً آلياً... Verifying that you are not a robot... Please wait few seconds...الرجاء الإنتظار بضعة ثوان DZSecurity.
+- Après les attaques contre Pierre et vacances et Belambra la semaine dernière, le même hacker a frappé un troisième acteur du tourisme en dérobant des données de réservations de Gîtes de France Le réseau d’hébergements Gîtes de France a confirmé dimanche avoir été victime samedi d’un vol de données qui pourrait concerner plus de 389 000 clients selon le site de recension des fuites en ligne French Breaches, qui a révélé l’information.
+- « Un incident de sécurité (a) entraîné un accès frauduleux à certaines données relatives aux dossiers de réservation » des clients, a indiqué Gîtes de France dans un communiqué.
 
-## [FPT propose de renforcer une alliance IA entre le Vietnam et l'Inde](https://lecourrier.vn/fpt-propose-de-renforcer-une-alliance-ia-entre-le-vietnam-et-linde/1347507.html)  
-*Source : lecourrier.vn | Publication : 2026-05-17*
+## [« La voie à suivre est de ne pas payer la rançon » : Grafana Labs subit un chantage, mais le ...](https://www.numerama.com/cyberguerre/2254595-la-voie-a-suivre-est-de-ne-pas-payer-la-rancon-grafana-labs-subit-un-chantage-mais-le-choix-savere-facile.html)  
+*Source : numerama.com | Publication : 2026-05-18*
 
-- >> FPT renforce sa coopération avec FESCARO dans la cybersécurité automobile >> IA d’entreprise : FPT rejoint les leaders mondiaux du secteur >> FPT et Intel s’allient pour accélérer l’émergence des usines autonomes basées sur l’IA Lors de sa récente visite d’État en Inde, le secrétaire général du Parti communiste du Vietnam et président vietnamien Tô Lâm a souligné que la science, la technologie et l’innovation constitueront l’un des piliers majeurs de la coopération bilatérale dans les années à venir.
-- Selon lui, les connaissances, les technologies et l’innovation sont désormais les principaux moteurs de croissance, nécessitant une coopération plus approfondie dans des secteurs comme l’IA, les données et les semi-conducteurs.
-- Au Forum sur l’innovation Vietnam - Inde organisé le 6 mai à New Delhi, Pham Minh Tuân, directeur général de FPT Software et directeur général adjoint de FPT, a présenté plusieurs propositions concrètes de coopération entre les deux pays.
-- Selon FPT, le Vietnam et l’Inde possèdent des atouts complémentaires dans le domaine de l’IA.
+- Que faire ?.
+- Et surtout, qu’est-ce qui se joue réellement ?.
+- C’est sans doute la question que se sont posées les équipes de Grafana Labs, entreprise américaine notamment connue pour Grafana, un outil open source permettant de créer des tableaux de bord pour superviser des infrastructures informatiques.
+- Selon les détails fournis par l’entreprise le 17 mai 2026, un acteur non identifié a réussi à obtenir un token donnant accès à l’environnement GitHub de Grafana Labs, avant d’exfiltrer l’intégralité de la base de code.
 
-## [Regardez le MotoGP 2026 avec VPN : GP de Catalogne - Cybernews](https://cybernews.com/fr/regarder-en-ligne/le-grand-prix-de-catalogne-de-moto-gp-2026-05-17/)  
-*Source : cybernews.com | Publication : 2026-05-17*
+## [Cette faille Windows a été découverte en 2020, et elle n'est toujours pas corrigée](https://www.01net.com/actualites/cette-faille-windows-decouverte-2020-toujours-pas-corrigee.html)  
+*Source : 01net.com | Publication : 2026-05-18*
 
-- Comment regarder le Grand Prix de Catalogne 2026 de Moto GP gratuitement Grâce à une analyse approfondie et à des tests pratiques de VPN, nos experts en cybersécurité ont collaboré avec l’équipe de recherche pour rédiger plus de 750 articles au fil des années.
-- Forts de leur expertise de terrain, notre principal objectif est d’aider nos lecteurs à prendre des décisions d’achat éclairées.
-- En savoir plusLe MotoGP s'installe à Barcelone ce week-end pour le GP de Catalogne, du 15 au 17 mai.
-- Sixième manche d'une saison déjà électrique, le Circuit de Barcelona-Catalunya marque une nouvelle étape de la tournée européenne.
-
-## [Renforcer les compétences numériques pour aider les adolescents à se protéger en ligne.](https://www.vietnam.vn/fr/tang-ky-nang-so-de-thanh-thieu-nien-tu-bao-ve-tren-moi-truong-mang)  
-*Source : vietnam.vn | Publication : 2026-05-17*
-
-- L'un des moments forts du programme a été la signature d'un protocole d'entente entre la National Cybersecurity Association (NCA) et TikTok concernant la mise en œuvre d'activités de communication sur la cybersécurité.
-- Aux termes de cet accord, TikTok devient un partenaire stratégique de la NCA pour les programmes de formation, la diffusion des connaissances et la sensibilisation du public à la sécurité en ligne, à la protection des données personnelles et à la prévention des risques dans l'environnement numérique.
-- Dans le cadre de cette nouvelle collaboration, l’Institut MSD travaillera avec TikTok pour promouvoir la communication et développer les compétences numériques des jeunes.
-- Les deux partenaires mettront également en œuvre conjointement diverses campagnes de sensibilisation auprès des parents, des élèves et de la communauté aux risques en ligne, contribuant ainsi à réduire les comportements à risque envers les enfants et les jeunes.
+- L’histoire de la faille débute en 2020.
+- En septembre de cette année-là, James Forshaw, chercheur chez Google Project Zero, signale une faille critique à Microsoft.
+- Cette vulnérabilité se situe dans un composant appelé le « Cloud Filter driver », qui est chargé de la gestion de la synchronisation des fichiers entre votre PC et des services cloud, comme OneDrive.
+- Sans tarder, Microsoft a reconnu qu’un problème touchait le composant.
