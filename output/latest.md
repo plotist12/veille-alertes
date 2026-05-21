@@ -1,156 +1,145 @@
-# Résumés – 2026-05-20
+# Résumés – 2026-05-21
 
 
-## [Rockwell Automation nomme David Lefebvre Directeur Général France - ITRnews](https://itrnews.com/articles/209803/rockwell-automation-nomme-david-lefebvre-directeur-general-france.html)  
-*Source : itrnews.com | Publication : 2026-05-19*
+## [Microsoft démantèle Fox Tempest, un service frauduleux de signature de logiciels malveillants](https://www.malwarebytes.com/fr/blog/news/2026/05/fake-malware-signing-service-fox-tempest-dismantled-by-microsoft)  
+*Source : malwarebytes.com | Publication : 2026-05-20*
 
-- Veuillez activer Javascript.
+- Microsoft affirme avoir démantelé un service de signature de logiciels malveillants (MSaaS) baptisé Fox Tempest, qui aidait les cybercriminels à faire passer leurs logiciels malveillants pour des programmes légitimes.
+- Ce service permettait aux clients de soumettre des fichiers malveillants afin qu'ils soient signés numériquement à l'aide de certificats à durée de validité limitée émis par Microsoft, ce qui donnait à ces logiciels malveillants une apparence légitime et leur permettait de contourner plus facilement les contrôles de sécurité.
+- Le service de Fox Tempest s'articulait autour d'un processus de signature destiné aux clients, dans le cadre duquel les cybercriminels pouvaient télécharger des fichiers binaires malveillants sur un portail, les faire signer à l'aide de certificats valables seulement 72 heures, puis recevoir des fichiers qui semblaient provenir d'une source logicielle de confiance.
+- Microsoft indique clairement que cette approche a permis au logiciel malveillant de contourner les contrôles de sécurité et de passer outre les défenses qui, en temps normal, auraient signalé un code non signé suspect.
 
-## [L'identité, nouvelle ligne de front de la <b>cybersécurité</b> - GoodTech.info](https://goodtech.info/lidentite-nouvelle-ligne-de-front-de-la-cybersecurite/)  
-*Source : goodtech.info | Publication : 2026-05-19*
+## [ESET rachète Athena Global Services, son importateur exclusif en France - Distributique](https://www.distributique.com/actualites/lire-eset-rachete-athena-global-services-son-importateur-exclusif-en-france-37237.html)  
+*Source : distributique.com | Publication : 2026-05-20*
 
-- La cybersécurité a longtemps reposé sur une idée simple : protéger le réseau pour protéger l’entreprise.
-- On fortifiait le périmètre, on segmentait, on contrôlait les flux.
-- Mais le périmètre n’existe plus.
-- Le cloud a éclaté les architectures.
+- « C’est une consolidation verticale.
+- ESET, marque européenne, veut renforcer son ancrage local et y investir », explique Julien Jean d'Eset.
+- (Crédit Eset) ESET s'implante durablement en France, l'éditeur s'est en effet engagé ŕ reprendre l'activité de son importateur exclusif dans l'hexagone.
+- ESET, l'éditeur slovaque de solutions de sécurité qui était représenté en France par Athena Global Services (AGS), son importateur exclusif depuis 22 ans, a décidé de racheter la structure pour devenir ESET France.
 
-## [L'IA dans le secteur de la santé a un problème de responsabilité - Health-ISAC](https://health-isac.org/fr/L'IA-dans-le-secteur-de-la-santé-a-un-problème-de-responsabilité/)  
-*Source : health-isac.org | Publication : 2026-05-19*
+## [Un criminologue de l'UdeM obtient 4,5 M$ pour étudier la <b>cybercriminalité</b> allemande](https://nouvelles.umontreal.ca/article/2026/05/20/un-criminologue-de-l-udem-obtient-45-m-pour-etudier-la-cybercriminalite-allemande)  
+*Source : nouvelles.umontreal.ca | Publication : 2026-05-20*
 
-- L'IA dans le secteur de la santé a un problème de responsabilité Assurez-vous de bien le faire avant de le mettre en marche.
-- Par Errol Weiss.
-- Publié Dans le secteur de la santé, l'IA est désormais omniprésente, des décisions cliniques aux ressources humaines en passant par la finance.
-- Pourtant, de nombreuses organisations ne disposent toujours pas des délégations nécessaires en matière de gestion des risques pour garantir que les outils d'IA ne causent pas de préjudices.
+- Un consortium de recherche dirigé par le professeur de criminologie de l’Université de Montréal David Décary-Hétu a obtenu un financement de 2,8 M€ (4,5 M$) d’un organisme fédéral allemand pour mener des travaux sur les préjudices causés par la cybercriminalité en Allemagne.
+- L’UdeM et l’Agentur für Innovation in der Cybersicherheit GmbH (Cyberagentur) ont signé l’entente le 30 avril.
+- Elle prévoit la participation de l’équipe de David Décary-Hétu au projet ARCH (Assessing Risks and Cybercrime Harms), qui vise à évaluer les effets multidimensionnels de la cybercriminalité.
+- Au-delà des pertes financières directes, ces effets comprennent les atteintes psychologiques, organisationnelles et sociétales entraînées par les activités criminelles en ligne, visibles ou invisibles, notamment sur le Web caché.
 
-## [Ariane : la question du pilotage des systèmes d'information de l'État - Solutions-Numeriques](https://www.solutions-numeriques.com/ariane-la-question-du-pilotage-des-systemes-dinformation-de-letat/)  
-*Source : solutions-numeriques.com | Publication : 2026-05-19*
+## [Trois valeurs de <b>cybersécurité</b> à acheter avant les résultats, selon Morgan Stanley](https://fr.investing.com/news/stock-market-news/trois-valeurs-de-cybersecurite-a-acheter-avant-les-resultats-selon-morgan-stanley-93CH-3427660)  
+*Source : fr.investing.com | Publication : 2026-05-20*
 
-- La création de la future Autorité du numérique et de l’intelligence artificielle de l’État (Ariane) a alimenté les interrogations sur l’avenir du rôle de l’Anssi.
-- Alors que certaines critiques visent l’agence après plusieurs incidents majeurs, son directeur général, Vincent Strubel, assure que la réforme engagée par le gouvernement concerne avant tout le pilotage du numérique public et non la remise en cause de l’autorité nationale en matière de cybersécurité.
-- La création d’Ariane, annoncée par le Premier ministre Sébastien Lecornu dans le cadre du plan de renforcement de la cybersécurité de l’État présenté après la fuite de données ayant touché l’Agence nationale des titres sécurisés (ANTS), continue de susciter des commentaires sur l’organisation de la cybersécurité publique.
-- Selon les informations publiées par Le Canard Enchaîné dans son édition du 13 mai, cette réforme serait interprétée par certains comme un désaveu de l’Agence nationale de la sécurité des systèmes d’information (Anssi), voire comme le prélude à une redistribution de ses prérogatives.
+- Les valeurs de cybersécurité ont récemment progressé, se démarquant des actions du secteur logiciel, les inquiétudes concernant les menaces liées à l'.
 
-## [Panorama de la <b>cybermenace</b> 2025 - Banque Populaire](https://www.banquepopulaire.fr/professionnels/conseils/panorama-cybermenace/)  
-*Source : banquepopulaire.fr | Publication : 2026-05-19*
+## [Mailinblack renforce son réseau indirect avec Actual Systèmes - ITforBusiness.fr](https://www.itforbusiness.fr/mailinblack-renforce-son-reseau-indirect-avec-actual-systemes-103631)  
+*Source : itforbusiness.fr | Publication : 2026-05-20*
 
-- Panorama de la cybermenace 2025 L’Agence nationale de la sécurité des systèmes d’information (ANSSI) vient de publier son bilan pour l’année 2025.
-- Elle y partage les grandes tendances qu’elle a observées en matière de menaces sur les systèmes d’information.
-- Selon le bilan 2025, l’ANSSI a traité 3 586 événements de sécurité, un chiffre en diminution de 18 % par rapport à l’année précédente, qui peut s’expliquer notamment par la tenue des Jeux olympiques et paralympiques de Paris ayant entraîné un pic des signalements sur l’année 2024.
-- Quatre secteurs d’activité sont particulièrement concernés par les signalements en 2025 : l’Éducation et la recherche (34 %), les ministères et les collectivités territoriales (24 %), la santé (10 %) et les télécommunications (9 %).
+- ChannelScope Mailinblack renforce son réseau indirect avec Actual Systèmes Par Frédéric Bergonzoli, publié le 20 mai 2026 En confiant la distribution de sa suite U-Cyber 360° à Actual Systèmes, l’éditeur français espère tirer parti du maillage territorial du grossiste, en particulier pour toucher les ESN et les MSP.
+- Notre objectif est d’apporter des solutions de cybersécurité françaises performantes et accessibles au plus grand nombre, au sein des territoires.
+- Notre conviction profonde est qu’il faut être sur le terrain, au plus près des entreprises et de leurs prestataires IT, pour pouvoir au mieux les accompagner et les sensibiliser sur les risques cyber.
+- Actual Systèmes partage nos valeurs, notamment de proximité.
 
-## [ESET réaffirme sa présence sur le marché mondial avec de nouveaux bureaux en Europe et en Asie](https://www.eset.com/fr/about/newsroom/press-releases/actualites-de-lentreprise/eset-bureaux-france-pays-bas-inde/)  
-*Source : eset.com | Publication : 2026-05-19*
+## [Cyberattaques : pourquoi le tourisme est-il devenu une cible majeure - Mesinfos.fr](https://mesinfos.fr/75000-paris/cyberattaques-pourquoi-le-tourisme-est-devenu-une-cible-majeure-248121.html)  
+*Source : mesinfos.fr | Publication : 2026-05-20*
 
-- ESET France, ESET Pays-Bas et ESET Inde rejoignent le portefeuille des bureaux commerciaux mondiaux de l'entreprise.
-- - Les nouveaux bureaux soutiendront directement les clients et partenaires dans les régions respectives, transformant ESET en un acteur local à part entière via des bureaux délégués.
-- - Cette expansion apporte des capacités techniques supplémentaires via deux centres européens d'opérations de sécurité - ESET World 2026, BERLIN, ALLEMAGNE - 19 mai 2026 - ESET, leader mondial des solutions de cybersécurité et plus grand fournisseur européen de cybersécurité*, a annoncé aujourd'hui, lors d'ESET World 2026, l'ouverture de ses antennes ESET France, ESET Pays-Bas et ESET Inde, renforçant ainsi sa présence locale et ses opportunités de marché dans ces régions.
-- Les nouveaux bureaux rejoignent le portefeuille croissant d'ESET, portant le total à 20 bureaux locaux, dont le plus récent était ESET Norden, situé au Danemark.
+- Les cyberattaques touchant le secteur du tourisme se multiplient en France.
+- Après les révélations concernant Pierre et Vacances-Center Parcs, Belambra ou encore Gîtes de France, plusieurs millions de données personnelles liées à des réservations touristiques ont été compromises ces derniers jours.
+- Pour les spécialistes de la cybersécurité, les entreprises du tourisme sont devenues des cibles privilégiées des cybercriminels en raison de la richesse des informations qu’elles stockent et de leur forte exposition numérique.
+- Pourquoi les entreprises du tourisme attirent les hackers ?.
 
-## [<b>Cybercriminalité</b> : la lutte contre les infrastructures de support se poursuit | LeMagIT](https://www.lemagit.fr/actualites/366643393/Cybercriminalite-la-lutte-contre-les-infrastructures-de-support-se-poursuit)  
-*Source : lemagit.fr | Publication : 2026-05-19*
+## [L'exploitation des vulnérabilités, origine principale des violations de données en 2025](https://www.lemagit.fr/actualites/366643400/Lexploitation-des-vulnerabilites-origine-principale-des-violations-de-donnees-en-2025)  
+*Source : lemagit.fr | Publication : 2026-05-20*
 
-- Cybercriminalité : la lutte contre les infrastructures de support se poursuit Les forces de l'ordre viennent de saisir un service VPN qui a été utilisé dans le cadre de cyberattaques, mais également des serveurs utilisés pour la distribution de maliciels et de courriels de hameçonnage, tandis que Microsoft s'est attaqué à un service de signature d'exécutables.
-- Les communiqués relatifs à cette opération « safran » sont attendus « sous peu » à l'heure où nous publions ces lignes : les forces de l'ordre de plusieurs pays, dans la France, avec la BL2C, le parquet de Paris et l'OFAC, ont saisi les infrastructures de First VPN Service.
-- Ce fournisseur de services de réseau privé virtuel, revendiquant 33 serveurs et des points de présence dans 27 pays, est connu pour avoir notamment été utilisé par des cybercriminels.
-- Huntress en a encore récemment vu la trace dans des attaques en force brute contre des services RDP.
+- Shawn - stock.adobe.com L'exploitation des vulnérabilités, origine principale des violations de données en 2025 Le rapport annuel de Verizon sur la cybersécurité révèle un changement majeur dans l'origine des violations de données, soulignant l'impact de l'intelligence artificielle Environ 31 % – près d'un tiers – de toutes les violations de données ont commencé, l'an dernier, par l'exploitation d'une forme de vulnérabilité logicielle par un acteur malveillant, dépassant le vol d'identifiants comme point d'entrée réseau numéro un pour la première fois.
+- C'est ce qui ressort du 19e rapport d'enquête sur les violations de données (DBIR) annuel du géant des télécommunications américain Verizon.
+- Selon Verizon, la militarisation rapide des vulnérabilités connues crée une crise de capacité pour les professionnels de la cybersécurité, soulignant un « besoin urgent » de prioriser les principes fondamentaux de la cybersécurité et de la gestion des risques.
+- « Bien que la vélocité des menaces cybernétiques – alimentée par l'IA et une exploitation plus rapide des vulnérabilités – augmente, les principes fondamentaux de la sécurité et une gestion solide des risques restent la défense la plus efficace », estime ainsi Daniel Lawson, vice-président senior des solutions mondiales chez Verizon Business.
 
-## [CYBER TOUR – La sécurité en première ligne au Pays Basque - PresseLib](https://presselib.com/article/cyber-tour-la-securite-en-premiere-ligne-au-pays-basque)  
-*Source : presselib.com | Publication : 2026-05-19*
+## [Le grand pillage de nos données personnelles - Le Point](https://www.lepoint.fr/science/donnees-personnelles-volees-comment-la-france-est-devenue-une-cible-privilegiee-des-cybercriminels-SL7ZHGMO75B35C2ZDZEIER6ZJY/)  
+*Source : lepoint.fr | Publication : 2026-05-20*
 
-- Ce Cyber Tour Nouvelle-Aquitaine sera consacrée à la directive européenne NIS2, avec un objectif affiché : passer de la théorie à la mise en pratique pour aider les organisations à mieux comprendre et appliquer ce cadre réglementaire majeur.
-- Il est co-organisé avec le Centre de ressources cybersécurité du Pays Basque.
-- La directive NIS2 élargit en effet fortement le périmètre des structures concernées, incluant de nombreuses entreprises et institutions, parfois indirectement via leurs partenaires ou sous-traitants.
-- Pour les acteurs locaux, l’enjeu est désormais d’anticiper plutôt que de subir ces nouvelles obligations.
+- Tout a commencé par un coup de fil.
+- Ce jour-là, vers 9 heures, en pleine réunion au travail, Jonathan, 33 ans, voit le numéro de sa banque s’afficher sur son téléphone et s’éclipse quelques secondes pour répondre.
+- Il a fait un virement la veille, peut-être l’appelle-t-on pour le valider ?.
+- Le conseiller commence par vérifier ses informations personnelles.
 
-## [Eurazeo prend une part majoritaire dans le groupe allemand de <b>cybersécurité</b> Nextron Systems](https://investir.lesechos.fr/actu-des-valeurs/la-vie-des-actions/eurazeo-prend-une-part-majoritaire-dans-le-groupe-allemand-de-cybersecurite-nextron-systems-2232353)  
-*Source : investir.lesechos.fr | Publication : 2026-05-19*
+## [Rockwell Automation nomme David Lefebvre directeur général France - Contrôles Essais Mesures](https://www.controles-essais-mesures.fr/automatismes/rockwell-automation-nomme-david-lefebvre-directeur-general-france/)  
+*Source : controles-essais-mesures.fr | Publication : 2026-05-20*
 
-- PARIS (Agefi-Dow Jones)--La société d'investissement Eurazeo a annoncé mardi soir avoir conclu un accord définitif pour acquérir une participation.
+- Tandis que l'adoption de la cybersécurité en France se généralise, la priorité est aujourd'hui donnée au cloud, à l'intelligence artificielle et aux.
 
-## [Eurazeo prend une part majoritaire dans le groupe allemand de <b>cybersécurité</b> Nextron Systems](https://www.abcbourse.com/marches/eurazeo-prend-une-part-majoritaire-dans-le-groupe-allemand-de-cybersecurite-next_697066)  
-*Source : abcbourse.com | Publication : 2026-05-19*
+## [Les pays partenaires soutenus par CyberSud+ ont participé avec brio à la première ...](https://www.coe.int/fr/web/cybercrime/-/cybersouth-supported-partner-countries-have-participated-with-excellent-results-in-mena-region-s-first-large-scale-cybercrime-operation-led-by-interpol)  
+*Source : coe.int | Publication : 2026-05-20*
 
-- La société d'investissement Eurazeo a annoncé mardi soir avoir conclu un accord définitif pour acquérir une participation majoritaire dans le capital de Nextron Systems, un groupe allemand spécialisé dans les logiciels de cybersécurité.
-- Le montant de l'opération n'a pas été indiqué.
-- Il s'agit du deuxième investissement de PME V et le cinquième hors de France pour l'équipe Elevate d'Eurazeo.
-- "Eurazeo accompagnera activement Nextron Systems dans l'accélération de son développement, en renforçant notamment ses capacités commerciales sur un marché encore émergent, en développant sa présence internationale et en poursuivant ses efforts d'innovation-produit.
+- L'opération Ramz, première opération de lutte contre la cybercriminalité de cette envergure coordonnée par l'INTERPOL dans la région MENA,.
 
-## [Eurazeo, via sa stratégie Elevate, a signé un accord en vue d'acquérir une participation ...](https://bourse.fortuneo.fr/actualites-amp/eurazeo-via-sa-strategie-elevate-a-signe-un-accord-en-vue-d-acquerir-une-participation-majoritaire-dans-nextron-systems-1539283)  
-*Source : bourse.fortuneo.fr | Publication : 2026-05-19*
+## [Mythos : quand l'IA redéfinit la <b>cybersécurité</b> - SIA Partners](https://www.sia-partners.com/fr/publications/publications-de-nos-experts/mythos-quand-lia-redefinit-la-cybersecurite)  
+*Source : sia-partners.com | Publication : 2026-05-20*
 
-- Eurazeo, via sa stratégie Elevate, a signé un accord en vue d'acquérir une participation majoritaire dans Nextron Systems, société allemande de référence dans les logiciels de cybersécurité, spécialisée dans la détection et l'analyse des cyberattaques.
-- Cette opération constitue le deuxième investissement de PME V et le cinquième hors de France pour l'équipe Elevate d'Eurazeo, illustrant son expertise dans l'identification et l'accompagnement des champions technologiques du mid-market en forte croissance.
-- Eurazeo accompagnera activement Nextron Systems dans l'accélération de son développement, en renforçant notamment ses capacités commerciales sur un marché encore émergent, en développant sa présence internationale et en poursuivant ses efforts d'innovation-produit.
-- L'équipe dirigeante de Nextron Systems réinvestit significativement aux côtés d'Eurazeo.
+- Mythos : quand l'IA redéfinit la cybersécurité Evaluer, agir, accélérer : les nouvelles règles du jeu pour les comités exécutifs.
+- L’économie de la cyber-attaque s’est effondrée, pas celle de la défense : c’est le point de bascule.
+- Les modèles IA de type Mythos sont désormais capables d’enchaîner de manière autonome des vulnérabilités critiques, et de produire de véritables exploits opérationnels en seulement quelques heures, pour moins de 20 000 dollars par chaîne d’attaque.
+- La remédiation pilotée par des équipes humaines ne peut pas suivre ce rythme.
 
-## [Eurazeo, via sa stratégie Elevate, a signé un accord en vue d'acquérir une participation ...](https://bourse.fortuneo.fr/actualites/eurazeo-via-sa-strategie-elevate-a-signe-un-accord-en-vue-d-acquerir-une-participation-majoritaire-dans-nextron-systems-1539283)  
-*Source : bourse.fortuneo.fr | Publication : 2026-05-19*
+## [&quot;Mon salarié exfiltrait de la donnée pour les Russes&quot; : pour l'argent ou par vengeance, ils ont ...](https://www.journaldunet.com/cybersecurite/1550467-le-salarie-exfiltrait-de-la-donnee-pour-les-russes-ces-entreprises-qui-se-font-cyber-trahir-par-leurs-collaborateurs/)  
+*Source : journaldunet.com | Publication : 2026-05-20*
 
-- Eurazeo, via sa stratégie Elevate, a signé un accord en vue d'acquérir une participation majoritaire dans Nextron Systems, société allemande de référence dans les logiciels de cybersécurité, spécialisée dans la détection et l'analyse des cyberattaques.
-- Cette opération constitue le deuxième investissement de PME V et le cinquième hors de France pour l'équipe Elevate d'Eurazeo, illustrant son expertise dans l'identification et l'accompagnement des champions technologiques du mid-market en forte croissance.
-- Eurazeo accompagnera activement Nextron Systems dans l'accélération de son développement, en renforçant notamment ses capacités commerciales sur un marché encore émergent, en développant sa présence internationale et en poursuivant ses efforts d'innovation-produit.
-- L'équipe dirigeante de Nextron Systems réinvestit significativement aux côtés d'Eurazeo.
+- "Mon salarié exfiltrait de la donnée pour les Russes" : pour l'argent ou par vengeance, ils ont cyber-trahi leur entreprise Certains salariés n'hésitent pas à compromettre leur entreprise en revendant sur le dark web des données sensibles et des accès internes.
+- Témoignages de ceux qui les traquent.
+- Pour saboter, s'enrichir ou se venger, des salariés exfiltrent des données de leur entreprise.
+- "Et on le voit de plus en plus.
 
-## [Rapport 2025 de la Cnil : explosion des plaintes, <b>cybersécurité</b> sous pression et nouveaux ...](https://www.ladepeche.fr/2026/05/19/rapport-2025-de-la-cnil-explosion-des-plaintes-cybersecurite-sous-pression-et-nouveaux-pouvoirs-sur-lia-13378889.php)  
-*Source : ladepeche.fr | Publication : 2026-05-19*
+## [L'ESGI : une école du numérique reconnue pour son excellence en <b>cybersécurité</b> et en ...](https://etudiant.lefigaro.fr/article/etudes/l-esgi-une-ecole-du-numerique-reconnue-pour-son-excellence-en-cybersecurite-et-en-intelligence-artificielle-20260520/)  
+*Source : etudiant.lefigaro.fr | Publication : 2026-05-20*
 
-- Rapport 2025 de la Cnil : explosion des plaintes, cybersécurité sous pression et nouveaux pouvoirs sur l’IA l'essentiel La CNIL publie un rapport d’activité 2025 marqué par une hausse record des plaintes, des violations de données et des sanctions financières.
-- L’autorité de protection des données se prépare aussi à l’entrée en vigueur du règlement européen sur l’intelligence artificielle, tout en renforçant ses actions de sensibilisation et de contrôle dans un contexte de moyens contraints.
-- La CNIL (Commission nationale de l’informatique et des libertés) a connu en 2025 une année d’intense activité, reflet d’une numérisation toujours plus massive des usages et d’une montée des préoccupations autour des données personnelles.
-- Dans son rapport annuel, l’autorité administrative indépendante chargée de veiller au respect du règlement général sur la protection des données (RGPD) fait état d’une augmentation continue des sollicitations, des contrôles et des sanctions, sur fond de multiplication des cyberattaques et d’essor de l’intelligence artificielle.
+- Classée parmi les meilleures écoles du numérique par Le Figaro Étudiant en 2026, l' ESGI s'impose comme une référence en cybersécurité , IA et.
 
-## [Violations de données personnelles : comment s'explique le record de l'année 2025](https://www.mercipourlinfo.fr/actualites/droits-et-demarches/violations-de-donnees-personnelles-comment-sexplique-le-record-de-lannee-2025-1152343)  
-*Source : mercipourlinfo.fr | Publication : 2026-05-19*
+## [En direct de Santexpo 2026 : Shadow IT, IA et <b>cybersécurité</b> … - DSIH](https://dsih.fr/articles/6293/en-direct-de-santexpo-2026-shadow-it-ia-et-cybersecurite-de-limportance-dune-formation-complete-des-soignants)  
+*Source : dsih.fr | Publication : 2026-05-20*
 
-- Violations de données personnelles : comment s'explique le record de l'année 2025 Publié le par Timour Aggiouri La Commission nationale de l’informatique et des libertés a reçu l’an dernier 17 802 notifications, un sommet jamais atteint précédemment.
-- Contenu supprimé de votre liste de lecture Contenu ajouté à votre liste de lecture dans l'espace Mon compte Voulez-vous le classer dans un dossier ?.
-- Contenu ajouté à votre liste de lecture dans l'espace Mon compte Voulez-vous le classer dans un dossier ?.
-- Ou Une erreur est survenue, veuillez réessayer ultérieurement.
+- Publicité en cours de chargement.
+- En direct de Santexpo 2026 : Shadow IT, IA et cybersécurité : de l’importance d’une formation complète des soignants Derrière les débats sur l’intelligence artificielle ou la cybersécurité, le Pr Fourcade a, lors d’un « pitch » dédié aux formations délivrées par le campus en santé numérique CINERG’e-Santé de l’université de Limoges, pointé un problème profond et toujours très actuel dans le monde de la santé : le manque de formation des soignants aux enjeux du numérique.
+- Une situation qui favorise l’essor du shadow IT, avec des pratiques parfois risquées devenues banales dans les services.
+- « Personne ne connaît réellement la valeur des données de santé », résume-t-il d’emblée.
 
-## [Eurazeo mise sur Nextron Systems pour renforcer sa présence dans la <b>cybersécurité</b>](https://www.boursorama.com/bourse/actualites-amp/eurazeo-mise-sur-nextron-systems-pour-renforcer-sa-presence-dans-la-cybersecurite-c33b1cf2197ee516444a18f2820f2892)  
-*Source : boursorama.com | Publication : 2026-05-19*
+## [La gestion des identités, pilier de la <b>cybersécurité</b> à l'ère des agents IA - Les Echos](https://www.lesechos.fr/partenaires/la-minute-ia/la-gestion-des-identites-pilier-de-la-cybersecurite-a-lere-des-agents-ia-2232457)  
+*Source : lesechos.fr | Publication : 2026-05-20*
 
-- Eurazeo mise sur Nextron Systems pour renforcer sa présence dans la cybersécurité information fournie par Zonebourse 19/05/2026 à 17:52 Le groupe d'investissement accélère sa stratégie technologique en Allemagne avec l'acquisition d'une participation majoritaire dans l'éditeur de logiciels de cybersécurité Nextron Systems.
-- Eurazeo annonce la signature d'un accord en vue d'acquérir une participation majoritaire dans Nextron Systems, spécialiste allemand de la détection et de l'analyse des cyberattaques.
-- L'opération constitue le deuxième investissement du fonds PME V et le cinquième hors de France pour l'équipe Elevate.
-- Fondée en 2017 à Francfort, Nextron Systems développe des solutions de détection avancée des cybermenaces, notamment des attaques persistantes avancées (Advanced Persistent Threat).
+- “C'est devenu le socle central de la cybersécurité ”, assure-t-il.
+- Comme de nombreux composants des systèmes d'information, l'IAM est aujourd'hui.
 
-## [Eurazeo mise sur Nextron Systems pour renforcer sa présence dans la <b>cybersécurité</b>](https://www.optionfinance.fr/info-financiere-en-continu/d/2026-05-19-eurazeo-mise-sur-nextron-systems-pour-renforcer-sa-presence-dans-la-cybersecurite.html)  
-*Source : optionfinance.fr | Publication : 2026-05-19*
+## [Fuites de données : l'Etat, mauvais élève de la sécurité - Le Monde](https://www.lemonde.fr/idees/article/2026/05/20/fuites-de-donnees-l-etat-mauvais-eleve-de-la-securite_6691697_3232.html)  
+*Source : lemonde.fr | Publication : 2026-05-20*
 
-- Le groupe d'investissement accélère sa stratégie technologique en Allemagne avec l'acquisition d'une participation majoritaire dans l'éditeur de logiciels de cybersécurité Nextron Systems.
-- Eurazeo annonce la signature d'un accord en vue d'acquérir une participation majoritaire dans Nextron Systems, spécialiste allemand de la détection et de l'analyse des cyberattaques.
-- L'opération constitue le deuxième investissement du fonds PME V et le cinquième hors de France pour l'équipe Elevate.
-- Fondée en 2017 à Francfort, Nextron Systems développe des solutions de détection avancée des cybermenaces, notamment des attaques persistantes avancées (Advanced Persistent Threat).
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
 
-## [EURAZEO INVESTIT DANS NEXTRON SYSTEMS, ACTEUR ALLEMAND DE LA ... - WebDisclosure](https://www.webdisclosure.com/press-release/eurazeo-epa-rf-eurazeo-investit-dans-nextron-systems-acteur-allemand-de-la-cybersecurite-specialise-dans-la-detection-et-lanalyse-des-cyberattaques-h6hsACiUXn6)  
-*Source : webdisclosure.com | Publication : 2026-05-19*
+## [Le Conseil de l'Europe contribue à la tenue des Cyber Games et du Digital Security ...](https://www.coe.int/fr/web/portal/-/council-of-europe-helps-bring-global-cyber-games-and-digital-security-challenge-to-africa)  
+*Source : coe.int | Publication : 2026-05-20*
 
-- from EURAZEO (EPA:RF).
-- Paris, le 19 mai 2026 Eurazeo, via sa stratégie Elevate, a signé un accord en vue d’acquérir une participation majoritaire dans Nextron Systems, société allemande de référence dans les logiciels de cybersécurité, spécialisée dans la détection et l’analyse des cyberattaques.
-- Cette opération constitue le deuxième investissement de PME V et le cinquième hors de France pour l’équipe Elevate d’Eurazeo, illustrant son expertise dans l’identification et l’accompagnement des champions technologiques du mid-market en forte croissance.
-- Eurazeo accompagnera activement Nextron Systems dans l’accélération de son développement, en renforçant notamment ses capacités commerciales sur un marché encore émergent, en développant sa présence internationale et en poursuivant ses efforts d’innovation-produit.
+- Les meilleurs experts en cybercriminalité et en cybersécurité de près de 50 pays travaillent ensemble à Marrakech, au Maroc, dans le cadre d'une.
 
-## [KPMG déploie Claude chez ses 276 000 collaborateurs - Silicon.fr](https://www.silicon.fr/business-1367/kpmg-deploie-claude-chez-ses-276-000-collaborateurs-227233)  
-*Source : silicon.fr | Publication : 2026-05-19*
+## [Agentic Network Security Orchestration Platform, l'orchestration agentique cyber par Check Point](https://itsocial.fr/cybersecurite/cybersecurite-actualites/check-point-presente-agentic-network-security-orchestration-platform-sa-plateforme-dorchestration-agentique-cyber/)  
+*Source : itsocial.fr | Publication : 2026-05-20*
 
-- KPMG va déployer le modèle Claude pour ses 276 000 employés dans le monde.
-- L’accord passé avec Anthropic aussi son intégration dans les outils destinés aux clients.
-- Le cabinet s’appuie sur deux ans d’expérimentation menée aux États-Unis, notamment au sein de ses AI and Data Labs.
-- L’intégration la plus structurante concerne Digital Gateway, la plateforme interne de KPMG construite sur Microsoft Azure, qui centralise les données clients, les outils propriétaires et les expertises du cabinet ;notamment en fiscalité.
+- Agentic Network Security Orchestration Platform est une plateforme d'orchestration agentique pour la sécurité des réseaux, Agentic Network Security Orchestration Platform, conçue pour exécuter les opérations de sécurité réseau dans les environnements d'entreprise sans intervention humaine continue.
+- L'éditeur a parallèlement signé l'acquisition de l'équipe et de la propriété intellectuelle de la société israélienne Deepchecks, spécialisée dans l'évaluation et la supervision des systèmes multiagents.
+- La gestion des règles de pare-feu d'entreprise a longtemps reposé sur un schéma stable, des consoles fournisseurs distinctes, des règles statiques empilées par couches successives au fil des années, et des équipes humaines qui revoient les politiques à la main au rythme des demandes de changement.
+- Ce schéma a fait sa preuve à l'échelle des réseaux centralisés des années 2000, mais s'épuise depuis le milieu de la décennie 2010 sous l'effet conjoint du cloud hybride, des fusions-acquisitions qui fragmentent les périmètres, de l'explosion des objets connectés et désormais de la prolifération des agents d'intelligence artificielle dans les infrastructures.
 
-## [Pourquoi le secteur touristique est-il la cible de cyberattaques - TradingView](https://fr.tradingview.com/news/afp:643a7ae8d3fcf:0/)  
-*Source : fr.tradingview.com | Publication : 2026-05-19*
+## [L'IA à la rescousse des hackers : comment l'intelligence artificielle simplifie le piratage](https://www.leparisien.fr/high-tech/on-abaisse-le-niveau-technique-requis-comment-lia-facilite-considerablement-la-tache-des-hackers-20-05-2026-MP2TTZG7D5AQ7O7Z6FGPC2AQXU.php)  
+*Source : leparisien.fr | Publication : 2026-05-20*
 
-- Pourquoi le secteur touristique est-il la cible de cyberattaques ?.
-- Gîtes de France, Pierre et Vacances, Belambra: les cyberattaques visant des groupes de tourisme se sont multipliées ces derniers jours avec le vol des données de plusieurs millions de personnes.
-- Décryptage de ce phénomène et des risques encourus par les vacanciers.
-- .
+- L’IA à la rescousse des hackers : comment l’intelligence artificielle simplifie le piratage Les violations de données explosent en France avec + 50 % en trois ans selon la Cnil.
+- L’intelligence artificielle révolutionne la cybercriminalité en démocratisant certains outils, et en créant des opérations toujours plus sophistiquées.
+- Ça n’arrête pas.
+- La semaine dernière, le groupe de tourisme Pierre & Vacances-Center Parcs a été victime d’une importante fuite de données sur sa plateforme en ligne qui pourrait concerner plus de quatre millions de ses clients.
 
-## [ERP, Low-Code et <b>cybersécurité</b> : comment reprendre le contrôle sur les applications ...](https://www.generation-nt.com/actualites/erp-low-code-cybersecurite-controle-applications-metiers-cachees-2075294)  
-*Source : generation-nt.com | Publication : 2026-05-19*
+## [Cyberattaques indétectables : Microsoft neutralise la menace « invisible » qui a fait des ...](https://www.01net.com/actualites/cyberattaques-virus-indetectables-microsoft-neutralise-plateforme-invisible-qui-fait-ravages-france.html)  
+*Source : 01net.com | Publication : 2026-05-20*
 
-- Quand les métiers contournent le SI officiel Qu’il s’agisse d’un fichier Excel partagé par l’équipe commerciale ou d’un formulaire censé remplacer un workflow absent de l’ERP, ces usages finissent par former une couche applicative parallèle, souvent invisible de la DSI.
-- Contrairement à ce que l’on pourrait penser, le Shadow IT ne naît pas toujours d’une défiance envers l’informatique interne.
-- Il vient beaucoup plus souvent d’un simple besoin mal couvert, d’un délai trop long, d’un processus trop rigide ou d’une fonctionnalité métier jugée secondaire dans la trajectoire ERP.
-- A ce problème, les collaborateurs cherchent une solution immédiate… et c’est là que le système d’information, lui, hérite d’un angle mort.
+- Ce mardi 19 mai 2026, Microsoft révèle avoir neutralisé une vaste plateforme criminelle, baptisée Fox Tempest.
+- Ce service en ligne proposait aux cybercriminels de rendre leurs virus indétectables en détournant un service cloud légitime de Microsoft, Azure Artifact Signing (anciennement Trusted Signing).
+- Depuis 2024, il permet aux développeurs de signer numériquement du code et des applications, sans avoir à gérer soi-même les certificats ou les clés privées.
+- Les chercheurs décrivent Fox Tempest comme un « acteur majeur, mais souvent invisible, de l’écosystème de la cybercriminalité ».
