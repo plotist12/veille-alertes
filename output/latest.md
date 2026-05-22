@@ -1,145 +1,149 @@
-# Résumés – 2026-05-21
+# Résumés – 2026-05-22
 
 
-## [Microsoft démantèle Fox Tempest, un service frauduleux de signature de logiciels malveillants](https://www.malwarebytes.com/fr/blog/news/2026/05/fake-malware-signing-service-fox-tempest-dismantled-by-microsoft)  
-*Source : malwarebytes.com | Publication : 2026-05-20*
+## [L'EC-Council publie le rapport « Certified CISO Hall of Fame 2025 Report - Le Soleil](https://www.lesoleil.com/communiques-de-presse/2026/05/21/lec-council-publie-le-rapport-certified-ciso-hall-of-fame-2025-report-qui-definit-lessor-du-role-des-responsables-de-la-cybersecurite-a-lere-de-lia-WTYABWZX7BETRHB7DF4HDHBQ5I/)  
+*Source : lesoleil.com | Publication : 2026-05-21*
 
-- Microsoft affirme avoir démantelé un service de signature de logiciels malveillants (MSaaS) baptisé Fox Tempest, qui aidait les cybercriminels à faire passer leurs logiciels malveillants pour des programmes légitimes.
-- Ce service permettait aux clients de soumettre des fichiers malveillants afin qu'ils soient signés numériquement à l'aide de certificats à durée de validité limitée émis par Microsoft, ce qui donnait à ces logiciels malveillants une apparence légitime et leur permettait de contourner plus facilement les contrôles de sécurité.
-- Le service de Fox Tempest s'articulait autour d'un processus de signature destiné aux clients, dans le cadre duquel les cybercriminels pouvaient télécharger des fichiers binaires malveillants sur un portail, les faire signer à l'aide de certificats valables seulement 72 heures, puis recevoir des fichiers qui semblaient provenir d'une source logicielle de confiance.
-- Microsoft indique clairement que cette approche a permis au logiciel malveillant de contourner les contrôles de sécurité et de passer outre les défenses qui, en temps normal, auraient signalé un code non signé suspect.
+- ALBUQUERQUE, Nouveau-Mexique, 21 mai 2026 (GLOBE NEWSWIRE) -- L’EC-Council, créateur de la certification mondialement reconnue Certified Ethical Hacker (CEH) et pionnier de la formation en cybersécurité et du développement des responsables de la cybersécurité, a publié son rapport phare Certified CISO Hall of Fame 2025 Report.
+- Cette étude mondiale de référence met en lumière l’évolution du rôle des responsables de la cybersécurité à un moment où l’intelligence artificielle, la pression réglementaire et les risques pesant sur les entreprises redéfinissent les priorités des conseils d’administration dans le monde entier.
+- Le rapport distingue 50 responsables de la cybersécurité issus d’organisations parmi les plus influentes au monde, telles que Microsoft, Google, Amazon Web Services, Citibank, PwC, KPMG, Accenture et World Bank Group.
+- Il confirme ainsi l’influence croissante du programme CCISO de certification des responsables de la sécurité des systèmes d’information (RSSI) de l’EC-Council dans la formation de la prochaine génération de dirigeants de la cybersécurité des entreprises.
 
-## [ESET rachète Athena Global Services, son importateur exclusif en France - Distributique](https://www.distributique.com/actualites/lire-eset-rachete-athena-global-services-son-importateur-exclusif-en-france-37237.html)  
-*Source : distributique.com | Publication : 2026-05-20*
+## [<b>Cybercriminalité</b>. McDonald's France victime d'une fuite de données, des comptes fidélité débités](https://www.bienpublic.com/faits-divers-justice/2026/05/21/mcdonald-s-france-victime-d-une-fuite-de-donnees-des-comptes-fidelite-debites)  
+*Source : bienpublic.com | Publication : 2026-05-21*
 
-- « C’est une consolidation verticale.
-- ESET, marque européenne, veut renforcer son ancrage local et y investir », explique Julien Jean d'Eset.
-- (Crédit Eset) ESET s'implante durablement en France, l'éditeur s'est en effet engagé ŕ reprendre l'activité de son importateur exclusif dans l'hexagone.
-- ESET, l'éditeur slovaque de solutions de sécurité qui était représenté en France par Athena Global Services (AGS), son importateur exclusif depuis 22 ans, a décidé de racheter la structure pour devenir ESET France.
+- Cybercriminalité McDonald's France victime d'une fuite de données, des comptes fidélité débités McDonald's France a « pris des mesures correctives » après avoir été victime d'une fuite de données.
+- Des comptes fidélité de clients ont été débités à leur insu.
+- McDonald's France a « pris des mesures correctives » après avoir été victime d'une fuite de données.
+- Selon le média 01net, spécialiste de l'actualité tech, « des dizaines de clients de McDonald's France ont récemment été victimes de ce qui ressemble à une usurpation de leur compte fidélité » et les points fidélités de clients ont été utilisés à leur insu.
 
-## [Un criminologue de l'UdeM obtient 4,5 M$ pour étudier la <b>cybercriminalité</b> allemande](https://nouvelles.umontreal.ca/article/2026/05/20/un-criminologue-de-l-udem-obtient-45-m-pour-etudier-la-cybercriminalite-allemande)  
-*Source : nouvelles.umontreal.ca | Publication : 2026-05-20*
+## [IA : Avec Mythos, y aura-t-il vraiment plus de cyberattaques ? - Les Echos](https://www.lesechos.fr/tech-medias/intelligence-artificielle/ia-avec-mythos-y-aura-t-il-vraiment-plus-de-cyberattaques-2232833)  
+*Source : lesechos.fr | Publication : 2026-05-21*
 
-- Un consortium de recherche dirigé par le professeur de criminologie de l’Université de Montréal David Décary-Hétu a obtenu un financement de 2,8 M€ (4,5 M$) d’un organisme fédéral allemand pour mener des travaux sur les préjudices causés par la cybercriminalité en Allemagne.
-- L’UdeM et l’Agentur für Innovation in der Cybersicherheit GmbH (Cyberagentur) ont signé l’entente le 30 avril.
-- Elle prévoit la participation de l’équipe de David Décary-Hétu au projet ARCH (Assessing Risks and Cybercrime Harms), qui vise à évaluer les effets multidimensionnels de la cybercriminalité.
-- Au-delà des pertes financières directes, ces effets comprennent les atteintes psychologiques, organisationnelles et sociétales entraînées par les activités criminelles en ligne, visibles ou invisibles, notamment sur le Web caché.
+- En France, le Campus Cyber, composé de 200 acteurs de la cybersécurité et représentant 60 % des entreprises du CAC 40, alerte face à une possible.
 
-## [Trois valeurs de <b>cybersécurité</b> à acheter avant les résultats, selon Morgan Stanley](https://fr.investing.com/news/stock-market-news/trois-valeurs-de-cybersecurite-a-acheter-avant-les-resultats-selon-morgan-stanley-93CH-3427660)  
-*Source : fr.investing.com | Publication : 2026-05-20*
+## [Lazar Soft, expert IT et <b>cybersécurité</b> en pleine croissance | Entreprendre à Montpellier](https://www.entreprendre-montpellier.com/actualites/lazar-soft-expert-it-et-cybersecurite-en-pleine-croissance)  
+*Source : entreprendre-montpellier.com | Publication : 2026-05-21*
 
-- Les valeurs de cybersécurité ont récemment progressé, se démarquant des actions du secteur logiciel, les inquiétudes concernant les menaces liées à l'.
+- Lazar Soft, expert IT et cybersécurité en pleine croissance Écrit le Modifié Créée en 2021 et implantée au Crès, Lazar Soft accompagne les directions informatiques, PME, collectivités et prestataires IT dans la modernisation, la sécurisation et l’optimisation de leurs infrastructures numériques.
+- Elle affiche une croissance constante et développe sa notoriété bien au-delà du territoire héraultais.
+- Image Photo ©Lazar Soft.
 
-## [Mailinblack renforce son réseau indirect avec Actual Systèmes - ITforBusiness.fr](https://www.itforbusiness.fr/mailinblack-renforce-son-reseau-indirect-avec-actual-systemes-103631)  
-*Source : itforbusiness.fr | Publication : 2026-05-20*
+## [McDonald's France victime d'une fuite de données, des dizaines de clients voient leurs ...](https://www.sudouest.fr/economie/cybersecurite/mcdonald-s-france-victime-d-une-fuite-de-donnees-des-dizaines-de-clients-voient-leurs-comptes-fidelite-debites-29167455.php)  
+*Source : sudouest.fr | Publication : 2026-05-21*
 
-- ChannelScope Mailinblack renforce son réseau indirect avec Actual Systèmes Par Frédéric Bergonzoli, publié le 20 mai 2026 En confiant la distribution de sa suite U-Cyber 360° à Actual Systèmes, l’éditeur français espère tirer parti du maillage territorial du grossiste, en particulier pour toucher les ESN et les MSP.
-- Notre objectif est d’apporter des solutions de cybersécurité françaises performantes et accessibles au plus grand nombre, au sein des territoires.
-- Notre conviction profonde est qu’il faut être sur le terrain, au plus près des entreprises et de leurs prestataires IT, pour pouvoir au mieux les accompagner et les sensibiliser sur les risques cyber.
-- Actual Systèmes partage nos valeurs, notamment de proximité.
+- L’enseigne de restauration rapide a dû réinitialiser les identifiants de ses clients après le détournement de points de fidélité par des fraudeurs ces derniers jours McDonald’s France a « pris des mesures correctives » après avoir été victime d’une fuite de données grâce à laquelle des comptes fidélité de clients ont été débités à leur insu, a-t-on appris jeudi auprès du groupe confirmant une information du média 01net.
 
-## [Cyberattaques : pourquoi le tourisme est-il devenu une cible majeure - Mesinfos.fr](https://mesinfos.fr/75000-paris/cyberattaques-pourquoi-le-tourisme-est-devenu-une-cible-majeure-248121.html)  
-*Source : mesinfos.fr | Publication : 2026-05-20*
+## [Fuite de données chez McDonald's France: votre compte de fidélité a peut-être permis à des ... - BFM](https://www.bfmtv.com/tech/cybersecurite/fuite-de-donnees-chez-mc-donald-s-france-votre-compte-de-fidelite-a-peut-etre-permis-a-des-pirates-malintentionnes-de-s-offrir-un-menu-a-vos-frais_AD-202605210554.html)  
+*Source : bfmtv.com | Publication : 2026-05-21*
 
-- Les cyberattaques touchant le secteur du tourisme se multiplient en France.
-- Après les révélations concernant Pierre et Vacances-Center Parcs, Belambra ou encore Gîtes de France, plusieurs millions de données personnelles liées à des réservations touristiques ont été compromises ces derniers jours.
-- Pour les spécialistes de la cybersécurité, les entreprises du tourisme sont devenues des cibles privilégiées des cybercriminels en raison de la richesse des informations qu’elles stockent et de leur forte exposition numérique.
-- Pourquoi les entreprises du tourisme attirent les hackers ?.
+- Fuite de données chez McDonald’s France: votre compte de fidélité a peut-être permis à des pirates malintentionnés de s’offrir un menu à vos frais McDonald's France a "pris des mesures correctives" après avoir été victime d'une fuite de données grâce à laquelle des comptes fidélité de clients ont été débités à leur insu, a-t-on appris jeudi auprès du groupe confirmant une information de 01net et de nombreux posts qui circulaient depuis quelques jours déjà sur les réseaux sociaux.
+- Selon le site, "des dizaines de clients de McDonald's France ont récemment été victimes de ce qui ressemble à une usurpation de leur compte fidélité" et les points fidélités de clients ont été utilisés à leur insu.
+- Les fraudeurs utilisant les points fidélité bénéficient ainsi de réductions sur leurs commandes.
+- "Les mesures correctives mises en place ont permis de contenir l'incident", a déclaré McDonald's France à l'AFP sans préciser le nombre de comptes concernés ni les dates de ces fuites de données.
 
-## [L'exploitation des vulnérabilités, origine principale des violations de données en 2025](https://www.lemagit.fr/actualites/366643400/Lexploitation-des-vulnerabilites-origine-principale-des-violations-de-donnees-en-2025)  
-*Source : lemagit.fr | Publication : 2026-05-20*
+## [33 serveurs coupés, un admin arrêté, des internautes identifiés - Numerama](https://www.numerama.com/cyberguerre/2257925-33-serveurs-coupes-un-admin-arrete-des-internautes-identifies-coup-de-filet-mondial-contre-un-vpn-prise-des-pirates.html)  
+*Source : numerama.com | Publication : 2026-05-21*
 
-- Shawn - stock.adobe.com L'exploitation des vulnérabilités, origine principale des violations de données en 2025 Le rapport annuel de Verizon sur la cybersécurité révèle un changement majeur dans l'origine des violations de données, soulignant l'impact de l'intelligence artificielle Environ 31 % – près d'un tiers – de toutes les violations de données ont commencé, l'an dernier, par l'exploitation d'une forme de vulnérabilité logicielle par un acteur malveillant, dépassant le vol d'identifiants comme point d'entrée réseau numéro un pour la première fois.
-- C'est ce qui ressort du 19e rapport d'enquête sur les violations de données (DBIR) annuel du géant des télécommunications américain Verizon.
-- Selon Verizon, la militarisation rapide des vulnérabilités connues crée une crise de capacité pour les professionnels de la cybersécurité, soulignant un « besoin urgent » de prioriser les principes fondamentaux de la cybersécurité et de la gestion des risques.
-- « Bien que la vélocité des menaces cybernétiques – alimentée par l'IA et une exploitation plus rapide des vulnérabilités – augmente, les principes fondamentaux de la sécurité et une gestion solide des risques restent la défense la plus efficace », estime ainsi Daniel Lawson, vice-président senior des solutions mondiales chez Verizon Business.
+- Une action d’envergure, impliquant jusqu’à dix-huit nations dans le monde, avec la France et les Pays-Bas en pointe de l’opération.
+- Ce jeudi 21 mai 2026, les forces de l’ordre ont annoncé le démantèlement d’un service de VPN utilisé à des fins malveillantes, en particulier des ransomwares pour extorquer de l’argent à des particuliers ou des organisations.
+- Le VPN des cybermalfrats S’il n’avait pas la notoriété des grands VPN commerciaux comme NordVPN ou Cyberghost, First VPN avait surtout forgé sa réputation dans les milieux interlopes.
+- « First VPN s’était profondément ancré dans l’écosystème de la cybercriminalité, apparaissant dans presque toutes les enquêtes majeures menées par Europol ces dernières années », avance ainsi Europol.
 
-## [Le grand pillage de nos données personnelles - Le Point](https://www.lepoint.fr/science/donnees-personnelles-volees-comment-la-france-est-devenue-une-cible-privilegiee-des-cybercriminels-SL7ZHGMO75B35C2ZDZEIER6ZJY/)  
-*Source : lepoint.fr | Publication : 2026-05-20*
+## [Appel à témoignages. Vols de données : que faites-vous pour vous protéger ? Racontez-nous](https://www.ouest-france.fr/societe/cyberattaque/appel-a-temoignages-vols-de-donnees-que-faites-vous-pour-vous-proteger-racontez-nous-7cb73464-5469-11f1-8e66-adc6a872a379)  
+*Source : ouest-france.fr | Publication : 2026-05-21*
 
-- Tout a commencé par un coup de fil.
-- Ce jour-là, vers 9 heures, en pleine réunion au travail, Jonathan, 33 ans, voit le numéro de sa banque s’afficher sur son téléphone et s’éclipse quelques secondes pour répondre.
-- Il a fait un virement la veille, peut-être l’appelle-t-on pour le valider ?.
-- Le conseiller commence par vérifier ses informations personnelles.
+- cybersécurité.
+- | ARCHIVES.
+- fermer.
+- Plus de contrôles et de sanctions.
 
-## [Rockwell Automation nomme David Lefebvre directeur général France - Contrôles Essais Mesures](https://www.controles-essais-mesures.fr/automatismes/rockwell-automation-nomme-david-lefebvre-directeur-general-france/)  
-*Source : controles-essais-mesures.fr | Publication : 2026-05-20*
+## [Proofpoint s'intègre à l'API Claude Compliance pour étendre la sécurité et la gouvernance ...](https://www.proofpoint.com/fr/newsroom/press-releases/proofpoint-integrates-claude-compliance-api-extend-data-security-and)  
+*Source : proofpoint.com | Publication : 2026-05-21*
 
-- Tandis que l'adoption de la cybersécurité en France se généralise, la priorité est aujourd'hui donnée au cloud, à l'intelligence artificielle et aux.
+- Proofpoint s'intègre à l'API Claude Compliance pour étendre la sécurité et la gouvernance des données à Claude Les nouvelles intégrations produit apportent protection des données, détection des risques internes et gouvernance aux activités Claude Enterprise et Claude Platform Les organisations bénéficient d'une visibilité unifiée sur les prompts IA, les réponses, les fichiers, les journaux d'activité et les workflows.
+- - Les clients peuvent étendre leurs contrôles existants de perte de données, de risque comportemental et de supervision à Claude, sans déployer de stack de sécurité IA distinct.
+- - Une seule couche de contrôle régit l'activité humaine et IA sur les terminaux, le cloud, la messagerie, les outils de collaboration et les applications IA, dont Claude.
+- - Proofpoint, Inc., acteur majeur de la cybersécurité et de la conformité, annonce aujourd'hui l'intégration de sa plateforme avec l'API Claude Compliance.
 
-## [Les pays partenaires soutenus par CyberSud+ ont participé avec brio à la première ...](https://www.coe.int/fr/web/cybercrime/-/cybersouth-supported-partner-countries-have-participated-with-excellent-results-in-mena-region-s-first-large-scale-cybercrime-operation-led-by-interpol)  
-*Source : coe.int | Publication : 2026-05-20*
+## [<b>Cybercriminalité</b> : Le service First VPN, prisé des criminels pour dissimuler leur identité, a ...](https://www.20minutes.fr/societe/4224773-20260521-cybercriminalite-demantelement-service-first-vpn-prise-criminels-dissimuler-identite)  
+*Source : 20minutes.fr | Publication : 2026-05-21*
 
-- L'opération Ramz, première opération de lutte contre la cybercriminalité de cette envergure coordonnée par l'INTERPOL dans la région MENA,.
+- Cybercriminalité : Le service First VPN, prisé des criminels pour dissimuler leur identité, a été démantelé Déconnexion•Selon Laure Beccuau, procureure de Paris, « trente-trois serveurs ont été saisis dans différents pays d’Europe »R.L.D.
+- avec AFP Un outil pour la cybercriminalité débranché.
+- Ce jeudi, la procureure de Paris annonce que le service First VPN (réseau privé virtuel), « largement utilisé par des cybercriminels pour dissimuler leur identité », a été démantelé mardi au cours d’une opération internationale diligentée par les autorités judiciaires françaises et néerlandaises, avec l’appui notamment d’Eurojust et Europol.
+- « Trente-trois serveurs ont été saisis dans différents pays d’Europe », a précisé Laure Beccuau dans un communiqué.
 
-## [Mythos : quand l'IA redéfinit la <b>cybersécurité</b> - SIA Partners](https://www.sia-partners.com/fr/publications/publications-de-nos-experts/mythos-quand-lia-redefinit-la-cybersecurite)  
-*Source : sia-partners.com | Publication : 2026-05-20*
+## [La Maison Blanche reporte la signature du décret sur la <b>cybersécurité</b> de l'IA - Zonebourse](https://ch.zonebourse.com/actualite-bourse/la-maison-blanche-reporte-la-signature-du-decret-sur-la-cybersecurite-de-l-ia-ce7f5adede8ff221)  
+*Source : ch.zonebourse.com | Publication : 2026-05-21*
 
-- Mythos : quand l'IA redéfinit la cybersécurité Evaluer, agir, accélérer : les nouvelles règles du jeu pour les comités exécutifs.
-- L’économie de la cyber-attaque s’est effondrée, pas celle de la défense : c’est le point de bascule.
-- Les modèles IA de type Mythos sont désormais capables d’enchaîner de manière autonome des vulnérabilités critiques, et de produire de véritables exploits opérationnels en seulement quelques heures, pour moins de 20 000 dollars par chaîne d’attaque.
-- La remédiation pilotée par des équipes humaines ne peut pas suivre ce rythme.
+- La Maison Blanche reporte la signature du décret sur la cybersécurité de l'IA Publié le 21/05/2026 à 18:25 Contactez-nous pour toute demande de correction Publié le 21/05/2026 à 18:25 Contactez-nous pour toute demande de correction La déroute des bons du Trésor américains accentuée par la couverture des investisseurs hypothécaires face à la hausse des rendements Sélectionnez votre édition Toutes les informations financières adaptées au niveau national.
 
-## [&quot;Mon salarié exfiltrait de la donnée pour les Russes&quot; : pour l'argent ou par vengeance, ils ont ...](https://www.journaldunet.com/cybersecurite/1550467-le-salarie-exfiltrait-de-la-donnee-pour-les-russes-ces-entreprises-qui-se-font-cyber-trahir-par-leurs-collaborateurs/)  
-*Source : journaldunet.com | Publication : 2026-05-20*
+## [<b>Ransomware</b> &amp; IA générative : Titan montre une voie… qui mène bien plus loin | LeMagIT](https://www.lemagit.fr/tribune/Ransomware-IA-generative-Titan-montre-une-voie-qui-mene-bien-plus-loin)  
+*Source : lemagit.fr | Publication : 2026-05-21*
 
-- "Mon salarié exfiltrait de la donnée pour les Russes" : pour l'argent ou par vengeance, ils ont cyber-trahi leur entreprise Certains salariés n'hésitent pas à compromettre leur entreprise en revendant sur le dark web des données sensibles et des accès internes.
-- Témoignages de ceux qui les traquent.
-- Pour saboter, s'enrichir ou se venger, des salariés exfiltrent des données de leur entreprise.
-- "Et on le voit de plus en plus.
+- ipopba - stock.adobe.com Ransomware & IA générative : Titan montre une voie… qui mène bien plus loin L’enseigne Titan nous a apporté une première confirmation du recours à l’IA générative pour produire un narratif visant à renforcer la pression sur les victimes.
+- Si elle montre une voie entrevue depuis longtemps, l’exécution reste maladroite.
+- Oui, des acteurs malveillants utilisent l’intelligence artificielle générative.
+- Et pas uniquement pour vibe coder.
 
-## [L'ESGI : une école du numérique reconnue pour son excellence en <b>cybersécurité</b> et en ...](https://etudiant.lefigaro.fr/article/etudes/l-esgi-une-ecole-du-numerique-reconnue-pour-son-excellence-en-cybersecurite-et-en-intelligence-artificielle-20260520/)  
-*Source : etudiant.lefigaro.fr | Publication : 2026-05-20*
+## [Le service First VPN, prisé des cybercriminels pour dissimuler leur identité, démantelé par la justice](https://www.lefigaro.fr/secteur/high-tech/le-service-first-vpn-prise-des-cybercriminels-pour-dissimuler-leur-identite-demantele-par-la-justice-20260521)  
+*Source : lefigaro.fr | Publication : 2026-05-21*
 
-- Classée parmi les meilleures écoles du numérique par Le Figaro Étudiant en 2026, l' ESGI s'impose comme une référence en cybersécurité , IA et.
+- Le service First VPN, prisé des cybercriminels pour dissimuler leur identité, démantelé par la justice 33 serveurs ont été saisis en Europe dans cette enquête internationale.
+- Le service faisait «de la publicité exclusivement sur des forums cybercriminels».
+- Passer la publicité Passer la publicitéLe service First VPN (réseau privé virtuel), «largement utilisé par des cybercriminels pour dissimuler leur identité», a été démantelé mardi 19 mai au cours d'une opération internationale diligentée par les autorités judiciaires françaises et néerlandaises, avec l'appui notamment d'Eurojust et Europol, a annoncé jeudi la procureure de Paris.
+- «Trente-trois serveurs ont été saisis dans différents pays d'Europe», a précisé Laure Beccuau dans un communiqué.
 
-## [En direct de Santexpo 2026 : Shadow IT, IA et <b>cybersécurité</b> … - DSIH](https://dsih.fr/articles/6293/en-direct-de-santexpo-2026-shadow-it-ia-et-cybersecurite-de-limportance-dune-formation-complete-des-soignants)  
-*Source : dsih.fr | Publication : 2026-05-20*
+## [Fuite de données de vacances : les cambrioleurs n'auront même plus besoin de repérer ...](https://www.journaldunet.com/cybersecurite/1550491-fuite-de-donnees-de-vacances-les-cambrioleurs-n-auront-meme-plus-besoin-de-reperer-votre-maison-cet-ete/)  
+*Source : journaldunet.com | Publication : 2026-05-21*
 
-- Publicité en cours de chargement.
-- En direct de Santexpo 2026 : Shadow IT, IA et cybersécurité : de l’importance d’une formation complète des soignants Derrière les débats sur l’intelligence artificielle ou la cybersécurité, le Pr Fourcade a, lors d’un « pitch » dédié aux formations délivrées par le campus en santé numérique CINERG’e-Santé de l’université de Limoges, pointé un problème profond et toujours très actuel dans le monde de la santé : le manque de formation des soignants aux enjeux du numérique.
-- Une situation qui favorise l’essor du shadow IT, avec des pratiques parfois risquées devenues banales dans les services.
-- « Personne ne connaît réellement la valeur des données de santé », résume-t-il d’emblée.
+- Fuite de données de vacances : les cambrioleurs n'auront même plus besoin de repérer votre maison cet été En trois jours à peine, un hacker vient de frapper trois géants du tourisme français : Pierre & Vacances, Belambra et Gîtes de France.
+- À quelques semaines des vacances d'été, c'est le guide Michelin des demeures à cambrioler qui circule désormais sur le dark web.
+- En l'espace de trois jours, entre le 15 et le 17 mai 2026, un seul pirate informatique a fait tomber Pierre & Vacances, Belambra et Gîtes de France.
+- Plus de cinq millions de Français sont concernés.
 
-## [La gestion des identités, pilier de la <b>cybersécurité</b> à l'ère des agents IA - Les Echos](https://www.lesechos.fr/partenaires/la-minute-ia/la-gestion-des-identites-pilier-de-la-cybersecurite-a-lere-des-agents-ia-2232457)  
-*Source : lesechos.fr | Publication : 2026-05-20*
+## [<b>Cybercriminalité</b> : La BCLCC alerte sur une nouvelle forme d'arnaque Mobile Money](https://lefaso.net/spip.php?article146636)  
+*Source : lefaso.net | Publication : 2026-05-21*
 
-- “C'est devenu le socle central de la cybersécurité ”, assure-t-il.
-- Comme de nombreux composants des systèmes d'information, l'IAM est aujourd'hui.
+- Cybercriminalité : La BCLCC alerte sur une nouvelle forme d’arnaque Mobile Money La Brigade centrale de lutte contre la cybercriminalité (BCLCC) tire la sonnette d’alarme sur une nouvelle vague d’escroquerie.
+- Celle-ci vise principalement les utilisateurs des services Mobile Money.
+- En effet, des individus malintentionnés se font passer pour des agents des opérateurs de téléphonie mobile afin de soutirer des informations sensibles à leurs victimes.
+- En ce qui concerne le mode opératoire, les escrocs contactent d’abord leurs cibles par téléphone, évoquant une prétendue mise à jour ou sécurisation de compte.
 
-## [Fuites de données : l'Etat, mauvais élève de la sécurité - Le Monde](https://www.lemonde.fr/idees/article/2026/05/20/fuites-de-donnees-l-etat-mauvais-eleve-de-la-securite_6691697_3232.html)  
-*Source : lemonde.fr | Publication : 2026-05-20*
+## [Ils sont si puissants que Donald Trump veut finalement les réguler: les derniers modèles d ... - BFM](https://www.bfmtv.com/tech/cybersecurite/ils-sont-si-puissants-que-donald-trump-veut-finalement-les-reguler-les-derniers-modeles-d-ia-sont-etudies-par-une-task-force-speciale-des-agences-de-renseignement-americaines-pour-anticiper-les-risques-et-exploiter-leurs-capacites-offensives_AN-202605210454.html)  
+*Source : bfmtv.com | Publication : 2026-05-21*
 
-- JavaScript is disabled in your browser.
-- Please enable JavaScript to proceed.
-- A required part of this site couldn’t load.
-- This may be due to a browser extension, network issues, or browser settings.
+- Ils sont si puissants que Donald Trump veut finalement les réguler: les derniers modèles d’IA sont étudiés par une task force spéciale des agences de renseignement américaines pour anticiper les risques et exploiter leurs capacités offensives Le commandement du Pentagone chargé de la cyberguerre a mis sur pied un groupe de travail destiné à accélérer l’intégration d’outils d’intelligence artificielle de pointe, notamment ceux dotés de capacités offensives avancées en matière de piratage, selon trois sources proches du dossier.
+- Restée jusqu’ici confidentielle, cette initiative illustre les inquiétudes grandissantes du Cyber Command face à l’essor fulgurant de modèles développés par le secteur privé, désormais capables de détecter et d’exploiter des vulnérabilités à une vitesse dépassant celle des meilleurs hackers au monde.
+- Selon Politico, ce groupe, réunissant la NSA et le Cyber Command, a été lancé à l’initiative du général Joshua Rudd, directeur des deux entités, afin d’encadrer l’intégration sécurisée de ces technologies.
+- L’enjeu est d’évaluer l’usage de solutions conçues par les géants de la Silicon Valley sur des systèmes critiques du renseignement, tout en garantissant la protection de données hautement sensibles.
 
-## [Le Conseil de l'Europe contribue à la tenue des Cyber Games et du Digital Security ...](https://www.coe.int/fr/web/portal/-/council-of-europe-helps-bring-global-cyber-games-and-digital-security-challenge-to-africa)  
-*Source : coe.int | Publication : 2026-05-20*
+## [Selon certaines sources, la Maison Blanche de Trump reporte la cérémonie de signature du ...](https://www.boursorama.com/bourse/actualites-amp/selon-certaines-sources-la-maison-blanche-de-trump-reporte-la-ceremonie-de-signature-du-decret-sur-l-ia-et-la-cybersecurite-97481d84ab2d7f9b8660a167d16d9274)  
+*Source : boursorama.com | Publication : 2026-05-21*
 
-- Les meilleurs experts en cybercriminalité et en cybersécurité de près de 50 pays travaillent ensemble à Marrakech, au Maroc, dans le cadre d'une.
+- Selon certaines sources, la Maison Blanche de Trump reporte la cérémonie de signature du décret sur l'IA et la cybersécurité information fournie par Reuters 21/05/2026 à 17:51 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) La cérémonie de signature par le président Donald Trump d'un nouveau décret sur l'intelligence artificielle et la cybersécurité, initialement prévue jeudi, a été reportée, selon deux sources proches du dossier.
 
-## [Agentic Network Security Orchestration Platform, l'orchestration agentique cyber par Check Point](https://itsocial.fr/cybersecurite/cybersecurite-actualites/check-point-presente-agentic-network-security-orchestration-platform-sa-plateforme-dorchestration-agentique-cyber/)  
-*Source : itsocial.fr | Publication : 2026-05-20*
+## [Le service First VPN, prisé des criminels pour dissimuler leur identité, a été démantelé](https://fr.news.yahoo.com/sport/cybercriminalité-service-first-vpn-prisé-152548904.html)  
+*Source : fr.news.yahoo.com | Publication : 2026-05-21*
 
-- Agentic Network Security Orchestration Platform est une plateforme d'orchestration agentique pour la sécurité des réseaux, Agentic Network Security Orchestration Platform, conçue pour exécuter les opérations de sécurité réseau dans les environnements d'entreprise sans intervention humaine continue.
-- L'éditeur a parallèlement signé l'acquisition de l'équipe et de la propriété intellectuelle de la société israélienne Deepchecks, spécialisée dans l'évaluation et la supervision des systèmes multiagents.
-- La gestion des règles de pare-feu d'entreprise a longtemps reposé sur un schéma stable, des consoles fournisseurs distinctes, des règles statiques empilées par couches successives au fil des années, et des équipes humaines qui revoient les politiques à la main au rythme des demandes de changement.
-- Ce schéma a fait sa preuve à l'échelle des réseaux centralisés des années 2000, mais s'épuise depuis le milieu de la décennie 2010 sous l'effet conjoint du cloud hybride, des fusions-acquisitions qui fragmentent les périmètres, de l'explosion des objets connectés et désormais de la prolifération des agents d'intelligence artificielle dans les infrastructures.
+- Cybercriminalité : Le service First VPN, prisé des criminels pour dissimuler leur identité, a été démantelé Déconnexion - Selon Laure Beccuau, procureure de Paris, « trente-trois serveurs ont été saisis dans différents pays d’Europe » Un outil pour la cybercriminalité débranché.
+- Ce jeudi, la procureure de Paris annonce que le service First VPN (réseau privé virtuel), « largement utilisé par des cybercriminels pour dissimuler leur identité », a été démantelé mardi au cours d’une opération internationale diligentée par les autorités judiciaires françaises et néerlandaises, avec l’appui notamment d’Eurojust et Europol.
+- « Trente-trois serveurs ont été saisis dans différents pays d’Europe », a précisé Laure Beccuau dans un communiqué.
+- « Le principal administrateur, localisé en Ukraine, y a été entendu à la demande du juge d’instruction français, en présence des enquêteurs de la brigade de lutte contre la cybercriminalité », a-t-elle ajouté.
 
-## [L'IA à la rescousse des hackers : comment l'intelligence artificielle simplifie le piratage](https://www.leparisien.fr/high-tech/on-abaisse-le-niveau-technique-requis-comment-lia-facilite-considerablement-la-tache-des-hackers-20-05-2026-MP2TTZG7D5AQ7O7Z6FGPC2AQXU.php)  
-*Source : leparisien.fr | Publication : 2026-05-20*
+## [Faille de Bitlocker : Microsoft propose 2 mesures d'urgence pour protéger votre PC Windows](https://www.01net.com/actualites/faille-bitlocker-microsoft-propose-2-mesures-urgence-proteger-pc-windows.html)  
+*Source : 01net.com | Publication : 2026-05-21*
 
-- L’IA à la rescousse des hackers : comment l’intelligence artificielle simplifie le piratage Les violations de données explosent en France avec + 50 % en trois ans selon la Cnil.
-- L’intelligence artificielle révolutionne la cybercriminalité en démocratisant certains outils, et en créant des opérations toujours plus sophistiquées.
-- Ça n’arrête pas.
-- La semaine dernière, le groupe de tourisme Pierre & Vacances-Center Parcs a été victime d’une importante fuite de données sur sa plateforme en ligne qui pourrait concerner plus de quatre millions de ses clients.
+- Un chercheur en cybersécurité a récemment découvert une vulnérabilité majeure affectant BitLocker, le système de chiffrement intégré à Windows 11.
+- La faille permet de contourner la protection des données chiffrées d’une façon très simple.
+- Selon les investigations menées par Nightmare-Eclipse, l’expert à l’origine de la découverte de la faille, il suffit de copier un dossier spécifique sur une clé USB, de l’insérer dans l’ordinateur ciblé, puis de démarrer la machine en maintenant la touche Ctrl enfoncée.
+- L’opération ouvre automatiquement l’environnement de récupération WinRE (Windows Recovery Environment) de Windows.
 
-## [Cyberattaques indétectables : Microsoft neutralise la menace « invisible » qui a fait des ...](https://www.01net.com/actualites/cyberattaques-virus-indetectables-microsoft-neutralise-plateforme-invisible-qui-fait-ravages-france.html)  
-*Source : 01net.com | Publication : 2026-05-20*
+## [First VPN : Un réseau privé virtuel prisé des cybercriminels démantelé lors d'une opération ...](https://actu17.fr/international/first-vpn-un-reseau-prive-virtuel-prise-des-cybercriminels-demantele-lors-dune-operation-internationale.html)  
+*Source : actu17.fr | Publication : 2026-05-21*
 
-- Ce mardi 19 mai 2026, Microsoft révèle avoir neutralisé une vaste plateforme criminelle, baptisée Fox Tempest.
-- Ce service en ligne proposait aux cybercriminels de rendre leurs virus indétectables en détournant un service cloud légitime de Microsoft, Azure Artifact Signing (anciennement Trusted Signing).
-- Depuis 2024, il permet aux développeurs de signer numériquement du code et des applications, sans avoir à gérer soi-même les certificats ou les clés privées.
-- Les chercheurs décrivent Fox Tempest comme un « acteur majeur, mais souvent invisible, de l’écosystème de la cybercriminalité ».
+- Le jeudi 21 mai 2026 à 11:14 Le service First VPN, un réseau privé virtuel largement utilisé par des cybercriminels pour dissimuler leur identité, a été démantelé ce 19 mai au cours d'une opération internationale.
+- Diligentée par les autorités judiciaires françaises et néerlandaises, avec l'appui notamment d'Eurojust et d'Europol, l'opération a permis la saisie de 33 serveurs dans différents pays d'Europe.
+- Le principal administrateur, localisé en Ukraine, a été entendu à la demande du juge d'instruction français, en présence des enquêteurs de la brigade de lutte contre la cybercriminalité.
+- Les éléments ont été communiqués ce jeudi 21 mai dans un communiqué de presse de Laure Beccuau, la procureure de la République de Paris.
