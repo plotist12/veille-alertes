@@ -1,151 +1,156 @@
 # Résumés – 2026-05-23
 
 
-## [Anthropic Lancer l'Initiative de <b>Cybersécurité</b> Glasswing la Semaine Prochaine - Binance](https://www.binance.com/fr/square/post/325990320158034)  
-*Source : binance.com | Publication : 2026-05-22*
+## [Souveraineté numérique : Sahal Tech veut former une nouvelle génération de leaders ...](https://burkina24.com/2026/05/23/souverainete-numerique-sahal-tech-veut-former-une-nouvelle-generation-de-leaders-technologiques/)  
+*Source : burkina24.com | Publication : 2026-05-23*
 
-- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
-- This requires JavaScript.
-- Enable JavaScript and then reload the page.
+- Souveraineté numérique : Sahal Tech veut former une nouvelle génération de leaders technologiques Les premiers responsables de la société Sahal Tech Innovation Las ont procédé, ce samedi 23 mai 2026, à l’ouverture officielle de leur centre de formation professionnelle baptisé Sahal Tech Smart Innovation Hub.
+- La cérémonie a également été marquée par le lancement de la première édition de Sahal Tech Innovation Challenge (STIC 2026), une initiative destinée à promouvoir l’innovation technologique portée par l’intelligence artificielle.
+- Pensé comme un espace de formation et d’innovation de nouvelle génération, le centre est équipé d’outils technologiques modernes destinés à former élèves, étudiants et professionnels aux métiers du numérique.
+- Les formations porteront notamment sur l’intelligence artificielle, la cybersécurité, la santé numérique, la finance technologique, l’agriculture intelligente et les solutions éducatives innovantes.
 
-## [Qui a sabordé le décret IA de Trump ? Pas moi, assure Musk - Le Soir](https://www.lesoir.be/748401/article/2026-05-22/qui-saborde-le-decret-ia-de-trump-pas-moi-assure-musk)  
-*Source : lesoir.be | Publication : 2026-05-22*
+## [Escroqueries 2.0 : la nouvelle charge mentale des petits patrons, démunis face à l ... - Ouest-France](https://www.ouest-france.fr/societe/cyberattaque/escroqueries-2-0-la-nouvelle-charge-mentale-des-petits-patrons-demunis-face-a-lusurpation-didentite-3e833412-54fb-11f1-a8af-559ef5894fc2)  
+*Source : ouest-france.fr | Publication : 2026-05-23*
 
-- Pourquoi Donald Trump a-t-il renoncé jeudi à signer son décret très attendu sur l'intelligence artificielle (IA) et la cybersécurité ?.
-- Plusieurs.
+- Au-delà des pertes financières et des enjeux de cybersécurité , elles génèrent une charge mentale écrasante pour les dirigeants.
+- Maël Guibert,.
 
-## [Google révèle par erreur une faille critique touchant Chrome, Edge et Opera, faut-il s'inquiéter](https://fr.finance.yahoo.com/actualites/cybersécurité-google-révèle-erreur-faille-194938251.html)  
-*Source : fr.finance.yahoo.com | Publication : 2026-05-22*
+## [Cloud, IA, <b>cybersécurité</b> : comment les géants américains écrasent le numérique européen](https://www.challenges.fr/entreprise/tech-numerique/cloud-ia-cybersecurite-comment-les-geants-americains-ecrasent-le-numerique-europeen_643463)  
+*Source : challenges.fr | Publication : 2026-05-23*
 
-- Cybersécurité : Google révèle par erreur une faille critique touchant Chrome, Edge et Opera, faut-il s’inquiéter ?.
-- C’est une erreur qui pourrait bien leur coûter leur réputation.
-- Google a publié par erreur le code d’exploitation d’une faille qui concerne des dizaines d’utilisateurs, selon des informations relayées par BFM.
-- La publication de ce code permettrait en fait d’exploiter cette faille qui n’a pas encore été corrigée dans Chromium, la version open source sur laquelle reposent Chrome, Microsoft Edge, Opera, Brave, Vivaldi ou encore certains navigateurs dopés à l’intelligence artificielle, comme Arc ou ChatGPT Atlas.
+- Cloud, IA, cybersécurité : comment les géants américains écrasent le numérique européen Les Etats-Unis exploitent sans vergogne la toute-puissance de leurs champions de la tech sur le Vieux Continent.
+- La France tente d’échapper au complexe d’infériorité européen.
+- Directives, projets de propositions de loi, sanctions des autorités de concurrence, procès en série, rapports en tous genres.
+- Les pays européens mènent cahin-caha, au nom de leur souveraineté, une bataille contre l’emprise des géants américains du numérique.
 
-## [<b>Cybersécurité</b> : Google révèle par erreur une faille critique touchant Chrome, Edge et Opera ...](https://www.capital.fr/economie-politique/cybersecurite-google-revele-par-erreur-une-faille-critique-touchant-chrome-edge-et-opera-faut-il-sinquieter-1526874)  
-*Source : capital.fr | Publication : 2026-05-22*
+## [Camping-Car Plus : victime d'une fuite de données, les mots de passe exposés](https://www.cyberattaque.org/camping-car-plus-victime-dune-fuite-de-donnees-les-mots-de-passe-exposes/)  
+*Source : cyberattaque.org | Publication : 2026-05-23*
 
-- C’est une erreur qui pourrait bien leur coûter leur réputation.
-- Google a publié par erreur le code d’exploitation d’une faille qui concerne des dizaines d’utilisateurs, selon des informations relayées par BFM.
-- La publication de ce code permettrait en fait d’exploiter cette faille qui n’a pas encore été corrigée dans Chromium, la version open source sur laquelle reposent Chrome, Microsoft Edge, Opera, Brave, Vivaldi ou encore certains navigateurs dopés à l’intelligence artificielle, comme Arc ou ChatGPT Atlas.
-- Firefox et Safari ne sont pas concernés.
+- Le site Camping-Car Plus, spécialisé dans la vente d’accessoires et d’équipements pour camping-cars et vans aménagés, informe ses clients avoir été victime d’un incident de cybersécurité susceptible d’avoir entraîné une fuite de données personnelles.
+- Des identifiants et mots de passe concernés Dans un message envoyé à ses clients, l’entreprise explique qu’un incident a récemment affecté une partie de ses systèmes informatiques.
+- Selon la notification, plusieurs types de données pourraient avoir été exposés : nom et prénom ; - adresse e-mail ; - adresse postale ; - numéro de téléphone ; - identifiant de connexion et mot de passe.
+- - L’enseigne précise en revanche qu’aucune donnée bancaire ne serait concernée par l’incident, les coordonnées de paiement n’étant pas conservées sur ses systèmes.
 
-## [Renseignement, <b>cybersécurité</b>… À Lisieux, quels sont les nouveaux besoins de la Défense et de](https://caen.maville.com/actu/actudet_-renseignement-cybersecurite...-a-lisieux-quels-sont-les-nouveaux-besoins-de-la-defense-et-de-la-securite-privee-_dep-7329607_actu.Htm)  
-*Source : caen.maville.com | Publication : 2026-05-22*
+## [Côte d'Ivoire : Abidjan, une affaire de cyberchantage après une rupture amoureuse conduit ... - koaci](https://www.koaci.com/article/2026/05/23/cote-divoire/justice/cote-divoire-abidjan-une-affaire-de-cyberchantage-apres-une-rupture-amoureuse-conduit-une-jeune-femme-devant-la-justice_196896.html)  
+*Source : koaci.com | Publication : 2026-05-23*
 
-- L’agence France Travail de Lisieux (Calvados) avait mis en place la quatrième édition de son forum des métiers de la Défense et de la sécurité privée, ce jeudi 21 mai 2026.
-- Une dizaine d’intervenants, militaires, pompiers, policiers, gendarmes et responsables d’entreprises de sécurité, sont allés à la rencontre des demandeurs d’emploi.
-- L’occasion d’en savoir plus sur les nouveaux besoins en recrutement.
-- Les secteurs de la Défense et de la sécurité sont de gros pourvoyeurs d’emploi.
+- Côte d'Ivoire : Abidjan, une affaire de cyberchantage après une rupture amoureuse conduit une jeune femme devant la justice La mise en cause (Ph Koaci) Une relation sentimentale qui se termine mal peut parfois déboucher sur des conséquences inattendues.
+- À Abidjan, une affaire mêlant vie privée, menaces et cybercriminalité a récemment attiré l’attention des autorités, après qu’un homme a dénoncé des actes de chantage orchestrés, selon lui, par son ancienne compagne.
+- Selon les informations rapportées par la Police de Lutte Contre la Cybercriminalité (PLCC), S.G.T aurait vécu une relation amoureuse marquée par une forte proximité avec une jeune femme avant que des différends ne conduisent à leur séparation.
+- Une rupture qui aurait été difficilement acceptée par cette dernière, laquelle aurait ensuite entrepris de faire pression sur son ex-partenaire à travers des menaces liées à la diffusion de contenus intimes.
 
-## [Renseignement, <b>cybersécurité</b>… À Lisieux, quels sont les nouveaux besoins de la Défense ...](https://www.ouest-france.fr/normandie/lisieux-14100/renseignement-cybersecurite-a-lisieux-quels-sont-les-nouveaux-besoins-de-la-defense-et-de-la-securite-privee-b66bd854-5518-11f1-a8af-559ef5894fc2)  
-*Source : ouest-france.fr | Publication : 2026-05-22*
+## [Défense en matière de <b>cybersécurité</b> à l'ère post-quantique - Vietnam.vn](https://www.vietnam.vn/fr/phong-thu-an-ninh-mang-truoc-ky-nguyen-hau-luong-tu)  
+*Source : vietnam.vn | Publication : 2026-05-23*
 
-- Une dizaine d'intervenants, militaires, pompiers, policiers, gendarmes et responsables d'entreprises de sécurité, sont allés à la rencontre des.
+- « Collecter d’abord, décoder ensuite » et le risque de briser la cryptographie traditionnelle.
+- Le développement de la technologie quantique est considéré comme une menace directe pour les normes de chiffrement qui protègent actuellement les systèmes financiers, de télécommunications et de données nationaux.
+- La puissance de calcul des ordinateurs quantiques est capable de déchiffrer les algorithmes de sécurité traditionnels en un temps record, créant ainsi des vulnérabilités importantes pour les infrastructures numériques critiques.
+- Il convient de noter qu'une stratégie d'attaque à long terme employée par les cybercriminels consiste à « collecter maintenant, déchiffrer plus tard ».
 
-## [Sascha Kniep, Product Management KNX, JUNG - Filière 3e](https://www.filiere-3e.fr/2026/05/22/sascha-kniep-product-management-knx-jung-jung-met-en-avant-trois-nouveautes-knx-qui-traduisent-une-meme-logique-plus-de-compacite-moins-de-complexite-et-un-temps-de-parametrage/)  
-*Source : filiere-3e.fr | Publication : 2026-05-22*
+## [En Zambie, avant la présidentielle, les nouvelles lois sur le numérique inquiètent les médias](https://www.rfi.fr/fr/podcasts/menaces-sur-l-information/20260523-en-zambie-avant-la-présidentielle-les-nouvelles-lois-sur-le-numérique-inquiètent-les-médias)  
+*Source : rfi.fr | Publication : 2026-05-23*
 
-- Membre actif du KNX Technical Board, Sascha Kniep pilote chez JUNG la stratégie produits KNX à l’échelle internationale.
-- À l’occasion de Light + Building, il revient sur les orientations structurantes du groupe, notamment autour de la cybersécurité, et détaille les innovations présentées en avant-première, entre compacité, intégration fonctionnelle et simplification de la mise en œuvre.
-- Quelle est la stratégie globale de JUNG pour le développement des solutions KNX ?.
-- La stratégie de JUNG en KNX s’inscrit dans une trajectoire claire engagée dès 2020 : faire de KNX Secure le socle de l’ensemble notre portefeuille.
+- En Zambie, avant la présidentielle, les nouvelles lois sur le numérique inquiètent les médias Publié le : En Zambie, de nouvelles lois sur la cybersécurité et la cybercriminalité inquiètent journalistes et défenseurs des droits humains.
+- Adoptés en avril 2026 par le Parlement puis promulgués dans la foulée par le président Hakainde Hichilema, ces textes sont officiellement destinés à lutter contre les abus en ligne et les fraudes numériques.
+- Mais à moins de trois mois de la présidentielle du 13 août 2026, plusieurs médias indépendants dénoncent des lois aux contours flous, susceptibles selon eux de faire taire les voix critiques et d’encourager l’autocensure.
+- En Zambie, un virage législatif surprend de nombreux journalistes, à l’image de Joseph Mwenda, rédacteur en chef du journal indépendant News Diggers.
 
-## [Qui a sabordé le décret IA de Donald Trump? Pas moi, assure Elon Musk - TVA Nouvelles](https://www.tvanouvelles.ca/2026/05/22/qui-a-saborde-le-decret-ia-de-donald-trump-pas-moi-assure-elon-musk)  
-*Source : tvanouvelles.ca | Publication : 2026-05-22*
+## [Ce VPN aidait les hackers à échapper à la police, Europol intervient - PhonAndroid](https://www.phonandroid.com/ce-vpn-aidait-les-hackers-a-echapper-a-la-police-europol-intervient.html)  
+*Source : phonandroid.com | Publication : 2026-05-23*
 
-- Pourquoi Donald Trump a-t-il renoncé jeudi à signer son décret très attendu sur l’intelligence artificielle (IA) et la cybersécurité ?.
-- Plusieurs récits irriguent les médias à Washington, pointant vers le rôle de l’influent conseiller David Sacks, fervent opposant à toute régulation de l’IA.
-- • À lire aussi : Donald Trump a atteint un niveau inégalé de corruption, selon ses opposants • À lire aussi : Trump voit ses projets malmenés au Congrès par sa majorité Investisseur tech de renom et proche d’Elon Musk, David Sacks aurait, selon Politico, appelé le président jeudi matin pour le convaincre qu’un examen sécuritaire des modèles d’IA avant leur diffusion ralentirait l’innovation américaine face à la Chine.
-- Selon Politico, les responsables de la Maison-Blanche croyaient David Sacks favorable au décret.
+- Ce VPN aidait les hackers à échapper à la police, Europol intervient Se croyant en sécurité, des dizaines de cybercriminels se cachaient derrière First VPN.
+- Mais les autorités européennes, avec l’aide d’Europol, ont réussi à « casser » le VPN, mettant ainsi la main sur un vaste réseau de malfaiteurs.
+- En 2026, les VPN sont plus populaires que jamais.
+- Et, si ces derniers permettent d’accéder à des contenus indisponibles dans votre pays de résidence, nombreux sont les développeurs de VPN à mettre en avant l’aspect sécuritaire de ces outils.
 
-## [Google a publié par erreur les détails d'une faille qui touche des dizaines de navigateurs ...](https://www.bfmtv.com/tech/cybersecurite/google-a-publie-par-erreur-les-details-d-une-faille-qui-touche-des-dizaines-de-navigateurs-comme-chrome-edge-ou-opera-des-millions-d-ordinateurs-sont-menaces-de-devenir-des-pc-zombies_AN-202605220388.html)  
-*Source : bfmtv.com | Publication : 2026-05-22*
+## [Les Rencontres de la <b>cybersécurité</b> auront lieu à Limoges les 4 et 5 juin](https://www.lepopulaire.fr/limoges-87000/economie/les-rencontres-de-la-cybersecurite-auront-lieu-a-limoges-les-4-et-5-juin_14991797/)  
+*Source : lepopulaire.fr | Publication : 2026-05-23*
 
-- Google a publié par erreur les détails d’une faille qui touche des dizaines de navigateurs, comme Chrome, Edge, ou Opera, des millions d’ordinateurs sont menacés de devenir des PC zombies Google a publié le code d’exploitation d’une vulnérabilité toujours non corrigée dans Chromium.
-- Cette faille concerne potentiellement des millions d’utilisateurs, car Chromium sert de base à de nombreux navigateurs populaires comme Chrome, Edge, Brave, Opera ou encore la plupart des navigateurs IA lancés ces derniers mois, que ce Arc ou ChatGPT Atlas.
-- Le problème provient d'un bug dans l’API Fetch, conçue pour télécharger des fichiers en arrière-plan.
-- Détournée, elle permet à un attaquant d’établir une connexion persistante avec le navigateur d’une victime.
+- Écouter l'article Il est beaucoup question de cybersécurité en ce moment dans les débats, tant les affaires de piratage et de vols de données se multiplient.
+- Du coup, le Centre de ressources en cybersécurité (CRC) Limoges Métropole organise une nouvelle édition des Rencontres de la cybersécurité, les jeudi 4 et vendredi 5 juin au stade de Beaublanc, à Limoges.
+- Conférences et mises en situation Ce rendez-vous annuel a pour objectif de proposer un programme de rencontres professionnelles dans le showroom des solutions locales, des conférences et des ateliers thématiques ainsi que de nombreuses mises en situation pour initier à la gestion de crise cyber ou parfaire ses connaissances en matière de réaction aux cyber-attaques.
+- Ces deux journées permettent également aux participants de découvrir l’écosystème local de prestataires intervenant dans le champ de la cybersécurité et leurs offres de solutions.
 
-## [Conseil des ministres : <b>Cybersécurité</b> : de nouvelles règles pour les secteurs stratégiques](https://lexpress.mu/s/cybersecurite-de-nouvelles-regles-pour-les-secteurs-strategiques-558304)  
-*Source : lexpress.mu | Publication : 2026-05-22*
+## [<b>Cybersécurité</b> : la Guinée durcit le contrôle des transactions électroniques - Guinee360](https://www.guinee360.com/23/05/2026/cybersecurite-la-guinee-durcit-le-controle-des-transactions-electroniques/)  
+*Source : guinee360.com | Publication : 2026-05-23*
 
-- Publicité Publicité Conseil des ministres Cybersécurité : de nouvelles règles pour les secteurs stratégiques Par Partager cet article Conseil des ministres Cybersécurité : de nouvelles règles pour les secteurs stratégiques Le Conseil des ministres de ce vendredi 22 mai a pris note de la promulgation des Cybersecurity and Cybercrime (Critical Information Infrastructure Designation) Regulations 2026, destinés à mettre en place un cadre réglementaire pour l’identification et la gestion des infrastructures critiques d’information à Maurice.
-- Ces nouvelles réglementations concerneront plusieurs secteurs jugés stratégiques, notamment les services financiers et bancaires, le service public, les TIC et la radiodiffusion, les secteurs de l’énergie et de l’approvisionnement en eau, ainsi que l’industrie du transport.
-- Le National Cybersecurity Committee sera habilité à désigner un système comme étant une Critical Information Infrastructure, conformément aux critères prévus dans la Cybersecurity and Cybercrime Act et en consultation avec les autorités réglementaires concernées.
-- Les propriétaires de ces infrastructures devront se conformer aux directives émises par les autorités compétentes, avec un accent particulier sur la confidentialité et la restriction de l’accès aux informations sensibles uniquement aux personnes autorisées.
+- Le gouvernement guinéen franchit une nouvelle étape dans l’encadrement du secteur numérique.
+- À travers un nouveau décret relatif à l’audit, au contrôle et à la certification des systèmes d’information des transactions électroniques, les autorités entendent renforcer la sécurité des plateformes numériques opérant en Guinée.
+- Le texte, pris en application de la loi de 2016 sur les transactions électroniques, confère à Autorité de Régulation des Postes et Télécommunications (ARPT) un pouvoir accru de supervision des infrastructures numériques utilisées par les entreprises publiques et privées.
+- “Le présent décret a pour objet de définir la procédure d’audit de sécurité, de contrôle et de certification des systèmes d’information des transactions électroniques”, précise le document officiel, qui s’inscrit dans un contexte de montée en puissance des services financiers numériques, du mobile money et des plateformes électroniques en Guinée.
 
-## [Airbus lance son futur campus Défense et <b>cybersécurité</b> à Montigny-le-Bretonneux | tv78](https://tv78.com/campus-airbus-montigny-le-bretonneux/)  
-*Source : tv78.com | Publication : 2026-05-22*
+## [Police cynotechnique : une nouvelle mission au service des enquêtes sur les cybercrimes](https://www.leconomiste.com/flash-infos/police-cynotechnique-une-nouvelle-mission-au-service-des-enquetes-sur-les-cybercrimes/)  
+*Source : leconomiste.com | Publication : 2026-05-23*
 
-- La ministre des Armées Catherine Vautrin s’est rendue à Montigny-le-Bretonneux pour inaugurer le chantier du futur Campus Grand Paris d’Airbus Defence and Space.
-- La ministre des Armées et des Anciens combattants, Catherine Vautrin, était attendue jeudi 21 mai à Montigny-le-Bretonneux pour participer à l’inauguration du chantier du futur Campus Grand Paris d’Airbus Defence and Space.
-- La cérémonie s‘est déroulée aux côtés de Guillaume Faury, président exécutif d’Airbus.
-- Un nouveau site stratégique pour Airbus en Île-de-France Implanté dans la zone d’activités du Pas du Lac à Montigny-le-Bretonneux, ce futur campus doit permettre à Airbus Defence and Space de regrouper et développer ses activités.
+- cybermenaces.
+- Cette nouvelle mission permet aux chiens de police dressés de ... cybercriminalité , à l'exploitation sexuelle des enfants, à la.
 
-## [Protocole national contre les pluies torrentielles, réforme climatique et <b>cybersécurité</b> au ...](https://lexpress.mu/s/protocole-national-contre-les-pluies-torrentielles-reforme-climatique-et-cybersecurite-au-coeur-des-decisions-558301)  
-*Source : lexpress.mu | Publication : 2026-05-22*
+## [Franc-Parler : « La confiance est notre actif le plus précieux » — Les dangers de la ... - Le Soleil](https://www.lesoleil.com/communiques-de-presse/2026/05/23/franc-parler-la-confiance-est-notre-actif-le-plus-precieux-les-dangers-de-la-surveillance-et-lavenir-de-la-cybersecurite-LK4INXPIQNEMZKOG4OG5K72MQA/)  
+*Source : lesoleil.com | Publication : 2026-05-23*
 
-- Publicité Publicité Conseil des ministres Protocole national contre les pluies torrentielles, réforme climatique et cybersécurité au cœur des décisions Par Partager cet article Conseil des ministres Protocole national contre les pluies torrentielles, réforme climatique et cybersécurité au cœur des décisions Le Conseil des ministres de ce vendredi 22 mai a été marqué par plusieurs décisions touchant à la gestion des risques climatiques, à la cybersécurité, à l’économie et aux relations internationales.
-- Parmi les principales mesures annoncées figurent l’adoption d’un protocole national sur les fortes pluies et pluies torrentielles, le renforcement des lois contre l’exportation et la revente de produits subventionnés, ainsi que la mise en place d’un cadre réglementaire pour les infrastructures critiques en cybersécurité.
-- Le Cabinet a également pris note de la résolution historique de l’ONU sur les obligations climatiques des États, du lancement prochain de la stratégie nationale Fintech 2026-2030, et du démarrage prévu des travaux de remplacement de conduites d’eau à Grand-Baie dès octobre 2026.
-- Consultez le document pour découvrir toutes les décisions.
+- MONTRÉAL, 23 mai 2026 (GLOBE NEWSWIRE) -- Alors que les débats font rage autour de la souveraineté numérique, des politiques d'encryption et des cadres de surveillance gouvernementale, la protection des données est devenue un enjeu économique critique pour les entreprises nord-américaines.
+- Nous avons rencontré Yanik Guillemette, entrepreneur et conseiller stratégique, pour analyser les risques associés aux failles de sécurité, l'importance vitale des politiques strictes de confidentialité (no-logs), et la valeur économique de la confiance numérique.
+- Q : Vous exprimez souvent des inquiétudes face aux gouvernements qui réclament des « portes dérobées » (backdoors) dans les systèmes de chiffrement.
+- Quel est le danger réel pour les entreprises?.
 
-## [Un centre cyber de l'Otan en passe de voir le jour à Rennes - Le Télégramme](https://www.letelegramme.fr/ille-et-vilaine/rennes-35000/un-centre-cyber-de-lotan-en-passe-de-voir-le-jour-a-rennes-7048058.php)  
-*Source : letelegramme.fr | Publication : 2026-05-22*
+## [Le CGBCM s'est penché sur les questions de gouvernance, de <b>cybersécurité</b> et de mise à ...](https://fr.saharamedias.net/le-cgbcm-sest-penche-sur-les-questions-de-gouvernance-de-cybersecurite-et-de-mise-a-jour-des-reglementations/)  
+*Source : fr.saharamedias.net | Publication : 2026-05-23*
 
-- l'intelligence artificielle.
-- De quoi renforcer la position de la France et de la Bretagne en matière de cybersécurité et de défense numérique.
+- Le Conseil général de la Banque centrale de Mauritanie, lors d’une réunion qu’il a tenue, a examiné une série de dossiers liés au renforcement de la gouvernance et à la modernisation des fonctions stratégiques de la banque, en mettant l’accent sur le contrôle interne, la cybersécurité et le développement des systèmes de gestion.
+- Un communiqué publié à l’issue de la réunion a précisé que le Conseil avait examiné l’état d’avancement d’un certain nombre de projets structurels, ainsi que les dossiers relatifs à la gestion financière, à l’audit interne et à la gouvernance des systèmes d’information, dans le cadre des efforts déployés par la Banque pour renforcer l’efficacité institutionnelle et améliorer les mécanismes de prise de décision.
+- Le Conseil a également examiné les états financiers pour l’exercice 2025, ainsi que les avancées relatives à la mise à jour des procédures comptables et à l’interconnexion des systèmes, sans oublier l’élaboration des rapports de gouvernance environnementale, sociale et institutionnelle (ESG) et le suivi des recommandations émises par les missions de protection, ce qui reflète la volonté de la banque d’aligner ses pratiques sur les normes internationales en matière de gouvernance et de durabilité.
+- Les travaux ont également porté sur le renforcement de la cybersécurité et de la gouvernance des technologies de l’information, le Conseil ayant été informé des mesures prises pour développer la stratégie des systèmes d’information et améliorer les systèmes de sauvegarde et de continuité des activités, dans le but de renforcer la résilience opérationnelle et de sécuriser les infrastructures sensibles de la banque.
 
-## [<b>Cybersécurité</b> : ce que les dirigeants ne peuvent plus ignorer](https://www.journaldunet.com/cybersecurite/1550475-cybersecurite-ce-que-les-dirigeants-ne-peuvent-plus-ignorer/)  
-*Source : journaldunet.com | Publication : 2026-05-22*
+## [Saisie d'un VPN utilisé dans la quasi-totalité des grandes enquêtes cyber d'Europol - Next](https://next.ink/238940/saisie-dun-vpn-utilise-dans-la-quasi-totalite-des-grandes-enquetes-cyber-deuropol/)  
+*Source : next.ink | Publication : 2026-05-23*
 
-- Cybersécurité : ce que les dirigeants ne peuvent plus ignorer Un dirigeant peut-il, aujourd'hui, être sanctionné pour ne pas avoir suffisamment anticipé un risque cyber ?.
-- En 2026, la réponse est oui.
-- Et ce risque ne concerne pas uniquement le dirigeant exécutif.
-- Le rapport annuel 2025 de la Cnil, publié le 19 mai dernier, est éloquent : 6 167 violations de données personnelles recensées en France l'an dernier, soit une hausse de 9,5 % par rapport à 2024, un record.
+- Saisie d’un VPN utilisé dans la quasi-totalité des grandes enquêtes cyber d’Europol Virtual Pwned Network Le 22 mai à 17h53 Au terme d’une enquête ouverte fin 2021, les enquêteurs des polices française, néerlandaise et de 14 autres pays ont saisi et démantelé un service de VPN qui était « presque exclusivement » promu sur les forums de cybercriminels russophones.
+- Son infrastructure aurait été préalablement compromise par les autorités, et plusieurs milliers de ses utilisateurs identifiés.
+- Saisie d’un VPN utilisé dans la quasi-totalité des grandes enquêtes cyber d’Europol Virtual Pwned Network Au terme d’une enquête ouverte fin 2021, les enquêteurs des polices française, néerlandaise et de 14 autres pays ont saisi et démantelé un service de VPN qui était « presque exclusivement » promu sur les forums de cybercriminels russophones.
+- Son infrastructure aurait été préalablement compromise par les autorités, et plusieurs milliers de ses utilisateurs identifiés.
 
-## [Cyberattaque : Quelques semaines après l'ANTS, l'Agence du service civique victime d'une ...](https://www.usine-digitale.fr/cybersecurite/cyberattaque-quelques-semaines-apres-lants-lagence-du-service-civique-victime-dune-violation-de-donnees-personnelles-sur-sa-plateforme-de-formation.JPMERC2JF5H53IZFUB52ZN2A7M.html)  
-*Source : usine-digitale.fr | Publication : 2026-05-22*
+## [Togo : 27 millions de dollars de la Pologne pour développer les drones et la <b>cybersécurité</b>](https://africa-news-agency.com/togo-27-millions-de-dollars-de-la-pologne-pour-developper-les-drones-et-la-cybersecurite/)  
+*Source : africa-news-agency.com | Publication : 2026-05-23*
 
-- cybersécurité touchant sa plateforme de formation, gérée par “les prestataires titulaires du marché correspondant”.
-- Des données personnelles ont.
+- cybersécurité.
+- Le projet prévoit la création d'un centre de technologies de sécurité à Lomé ainsi que le renforcement des capacités locales de.
 
-## [Bug bounty : l'IA fait bondir les signalements de 76% - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/05/22/bug-bounty-ia-signalements/)  
-*Source : dcod.ch | Publication : 2026-05-22*
+## [La <b>cybersécurité</b> lors du Hajj... Protection s'étendant des applications aux infrastructures critiques](https://www.sadanews.ps/fr/news/304323.html)  
+*Source : sadanews.ps | Publication : 2026-05-23*
 
-- TL;DR : L’essentiel Des modèles d’intelligence artificielle avancés parviennent désormais à identifier des dizaines de vulnérabilités logicielles en quelques jours, passant outre le temps d’analyse des experts humains traditionnels.
-- - Les plateformes de signalement constatent une augmentation d’un peu plus de 75% des rapports de sécurité en un an, provoquant une surcharge de travail pour les éditeurs.
-- - Face à cette multiplication de signalements automatisés et non vérifiés, les responsables de projets open source qualifient ce flux de travail fictif et inutile pour la sécurité.
-- - La multiplication des outils automatisés transforme la recherche de vulnérabilités et pèse sur l’organisation des programmes de bug bounty.
+- La cybersécurité lors du Hajj... Protection s'étendant des applications aux infrastructures critiques SadaNews - Avec l'augmentation de la dépendance aux applications et aux plateformes intelligentes durant la saison du Hajj, la cybersécurité n'est plus seulement une mesure technique, mais est devenue une partie intégrante de la continuité des services et de la sécurité opérationnelle.
+- La saison qui rassemble des millions de pèlerins dans une zone géographique et temporelle précise repose désormais sur un large écosystème numérique soutenant le transport, la santé, les communications, les services municipaux, la gestion des foules, et les plateformes dédiées aux invités de Dieu.
+- Cette transformation rend la protection des systèmes connectés essentielle pour garantir le bon fonctionnement des services.
+- Chaque application, plateforme, ou système de surveillance, ou infrastructure opérationnelle liée à la saison peut devenir un point sensible si elle n'est pas protégée de manière appropriée.
 
-## [Ce VPN promettait l'anonymat total aux hackers : ses serveurs viennent d'être saisis](https://siecledigital.fr/2026/05/22/ce-vpn-promettait-lanonymat-total-aux-hackers-ses-serveurs-viennent-detre-saisis/)  
-*Source : siecledigital.fr | Publication : 2026-05-22*
+## [Une nouvelle technique de fraude téléphonique cible les clients de Desjardins - 98.5 Montréal](https://www.985fm.ca/audio/778841/une-nouvelle-technique-de-fraude-telephonique-cible-les-clients-de-desjardins)  
+*Source : 985fm.ca | Publication : 2026-05-23*
 
-- L’opération a été menée sous la direction des autorités françaises et néerlandaises, avec le soutien d’Europol et d’Eurojust.
-- Le service existait depuis 2014.
-- Pendant onze ans, First VPN a offert aux cybercriminels une connexion redirigée à travers des serveurs tiers pour effacer toutes les traces.
-- Il y avait plusieurs niveaux de tarifs selon la complexité des relais.
+- L'expert en cybersécurité André Charbonneau a lui-même failli mordre à l'hameçon lors d'un appel frauduleux imitant à la perfection le service de prévention de la fraude de Desjardins.
+- Contrairement aux stratagèmes habituels, les fraudeurs n'ont créé aucun sentiment d'urgence, s'exprimant dans un français impeccable avec un accent québécois, tout en affichant le véritable numéro de l'institution financière grâce à la modification de l'afficheur.
+- L'appelant s'est montré tellement détaché qu'il a même suggéré à M. Charbonneau de se rendre en succursale s'il avait des doutes, une ruse psychologique hautement efficace pour gagner sa confiance.
+- Écoutez l'expert en cybersécurité André Charbonneau aborder le tout, vendredi matin, à l'émission de Marie-Eve Tremblay.
 
-## [Roth Capital initie une couverture sur SailPoint avec une recommandation « Achat »](https://fr.finance.yahoo.com/actualites/roth-capital-initie-couverture-sailpoint-225206718.html)  
-*Source : fr.finance.yahoo.com | Publication : 2026-05-22*
+## [Sénégal : des mois de crispation et révocation de Sonko | APAnews](https://fr.apanews.net/news/senegal-retour-sur-les-mois-de-crispations-ayant-conduit-a-la-revocation-de-sonko/)  
+*Source : fr.apanews.net | Publication : 2026-05-23*
 
-- Investing.com - Roth Capital Partners a initié une couverture sur SailPoint, Inc. avec une recommandation « Achat » et un objectif de cours à 12 mois de 19$, citant le leadership de la société dans la gouvernance et l’administration des identités (IGA), l’accélération de sa croissance et les opportunités croissantes liées à l’intelligence artificielle et à la migration vers le cloud.
-- Le rapport, publié le 20/05/2025, valorise SailPoint à environ 7x la valeur d’entreprise sur les ventes pour l’exercice 2028 et soutient que l’action se négocie avec une décote par rapport à ses pairs dans le secteur de la cybersécurité.
-- Les analystes de Roth ont noté que le taux de revenus récurrents annuels (ARR) actuel de la société s’élève à environ 1 milliard$, comparé à un marché adressable estimé à 55 milliards$.
-- Roth a mis en avant plusieurs catalyseurs à long terme pour SailPoint, notamment la migration des systèmes d’identité sur site vers des plateformes SaaS, l’adoption croissante des identités machines et des agents d’IA, ainsi que l’expansion vers des produits de sécurité des identités adjacents.
+- La révocation d’Ousmane Sonko de ses fonctions de Premier ministre, annoncée vendredi à la télévision nationale, s’inscrit dans une dynamique de tensions accumulées depuis plus d’un an au sommet de l’État sénégalais entre le président Bassirou Diomaye Faye et son ancien chef de gouvernement.
+- La trajectoire des Bassirou Diomaye Faye et Ousmane Sonko trouve son origine dans leur parcours commun au sein du Pastef.
+- Bassirou Diomaye Faye, membre du parti Pastef et ancien secrétaire général, en a démissionné à son accession à la magistrature suprême en mars 2024.
+- Il reste toutefois issu de cette formation politique dirigée par Ousmane Sonko, qui en est le leader.
 
-## [AVIS D'EXPERT – Données, IA agentique et confiance : les nouveaux piliers de la ...](https://www.solutions-numeriques.com/avis-dexpert-donnees-ia-agentique-et-confiance-les-nouveaux-piliers-de-la-transformation-des-entreprises-francaises/)  
-*Source : solutions-numeriques.com | Publication : 2026-05-22*
+## [CAFÉ NUMÉRIQUE LE 6 JUIN - Actualité illiwap de Ville de Beauzac](https://station.illiwap.com/fr/public/43025/actu/cafe-numerique-le-6-juin)  
+*Source : station.illiwap.com | Publication : 2026-05-23*
 
-- Levent Ergin, Chief Industry Strategist for Agentic AI, Regulatory Compliance & Sustainability pour Informatica, revient sur la manière dont les entreprises françaises doivent repenser la gouvernance de leurs données à l’heure de l’IA agentique.
-- Entre conformité, cybersécurité, ESG et automatisation, il estime que la confiance dans les données devient désormais une condition essentielle pour exploiter durablement ces nouveaux usages.
-- Les entreprises françaises font face à une transformation profonde, sous l’effet combiné de cadres réglementaires plus complexes, de menaces croissantes en cybersécurité et d’attentes sociétales accrues en matière de transparence, d’éthique et de durabilité.
-- Dans ce contexte, les données sont devenues un levier stratégique essentiel pour la décision, la conformité et la compétitivité.
+- 👨🏻💻 Faux mails, piratages, arnaques en ligne… Et si vous appreniez à mieux vous protéger au quotidien ?.
+- La médiathèque La Parenthèse vous invite à participer à un Café numérique dédié à la cybersécurité le samedi 6 juin 2026 à 9h30 !.
+- Au programme de cet atelier collectif : • Connaître les principales cybermenaces et arnaques en ligne • Créer des mots de passe plus sécurisés • Comprendre le rôle des antivirus • Protéger ses données personnelles • Savoir signaler une arnaque ou un contenu frauduleux 🥐 Trouvez des réponses claires et accessibles, dans une ambiance conviviale autour d’un café et d’un petit-déjeuner offerts !.
+- ℹ️ Atelier collectif gratuit et sur inscription (places limitées) : 07 64 45 47 93 ou 06 18 49 37 47 numerique.mfs@ville-beauzac.fr ou mediatheque@ville-beauzac.fr La médiathèque La Parenthèse vous invite à participer à un Café numérique dédié à la cybersécurité le samedi 6 juin 2026 à 9h30 !.
 
-## [Cycurion acquiert Secuvant et booste sa <b>cybersécurité</b> pilotée par l'IA avec une défense ...](https://www.zonebourse.com/actualite-bourse/cycurion-acquiert-secuvant-et-booste-sa-cybersecurite-pilotee-par-l-ia-avec-une-defense-automatisee-ce7f5adfde80f027)  
-*Source : zonebourse.com | Publication : 2026-05-22*
+## [À la Maison Blanche, la régulation de l'IA cale sur fond de récits contradictoires](https://actu.orange.fr/economie/a-la-maison-blanche-la-regulation-de-l-ia-cale-sur-fond-de-recits-contradictoires-CNT000002pyytz.html)  
+*Source : actu.orange.fr | Publication : 2026-05-23*
 
-- Cycurion acquiert Secuvant et booste sa cybersécurité pilotée par l'IA avec une défense automatisée et évolutive Publié le 22/05/2026 à 15:08 Reuters - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager Cet article est réservé aux membres Débloquer l'article : INSCRIVEZ-VOUS !.
-- Inscription 100% Gratuite Vous êtes déja client ?.
-- Se connecter © Reuters - 2026 Partager.
+- À la Maison Blanche, la régulation de l'IA cale sur fond de récits contradictoires © Kent NISHIMURA, AFP - Le président américain Donald Trump dans le bureau ovale de la Maison Blanche, à Washington, le 11 mai 2026 Pourquoi Donald Trump a-t-il renoncé à signer un décret très attendu sur l'intelligence artificielle (IA)?.
+- Plusieurs récits irriguent vendredi Washington pour interpréter ce nouvel épisode des difficultés de la Maison Blanche à s'accorder sur des garde-fous pour cette technologie de plus en plus puissante.
+- La plupart des analyses pointent vers l'ancien conseiller David Sacks, toujours influent malgré son départ de la Maison Blanche en mars.
+- Selon Politico, cet investisseur tech de renom, proche d'Elon Musk, aurait appelé le président jeudi matin pour le convaincre qu'un décret prévoyant un examen sécuritaire des modèles d'IA avant leur diffusion ralentirait l'innovation américaine face à la Chine.
