@@ -1,149 +1,151 @@
-# Résumés – 2026-05-22
+# Résumés – 2026-05-23
 
 
-## [L'EC-Council publie le rapport « Certified CISO Hall of Fame 2025 Report - Le Soleil](https://www.lesoleil.com/communiques-de-presse/2026/05/21/lec-council-publie-le-rapport-certified-ciso-hall-of-fame-2025-report-qui-definit-lessor-du-role-des-responsables-de-la-cybersecurite-a-lere-de-lia-WTYABWZX7BETRHB7DF4HDHBQ5I/)  
-*Source : lesoleil.com | Publication : 2026-05-21*
+## [Anthropic Lancer l'Initiative de <b>Cybersécurité</b> Glasswing la Semaine Prochaine - Binance](https://www.binance.com/fr/square/post/325990320158034)  
+*Source : binance.com | Publication : 2026-05-22*
 
-- ALBUQUERQUE, Nouveau-Mexique, 21 mai 2026 (GLOBE NEWSWIRE) -- L’EC-Council, créateur de la certification mondialement reconnue Certified Ethical Hacker (CEH) et pionnier de la formation en cybersécurité et du développement des responsables de la cybersécurité, a publié son rapport phare Certified CISO Hall of Fame 2025 Report.
-- Cette étude mondiale de référence met en lumière l’évolution du rôle des responsables de la cybersécurité à un moment où l’intelligence artificielle, la pression réglementaire et les risques pesant sur les entreprises redéfinissent les priorités des conseils d’administration dans le monde entier.
-- Le rapport distingue 50 responsables de la cybersécurité issus d’organisations parmi les plus influentes au monde, telles que Microsoft, Google, Amazon Web Services, Citibank, PwC, KPMG, Accenture et World Bank Group.
-- Il confirme ainsi l’influence croissante du programme CCISO de certification des responsables de la sécurité des systèmes d’information (RSSI) de l’EC-Council dans la formation de la prochaine génération de dirigeants de la cybersécurité des entreprises.
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
 
-## [<b>Cybercriminalité</b>. McDonald's France victime d'une fuite de données, des comptes fidélité débités](https://www.bienpublic.com/faits-divers-justice/2026/05/21/mcdonald-s-france-victime-d-une-fuite-de-donnees-des-comptes-fidelite-debites)  
-*Source : bienpublic.com | Publication : 2026-05-21*
+## [Qui a sabordé le décret IA de Trump ? Pas moi, assure Musk - Le Soir](https://www.lesoir.be/748401/article/2026-05-22/qui-saborde-le-decret-ia-de-trump-pas-moi-assure-musk)  
+*Source : lesoir.be | Publication : 2026-05-22*
 
-- Cybercriminalité McDonald's France victime d'une fuite de données, des comptes fidélité débités McDonald's France a « pris des mesures correctives » après avoir été victime d'une fuite de données.
-- Des comptes fidélité de clients ont été débités à leur insu.
-- McDonald's France a « pris des mesures correctives » après avoir été victime d'une fuite de données.
-- Selon le média 01net, spécialiste de l'actualité tech, « des dizaines de clients de McDonald's France ont récemment été victimes de ce qui ressemble à une usurpation de leur compte fidélité » et les points fidélités de clients ont été utilisés à leur insu.
+- Pourquoi Donald Trump a-t-il renoncé jeudi à signer son décret très attendu sur l'intelligence artificielle (IA) et la cybersécurité ?.
+- Plusieurs.
 
-## [IA : Avec Mythos, y aura-t-il vraiment plus de cyberattaques ? - Les Echos](https://www.lesechos.fr/tech-medias/intelligence-artificielle/ia-avec-mythos-y-aura-t-il-vraiment-plus-de-cyberattaques-2232833)  
-*Source : lesechos.fr | Publication : 2026-05-21*
+## [Google révèle par erreur une faille critique touchant Chrome, Edge et Opera, faut-il s'inquiéter](https://fr.finance.yahoo.com/actualites/cybersécurité-google-révèle-erreur-faille-194938251.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-05-22*
 
-- En France, le Campus Cyber, composé de 200 acteurs de la cybersécurité et représentant 60 % des entreprises du CAC 40, alerte face à une possible.
+- Cybersécurité : Google révèle par erreur une faille critique touchant Chrome, Edge et Opera, faut-il s’inquiéter ?.
+- C’est une erreur qui pourrait bien leur coûter leur réputation.
+- Google a publié par erreur le code d’exploitation d’une faille qui concerne des dizaines d’utilisateurs, selon des informations relayées par BFM.
+- La publication de ce code permettrait en fait d’exploiter cette faille qui n’a pas encore été corrigée dans Chromium, la version open source sur laquelle reposent Chrome, Microsoft Edge, Opera, Brave, Vivaldi ou encore certains navigateurs dopés à l’intelligence artificielle, comme Arc ou ChatGPT Atlas.
 
-## [Lazar Soft, expert IT et <b>cybersécurité</b> en pleine croissance | Entreprendre à Montpellier](https://www.entreprendre-montpellier.com/actualites/lazar-soft-expert-it-et-cybersecurite-en-pleine-croissance)  
-*Source : entreprendre-montpellier.com | Publication : 2026-05-21*
+## [<b>Cybersécurité</b> : Google révèle par erreur une faille critique touchant Chrome, Edge et Opera ...](https://www.capital.fr/economie-politique/cybersecurite-google-revele-par-erreur-une-faille-critique-touchant-chrome-edge-et-opera-faut-il-sinquieter-1526874)  
+*Source : capital.fr | Publication : 2026-05-22*
 
-- Lazar Soft, expert IT et cybersécurité en pleine croissance Écrit le Modifié Créée en 2021 et implantée au Crès, Lazar Soft accompagne les directions informatiques, PME, collectivités et prestataires IT dans la modernisation, la sécurisation et l’optimisation de leurs infrastructures numériques.
-- Elle affiche une croissance constante et développe sa notoriété bien au-delà du territoire héraultais.
-- Image Photo ©Lazar Soft.
+- C’est une erreur qui pourrait bien leur coûter leur réputation.
+- Google a publié par erreur le code d’exploitation d’une faille qui concerne des dizaines d’utilisateurs, selon des informations relayées par BFM.
+- La publication de ce code permettrait en fait d’exploiter cette faille qui n’a pas encore été corrigée dans Chromium, la version open source sur laquelle reposent Chrome, Microsoft Edge, Opera, Brave, Vivaldi ou encore certains navigateurs dopés à l’intelligence artificielle, comme Arc ou ChatGPT Atlas.
+- Firefox et Safari ne sont pas concernés.
 
-## [McDonald's France victime d'une fuite de données, des dizaines de clients voient leurs ...](https://www.sudouest.fr/economie/cybersecurite/mcdonald-s-france-victime-d-une-fuite-de-donnees-des-dizaines-de-clients-voient-leurs-comptes-fidelite-debites-29167455.php)  
-*Source : sudouest.fr | Publication : 2026-05-21*
+## [Renseignement, <b>cybersécurité</b>… À Lisieux, quels sont les nouveaux besoins de la Défense et de](https://caen.maville.com/actu/actudet_-renseignement-cybersecurite...-a-lisieux-quels-sont-les-nouveaux-besoins-de-la-defense-et-de-la-securite-privee-_dep-7329607_actu.Htm)  
+*Source : caen.maville.com | Publication : 2026-05-22*
 
-- L’enseigne de restauration rapide a dû réinitialiser les identifiants de ses clients après le détournement de points de fidélité par des fraudeurs ces derniers jours McDonald’s France a « pris des mesures correctives » après avoir été victime d’une fuite de données grâce à laquelle des comptes fidélité de clients ont été débités à leur insu, a-t-on appris jeudi auprès du groupe confirmant une information du média 01net.
+- L’agence France Travail de Lisieux (Calvados) avait mis en place la quatrième édition de son forum des métiers de la Défense et de la sécurité privée, ce jeudi 21 mai 2026.
+- Une dizaine d’intervenants, militaires, pompiers, policiers, gendarmes et responsables d’entreprises de sécurité, sont allés à la rencontre des demandeurs d’emploi.
+- L’occasion d’en savoir plus sur les nouveaux besoins en recrutement.
+- Les secteurs de la Défense et de la sécurité sont de gros pourvoyeurs d’emploi.
 
-## [Fuite de données chez McDonald's France: votre compte de fidélité a peut-être permis à des ... - BFM](https://www.bfmtv.com/tech/cybersecurite/fuite-de-donnees-chez-mc-donald-s-france-votre-compte-de-fidelite-a-peut-etre-permis-a-des-pirates-malintentionnes-de-s-offrir-un-menu-a-vos-frais_AD-202605210554.html)  
-*Source : bfmtv.com | Publication : 2026-05-21*
+## [Renseignement, <b>cybersécurité</b>… À Lisieux, quels sont les nouveaux besoins de la Défense ...](https://www.ouest-france.fr/normandie/lisieux-14100/renseignement-cybersecurite-a-lisieux-quels-sont-les-nouveaux-besoins-de-la-defense-et-de-la-securite-privee-b66bd854-5518-11f1-a8af-559ef5894fc2)  
+*Source : ouest-france.fr | Publication : 2026-05-22*
 
-- Fuite de données chez McDonald’s France: votre compte de fidélité a peut-être permis à des pirates malintentionnés de s’offrir un menu à vos frais McDonald's France a "pris des mesures correctives" après avoir été victime d'une fuite de données grâce à laquelle des comptes fidélité de clients ont été débités à leur insu, a-t-on appris jeudi auprès du groupe confirmant une information de 01net et de nombreux posts qui circulaient depuis quelques jours déjà sur les réseaux sociaux.
-- Selon le site, "des dizaines de clients de McDonald's France ont récemment été victimes de ce qui ressemble à une usurpation de leur compte fidélité" et les points fidélités de clients ont été utilisés à leur insu.
-- Les fraudeurs utilisant les points fidélité bénéficient ainsi de réductions sur leurs commandes.
-- "Les mesures correctives mises en place ont permis de contenir l'incident", a déclaré McDonald's France à l'AFP sans préciser le nombre de comptes concernés ni les dates de ces fuites de données.
+- Une dizaine d'intervenants, militaires, pompiers, policiers, gendarmes et responsables d'entreprises de sécurité, sont allés à la rencontre des.
 
-## [33 serveurs coupés, un admin arrêté, des internautes identifiés - Numerama](https://www.numerama.com/cyberguerre/2257925-33-serveurs-coupes-un-admin-arrete-des-internautes-identifies-coup-de-filet-mondial-contre-un-vpn-prise-des-pirates.html)  
-*Source : numerama.com | Publication : 2026-05-21*
+## [Sascha Kniep, Product Management KNX, JUNG - Filière 3e](https://www.filiere-3e.fr/2026/05/22/sascha-kniep-product-management-knx-jung-jung-met-en-avant-trois-nouveautes-knx-qui-traduisent-une-meme-logique-plus-de-compacite-moins-de-complexite-et-un-temps-de-parametrage/)  
+*Source : filiere-3e.fr | Publication : 2026-05-22*
 
-- Une action d’envergure, impliquant jusqu’à dix-huit nations dans le monde, avec la France et les Pays-Bas en pointe de l’opération.
-- Ce jeudi 21 mai 2026, les forces de l’ordre ont annoncé le démantèlement d’un service de VPN utilisé à des fins malveillantes, en particulier des ransomwares pour extorquer de l’argent à des particuliers ou des organisations.
-- Le VPN des cybermalfrats S’il n’avait pas la notoriété des grands VPN commerciaux comme NordVPN ou Cyberghost, First VPN avait surtout forgé sa réputation dans les milieux interlopes.
-- « First VPN s’était profondément ancré dans l’écosystème de la cybercriminalité, apparaissant dans presque toutes les enquêtes majeures menées par Europol ces dernières années », avance ainsi Europol.
+- Membre actif du KNX Technical Board, Sascha Kniep pilote chez JUNG la stratégie produits KNX à l’échelle internationale.
+- À l’occasion de Light + Building, il revient sur les orientations structurantes du groupe, notamment autour de la cybersécurité, et détaille les innovations présentées en avant-première, entre compacité, intégration fonctionnelle et simplification de la mise en œuvre.
+- Quelle est la stratégie globale de JUNG pour le développement des solutions KNX ?.
+- La stratégie de JUNG en KNX s’inscrit dans une trajectoire claire engagée dès 2020 : faire de KNX Secure le socle de l’ensemble notre portefeuille.
 
-## [Appel à témoignages. Vols de données : que faites-vous pour vous protéger ? Racontez-nous](https://www.ouest-france.fr/societe/cyberattaque/appel-a-temoignages-vols-de-donnees-que-faites-vous-pour-vous-proteger-racontez-nous-7cb73464-5469-11f1-8e66-adc6a872a379)  
-*Source : ouest-france.fr | Publication : 2026-05-21*
+## [Qui a sabordé le décret IA de Donald Trump? Pas moi, assure Elon Musk - TVA Nouvelles](https://www.tvanouvelles.ca/2026/05/22/qui-a-saborde-le-decret-ia-de-donald-trump-pas-moi-assure-elon-musk)  
+*Source : tvanouvelles.ca | Publication : 2026-05-22*
 
-- cybersécurité.
-- | ARCHIVES.
-- fermer.
-- Plus de contrôles et de sanctions.
+- Pourquoi Donald Trump a-t-il renoncé jeudi à signer son décret très attendu sur l’intelligence artificielle (IA) et la cybersécurité ?.
+- Plusieurs récits irriguent les médias à Washington, pointant vers le rôle de l’influent conseiller David Sacks, fervent opposant à toute régulation de l’IA.
+- • À lire aussi : Donald Trump a atteint un niveau inégalé de corruption, selon ses opposants • À lire aussi : Trump voit ses projets malmenés au Congrès par sa majorité Investisseur tech de renom et proche d’Elon Musk, David Sacks aurait, selon Politico, appelé le président jeudi matin pour le convaincre qu’un examen sécuritaire des modèles d’IA avant leur diffusion ralentirait l’innovation américaine face à la Chine.
+- Selon Politico, les responsables de la Maison-Blanche croyaient David Sacks favorable au décret.
 
-## [Proofpoint s'intègre à l'API Claude Compliance pour étendre la sécurité et la gouvernance ...](https://www.proofpoint.com/fr/newsroom/press-releases/proofpoint-integrates-claude-compliance-api-extend-data-security-and)  
-*Source : proofpoint.com | Publication : 2026-05-21*
+## [Google a publié par erreur les détails d'une faille qui touche des dizaines de navigateurs ...](https://www.bfmtv.com/tech/cybersecurite/google-a-publie-par-erreur-les-details-d-une-faille-qui-touche-des-dizaines-de-navigateurs-comme-chrome-edge-ou-opera-des-millions-d-ordinateurs-sont-menaces-de-devenir-des-pc-zombies_AN-202605220388.html)  
+*Source : bfmtv.com | Publication : 2026-05-22*
 
-- Proofpoint s'intègre à l'API Claude Compliance pour étendre la sécurité et la gouvernance des données à Claude Les nouvelles intégrations produit apportent protection des données, détection des risques internes et gouvernance aux activités Claude Enterprise et Claude Platform Les organisations bénéficient d'une visibilité unifiée sur les prompts IA, les réponses, les fichiers, les journaux d'activité et les workflows.
-- - Les clients peuvent étendre leurs contrôles existants de perte de données, de risque comportemental et de supervision à Claude, sans déployer de stack de sécurité IA distinct.
-- - Une seule couche de contrôle régit l'activité humaine et IA sur les terminaux, le cloud, la messagerie, les outils de collaboration et les applications IA, dont Claude.
-- - Proofpoint, Inc., acteur majeur de la cybersécurité et de la conformité, annonce aujourd'hui l'intégration de sa plateforme avec l'API Claude Compliance.
+- Google a publié par erreur les détails d’une faille qui touche des dizaines de navigateurs, comme Chrome, Edge, ou Opera, des millions d’ordinateurs sont menacés de devenir des PC zombies Google a publié le code d’exploitation d’une vulnérabilité toujours non corrigée dans Chromium.
+- Cette faille concerne potentiellement des millions d’utilisateurs, car Chromium sert de base à de nombreux navigateurs populaires comme Chrome, Edge, Brave, Opera ou encore la plupart des navigateurs IA lancés ces derniers mois, que ce Arc ou ChatGPT Atlas.
+- Le problème provient d'un bug dans l’API Fetch, conçue pour télécharger des fichiers en arrière-plan.
+- Détournée, elle permet à un attaquant d’établir une connexion persistante avec le navigateur d’une victime.
 
-## [<b>Cybercriminalité</b> : Le service First VPN, prisé des criminels pour dissimuler leur identité, a ...](https://www.20minutes.fr/societe/4224773-20260521-cybercriminalite-demantelement-service-first-vpn-prise-criminels-dissimuler-identite)  
-*Source : 20minutes.fr | Publication : 2026-05-21*
+## [Conseil des ministres : <b>Cybersécurité</b> : de nouvelles règles pour les secteurs stratégiques](https://lexpress.mu/s/cybersecurite-de-nouvelles-regles-pour-les-secteurs-strategiques-558304)  
+*Source : lexpress.mu | Publication : 2026-05-22*
 
-- Cybercriminalité : Le service First VPN, prisé des criminels pour dissimuler leur identité, a été démantelé Déconnexion•Selon Laure Beccuau, procureure de Paris, « trente-trois serveurs ont été saisis dans différents pays d’Europe »R.L.D.
-- avec AFP Un outil pour la cybercriminalité débranché.
-- Ce jeudi, la procureure de Paris annonce que le service First VPN (réseau privé virtuel), « largement utilisé par des cybercriminels pour dissimuler leur identité », a été démantelé mardi au cours d’une opération internationale diligentée par les autorités judiciaires françaises et néerlandaises, avec l’appui notamment d’Eurojust et Europol.
-- « Trente-trois serveurs ont été saisis dans différents pays d’Europe », a précisé Laure Beccuau dans un communiqué.
+- Publicité Publicité Conseil des ministres Cybersécurité : de nouvelles règles pour les secteurs stratégiques Par Partager cet article Conseil des ministres Cybersécurité : de nouvelles règles pour les secteurs stratégiques Le Conseil des ministres de ce vendredi 22 mai a pris note de la promulgation des Cybersecurity and Cybercrime (Critical Information Infrastructure Designation) Regulations 2026, destinés à mettre en place un cadre réglementaire pour l’identification et la gestion des infrastructures critiques d’information à Maurice.
+- Ces nouvelles réglementations concerneront plusieurs secteurs jugés stratégiques, notamment les services financiers et bancaires, le service public, les TIC et la radiodiffusion, les secteurs de l’énergie et de l’approvisionnement en eau, ainsi que l’industrie du transport.
+- Le National Cybersecurity Committee sera habilité à désigner un système comme étant une Critical Information Infrastructure, conformément aux critères prévus dans la Cybersecurity and Cybercrime Act et en consultation avec les autorités réglementaires concernées.
+- Les propriétaires de ces infrastructures devront se conformer aux directives émises par les autorités compétentes, avec un accent particulier sur la confidentialité et la restriction de l’accès aux informations sensibles uniquement aux personnes autorisées.
 
-## [La Maison Blanche reporte la signature du décret sur la <b>cybersécurité</b> de l'IA - Zonebourse](https://ch.zonebourse.com/actualite-bourse/la-maison-blanche-reporte-la-signature-du-decret-sur-la-cybersecurite-de-l-ia-ce7f5adede8ff221)  
-*Source : ch.zonebourse.com | Publication : 2026-05-21*
+## [Airbus lance son futur campus Défense et <b>cybersécurité</b> à Montigny-le-Bretonneux | tv78](https://tv78.com/campus-airbus-montigny-le-bretonneux/)  
+*Source : tv78.com | Publication : 2026-05-22*
 
-- La Maison Blanche reporte la signature du décret sur la cybersécurité de l'IA Publié le 21/05/2026 à 18:25 Contactez-nous pour toute demande de correction Publié le 21/05/2026 à 18:25 Contactez-nous pour toute demande de correction La déroute des bons du Trésor américains accentuée par la couverture des investisseurs hypothécaires face à la hausse des rendements Sélectionnez votre édition Toutes les informations financières adaptées au niveau national.
+- La ministre des Armées Catherine Vautrin s’est rendue à Montigny-le-Bretonneux pour inaugurer le chantier du futur Campus Grand Paris d’Airbus Defence and Space.
+- La ministre des Armées et des Anciens combattants, Catherine Vautrin, était attendue jeudi 21 mai à Montigny-le-Bretonneux pour participer à l’inauguration du chantier du futur Campus Grand Paris d’Airbus Defence and Space.
+- La cérémonie s‘est déroulée aux côtés de Guillaume Faury, président exécutif d’Airbus.
+- Un nouveau site stratégique pour Airbus en Île-de-France Implanté dans la zone d’activités du Pas du Lac à Montigny-le-Bretonneux, ce futur campus doit permettre à Airbus Defence and Space de regrouper et développer ses activités.
 
-## [<b>Ransomware</b> &amp; IA générative : Titan montre une voie… qui mène bien plus loin | LeMagIT](https://www.lemagit.fr/tribune/Ransomware-IA-generative-Titan-montre-une-voie-qui-mene-bien-plus-loin)  
-*Source : lemagit.fr | Publication : 2026-05-21*
+## [Protocole national contre les pluies torrentielles, réforme climatique et <b>cybersécurité</b> au ...](https://lexpress.mu/s/protocole-national-contre-les-pluies-torrentielles-reforme-climatique-et-cybersecurite-au-coeur-des-decisions-558301)  
+*Source : lexpress.mu | Publication : 2026-05-22*
 
-- ipopba - stock.adobe.com Ransomware & IA générative : Titan montre une voie… qui mène bien plus loin L’enseigne Titan nous a apporté une première confirmation du recours à l’IA générative pour produire un narratif visant à renforcer la pression sur les victimes.
-- Si elle montre une voie entrevue depuis longtemps, l’exécution reste maladroite.
-- Oui, des acteurs malveillants utilisent l’intelligence artificielle générative.
-- Et pas uniquement pour vibe coder.
+- Publicité Publicité Conseil des ministres Protocole national contre les pluies torrentielles, réforme climatique et cybersécurité au cœur des décisions Par Partager cet article Conseil des ministres Protocole national contre les pluies torrentielles, réforme climatique et cybersécurité au cœur des décisions Le Conseil des ministres de ce vendredi 22 mai a été marqué par plusieurs décisions touchant à la gestion des risques climatiques, à la cybersécurité, à l’économie et aux relations internationales.
+- Parmi les principales mesures annoncées figurent l’adoption d’un protocole national sur les fortes pluies et pluies torrentielles, le renforcement des lois contre l’exportation et la revente de produits subventionnés, ainsi que la mise en place d’un cadre réglementaire pour les infrastructures critiques en cybersécurité.
+- Le Cabinet a également pris note de la résolution historique de l’ONU sur les obligations climatiques des États, du lancement prochain de la stratégie nationale Fintech 2026-2030, et du démarrage prévu des travaux de remplacement de conduites d’eau à Grand-Baie dès octobre 2026.
+- Consultez le document pour découvrir toutes les décisions.
 
-## [Le service First VPN, prisé des cybercriminels pour dissimuler leur identité, démantelé par la justice](https://www.lefigaro.fr/secteur/high-tech/le-service-first-vpn-prise-des-cybercriminels-pour-dissimuler-leur-identite-demantele-par-la-justice-20260521)  
-*Source : lefigaro.fr | Publication : 2026-05-21*
+## [Un centre cyber de l'Otan en passe de voir le jour à Rennes - Le Télégramme](https://www.letelegramme.fr/ille-et-vilaine/rennes-35000/un-centre-cyber-de-lotan-en-passe-de-voir-le-jour-a-rennes-7048058.php)  
+*Source : letelegramme.fr | Publication : 2026-05-22*
 
-- Le service First VPN, prisé des cybercriminels pour dissimuler leur identité, démantelé par la justice 33 serveurs ont été saisis en Europe dans cette enquête internationale.
-- Le service faisait «de la publicité exclusivement sur des forums cybercriminels».
-- Passer la publicité Passer la publicitéLe service First VPN (réseau privé virtuel), «largement utilisé par des cybercriminels pour dissimuler leur identité», a été démantelé mardi 19 mai au cours d'une opération internationale diligentée par les autorités judiciaires françaises et néerlandaises, avec l'appui notamment d'Eurojust et Europol, a annoncé jeudi la procureure de Paris.
-- «Trente-trois serveurs ont été saisis dans différents pays d'Europe», a précisé Laure Beccuau dans un communiqué.
+- l'intelligence artificielle.
+- De quoi renforcer la position de la France et de la Bretagne en matière de cybersécurité et de défense numérique.
 
-## [Fuite de données de vacances : les cambrioleurs n'auront même plus besoin de repérer ...](https://www.journaldunet.com/cybersecurite/1550491-fuite-de-donnees-de-vacances-les-cambrioleurs-n-auront-meme-plus-besoin-de-reperer-votre-maison-cet-ete/)  
-*Source : journaldunet.com | Publication : 2026-05-21*
+## [<b>Cybersécurité</b> : ce que les dirigeants ne peuvent plus ignorer](https://www.journaldunet.com/cybersecurite/1550475-cybersecurite-ce-que-les-dirigeants-ne-peuvent-plus-ignorer/)  
+*Source : journaldunet.com | Publication : 2026-05-22*
 
-- Fuite de données de vacances : les cambrioleurs n'auront même plus besoin de repérer votre maison cet été En trois jours à peine, un hacker vient de frapper trois géants du tourisme français : Pierre & Vacances, Belambra et Gîtes de France.
-- À quelques semaines des vacances d'été, c'est le guide Michelin des demeures à cambrioler qui circule désormais sur le dark web.
-- En l'espace de trois jours, entre le 15 et le 17 mai 2026, un seul pirate informatique a fait tomber Pierre & Vacances, Belambra et Gîtes de France.
-- Plus de cinq millions de Français sont concernés.
+- Cybersécurité : ce que les dirigeants ne peuvent plus ignorer Un dirigeant peut-il, aujourd'hui, être sanctionné pour ne pas avoir suffisamment anticipé un risque cyber ?.
+- En 2026, la réponse est oui.
+- Et ce risque ne concerne pas uniquement le dirigeant exécutif.
+- Le rapport annuel 2025 de la Cnil, publié le 19 mai dernier, est éloquent : 6 167 violations de données personnelles recensées en France l'an dernier, soit une hausse de 9,5 % par rapport à 2024, un record.
 
-## [<b>Cybercriminalité</b> : La BCLCC alerte sur une nouvelle forme d'arnaque Mobile Money](https://lefaso.net/spip.php?article146636)  
-*Source : lefaso.net | Publication : 2026-05-21*
+## [Cyberattaque : Quelques semaines après l'ANTS, l'Agence du service civique victime d'une ...](https://www.usine-digitale.fr/cybersecurite/cyberattaque-quelques-semaines-apres-lants-lagence-du-service-civique-victime-dune-violation-de-donnees-personnelles-sur-sa-plateforme-de-formation.JPMERC2JF5H53IZFUB52ZN2A7M.html)  
+*Source : usine-digitale.fr | Publication : 2026-05-22*
 
-- Cybercriminalité : La BCLCC alerte sur une nouvelle forme d’arnaque Mobile Money La Brigade centrale de lutte contre la cybercriminalité (BCLCC) tire la sonnette d’alarme sur une nouvelle vague d’escroquerie.
-- Celle-ci vise principalement les utilisateurs des services Mobile Money.
-- En effet, des individus malintentionnés se font passer pour des agents des opérateurs de téléphonie mobile afin de soutirer des informations sensibles à leurs victimes.
-- En ce qui concerne le mode opératoire, les escrocs contactent d’abord leurs cibles par téléphone, évoquant une prétendue mise à jour ou sécurisation de compte.
+- cybersécurité touchant sa plateforme de formation, gérée par “les prestataires titulaires du marché correspondant”.
+- Des données personnelles ont.
 
-## [Ils sont si puissants que Donald Trump veut finalement les réguler: les derniers modèles d ... - BFM](https://www.bfmtv.com/tech/cybersecurite/ils-sont-si-puissants-que-donald-trump-veut-finalement-les-reguler-les-derniers-modeles-d-ia-sont-etudies-par-une-task-force-speciale-des-agences-de-renseignement-americaines-pour-anticiper-les-risques-et-exploiter-leurs-capacites-offensives_AN-202605210454.html)  
-*Source : bfmtv.com | Publication : 2026-05-21*
+## [Bug bounty : l'IA fait bondir les signalements de 76% - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/05/22/bug-bounty-ia-signalements/)  
+*Source : dcod.ch | Publication : 2026-05-22*
 
-- Ils sont si puissants que Donald Trump veut finalement les réguler: les derniers modèles d’IA sont étudiés par une task force spéciale des agences de renseignement américaines pour anticiper les risques et exploiter leurs capacités offensives Le commandement du Pentagone chargé de la cyberguerre a mis sur pied un groupe de travail destiné à accélérer l’intégration d’outils d’intelligence artificielle de pointe, notamment ceux dotés de capacités offensives avancées en matière de piratage, selon trois sources proches du dossier.
-- Restée jusqu’ici confidentielle, cette initiative illustre les inquiétudes grandissantes du Cyber Command face à l’essor fulgurant de modèles développés par le secteur privé, désormais capables de détecter et d’exploiter des vulnérabilités à une vitesse dépassant celle des meilleurs hackers au monde.
-- Selon Politico, ce groupe, réunissant la NSA et le Cyber Command, a été lancé à l’initiative du général Joshua Rudd, directeur des deux entités, afin d’encadrer l’intégration sécurisée de ces technologies.
-- L’enjeu est d’évaluer l’usage de solutions conçues par les géants de la Silicon Valley sur des systèmes critiques du renseignement, tout en garantissant la protection de données hautement sensibles.
+- TL;DR : L’essentiel Des modèles d’intelligence artificielle avancés parviennent désormais à identifier des dizaines de vulnérabilités logicielles en quelques jours, passant outre le temps d’analyse des experts humains traditionnels.
+- - Les plateformes de signalement constatent une augmentation d’un peu plus de 75% des rapports de sécurité en un an, provoquant une surcharge de travail pour les éditeurs.
+- - Face à cette multiplication de signalements automatisés et non vérifiés, les responsables de projets open source qualifient ce flux de travail fictif et inutile pour la sécurité.
+- - La multiplication des outils automatisés transforme la recherche de vulnérabilités et pèse sur l’organisation des programmes de bug bounty.
 
-## [Selon certaines sources, la Maison Blanche de Trump reporte la cérémonie de signature du ...](https://www.boursorama.com/bourse/actualites-amp/selon-certaines-sources-la-maison-blanche-de-trump-reporte-la-ceremonie-de-signature-du-decret-sur-l-ia-et-la-cybersecurite-97481d84ab2d7f9b8660a167d16d9274)  
-*Source : boursorama.com | Publication : 2026-05-21*
+## [Ce VPN promettait l'anonymat total aux hackers : ses serveurs viennent d'être saisis](https://siecledigital.fr/2026/05/22/ce-vpn-promettait-lanonymat-total-aux-hackers-ses-serveurs-viennent-detre-saisis/)  
+*Source : siecledigital.fr | Publication : 2026-05-22*
 
-- Selon certaines sources, la Maison Blanche de Trump reporte la cérémonie de signature du décret sur l'IA et la cybersécurité information fournie par Reuters 21/05/2026 à 17:51 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) La cérémonie de signature par le président Donald Trump d'un nouveau décret sur l'intelligence artificielle et la cybersécurité, initialement prévue jeudi, a été reportée, selon deux sources proches du dossier.
+- L’opération a été menée sous la direction des autorités françaises et néerlandaises, avec le soutien d’Europol et d’Eurojust.
+- Le service existait depuis 2014.
+- Pendant onze ans, First VPN a offert aux cybercriminels une connexion redirigée à travers des serveurs tiers pour effacer toutes les traces.
+- Il y avait plusieurs niveaux de tarifs selon la complexité des relais.
 
-## [Le service First VPN, prisé des criminels pour dissimuler leur identité, a été démantelé](https://fr.news.yahoo.com/sport/cybercriminalité-service-first-vpn-prisé-152548904.html)  
-*Source : fr.news.yahoo.com | Publication : 2026-05-21*
+## [Roth Capital initie une couverture sur SailPoint avec une recommandation « Achat »](https://fr.finance.yahoo.com/actualites/roth-capital-initie-couverture-sailpoint-225206718.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-05-22*
 
-- Cybercriminalité : Le service First VPN, prisé des criminels pour dissimuler leur identité, a été démantelé Déconnexion - Selon Laure Beccuau, procureure de Paris, « trente-trois serveurs ont été saisis dans différents pays d’Europe » Un outil pour la cybercriminalité débranché.
-- Ce jeudi, la procureure de Paris annonce que le service First VPN (réseau privé virtuel), « largement utilisé par des cybercriminels pour dissimuler leur identité », a été démantelé mardi au cours d’une opération internationale diligentée par les autorités judiciaires françaises et néerlandaises, avec l’appui notamment d’Eurojust et Europol.
-- « Trente-trois serveurs ont été saisis dans différents pays d’Europe », a précisé Laure Beccuau dans un communiqué.
-- « Le principal administrateur, localisé en Ukraine, y a été entendu à la demande du juge d’instruction français, en présence des enquêteurs de la brigade de lutte contre la cybercriminalité », a-t-elle ajouté.
+- Investing.com - Roth Capital Partners a initié une couverture sur SailPoint, Inc. avec une recommandation « Achat » et un objectif de cours à 12 mois de 19$, citant le leadership de la société dans la gouvernance et l’administration des identités (IGA), l’accélération de sa croissance et les opportunités croissantes liées à l’intelligence artificielle et à la migration vers le cloud.
+- Le rapport, publié le 20/05/2025, valorise SailPoint à environ 7x la valeur d’entreprise sur les ventes pour l’exercice 2028 et soutient que l’action se négocie avec une décote par rapport à ses pairs dans le secteur de la cybersécurité.
+- Les analystes de Roth ont noté que le taux de revenus récurrents annuels (ARR) actuel de la société s’élève à environ 1 milliard$, comparé à un marché adressable estimé à 55 milliards$.
+- Roth a mis en avant plusieurs catalyseurs à long terme pour SailPoint, notamment la migration des systèmes d’identité sur site vers des plateformes SaaS, l’adoption croissante des identités machines et des agents d’IA, ainsi que l’expansion vers des produits de sécurité des identités adjacents.
 
-## [Faille de Bitlocker : Microsoft propose 2 mesures d'urgence pour protéger votre PC Windows](https://www.01net.com/actualites/faille-bitlocker-microsoft-propose-2-mesures-urgence-proteger-pc-windows.html)  
-*Source : 01net.com | Publication : 2026-05-21*
+## [AVIS D'EXPERT – Données, IA agentique et confiance : les nouveaux piliers de la ...](https://www.solutions-numeriques.com/avis-dexpert-donnees-ia-agentique-et-confiance-les-nouveaux-piliers-de-la-transformation-des-entreprises-francaises/)  
+*Source : solutions-numeriques.com | Publication : 2026-05-22*
 
-- Un chercheur en cybersécurité a récemment découvert une vulnérabilité majeure affectant BitLocker, le système de chiffrement intégré à Windows 11.
-- La faille permet de contourner la protection des données chiffrées d’une façon très simple.
-- Selon les investigations menées par Nightmare-Eclipse, l’expert à l’origine de la découverte de la faille, il suffit de copier un dossier spécifique sur une clé USB, de l’insérer dans l’ordinateur ciblé, puis de démarrer la machine en maintenant la touche Ctrl enfoncée.
-- L’opération ouvre automatiquement l’environnement de récupération WinRE (Windows Recovery Environment) de Windows.
+- Levent Ergin, Chief Industry Strategist for Agentic AI, Regulatory Compliance & Sustainability pour Informatica, revient sur la manière dont les entreprises françaises doivent repenser la gouvernance de leurs données à l’heure de l’IA agentique.
+- Entre conformité, cybersécurité, ESG et automatisation, il estime que la confiance dans les données devient désormais une condition essentielle pour exploiter durablement ces nouveaux usages.
+- Les entreprises françaises font face à une transformation profonde, sous l’effet combiné de cadres réglementaires plus complexes, de menaces croissantes en cybersécurité et d’attentes sociétales accrues en matière de transparence, d’éthique et de durabilité.
+- Dans ce contexte, les données sont devenues un levier stratégique essentiel pour la décision, la conformité et la compétitivité.
 
-## [First VPN : Un réseau privé virtuel prisé des cybercriminels démantelé lors d'une opération ...](https://actu17.fr/international/first-vpn-un-reseau-prive-virtuel-prise-des-cybercriminels-demantele-lors-dune-operation-internationale.html)  
-*Source : actu17.fr | Publication : 2026-05-21*
+## [Cycurion acquiert Secuvant et booste sa <b>cybersécurité</b> pilotée par l'IA avec une défense ...](https://www.zonebourse.com/actualite-bourse/cycurion-acquiert-secuvant-et-booste-sa-cybersecurite-pilotee-par-l-ia-avec-une-defense-automatisee-ce7f5adfde80f027)  
+*Source : zonebourse.com | Publication : 2026-05-22*
 
-- Le jeudi 21 mai 2026 à 11:14 Le service First VPN, un réseau privé virtuel largement utilisé par des cybercriminels pour dissimuler leur identité, a été démantelé ce 19 mai au cours d'une opération internationale.
-- Diligentée par les autorités judiciaires françaises et néerlandaises, avec l'appui notamment d'Eurojust et d'Europol, l'opération a permis la saisie de 33 serveurs dans différents pays d'Europe.
-- Le principal administrateur, localisé en Ukraine, a été entendu à la demande du juge d'instruction français, en présence des enquêteurs de la brigade de lutte contre la cybercriminalité.
-- Les éléments ont été communiqués ce jeudi 21 mai dans un communiqué de presse de Laure Beccuau, la procureure de la République de Paris.
+- Cycurion acquiert Secuvant et booste sa cybersécurité pilotée par l'IA avec une défense automatisée et évolutive Publié le 22/05/2026 à 15:08 Reuters - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager Cet article est réservé aux membres Débloquer l'article : INSCRIVEZ-VOUS !.
+- Inscription 100% Gratuite Vous êtes déja client ?.
+- Se connecter © Reuters - 2026 Partager.
