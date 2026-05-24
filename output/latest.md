@@ -1,156 +1,156 @@
-# Résumés – 2026-05-23
+# Résumés – 2026-05-24
 
 
-## [Souveraineté numérique : Sahal Tech veut former une nouvelle génération de leaders ...](https://burkina24.com/2026/05/23/souverainete-numerique-sahal-tech-veut-former-une-nouvelle-generation-de-leaders-technologiques/)  
-*Source : burkina24.com | Publication : 2026-05-23*
+## [Hajjah : Première exposition de projets étudiants créatifs à l'Université Al-Razi](https://saba.ye/fr/news3601372.htm?cid=31)  
+*Source : saba.ye | Publication : 2026-05-24*
 
-- Souveraineté numérique : Sahal Tech veut former une nouvelle génération de leaders technologiques Les premiers responsables de la société Sahal Tech Innovation Las ont procédé, ce samedi 23 mai 2026, à l’ouverture officielle de leur centre de formation professionnelle baptisé Sahal Tech Smart Innovation Hub.
-- La cérémonie a également été marquée par le lancement de la première édition de Sahal Tech Innovation Challenge (STIC 2026), une initiative destinée à promouvoir l’innovation technologique portée par l’intelligence artificielle.
-- Pensé comme un espace de formation et d’innovation de nouvelle génération, le centre est équipé d’outils technologiques modernes destinés à former élèves, étudiants et professionnels aux métiers du numérique.
-- Les formations porteront notamment sur l’intelligence artificielle, la cybersécurité, la santé numérique, la finance technologique, l’agriculture intelligente et les solutions éducatives innovantes.
+- Agence de Presse Yéménite.
+- Accueil Chef de la révolution le président Locales Internationale L‘agression Américain saoudienne Economie Le Développement et les initiatives English | فارسي | Español | Deutsch | عـربـي |.
+- Rechercher | Recherche avancée Caricatures Galerie photo Locales Application de techniques de combat pour les diplômés des cours de mobilisation dans le district d'Al-Saddah à Ibb [24 May 2026] Inauguration de projets d'enseignement, de santé et d'eau issus d'initiatives communautaires à Bayt al-Faqih, à Al-Hodeïdah [24 May 2026] Évaluation des préparatifs touristiques pour l'accueil des visiteurs à Al-Hodeïdah pendant l'Aïd al-Adha [24 May 2026] Le ministère des Affaires étrangères met en garde Hargeisa contre tout rapprochement avec l'entité ennemie israélienne [24 May 2026] Al-Hodeïdah : Discussion des arrangements touristiques et des services pour les vacances de l'Aïd al-Adha [24 May 2026] Enquêtes et reportages Conséquence des erreurs de Trump… Le monde est confronté à la plus grave crise énergétique de l'histoire moderne : rapport [24 May 2026] Gaza tire la sonnette d'alarme pour sauver ce qui reste… Le sang est-il devenu bon marché ?.
+- : rapport [23 May 2026] Fermeture de l'aéroport international de Sanaa : Des patients yéménites menacés de mort et de pénurie de médicaments [23 May 2026] L'Autorité de développement des petites et micro-entreprises octroie des prêts d'un montant supérieur à 1,8 milliard de riyals : rapport [22 May 2026] Unité yéménite.
 
-## [Escroqueries 2.0 : la nouvelle charge mentale des petits patrons, démunis face à l ... - Ouest-France](https://www.ouest-france.fr/societe/cyberattaque/escroqueries-2-0-la-nouvelle-charge-mentale-des-petits-patrons-demunis-face-a-lusurpation-didentite-3e833412-54fb-11f1-a8af-559ef5894fc2)  
-*Source : ouest-france.fr | Publication : 2026-05-23*
+## [La BCE discutera des risques de <b>cybersécurité</b> liés au Claude Mythos Preview d'Anthropic](https://www.binance.com/fr/square/post/326666196815730)  
+*Source : binance.com | Publication : 2026-05-24*
 
-- Au-delà des pertes financières et des enjeux de cybersécurité , elles génèrent une charge mentale écrasante pour les dirigeants.
-- Maël Guibert,.
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
 
-## [Cloud, IA, <b>cybersécurité</b> : comment les géants américains écrasent le numérique européen](https://www.challenges.fr/entreprise/tech-numerique/cloud-ia-cybersecurite-comment-les-geants-americains-ecrasent-le-numerique-europeen_643463)  
-*Source : challenges.fr | Publication : 2026-05-23*
+## [La mairie d'Eyguières paralysée par un <b>ransomware</b> - Cyberattaque.org](https://www.cyberattaque.org/la-mairie-deyguieres-paralysee-par-un-ransomware/)  
+*Source : cyberattaque.org | Publication : 2026-05-24*
 
-- Cloud, IA, cybersécurité : comment les géants américains écrasent le numérique européen Les Etats-Unis exploitent sans vergogne la toute-puissance de leurs champions de la tech sur le Vieux Continent.
-- La France tente d’échapper au complexe d’infériorité européen.
-- Directives, projets de propositions de loi, sanctions des autorités de concurrence, procès en série, rapports en tous genres.
-- Les pays européens mènent cahin-caha, au nom de leur souveraineté, une bataille contre l’emprise des géants américains du numérique.
+- La mairie d’Eyguières, commune d’environ 7 000 habitants située dans les Alpilles, a été victime d’une cyberattaque au ransomware ce vendredi 22 mai 2026.
+- L’attaque a provoqué la mise hors service de l’ensemble du système informatique municipal.
+- Selon les premiers éléments relayés localement, les cybercriminels auraient utilisé le ransomware Qilin, un groupe déjà impliqué dans plusieurs attaques visant des hôpitaux, collectivités et établissements publics en Europe.
+- Les services municipaux fortement perturbés L’attaque aurait entraîné l’indisponibilité des systèmes électroniques de la mairie, compliquant fortement le fonctionnement des services administratifs.
 
-## [Camping-Car Plus : victime d'une fuite de données, les mots de passe exposés](https://www.cyberattaque.org/camping-car-plus-victime-dune-fuite-de-donnees-les-mots-de-passe-exposes/)  
-*Source : cyberattaque.org | Publication : 2026-05-23*
+## [Cyberattaque : plus de 15 millions de numéros de sécurité sociale dérobés - Orange Actu](https://actu.orange.fr/france/cyberattaque-plus-de-15-millions-de-numeros-de-securite-sociale-derobes-magic-CNT000002pzV2W.html)  
+*Source : actu.orange.fr | Publication : 2026-05-24*
 
-- Le site Camping-Car Plus, spécialisé dans la vente d’accessoires et d’équipements pour camping-cars et vans aménagés, informe ses clients avoir été victime d’un incident de cybersécurité susceptible d’avoir entraîné une fuite de données personnelles.
-- Des identifiants et mots de passe concernés Dans un message envoyé à ses clients, l’entreprise explique qu’un incident a récemment affecté une partie de ses systèmes informatiques.
-- Selon la notification, plusieurs types de données pourraient avoir été exposés : nom et prénom ; - adresse e-mail ; - adresse postale ; - numéro de téléphone ; - identifiant de connexion et mot de passe.
-- - L’enseigne précise en revanche qu’aucune donnée bancaire ne serait concernée par l’incident, les coordonnées de paiement n’étant pas conservées sur ses systèmes.
+- Cyberattaque : plus de 15 millions de numéros de sécurité sociale dérobés © Pexels Une base de données de l’entreprise Almerys, opérateur de tiers payant, a récemment été piratée, rapporte BFMTV dimanche 24 mai.
+- Plus de 15 millions de numéros de sécurité sociale et des données d’état civil ont été dérobés lors de cette intrusion.
+- Dimanche 24 mai, le média spécialisé French Breaches a rapporté qu’une fuite massive de données avait été constatée après une cyberattaque visant l’entreprise Almerys, opérateur majeur du tiers payant en France.
+- Selon leurs informations, confirmées par BFMTV, plus de 44 millions de lignes de données sont concernées, dont 15 millions de numéros de sécurité sociale.
 
-## [Côte d'Ivoire : Abidjan, une affaire de cyberchantage après une rupture amoureuse conduit ... - koaci](https://www.koaci.com/article/2026/05/23/cote-divoire/justice/cote-divoire-abidjan-une-affaire-de-cyberchantage-apres-une-rupture-amoureuse-conduit-une-jeune-femme-devant-la-justice_196896.html)  
-*Source : koaci.com | Publication : 2026-05-23*
+## [Claude Mythos débusque 10'000 failles et sature la <b>cybersécurité</b>](https://dcod.ch/2026/05/24/claude-mythos-10-000-failles-cybersecurite/)  
+*Source : dcod.ch | Publication : 2026-05-24*
 
-- Côte d'Ivoire : Abidjan, une affaire de cyberchantage après une rupture amoureuse conduit une jeune femme devant la justice La mise en cause (Ph Koaci) Une relation sentimentale qui se termine mal peut parfois déboucher sur des conséquences inattendues.
-- À Abidjan, une affaire mêlant vie privée, menaces et cybercriminalité a récemment attiré l’attention des autorités, après qu’un homme a dénoncé des actes de chantage orchestrés, selon lui, par son ancienne compagne.
-- Selon les informations rapportées par la Police de Lutte Contre la Cybercriminalité (PLCC), S.G.T aurait vécu une relation amoureuse marquée par une forte proximité avec une jeune femme avant que des différends ne conduisent à leur séparation.
-- Une rupture qui aurait été difficilement acceptée par cette dernière, laquelle aurait ensuite entrepris de faire pression sur son ex-partenaire à travers des menaces liées à la diffusion de contenus intimes.
+- TL;DR : L’essentiel Le programme défensif Project Glasswing a permis d’identifier des milliers de failles critiques et sévères, touchant les composants logiciels les plus essentiels au niveau mondial.
+- - Les équipes de sécurité font face à un goulot d’étranglement majeur, avec moins d’une centaine de correctifs déployés en amont malgré le volume massif de signalements confirmés.
+- - Le navigateur Mozilla Firefox illustre cette accélération en corrigeant 271 vulnérabilités dans sa dernière mise à jour, un volume dix fois supérieur aux capacités des anciens outils.
+- - L’outil autonome est capable de transformer ces failles en chaînes d’attaques complètes, allant jusqu’à forger de faux certificats pour cloner des plateformes bancaires.
 
-## [Défense en matière de <b>cybersécurité</b> à l'ère post-quantique - Vietnam.vn](https://www.vietnam.vn/fr/phong-thu-an-ninh-mang-truoc-ky-nguyen-hau-luong-tu)  
-*Source : vietnam.vn | Publication : 2026-05-23*
+## [Diomaye Faye consulte Souleymane Ndéné Ndiaye et d'anciens ministres de l'Intérieur](https://www.lactuacho.com/dialogue-national-securite-emploi-cybersecurite-diomaye-faye-consulte-souleymane-ndene-ndiaye-et-danciens-ministres-de-linterieur/)  
+*Source : lactuacho.com | Publication : 2026-05-24*
 
-- « Collecter d’abord, décoder ensuite » et le risque de briser la cryptographie traditionnelle.
-- Le développement de la technologie quantique est considéré comme une menace directe pour les normes de chiffrement qui protègent actuellement les systèmes financiers, de télécommunications et de données nationaux.
-- La puissance de calcul des ordinateurs quantiques est capable de déchiffrer les algorithmes de sécurité traditionnels en un temps record, créant ainsi des vulnérabilités importantes pour les infrastructures numériques critiques.
-- Il convient de noter qu'une stratégie d'attaque à long terme employée par les cybercriminels consiste à « collecter maintenant, déchiffrer plus tard ».
+- Le président Bassirou Diomaye Faye a poursuivi ses consultations dans le cadre de la Journée nationale du dialogue.
+- Le chef de l’État a reçu plusieurs anciens hauts responsables, dont l’ex-Premier ministre Souleymane Ndéné Ndiaye et d’anciens ministres de l’Intérieur, selon rts.sn.
+- Selon rts.sn, le président de la République, Bassirou Diomaye Faye, a poursuivi ce samedi les consultations entamées en début de semaine dans le cadre de la Journée nationale du dialogue.
+- Le chef de l’État a ainsi reçu au Palais de la République l’ancien Premier ministre Souleymane Ndéné Ndiaye, ainsi que les anciens ministres de l’Intérieur Mbaye Ndiaye, Aly Ngouille Ndiaye et Antoine Félix Diome.
 
-## [En Zambie, avant la présidentielle, les nouvelles lois sur le numérique inquiètent les médias](https://www.rfi.fr/fr/podcasts/menaces-sur-l-information/20260523-en-zambie-avant-la-présidentielle-les-nouvelles-lois-sur-le-numérique-inquiètent-les-médias)  
-*Source : rfi.fr | Publication : 2026-05-23*
+## [<b>Cybersécurité</b> : la fuite de données vise aussi les ministres, palmarès des piratages parmi ...](https://www.sudouest.fr/economie/cybersecurite/cybersecurite-la-fuite-de-donnees-vise-aussi-les-ministres-palmares-des-piratages-parmi-les-membres-du-gouvernement-29207431.php)  
+*Source : sudouest.fr | Publication : 2026-05-24*
 
-- En Zambie, avant la présidentielle, les nouvelles lois sur le numérique inquiètent les médias Publié le : En Zambie, de nouvelles lois sur la cybersécurité et la cybercriminalité inquiètent journalistes et défenseurs des droits humains.
-- Adoptés en avril 2026 par le Parlement puis promulgués dans la foulée par le président Hakainde Hichilema, ces textes sont officiellement destinés à lutter contre les abus en ligne et les fraudes numériques.
-- Mais à moins de trois mois de la présidentielle du 13 août 2026, plusieurs médias indépendants dénoncent des lois aux contours flous, susceptibles selon eux de faire taire les voix critiques et d’encourager l’autocensure.
-- En Zambie, un virage législatif surprend de nombreux journalistes, à l’image de Joseph Mwenda, rédacteur en chef du journal indépendant News Diggers.
+- Les attaques tous azimuts visant à démontrer la fragilité de la France en matière de cybersécurité n’épargnent pas le plus haut niveau de l’État Si vous soupirez en constatant qu’en deux semaines, vos données personnelles et familiales ont été aspirées à la fois dans le piratage de la mutuelle de votre conjoint, celui de Center Parcs et de Gîtes de France, sans compter la fédération de sport d’un de vos enfants, vous pourrez au moins vous dire que vous n’êtes pas seuls.
+- Mais il n’est pas certain que cela vous console.
+- Au contraire, l’estimation faite par « Le Monde » et relayée par la newsletter politique de « Libération » des fuites de données personnelles au gouvernement a de quoi vous déprimer davantage.
 
-## [Ce VPN aidait les hackers à échapper à la police, Europol intervient - PhonAndroid](https://www.phonandroid.com/ce-vpn-aidait-les-hackers-a-echapper-a-la-police-europol-intervient.html)  
-*Source : phonandroid.com | Publication : 2026-05-23*
+## [Sécurité nationale : Reçu par Diomaye Faye, Ali Ngouille Ndiaye alerte sur la <b>cybersécurité</b> ...](https://www.ndarinfo.com/Securite-nationale-Recu-par-Diomaye-Faye-Ali-Ngouille-Ndiaye-alerte-sur-la-cybersecurite-et-les-frontieres_a44832.html)  
+*Source : ndarinfo.com | Publication : 2026-05-24*
 
-- Ce VPN aidait les hackers à échapper à la police, Europol intervient Se croyant en sécurité, des dizaines de cybercriminels se cachaient derrière First VPN.
-- Mais les autorités européennes, avec l’aide d’Europol, ont réussi à « casser » le VPN, mettant ainsi la main sur un vaste réseau de malfaiteurs.
-- En 2026, les VPN sont plus populaires que jamais.
-- Et, si ces derniers permettent d’accéder à des contenus indisponibles dans votre pays de résidence, nombreux sont les développeurs de VPN à mettre en avant l’aspect sécuritaire de ces outils.
+- Le président de la République, Bassirou Diomaye Faye, a accordé une audience à l’ancien ministre de l’Intérieur, Ali Ngouille Ndiaye.
+- Les discussions entre le chef de l’État et l’ancien membre du gouvernement sous l'administration de Macky Sall ont porté de manière prioritaire sur les défis majeurs de la sécurité intérieure, la surveillance des zones frontalières et la recrudescence des cyberattaques contre les infrastructures sensibles de l’État.
+- Un diagnostic des vulnérabilités urbaines, rurales et stratégiques À sa sortie d’audience, Ali Ngouille Ndiaye a partagé, au micro de la RFM, les détails de cet échange technique.
+- Il a dressé une cartographie des préoccupations sécuritaires qui impactent à la fois les milieux urbains et ruraux.
 
-## [Les Rencontres de la <b>cybersécurité</b> auront lieu à Limoges les 4 et 5 juin](https://www.lepopulaire.fr/limoges-87000/economie/les-rencontres-de-la-cybersecurite-auront-lieu-a-limoges-les-4-et-5-juin_14991797/)  
-*Source : lepopulaire.fr | Publication : 2026-05-23*
+## [Fraude à la carte-cadeau Apple : un réseau criminel chinois a détourné 47 millions de dollars](https://www.01net.com/actualites/fraude-a-la-carte-cadeau-apple-un-reseau-criminel-chinois-a-detourne-47-millions-de-dollars.html)  
+*Source : 01net.com | Publication : 2026-05-24*
 
-- Écouter l'article Il est beaucoup question de cybersécurité en ce moment dans les débats, tant les affaires de piratage et de vols de données se multiplient.
-- Du coup, le Centre de ressources en cybersécurité (CRC) Limoges Métropole organise une nouvelle édition des Rencontres de la cybersécurité, les jeudi 4 et vendredi 5 juin au stade de Beaublanc, à Limoges.
-- Conférences et mises en situation Ce rendez-vous annuel a pour objectif de proposer un programme de rencontres professionnelles dans le showroom des solutions locales, des conférences et des ateliers thématiques ainsi que de nombreuses mises en situation pour initier à la gestion de crise cyber ou parfaire ses connaissances en matière de réaction aux cyber-attaques.
-- Ces deux journées permettent également aux participants de découvrir l’écosystème local de prestataires intervenant dans le champ de la cybersécurité et leurs offres de solutions.
+- Une vaste fraude aux cartes-cadeaux Apple a été découverte aux États-Unis.
+- L’arnaque a permis d’acheter des millions de dollars de produits Apple, comme des iPhone, des AirPods, des MacBook, ou des Apple Watch.
+- La fraude repose sur une tactique criminelle banale et répandue, le « card draining ».
+- À lire aussi : Arnaque au téléphone – pourquoi il ne faut plus dire « allô » quand personne ne répond Comment se déroule l’arnaque à la carte-cadeau ?.
 
-## [<b>Cybersécurité</b> : la Guinée durcit le contrôle des transactions électroniques - Guinee360](https://www.guinee360.com/23/05/2026/cybersecurite-la-guinee-durcit-le-controle-des-transactions-electroniques/)  
-*Source : guinee360.com | Publication : 2026-05-23*
+## [Ebola: déjà plus de 200 morts en RDC, mobilisation internationale - TRT Français](https://www.trtfrancais.com/article/7ed7411564d2)  
+*Source : trtfrancais.com | Publication : 2026-05-24*
 
-- Le gouvernement guinéen franchit une nouvelle étape dans l’encadrement du secteur numérique.
-- À travers un nouveau décret relatif à l’audit, au contrôle et à la certification des systèmes d’information des transactions électroniques, les autorités entendent renforcer la sécurité des plateformes numériques opérant en Guinée.
-- Le texte, pris en application de la loi de 2016 sur les transactions électroniques, confère à Autorité de Régulation des Postes et Télécommunications (ARPT) un pouvoir accru de supervision des infrastructures numériques utilisées par les entreprises publiques et privées.
-- “Le présent décret a pour objet de définir la procédure d’audit de sécurité, de contrôle et de certification des systèmes d’information des transactions électroniques”, précise le document officiel, qui s’inscrit dans un contexte de montée en puissance des services financiers numériques, du mobile money et des plateformes électroniques en Guinée.
+- L'épidémie de fièvre hémorragique Ebola en République démocratique du Congo (RDC) a fait plus de 200 morts, sur 867 cas suspects enregistrés, selon un dernier bilan publié samedi soir par le ministère de la Santé.
+- Selon les chiffres officiels, 204 décès répartis dans trois provinces du vaste pays d'Afrique centrale ont été recensés à ce stade comme ayant probablement été causés par le virus.
+- Un précédent bilan de l'Organisation mondiale de la Santé (OMS) faisait état vendredi de 177 décès sur 750 cas suspects.
+- L'épidémie s’internationalise déjà.
 
-## [Police cynotechnique : une nouvelle mission au service des enquêtes sur les cybercrimes](https://www.leconomiste.com/flash-infos/police-cynotechnique-une-nouvelle-mission-au-service-des-enquetes-sur-les-cybercrimes/)  
-*Source : leconomiste.com | Publication : 2026-05-23*
+## [Plus de 15 millions de numéros de Sécurité sociale dérobés: une enquête ouverte après un ...](https://www.bfmtv.com/tech/cybersecurite/plus-de-15-millions-de-numeros-de-securite-sociale-derobes-une-enquete-ouverte-apres-un-piratage-massif-de-donnees-de-sante-de-l-entreprise-almerys_AN-202605240156.html)  
+*Source : bfmtv.com | Publication : 2026-05-24*
 
-- cybermenaces.
-- Cette nouvelle mission permet aux chiens de police dressés de ... cybercriminalité , à l'exploitation sexuelle des enfants, à la.
+- Plus de 15 millions de numéros de Sécurité sociale dérobés: une enquête ouverte après un piratage massif de données de santé de l'entreprise Almerys Une base de données de l’entreprise Almerys, acteur majeur de la gestion de flux de données santé en France, a été massivement piratée il y a quelques jours, a appris ce dimanche 24 mai BFMTV de sources concordantes, confirmant une information du site spécialisé FrenchBreaches.
+- Plus de 15 millions de numéros de Sécurite sociale, ainsi que des données d’état civil sont aux mains des hackers et proposées à la revente sur des forums cybercriminels.
+- Un nombre qui en fait de cette cyberattaque l’une des plus importantes fuites de données de santé françaises de ces dernières années.
+- Une enquête a été ouverte par la section de lutte contre la cybercriminalité du parquet de Paris qui a saisi la brigade spécialisée de la préfecture de police.
 
-## [Franc-Parler : « La confiance est notre actif le plus précieux » — Les dangers de la ... - Le Soleil](https://www.lesoleil.com/communiques-de-presse/2026/05/23/franc-parler-la-confiance-est-notre-actif-le-plus-precieux-les-dangers-de-la-surveillance-et-lavenir-de-la-cybersecurite-LK4INXPIQNEMZKOG4OG5K72MQA/)  
-*Source : lesoleil.com | Publication : 2026-05-23*
+## [Ces deux mots dans un SMS sont le signe d'une arnaque, il est recommandé de le ...](https://www.linternaute.com/hightech/mobile/7945587-article-supprimer-sms-mots-ter/)  
+*Source : linternaute.com | Publication : 2026-05-24*
 
-- MONTRÉAL, 23 mai 2026 (GLOBE NEWSWIRE) -- Alors que les débats font rage autour de la souveraineté numérique, des politiques d'encryption et des cadres de surveillance gouvernementale, la protection des données est devenue un enjeu économique critique pour les entreprises nord-américaines.
-- Nous avons rencontré Yanik Guillemette, entrepreneur et conseiller stratégique, pour analyser les risques associés aux failles de sécurité, l'importance vitale des politiques strictes de confidentialité (no-logs), et la valeur économique de la confiance numérique.
-- Q : Vous exprimez souvent des inquiétudes face aux gouvernements qui réclament des « portes dérobées » (backdoors) dans les systèmes de chiffrement.
-- Quel est le danger réel pour les entreprises?.
+- Ces deux mots dans un SMS sont le signe d'une arnaque, il est recommandé de le supprimer en urgence Selon des experts en cybersecurité, il est fortement recommandé de supprimer certains messages de votre smartphone.
+- Nos smartphones ont beau s'avérer très pratiques au quotidien, ils ne sont pas infaillibles face à certaines personnes malintentionnées.
+- Le nombre d'arnaques en ligne et cyberattaques ne cesse d'augmenter d'années en années.
+- Selon le site Statista, si on estimait le coût final des cyberattaques en 2019 à près d'un milliard de dollars, ce montant a été dix fois plus élevé en 2025.
 
-## [Le CGBCM s'est penché sur les questions de gouvernance, de <b>cybersécurité</b> et de mise à ...](https://fr.saharamedias.net/le-cgbcm-sest-penche-sur-les-questions-de-gouvernance-de-cybersecurite-et-de-mise-a-jour-des-reglementations/)  
-*Source : fr.saharamedias.net | Publication : 2026-05-23*
+## [La Banque Arabe, sponsor stratégique de la Conférence de Palestine sur la <b>cybersécurité</b> et ...](https://www.sadanews.ps/fr/business/304576.html)  
+*Source : sadanews.ps | Publication : 2026-05-24*
 
-- Le Conseil général de la Banque centrale de Mauritanie, lors d’une réunion qu’il a tenue, a examiné une série de dossiers liés au renforcement de la gouvernance et à la modernisation des fonctions stratégiques de la banque, en mettant l’accent sur le contrôle interne, la cybersécurité et le développement des systèmes de gestion.
-- Un communiqué publié à l’issue de la réunion a précisé que le Conseil avait examiné l’état d’avancement d’un certain nombre de projets structurels, ainsi que les dossiers relatifs à la gestion financière, à l’audit interne et à la gouvernance des systèmes d’information, dans le cadre des efforts déployés par la Banque pour renforcer l’efficacité institutionnelle et améliorer les mécanismes de prise de décision.
-- Le Conseil a également examiné les états financiers pour l’exercice 2025, ainsi que les avancées relatives à la mise à jour des procédures comptables et à l’interconnexion des systèmes, sans oublier l’élaboration des rapports de gouvernance environnementale, sociale et institutionnelle (ESG) et le suivi des recommandations émises par les missions de protection, ce qui reflète la volonté de la banque d’aligner ses pratiques sur les normes internationales en matière de gouvernance et de durabilité.
-- Les travaux ont également porté sur le renforcement de la cybersécurité et de la gouvernance des technologies de l’information, le Conseil ayant été informé des mesures prises pour développer la stratégie des systèmes d’information et améliorer les systèmes de sauvegarde et de continuité des activités, dans le but de renforcer la résilience opérationnelle et de sécuriser les infrastructures sensibles de la banque.
+- La Banque Arabe, sponsor stratégique de la Conférence de Palestine sur la cybersécurité et l’intelligence artificielle SadaNews - La Banque Arabe a annoncé son parrainage stratégique de la Conférence de Palestine sur la cybersécurité et l’intelligence artificielle, organisée par l’Institut de Palestine pour la Recherche en Sécurité Nationale sous le patronage du Président Mahmoud Abbas, en présence et avec la participation du Ministre de l'Économie Numérique, Dr.
+- Abdul Razak Natsheh, représentant le Premier Ministre Dr.
+- Muhammad Mustafa, ainsi que la participation de plusieurs ministres, experts et décideurs dans les domaines de la technologie, de la sécurité numérique et du secteur financier.
+- La participation de la Banque Arabe à cette conférence s'inscrit dans ses orientations visant à soutenir l'innovation et la transformation numérique, et affirme l'importance de la cybersécurité et de l’intelligence artificielle pour renforcer la préparation des institutions et leur capacité à suivre l'évolution rapide dans le monde d'aujourd'hui.
 
-## [Saisie d'un VPN utilisé dans la quasi-totalité des grandes enquêtes cyber d'Europol - Next](https://next.ink/238940/saisie-dun-vpn-utilise-dans-la-quasi-totalite-des-grandes-enquetes-cyber-deuropol/)  
-*Source : next.ink | Publication : 2026-05-23*
-
-- Saisie d’un VPN utilisé dans la quasi-totalité des grandes enquêtes cyber d’Europol Virtual Pwned Network Le 22 mai à 17h53 Au terme d’une enquête ouverte fin 2021, les enquêteurs des polices française, néerlandaise et de 14 autres pays ont saisi et démantelé un service de VPN qui était « presque exclusivement » promu sur les forums de cybercriminels russophones.
-- Son infrastructure aurait été préalablement compromise par les autorités, et plusieurs milliers de ses utilisateurs identifiés.
-- Saisie d’un VPN utilisé dans la quasi-totalité des grandes enquêtes cyber d’Europol Virtual Pwned Network Au terme d’une enquête ouverte fin 2021, les enquêteurs des polices française, néerlandaise et de 14 autres pays ont saisi et démantelé un service de VPN qui était « presque exclusivement » promu sur les forums de cybercriminels russophones.
-- Son infrastructure aurait été préalablement compromise par les autorités, et plusieurs milliers de ses utilisateurs identifiés.
-
-## [Togo : 27 millions de dollars de la Pologne pour développer les drones et la <b>cybersécurité</b>](https://africa-news-agency.com/togo-27-millions-de-dollars-de-la-pologne-pour-developper-les-drones-et-la-cybersecurite/)  
-*Source : africa-news-agency.com | Publication : 2026-05-23*
+## [« La vraie faiblesse vient de nos habitudes numériques » : comment protéger nos données ...](https://www.ouest-france.fr/societe/cyberattaque/la-vraie-faiblesse-vient-de-nos-habitudes-numeriques-comment-proteger-nos-donnees-personnelles-1b3034c6-55ee-11f1-a4a7-f780c203d7d6)  
+*Source : ouest-france.fr | Publication : 2026-05-24*
 
 - cybersécurité.
-- Le projet prévoit la création d'un centre de technologies de sécurité à Lomé ainsi que le renforcement des capacités locales de.
+- Mais à leur échelle, les particuliers peuvent aussi ... cybersécurité.
+- Mais à leur échelle, les particuliers peuvent aussi.
 
-## [La <b>cybersécurité</b> lors du Hajj... Protection s'étendant des applications aux infrastructures critiques](https://www.sadanews.ps/fr/news/304323.html)  
-*Source : sadanews.ps | Publication : 2026-05-23*
+## [Le hacker qui a dupé le FBI avec juste sa voix - YouTube](https://www.youtube.com/watch?v=h9nFt0fup4c)  
+*Source : youtube.com | Publication : 2026-05-24*
 
-- La cybersécurité lors du Hajj... Protection s'étendant des applications aux infrastructures critiques SadaNews - Avec l'augmentation de la dépendance aux applications et aux plateformes intelligentes durant la saison du Hajj, la cybersécurité n'est plus seulement une mesure technique, mais est devenue une partie intégrante de la continuité des services et de la sécurité opérationnelle.
-- La saison qui rassemble des millions de pèlerins dans une zone géographique et temporelle précise repose désormais sur un large écosystème numérique soutenant le transport, la santé, les communications, les services municipaux, la gestion des foules, et les plateformes dédiées aux invités de Dieu.
-- Cette transformation rend la protection des systèmes connectés essentielle pour garantir le bon fonctionnement des services.
-- Chaque application, plateforme, ou système de surveillance, ou infrastructure opérationnelle liée à la saison peut devenir un point sensible si elle n'est pas protégée de manière appropriée.
+- Kevin Mitnick = légende #hacker # cybersécurité #fbi #viral #Shorts.
+- #hacker # cybersécurité #fbi ...more.
+- Fabio Story.
+- 9.
 
-## [Une nouvelle technique de fraude téléphonique cible les clients de Desjardins - 98.5 Montréal](https://www.985fm.ca/audio/778841/une-nouvelle-technique-de-fraude-telephonique-cible-les-clients-de-desjardins)  
-*Source : 985fm.ca | Publication : 2026-05-23*
+## [Apple et Google sont prisonniers de leur propre écosystème, nous pouvons innover librement](https://www.clubic.com/dossier-613462-interview-jolla.html)  
+*Source : clubic.com | Publication : 2026-05-24*
 
-- L'expert en cybersécurité André Charbonneau a lui-même failli mordre à l'hameçon lors d'un appel frauduleux imitant à la perfection le service de prévention de la fraude de Desjardins.
-- Contrairement aux stratagèmes habituels, les fraudeurs n'ont créé aucun sentiment d'urgence, s'exprimant dans un français impeccable avec un accent québécois, tout en affichant le véritable numéro de l'institution financière grâce à la modification de l'afficheur.
-- L'appelant s'est montré tellement détaché qu'il a même suggéré à M. Charbonneau de se rendre en succursale s'il avait des doutes, une ruse psychologique hautement efficace pour gagner sa confiance.
-- Écoutez l'expert en cybersécurité André Charbonneau aborder le tout, vendredi matin, à l'émission de Marie-Eve Tremblay.
+- Dix ans après l'aventure du premier Jolla Phone, la société finlandaise revient en force avec la même ambition : proposer une alternative européenne crédible au duopole iOS/Android.
+- Entre DMA, souveraineté numérique et services cloud respectueux de la vie privée, Jolla n'a jamais semblé aussi bien positionnée pour concrétiser cette promesse.
+- Présenté au MWC de Barcelone et attendu pour le 8 juillet, le Jolla Phone n'est pas passé inaperçu des utilisateurs européens en quête d'une alternative au duopole Android/iOS.
+- Nous avons rencontré Sami Pienimäki, PDG et cofondateur de Jolla, pour évoquer l'évolution de SailFish OS, le rôle du DMA dans l'émergence d'alternatives mobiles, et les projets de services cloud européens que le constructeur entend déployer d'ici la fin de l'année.
 
-## [Sénégal : des mois de crispation et révocation de Sonko | APAnews](https://fr.apanews.net/news/senegal-retour-sur-les-mois-de-crispations-ayant-conduit-a-la-revocation-de-sonko/)  
-*Source : fr.apanews.net | Publication : 2026-05-23*
+## [Renforcer la résilience des données face aux <b>ransomwares</b> : un message de Synology au ...](https://www.vietnam.vn/fr/nang-cao-kha-nang-phuc-hoi-du-lieu-truoc-ransomware-thong-diep-tu-synology-tai-vietnam-security-summit-2026)  
+*Source : vietnam.vn | Publication : 2026-05-24*
 
-- La révocation d’Ousmane Sonko de ses fonctions de Premier ministre, annoncée vendredi à la télévision nationale, s’inscrit dans une dynamique de tensions accumulées depuis plus d’un an au sommet de l’État sénégalais entre le président Bassirou Diomaye Faye et son ancien chef de gouvernement.
-- La trajectoire des Bassirou Diomaye Faye et Ousmane Sonko trouve son origine dans leur parcours commun au sein du Pastef.
-- Bassirou Diomaye Faye, membre du parti Pastef et ancien secrétaire général, en a démissionné à son accession à la magistrature suprême en mars 2024.
-- Il reste toutefois issu de cette formation politique dirigée par Ousmane Sonko, qui en est le leader.
+- Le 22 mai, le 8e Sommet vietnamien sur la sécurité s'est tenu officiellement à Hanoï.
+- Organisé par l'Association nationale de cybersécurité en collaboration avec IEC Group, cet événement, l'un des plus importants forums sur la cybersécurité au Vietnam, a réuni cette année plus de 1 500 délégués de haut niveau, parmi lesquels des responsables d'agences gouvernementales centrales et locales, des représentants d'entreprises et d'organisations œuvrant dans le domaine de la sécurité de l'information, ainsi que des experts technologiques de renom du Vietnam et du monde entier.
+- Placée sous le thème de la protection de l'avenir numérique à l'ère post-quantique et de l'intelligence artificielle (IA) , la conférence a porté sur l'impact de l'IA sur les opérations commerciales, l'automatisation et la cybersécurité.
+- Outre les gains d'efficacité qu'elle offre, l'IA accroît également les risques, tels que les attaques sophistiquées, l'usurpation d'identité et les menaces pesant sur les données.
 
-## [CAFÉ NUMÉRIQUE LE 6 JUIN - Actualité illiwap de Ville de Beauzac](https://station.illiwap.com/fr/public/43025/actu/cafe-numerique-le-6-juin)  
-*Source : station.illiwap.com | Publication : 2026-05-23*
+## [Le secret derrière vos fichiers numériques : tout comprendre sur le hash ! - YouTube](https://www.youtube.com/watch?v=iEg6dtXQAoE)  
+*Source : youtube.com | Publication : 2026-05-24*
 
-- 👨🏻💻 Faux mails, piratages, arnaques en ligne… Et si vous appreniez à mieux vous protéger au quotidien ?.
-- La médiathèque La Parenthèse vous invite à participer à un Café numérique dédié à la cybersécurité le samedi 6 juin 2026 à 9h30 !.
-- Au programme de cet atelier collectif : • Connaître les principales cybermenaces et arnaques en ligne • Créer des mots de passe plus sécurisés • Comprendre le rôle des antivirus • Protéger ses données personnelles • Savoir signaler une arnaque ou un contenu frauduleux 🥐 Trouvez des réponses claires et accessibles, dans une ambiance conviviale autour d’un café et d’un petit-déjeuner offerts !.
-- ℹ️ Atelier collectif gratuit et sur inscription (places limitées) : 07 64 45 47 93 ou 06 18 49 37 47 numerique.mfs@ville-beauzac.fr ou mediatheque@ville-beauzac.fr La médiathèque La Parenthèse vous invite à participer à un Café numérique dédié à la cybersécurité le samedi 6 juin 2026 à 9h30 !.
+- cybersécurité #informatique #tech #données #explication.
 
-## [À la Maison Blanche, la régulation de l'IA cale sur fond de récits contradictoires](https://actu.orange.fr/economie/a-la-maison-blanche-la-regulation-de-l-ia-cale-sur-fond-de-recits-contradictoires-CNT000002pyytz.html)  
-*Source : actu.orange.fr | Publication : 2026-05-23*
+## [Voler une voiture en moins d'une minute : ce réseau criminel a fait des ravages avec un outil ...](https://www.01net.com/actualites/voler-une-voiture-en-moins-dune-minute-ce-reseau-criminel-a-fait-des-ravages-avec-un-outil-100-legal.html)  
+*Source : 01net.com | Publication : 2026-05-24*
 
-- À la Maison Blanche, la régulation de l'IA cale sur fond de récits contradictoires © Kent NISHIMURA, AFP - Le président américain Donald Trump dans le bureau ovale de la Maison Blanche, à Washington, le 11 mai 2026 Pourquoi Donald Trump a-t-il renoncé à signer un décret très attendu sur l'intelligence artificielle (IA)?.
-- Plusieurs récits irriguent vendredi Washington pour interpréter ce nouvel épisode des difficultés de la Maison Blanche à s'accorder sur des garde-fous pour cette technologie de plus en plus puissante.
-- La plupart des analyses pointent vers l'ancien conseiller David Sacks, toujours influent malgré son départ de la Maison Blanche en mars.
-- Selon Politico, cet investisseur tech de renom, proche d'Elon Musk, aurait appelé le président jeudi matin pour le convaincre qu'un décret prévoyant un examen sécuritaire des modèles d'IA avant leur diffusion ralentirait l'innovation américaine face à la Chine.
+- Un réseau international de voleurs de voiture a été identifié aux États-Unis.
+- Opérant dans trois États différents, le réseau, composé de six voleurs, utilisait un outil de diagnostic automobile pour dérober des véhicules en moins d’une minute.
+- Grâce à cet outil, les criminels étaient en mesure de prendre le volant d’une voiture sans devoir briser la moindre vitre et sans déclencher l’alarme.
+- À lire aussi : comment des hackers ont piraté un constructeur automobile pour générer de fausses clés et voler des voitures Un outil légal détourné par les voleurs Selon les investigations menées par le FBI, les voleurs se servaient d’un appareil appelé « Autel ».
+
+## [KPMG déploie Claude pour 276 000 collaborateurs - VU Magazine](https://vu-magazine.com/blog/kpmg-deploie-claude-pour-276-000-collaborateurs)  
+*Source : vu-magazine.com | Publication : 2026-05-24*
+
+- KPMG déploie Claude chez ses 276 000 collaborateurs KPMG s'associe à Anthropic pour déployer le modèle Claude auprès de l'ensemble de ses 276 000 employés dans le monde.
+- L'accord couvre également son intégration dans les outils à destination des clients.
+- Le cabinet ne part pas de zéro : il capitalise sur deux ans d'expérimentation conduite aux États-Unis, notamment au sein de ses AI and Data Labs.
+- Après Space X, Claude s'installe dans les plus grande entreprise vs La Banque Postale avec Mistral AI Digital Gateway au cœur du déploiement IA Le chantier le plus structurant porte sur Digital Gateway, la plateforme interne de KPMG hébergée sur Microsoft Azure.
