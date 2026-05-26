@@ -1,156 +1,150 @@
-# Résumés – 2026-05-24
+# Résumés – 2026-05-26
 
 
-## [Hajjah : Première exposition de projets étudiants créatifs à l'Université Al-Razi](https://saba.ye/fr/news3601372.htm?cid=31)  
-*Source : saba.ye | Publication : 2026-05-24*
+## [Une semaine dans le domaine de la sécurité (du 18 au 24 mai) - Malwarebytes](https://www.malwarebytes.com/fr/blog/news/2026/05/a-week-in-security-may-18-may-24)  
+*Source : malwarebytes.com | Publication : 2026-05-25*
 
-- Agence de Presse Yéménite.
-- Accueil Chef de la révolution le président Locales Internationale L‘agression Américain saoudienne Economie Le Développement et les initiatives English | فارسي | Español | Deutsch | عـربـي |.
-- Rechercher | Recherche avancée Caricatures Galerie photo Locales Application de techniques de combat pour les diplômés des cours de mobilisation dans le district d'Al-Saddah à Ibb [24 May 2026] Inauguration de projets d'enseignement, de santé et d'eau issus d'initiatives communautaires à Bayt al-Faqih, à Al-Hodeïdah [24 May 2026] Évaluation des préparatifs touristiques pour l'accueil des visiteurs à Al-Hodeïdah pendant l'Aïd al-Adha [24 May 2026] Le ministère des Affaires étrangères met en garde Hargeisa contre tout rapprochement avec l'entité ennemie israélienne [24 May 2026] Al-Hodeïdah : Discussion des arrangements touristiques et des services pour les vacances de l'Aïd al-Adha [24 May 2026] Enquêtes et reportages Conséquence des erreurs de Trump… Le monde est confronté à la plus grave crise énergétique de l'histoire moderne : rapport [24 May 2026] Gaza tire la sonnette d'alarme pour sauver ce qui reste… Le sang est-il devenu bon marché ?.
-- : rapport [23 May 2026] Fermeture de l'aéroport international de Sanaa : Des patients yéménites menacés de mort et de pénurie de médicaments [23 May 2026] L'Autorité de développement des petites et micro-entreprises octroie des prêts d'un montant supérieur à 1,8 milliard de riyals : rapport [22 May 2026] Unité yéménite.
+- La semaine dernière sur Malwarebytes Labs: Mettez Chrome à jour Chrome : des failles critiques pourraient permettre à des pirates d'exécuter du code - Des failles de Microsoft Defender sont actuellement exploitées dans la nature - TikTok, YouTube et Roblox font l'objet d'une surveillance accrue, mais les filtres d'âge ne suffiront pas à garantir la sécurité des enfants - Détectez les logiciels espions en flagrant délit grâce à la surveillance Windows - Des chercheurs ont laissé des agents IA évoluer librement dans une ville virtuelle et ont observé comment les choses se sont déroulées - Microsoft démantèle Fox Tempest, un service frauduleux de signature de logiciels malveillants - Firefox 151 intègre d'importantes améliorations en matière de confidentialité dans une mise à jour mineure - Des données biométriques, des diagnostics et des coordonnées bancaires ont été divulgués lors d'une importante violation de données dans le secteur de la santé - Facebook promet des coffrets de viande Aldi à bas prix, mais vole en réalité les informations de paiement - YouTube votre visage pour lutter contre deepfakes - Microsoft modifie le comportement Edgeconcernant les mots de passe en clair - L'IA déforme la réalité de l'Holocauste (Lock and Code, saison 7, épisode 10) - Restez en sécurité !.
+- Naviguez comme si personne ne vous regardait.
+- Malwarebytes Privacy VPN votre connexion et n'enregistre jamais vos activités, pour que le prochain article que vous lirez ne vous concerne pas personnellement.Essayez-le gratuitement →.
 
-## [La BCE discutera des risques de <b>cybersécurité</b> liés au Claude Mythos Preview d'Anthropic](https://www.binance.com/fr/square/post/326666196815730)  
-*Source : binance.com | Publication : 2026-05-24*
+## [Samsung passe au 6K et au Thunderbolt 5 pour consolider son leadership - ITRmanager](https://itrmanager.com/articles/209832/samsung-passe-au-6k-et-au-thunderbolt-5-pour-consolider-son-leadership.html)  
+*Source : itrmanager.com | Publication : 2026-05-25*
 
-- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
-- This requires JavaScript.
-- Enable JavaScript and then reload the page.
+- Deniers articles.
+- DBM Partners, 10 ans de cybersécurité avec la Métropole de Bordeaux · Avec Dell PowerStore Elite, le stockage d'entreprise change.
 
-## [La mairie d'Eyguières paralysée par un <b>ransomware</b> - Cyberattaque.org](https://www.cyberattaque.org/la-mairie-deyguieres-paralysee-par-un-ransomware/)  
-*Source : cyberattaque.org | Publication : 2026-05-24*
+## [Services de sécurité gérés par TELUS propulsés par Google](https://www.telus.com/fr/blog/business/TELUS-Managed-SecOps-Google-security-operations)  
+*Source : telus.com | Publication : 2026-05-25*
 
-- La mairie d’Eyguières, commune d’environ 7 000 habitants située dans les Alpilles, a été victime d’une cyberattaque au ransomware ce vendredi 22 mai 2026.
-- L’attaque a provoqué la mise hors service de l’ensemble du système informatique municipal.
-- Selon les premiers éléments relayés localement, les cybercriminels auraient utilisé le ransomware Qilin, un groupe déjà impliqué dans plusieurs attaques visant des hôpitaux, collectivités et établissements publics en Europe.
-- Les services municipaux fortement perturbés L’attaque aurait entraîné l’indisponibilité des systèmes électroniques de la mairie, compliquant fortement le fonctionnement des services administratifs.
+- Défense à grande échelle : Optimisation de la sécurité avec les services SecOps gérés de TELUS propulsés par Google Security Operations Cybersécurité · 25 mai 2026 Le paysage de la cybersécurité a radicalement changé et de nombreuses organisations peinent à suivre la cadence.
+- La pénurie de personnel qualifié en sécurité les empêche souvent de gérer le volume croissant de menaces, et les équipes de sécurité peuvent se retrouver submergées par des alertes faux positifs, ce qui retarde la réponse aux menaces réelles et élargit la fenêtre d'exposition, pouvant ainsi nuire gravement à l'entreprise.
+- À cela s'ajoute un écosystème d'outils de sécurité fragmenté qui manque de contexte unifié, permettant aux menaces de passer inaperçues et ralentissant les enquêtes.
+- Pour aider les organisations à naviguer parmi ces pressions opérationnelles croissantes, TELUS Affaires lancera cette année TELUS SecOps géré, un nouveau service de sécurité géré qui tire parti de Google Security Operations pour aider les organisations à prévenir, détecter et contrer les menaces.
 
-## [Cyberattaque : plus de 15 millions de numéros de sécurité sociale dérobés - Orange Actu](https://actu.orange.fr/france/cyberattaque-plus-de-15-millions-de-numeros-de-securite-sociale-derobes-magic-CNT000002pzV2W.html)  
-*Source : actu.orange.fr | Publication : 2026-05-24*
+## [NXO installe son siège social à La Défense et ouvre un nouveau chapitre de son développement](https://infodsi.com/communiques-de-presse/48985/nxo-installe-son-siege-social-a-la-defense-et-ouvre-un-nouveau-chapitre-de-son-developpement)  
+*Source : infodsi.com | Publication : 2026-05-25*
 
-- Cyberattaque : plus de 15 millions de numéros de sécurité sociale dérobés © Pexels Une base de données de l’entreprise Almerys, opérateur de tiers payant, a récemment été piratée, rapporte BFMTV dimanche 24 mai.
-- Plus de 15 millions de numéros de sécurité sociale et des données d’état civil ont été dérobés lors de cette intrusion.
-- Dimanche 24 mai, le média spécialisé French Breaches a rapporté qu’une fuite massive de données avait été constatée après une cyberattaque visant l’entreprise Almerys, opérateur majeur du tiers payant en France.
-- Selon leurs informations, confirmées par BFMTV, plus de 44 millions de lignes de données sont concernées, dont 15 millions de numéros de sécurité sociale.
+- Veuillez activer Javascript.
 
-## [Claude Mythos débusque 10'000 failles et sature la <b>cybersécurité</b>](https://dcod.ch/2026/05/24/claude-mythos-10-000-failles-cybersecurite/)  
-*Source : dcod.ch | Publication : 2026-05-24*
+## [&quot;Un cri pour la Tunisie: la liberté n'est pas un crime&quot;: piratée, l'application de Tunisie ...](https://www.bfmtv.com/tech/cybersecurite/un-cri-pour-la-tunisie-la-liberte-n-est-pas-un-crime-piratee-l-application-de-tunisie-telecom-a-diffuse-un-message-critique-du-pouvoir_AD-202605250317.html)  
+*Source : bfmtv.com | Publication : 2026-05-25*
 
-- TL;DR : L’essentiel Le programme défensif Project Glasswing a permis d’identifier des milliers de failles critiques et sévères, touchant les composants logiciels les plus essentiels au niveau mondial.
-- - Les équipes de sécurité font face à un goulot d’étranglement majeur, avec moins d’une centaine de correctifs déployés en amont malgré le volume massif de signalements confirmés.
-- - Le navigateur Mozilla Firefox illustre cette accélération en corrigeant 271 vulnérabilités dans sa dernière mise à jour, un volume dix fois supérieur aux capacités des anciens outils.
-- - L’outil autonome est capable de transformer ces failles en chaînes d’attaques complètes, allant jusqu’à forger de faux certificats pour cloner des plateformes bancaires.
+- "Un cri pour la Tunisie: la liberté n'est pas un crime": piratée, l’application de Tunisie Telecom a diffusé un message critique du pouvoir Au lieu d'une offre promotionnelle, un message critique du pouvoir: à la suite d'une cyberattaque, des clients de Tunisie Telecom ont reçu, via l'application de l'opérateur public tunisien, un texte dénonçant la situation politique et économique du pays.
+- Relayé sur les réseaux sociaux et par des médias, le message, intitulé "Un cri pour la Tunisie: la liberté n'est pas un crime", fustigeait samedi un "net recul des libertés" et "une crise économique étouffante".
+- "Des promesses et des slogans, pour quel résultat?.
+- ", demandait-il.
 
-## [Diomaye Faye consulte Souleymane Ndéné Ndiaye et d'anciens ministres de l'Intérieur](https://www.lactuacho.com/dialogue-national-securite-emploi-cybersecurite-diomaye-faye-consulte-souleymane-ndene-ndiaye-et-danciens-ministres-de-linterieur/)  
-*Source : lactuacho.com | Publication : 2026-05-24*
+## [&quot;Vietnam Security Summit 2026” : renforcer la protection des données personnelles](https://lecourrier.vn/vietnam-security-summit-2026-renforcer-la-protection-des-donnees-personnelles/1348086.html)  
+*Source : lecourrier.vn | Publication : 2026-05-25*
 
-- Le président Bassirou Diomaye Faye a poursuivi ses consultations dans le cadre de la Journée nationale du dialogue.
-- Le chef de l’État a reçu plusieurs anciens hauts responsables, dont l’ex-Premier ministre Souleymane Ndéné Ndiaye et d’anciens ministres de l’Intérieur, selon rts.sn.
-- Selon rts.sn, le président de la République, Bassirou Diomaye Faye, a poursuivi ce samedi les consultations entamées en début de semaine dans le cadre de la Journée nationale du dialogue.
-- Le chef de l’État a ainsi reçu au Palais de la République l’ancien Premier ministre Souleymane Ndéné Ndiaye, ainsi que les anciens ministres de l’Intérieur Mbaye Ndiaye, Aly Ngouille Ndiaye et Antoine Félix Diome.
+- >> Le VNCERT annonce une fuite de données personnelles au Centre national d’information sur le crédit du Vietnam >> Les données personnelles, nouvelle “mine d’or” des cybercriminels >> Vietnam Security Summit 2026 : se préparer au monde post-quantique et post-IA Intervenant lors de la session consacrée à "La sécurité des données et de l’identité numérique : instaurer la confiance dans l’écosystème numérique", le sous-colonel Nguyên Dinh Dô Thi, chef adjoint de la Division 1 du Département de la cybersécurité et de la lutte contre la criminalité liée aux hautes technologies (A05) du ministère de la Police, a souligné que le monde considère désormais les données comme le "nouveau pétrole".
+- Au Vietnam également, elles sont perçues comme une ressource stratégique et un actif national essentiel, constituant le "système sanguin" de l’économie et de la transition numériques.
+- Garantir leur sécurité est ainsi devenu une exigence urgente et permanente.
+- Selon lui, plus de trente formes de cybercriminalité, notamment les escroqueries en ligne, exploitent les données personnelles comme une véritable "mine d’or".
 
-## [<b>Cybersécurité</b> : la fuite de données vise aussi les ministres, palmarès des piratages parmi ...](https://www.sudouest.fr/economie/cybersecurite/cybersecurite-la-fuite-de-donnees-vise-aussi-les-ministres-palmares-des-piratages-parmi-les-membres-du-gouvernement-29207431.php)  
-*Source : sudouest.fr | Publication : 2026-05-24*
+## [«L'IA remodèle fondamentalement le secteur de la <b>cybersécurité</b>» : les fuites de données ...](https://www.usinenouvelle.com/technos-et-innovations/ia/lia-remodele-fondamentalement-le-secteur-de-la-cybersecurite-les-fuites-de-donnees-liees-a-lia-en-forte-hausse-selon-un-rapport-de-verizon.U7L7DSSLS5FP7FXMOC7YWILVBE.html)  
+*Source : usinenouvelle.com | Publication : 2026-05-25*
 
-- Les attaques tous azimuts visant à démontrer la fragilité de la France en matière de cybersécurité n’épargnent pas le plus haut niveau de l’État Si vous soupirez en constatant qu’en deux semaines, vos données personnelles et familiales ont été aspirées à la fois dans le piratage de la mutuelle de votre conjoint, celui de Center Parcs et de Gîtes de France, sans compter la fédération de sport d’un de vos enfants, vous pourrez au moins vous dire que vous n’êtes pas seuls.
-- Mais il n’est pas certain que cela vous console.
-- Au contraire, l’estimation faite par « Le Monde » et relayée par la newsletter politique de « Libération » des fuites de données personnelles au gouvernement a de quoi vous déprimer davantage.
+- Il faut combattre les menaces cyber liées à l'IA par l'IA, jugent les spécialistes de Verizon.
+- Les pirates informatiques ont de plus en plus.
 
-## [Sécurité nationale : Reçu par Diomaye Faye, Ali Ngouille Ndiaye alerte sur la <b>cybersécurité</b> ...](https://www.ndarinfo.com/Securite-nationale-Recu-par-Diomaye-Faye-Ali-Ngouille-Ndiaye-alerte-sur-la-cybersecurite-et-les-frontieres_a44832.html)  
-*Source : ndarinfo.com | Publication : 2026-05-24*
+## [Thales remporte un contrat pour moderniser les quatre frégates Hydra de la marine grecque](https://investir.lesechos.fr/actu-des-valeurs/la-vie-des-actions/thales-remporte-un-contrat-pour-moderniser-les-quatre-fregates-hydra-de-la-marine-grecque-2233266)  
+*Source : investir.lesechos.fr | Publication : 2026-05-25*
 
-- Le président de la République, Bassirou Diomaye Faye, a accordé une audience à l’ancien ministre de l’Intérieur, Ali Ngouille Ndiaye.
-- Les discussions entre le chef de l’État et l’ancien membre du gouvernement sous l'administration de Macky Sall ont porté de manière prioritaire sur les défis majeurs de la sécurité intérieure, la surveillance des zones frontalières et la recrudescence des cyberattaques contre les infrastructures sensibles de l’État.
-- Un diagnostic des vulnérabilités urbaines, rurales et stratégiques À sa sortie d’audience, Ali Ngouille Ndiaye a partagé, au micro de la RFM, les détails de cet échange technique.
-- Il a dressé une cartographie des préoccupations sécuritaires qui impactent à la fois les milieux urbains et ruraux.
+- Il comprend des capteurs et des systèmes de gestion de combat qui répondent à des normes de cybersécurité élevées.
+- Le radar numérique NS100, doté.
 
-## [Fraude à la carte-cadeau Apple : un réseau criminel chinois a détourné 47 millions de dollars](https://www.01net.com/actualites/fraude-a-la-carte-cadeau-apple-un-reseau-criminel-chinois-a-detourne-47-millions-de-dollars.html)  
-*Source : 01net.com | Publication : 2026-05-24*
+## [Un VPN très apprécié des cybercriminels démantelé lors d'une vaste opération internationale](https://www.frandroid.com/services/vpn/3111063_un-vpn-tres-apprecie-des-cybercriminels-demantele-lors-dune-vaste-operation-internationale)  
+*Source : frandroid.com | Publication : 2026-05-25*
 
-- Une vaste fraude aux cartes-cadeaux Apple a été découverte aux États-Unis.
-- L’arnaque a permis d’acheter des millions de dollars de produits Apple, comme des iPhone, des AirPods, des MacBook, ou des Apple Watch.
-- La fraude repose sur une tactique criminelle banale et répandue, le « card draining ».
-- À lire aussi : Arnaque au téléphone – pourquoi il ne faut plus dire « allô » quand personne ne répond Comment se déroule l’arnaque à la carte-cadeau ?.
+- Un VPN, ça sert entre autres à anonymiser le trafic internet.
+- Dans certains pays où la censure du Web est féroce, c’est une nécessité pour certaines personnes comme les journalistes.
+- Mais pas que.
+- Les cybercriminels aussi ont tout intérêt à ce qu’on ne puisse pas remonter jusqu’à eux lorsqu’ils s’adonnent à leurs activités.
 
-## [Ebola: déjà plus de 200 morts en RDC, mobilisation internationale - TRT Français](https://www.trtfrancais.com/article/7ed7411564d2)  
-*Source : trtfrancais.com | Publication : 2026-05-24*
+## [Noms de domaine : quatre mois pour obtenir son extension web.marque](https://www.latribune.fr/article/tech/2579386920166314/noms-de-domaine-quatre-mois-pour-obtenir-son-extension-web-marque)  
+*Source : latribune.fr | Publication : 2026-05-25*
 
-- L'épidémie de fièvre hémorragique Ebola en République démocratique du Congo (RDC) a fait plus de 200 morts, sur 867 cas suspects enregistrés, selon un dernier bilan publié samedi soir par le ministère de la Santé.
-- Selon les chiffres officiels, 204 décès répartis dans trois provinces du vaste pays d'Afrique centrale ont été recensés à ce stade comme ayant probablement été causés par le virus.
-- Un précédent bilan de l'Organisation mondiale de la Santé (OMS) faisait état vendredi de 177 décès sur 750 cas suspects.
-- L'épidémie s’internationalise déjà.
+- Noms de domaine : quatre mois pour obtenir son extension web.marque latribune.fr Ce contenu est réservé aux abonnés La Tribune Les grandes entreprises s'activent face à la rareté des extensions internet en .marque.
+- Un arbitrage stratégique à plusieurs centaines de milliers de dollars pour sécuriser leur identité numérique.
+- Image générée par Gemini/Nano Banana.
 
-## [Plus de 15 millions de numéros de Sécurité sociale dérobés: une enquête ouverte après un ...](https://www.bfmtv.com/tech/cybersecurite/plus-de-15-millions-de-numeros-de-securite-sociale-derobes-une-enquete-ouverte-apres-un-piratage-massif-de-donnees-de-sante-de-l-entreprise-almerys_AN-202605240156.html)  
-*Source : bfmtv.com | Publication : 2026-05-24*
+## [Loire. <b>Cybersécurité</b> : cette entreprise propose de se mettre dans la peau d'un pirate informatique](https://www.leprogres.fr/economie/2026/05/25/cette-entreprise-propose-de-se-mettre-dans-la-peau-d-un-pirate-informatique)  
+*Source : leprogres.fr | Publication : 2026-05-25*
 
-- Plus de 15 millions de numéros de Sécurité sociale dérobés: une enquête ouverte après un piratage massif de données de santé de l'entreprise Almerys Une base de données de l’entreprise Almerys, acteur majeur de la gestion de flux de données santé en France, a été massivement piratée il y a quelques jours, a appris ce dimanche 24 mai BFMTV de sources concordantes, confirmant une information du site spécialisé FrenchBreaches.
-- Plus de 15 millions de numéros de Sécurite sociale, ainsi que des données d’état civil sont aux mains des hackers et proposées à la revente sur des forums cybercriminels.
-- Un nombre qui en fait de cette cyberattaque l’une des plus importantes fuites de données de santé françaises de ces dernières années.
-- Une enquête a été ouverte par la section de lutte contre la cybercriminalité du parquet de Paris qui a saisi la brigade spécialisée de la préfecture de police.
+- Loire Cybersécurité : cette entreprise propose de se mettre dans la peau d’un pirate informatique Chez GoodEnough, les salariés ne sont pas toujours au top en matière de cybersécurité.
+- Certains continuent par exemple d’utiliser le même mot de passe pour tous leurs comptes et applications, ou ont choisi le prénom de leur petite dernière ou leur date d’anniversaire de mariage… Bref, une entreprise presque comme les autres.
+- À ceci près tout de même que, malgré sa présence sur les réseaux sociaux, elle est complètement fictive… Elle est en réalité le point de départ des scenarii mis au point par la jeune entreprise stéphanoise Ovide pour sensibiliser les salariés d’une organisation à la cybersécurité.
+- « Dans la cybersécurité, la plupart des collaborateurs n’ont pas besoin de tout.
 
-## [Ces deux mots dans un SMS sont le signe d'une arnaque, il est recommandé de le ...](https://www.linternaute.com/hightech/mobile/7945587-article-supprimer-sms-mots-ter/)  
-*Source : linternaute.com | Publication : 2026-05-24*
+## [15 millions de numéros de sécurité sociale piratés : Almerys est victime d'une nouvelle fuite ...](https://www.01net.com/actualites/15-millions-de-numeros-de-securite-sociale-pirates-almerys-est-victime-dune-nouvelle-fuite-de-donnees.html)  
+*Source : 01net.com | Publication : 2026-05-25*
 
-- Ces deux mots dans un SMS sont le signe d'une arnaque, il est recommandé de le supprimer en urgence Selon des experts en cybersecurité, il est fortement recommandé de supprimer certains messages de votre smartphone.
-- Nos smartphones ont beau s'avérer très pratiques au quotidien, ils ne sont pas infaillibles face à certaines personnes malintentionnées.
-- Le nombre d'arnaques en ligne et cyberattaques ne cesse d'augmenter d'années en années.
-- Selon le site Statista, si on estimait le coût final des cyberattaques en 2019 à près d'un milliard de dollars, ce montant a été dix fois plus élevé en 2025.
+- Almerys est une société spécialisée dans la gestion du tiers payant pour de nombreuses complémentaires santé en France.
+- La plateforme agit comme intermédiaire entre les mutuelles, les assurances santé, les professionnels de santé et les patients, au moment du remboursement.
+- Alan est l’une de ces assurances santé.
+- La plateforme Almerys a été victime d’une importante cyberattaque : certaines données des clients de l’assureur Alan sont de facto concernées.
 
-## [La Banque Arabe, sponsor stratégique de la Conférence de Palestine sur la <b>cybersécurité</b> et ...](https://www.sadanews.ps/fr/business/304576.html)  
-*Source : sadanews.ps | Publication : 2026-05-24*
+## [une faille Drupal activement exploitée concerne directement le service public français - Clubic](https://www.clubic.com/actualite-614020-universites-mairies-sites-gouv-fr-une-faille-drupal-activement-exploitee-concerne-directement-le-service-public-francais.html)  
+*Source : clubic.com | Publication : 2026-05-25*
 
-- La Banque Arabe, sponsor stratégique de la Conférence de Palestine sur la cybersécurité et l’intelligence artificielle SadaNews - La Banque Arabe a annoncé son parrainage stratégique de la Conférence de Palestine sur la cybersécurité et l’intelligence artificielle, organisée par l’Institut de Palestine pour la Recherche en Sécurité Nationale sous le patronage du Président Mahmoud Abbas, en présence et avec la participation du Ministre de l'Économie Numérique, Dr.
-- Abdul Razak Natsheh, représentant le Premier Ministre Dr.
-- Muhammad Mustafa, ainsi que la participation de plusieurs ministres, experts et décideurs dans les domaines de la technologie, de la sécurité numérique et du secteur financier.
-- La participation de la Banque Arabe à cette conférence s'inscrit dans ses orientations visant à soutenir l'innovation et la transformation numérique, et affirme l'importance de la cybersécurité et de l’intelligence artificielle pour renforcer la préparation des institutions et leur capacité à suivre l'évolution rapide dans le monde d'aujourd'hui.
+- Drupal, le CMS de référence du secteur public, est frappé par une injection SQL critique exploitable sans authentification.
+- La CISA exige un patch avant mardi.
+- Drupal a connu deux crises majeures d'injection SQL en douze ans.
+- La première, en octobre 2014, avait gagné le surnom de « Drupalgeddon » (CVE-2014-3704).
 
-## [« La vraie faiblesse vient de nos habitudes numériques » : comment protéger nos données ...](https://www.ouest-france.fr/societe/cyberattaque/la-vraie-faiblesse-vient-de-nos-habitudes-numeriques-comment-proteger-nos-donnees-personnelles-1b3034c6-55ee-11f1-a4a7-f780c203d7d6)  
-*Source : ouest-france.fr | Publication : 2026-05-24*
+## [Numih France accélère sur l'IA, la <b>cybersécurité</b> et la … - DSIH](https://dsih.fr/videos/24/numih-france-accelere-sur-lia-la-cybersecurite-et-la-souverainete-numerique)  
+*Source : dsih.fr | Publication : 2026-05-25*
 
-- cybersécurité.
-- Mais à leur échelle, les particuliers peuvent aussi ... cybersécurité.
-- Mais à leur échelle, les particuliers peuvent aussi.
+- Numih France accélère sur l’IA, la cybersécurité et la souveraineté numérique 25 mai 2026 - 09:38, Mostafa Lassik dresse un bilan positif de cette première année.
+- Le groupement a consacré une part importante de son énergie à rapprocher les équipes et à créer rapidement des convergences entre les deux anciennes structures.
+- L’objectif consistait à faire émerger un acteur capable d’adresser l’ensemble des besoins numériques des établissements, sur les volets gestion, médical, innovation, hébergement et cybersécurité.
+- Aujourd’hui, Numih France revendique 1 208 adhérents, une présence dans 124 GHT (Groupements Hospitaliers de Territoire) sur 136 et près de 1 500 collaborateurs.
 
-## [Le hacker qui a dupé le FBI avec juste sa voix - YouTube](https://www.youtube.com/watch?v=h9nFt0fup4c)  
-*Source : youtube.com | Publication : 2026-05-24*
+## [Cyber prolétaires de tous les pays, unissez-vous !](https://www.journaldunet.com/cybersecurite/1550493-cyber-proletaires-de-tous-les-pays-unissez-vous/)  
+*Source : journaldunet.com | Publication : 2026-05-25*
 
-- Kevin Mitnick = légende #hacker # cybersécurité #fbi #viral #Shorts.
-- #hacker # cybersécurité #fbi ...more.
-- Fabio Story.
-- 9.
+- Cyber prolétaires de tous les pays, unissez-vous !.
+- Le cyber prolétaire du XXIe siècle ne sera pas privé d'usines, mais d'intelligence augmentée.
+- Pendant longtemps, l’intelligence artificielle a été présentée comme une promesse de démocratisation.
+- Chacun, du chercheur isolé au petit entrepreneur, pouvait accéder à des outils d’une puissance inédite.
 
-## [Apple et Google sont prisonniers de leur propre écosystème, nous pouvons innover librement](https://www.clubic.com/dossier-613462-interview-jolla.html)  
-*Source : clubic.com | Publication : 2026-05-24*
+## [Spatial 2026 : consolidation, LEO et <b>cybersécurité</b> en forte croissance - Le Revenu](https://www.lerevenu.com/reussir-bourse/conseils-bourse/secteur-spatial-2026-constellations-leo-cybersecurite/)  
+*Source : lerevenu.com | Publication : 2026-05-25*
 
-- Dix ans après l'aventure du premier Jolla Phone, la société finlandaise revient en force avec la même ambition : proposer une alternative européenne crédible au duopole iOS/Android.
-- Entre DMA, souveraineté numérique et services cloud respectueux de la vie privée, Jolla n'a jamais semblé aussi bien positionnée pour concrétiser cette promesse.
-- Présenté au MWC de Barcelone et attendu pour le 8 juillet, le Jolla Phone n'est pas passé inaperçu des utilisateurs européens en quête d'une alternative au duopole Android/iOS.
-- Nous avons rencontré Sami Pienimäki, PDG et cofondateur de Jolla, pour évoquer l'évolution de SailFish OS, le rôle du DMA dans l'émergence d'alternatives mobiles, et les projets de services cloud européens que le constructeur entend déployer d'ici la fin de l'année.
+- Le secteur connaît en 2026 une mutation profonde, portée par la course aux constellations LEO, l’industrialisation du spatial et l’explosion de la cybersécurité réseau.
+- La consolidation s’accélère, à l’image du rachat d’Intelsat par SES ou d’Aireon par Iridium, redéfinissant les rapports de force mondiaux.
+- Cette recomposition crée des opportunités sur la cote.
+- ….
 
-## [Renforcer la résilience des données face aux <b>ransomwares</b> : un message de Synology au ...](https://www.vietnam.vn/fr/nang-cao-kha-nang-phuc-hoi-du-lieu-truoc-ransomware-thong-diep-tu-synology-tai-vietnam-security-summit-2026)  
-*Source : vietnam.vn | Publication : 2026-05-24*
+## [Les violations de données signalées à la Cnil ont augmenté de près de 10 % depuis 2024](https://acteurspublics.fr/articles/les-violations-de-donnees-signalees-a-la-cnil-ont-augmente-de-pres-de-10-depuis-2024/)  
+*Source : acteurspublics.fr | Publication : 2026-05-25*
 
-- Le 22 mai, le 8e Sommet vietnamien sur la sécurité s'est tenu officiellement à Hanoï.
-- Organisé par l'Association nationale de cybersécurité en collaboration avec IEC Group, cet événement, l'un des plus importants forums sur la cybersécurité au Vietnam, a réuni cette année plus de 1 500 délégués de haut niveau, parmi lesquels des responsables d'agences gouvernementales centrales et locales, des représentants d'entreprises et d'organisations œuvrant dans le domaine de la sécurité de l'information, ainsi que des experts technologiques de renom du Vietnam et du monde entier.
-- Placée sous le thème de la protection de l'avenir numérique à l'ère post-quantique et de l'intelligence artificielle (IA) , la conférence a porté sur l'impact de l'IA sur les opérations commerciales, l'automatisation et la cybersécurité.
-- Outre les gains d'efficacité qu'elle offre, l'IA accroît également les risques, tels que les attaques sophistiquées, l'usurpation d'identité et les menaces pesant sur les données.
+- En 2025, la Commission nationale de l’informatique et des libertés a enregistré 6167 violations de données en France, soit les signalements faits lors de vols de données personnelles ou sensibles en ligne dans le contexte d’actes de cybermalveillance, apprend-on dans son rapport annuel.
+- Le chiffre a augmenté de 9,5 % par rapport à 2024 : sans surprise, il s’inscrit dans un contexte d’augmentation des vols de données, dont un certain nombre visent les services publics, notamment plusieurs ministères ces derniers mois.
+- Le dernier en date, survenu à l’Agence nationale des titres sécurisés, a initié au sein du gouvernement une dynamique de renforcement de la cybersécurité (lire notre article à ce sujet).
+- Pour confirmer cette dynamique, la Cnil a par ailleurs annoncé que, dès cette année, 50 % de ses contrôles et sanctions seront consacrés aux manquements en matière de cybersécurité (contre 30 % en 2025).
 
-## [Le secret derrière vos fichiers numériques : tout comprendre sur le hash ! - YouTube](https://www.youtube.com/watch?v=iEg6dtXQAoE)  
-*Source : youtube.com | Publication : 2026-05-24*
+## [Fuite de données : Mairie d'Eyguières du 25 mai 2026 - FrenchBreaches](https://frenchbreaches.com/alertes/mairie-d-eygui-res-mpkwhyq0drmqq6v2bv)  
+*Source : frenchbreaches.com | Publication : 2026-05-25*
 
-- cybersécurité #informatique #tech #données #explication.
+- Cyberattaque – La mairie d’Eyguières ciblée par le ransomware Qilin La mairie d’Eyguières, commune d’environ 7 000 habitants située dans les Alpilles, dans les Bouches-du-Rhône, est victime d’une cyberattaque ayant paralysé une partie importante de son système informatique.
+- Selon les informations révélées, l’attaque a été détectée le vendredi 22 mai et viserait directement les infrastructures électroniques utilisées par les services municipaux.
+- Le groupe cybercriminel à l’origine de l’attaque utiliserait le ransomware Qilin, un logiciel rançonneur déjà impliqué dans plusieurs attaques contre des collectivités, établissements de santé et organisations publiques.
+- Une mairie totalement paralysée L’attaque aurait provoqué une mise hors service d’une partie du système informatique communal, affectant notamment : les serveurs internes ; - les outils administratifs ; - les services numériques municipaux ; - l’accès à certaines données communales ; - les systèmes de gestion électroniques utilisés par les agents.
 
-## [Voler une voiture en moins d'une minute : ce réseau criminel a fait des ravages avec un outil ...](https://www.01net.com/actualites/voler-une-voiture-en-moins-dune-minute-ce-reseau-criminel-a-fait-des-ravages-avec-un-outil-100-legal.html)  
-*Source : 01net.com | Publication : 2026-05-24*
+## [WatchGuard renforce son offre MSP avec Perimeters.io, CloudDR et Rai - ITforBusiness.fr](https://www.itforbusiness.fr/watchguard-renforce-son-offre-msp-avec-perimeters-io-clouddr-et-rai-103905)  
+*Source : itforbusiness.fr | Publication : 2026-05-25*
 
-- Un réseau international de voleurs de voiture a été identifié aux États-Unis.
-- Opérant dans trois États différents, le réseau, composé de six voleurs, utilisait un outil de diagnostic automobile pour dérober des véhicules en moins d’une minute.
-- Grâce à cet outil, les criminels étaient en mesure de prendre le volant d’une voiture sans devoir briser la moindre vitre et sans déclencher l’alarme.
-- À lire aussi : comment des hackers ont piraté un constructeur automobile pour générer de fausses clés et voler des voitures Un outil légal détourné par les voleurs Selon les investigations menées par le FBI, les voleurs se servaient d’un appareil appelé « Autel ».
+- ChannelScope WatchGuard renforce son offre MSP avec Perimeters.io, CloudDR et Rai Par Frédéric Bergonzoli, publié le 25 mai 2026 WatchGuard annonce l’acquisition de Perimeters.io, le lancement de CloudDR et l’arrivée de Rai, une IA agentique dédiée aux fournisseurs de services managés.
+- Des évolutions qui étendent la portée des capacités de protection de l’éditeur.
+- Dans sa nouvelle feuille de route produit, WatchGuard articule sa stratégie autour de deux axes : la sécurité cloud et l’IA agentique.
+- L’éditeur a annoncé l’acquisition de Perimeters.io, spécialiste de la sécurité des applications cloud, ainsi que le lancement de Cloud Detection and Response, ou CloudDR.
 
-## [KPMG déploie Claude pour 276 000 collaborateurs - VU Magazine](https://vu-magazine.com/blog/kpmg-deploie-claude-pour-276-000-collaborateurs)  
-*Source : vu-magazine.com | Publication : 2026-05-24*
+## [<b>Cybersécurité</b> : le prestataire technique de plusieurs grandes mutuelles françaises attaqué](https://www.lerevenu.com/reussir-bourse/avis-des-pros/cybersecurite-le-prestataire-technique-de-plusieur/)  
+*Source : lerevenu.com | Publication : 2026-05-25*
 
-- KPMG déploie Claude chez ses 276 000 collaborateurs KPMG s'associe à Anthropic pour déployer le modèle Claude auprès de l'ensemble de ses 276 000 employés dans le monde.
-- L'accord couvre également son intégration dans les outils à destination des clients.
-- Le cabinet ne part pas de zéro : il capitalise sur deux ans d'expérimentation conduite aux États-Unis, notamment au sein de ses AI and Data Labs.
-- Après Space X, Claude s'installe dans les plus grande entreprise vs La Banque Postale avec Mistral AI Digital Gateway au cœur du déploiement IA Le chantier le plus structurant porte sur Digital Gateway, la plateforme interne de KPMG hébergée sur Microsoft Azure.
+- Un incident de cybersécurité a touché Almerys, un opérateur tiers-payant utilisé par plusieurs mutuelles françaises majeures, dont Alan, MGEN, Harmonie Mutuelle et AG2R La Mondiale.
+- L’attaque a entraîné un accès non autorisé à certaines données personnelles d’assurés, selon les informations communiquées par les organismes concernés.
+- ….
