@@ -1,150 +1,145 @@
-# Résumés – 2026-05-26
+# Résumés – 2026-05-27
 
 
-## [Une semaine dans le domaine de la sécurité (du 18 au 24 mai) - Malwarebytes](https://www.malwarebytes.com/fr/blog/news/2026/05/a-week-in-security-may-18-may-24)  
-*Source : malwarebytes.com | Publication : 2026-05-25*
+## [Antivirus, VPN ... cette solution a tout pour plaire et elle est gratuite - Clubic](https://www.clubic.com/bons-plans-613654-antivirus-vpn-cette-solution-a-tout-pour-plaire-et-elle-est-gratuite.html)  
+*Source : clubic.com | Publication : 2026-05-26*
 
-- La semaine dernière sur Malwarebytes Labs: Mettez Chrome à jour Chrome : des failles critiques pourraient permettre à des pirates d'exécuter du code - Des failles de Microsoft Defender sont actuellement exploitées dans la nature - TikTok, YouTube et Roblox font l'objet d'une surveillance accrue, mais les filtres d'âge ne suffiront pas à garantir la sécurité des enfants - Détectez les logiciels espions en flagrant délit grâce à la surveillance Windows - Des chercheurs ont laissé des agents IA évoluer librement dans une ville virtuelle et ont observé comment les choses se sont déroulées - Microsoft démantèle Fox Tempest, un service frauduleux de signature de logiciels malveillants - Firefox 151 intègre d'importantes améliorations en matière de confidentialité dans une mise à jour mineure - Des données biométriques, des diagnostics et des coordonnées bancaires ont été divulgués lors d'une importante violation de données dans le secteur de la santé - Facebook promet des coffrets de viande Aldi à bas prix, mais vole en réalité les informations de paiement - YouTube votre visage pour lutter contre deepfakes - Microsoft modifie le comportement Edgeconcernant les mots de passe en clair - L'IA déforme la réalité de l'Holocauste (Lock and Code, saison 7, épisode 10) - Restez en sécurité !.
-- Naviguez comme si personne ne vous regardait.
-- Malwarebytes Privacy VPN votre connexion et n'enregistre jamais vos activités, pour que le prochain article que vous lirez ne vous concerne pas personnellement.Essayez-le gratuitement →.
+- Avast One renouvelle son offre gratuite dans le but de vous proposer une véritable suite de cybersécurité modulable.
+- Découvrez dès maintenant les nouveautés à la une.
+- Avast One se veut notamment être une suite de cybersécurité particulièrement flexible, où vous choisissez vous-même les modules qui répondent à votre besoin.
+- Antivirus, performance de l’appareil, VPN, faites votre sélection selon vos besoins et évoluez vers une version plus complète d’Avast One.
 
-## [Samsung passe au 6K et au Thunderbolt 5 pour consolider son leadership - ITRmanager](https://itrmanager.com/articles/209832/samsung-passe-au-6k-et-au-thunderbolt-5-pour-consolider-son-leadership.html)  
-*Source : itrmanager.com | Publication : 2026-05-25*
+## [Le Groupe ALDO unifie la <b>cybersécurité</b> grâce à la plateforme CrowdStrike Falcon](https://www.crowdstrike.com/fr-fr/resources/customer-stories/aldo-group/)  
+*Source : crowdstrike.com | Publication : 2026-05-26*
 
-- Deniers articles.
-- DBM Partners, 10 ans de cybersécurité avec la Métropole de Bordeaux · Avec Dell PowerStore Elite, le stockage d'entreprise change.
+- Comment le Groupe ALDO bénéficie d'une visibilité complète et d'une défense compatible avec l'IA avec CrowdStrike Lorsque Richard Lee a rejoint le Groupe ALDO en tant que Director of Cybersecurity and Privacy, les défenses du géant du commerce de détail étaient basiques et fragmentées.
+- Sa petite équipe de quatre personnes était responsable de la protection de centaines de magasins dans 110 pays et de milliers de collaborateurs à travers le monde — tous avec des outils limités et sans visibilité centralisée.
+- Pour Richard Lee, « la sécurité unifiée n'était pas un désir, c'était un besoin ».
+- « Presque chaque semaine, un détaillant est victime d'une compromission.
 
-## [Services de sécurité gérés par TELUS propulsés par Google](https://www.telus.com/fr/blog/business/TELUS-Managed-SecOps-Google-security-operations)  
-*Source : telus.com | Publication : 2026-05-25*
+## [Zscaler enregistre un chiffre d'affaires trimestriel en baisse alors que la concurrence s ...](https://www.boursorama.com/bourse/actualites-amp/zscaler-enregistre-un-chiffre-d-affaires-trimestriel-en-baisse-alors-que-la-concurrence-s-intensifie-sur-le-marche-de-la-cybersecurite-58b1d91329a5ff87575716e714109f61)  
+*Source : boursorama.com | Publication : 2026-05-26*
 
-- Défense à grande échelle : Optimisation de la sécurité avec les services SecOps gérés de TELUS propulsés par Google Security Operations Cybersécurité · 25 mai 2026 Le paysage de la cybersécurité a radicalement changé et de nombreuses organisations peinent à suivre la cadence.
-- La pénurie de personnel qualifié en sécurité les empêche souvent de gérer le volume croissant de menaces, et les équipes de sécurité peuvent se retrouver submergées par des alertes faux positifs, ce qui retarde la réponse aux menaces réelles et élargit la fenêtre d'exposition, pouvant ainsi nuire gravement à l'entreprise.
-- À cela s'ajoute un écosystème d'outils de sécurité fragmenté qui manque de contexte unifié, permettant aux menaces de passer inaperçues et ralentissant les enquêtes.
-- Pour aider les organisations à naviguer parmi ces pressions opérationnelles croissantes, TELUS Affaires lancera cette année TELUS SecOps géré, un nouveau service de sécurité géré qui tire parti de Google Security Operations pour aider les organisations à prévenir, détecter et contrer les menaces.
+- Zscaler enregistre un chiffre d'affaires trimestriel en baisse alors que la concurrence s'intensifie sur le marché de la cybersécurité information fournie par Reuters 26/05/2026 à 22:36 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) Zscaler ZS.O a annoncé mardi un chiffre d'affaires pour le quatrième trimestre inférieur aux prévisions, signe d'une concurrence qui s'intensifie sur le marché de la cybersécurité alors que les entreprises examinent de près leurs dépenses en matière de produits de sécurité cloud, ce qui a entraîné une chute de 15% du cours de l'action en séance prolongée.
+- * Malgré les efforts visant à sécuriser les environnements informatiques modernes, Zscaler doit faire face à la concurrence de concurrents plus importants tels que Palo Alto Networks PANW.O , qui se disputent des parts de marché supplémentaires avec leurs propres offres de plateformes.
+- * Zscaler est principalement présent sur le marché des Secure Access Service Edge (SASE), qui combine réseau et sécurité au sein d’une plateforme unique pour connecter les utilisateurs, les appareils et les applications depuis n’importe où.
+- * Le SASE est l'un des segments de la cybersécurité qui connaît la croissance la plus rapide, alors que l'adoption du cloud, portée par l'essor de l'intelligence artificielle, continue de transformer les architectures de sécurité réseau.
 
-## [NXO installe son siège social à La Défense et ouvre un nouveau chapitre de son développement](https://infodsi.com/communiques-de-presse/48985/nxo-installe-son-siege-social-a-la-defense-et-ouvre-un-nouveau-chapitre-de-son-developpement)  
-*Source : infodsi.com | Publication : 2026-05-25*
+## [« Je me suis fait traiter de tous les noms » : l'ex-ministre Gilles Bélanger se vide le cœur sur ...](https://www.journaldequebec.com/2026/05/26/je-me-suis-fait-traiter-de-tous-les-noms---lex-ministregilles-belanger-se-vide-le-cur-sur-le-manque-daudace-du-gouvernement-pour-mettre-fin-au-bordel-informatique)  
+*Source : journaldequebec.com | Publication : 2026-05-26*
+
+- Par manque de pouvoirs, les ministres de la Cybersécurité et du Numérique sous la CAQ ont été largement ignorés par le bureau du premier ministre.
+
+## [Commvault nomme Guillaume Gamelin en tant que Country Manager France - infoDSI](https://infodsi.com/articles/209872/commvault-nomme-guillaume-gamelin-en-tant-que-country-manager-france.html)  
+*Source : infodsi.com | Publication : 2026-05-26*
 
 - Veuillez activer Javascript.
 
-## [&quot;Un cri pour la Tunisie: la liberté n'est pas un crime&quot;: piratée, l'application de Tunisie ...](https://www.bfmtv.com/tech/cybersecurite/un-cri-pour-la-tunisie-la-liberte-n-est-pas-un-crime-piratee-l-application-de-tunisie-telecom-a-diffuse-un-message-critique-du-pouvoir_AD-202605250317.html)  
-*Source : bfmtv.com | Publication : 2026-05-25*
+## [«La situation est urgente» : face à la puissance de l'IA Mythos, la BCE réunit des centaines ...](https://www.lefigaro.fr/conjoncture/la-situation-est-urgente-face-a-la-puissance-de-l-ia-mythos-la-bce-reunit-des-centaines-d-acteurs-pour-discuter-cybersecurite-20260526)  
+*Source : lefigaro.fr | Publication : 2026-05-26*
 
-- "Un cri pour la Tunisie: la liberté n'est pas un crime": piratée, l’application de Tunisie Telecom a diffusé un message critique du pouvoir Au lieu d'une offre promotionnelle, un message critique du pouvoir: à la suite d'une cyberattaque, des clients de Tunisie Telecom ont reçu, via l'application de l'opérateur public tunisien, un texte dénonçant la situation politique et économique du pays.
-- Relayé sur les réseaux sociaux et par des médias, le message, intitulé "Un cri pour la Tunisie: la liberté n'est pas un crime", fustigeait samedi un "net recul des libertés" et "une crise économique étouffante".
-- "Des promesses et des slogans, pour quel résultat?.
-- ", demandait-il.
+- «La situation est urgente» : face à la puissance de l’IA Mythos, la BCE réunit des centaines d'acteurs pour discuter cybersécurité Le dernier modèle développé par Anthropic est capable d’exploiter les vulnérabilités de n’importe quel système informatique «à une vitesse et à une échelle inédites», s’est inquiété le directeur de l’institution européenne.
+- Passer la publicité Passer la publicitéPetit vent de panique dans le secteur bancaire européen.
+- La Banque centrale européenne a réuni mardi en ligne plusieurs centaines d'acteurs publics et privés au moment où les derniers modèles d'IA tel que Mythos, développé par Anthropic, fait craindre un basculement majeur pour la cybersécurité des États et des entreprises.
+- La réunion, organisée par Frank Elderson, vice-président du Conseil de surveillance de la BCE, a rassemblé «plus de 300 participants issus des secteurs bancaire et public et d'associations représentatives dans le but de partager leurs expériences, échanger des informations disponibles et discuter de défis communs», a indiqué à l'AFP une source proche du sujet.
 
-## [&quot;Vietnam Security Summit 2026” : renforcer la protection des données personnelles](https://lecourrier.vn/vietnam-security-summit-2026-renforcer-la-protection-des-donnees-personnelles/1348086.html)  
-*Source : lecourrier.vn | Publication : 2026-05-25*
+## [<b>Cybersécurité</b> : les entreprises pilotent leur sécurité à l'aveugle - ITRnews](https://itrnews.com/articles/209857/cybersecurite-les-entreprises-pilotent-leur-securite-a-laveugle.html)  
+*Source : itrnews.com | Publication : 2026-05-26*
 
-- >> Le VNCERT annonce une fuite de données personnelles au Centre national d’information sur le crédit du Vietnam >> Les données personnelles, nouvelle “mine d’or” des cybercriminels >> Vietnam Security Summit 2026 : se préparer au monde post-quantique et post-IA Intervenant lors de la session consacrée à "La sécurité des données et de l’identité numérique : instaurer la confiance dans l’écosystème numérique", le sous-colonel Nguyên Dinh Dô Thi, chef adjoint de la Division 1 du Département de la cybersécurité et de la lutte contre la criminalité liée aux hautes technologies (A05) du ministère de la Police, a souligné que le monde considère désormais les données comme le "nouveau pétrole".
-- Au Vietnam également, elles sont perçues comme une ressource stratégique et un actif national essentiel, constituant le "système sanguin" de l’économie et de la transition numériques.
-- Garantir leur sécurité est ainsi devenu une exigence urgente et permanente.
-- Selon lui, plus de trente formes de cybercriminalité, notamment les escroqueries en ligne, exploitent les données personnelles comme une véritable "mine d’or".
+- Veuillez activer Javascript.
 
-## [«L'IA remodèle fondamentalement le secteur de la <b>cybersécurité</b>» : les fuites de données ...](https://www.usinenouvelle.com/technos-et-innovations/ia/lia-remodele-fondamentalement-le-secteur-de-la-cybersecurite-les-fuites-de-donnees-liees-a-lia-en-forte-hausse-selon-un-rapport-de-verizon.U7L7DSSLS5FP7FXMOC7YWILVBE.html)  
-*Source : usinenouvelle.com | Publication : 2026-05-25*
+## [<b>Cybersécurité</b> : les entreprises pilotent leur sécurité à l'aveugle - ITRmanager](https://itrmanager.com/articles/209857/cybersecurite-les-entreprises-pilotent-leur-securite-a-laveugle.html)  
+*Source : itrmanager.com | Publication : 2026-05-26*
 
-- Il faut combattre les menaces cyber liées à l'IA par l'IA, jugent les spécialistes de Verizon.
-- Les pirates informatiques ont de plus en plus.
+- Les budgets cybersécurité augmentent.
+- Les outils se multiplient.
+- Pourtant, une majorité d'entreprises ne vérifient toujours pas si leurs mesures de.
 
-## [Thales remporte un contrat pour moderniser les quatre frégates Hydra de la marine grecque](https://investir.lesechos.fr/actu-des-valeurs/la-vie-des-actions/thales-remporte-un-contrat-pour-moderniser-les-quatre-fregates-hydra-de-la-marine-grecque-2233266)  
-*Source : investir.lesechos.fr | Publication : 2026-05-25*
+## [<b>Cybersécurité</b>: la BCE mobilise des centaines d'acteurs face au modèle d'IA Mythos](https://www.mediapart.fr/journal/fil-dactualites/260526/cybersecurite-la-bce-mobilise-des-centaines-d-acteurs-face-au-modele-d-ia-mythos)  
+*Source : mediapart.fr | Publication : 2026-05-26*
 
-- Il comprend des capteurs et des systèmes de gestion de combat qui répondent à des normes de cybersécurité élevées.
-- Le radar numérique NS100, doté.
+- La Banque centrale européenne a réuni mardi en ligne plusieurs centaines d’acteurs publics et privés au moment où les derniers modèles d’IA tel que Mythos, développé par Anthropic, fait craindre un basculement majeur pour la cybersécurité des États et des entreprises.
+- Depuis le 29 juin 2025, notre confrère Christophe Gleizes, journaliste pour Society et So Foot, est emprisonné en Algérie.
+- Nous ne l’oublions pas et réclamons sa libération.
 
-## [Un VPN très apprécié des cybercriminels démantelé lors d'une vaste opération internationale](https://www.frandroid.com/services/vpn/3111063_un-vpn-tres-apprecie-des-cybercriminels-demantele-lors-dune-vaste-operation-internationale)  
-*Source : frandroid.com | Publication : 2026-05-25*
+## [<b>Cybersécurité</b>: la BCE mobilise des centaines d'acteurs face au modèle d'IA Mythos](https://fr.tradingview.com/news/afp:62a1e8b89affa:0/)  
+*Source : fr.tradingview.com | Publication : 2026-05-26*
 
-- Un VPN, ça sert entre autres à anonymiser le trafic internet.
-- Dans certains pays où la censure du Web est féroce, c’est une nécessité pour certaines personnes comme les journalistes.
-- Mais pas que.
-- Les cybercriminels aussi ont tout intérêt à ce qu’on ne puisse pas remonter jusqu’à eux lorsqu’ils s’adonnent à leurs activités.
+- Cybersécurité: la BCE mobilise des centaines d'acteurs face au modèle d'IA Mythos La Banque centrale européenne a réuni mardi en ligne plusieurs centaines d'acteurs publics et privés au moment où les derniers modèles d'IA tel que Mythos, développé par Anthropic, fait craindre un basculement majeur pour la cybersécurité des États et des entreprises.
+- La réunion, organisée par Frank Elderson, vice-président du Conseil de surveillance de la BCE, a rassemblé "plus de 300 participants issus des secteurs bancaire et public et d'associations représentatives dans le but de partager leurs expériences, échanger des informations disponibles et discuter de défis communs", a indiqué à l'AFP une source proche du sujet.
+- Elle a par ailleurs "contribué à sensibiliser les acteurs et à soutenir la préparation de plans d'action.
+- Ce dialogue se poursuivra, compte tenu de l'importance du partage d'informations et des actions collaboratives sur ce sujet", a ajouté cette source.
 
-## [Noms de domaine : quatre mois pour obtenir son extension web.marque](https://www.latribune.fr/article/tech/2579386920166314/noms-de-domaine-quatre-mois-pour-obtenir-son-extension-web-marque)  
-*Source : latribune.fr | Publication : 2026-05-25*
+## [L'adoption de l'IA est en hausse, mais la gouvernance des agents est en retard dans les ...](https://itsocial.fr/cybersecurite/cybersecurite-articles/ladoption-de-lia-est-en-hausse-mais-la-gouvernance-des-agents-est-en-retard-dans-les-organisations/)  
+*Source : itsocial.fr | Publication : 2026-05-26*
 
-- Noms de domaine : quatre mois pour obtenir son extension web.marque latribune.fr Ce contenu est réservé aux abonnés La Tribune Les grandes entreprises s'activent face à la rareté des extensions internet en .marque.
-- Un arbitrage stratégique à plusieurs centaines de milliers de dollars pour sécuriser leur identité numérique.
-- Image générée par Gemini/Nano Banana.
+- Soixante-dix-sept pour cent des piles de sécurité intègrent désormais de l'IA générative, mais seuls quatorze pour cent des professionnels de la cybersécurité autorisent cette IA à prendre des actions autonomes sans validation humaine.
+- Le rapport annuel State of AI Cybersecurity 2026 de Darktrace, conduit auprès de 1 540 responsables de la sécurité dans quatorze pays, mesure l'écart entre adoption et confiance dans l'IA défensive, et documente les nouvelles vulnérabilités que l'IA offensive et agentique introduit dans les organisations.
+- L'adoption de l'IA dans les environnements de production a atteint une masse critique.
+- Selon McKinsey, soixante-dix-huit pour cent des organisations utilisent l'IA générative dans au moins une fonction métier.
 
-## [Loire. <b>Cybersécurité</b> : cette entreprise propose de se mettre dans la peau d'un pirate informatique](https://www.leprogres.fr/economie/2026/05/25/cette-entreprise-propose-de-se-mettre-dans-la-peau-d-un-pirate-informatique)  
-*Source : leprogres.fr | Publication : 2026-05-25*
+## [<b>Cybersécurité</b>: Google a commis une énorme bourde - Watson](https://www.watson.ch/fr/international/technologie/251972919-cybersecurite-google-a-commis-une-enorme-bourde)  
+*Source : watson.ch | Publication : 2026-05-26*
 
-- Loire Cybersécurité : cette entreprise propose de se mettre dans la peau d’un pirate informatique Chez GoodEnough, les salariés ne sont pas toujours au top en matière de cybersécurité.
-- Certains continuent par exemple d’utiliser le même mot de passe pour tous leurs comptes et applications, ou ont choisi le prénom de leur petite dernière ou leur date d’anniversaire de mariage… Bref, une entreprise presque comme les autres.
-- À ceci près tout de même que, malgré sa présence sur les réseaux sociaux, elle est complètement fictive… Elle est en réalité le point de départ des scenarii mis au point par la jeune entreprise stéphanoise Ovide pour sensibiliser les salariés d’une organisation à la cybersécurité.
-- « Dans la cybersécurité, la plupart des collaborateurs n’ont pas besoin de tout.
+- Une erreur de Google menace des millions d'utilisateurs Google a involontairement publié du code permettant d'exploiter une faille de sécurité connue depuis fin 2022 dans de nombreux navigateurs web.
+- Les données sensibles circulent encore sur Internet, bien que Google ait entre-temps retiré les informations de ses pages.
+- Sont concernés tous les navigateurs construits sur la base de code du projet Chromium de Google.
+- Parmi eux: Google Chrome, - Microsoft Edge, - Brave, - Opera, - Vivaldi - Arc.
 
-## [15 millions de numéros de sécurité sociale piratés : Almerys est victime d'une nouvelle fuite ...](https://www.01net.com/actualites/15-millions-de-numeros-de-securite-sociale-pirates-almerys-est-victime-dune-nouvelle-fuite-de-donnees.html)  
-*Source : 01net.com | Publication : 2026-05-25*
+## [Windows 11 et expiration des certificats Secure Boot, ce qui attend vraiment les PC en retard - Clubic](https://www.clubic.com/actualite-614185-windows-11-et-expiration-des-certificats-secure-boot-ce-qui-attend-vraiment-les-pc-en-retard.html)  
+*Source : clubic.com | Publication : 2026-05-26*
 
-- Almerys est une société spécialisée dans la gestion du tiers payant pour de nombreuses complémentaires santé en France.
-- La plateforme agit comme intermédiaire entre les mutuelles, les assurances santé, les professionnels de santé et les patients, au moment du remboursement.
-- Alan est l’une de ces assurances santé.
-- La plateforme Almerys a été victime d’une importante cyberattaque : certaines données des clients de l’assureur Alan sont de facto concernées.
+- À un mois de l’expiration des premiers certificats Secure Boot historiques, Microsoft écarte le scénario du PC Windows 11 soudain inutilisable.
+- Les machines en retard continueront de démarrer, mais leur sécurité au niveau du boot risque peu à peu de décrocher.
+- Non, les PC Windows 11 qui n’auront pas reçu les nouveaux certificats Secure Boot d’ici juin 2026 ne s’éteindront pas dans un grand moment de panique firmware.
+- Microsoft l’a confirmé à plusieurs reprises lors de ses sessions Ask Microsoft Anything consacrées au renouvellement des certificats Secure Boot, puis dans sa documentation officielle.
 
-## [une faille Drupal activement exploitée concerne directement le service public français - Clubic](https://www.clubic.com/actualite-614020-universites-mairies-sites-gouv-fr-une-faille-drupal-activement-exploitee-concerne-directement-le-service-public-francais.html)  
-*Source : clubic.com | Publication : 2026-05-25*
+## [Banal et pourtant dangereux : ce câble USB renferme un terrible piège - Futura](https://www.futura-sciences.com/tech/actualites/cybersecurite-banal-pourtant-dangereux-ce-cable-usb-renferme-terrible-piege-134780/)  
+*Source : futura-sciences.com | Publication : 2026-05-26*
 
-- Drupal, le CMS de référence du secteur public, est frappé par une injection SQL critique exploitable sans authentification.
-- La CISA exige un patch avant mardi.
-- Drupal a connu deux crises majeures d'injection SQL en douze ans.
-- La première, en octobre 2014, avait gagné le surnom de « Drupalgeddon » (CVE-2014-3704).
+- Il existe un certain nombre de produits sur le marché clairement destinés au piratage.
+- Ils ne s'échangent pas en secret sur le dark web, mais se vendent au grand jour, comme le Flipper Zero.
+- Tout est une question de marketing, et ce genre de produit est généralement proposé comme un outil pour les bricoleurs et les chercheurs en cybersécurité.
+- Dans la même lignée, voici un câble USB.
 
-## [Numih France accélère sur l'IA, la <b>cybersécurité</b> et la … - DSIH](https://dsih.fr/videos/24/numih-france-accelere-sur-lia-la-cybersecurite-et-la-souverainete-numerique)  
-*Source : dsih.fr | Publication : 2026-05-25*
+## [L'Iran rétablit partiellement l'accès à internet après une coupure de trois mois - France 24](https://www.france24.com/fr/info-en-continu/20260526-l-iran-rétablit-partiellement-l-accès-à-internet-après-une-coupure-de-trois-mois)  
+*Source : france24.com | Publication : 2026-05-26*
 
-- Numih France accélère sur l’IA, la cybersécurité et la souveraineté numérique 25 mai 2026 - 09:38, Mostafa Lassik dresse un bilan positif de cette première année.
-- Le groupement a consacré une part importante de son énergie à rapprocher les équipes et à créer rapidement des convergences entre les deux anciennes structures.
-- L’objectif consistait à faire émerger un acteur capable d’adresser l’ensemble des besoins numériques des établissements, sur les volets gestion, médical, innovation, hébergement et cybersécurité.
-- Aujourd’hui, Numih France revendique 1 208 adhérents, une présence dans 124 GHT (Groupements Hospitaliers de Territoire) sur 136 et près de 1 500 collaborateurs.
+- En Iran, l'accès à Internet partiellement rétabli après trois mois de coupure L'Iran a annoncé mardi de premières mesures visant à rétablir l'accès à Internet pour ses habitants après une coupure quasi-totale depuis le début de la guerre avec les États-Unis et Israël, le 28 février.
+- La population n'avait accès qu'à l'intranet local, qui permet de se connecter à des sites nationaux, des services bancaires ou des applications approuvées par l'État.
+- Publié le : Modifié le : L'accès à Internet en Iran a été partiellement rétabli, mardi 26 mai, après une coupure quasi-totale de près de trois mois en raison de la guerre, déclenchée le 28 février par l'attaque israélo-américaine.
+- "Les données en temps réel montrent un rétablissement partiel de la connectivité en Iran (...) après 2 093 heures d'isolement quasi total des réseaux internationaux", un record à l'échelle d'un pays, a d'abord annoncé l'ONG de surveillance de la cybersécurité NetBlocks.
 
-## [Cyber prolétaires de tous les pays, unissez-vous !](https://www.journaldunet.com/cybersecurite/1550493-cyber-proletaires-de-tous-les-pays-unissez-vous/)  
-*Source : journaldunet.com | Publication : 2026-05-25*
+## [L'Iran rétablit partiellement l'accès à internet après une coupure de trois mois - Orange Actu](https://actu.orange.fr/monde/l-iran-retablit-partiellement-l-acces-a-internet-apres-une-coupure-de-trois-mois-CNT000002pBt13.html)  
+*Source : actu.orange.fr | Publication : 2026-05-26*
 
-- Cyber prolétaires de tous les pays, unissez-vous !.
-- Le cyber prolétaire du XXIe siècle ne sera pas privé d'usines, mais d'intelligence augmentée.
-- Pendant longtemps, l’intelligence artificielle a été présentée comme une promesse de démocratisation.
-- Chacun, du chercheur isolé au petit entrepreneur, pouvait accéder à des outils d’une puissance inédite.
+- L'Iran rétablit partiellement l'accès à internet après une coupure de trois mois © ATTA KENARE, AFP - Une femme consulte sur son mobile un message du guide suprême iranien Mojtaba Khamenei, le 26 mai 2026 à Téhéran L'accès à internet en Iran a été partiellement rétabli mardi après une coupure quasi-totale de près de trois mois en raison de la guerre, déclenchée le 28 février par l'attaque israélo-américaine.
+- "Les données en temps réel montrent un rétablissement partiel de la connectivité en Iran (...) après 2.093 heures d'isolement quasi total des réseaux internationaux", un record à l'échelle d'un pays, a d'abord annoncé l'ONG de surveillance de la cybersécurité NetBlocks.
+- "La première étape vers un accès libre et régulé au cyberespace a été franchie", a ensuite indiqué le vice-président iranien Mohammad Reza Aref dans un message publié sur X, ajoutant qu'avec cette mesure, les demandes des Iraniens "seront satisfaites".
+- "Depuis quelques minutes, je peux ouvrir des sites internet internationaux avec mon fournisseur d'accès", a déclaré à l'AFP une habitante de 22 ans de la ville occidentale de Kermanshah, ajoutant qu'elle avait toutefois toujours besoin de VPN (réseau privé virtuel) pour accéder aux réseaux sociaux.
 
-## [Spatial 2026 : consolidation, LEO et <b>cybersécurité</b> en forte croissance - Le Revenu](https://www.lerevenu.com/reussir-bourse/conseils-bourse/secteur-spatial-2026-constellations-leo-cybersecurite/)  
-*Source : lerevenu.com | Publication : 2026-05-25*
+## [Cyberattaques russes en Europe : les Pays-Bas débranchent plus de 800 serveurs utilisés ...](https://www.01net.com/actualites/cyberattaques-russes-en-europe-les-pays-bas-debranchent-plus-de-800-serveurs-utilises-par-les-pirates.html)  
+*Source : 01net.com | Publication : 2026-05-26*
 
-- Le secteur connaît en 2026 une mutation profonde, portée par la course aux constellations LEO, l’industrialisation du spatial et l’explosion de la cybersécurité réseau.
-- La consolidation s’accélère, à l’image du rachat d’Intelsat par SES ou d’Aireon par Iridium, redéfinissant les rapports de force mondiaux.
-- Cette recomposition crée des opportunités sur la cote.
-- ….
+- Le 18 mai 2026, le service néerlandais chargé de la répression de la criminalité financière a interpellé deux individus.
+- Les deux suspects sont accusés d’avoir fourni, directement ou indirectement, des ressources économiques à des entités russes et biélorusses soumises à des sanctions de l’Union européenne.
+- Les investigations concernent surtout une société d’hébergement web.
+- Celle-ci a vu le jour le 10 février 2022, soit deux semaines à peine avant le début de l’invasion russe en Ukraine.
 
-## [Les violations de données signalées à la Cnil ont augmenté de près de 10 % depuis 2024](https://acteurspublics.fr/articles/les-violations-de-donnees-signalees-a-la-cnil-ont-augmente-de-pres-de-10-depuis-2024/)  
-*Source : acteurspublics.fr | Publication : 2026-05-25*
+## [L'ESILV renforce son engagement stratégique dans l'aérospatial, la défense et la ... - Mer et Marine](https://www.meretmarine.com/fr/defense/l-esilv-renforce-son-engagement-strategique-dans-l-aerospatial-la-defense-et-la-souverainete)  
+*Source : meretmarine.com | Publication : 2026-05-26*
 
-- En 2025, la Commission nationale de l’informatique et des libertés a enregistré 6167 violations de données en France, soit les signalements faits lors de vols de données personnelles ou sensibles en ligne dans le contexte d’actes de cybermalveillance, apprend-on dans son rapport annuel.
-- Le chiffre a augmenté de 9,5 % par rapport à 2024 : sans surprise, il s’inscrit dans un contexte d’augmentation des vols de données, dont un certain nombre visent les services publics, notamment plusieurs ministères ces derniers mois.
-- Le dernier en date, survenu à l’Agence nationale des titres sécurisés, a initié au sein du gouvernement une dynamique de renforcement de la cybersécurité (lire notre article à ce sujet).
-- Pour confirmer cette dynamique, la Cnil a par ailleurs annoncé que, dès cette année, 50 % de ses contrôles et sanctions seront consacrés aux manquements en matière de cybersécurité (contre 30 % en 2025).
+- Communiqué de presse de l'ESILV (Ecole Supérieure d’Ingénieurs Léonard de Vinci), Paris, 26/05/26 : Face aux transformations géopolitiques, technologiques et industrielles qui redéfinissent les secteurs de la défense, du spatial et du numérique, l’ESILV annonce le renforcement de son offre pédagogique avec deux dispositifs stratégiques : la création de la Majeure Aérospatial & Défense et le lancement du nouveau parcours d’excellence Digital Sovereignty & Defense.
+- Ces formations, accessibles aux élèves ingénieurs de 4e et 5e année, répondent aux besoins croissants des entreprises et des institutions en matière d’ingénierie aérospatiale, de cybersécurité, de résilience numérique et de souveraineté technologique.
+- Aérospatial & Défense : un parcours qui devient une majeure Lancé à la rentrée 2025-2026, le parcours Aerospace & Defense a rencontré un fort succès auprès des élèves-ingénieurs avec plus de 90 inscrits dès cette première année.
+- Fort de cette dynamique, et grâce à un partenariat renforcé avec l’ESA (Agence spatiale européenne), l’ESILV fait évoluer ce cursus vers une majeure à part entière.
 
-## [Fuite de données : Mairie d'Eyguières du 25 mai 2026 - FrenchBreaches](https://frenchbreaches.com/alertes/mairie-d-eygui-res-mpkwhyq0drmqq6v2bv)  
-*Source : frenchbreaches.com | Publication : 2026-05-25*
+## [Faux billets, contrefaçons, vol de données… Les arnaques autour de la Coupe du monde se ...](https://www.ouest-france.fr/sport/coupe-du-monde/faux-billets-contrefacons-vol-de-donnees-les-arnaques-autour-de-la-coupe-du-monde-se-multiplient-7b18e0b4-590d-11f1-85b1-345c98c474fd)  
+*Source : ouest-france.fr | Publication : 2026-05-26*
 
-- Cyberattaque – La mairie d’Eyguières ciblée par le ransomware Qilin La mairie d’Eyguières, commune d’environ 7 000 habitants située dans les Alpilles, dans les Bouches-du-Rhône, est victime d’une cyberattaque ayant paralysé une partie importante de son système informatique.
-- Selon les informations révélées, l’attaque a été détectée le vendredi 22 mai et viserait directement les infrastructures électroniques utilisées par les services municipaux.
-- Le groupe cybercriminel à l’origine de l’attaque utiliserait le ransomware Qilin, un logiciel rançonneur déjà impliqué dans plusieurs attaques contre des collectivités, établissements de santé et organisations publiques.
-- Une mairie totalement paralysée L’attaque aurait provoqué une mise hors service d’une partie du système informatique communal, affectant notamment : les serveurs internes ; - les outils administratifs ; - les services numériques municipaux ; - l’accès à certaines données communales ; - les systèmes de gestion électroniques utilisés par les agents.
+- Les entreprises spécialisées en cybersécurité Check Point et Kaspersky ont notamment relevé une forte hausse du nombre de domaines suspects ou.
 
-## [WatchGuard renforce son offre MSP avec Perimeters.io, CloudDR et Rai - ITforBusiness.fr](https://www.itforbusiness.fr/watchguard-renforce-son-offre-msp-avec-perimeters-io-clouddr-et-rai-103905)  
-*Source : itforbusiness.fr | Publication : 2026-05-25*
+## [La BCE mobilise les banques face au risque cyber lié à l'IA | Allnews](https://www.allnews.ch/content/news/la-bce-mobilise-les-banques-face-au-risque-cyber-lié-à-l’ia)  
+*Source : allnews.ch | Publication : 2026-05-26*
 
-- ChannelScope WatchGuard renforce son offre MSP avec Perimeters.io, CloudDR et Rai Par Frédéric Bergonzoli, publié le 25 mai 2026 WatchGuard annonce l’acquisition de Perimeters.io, le lancement de CloudDR et l’arrivée de Rai, une IA agentique dédiée aux fournisseurs de services managés.
-- Des évolutions qui étendent la portée des capacités de protection de l’éditeur.
-- Dans sa nouvelle feuille de route produit, WatchGuard articule sa stratégie autour de deux axes : la sécurité cloud et l’IA agentique.
-- L’éditeur a annoncé l’acquisition de Perimeters.io, spécialiste de la sécurité des applications cloud, ainsi que le lancement de Cloud Detection and Response, ou CloudDR.
-
-## [<b>Cybersécurité</b> : le prestataire technique de plusieurs grandes mutuelles françaises attaqué](https://www.lerevenu.com/reussir-bourse/avis-des-pros/cybersecurite-le-prestataire-technique-de-plusieur/)  
-*Source : lerevenu.com | Publication : 2026-05-25*
-
-- Un incident de cybersécurité a touché Almerys, un opérateur tiers-payant utilisé par plusieurs mutuelles françaises majeures, dont Alan, MGEN, Harmonie Mutuelle et AG2R La Mondiale.
-- L’attaque a entraîné un accès non autorisé à certaines données personnelles d’assurés, selon les informations communiquées par les organismes concernés.
-- ….
+- Au coeur du débat, un modèle d'IA développé par la start-up américaine Anthropic, Mythos, utilisé dans un projet de cybersécurité accessible pour.
