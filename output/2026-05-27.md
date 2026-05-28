@@ -1,145 +1,152 @@
 # Résumés – 2026-05-27
 
 
-## [Antivirus, VPN ... cette solution a tout pour plaire et elle est gratuite - Clubic](https://www.clubic.com/bons-plans-613654-antivirus-vpn-cette-solution-a-tout-pour-plaire-et-elle-est-gratuite.html)  
-*Source : clubic.com | Publication : 2026-05-26*
+## [IA et <b>cybersécurité</b> : Hadrian publie OpenHack en open source - GoodTech.info](https://goodtech.info/hadrian-open-source-openhack-ia-vulnerabilites-cybersecurite/)  
+*Source : goodtech.info | Publication : 2026-05-27*
 
-- Avast One renouvelle son offre gratuite dans le but de vous proposer une véritable suite de cybersécurité modulable.
-- Découvrez dès maintenant les nouveautés à la une.
-- Avast One se veut notamment être une suite de cybersécurité particulièrement flexible, où vous choisissez vous-même les modules qui répondent à votre besoin.
-- Antivirus, performance de l’appareil, VPN, faites votre sélection selon vos besoins et évoluez vers une version plus complète d’Avast One.
+- Jusqu’à présent, l’utilisation d’assistants IA pour débusquer des failles de sécurité oscillait entre la curiosité de laboratoire et le script artisanal, souvent sujet aux hallucinations.
+- Pour standardiser ces pratiques et armer les défenseurs avec les mêmes outils que les attaquants, la société de cybersécurité amsterdamoise Hadrian a annoncé la mise à disposition gratuite et en open source de OpenHack sous licence permissive MIT.
+- Ce projet, accessible directement sur le GitHub d’OpenHack, transpose la méthodologie interne de découverte de vulnérabilités de l’entreprise dans un outil accessible à l’ensemble de la communauté de la sécurité informatique.
+- Résoudre le double échec des IA de codage traditionnelles L’intégration brute des LLM dans la révision de code se heurte généralement à deux écueils majeurs que l’architecture d’OpenHack s’efforce de corriger : Les prompts non ciblés : les requêtes trop globales qui demandent simplement à une IA de « trouver des bugs » produisent des résultats dilués, superficiels et peu fiables.
 
-## [Le Groupe ALDO unifie la <b>cybersécurité</b> grâce à la plateforme CrowdStrike Falcon](https://www.crowdstrike.com/fr-fr/resources/customer-stories/aldo-group/)  
-*Source : crowdstrike.com | Publication : 2026-05-26*
+## [Dans une grande entreprise, une interruption de service coûte 13000 &amp;euro; par minute](https://www.cio-online.com/actualites/lire-dans-une-grande-entreprise-une-interruption-de-service-coute-13000-eteuro-par-minute-17049.html)  
+*Source : cio-online.com | Publication : 2026-05-27*
 
-- Comment le Groupe ALDO bénéficie d'une visibilité complète et d'une défense compatible avec l'IA avec CrowdStrike Lorsque Richard Lee a rejoint le Groupe ALDO en tant que Director of Cybersecurity and Privacy, les défenses du géant du commerce de détail étaient basiques et fragmentées.
-- Sa petite équipe de quatre personnes était responsable de la protection de centaines de magasins dans 110 pays et de milliers de collaborateurs à travers le monde — tous avec des outils limités et sans visibilité centralisée.
-- Pour Richard Lee, « la sécurité unifiée n'était pas un désir, c'était un besoin ».
-- « Presque chaque semaine, un détaillant est victime d'une compromission.
+- Dans une grande entreprise, une interruption de service coûte 13000 € par minute Les interruptions de service ne sont plus de simples incidents techniques.
+- Selon une étude menée pour Splunk par Oxford Economics, les entreprises du Global 2000 subissent désormais en moyenne 60 incidents d'indisponibilité par an, pour un coût global estimé à 600 Md$ (517 Md€).
+- Une hausse de 50% en seulement deux ans, portée par l'explosion des cyberattaques, le durcissement réglementaire et la dépendance croissante aux infrastructures numériques et aux services tiers.
+- PublicitéDes pertes financières immédiates jusqu'aux conséquences réputationnelles et boursières, les temps d'arrêt sur les systèmes d'information touchent désormais l'ensemble des entreprises.
 
-## [Zscaler enregistre un chiffre d'affaires trimestriel en baisse alors que la concurrence s ...](https://www.boursorama.com/bourse/actualites-amp/zscaler-enregistre-un-chiffre-d-affaires-trimestriel-en-baisse-alors-que-la-concurrence-s-intensifie-sur-le-marche-de-la-cybersecurite-58b1d91329a5ff87575716e714109f61)  
-*Source : boursorama.com | Publication : 2026-05-26*
+## [L'inventaire des dispositifs et la cartographie des données de santé protégées seront les ...](https://health-isac.org/fr/L'inventaire-des-appareils-et-la-cartographie-PHI-seront-les-tâches-les-plus-ardues-lors-de-l'entrée-en-vigueur-de-la-nouvelle-loi-HIPAA./)  
+*Source : health-isac.org | Publication : 2026-05-27*
 
-- Zscaler enregistre un chiffre d'affaires trimestriel en baisse alors que la concurrence s'intensifie sur le marché de la cybersécurité information fournie par Reuters 26/05/2026 à 22:36 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) Zscaler ZS.O a annoncé mardi un chiffre d'affaires pour le quatrième trimestre inférieur aux prévisions, signe d'une concurrence qui s'intensifie sur le marché de la cybersécurité alors que les entreprises examinent de près leurs dépenses en matière de produits de sécurité cloud, ce qui a entraîné une chute de 15% du cours de l'action en séance prolongée.
-- * Malgré les efforts visant à sécuriser les environnements informatiques modernes, Zscaler doit faire face à la concurrence de concurrents plus importants tels que Palo Alto Networks PANW.O , qui se disputent des parts de marché supplémentaires avec leurs propres offres de plateformes.
-- * Zscaler est principalement présent sur le marché des Secure Access Service Edge (SASE), qui combine réseau et sécurité au sein d’une plateforme unique pour connecter les utilisateurs, les appareils et les applications depuis n’importe où.
-- * Le SASE est l'un des segments de la cybersécurité qui connaît la croissance la plus rapide, alors que l'adoption du cloud, portée par l'essor de l'intelligence artificielle, continue de transformer les architectures de sécurité réseau.
+- L’inventaire des dispositifs et la cartographie des données de santé protégées seront les tâches les plus ardues lors de l’entrée en vigueur des nouvelles normes HIPAA.
+- Selon Englert de Health-ISAC, l'inventaire des dispositifs et la cartographie des données de santé protégées seront les tâches les plus ardues lors de l'entrée en vigueur des nouvelles lois HIPAA.
+- Deux exigences de la loi HIPAA devraient poser le plus de défis aux RSSI du secteur de la santé : l’inventaire des dispositifs et la cartographie des données de santé protégées.
+- Ces deux éléments seront intégrés à la mise à jour des règles de sécurité prévue plus tard cette année.
 
-## [« Je me suis fait traiter de tous les noms » : l'ex-ministre Gilles Bélanger se vide le cœur sur ...](https://www.journaldequebec.com/2026/05/26/je-me-suis-fait-traiter-de-tous-les-noms---lex-ministregilles-belanger-se-vide-le-cur-sur-le-manque-daudace-du-gouvernement-pour-mettre-fin-au-bordel-informatique)  
-*Source : journaldequebec.com | Publication : 2026-05-26*
+## [Les actions de <b>cybersécurité</b> chutent après le lancement de la plateforme IA de Google](https://fr.investing.com/news/stock-market-news/les-actions-de-cybersecurite-chutent-apres-le-lancement-de-la-plateforme-ia-de-google-3436787)  
+*Source : fr.investing.com | Publication : 2026-05-27*
 
-- Par manque de pouvoirs, les ministres de la Cybersécurité et du Numérique sous la CAQ ont été largement ignorés par le bureau du premier ministre.
+- cybersécurité complète alimentée par l'IA, conçue pour détecter et neutraliser de manière autonome les menaces de sécurité.
+- Palo Alto Networks Inc.
 
-## [Commvault nomme Guillaume Gamelin en tant que Country Manager France - infoDSI](https://infodsi.com/articles/209872/commvault-nomme-guillaume-gamelin-en-tant-que-country-manager-france.html)  
-*Source : infodsi.com | Publication : 2026-05-26*
+## [Protéger les données à l'ère de l'informatique quantique | Gouvernement du Québec](https://www.quebec.ca/securite-situations-urgence/cybersecurite/proteger-donnees-informatique-quantique)  
+*Source : quebec.ca | Publication : 2026-05-27*
 
-- Veuillez activer Javascript.
+- Les technologies évoluent rapidement.
+- Parmi elles, l’informatique quantique pourrait, à long terme, transformer la façon de protéger l’information numérique.
+- Le gouvernement du Québec agit dès maintenant pour protéger les données et les services numériques, aujourd’hui et pour l’avenir.
+- L’informatique quantique est une nouvelle génération d’ordinateurs.
 
-## [«La situation est urgente» : face à la puissance de l'IA Mythos, la BCE réunit des centaines ...](https://www.lefigaro.fr/conjoncture/la-situation-est-urgente-face-a-la-puissance-de-l-ia-mythos-la-bce-reunit-des-centaines-d-acteurs-pour-discuter-cybersecurite-20260526)  
-*Source : lefigaro.fr | Publication : 2026-05-26*
+## [10 000 failles en un mois : Anthropic dévoile le premier bilan de Claude Mythos - 01net.com](https://www.01net.com/actualites/10-000-failles-mois-anthropic-devoile-premier-bilan-claude-mythos.html)  
+*Source : 01net.com | Publication : 2026-05-27*
 
-- «La situation est urgente» : face à la puissance de l’IA Mythos, la BCE réunit des centaines d'acteurs pour discuter cybersécurité Le dernier modèle développé par Anthropic est capable d’exploiter les vulnérabilités de n’importe quel système informatique «à une vitesse et à une échelle inédites», s’est inquiété le directeur de l’institution européenne.
-- Passer la publicité Passer la publicitéPetit vent de panique dans le secteur bancaire européen.
-- La Banque centrale européenne a réuni mardi en ligne plusieurs centaines d'acteurs publics et privés au moment où les derniers modèles d'IA tel que Mythos, développé par Anthropic, fait craindre un basculement majeur pour la cybersécurité des États et des entreprises.
-- La réunion, organisée par Frank Elderson, vice-président du Conseil de surveillance de la BCE, a rassemblé «plus de 300 participants issus des secteurs bancaire et public et d'associations représentatives dans le but de partager leurs expériences, échanger des informations disponibles et discuter de défis communs», a indiqué à l'AFP une source proche du sujet.
+- Il y a un mois, Anthropic a dévoilé Claude Mythos, un modèle d’IA conçu pour identifier des failles de sécurité dans les logiciels.
+- L’IA a rapidement montré qu’elle était aussi capable de mettre au point des méthodes d’exploitation sur base des vulnérabilités débusquées.
+- Face aux risques d’usage malveillant, Anthropic a choisi de ne pas rendre Mythos accessible au grand public.
+- Pour l’heure, seuls une cinquantaine de partenaires triés sur le volet ont accès à cet outil.
 
-## [<b>Cybersécurité</b> : les entreprises pilotent leur sécurité à l'aveugle - ITRnews](https://itrnews.com/articles/209857/cybersecurite-les-entreprises-pilotent-leur-securite-a-laveugle.html)  
-*Source : itrnews.com | Publication : 2026-05-26*
+## [Analyse de risque chiffrement et cryptographie - ANSSI](https://cyber.gouv.fr/nous-connaitre/publications/analyse-de-risque-sectorielle-et-technique/analyse-de-risque-chiffrement-et-cryptographie/)  
+*Source : cyber.gouv.fr | Publication : 2026-05-27*
 
-- Veuillez activer Javascript.
+- Analyse de risque chiffrement et cryptographie Publié le mercredi 27 mai 2026 L’arrivée d’un ordinateur quantique représente une menace considérable pour l’ensemble des organisations de tous secteurs confondus.
+- Pourtant, trop peu d’entre elles mesurent l’urgence de s’y préparer, notamment en engageant une transition vers une cryptographie post-quantique (PQC).
+- L’écosystème cyber fait face à un double enjeu sur ce sujet : Sensibiliser les organisations pour qu’elles lancent sans tarder leur migration vers des solutions résistantes aux attaques quantiques ; - Amplifier l’offre du marché en garantissant la disponibilité de produits compatibles avec la cryptographie post-quantique.
+- - Cette analyse de risque de haut niveau sur le chiffrement et autres usages de la cryptographie s’adresse aux entités utilisatrices de solutions cryptographiques, mais non spécialistes du domaine.
 
-## [<b>Cybersécurité</b> : les entreprises pilotent leur sécurité à l'aveugle - ITRmanager](https://itrmanager.com/articles/209857/cybersecurite-les-entreprises-pilotent-leur-securite-a-laveugle.html)  
-*Source : itrmanager.com | Publication : 2026-05-26*
+## [<b>Cybersécurité</b> : ce pack tout-en-un pour protéger tous vos appareils voit son prix chuter de 87 %](https://www.laprovence.com/article/guide-shopping/1426394395501915/cybersecurite-ce-pack-tout-en-un-pour-proteger-tous-vos-appareils-voit-son-prix-chuter-de-87)  
+*Source : laprovence.com | Publication : 2026-05-27*
 
-- Les budgets cybersécurité augmentent.
-- Les outils se multiplient.
-- Pourtant, une majorité d'entreprises ne vérifient toujours pas si leurs mesures de.
+- Cybersécurité : ce pack tout-en-un pour protéger tous vos appareils voit son prix chuter de 87 % Surfshark propose actuellement une forte réduction sur son offre tout-en-un dédiée à la sécurité numérique.
+- Interne Surfshark propose actuellement une réduction de 87 % avec 3 mois offerts sur son offre Surfshark One.
+- VPN, antivirus et outils de confidentialité sont réunis dans une seule application pensée pour protéger tous vos appareils au quotidien.
+- À retenir en quelques secondes Jusqu’à 87 % de réduction sur Surfshark One - VPN, antivirus et protection des données inclus - Utilisation possible sur un nombre illimité d’appareils - Garantie satisfait ou remboursé de 30 jours - Un pack complet pour mieux protéger votre vie numérique Surfshark One rassemble plusieurs outils de cybersécurité dans une seule application simple à utiliser.
 
-## [<b>Cybersécurité</b>: la BCE mobilise des centaines d'acteurs face au modèle d'IA Mythos](https://www.mediapart.fr/journal/fil-dactualites/260526/cybersecurite-la-bce-mobilise-des-centaines-d-acteurs-face-au-modele-d-ia-mythos)  
-*Source : mediapart.fr | Publication : 2026-05-26*
+## [<b>Cybersécurité</b> : l'Espagne refuse de laisser Bruxelles décider seule du sort de Huawei](https://www.boursier.com/forum/thematique/economie/cybersecurite-l-espagne-refuse-de-laisser-bruxelles-decider-seule-du-sort-de-huawei-i782640.html)  
+*Source : boursier.com | Publication : 2026-05-27*
 
-- La Banque centrale européenne a réuni mardi en ligne plusieurs centaines d’acteurs publics et privés au moment où les derniers modèles d’IA tel que Mythos, développé par Anthropic, fait craindre un basculement majeur pour la cybersécurité des États et des entreprises.
-- Depuis le 29 juin 2025, notre confrère Christophe Gleizes, journaliste pour Society et So Foot, est emprisonné en Algérie.
-- Nous ne l’oublions pas et réclamons sa libération.
+- cybersécurité.
+- Ce mercredi, le gouvernement espagnol a indiqué soutenir l'orientation générale du texte, tout en insistant sur le respect des.
 
-## [<b>Cybersécurité</b>: la BCE mobilise des centaines d'acteurs face au modèle d'IA Mythos](https://fr.tradingview.com/news/afp:62a1e8b89affa:0/)  
-*Source : fr.tradingview.com | Publication : 2026-05-26*
+## [Proofpoint lance Active Exploits Protection pour prioriser le correctif des vulnérabilités face ...](https://www.proofpoint.com/fr/newsroom/press-releases/proofpoint-lance-active-exploits-protection-pour-prioriser-le-correctif-des)  
+*Source : proofpoint.com | Publication : 2026-05-27*
 
-- Cybersécurité: la BCE mobilise des centaines d'acteurs face au modèle d'IA Mythos La Banque centrale européenne a réuni mardi en ligne plusieurs centaines d'acteurs publics et privés au moment où les derniers modèles d'IA tel que Mythos, développé par Anthropic, fait craindre un basculement majeur pour la cybersécurité des États et des entreprises.
-- La réunion, organisée par Frank Elderson, vice-président du Conseil de surveillance de la BCE, a rassemblé "plus de 300 participants issus des secteurs bancaire et public et d'associations représentatives dans le but de partager leurs expériences, échanger des informations disponibles et discuter de défis communs", a indiqué à l'AFP une source proche du sujet.
-- Elle a par ailleurs "contribué à sensibiliser les acteurs et à soutenir la préparation de plans d'action.
-- Ce dialogue se poursuivra, compte tenu de l'importance du partage d'informations et des actions collaboratives sur ce sujet", a ajouté cette source.
+- Proofpoint lance Active Exploits Protection pour prioriser le correctif des vulnérabilités face aux attaques réelles à l'ère de l'IA La nouvelle solution réduit l'exposition aux vulnérabilités activement exploitées en quelques minutes en transformant l'intelligence en protection immédiate sur les principaux vecteurs d'attaque Permet de contrer plus tôt dans la chaîne d'attaque les attaques basées sur des exploits et alimentées par l'IA - Permet aux équipes de sécurité de prioriser la remédiation en fonction de l'activité réelle des attaquants, et non des scores de gravité - Traduit automatiquement l'intelligence sur les exploits en protection immédiate sur les principaux vecteurs d'attaque - Proofpoint, Inc., acteur majeur de la cybersécurité et de la conformité, annonce aujourd'hui le lancement d'Active Exploits Protection, une nouvelle solution qui permet aux organisations de se défendre contre l'exposition croissante aux cybermenaces accélérées par l'IA.
+- S'appuyant sur les menaces réelles observées via la télémétrie de Proofpoint, la solution identifie les vulnérabilités activement exploitées dans la nature et traduit automatiquement cette intelligence en permettant une protection immédiate sur les principaux vecteurs d'attaque.
+- Les modèles d'IA avancés, y compris les systèmes de pointe capables de découvrir de manière autonome des vulnérabilités logicielles, augmentent considérablement la vitesse à laquelle elles sont découvertes et transformées en armes.
+- Le cycle de correctif n'est plus l'horloge de référence en matière de sécurité, le délai avant un ciblage actif passant de plusieurs années à quelques heures, voire moins.
 
-## [L'adoption de l'IA est en hausse, mais la gouvernance des agents est en retard dans les ...](https://itsocial.fr/cybersecurite/cybersecurite-articles/ladoption-de-lia-est-en-hausse-mais-la-gouvernance-des-agents-est-en-retard-dans-les-organisations/)  
-*Source : itsocial.fr | Publication : 2026-05-26*
+## [Berne veut renforcer la <b>cybersécurité</b> des télécommunications - Agefi.com](https://agefi.com/actualites/politique/berne-veut-renforcer-la-cybersecurite-des-telecommunications)  
+*Source : agefi.com | Publication : 2026-05-27*
 
-- Soixante-dix-sept pour cent des piles de sécurité intègrent désormais de l'IA générative, mais seuls quatorze pour cent des professionnels de la cybersécurité autorisent cette IA à prendre des actions autonomes sans validation humaine.
-- Le rapport annuel State of AI Cybersecurity 2026 de Darktrace, conduit auprès de 1 540 responsables de la sécurité dans quatorze pays, mesure l'écart entre adoption et confiance dans l'IA défensive, et documente les nouvelles vulnérabilités que l'IA offensive et agentique introduit dans les organisations.
-- L'adoption de l'IA dans les environnements de production a atteint une masse critique.
-- Selon McKinsey, soixante-dix-huit pour cent des organisations utilisent l'IA générative dans au moins une fonction métier.
+- 27 mai 2026, 11h49 Partager Les infrastructures et les services de télécommunications doivent être mieux protégés contre les cybermenaces.
+- Le Conseil fédéral a mis en consultation mercredi plusieurs modifications de la législation sur les télécommunications.
+- Les attaques visant les réseaux et systèmes numériques représentent un risque croissant pour l’économie, la société et les infrastructures critiques du pays.
+- Les cyberattaques par propagation de logiciels malveillants, les attaques par déni de service ou encore.
 
-## [<b>Cybersécurité</b>: Google a commis une énorme bourde - Watson](https://www.watson.ch/fr/international/technologie/251972919-cybersecurite-google-a-commis-une-enorme-bourde)  
-*Source : watson.ch | Publication : 2026-05-26*
+## [Division Spéciale de la <b>Cybersécurité</b> : Azoura Fall arrêté - DAKARACTU.COM](https://www.dakaractu.com/Division-Speciale-de-la-Cybersecurite-Azoura-Fall-arrete_a272252.html)  
+*Source : dakaractu.com | Publication : 2026-05-27*
 
-- Une erreur de Google menace des millions d'utilisateurs Google a involontairement publié du code permettant d'exploiter une faille de sécurité connue depuis fin 2022 dans de nombreux navigateurs web.
-- Les données sensibles circulent encore sur Internet, bien que Google ait entre-temps retiré les informations de ses pages.
-- Sont concernés tous les navigateurs construits sur la base de code du projet Chromium de Google.
-- Parmi eux: Google Chrome, - Microsoft Edge, - Brave, - Opera, - Vivaldi - Arc.
+- Le militant de Pastef Azoura Fall aurait été interpellé et conduit à la Division spéciale de la cybersécurité (DSC).
+- Il lui serait reproché une offense au chef de l’État, infraction prévue et punie par le Code pénal.
+- Pour l’heure, aucune autre information n’a été délivrée.
+- Nous y reviendrons Autres articles Tabaski / Kolda : Les préparatifs vont bon train malgré la crise économique... - En Afrique du Sud, des centaines de Ghanéens fuient le pays face aux tensions xénophobes - Assemblée nationale : Mbaye Dione relève des "irrégularités" et convoque l'article 15 du règlement intérieur... - Le Venezuela veut tourner la page Maduro: le gouvernement sera “restructuré” - Un opposant à Xi Jinping a fui la Chine vers la Corée du Sud à bord d’un canot pneumatique -.
 
-## [Windows 11 et expiration des certificats Secure Boot, ce qui attend vraiment les PC en retard - Clubic](https://www.clubic.com/actualite-614185-windows-11-et-expiration-des-certificats-secure-boot-ce-qui-attend-vraiment-les-pc-en-retard.html)  
-*Source : clubic.com | Publication : 2026-05-26*
+## [<b>Cybersécurité</b> : l'Espagne refuse de laisser Bruxelles décider seule du sort de Huawei](https://www.boursier.com/actualites/economie/cybersecurite-l-espagne-refuse-de-laisser-bruxelles-decider-seule-du-sort-de-huawei-54664.html)  
+*Source : boursier.com | Publication : 2026-05-27*
 
-- À un mois de l’expiration des premiers certificats Secure Boot historiques, Microsoft écarte le scénario du PC Windows 11 soudain inutilisable.
-- Les machines en retard continueront de démarrer, mais leur sécurité au niveau du boot risque peu à peu de décrocher.
-- Non, les PC Windows 11 qui n’auront pas reçu les nouveaux certificats Secure Boot d’ici juin 2026 ne s’éteindront pas dans un grand moment de panique firmware.
-- Microsoft l’a confirmé à plusieurs reprises lors de ses sessions Ask Microsoft Anything consacrées au renouvellement des certificats Secure Boot, puis dans sa documentation officielle.
+- Madrid soutient le durcissement des règles européennes sur la cybersécurité mais refuse un pouvoir exclusif de Bruxelles sur les fournisseurs.
 
-## [Banal et pourtant dangereux : ce câble USB renferme un terrible piège - Futura](https://www.futura-sciences.com/tech/actualites/cybersecurite-banal-pourtant-dangereux-ce-cable-usb-renferme-terrible-piege-134780/)  
-*Source : futura-sciences.com | Publication : 2026-05-26*
+## [Le spécialiste de la <b>cybersécurité</b> IMS Networks s'implante à Lyon](https://www.lejournaldesentreprises.com/breve/le-specialiste-de-la-cybersecurite-ims-networks-simplante-lyon-2143518)  
+*Source : lejournaldesentreprises.com | Publication : 2026-05-27*
 
-- Il existe un certain nombre de produits sur le marché clairement destinés au piratage.
-- Ils ne s'échangent pas en secret sur le dark web, mais se vendent au grand jour, comme le Flipper Zero.
-- Tout est une question de marketing, et ce genre de produit est généralement proposé comme un outil pour les bricoleurs et les chercheurs en cybersécurité.
-- Dans la même lignée, voici un câble USB.
+- IMS Networks, spécialiste tarnais de la cybersécurité ouvre une agence à Lyon.
+- Fort de son expertise et de ses références clients dans les secteurs santé, pharmaceutique et industriel, le groupe, qui compte 400 clients en France, accompagne déjà des acteurs publics et privés en Auvergne-Rhône-Alpes.
+- Cette nouvelle implantation vise à offrir proximité, résilience et qualité de service aux clients, notamment pour la gestion de leurs infrastructures numériques critiques.
+- "Elle confirme l’engagement d’IMS Networks à investir durablement dans les territoires, en plaçant l’excellence opérationnelle et la confiance numérique au cœur de son développement", indique un communiqué.
 
-## [L'Iran rétablit partiellement l'accès à internet après une coupure de trois mois - France 24](https://www.france24.com/fr/info-en-continu/20260526-l-iran-rétablit-partiellement-l-accès-à-internet-après-une-coupure-de-trois-mois)  
-*Source : france24.com | Publication : 2026-05-26*
+## [Des milliers de dépôts GitHub compromis en quelques heures avec le malware « Megalodon »](https://www.solutions-numeriques.com/des-milliers-de-depots-github-compromis-en-quelques-heures-avec-le-malware-megalodon/)  
+*Source : solutions-numeriques.com | Publication : 2026-05-27*
 
-- En Iran, l'accès à Internet partiellement rétabli après trois mois de coupure L'Iran a annoncé mardi de premières mesures visant à rétablir l'accès à Internet pour ses habitants après une coupure quasi-totale depuis le début de la guerre avec les États-Unis et Israël, le 28 février.
-- La population n'avait accès qu'à l'intranet local, qui permet de se connecter à des sites nationaux, des services bancaires ou des applications approuvées par l'État.
-- Publié le : Modifié le : L'accès à Internet en Iran a été partiellement rétabli, mardi 26 mai, après une coupure quasi-totale de près de trois mois en raison de la guerre, déclenchée le 28 février par l'attaque israélo-américaine.
-- "Les données en temps réel montrent un rétablissement partiel de la connectivité en Iran (...) après 2 093 heures d'isolement quasi total des réseaux internationaux", un record à l'échelle d'un pays, a d'abord annoncé l'ONG de surveillance de la cybersécurité NetBlocks.
+- Une campagne baptisée « Megalodon » a conduit à la compromission massive de dépôts GitHub publics, en passant par des mécanismes d’automatisation utilisés dans les pipelines de développement.
+- Repérée par plusieurs chercheurs en cybersécurité, l’opération révèle une fois de plus la dépendance croissante des entreprises aux workflows CI/CD et aux composants open source réutilisés à grande vitesse.
+- Une campagne baptisée « Megalodon » a compromis plus de 5 500 dépôts GitHub publics en l’espace de quelques heures, selon plusieurs chercheurs en cybersécurité.
+- L’attaque ne repose ni sur une faille zero day spectaculaire ni sur un ransomware classique.
 
-## [L'Iran rétablit partiellement l'accès à internet après une coupure de trois mois - Orange Actu](https://actu.orange.fr/monde/l-iran-retablit-partiellement-l-acces-a-internet-apres-une-coupure-de-trois-mois-CNT000002pBt13.html)  
-*Source : actu.orange.fr | Publication : 2026-05-26*
+## [<b>Cybersécurité</b> : cette faille permet de pirater votre réseau via une ampoule Phillips - Futura](https://www.futura-sciences.com/tech/questions-reponses/cybersecurite-cybersecurite-cette-faille-permet-pirater-votre-reseau-via-ampoule-phillips-k2m6-25236/)  
+*Source : futura-sciences.com | Publication : 2026-05-27*
 
-- L'Iran rétablit partiellement l'accès à internet après une coupure de trois mois © ATTA KENARE, AFP - Une femme consulte sur son mobile un message du guide suprême iranien Mojtaba Khamenei, le 26 mai 2026 à Téhéran L'accès à internet en Iran a été partiellement rétabli mardi après une coupure quasi-totale de près de trois mois en raison de la guerre, déclenchée le 28 février par l'attaque israélo-américaine.
-- "Les données en temps réel montrent un rétablissement partiel de la connectivité en Iran (...) après 2.093 heures d'isolement quasi total des réseaux internationaux", un record à l'échelle d'un pays, a d'abord annoncé l'ONG de surveillance de la cybersécurité NetBlocks.
-- "La première étape vers un accès libre et régulé au cyberespace a été franchie", a ensuite indiqué le vice-président iranien Mohammad Reza Aref dans un message publié sur X, ajoutant qu'avec cette mesure, les demandes des Iraniens "seront satisfaites".
-- "Depuis quelques minutes, je peux ouvrir des sites internet internationaux avec mon fournisseur d'accès", a déclaré à l'AFP une habitante de 22 ans de la ville occidentale de Kermanshah, ajoutant qu'elle avait toutefois toujours besoin de VPN (réseau privé virtuel) pour accéder aux réseaux sociaux.
+- Cette découverte a eu lieu fin 2019, mais elle reste aujourd'hui d'une pertinence troublante tant les objets connectés prolifèrent dans nos foyers et bureaux sans que leur sécurité ne soit vraiment questionnée.
+- L'équipe de recherche de Check Point a mis au jour une faille critique dans les ampoules Philips Hue, exploitable à distance, permettant de remonter jusqu'au réseau entier.
+- Voici comment cette attaque fonctionne, et surtout, ce que vous devez faire.
+- La chaîne d'attaque : de l'ampoule au réseau en trois étapes L'attaque repose sur une mécanique en cascade qui part d'un objet aussi anodin qu'une ampoule.
 
-## [Cyberattaques russes en Europe : les Pays-Bas débranchent plus de 800 serveurs utilisés ...](https://www.01net.com/actualites/cyberattaques-russes-en-europe-les-pays-bas-debranchent-plus-de-800-serveurs-utilises-par-les-pirates.html)  
-*Source : 01net.com | Publication : 2026-05-26*
+## [Le spécialiste de la <b>cybersécurité</b> IMS Networks ouvre une agence à Lyon](https://www.lyon-entreprises.com/actualites/article/ims-networks-ouverture-agence-lyon)  
+*Source : lyon-entreprises.com | Publication : 2026-05-27*
 
-- Le 18 mai 2026, le service néerlandais chargé de la répression de la criminalité financière a interpellé deux individus.
-- Les deux suspects sont accusés d’avoir fourni, directement ou indirectement, des ressources économiques à des entités russes et biélorusses soumises à des sanctions de l’Union européenne.
-- Les investigations concernent surtout une société d’hébergement web.
-- Celle-ci a vu le jour le 10 février 2022, soit deux semaines à peine avant le début de l’invasion russe en Ukraine.
+- Le spécialiste de la cybersécurité IMS Networks ouvre une agence à Lyon Le groupe français IMS Networks, spécialisé dans la cybersécurité et les infrastructures réseaux critiques, annonce l’ouverture d’une nouvelle agence à Lyon afin de renforcer sa présence en Auvergne-Rhône-Alpes.
+- Déjà implantée auprès de plusieurs acteurs industriels, pharmaceutiques et de la santé dans la région, l’entreprise veut accélérer son développement sur un marché porté par la montée des enjeux de souveraineté numérique et de résilience cyber.
+- Cette implantation lyonnaise intervient dans un contexte où les entreprises et collectivités renforcent fortement leurs investissements en cybersécurité face à la multiplication des attaques informatiques, aux nouvelles obligations réglementaires européennes et à la sécurisation croissante des infrastructures critiques.
+- Une présence renforcée en Auvergne-Rhône-Alpes Avec cette nouvelle agence, IMS Networks souhaite se rapprocher de ses clients régionaux et développer une offre de cybersécurité de proximité centrée sur l’accompagnement opérationnel des infrastructures sensibles.
 
-## [L'ESILV renforce son engagement stratégique dans l'aérospatial, la défense et la ... - Mer et Marine](https://www.meretmarine.com/fr/defense/l-esilv-renforce-son-engagement-strategique-dans-l-aerospatial-la-defense-et-la-souverainete)  
-*Source : meretmarine.com | Publication : 2026-05-26*
+## [La Convention de Hanoï doit être vue comme un engagement à long terme](https://lecourrier.vn/la-convention-de-hanoi-doit-etre-vue-comme-un-engagement-a-long-terme/1348245.html)  
+*Source : lecourrier.vn | Publication : 2026-05-27*
 
-- Communiqué de presse de l'ESILV (Ecole Supérieure d’Ingénieurs Léonard de Vinci), Paris, 26/05/26 : Face aux transformations géopolitiques, technologiques et industrielles qui redéfinissent les secteurs de la défense, du spatial et du numérique, l’ESILV annonce le renforcement de son offre pédagogique avec deux dispositifs stratégiques : la création de la Majeure Aérospatial & Défense et le lancement du nouveau parcours d’excellence Digital Sovereignty & Defense.
-- Ces formations, accessibles aux élèves ingénieurs de 4e et 5e année, répondent aux besoins croissants des entreprises et des institutions en matière d’ingénierie aérospatiale, de cybersécurité, de résilience numérique et de souveraineté technologique.
-- Aérospatial & Défense : un parcours qui devient une majeure Lancé à la rentrée 2025-2026, le parcours Aerospace & Defense a rencontré un fort succès auprès des élèves-ingénieurs avec plus de 90 inscrits dès cette première année.
-- Fort de cette dynamique, et grâce à un partenariat renforcé avec l’ESA (Agence spatiale européenne), l’ESILV fait évoluer ce cursus vers une majeure à part entière.
+- >> Convention de Hanoï contre la cybercriminalité : le Vietnam appelle à une mise en œuvre rapide et effective >> La ratification de la Convention de Hanoï affirme l’engagement l’intégration du Vietnam >> Le Vietnam réaffirme sa coopération avec l’ONUDC à Vienne Le Vietnam est devenu le premier pays d’Asie du Sud-Est et le troisième au monde à ratifier la Convention de Hanoï.
+- Selon vous, que révèle cette étape importante quant au rôle croissant du Vietnam dans la coopération internationale contre la cybercriminalité ?.
+- Le Vietnam a été le premier pays d’Asie du Sud-Est - et seulement le troisième au monde - à ratifier la Convention des Nations unies contre la cybercriminalité.
+- La ratification d’un tel instrument implique une révision de son cadre juridique national, une coordination entre les entités gouvernementales concernées et un engagement politique fort.
 
-## [Faux billets, contrefaçons, vol de données… Les arnaques autour de la Coupe du monde se ...](https://www.ouest-france.fr/sport/coupe-du-monde/faux-billets-contrefacons-vol-de-donnees-les-arnaques-autour-de-la-coupe-du-monde-se-multiplient-7b18e0b4-590d-11f1-85b1-345c98c474fd)  
-*Source : ouest-france.fr | Publication : 2026-05-26*
+## [Commvault confie sa direction française à Guillaume Gamelin - Distributique](https://www.distributique.com/actualites/lire-commvault-confie-sa-direction-francaise-a-guillaume-gamelin-37256.html)  
+*Source : distributique.com | Publication : 2026-05-27*
 
-- Les entreprises spécialisées en cybersécurité Check Point et Kaspersky ont notamment relevé une forte hausse du nombre de domaines suspects ou.
+- « Commvault joue un rôle essentiel dans la cyber-résilience, indispensable pour les entreprises françaises devant assurer la continuité de leurs activités en cas de panne ou de cyberattaque », explique Guillaume Gamelin de Commvault.
+- (Crédit Commvault) Fort d'une solide expérience chez Sophos et WithSecure, Guillaume Gamelin succčde ŕ Milos Brkovic ŕ la direction de Commvault France avec pour mission de piloter le marché français et de renforcer l'écosystčme clients et partenaires.
+- Guillaume Gamelin arrive chez Commvault pour piloter le marché français.
+- Ŕ ce poste de country manager, il remplace Milos Brkovic, qui dirigeait les activités françaises depuis 2021.
 
-## [La BCE mobilise les banques face au risque cyber lié à l'IA | Allnews](https://www.allnews.ch/content/news/la-bce-mobilise-les-banques-face-au-risque-cyber-lié-à-l’ia)  
-*Source : allnews.ch | Publication : 2026-05-26*
+## [L'OTAN s'allie à des entreprises cyber - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/64889-l-otan-s-allie-a-des-entreprises-cyber.html)  
+*Source : linformaticien.com | Publication : 2026-05-27*
 
-- Au coeur du débat, un modèle d'IA développé par la start-up américaine Anthropic, Mythos, utilisé dans un projet de cybersécurité accessible pour.
+- L'annonce, faite lors de sa conférence internationale annuelle sur les conflits cyber (CyCon) à Tallinn (Estonie), doit renforcer la coopération entre.
