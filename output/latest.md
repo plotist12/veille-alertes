@@ -1,152 +1,153 @@
-# Résumés – 2026-05-27
+# Résumés – 2026-05-29
 
 
-## [IA et <b>cybersécurité</b> : Hadrian publie OpenHack en open source - GoodTech.info](https://goodtech.info/hadrian-open-source-openhack-ia-vulnerabilites-cybersecurite/)  
-*Source : goodtech.info | Publication : 2026-05-27*
+## [Claude Mythos : l'UE exclue du briefing qu'ont reçu la Fed et la Banque d'Angleterre](https://www.actuia.com/actualite/claude-mythos-lue-exclue-du-briefing-quont-recu-la-fed-et-la-banque-dangleterre/)  
+*Source : actuia.com | Publication : 2026-05-28*
 
-- Jusqu’à présent, l’utilisation d’assistants IA pour débusquer des failles de sécurité oscillait entre la curiosité de laboratoire et le script artisanal, souvent sujet aux hallucinations.
-- Pour standardiser ces pratiques et armer les défenseurs avec les mêmes outils que les attaquants, la société de cybersécurité amsterdamoise Hadrian a annoncé la mise à disposition gratuite et en open source de OpenHack sous licence permissive MIT.
-- Ce projet, accessible directement sur le GitHub d’OpenHack, transpose la méthodologie interne de découverte de vulnérabilités de l’entreprise dans un outil accessible à l’ensemble de la communauté de la sécurité informatique.
-- Résoudre le double échec des IA de codage traditionnelles L’intégration brute des LLM dans la révision de code se heurte généralement à deux écueils majeurs que l’architecture d’OpenHack s’efforce de corriger : Les prompts non ciblés : les requêtes trop globales qui demandent simplement à une IA de « trouver des bugs » produisent des résultats dilués, superficiels et peu fiables.
+- À notre connaissance, aucune institution de l’Union européenne ne dispose à ce jour d’un accès opérationnel via Project Glasswing, au modèle d'IA le plus avancé en cybersécurité - quand la Banque d'Angleterre, la Réserve fédérale et le Trésor américain ont, eux, été briefés.
+- Anthropic a annoncé le 7 avril 2026 Claude Mythos Preview, premier modèle frontier explicitement retenu pour raisons de cybersécurité plutôt que diffusé publiquement.
+- Le modèle découvre et exploite de façon autonome des vulnérabilités zéro-jour: sur le benchmark ExploitBench (Carnegie Mellon/Bugcrowd, mai 2026), il atteint l'exécution de code arbitraire sur 21 des 41 CVEs testés, quand aucun autre modèle public n'en réussit un seul.
+- L'accès est restreint à Project Glasswing, coalition d'environ 40 organisations emmenée par douze fondateurs américains - AWS, Apple, Cisco, CrowdStrike, Google, JPMorgan Chase, Microsoft, NVIDIA, Palo Alto Networks, Broadcom, la Linux Foundation et Anthropic.
 
-## [Dans une grande entreprise, une interruption de service coûte 13000 &amp;euro; par minute](https://www.cio-online.com/actualites/lire-dans-une-grande-entreprise-une-interruption-de-service-coute-13000-eteuro-par-minute-17049.html)  
-*Source : cio-online.com | Publication : 2026-05-27*
+## [<b>Cybersécurité</b> spatiale : depuis Casablanca, Deloitte étend son « bouclier » jusqu'à l'orbite basse](https://ledesk.ma/2026/05/28/cybersecurite-spatiale-depuis-casablanca-deloitte-etend-son-bouclier-jusqua-lorbite-basse/)  
+*Source : ledesk.ma | Publication : 2026-05-28*
 
-- Dans une grande entreprise, une interruption de service coûte 13000 € par minute Les interruptions de service ne sont plus de simples incidents techniques.
-- Selon une étude menée pour Splunk par Oxford Economics, les entreprises du Global 2000 subissent désormais en moyenne 60 incidents d'indisponibilité par an, pour un coût global estimé à 600 Md$ (517 Md€).
-- Une hausse de 50% en seulement deux ans, portée par l'explosion des cyberattaques, le durcissement réglementaire et la dépendance croissante aux infrastructures numériques et aux services tiers.
-- PublicitéDes pertes financières immédiates jusqu'aux conséquences réputationnelles et boursières, les temps d'arrêt sur les systèmes d'information touchent désormais l'ensemble des entreprises.
+- Cybersécurité spatiale : depuis Casablanca, Deloitte étend son « bouclier » jusqu’à l’orbite basse Le 29 mars, depuis la base spatiale de Vandenberg en Californie, une fusée Falcon 9 emportait dans la nuit deux passagers inhabituels : Deloitte‑2 et Deloitte‑3, deux nano‑satellites construits par l'opérateur américain Spire Global pour le compte d'un cabinet d'audit.
+- Pas un constructeur aérospatial, pas une agence gouvernementale : l'un des « Big Four » de l'audit-conseil, qui place neuf satellites en orbite pour tester une technologie de cybersécurité destinée, à terme, à protéger les satellites en service partout sur la planète.
+- L'initiative s'appelle Project Constellation.
+- Son produit phare, Silent Shield.
 
-## [L'inventaire des dispositifs et la cartographie des données de santé protégées seront les ...](https://health-isac.org/fr/L'inventaire-des-appareils-et-la-cartographie-PHI-seront-les-tâches-les-plus-ardues-lors-de-l'entrée-en-vigueur-de-la-nouvelle-loi-HIPAA./)  
-*Source : health-isac.org | Publication : 2026-05-27*
-
-- L’inventaire des dispositifs et la cartographie des données de santé protégées seront les tâches les plus ardues lors de l’entrée en vigueur des nouvelles normes HIPAA.
-- Selon Englert de Health-ISAC, l'inventaire des dispositifs et la cartographie des données de santé protégées seront les tâches les plus ardues lors de l'entrée en vigueur des nouvelles lois HIPAA.
-- Deux exigences de la loi HIPAA devraient poser le plus de défis aux RSSI du secteur de la santé : l’inventaire des dispositifs et la cartographie des données de santé protégées.
-- Ces deux éléments seront intégrés à la mise à jour des règles de sécurité prévue plus tard cette année.
-
-## [Les actions de <b>cybersécurité</b> chutent après le lancement de la plateforme IA de Google](https://fr.investing.com/news/stock-market-news/les-actions-de-cybersecurite-chutent-apres-le-lancement-de-la-plateforme-ia-de-google-3436787)  
-*Source : fr.investing.com | Publication : 2026-05-27*
-
-- cybersécurité complète alimentée par l'IA, conçue pour détecter et neutraliser de manière autonome les menaces de sécurité.
-- Palo Alto Networks Inc.
-
-## [Protéger les données à l'ère de l'informatique quantique | Gouvernement du Québec](https://www.quebec.ca/securite-situations-urgence/cybersecurite/proteger-donnees-informatique-quantique)  
-*Source : quebec.ca | Publication : 2026-05-27*
-
-- Les technologies évoluent rapidement.
-- Parmi elles, l’informatique quantique pourrait, à long terme, transformer la façon de protéger l’information numérique.
-- Le gouvernement du Québec agit dès maintenant pour protéger les données et les services numériques, aujourd’hui et pour l’avenir.
-- L’informatique quantique est une nouvelle génération d’ordinateurs.
-
-## [10 000 failles en un mois : Anthropic dévoile le premier bilan de Claude Mythos - 01net.com](https://www.01net.com/actualites/10-000-failles-mois-anthropic-devoile-premier-bilan-claude-mythos.html)  
-*Source : 01net.com | Publication : 2026-05-27*
-
-- Il y a un mois, Anthropic a dévoilé Claude Mythos, un modèle d’IA conçu pour identifier des failles de sécurité dans les logiciels.
-- L’IA a rapidement montré qu’elle était aussi capable de mettre au point des méthodes d’exploitation sur base des vulnérabilités débusquées.
-- Face aux risques d’usage malveillant, Anthropic a choisi de ne pas rendre Mythos accessible au grand public.
-- Pour l’heure, seuls une cinquantaine de partenaires triés sur le volet ont accès à cet outil.
-
-## [Analyse de risque chiffrement et cryptographie - ANSSI](https://cyber.gouv.fr/nous-connaitre/publications/analyse-de-risque-sectorielle-et-technique/analyse-de-risque-chiffrement-et-cryptographie/)  
-*Source : cyber.gouv.fr | Publication : 2026-05-27*
-
-- Analyse de risque chiffrement et cryptographie Publié le mercredi 27 mai 2026 L’arrivée d’un ordinateur quantique représente une menace considérable pour l’ensemble des organisations de tous secteurs confondus.
-- Pourtant, trop peu d’entre elles mesurent l’urgence de s’y préparer, notamment en engageant une transition vers une cryptographie post-quantique (PQC).
-- L’écosystème cyber fait face à un double enjeu sur ce sujet : Sensibiliser les organisations pour qu’elles lancent sans tarder leur migration vers des solutions résistantes aux attaques quantiques ; - Amplifier l’offre du marché en garantissant la disponibilité de produits compatibles avec la cryptographie post-quantique.
-- - Cette analyse de risque de haut niveau sur le chiffrement et autres usages de la cryptographie s’adresse aux entités utilisatrices de solutions cryptographiques, mais non spécialistes du domaine.
-
-## [<b>Cybersécurité</b> : ce pack tout-en-un pour protéger tous vos appareils voit son prix chuter de 87 %](https://www.laprovence.com/article/guide-shopping/1426394395501915/cybersecurite-ce-pack-tout-en-un-pour-proteger-tous-vos-appareils-voit-son-prix-chuter-de-87)  
-*Source : laprovence.com | Publication : 2026-05-27*
-
-- Cybersécurité : ce pack tout-en-un pour protéger tous vos appareils voit son prix chuter de 87 % Surfshark propose actuellement une forte réduction sur son offre tout-en-un dédiée à la sécurité numérique.
-- Interne Surfshark propose actuellement une réduction de 87 % avec 3 mois offerts sur son offre Surfshark One.
-- VPN, antivirus et outils de confidentialité sont réunis dans une seule application pensée pour protéger tous vos appareils au quotidien.
-- À retenir en quelques secondes Jusqu’à 87 % de réduction sur Surfshark One - VPN, antivirus et protection des données inclus - Utilisation possible sur un nombre illimité d’appareils - Garantie satisfait ou remboursé de 30 jours - Un pack complet pour mieux protéger votre vie numérique Surfshark One rassemble plusieurs outils de cybersécurité dans une seule application simple à utiliser.
-
-## [<b>Cybersécurité</b> : l'Espagne refuse de laisser Bruxelles décider seule du sort de Huawei](https://www.boursier.com/forum/thematique/economie/cybersecurite-l-espagne-refuse-de-laisser-bruxelles-decider-seule-du-sort-de-huawei-i782640.html)  
-*Source : boursier.com | Publication : 2026-05-27*
+## [VivaTech 2026 : le réseau des CCI aux côtés des startups françaises](https://www.cci.fr/actualites/vivatech-2026-le-reseau-des-cci-aux-cotes-des-startups-francaises)  
+*Source : cci.fr | Publication : 2026-05-28*
 
 - cybersécurité.
-- Ce mercredi, le gouvernement espagnol a indiqué soutenir l'orientation générale du texte, tout en insistant sur le respect des.
+- La CCI Paris Île-de-France en soutien des startups franciliennes.
+- Présente à VivaTech avec un stand dédié situé Pavillon 7 – Stand.
 
-## [Proofpoint lance Active Exploits Protection pour prioriser le correctif des vulnérabilités face ...](https://www.proofpoint.com/fr/newsroom/press-releases/proofpoint-lance-active-exploits-protection-pour-prioriser-le-correctif-des)  
-*Source : proofpoint.com | Publication : 2026-05-27*
+## [Face à l'IA offensive, la BCE pousse les banques à revoir leur copie en <b>cybersécurité</b>](https://www.solutions-numeriques.com/face-a-lia-offensive-la-bce-pousse-les-banques-a-revoir-leur-copie-en-cybersecurite/)  
+*Source : solutions-numeriques.com | Publication : 2026-05-28*
 
-- Proofpoint lance Active Exploits Protection pour prioriser le correctif des vulnérabilités face aux attaques réelles à l'ère de l'IA La nouvelle solution réduit l'exposition aux vulnérabilités activement exploitées en quelques minutes en transformant l'intelligence en protection immédiate sur les principaux vecteurs d'attaque Permet de contrer plus tôt dans la chaîne d'attaque les attaques basées sur des exploits et alimentées par l'IA - Permet aux équipes de sécurité de prioriser la remédiation en fonction de l'activité réelle des attaquants, et non des scores de gravité - Traduit automatiquement l'intelligence sur les exploits en protection immédiate sur les principaux vecteurs d'attaque - Proofpoint, Inc., acteur majeur de la cybersécurité et de la conformité, annonce aujourd'hui le lancement d'Active Exploits Protection, une nouvelle solution qui permet aux organisations de se défendre contre l'exposition croissante aux cybermenaces accélérées par l'IA.
-- S'appuyant sur les menaces réelles observées via la télémétrie de Proofpoint, la solution identifie les vulnérabilités activement exploitées dans la nature et traduit automatiquement cette intelligence en permettant une protection immédiate sur les principaux vecteurs d'attaque.
-- Les modèles d'IA avancés, y compris les systèmes de pointe capables de découvrir de manière autonome des vulnérabilités logicielles, augmentent considérablement la vitesse à laquelle elles sont découvertes et transformées en armes.
-- Le cycle de correctif n'est plus l'horloge de référence en matière de sécurité, le délai avant un ciblage actif passant de plusieurs années à quelques heures, voire moins.
+- Les capacités émergentes de certains modèles d’intelligence artificielle inquiètent les superviseurs bancaires.
+- Entre réunions de crise, appels à l’investissement et échanges d’informations avec des établissements américains déjà exposés à ces outils, la Banque centrale européenne tente d’accélérer la préparation du secteur face à des attaques automatisées capables d’exploiter des vulnérabilités à une vitesse inédite.
+- Selon Reuters, la Banque centrale européenne pousse désormais les banques de la zone euro à renforcer leurs investissements en cybersécurité face à des outils capables d’exploiter automatiquement des vulnérabilités logicielles.
+- La BCE hausse le ton sur le risque cyber lié à l’IA La Banque centrale européenne multiplie les échanges avec les banques de la zone euro autour des risques liés aux nouveaux modèles d’intelligence artificielle.
 
-## [Berne veut renforcer la <b>cybersécurité</b> des télécommunications - Agefi.com](https://agefi.com/actualites/politique/berne-veut-renforcer-la-cybersecurite-des-telecommunications)  
-*Source : agefi.com | Publication : 2026-05-27*
+## [Le rail, l'eau potable et les eaux usées entrent dans la zone de risque cybernétique, aux ...](https://agenceurope.eu/fr/bulletin/article/13876/5/)  
+*Source : agenceurope.eu | Publication : 2026-05-28*
 
-- 27 mai 2026, 11h49 Partager Les infrastructures et les services de télécommunications doivent être mieux protégés contre les cybermenaces.
-- Le Conseil fédéral a mis en consultation mercredi plusieurs modifications de la législation sur les télécommunications.
-- Les attaques visant les réseaux et systèmes numériques représentent un risque croissant pour l’économie, la société et les infrastructures critiques du pays.
-- Les cyberattaques par propagation de logiciels malveillants, les attaques par déni de service ou encore.
+- Les secteurs du rail, de l’eau potable et des eaux usées ont rejoint la zone de risque dans l’édition de cette année du NIS360, l’évaluation annuelle de l’ENISA portant sur la maturité en cybersécurité et le niveau de criticité des secteurs critiques couverts par la directive NIS2, tandis que le secteur du gaz en est sorti.
+- Les autres secteurs figurant dans cette zone de risque sont la santé, le transport maritime, les services de gestion des TIC, le secteur spatial et les administrations publiques, qui apparaissaient déjà dans cette catégorie l’an dernier.
+- La zone de risque regroupe les secteurs dont le niveau de maturité est inférieur à la moyenne et dont la criticité dépasse leur niveau de maturité, ce qui nécessite « davantage de soutien » de la part des autorités et des entreprises.
+- Les entreprises devraient investir davantage dans la cybersécurité, tandis que les autorités devraient fournir des orientations et des financements, a expliqué l’autrice du rapport, Jurgita Skritaite, précisant que « la législation n’est pas considérée comme une forme de soutien ».
 
-## [Division Spéciale de la <b>Cybersécurité</b> : Azoura Fall arrêté - DAKARACTU.COM](https://www.dakaractu.com/Division-Speciale-de-la-Cybersecurite-Azoura-Fall-arrete_a272252.html)  
-*Source : dakaractu.com | Publication : 2026-05-27*
+## [Thaïlande : Un opposant politique acquitté de lèse-majesté - Boursier.com](https://www.boursier.com/actualites/reuters/thailande-un-opposant-politique-acquitte-de-lese-majeste-419088.html)  
+*Source : boursier.com | Publication : 2026-05-28*
 
-- Le militant de Pastef Azoura Fall aurait été interpellé et conduit à la Division spéciale de la cybersécurité (DSC).
-- Il lui serait reproché une offense au chef de l’État, infraction prévue et punie par le Code pénal.
-- Pour l’heure, aucune autre information n’a été délivrée.
-- Nous y reviendrons Autres articles Tabaski / Kolda : Les préparatifs vont bon train malgré la crise économique... - En Afrique du Sud, des centaines de Ghanéens fuient le pays face aux tensions xénophobes - Assemblée nationale : Mbaye Dione relève des "irrégularités" et convoque l'article 15 du règlement intérieur... - Le Venezuela veut tourner la page Maduro: le gouvernement sera “restructuré” - Un opposant à Xi Jinping a fui la Chine vers la Corée du Sud à bord d’un canot pneumatique -.
+- BANGKOK, 28 mai (Reuters) - Un tribunal pénal thaïlandais a acquitté une figure politique de premier plan de l'opposition, accusée de cybercriminalité.
 
-## [<b>Cybersécurité</b> : l'Espagne refuse de laisser Bruxelles décider seule du sort de Huawei](https://www.boursier.com/actualites/economie/cybersecurite-l-espagne-refuse-de-laisser-bruxelles-decider-seule-du-sort-de-huawei-54664.html)  
-*Source : boursier.com | Publication : 2026-05-27*
+## [Mise à jour Windows : les certificats de sécurité UEFI expirent, votre PC est-il protégé ?](https://www.futura-sciences.com/tech/actualites/cybersecurite-mise-jour-windows-certificats-securite-uefi-expirent-votre-pc-il-protege-134825/)  
+*Source : futura-sciences.com | Publication : 2026-05-28*
 
-- Madrid soutient le durcissement des règles européennes sur la cybersécurité mais refuse un pouvoir exclusif de Bruxelles sur les fournisseurs.
+- Cette année marque 15 ans depuis l'introduction de l'UEFI, le successeur du BIOS, le micrologiciel intégré à la carte mère des ordinateurs.
+- Parmi les différentes fonctionnalités, celui-ci a apporté le Secure Boot.
+- Cette fonctionnalité de sécurité aide, entre autres, à lutter contre certains malwares comme les bootkits en n'autorisant que les programmes certifiés à se lancer au démarrage, assurant ainsi que votre installation de Windows ou Linux n'a pas été modifiée à ce niveau.
+- Le Secure Boot était optionnel pour Windows 10, mais il est devenu obligatoire avec Windows 11.
 
-## [Le spécialiste de la <b>cybersécurité</b> IMS Networks s'implante à Lyon](https://www.lejournaldesentreprises.com/breve/le-specialiste-de-la-cybersecurite-ims-networks-simplante-lyon-2143518)  
-*Source : lejournaldesentreprises.com | Publication : 2026-05-27*
+## [DragonForce : L'évolution d'un RaaS vers un cartel criminel | LeMagIT](https://www.lemagit.fr/actualites/366643582/DragonForce-Levolution-dun-RaaS-vers-un-cartel-criminel)  
+*Source : lemagit.fr | Publication : 2026-05-28*
 
-- IMS Networks, spécialiste tarnais de la cybersécurité ouvre une agence à Lyon.
-- Fort de son expertise et de ses références clients dans les secteurs santé, pharmaceutique et industriel, le groupe, qui compte 400 clients en France, accompagne déjà des acteurs publics et privés en Auvergne-Rhône-Alpes.
-- Cette nouvelle implantation vise à offrir proximité, résilience et qualité de service aux clients, notamment pour la gestion de leurs infrastructures numériques critiques.
-- "Elle confirme l’engagement d’IMS Networks à investir durablement dans les territoires, en plaçant l’excellence opérationnelle et la confiance numérique au cœur de son développement", indique un communiqué.
+- Shutter2U - stock.adobe.com DragonForce : L'évolution d'un RaaS vers un cartel criminel Cette enseigne de rançongiciel en mode service a fortement évolué depuis son apparition, s'imposant comme l'une des plus actives du moment.
+- Et ce n'est pas sans raison.
+- Émergeant en décembre 2023, DragonForce s'est rapidement établi comme une menace cybernétique majeure.
+- Initialement un opérateur Ransomware-as-a-Service (RaaS), le groupe a évolué vers un modèle de cartel criminel en mars 2025, avec l'ambition affichée de « dicter les conditions du marché » du rançongiciel.
 
-## [Des milliers de dépôts GitHub compromis en quelques heures avec le malware « Megalodon »](https://www.solutions-numeriques.com/des-milliers-de-depots-github-compromis-en-quelques-heures-avec-le-malware-megalodon/)  
-*Source : solutions-numeriques.com | Publication : 2026-05-27*
+## [Les solutions de Duranceau pour régler les problèmes informatiques - Radio-Canada](https://ici.radio-canada.ca/nouvelle/2257432/projets-informatique-ministre-duranceau-reforme-audits)  
+*Source : ici.radio-canada.ca | Publication : 2026-05-28*
 
-- Une campagne baptisée « Megalodon » a conduit à la compromission massive de dépôts GitHub publics, en passant par des mécanismes d’automatisation utilisés dans les pipelines de développement.
-- Repérée par plusieurs chercheurs en cybersécurité, l’opération révèle une fois de plus la dépendance croissante des entreprises aux workflows CI/CD et aux composants open source réutilisés à grande vitesse.
-- Une campagne baptisée « Megalodon » a compromis plus de 5 500 dépôts GitHub publics en l’espace de quelques heures, selon plusieurs chercheurs en cybersécurité.
-- L’attaque ne repose ni sur une faille zero day spectaculaire ni sur un ransomware classique.
+- Les solutions de Duranceau pour régler les problèmes informatiques La ministre songe à une réforme concernant les 18 000 employés de l'État en technologies de l'information.
+- France-Élaine Duranceau, ministre responsable de la Cybersécurité et du Numérique.
+- Photo : Radio-Canada / Sylvain Roy Roussel La ministre de la Cybersécurité et du Numérique du Québec promet des réformes « dans les prochaines semaines » pour prévenir les problèmes qui font dérailler certains projets informatiques.
+- France-Élaine Duranceau s'engage aussi à rendre publics les audits réalisés par les vérificateurs de son ministère.
 
-## [<b>Cybersécurité</b> : cette faille permet de pirater votre réseau via une ampoule Phillips - Futura](https://www.futura-sciences.com/tech/questions-reponses/cybersecurite-cybersecurite-cette-faille-permet-pirater-votre-reseau-via-ampoule-phillips-k2m6-25236/)  
-*Source : futura-sciences.com | Publication : 2026-05-27*
+## [Fuites de données : « Le contrat numérique entre l'Etat et le citoyen ne peut pas être à sens unique »](https://www.lemonde.fr/idees/article/2026/05/28/fuites-de-donnees-le-contrat-numerique-entre-l-etat-et-le-citoyen-ne-peut-pas-etre-a-sens-unique_6694505_3232.html)  
+*Source : lemonde.fr | Publication : 2026-05-28*
 
-- Cette découverte a eu lieu fin 2019, mais elle reste aujourd'hui d'une pertinence troublante tant les objets connectés prolifèrent dans nos foyers et bureaux sans que leur sécurité ne soit vraiment questionnée.
-- L'équipe de recherche de Check Point a mis au jour une faille critique dans les ampoules Philips Hue, exploitable à distance, permettant de remonter jusqu'au réseau entier.
-- Voici comment cette attaque fonctionne, et surtout, ce que vous devez faire.
-- La chaîne d'attaque : de l'ampoule au réseau en trois étapes L'attaque repose sur une mécanique en cascade qui part d'un objet aussi anodin qu'une ampoule.
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
 
-## [Le spécialiste de la <b>cybersécurité</b> IMS Networks ouvre une agence à Lyon](https://www.lyon-entreprises.com/actualites/article/ims-networks-ouverture-agence-lyon)  
-*Source : lyon-entreprises.com | Publication : 2026-05-27*
+## [WALLIX reconnu pour la cinquième année consécutive ' Overall Leader ' dans le ... - Actusnews](https://www.actusnews.com/fr/amp/wallix/cp/2026/05/28/wallix-reconnu-pour-la-cinquieme-annee-consecutive-overall-leader-dans-le-leadership-compass-pam-2026-du-cabinet-d_analyste)  
+*Source : actusnews.com | Publication : 2026-05-28*
 
-- Le spécialiste de la cybersécurité IMS Networks ouvre une agence à Lyon Le groupe français IMS Networks, spécialisé dans la cybersécurité et les infrastructures réseaux critiques, annonce l’ouverture d’une nouvelle agence à Lyon afin de renforcer sa présence en Auvergne-Rhône-Alpes.
-- Déjà implantée auprès de plusieurs acteurs industriels, pharmaceutiques et de la santé dans la région, l’entreprise veut accélérer son développement sur un marché porté par la montée des enjeux de souveraineté numérique et de résilience cyber.
-- Cette implantation lyonnaise intervient dans un contexte où les entreprises et collectivités renforcent fortement leurs investissements en cybersécurité face à la multiplication des attaques informatiques, aux nouvelles obligations réglementaires européennes et à la sécurisation croissante des infrastructures critiques.
-- Une présence renforcée en Auvergne-Rhône-Alpes Avec cette nouvelle agence, IMS Networks souhaite se rapprocher de ses clients régionaux et développer une offre de cybersécurité de proximité centrée sur l’accompagnement opérationnel des infrastructures sensibles.
+- Paris, le 28 mai 2026- WALLIX (Euronext ALLIX), éditeur de cybersécurité des identités et des accès, et leader européen de la gestion des accès à.
 
-## [La Convention de Hanoï doit être vue comme un engagement à long terme](https://lecourrier.vn/la-convention-de-hanoi-doit-etre-vue-comme-un-engagement-a-long-terme/1348245.html)  
-*Source : lecourrier.vn | Publication : 2026-05-27*
+## [Sommet stratégique sur la <b>cybersécurité</b> - E3-Magazin](https://e3mag.com/fr/evenement/sommet-strategique-sur-la-cybersecurite-4/)  
+*Source : e3mag.com | Publication : 2026-05-28*
 
-- >> Convention de Hanoï contre la cybercriminalité : le Vietnam appelle à une mise en œuvre rapide et effective >> La ratification de la Convention de Hanoï affirme l’engagement l’intégration du Vietnam >> Le Vietnam réaffirme sa coopération avec l’ONUDC à Vienne Le Vietnam est devenu le premier pays d’Asie du Sud-Est et le troisième au monde à ratifier la Convention de Hanoï.
-- Selon vous, que révèle cette étape importante quant au rôle croissant du Vietnam dans la coopération internationale contre la cybercriminalité ?.
-- Le Vietnam a été le premier pays d’Asie du Sud-Est - et seulement le troisième au monde - à ratifier la Convention des Nations unies contre la cybercriminalité.
-- La ratification d’un tel instrument implique une révision de son cadre juridique national, une coordination entre les entités gouvernementales concernées et un engagement politique fort.
+- Sommet stratégique sur la cybersécurité 1er juillet, 08:30 jusqu'à 2 juillet, 16:30 795€Votre rendez-vous obligatoire en tant que décideur en matière de sécurité:in.
+- Le paysage des menaces évolue rapidement et les attaques d'intelligence artificielle, les ransomwares-as-a-service et les risques géopolitiques placent la cybersécurité au cœur des décisions stratégiques de gestion.
+- En tant que CISO ou responsable de la sécurité informatique, vous savez que la sécurité n'est plus un sujet informatique, mais un impératif commercial.
+- Lors du sommet stratégique Cyber Security, organisé par project networks, un format exclusif pour les cadres dirigeants vous attend les 1er & 2 juillet 2026 à Berlin.
 
-## [Commvault confie sa direction française à Guillaume Gamelin - Distributique](https://www.distributique.com/actualites/lire-commvault-confie-sa-direction-francaise-a-guillaume-gamelin-37256.html)  
-*Source : distributique.com | Publication : 2026-05-27*
+## [Comment NIS 2 fait entrer des milliers de PME françaises dans le radar de l'Anssi](https://www.journaldunet.com/cybersecurite/1550621-comment-nis-2-fait-entrer-des-milliers-de-pme-francaises-dans-le-radar-de-l-anssi/)  
+*Source : journaldunet.com | Publication : 2026-05-28*
 
-- « Commvault joue un rôle essentiel dans la cyber-résilience, indispensable pour les entreprises françaises devant assurer la continuité de leurs activités en cas de panne ou de cyberattaque », explique Guillaume Gamelin de Commvault.
-- (Crédit Commvault) Fort d'une solide expérience chez Sophos et WithSecure, Guillaume Gamelin succčde ŕ Milos Brkovic ŕ la direction de Commvault France avec pour mission de piloter le marché français et de renforcer l'écosystčme clients et partenaires.
-- Guillaume Gamelin arrive chez Commvault pour piloter le marché français.
-- Ŕ ce poste de country manager, il remplace Milos Brkovic, qui dirigeait les activités françaises depuis 2021.
+- Comment NIS 2 fait entrer des milliers de PME françaises dans le radar de l'Anssi La directive NIS 2 impose la cybersécurité comme priorité stratégique, élargissant son périmètre aux PME et à la chaîne d'approvisionnement pour bâtir une vraie résilience opérationnelle.
+- Bien plus qu'une simple contrainte réglementaire, la nouvelle directive NIS-2 est une opportunité pour les entreprises françaises de renforcer leur résilience numérique.
+- En étendant les obligations de sécurité à des dizaines de milliers d'organisations, y compris les PME, et en plaçant la chaîne d'approvisionnement au cœur de son dispositif, elle impose un changement de culture majeur.
+- La directive européenne NIS-2, récemment transposée en droit français, n'est pas une simple mise à jour.
 
-## [L'OTAN s'allie à des entreprises cyber - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/64889-l-otan-s-allie-a-des-entreprises-cyber.html)  
-*Source : linformaticien.com | Publication : 2026-05-27*
+## [Réunion d'information sur la <b>cybersécurité</b> : le Grand-Figeac sensibilise les habitants](https://ville-figeac.fr/actualite/reunion-dinformation-sur-la-cybersecurite-le-grand-figeac-sensibilise-les-habitants)  
+*Source : ville-figeac.fr | Publication : 2026-05-28*
 
-- L'annonce, faite lors de sa conférence internationale annuelle sur les conflits cyber (CyCon) à Tallinn (Estonie), doit renforcer la coopération entre.
+- Outils d'accessibilité le lundi 15 juin 2026 de 17h30 à 19h Réunion d’information sur la cybersécurité : le Grand-Figeac sensibilise les habitants Face à la multiplication des arnaques en ligne, tentatives de piratage et fraudes numériques, le Grand-Figeac organise une réunion d’information gratuite et ouverte à tous consacrée à la cybersécurité, animée par la Gendarmerie Nationale, dans le cadre d’un partenariat de longue date.
+- Cette rencontre permettra aux participants de mieux comprendre les principaux risques liés aux usages numériques du quotidien et d’adopter les bons réflexes pour se protéger efficacement.
+- Elle se déroulera le lundi 15 juin 2026 à 17h30 à l’Espace Public Multimédia de la Maison de La Formation du Grand-Figeac au 6 Avenue Bernard Fontanges à Figeac.
+- Au programme : • Les principales menaces et escroqueries en ligne ; • Les bons comportements à adopter pour sécuriser ses données et ses équipements ; • La conduite à tenir en cas de piratage, d’arnaque ou de victimisation.
+
+## [IA : 95 % des entreprises ont une stratégie, mais seulement 8 % en mesurent réellement le ... - Viuz](https://viuz.com/annonce/ia-95-des-entreprises-ont-une-strategie-mais-seulement-8-en-mesurent-reellement-le-roi-kpmg/)  
+*Source : viuz.com | Publication : 2026-05-28*
+
+- KPMG publie la première édition de son AI Pulse Survey , une enquête trimestrielle internationale sur le déploiement de l’IA dans les entreprises menée auprès de 2 110 dirigeants dans 20 pays : À l’échelle mondiale, l’IA s’impose comme un investissement incontournable : 95 % des entreprises interrogées disposent d’une stratégie IA et 64 % déclarent déjà en tirer des bénéfices réels, mais seules 8 % affichent un retour sur investissement mesurable ; - En France, les entreprises privilégient une trajectoire plus méthodique et progressive, avec une priorité donnée à la sécurisation des fondations technologiques : infrastructure IT et cloud (58 %), cybersécurité et sécurité des données (53 %) et opérations (50 %).
+- Au niveau mondial, cette logique se confirme : 43 % des dirigeants identifient la gestion des risques (données et cybersécurité) comme le principal défi et 74 % se disent préoccupés par ces enjeux, tandis que les fonctions IT (66 %) et opérations (55 %) concentrent une part importante des efforts d’intégration de l’IA ; - En France, la création de valeur liée à l’IA reste principalement centrée sur des usages opérationnels : productivité, automatisation, optimisation des processus et gains d’efficacité.
+- Les usages d’aide à la décision et analytiques sont moins prioritaires, cités par 27 % des organisations françaises, contre 41 % au niveau mondial.
+- - Si l’IA poursuit son accélération – 95 % des entreprises dans le monde disposent d’une stratégie IA et 64 % déclarent déjà en tirer des bénéfices réels –, seules 8 % affichent un retour sur investissement mesurable.
+
+## [L'AFNUM mobilisée à Paris pour porter les priorités de l'industrie numérique au G7 2026](https://www.alliancy.fr/lafnum-mobilisee-a-paris-pour-porter-les-priorites-de-lindustrie-numerique-au-g7-2026-b82cd9f2-e78f-49a4-bc91-cb5d977409c3)  
+*Source : alliancy.fr | Publication : 2026-05-28*
+
+- L’AFNUM mobilisée à Paris pour porter les priorités de l’industrie numérique au G7 2026 Mobilisée lors du G7 Numérique organisé à Paris, l’AFNUM défendra plusieurs priorités liées à l’IA, à la cybersécurité, au cloud et aux technologies quantiques.
+- Publié à 11h30 Lecture 2 min.
+- Le G7 Numérique réuni, depuis le 27 et jusqu’au 29 mai à Paris, ministres et acteurs internationaux du secteur technologique autour des enjeux de compétitivité, d’intelligence artificielle et de résilience des infrastructures numériques.
+- Dans ce cadre, l’AFNUM prend part à plusieurs événements organisés en marge des discussions officielles.
+
+## [<b>Cybersécurité</b> à l'école : avez-vous le « syndrome de l'écureuil »?](https://ecolebranchee.com/cybersecurite-syndrome-ecureuil/)  
+*Source : ecolebranchee.com | Publication : 2026-05-28*
+
+- Conserver des documents « au cas où » peut sembler anodin.
+- Pourtant, dans un contexte où les cyberattaques se multiplient et peuvent paralyser des.
+
+## [Renforcer la cyberrésilience d'un détaillant mondial - KPMG International](https://kpmg.com/ca/fr/insights/2026/05/enhancing-cyber-resilience-for-a-global-retailer.html)  
+*Source : kpmg.com | Publication : 2026-05-28*
+
+- Client Détaillant mondial dont le siège social se trouve au Canada Secteur Commerce de détail Objectif principal Améliorer la cybersécurité, la gestion des risques et la résilience Technologies Détection et réponse gérées; plateformes de renseignements sur les cybermenaces AGIR pour renforcer la cyberrésilience Une croissance internationale rapide crée certes des occasions, mais accroît aussi l’exposition aux cyberrisques.
+- Le parcours d’un détaillant mondial, dont le siège social se trouve au Canada, illustre parfaitement cet enjeu.
+- Son expansion internationale et la complexité de son environnement informatique ont remis en question les modèles de sécurité traditionnels, car ils limitaient la détection des menaces, la rapidité d’intervention et la confiance des dirigeants.
+- KPMG a aidé l’organisation à AGIR pour renforcer sa cyberrésilience au moyen de scénarios d’attaque réels, de services de préparation aux incidents et d’une détection gérée 24 h sur 24 afin de protéger ses actifs essentiels et de soutenir une croissance mondiale sécuritaire.
+
+## [La Bretagne en ordre de bataille pour soutenir la filière défense](https://www.bretagne-economique.com/actualites/la-bretagne-en-ordre-de-bataille-pour-soutenir-la-filiere-defense/)  
+*Source : bretagne-economique.com | Publication : 2026-05-28*
+
+- La filière défense représente 60 000 emplois en Bretagne, à parts égales entre civil et militaire.
+- « Cheffe de file du développement économique et de la formation professionnelle, la Région Bretagne entend jouer un rôle de facilitateur dans l’accompagnement et le développement de cette filière », notamment au regard des enjeux d’autonomie stratégique mis en exergue par le contexte géopolitique actuel.
+- Ce matin à Rennes, Loïg Chesnais-Girard, président de la Région Bretagne, a présenté, en présence de Benoît Laroche de Roussane, directeur de l’industrie de défense à la Direction générale de l’armement, un ensemble de mesures destinées à soutenir la filière défense bretonne.
+- « Notre ambition : renforcer le positionnement breton sur les filières de souveraineté, répondre aux besoins des industriels par la formation notamment, tout en créant des opportunités pour l’économie locale », a rappelé le chef de file de cette feuille de route régionale.
+
+## [RDC : un partenariat sécuritaire avec la Chine contre la fraude minière et la <b>cybercriminalité</b>](https://www.agenceecofin.com/actualites/2805-138820-rdc-un-partenariat-securitaire-avec-la-chine-contre-la-fraude-miniere-et-la-cybercriminalite)  
+*Source : agenceecofin.com | Publication : 2026-05-28*
+
+- (Agence Ecofin) - La RDC fait face à des défis persistants de gouvernance minière, de contrôle des filières artisanales et de cybersécurité.
+- Les autorités mettent l’accent sur la professionnalisation des forces de sécurité et le renforcement des moyens de lutte contre la criminalité organisée.
+- La République démocratique du Congo (RDC) et la Chine ont signé, mardi 26 mai à Pékin, un accord de coopération policière.
+- « Cet accord vise notamment à renforcer les capacités opérationnelles de la Police nationale congolaise grâce à l’assistance technique de la Chine dans plusieurs domaines stratégiques, notamment la lutte contre la criminalité, la fraude minière et la cybercriminalité », lit-on sur le site Internet de l’ambassade de la RDC en Chine.
