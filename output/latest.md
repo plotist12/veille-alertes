@@ -1,153 +1,151 @@
-# Résumés – 2026-05-30
+# Résumés – 2026-05-31
 
 
-## [Face à &quot;la montée des violences commises envers les élus&quot;, plus de 200 maires du Gers ...](https://www.ladepeche.fr/2026/05/29/face-a-la-montee-des-violences-commises-envers-les-elus-plus-de-200-maires-du-gers-reunis-a-gimont-pour-un-seminaire-sur-la-securite-13394079.php)  
-*Source : ladepeche.fr | Publication : 2026-05-29*
+## [BNP Paribas s'allie à Mistral AI pour bâtir une alternative souveraine à Mythos - Cryptoast](https://cryptoast.fr/bnp-paribas-sallie-a-mistral-ai-pour-batir-une-alternative-souveraine-a-mythos/)  
+*Source : cryptoast.fr | Publication : 2026-05-30*
 
-- Face à "la montée des violences commises envers les élus", plus de 200 maires du Gers réunis à Gimont pour un séminaire sur la sécurité l'essentiel Une réunion des maires sur le thème de la sécurité s’est tenue ce jeudi 28 mai à la salle culturelle Dubarry, à Gimont.
-- À l’initiative du colonel de Laforcade, plus de 200 élus du Gers ont été réunis pour évoquer des sujets de délinquance, de cybersécurité ou encore de vidéoprotection.
-- "Faire un point sur la sécurité dans le Gers" : c’était l’objectif de ce séminaire réunissant plus de 200 élus, à Gimont, dans la salle Dubarry.
-- À l’initiative du colonel de gendarmerie de Laforcade, ce premier séminaire sur la sécurité fait suite à la réunion pour les nouveaux maires ayant eu lieu le mois dernier.
+- BNP Paribas s'allie à Mistral AI pour bâtir une alternative souveraine à Mythos Alors qu’Anthropic réserve Mythos à un cercle restreint d’organisations américaines, les banques européennes sont tenues à l’écart.
+- Face à cette situation, BNP Paribas renforce son partenariat avec Mistral AI pour accélérer le développement d’une alternative souveraine.
+- Mais est-ce que l'Europe peut vraiment rivaliser avec l’avance technologique prise par les géants américains ?.
+- L'IA de cybersécurité d'Anthropic inaccessible aux Européens Comme nous le rapportions il y a quelques jours, les banques européennes restent exclues de Mythos, le modèle de cybersécurité d’Anthropic.
 
-## [PME : le défi de la souveraineté numérique - InformatiqueNews.fr](https://www.informatiquenews.fr/entre-performance-et-souverainete-le-nouveau-dilemme-numerique-des-pme-ludovic-jaffres-linkeo-111667)  
-*Source : informatiquenews.fr | Publication : 2026-05-29*
+## [Rambervillers. <b>Cybersécurité</b> et subventions au menu des élus communautaires](https://www.vosgesmatin.fr/societe/2026/05/30/cybersecurite-et-subventions-au-menu-des-elus-communautaires)  
+*Source : vosgesmatin.fr | Publication : 2026-05-30*
 
-- La souveraineté numérique s’impose désormais comme un enjeu stratégique pour les PME françaises, confrontées à une dépendance croissante aux plateformes cloud, CRM, publicitaires et IA étrangères.
-- Entre gains de performance, maîtrise des données et résilience opérationnelle, les dirigeants cherchent un nouvel équilibre pour préserver leur liberté d’action.
-- Pendant longtemps, le numérique a été perçu comme une promesse simple pour les PME françaises : gagner du temps, améliorer leur visibilité et accélérer leur croissance grâce aux meilleurs outils du marché.
-- Cette logique a conduit des milliers d’entreprises à s’équiper massivement de solutions américaines devenues incontournables : suites collaboratives, plateformes publicitaires, outils CRM, hébergements cloud, services d’intelligence artificielle ou encore solutions marketing.
+- Rambervillers Cybersécurité et subventions au menu des élus communautaires En préambule d’un récent conseil communautaire, les élus réunis à la Maison du Territoire autour de leur président Christophe Lemesle, ont accueilli l’adjudant-chef Jérémie Roy, référent sûreté et cybersécurité du groupement de gendarmerie des Vosges.
+- Ce dernier est venu les sensibiliser à l’évolution de la cybercriminalité, et les conseiller pour bien agir face à cette menace qui touche de plus en.
 
-## [“La donnée doit être un sujet politique, pas seulement un sujet de DSI” - Acteurs Publics](https://acteurspublics.fr/webtv/emissions/forum-perspectives-secteur-publics/la-donnee-doit-etre-un-sujet-politique-pas-seulement-un-sujet-de-dsi/)  
-*Source : acteurspublics.fr | Publication : 2026-05-29*
+## [Forbach. Pascal Licata, un Mosellan en charge d'un programme de <b>cybersécurité</b> dans le ...](https://www.republicain-lorrain.fr/economie/2026/05/30/pascal-licata-un-mosellan-en-charge-d-un-programme-de-cybersecurite-dans-le-cadre-du-g7-d-evian-les-bains)  
+*Source : republicain-lorrain.fr | Publication : 2026-05-30*
 
-- Acteurs publics Solutions X ServiceNow Numérique Cybersécurité : “Le ROI cyber dans le public, c’est la continuité du service et la crédibilité de l’institution” Par · le 29 mai 2026 Émission Les données publiques sont “le carburant du service public”, mais elles restent trop souvent cloisonnées et insuffisamment partagées entre administrations.
-- Constance Nebbula, vice-présidente de la région Pays de la Loire et présidente d'Open Data France, Yann-Maël Le Douarin (DGOS) et Fadila Leturcq (DINUM) ont débattu des freins culturels, techniques et organisationnels à leur valorisation.
-- Ils intervenaient à l'occasion du Forum Perspectives Services Publics le 28 mai 2026 au siège de la DGAC.
-- Publié le 29 mai 2026 · 1 min de lecture Analysez, anticipez et décidez grâce à la profondeur de l’offre d’Acteurs Publics : revue, newsletters, site web, web TV, webinaires, podcasts, événements, application... Connexions multiples sur votre compte.
+- Forbach Pascal Licata, un Mosellan en charge d’un programme de cybersécurité dans le cadre du G7 d’Évian-les-Bains « Nous avons une grande responsabilité.
+- L’image de la France est en jeu ».
+- Pascal Licata, natif de Forbach, est en train de relever son plus grand défi professionnel en ce printemps 2026.
+- Directeur des systèmes d’informations de la communauté de communes Pays d’Évian Vallée d’Abondance, le Mosellan de 49 ans a été nommé à la tête d’un programme de cybersécurité, baptisé Citadel, dans le cadre du sommet du G7 qui va se tenir sur les bords du lac Léman, en Haute-Savoie.
 
-## [Anthropic fonce vers l'IPO après sa Série H XXL](https://www.informatiquenews.fr/anthropic-rafle-65-milliards-et-flirte-avec-les-1-000-milliards-de-valorisation-111664)  
-*Source : informatiquenews.fr | Publication : 2026-05-29*
+## [notification d'un incident de <b>cybersécurité</b> chez un prestataire tiers le 21 mai 2026](https://ch.zonebourse.com/actualite-bourse/orrstown-financial-services-notification-d-un-incident-de-cybersecurite-chez-un-prestataire-tiers-ce7f5ddbd181ff25)  
+*Source : ch.zonebourse.com | Publication : 2026-05-30*
 
-- La startup Anthropic, connue pour son IA Claude, vient de boucler une Série H monstrueuse qui porte sa valorisation à 965 milliards de dollars.
-- Dernier tour de piste avant l’entrée en Bourse ?.
-- Probable, mais pas écrit dans le marbre.
-- Décryptage d’une ascension aussi fulgurante que vertigineuse.
+- Orrstown Financial Services : notification d'un incident de cybersécurité chez un prestataire tiers le 21 mai 2026 Publié le 29/05/2026 à 22:13 - Modifié le 29/05/2026 à 22:16 Reuters - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager Cet article est réservé aux membres Débloquer l'article : INSCRIVEZ-VOUS !.
+- Inscription 100% Gratuite Vous êtes déja client ?.
+- Se connecter © Reuters - 2026 Partager.
 
-## [ExaGrid remporte cinq prix sectoriels lors des Network Computing Awards 2026](https://fr.finance.yahoo.com/actualites/exagrid-remporte-cinq-prix-sectoriels-170500017.html)  
-*Source : fr.finance.yahoo.com | Publication : 2026-05-29*
+## [Programme du MS-MCSI | <b>Cybersécurité</b> Industrielle &amp; Industrie du Futur](https://www.mines-stetienne.fr/programmes/manager-de-la-cybersecurite-industrielle-ms-mcsi/ms-mcsi-programme)  
+*Source : mines-stetienne.fr | Publication : 2026-05-30*
 
-- ExaGrid élue « Entreprise de l’année » pour la septième année consécutive MARLBOROUGH, Massachusetts, May 29, 2026--(BUSINESS WIRE)--ExaGrid®, le plus grand fournisseur indépendant mondial de solutions de stockage de sauvegarde, proposant un stockage de sauvegarde à plusieurs niveaux doté des fonctions de sécurité les plus complètes et d’un système de verrouillage de la rétention optimisé par l’IA pour la récupération après ransomware, a annoncé aujourd’hui que la société avait été récompensée par cinq prix sectoriels, dont « Produit de l’année pour la récupération après ransomware avec isolation réseau », « Produit de l’année testé en laboratoire », « Entreprise de l’année », « Produit de protection des données de l’année », ainsi que le « Produit de stockage de l’année » lors de la cérémonie des Network Computing Awards, qui s’est tenue à Londres le 21 mai 2026.
-- Les Network Computing Awards sont attribués à l’issue d’un vote du public.
-- L’édition 2026 marque la huitième année consécutive de récompenses pour ExaGrid lors des Network Computing Awards, ainsi que la septième année consécutive où ExaGrid remporte le prix « Entreprise de l’année ».
-- ExaGrid a également reçu le prix « Produit de l’année testé en laboratoire », décerné par le jury à la suite d’une évaluation indépendante de ses équipements de stockage de sauvegarde à plusieurs niveaux SSD et HDD, dotées d’un système de verrouillage de la rétention optimisé par l’IA pour la récupération après ransomware.
+- Maîtriser la cybersécurité appliquée aux systèmes industriels Le programme du Mastère Spécialisé® Manager de la Cybersécurité Industrielle forme des experts capables de protéger les infrastructures critiques, les chaînes de production, les réseaux industriels et les équipements de l’Industrie du Futur.
+- Fondé sur une pédagogie active (études de cas, mises en situation, projet fil rouge, thèse professionnelle), il combine savoirs fondamentaux, technologies avancées et pratiques professionnelles.
+- La formation s’appuie sur la plateforme DIWII (Digital Intelligence for Industry Worldwide Innovation), un démonstrateur unique regroupant cobots, robots, lignes automatisées, IIoT, edge computing, supervision, 5G privée… un terrain d’expérimentation idéal pour la cybersécurité industrielle.
+- Structure générale de la formation 390 heures d’enseignement (45 ECTS) - projet / thèse professionnelle de 6 mois (30 ECTS) - 5 grands blocs pédagogiques (GP) - Projets et études de cas pratiques - Mission en entreprise de 6 mois - Thèse professionnelle - GP 1 — Mise à niveau Volume : 60 h – 7 ECTS Objectif Harmoniser les compétences de la promotion et établir un socle technique commun.
 
-## [IA, <b>cybersécurité</b>, mineurs: le G7 cherche un terrain d'entente à Paris | TV5MONDE](https://information.tv5monde.com/economie/ia-cybersecurite-mineurs-le-g7-cherche-un-terrain-dentente-paris-2823645)  
-*Source : information.tv5monde.com | Publication : 2026-05-29*
+## [Des sites Web peuvent vous espionner via votre SSD : la faille que personne n'avait vue](https://www.futura-sciences.com/tech/actualites/cybersecurite-sites-web-peuvent-vous-espionner-via-votre-ssd-faille-personne-navait-vue-134896/)  
+*Source : futura-sciences.com | Publication : 2026-05-30*
 
-- La ministre chargée de l'Intelligence artificielle et du Numérique, Anne Le Hénanff, à l'Assemblée nationale le 5 mai 2026 Des avancées sur la protection des mineurs et une timide reconnaissance de l'impact énergétique de l'IA: la réunion des ministres du Numérique du G7 vendredi à Paris a abouti à une déclaration commune relativement prudente sur les enjeux du secteur.
-- "La protection des mineurs en ligne" est désormais "une priorité internationale", s'est félicitée la ministre française du Numérique Anne Le Hénanff, lors de la conférence de presse finale de ce sommet, présidé par la France.
-- Dans le document final, les sept pays membres se sont mis d'accord pour reconnaître "un ensemble de principes" pour protéger les mineurs en ligne, notamment via "la vérification de l'âge, la protection des mineurs dès la conception des services numériques" ou encore "la lutte contre les contenus illicites", a détaillé la ministre.
-- Selon elle, cette déclaration permettra "d'être beaucoup plus exigeant vis-à-vis" des plateformes numériques "et de ne pas leur laisser le choix que de modifier leur modèle".
+- Des chercheurs autrichiens viennent de publier un article détaillant une nouvelle attaque qui permet d'obtenir des informations sur l'activité d'un utilisateur en se basant sur le temps d'accès à son disque SSD.
+- Ils avaient déjà montré une attaque similaire par le passé, mais elle nécessitait un accès au système pour l'exécution de code.
+- Cette nouvelle version peut être lancée directement depuis le navigateur, et cela change tout.
+- Baptisée Frost (fingerprinting remotely using OPFS-based SSD timing), cette attaque permet tout simplement à un site d'obtenir des informations sur l'activité en cours sur un ordinateur.
 
-## [TIC : Port-Mathurin dans la stratégie nationale d'IA et de <b>cybersécurité</b> - lexpress.mu](https://lexpress.mu/s/port-mathurin-dans-la-strategie-nationale-dia-et-de-cybersecurite-558566)  
-*Source : lexpress.mu | Publication : 2026-05-29*
+## [Arnaque sur Android : 250 fausses applications vous abonnent à votre insu - 01net.com](https://www.01net.com/actualites/arnaque-android-250-fausses-applications-vous-abonnent-votre-insu.html)  
+*Source : 01net.com | Publication : 2026-05-30*
 
-- Publicité.
-- Port-Mathurin dans la stratégie nationale d’IA et de cybersécurité Par Partager cet article.
-- Port-Mathurin dans la stratégie nationale d’IA et de cybersécurité ■ Le ministre Avinash Ramtohul et le commissaire Alain Wong So ont eu un dialogue constructif avec les élèves du Rodrigues College.
-- Du 26 au 28 mai, le ministre des Technologies de l’information, de la communication et de l’innovation, Avinash Ramtohul, a effectué à Rodrigues une mission officielle.
+- Les chercheurs du laboratoire zLabs de Zimperium lèvent le voile sur une campagne malveillante, intitulée « Premium Deception ».
+- Active depuis un peu plus de dix mois, l’arnaque consiste à abonner des utilisateurs de smartphones Android à des services payants.
+- L’abonnement est directement réglé par le biais de la facture mensuelle prélevée par l’opérateur.
+- Sans surprise, les pirates ne demandent jamais l’accord explicite de la victime.
 
-## [Données d'accès exposées : l'IA aggrave considérablement le problème](https://b2b-cyber-security.de/fr/offengelegte-zugangsdaten-ki-verstaerkt-massiv-das-problem/)  
-*Source : b2b-cyber-security.de | Publication : 2026-05-29*
+## [Ce VPN complet avec antivirus intégré est à un petit prix (-88%), avec 4 mois offerts](https://www.phonandroid.com/vpn-complet-antivirus-integre-petit-prix-4-mois-offerts.html)  
+*Source : phonandroid.com | Publication : 2026-05-30*
 
-- Comme le confirme un rapport récent, l'IA accélère considérablement la diffusion incontrôlée des identifiants de connexion.
-- Les commits des développeurs utilisant Claude Code* révèlent un taux de fuite d'identifiants de 3,2 %, contre 1,5 % en moyenne.
-- Les identifiants de connexion exposés demeurent un vecteur d'attaque majeur et récurrent.
-- Le rapport « Prolifération des secrets » illustre comment la généralisation de l'IA en 2025 a profondément transformé le développement logiciel : les identités des machines et les identifiants d'accès sont désormais exposés beaucoup plus fréquemment dans les systèmes publics et internes.
+- Ce VPN complet avec antivirus intégré est à un petit prix (-88%), avec 4 mois offerts Surfshark fait partie des rares VPN à proposer une offre très complète pour un tarif situé sous la barre des 2 €.
+- Grâce à une offre exclusive aux lecteurs de Phonandroid, les prix baissent davantage, avec 4 mois offerts en bonus.
+- Pour ceux qui cherchent à protéger leur navigation sans se ruiner, Surfshark propose actuellement jusqu'à 88 % de réduction sur ses abonnements longue durée.
+- Les formules One et One+ ajoutent même un antivirus et plusieurs outils dédiés à la cybersécurité.
 
-## [Plus d'une entreprise sur deux a été ciblée par des cyberattaques en 2025, avec succès ...](https://www.lecho.be/entreprises/tech-science/plus-d-une-entreprise-sur-deux-a-ete-ciblee-par-des-cyberattaques-en-2025-avec-succes-dans-20-des-cas/10662459.html)  
-*Source : lecho.be | Publication : 2026-05-29*
+## [Offense au chef de l'État : Azoura Fall placé sous mandat de dépôt, jugé mardi en flagrant délit](https://www.dakaractu.com/Offense-au-chef-de-l-Etat-Azoura-Fall-place-sous-mandat-de-depot-juge-mardi-en-flagrant-delit_a272292.html)  
+*Source : dakaractu.com | Publication : 2026-05-30*
 
-- Plus d'une entreprise sur deux a été ciblée par des cyberattaques en 2025, avec succès.
+- L’activiste proche du parti Pastef, Assane Guèye, plus connu sous le pseudonyme d’Azoura Fall, a été arrêté le mercredi 28 mai 2026 par la Division spéciale de cybersécurité (DSC).
+- Les faits reprochés portent sur une interview accordée devant l’hémicycle en marge de l’installation d’Ousmane Sonko à la présidence de l’Assemblée nationale, au cours de laquelle il s’en est pris au chef de l’État.
+- Il aurait notamment déclaré : « Je n’aime pas les traîtres… Les serères sont des gens bien, mais lui non ».
+- Le procureur de la République près le tribunal de grande instance hors classe de Dakar s’est autosaisi de l’affaire et a ordonné à la DSC de procéder à son interpellation.
 
-## [Le fonds d'investissement de Google signe sa première opération dans la <b>cybersécurité</b> en ...](https://www.latribune.fr/article/tech/680327898250814/le-fonds-dinvestissement-de-google-signe-sa-premiere-operation-dans-la-cybersecurite-en-france-avec-mokn)  
-*Source : latribune.fr | Publication : 2026-05-29*
+## [Afrique: Coupe du monde 2026 - Des experts en <b>cybersécurité</b> alertent sur une vague d ...](https://fr.allafrica.com/stories/202605290623.html)  
+*Source : fr.allafrica.com | Publication : 2026-05-30*
 
-- Le fonds d'investissement de Google signe sa première opération dans la cybersécurité en France avec MokN Le hameçonnage reste la première menace tous publics confondus selon le rapport d'activité 2025 de cybermalveillance.gouv.fr, qui a franchi le cap des 500 000 victimes assistées, en hausse de 20 % par rapport à 2024.
-- La Tribune avec Gemini.
+- Derrière l'effervescence liée à l'approche de la Coupe du monde 2026 se cache une autre réalité inquiétante : une hausse significative des cyberescroqueries liées à l'événement, comme le révèle un rapport de Kaspersky publié le 28 mai 2026.
+- Selon ledit rapport, les cybercriminels ont mis en place de faux sites internet prétendant vendre des billets officiels pour les matchs du tournoi.
+- Ces derniers imitent les plateformes officielles en utilisant les codes visuels de la compétition afin de tromper les internautes.
+- Attirés par ces offres, les internautes remplissent des formulaires et effectuent ensuite des paiements dans différentes devises.
 
-## [IA, <b>cybersécurité</b>, mineurs : le G7 cherche un terrain d'entente à Paris - CB News](https://www.cbnews.fr/cb/ia-cybersecurite-mineurs-g7-cherche-terrain-entente-paris)  
-*Source : cbnews.fr | Publication : 2026-05-29*
+## [Qu'est-ce qu'un logiciel antivirus et en a t-on encore besoin en 2026 ? - ZDNET](https://www.zdnet.fr/pratique/quest-ce-quun-logiciel-antivirus-et-en-a-t-on-encore-besoin-en-2026-493106.htm)  
+*Source : zdnet.fr | Publication : 2026-05-30*
 
-- IA, cybersécurité, mineurs : le G7 cherche un terrain d'entente à Paris L'impact environnemental est l'un des sujets jugé "compliqué".
-- Sécurité de l'intelligence artificielle (IA), protection des mineurs : les ministres du Numérique du G7, réunis vendredi à Paris, tentent d'aboutir à des positions communes sur les grands enjeux du secteur, même si un consensus sur la question de son impact environnemental paraît très incertain.
-- Après des mois de négociations, la réunion a démarré en début de matinée au ministère de l'Économie.
-- Préparatoire au sommet des chefs d'Etat des sept principales économies avancées, à Evian du 15 au 17 juin, elle doit donner lieu à une conférence de presse en fin de journée.
+- Les points clés sur les antivirus en 2026 Les antivirus offrent une meilleure protection que les outils intégrés et les navigateurs.
+- - Defender et XProtect sont performants, mais ils ont tout de même leurs limites.
+- - Un antivirus autonome peut renforcer la sécurité.
+- Et il peut être gratuit.
 
-## [PQ : Éducation : Les examens du NCE bientôt supprimés - lexpress.mu](https://lexpress.mu/s/education-les-examens-du-nce-bientot-supprimes-558541)  
-*Source : lexpress.mu | Publication : 2026-05-29*
+## [L'organe chinois de promotion du commerce international dénonce la révision du règlement ...](http://french.china.org.cn/business/txt/2026-05/30/content_118522473.htm)  
+*Source : french.china.org.cn | Publication : 2026-05-30*
 
-- Publicité.
-- Éducation : Les examens du NCE bientôt supprimés Par Partager cet article.
-- Éducation : Les examens du NCE bientôt supprimés Le député Chetan Baboolall a interrogé le ministre de l’Éducation, Mahend Gungpersad, sur l’avenir du National Certificate of Education (NCE).
-- Le ministre a confirmé que le Blueprint en finalisation propose la suppression des examens du NCE en Grade 9, après de larges consultations.
+- L'organe chinois de promotion du commerce international dénonce la révision du règlement de l'UE sur la cybersécurité Le Conseil chinois pour la promotion du commerce international (CCPCI) a exprimé vendredi sa ferme opposition à un projet de révision du Règlement sur la cybersécurité de l'Union européenne (UE), notant que ce projet incluait du contenu manifestement déraisonnable.
+- Le projet introduit des facteurs de "risques non techniques" et lie directement les risques de cybersécurité aux entreprises issues de pays spécifiques ou ayant des profils nationaux spécifiques, dans le but de les exclure des chaînes d'approvisionnement concernées de l'UE, a déclaré Wang Yifei, porte-parole du CCPCI, lors d'une conférence de presse.
+- Mme Wang a exprimé sa ferme opposition à ces pratiques, ajoutant que la Chambre de commerce international de Chine avait officiellement transmis des observations à la partie européenne au nom du milieu commercial chinois.
+- Exclure les fournisseurs de pays spécifiques pour des raisons de sécurité généralisées compromettra non seulement les droits et intérêts légitimes d'autres opérateurs concernés, dont les entreprises chinoises, mais affaiblira également l'ouverture, l'équité et la prévisibilité de l'environnement commercial de l'UE, a poursuivi Mme Wang.
 
-## [L'invisibilité : le nouveau paradigme de la <b>cybersécurité</b> des données](https://www.journaldunet.com/cybersecurite/1549581-l-invisibilite-le-nouveau-paradigme-de-la-cybersecurite-des-donnees/)  
-*Source : journaldunet.com | Publication : 2026-05-29*
+## [Chiffré ne veut pas dire confidentiel : la preuve en image. - YouTube](https://www.youtube.com/watch?v=RupQGEH_Nwg)  
+*Source : youtube.com | Publication : 2026-05-30*
 
-- L'invisibilité : le nouveau paradigme de la cybersécurité des données Face à des cyberattaques de plus en plus sophistiquées, la cybersécurité doit passer d'une protection visible à une stratégie d'invisibilité et d'isolation des données critiques.
-- Explications.
-- La sécurité numérique s'est longtemps résumée à bâtir des murs et des points de contrôle.
-- Pendant des années, la cybersécurité a adopté une approche quasi architecturale : des frontières extérieures claires et un contrôle strict à l'intérieur pour repérer et bloquer les anomalies.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Rockwell Automation nomme David Lefebvre pour piloter sa stratégie en France](https://www.ecinews.fr/fr/rockwell-automation-nomme-david-lefebvre-pour-piloter-sa-strategie-en-france/)  
-*Source : ecinews.fr | Publication : 2026-05-29*
+## [Google corrige 151 failles de Chrome, dont 22 vulnérabilités critiques - 01net.com](https://www.01net.com/actualites/google-corrige-151-failles-chrome-22-vulnerabilites-critiques.html)  
+*Source : 01net.com | Publication : 2026-05-30*
 
-- Rockwell Automation nomme David Lefebvre pour piloter sa stratégie en France Rockwell Automation annonce la nomination de David Lefebvre au poste de Directeur Général France, une évolution stratégique visant à accompagner la prochaine phase de transformation numérique de l’industrie française.
-- Cette nomination intervient dans un contexte où les entreprises industrielles accélèrent leurs investissements dans des solutions basées sur le cloud, l’IA et la cybersécurité.
-- Avec plus de trente ans d’expérience dans l’automatisation et la cybersécurité des systèmes industriels, David Lefebvre apporte une expertise solide pour soutenir les industriels dans la modernisation de leurs opérations.
-- Une mission orientée croissance et transformation Dans ses nouvelles fonctions, David Lefebvre sera chargé de piloter les opérations commerciales en France, tout en définissant une stratégie de développement durable pour l’entreprise sur le marché national.
+- Google vient de colmater une montagne de brèches dans Chrome.
+- C’est même l’une des plus importantes mises à jour de sécurité de l’histoire de Chrome.
+- En l’espace de quelques semaines, le navigateur le plus utilisé au monde a en effet reçu plusieurs correctifs.
+- Mis bout à bout, ils ont colmaté 151 vulnérabilités, dont 22 jugées critiques.
 
-## [« Les skills markdown sont devenus des vecteurs d'attaque », Xavier Duros, TrendAI - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-actualites/les-skills-markdown-sont-devenus-des-vecteurs-dattaque-xavier-duros-major-accounts-sales-manager-chez-trendai/)  
-*Source : itsocial.fr | Publication : 2026-05-29*
+## [Piraterie en ligne : le Vietnam renforce sa souveraineté technologique](https://lecourrier.vn/piraterie-en-ligne-le-vietnam-renforce-sa-souverainete-technologique/1348446.html)  
+*Source : lecourrier.vn | Publication : 2026-05-30*
 
-- Xavier Duros est major accounts sales manager chez TrendAI, l'entité B2B de Trend Micro, née en 2025 de la réorganisation du groupe en trois entités distinctes.
-- Il revient sur la transformation interne qui a accompagné ce renommage, sur la nouvelle nature du risque dans les environnements agentiques, et sur ce que ses clients des grandes entreprises lui demandent.
-- IT Social : TrendAI, ce n'est pas juste un nouveau logo, qu'est-ce qui a vraiment changé chez Trend Micro ?.
-- Le groupe existe toujours.
+- >> Réseaux sociaux : jusqu’à 1.900 dollars d’amende pour les fausses informations >> Vietnam Security Summit 2026 : se préparer au monde post-quantique et post-IA >> Cybersécurité : bâtir la confiance numérique Le streaming illégal ne relève plus d’activités isolées, mais s’est transformé en réseaux organisés opérant à l’échelle transfrontalière, générant chaque année des milliards de visites et provoquant d’importantes pertes financières pour les entreprises, tout en freinant le développement de l’industrie culturelle numérique.
+- Lutte contre le piratage Selon les données des autorités compétentes et des organisations de lutte contre le piratage, le Vietnam compte actuellement plus de 400 sites web en vietnamien diffusant illégalement des films, programmes télévisés et contenus numériques.
+- À eux seuls, les sites de diffusion pirate de football ont enregistré plus de 1,5 milliard de visites durant la période 2022-2023.
+- Par ailleurs, plus de 200 sites de films piratés atteignent environ 120 millions de vues par mois.
 
-## [IA, <b>cybersécurité</b>, mineurs: le G7 cherche un terrain d'entente à Paris | Mediapart](https://www.mediapart.fr/journal/fil-dactualites/290526/ia-cybersecurite-mineurs-le-g7-cherche-un-terrain-d-entente-paris)  
-*Source : mediapart.fr | Publication : 2026-05-29*
+## [VPN, antivirus, surveillance : NordVPN fusionne tout dans une seule application](https://www.degrouptest.com/actualite/vpn-antivirus-surveillance-nordvpn-fusionne-tout-dans-une-seule-application)  
+*Source : degrouptest.com | Publication : 2026-05-30*
 
-- Sécurité de l’intelligence artificielle (IA), protection des mineurs: les ministres du Numérique du G7, réunis vendredi à Paris, tentent d’aboutir à des positions communes sur les grands enjeux du secteur, même si un consensus sur la question de son impact environnemental paraît très incertain.
-- Depuis le 29 juin 2025, notre confrère Christophe Gleizes, journaliste pour Society et So Foot, est emprisonné en Algérie.
-- Nous ne l’oublions pas et réclamons sa libération.
+- Une interface simplifiée autour de trois piliers Pour rendre cette évolution possible, NordVPN a décidé de réorganiser son application autour de trois principes clés : Connect.
+- Il s'agit de la fonction VPN classique que tout le monde connaît, et qui a fait la renommée de NordVPN.
+- - Protect.
+- L'outil Protection anti-menaces Pro, devient officiellement un antivirus de nouvelle génération.
 
-## [Le <b>ransomware</b> devient plus intelligent, vos sauvegardes le sont-elles aussi ? - ITdaily](https://itdaily.fr/blogs/securite/ransomware-devient-plugs-intelligent-vos-sauvegardes-aussi/)  
-*Source : itdaily.fr | Publication : 2026-05-29*
+## [[Short] <b>Cybersécurité</b> : Alerte CERT-FR sur vulnérabilité Trend Micro - YouTube](https://www.youtube.com/watch?v=T3l6Z-sM0oM)  
+*Source : youtube.com | Publication : 2026-05-30*
 
-- Tôt ou tard, les attaquants parviennent à s’introduire dans vos systèmes, et ils savent désormais où se trouvent les sauvegardes.
-- Synology a organisé un webinaire à ce sujet et souhaite y répondre en faisant des sauvegardes une priorité.
-- Les entreprises qui survivent à une attaque par ransomware n’y parviennent jamais parce qu’elles ont empêché l’attaque.
-- Elles survivent parce qu’elles ont pu se rétablir suffisamment vite.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Une réunion d'information sur les cambriolages, les incendies et la <b>cybercriminalité</b>, jeudi 4 ...](https://www.letelegramme.fr/finistere/saint-yvi-29140/une-reunion-dinformation-sur-les-cambriolages-les-incendies-et-la-cybercriminalite-jeudi-4-juin-a-saint-yvi-7053197.php)  
-*Source : letelegramme.fr | Publication : 2026-05-29*
+## [La Chapelle-aux-Chasses : comprendre et se protéger des menaces numériques avec la ...](https://www.lamontagne.fr/chapelle-aux-chasses-03230/actualites/la-chapelle-aux-chasses-comprendre-et-se-proteger-des-menaces-numeriques-avec-la-bpca-de-l-allier_14995453/)  
+*Source : lamontagne.fr | Publication : 2026-05-30*
 
-- Face à l'augmentation des risques liés aux cambriolages, aux incendies domestiques et aux actes de cybercriminalité , la caisse locale Groupama de.
+- À l’initiative du centre social de Chevagnes, en collaboration avec la municipalité de la Chapelle-aux-Chasses qui accueillait cette présentation dans sa salle polyvalente, une soirée d’information a été organisée jeudi 21 mai, sur le thème « Comprendre les menaces numériques et se protéger » avec l’intervention de la Brigade de prévention des cybermenaces de l’Allier (BPCA) animée par l’adjudant-chef Jean-Philippe Guinette, cyber enquêteur au quartier Taguin.
+- Partager : A la une Faits divers.
 
-## [Antivirus nouvelle génération : NordVPN devient une véritable app de <b>cybersécurité</b> !](https://www.lepoint.fr/services/antivirus-nouvelle-generation-nordvpn-devient-une-veritable-app-de-cybersecurite-K63T5QJSWRBOVIX7W5CC5624NI/)  
-*Source : lepoint.fr | Publication : 2026-05-29*
+## [Cyberhebdo du 29 mai 2026 : menaces iranienne sur des infrastructures critiques américaines](https://www.lemagit.fr/actualites/366643564/Cberhebdo-du-29-mai-2026)  
+*Source : lemagit.fr | Publication : 2026-05-30*
 
-- C’est pourquoi beaucoup d’internautes se tournent vers un VPN, comme NordVPN.
-- C’est normal, car c’est le plus rapide du marché, et il fait aussi partie des plus abordables.
-- Ce dernier se veut désormais comme une app complète de cybersécurité, et ce, grâce à son antivirus de nouvelle génération.
-- Offrez-vous l’antivirus de NordVPN pour seulement 3,49€/mois Pour être très clair, le VPN le plus abordable de NordVPN est le Basique.
+- Cyberhebdo du 29 mai 2026 : menaces iranienne sur des infrastructures critiques américaines Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
+- Bienvenue dans cette nouvelle édition du Cyberhebdo.
+- La semaine écoulée a une fois de plus démontré la vélocité et la sophistication croissantes des menaces numériques mondiales.
+- Le paysage cybernétique reste un champ de bataille permanent, où les attaquants exploitent sans relâche les vulnérabilités des infrastructures critiques et des données sensibles.
 
-## [Claude Mythos : Anthropic va ouvrir les vannes de l'IA qui débusque les failles de sécurité](https://www.01net.com/actualites/claude-mythos-anthropic-ouvrir-vannes-ia-debusque-failles-de-securite.html)  
-*Source : 01net.com | Publication : 2026-05-29*
+## [Tours - Journée régionale de la <b>cybersécurité</b> - YEPS](https://www.yeps.fr/offre/tours-journee-regionale-de-la-cybersecurite/)  
+*Source : yeps.fr | Publication : 2026-05-30*
 
-- Le mois dernier, Anthropic a levé le voile sur Claude Mythos, un puissant modèle d’IA taillé pour débusquer des failles de sécurité.
-- Craignant que l’IA ne soit utilisée comme point de départ à des cyberattaques, Anthropic a décidé de restreindre l’accès à Mythos.
-- Le modèle a été réservé à une poignée de partenaires triés sur le volet, comme Amazon, Apple, Broadcom, Cisco, CrowdStrike, Google, Linux Foundation, Microsoft, et NVIDIA.
-- En quelques semaines, les partenaires choisis, et regroupés dans le cadre du « Project Glasswing », ont découvert plus de 10 000 vulnérabilités dans leurs systèmes à l’aide de Claude Mythos.
+- Tours - Journée régionale de la cybersécurité Le 11 juin 2026 à l’Université de Tours, participez au rendez-vous annuel de la cybersécurité en Centre-Val de Loire.
+- La matinée, décryptez les enjeux de droit et de cyber avec des invités d’exception et l’après-midi, préparez-vous concrètement aux cyberattaques.
+- Cette année, plus d’une vingtaine d’ateliers pratiques, diagnostics, démonstrations, exercices de gestion de crise, serious game vous sont proposés gratuitement ainsi qu’un grand défi technique « Capture the Flag », de 14h à 17h.
+- Concours régional Capture The Flag : Formez votre équipe et mesurez vos compétences lors de ce capture the flag inédit.
