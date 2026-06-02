@@ -1,147 +1,147 @@
-# Résumés – 2026-06-01
+# Résumés – 2026-06-02
 
 
-## [<b>Cybersécurité</b> : Les Failles Cachées D'Israël - i24NEWS](https://www.i24news.tv/fr/actu/vu-sur-i24news/artc-cybersecurite-les-failles-cachees-d-israel)  
-*Source : i24news.tv | Publication : 2026-05-31*
+## [<b>Cybersécurité</b> : ESSCA Junior Conseil décroche l'ISO 27001 - La Vie Numerique](https://lavienumerique.com/articles/209921/cybersecurite-essca-junior-conseil-decroche-liso-27001.html)  
+*Source : lavienumerique.com | Publication : 2026-06-01*
 
-- i24NEWS - Vu sur i24NEWS - Cybersécurité : les failles cachées d’Israël - Cybersécurité : les failles cachées d’Israël Malgré son avance mondiale en cyberdéfense, Israël doit mieux protéger ses ministères, ses infrastructures critiques et son système éducatif.
-- Selon Jérémie Makowski, expert en cybersécurité, Israël reste l’une des grandes puissances mondiales du cyber, mais souffre encore d’un écart important entre ses capacités nationales et leur application concrète sur le terrain.
-- Israël est régulièrement présenté comme une cyberpuissance mondiale.
-- Le pays dispose de capacités avancées, développées dans l’armée, les laboratoires de recherche et les entreprises privées.
+- Veuillez activer Javascript pour accéder au site web.
 
-## [Ooredoo annonce l'établissement de la première liaison de communication ... - Qatar news agency](https://qna.org.qa/fr-FR/News-Area/News/2026-5/31/ooredoo-annonce-letablissement-de-la-premiere-liaison-de-communication-quantique-securisee-au-qatar)  
-*Source : qna.org.qa | Publication : 2026-05-31*
+## [Les PME non plus n'échappent plus aux cyberattaques dopées à l'IA - Trends-Tendances](https://trends.levif.be/partenaires/les-pme-non-plus-nechappent-plus-aux-cyberattaques-dopees-a-lia/)  
+*Source : trends.levif.be | Publication : 2026-06-01*
 
-- Ooredoo annonce l’établissement de la première liaison de communication quantique sécurisée au Qatar Doha, le 31 mai /QNA/ Ooredoo Qatar a annoncé le déploiement de la première liaison de communication quantique sécurisée dans l’État du Qatar, réalisé en collaboration avec l’Université Hamad Bin Khalifa et le ministère de la Défense, s'inscrivant ainsi dans le cadre d’une réalisation nationale commune.
-- Dans un communiqué publié aujourd’hui, Ooredoo Qatar a souligné que cet accomplissement constitue une première régionale.
-- Plaçant le Qatar à l’avant-garde des communications quantiques sécurisées, il marque une étape majeure dans la marche du pays vers la prochaine génération de cybersécurité.
-- Grâce à la technologie de distribution de clés quantiques (QKD), le projet offre une liaison quantique sécurisée, complète et opérationnelle de bout en bout, qui génère et distribue des clés de chiffrement fondées sur les principes de la mécanique quantique.
+- L'IA n'a pas réinventé la cybercriminalité », explique Tom Meekers, Spécialiste en Cybersécurité chez Orange Business.
+- « En revanche,.
 
-## [Microsoft face au chercheur &quot;Nightmare Eclipse&quot; et ses 6 failles zero-day - Socialnetlink](https://www.socialnetlink.org/2026/05/31/microsoft-face-au-chercheur-nightmare-eclipse-et-ses-6-failles-zero-day/)  
-*Source : socialnetlink.org | Publication : 2026-05-31*
+## [<b>Cybersécurité</b> filière Transport et Mobilité - La Lettre M](https://www.lalettrem.fr/agenda-m/cybersecurite-filiere-transport-et-mobilite)  
+*Source : lalettrem.fr | Publication : 2026-06-01*
 
-- Depuis début avril 2026, la communauté de la cybersécurité est en émoi.
-- Un chercheur anonyme, se faisant appeler Nightmare Eclipse (opérant également sous les alias Chaotic Eclipse et Dead Eclipse), a publié six failles zero-day affectant Windows sans divulgation préalable auprès de Microsoft.
-- Face à cette fuite massive, l’éditeur de Redmond a réagi par un billet de blog, menaçant le chercheur d’une enquête pénale.
-- Pourquoi Nightmare Eclipse a-t-il contourné Microsoft ?.
+- Toulouse 03 Jul Cybersécurité filière Transport et Mobilité Dans un secteur du transport et de la mobilité toujours plus connecté, les risques numériques prennent une ampleur croissante.
+- PME, ETI ou grands groupes : toutes les structures peuvent être concernées, avec des conséquences directes sur l’exploitation.
+- À l’occasion de cette édition de La Conf’ Transport & Mobilité, le programme Digital is Future, porté par Ad’Occ et Digital 113, propose une matinée dédiée aux enjeux de cybersécurité dans la filière.
+- Sur inscription.
 
-## [Un accord exclusif avec OpenAI vise à protéger le secteur financier japonais - Business AM](https://fr.businessam.be/un-accord-exclusif-avec-openai-vise-a-proteger-le-secteur-financier-japonais/)  
-*Source : fr.businessam.be | Publication : 2026-05-31*
+## [« Il est important d'avoir de bons réflexes concernant nos mots de passe » : à Gourin, on ...](https://www.letelegramme.fr/morbihan/gourin-56110/il-est-important-davoir-de-bons-reflexes-concernant-nos-mots-de-passe-a-gourin-on-apprend-a-proteger-ses-comptes-numeriques-7055027.php)  
+*Source : letelegramme.fr | Publication : 2026-06-01*
 
-- Principaux renseignements Les plus grandes banques japonaises vont intégrer le modèle GPT-5.5-Cyber d’OpenAI pour renforcer leur sécurité numérique.
-- - Des négociations diplomatiques de haut niveau considèrent ces défenses basées sur l’IA comme des infrastructures nationales essentielles.
-- - L’accès limité à ces outils crée un dangereux fossé en matière de sécurité entre les grandes banques et les petites entreprises.
-- - Les trois plus grandes institutions financières japonaises — Mizuho Bank, Sumitomo Mitsui Banking Corporation et MUFG Bank — s’apprêtent à intégrer le modèle de pointe GPT-5.5-Cyber d’OpenAI afin de renforcer leur sécurité numérique.
+- Face aux fuites de données, un atelier sur la cybersécurité était organisé à Gourin, vendredi 29 mai 2026.
+- Lionel Rauch, conseiller numérique,.
 
-## [Riches, mais pas que : pourquoi les fans de F1 sont-ils des cibles parfaites pour les hackers](https://www.numerama.com/cyberguerre/2260327-riches-mais-pas-que-pourquoi-les-fans-de-f1-sont-ils-des-cibles-parfaites-pour-les-hackers.html)  
-*Source : numerama.com | Publication : 2026-05-31*
+## [« Plus de 6 % de rendement par an avec des actions à hauts dividendes » : la stratégie ... - Investir](https://investir.lesechos.fr/actu-des-valeurs/entretiens/plus-de-6-de-rendement-par-an-avec-des-actions-a-hauts-dividendes-la-strategie-de-sebastien-henin-dg-dalienor-capital-2234304)  
+*Source : investir.lesechos.fr | Publication : 2026-06-01*
 
-- Avec une audience totale de 1,83 milliard de téléspectateurs la saison dernière, la Formule 1 n’a jamais attiré autant de monde.
-- Et peut-être jamais autant d’escrocs.
-- En marge de la présentation du Fan Threat Index, qui recense l’ensemble des menaces envers les fans de F1 étudiées par les équipes de recherche de Bitdefender, Numerama a pu s’entretenir avec Bogdan Botezatu, le 21 mai 2026.
-- Pour le directeur de la recherche sur les menaces, qui accompagne notamment Ferrari dans sa stratégie de cybersécurité, cette étude part d’un constat sans appel : si les grandes écuries investissent massivement pour protéger leurs données de télémétrie et leur propriété intellectuelle, les spectateurs, eux, restent dans un angle mort.
+- cybersécurité · Le marché mondial des ETF devrait atteindre 35.000 milliards de dollars d'ici fin 2030.
+- Travis Spence, responsable de la distribution.
 
-## [La <b>cybersécurité</b> à l'ère de l'IA : les entreprises font face à des risques sans précédent.](https://www.vietnam.vn/fr/an-ninh-mang-thoi-ai-doanh-nghiep-doi-mat-nguy-co-chua-tung-co)  
-*Source : vietnam.vn | Publication : 2026-05-31*
+## [Un expert de l'UdeM obtient 4,5 M$ pour étudier la <b>cybercriminalité</b> allemande](https://nouvelles.umontreal.ca/article/2026/06/01/un-expert-de-l-udem-obtient-45-m-pour-etudier-la-cybercriminalite-allemande)  
+*Source : nouvelles.umontreal.ca | Publication : 2026-06-01*
 
-- Ce ne sont plus des scénarios hypothétiques : la vague d'attaques logicielles ciblant les chaînes d'approvisionnement, alimentées par l'IA, pousse directement les multinationales et les infrastructures essentielles à l'alerte rouge, révélant les vulnérabilités mortelles d'une pensée défensive obsolète.
-- La course aux armements technologiques et le « cheval de Troie » du nouveau siècle.
-- Des rapports d'analyse stratégique émanant des principales institutions de sécurité européennes mettent en lumière un paradoxe : plus les entreprises accélèrent leur transformation numérique, plus elles deviennent vulnérables.
-- Au lieu de s'attaquer directement aux pare-feu robustes d'une banque ou d'une entreprise énergétique, les pirates informatiques privilégient désormais une approche plus ciblée.
+- Un consortium de recherche dirigé par le professeur de criminologie de l’Université de Montréal David Décary-Hétu a obtenu un financement de 2,8 M€ (4,5 M$) d’un organisme fédéral allemand pour mener des travaux sur les préjudices causés par la cybercriminalité en Allemagne.
+- L’UdeM et l’Agentur für Innovation in der Cybersicherheit GmbH (Cyberagentur) ont signé l’entente le 30 avril et l'ont annoncé aujourd'hui.
+- Elle prévoit la participation de l’équipe de David Décary-Hétu au projet ARCH (Assessing Risks and Cybercrime Harms), qui vise à évaluer les effets multidimensionnels de la cybercriminalité.
+- Au-delà des pertes financières directes, ces effets comprennent les atteintes psychologiques, organisationnelles et sociétales entraînées par les activités criminelles en ligne, visibles ou invisibles, notamment sur le Web caché.
 
-## [Microsoft tente-t-il de faire taire un chercheur ? La controverse agite la <b>cybersécurité</b> - Clubic](https://www.clubic.com/actualite-614713-microsoft-tente-t-il-de-faire-taire-un-chercheur-la-controverse-agite-la-cybersecurite.html)  
-*Source : clubic.com | Publication : 2026-05-31*
+## [Zscaler bondit de 10 % après la recommandation de Guggenheim, potentiel de 40](https://fr.tradingview.com/news/invezz:576933f65b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-06-01*
 
-- Depuis début avril 2026, un certain Nightmare Eclipse, chercheur anonyme, a publié six failles zero-day dans Windows sans en avertir Microsoft au préalable.
-- Redmond a répondu par un billet de blog menaçant d'une enquête pénale.
-- Dans la communauté de la cybersécurité, la réaction ne s'est pas fait attendre.
-- D'après les billets publiés sur son blog, Nightmare Eclipse, qui opère aussi sous les noms Chaotic Eclipse et Dead Eclipse, affirme avoir voulu signaler les failles à Microsoft par le canal habituel.
+- Zscaler bondit de 10 % après la recommandation de Guggenheim, potentiel de 40 % Les actions de Zscaler ont fortement progressé lundi après que Guggenheim a relevé la recommandation sur la société de cybersécurité de Neutral à Buy, estimant que la revente récente a créé un point d'entrée attractif pour les investisseurs malgré les préoccupations persistantes sur la croissance.
+- Les actions Zscaler ont grimpé de 10 % à $154.11, prolongeant un rebond qui plaçait le titre en voie d'enregistrer sa troisième hausse quotidienne consécutive.
+- Le rallye a suivi une forte chute le 27 mai, lorsque le titre avait plongé de 32 % après la publication des résultats trimestriels et des prévisions de la société qui ont déçu les investisseurs.
+- Les analystes de Guggenheim, John DiFucci et Lawrence Vensko, ont initié un objectif de cours à $214, ce qui implique environ 40 % de potentiel par rapport aux niveaux récents.
 
-## [Cyberguerre: dans l'ombre du cyberespace, comment les &quot;groupes APT&quot; sont devenus les ... - BFM](https://www.bfmtv.com/tech/cybersecurite/cyberguerre-dans-l-ombre-du-cyberespace-comment-les-groupes-apt-sont-devenus-les-soldats-invisibles-des-affrontements-geopolitiques-contemporains_AN-202605310027.html)  
-*Source : bfmtv.com | Publication : 2026-05-31*
+## [<b>Cybersécurité</b> : Anthropic est en discussion avec l'Union européenne pour lui donner accès ...](https://www.lemonde.fr/economie/article/2026/06/01/cybersecurite-anthropic-est-en-discussion-avec-l-union-europeenne-pour-lui-donner-acces-a-son-modele-mythos_6696021_3234.html)  
+*Source : lemonde.fr | Publication : 2026-06-01*
 
-- Cyberguerre: dans l'ombre du cyberespace, comment les "groupes APT" sont devenus les soldats invisibles des affrontements géopolitiques contemporains C’est un monde de chiffres, de noms de codes et de surnoms étranges.
-- Cozy Bear, Double Dragon ou encore Hidden Cobra… vous n’avez probablement jamais entendu parler de ces groupes de pirates informatiques, pourtant ils figurent parmi les plus importants au monde.
-- Prenons Cozy Bear, aussi appelé "APT29", Nobelium ou encore Midnight Blizzard.
-- Il s’agit d’un groupe de hackers qui pourrait être lié aux services de renseignement russes, notamment le FSB.
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
 
-## [Avec un satellite et des photons un loup veille sur l'Europe avec le déploiement ... - AquitaineOnLine](https://www.aquitaineonline.com/actu-news/international/13087-saga-esa-mission-patch-loup-quantique.html)  
-*Source : aquitaineonline.com | Publication : 2026-05-31*
+## [<b>Cybersécurité</b>: pour rassurer l'UE, Anthropic va lui proposer un premier accès à son ... - BFM](https://www.bfmtv.com/tech/cybersecurite-pour-rassurer-l-ue-anthropic-va-lui-proposer-un-premier-acces-a-son-puissant-modele-d-ia-mythos_AD-202606010919.html)  
+*Source : bfmtv.com | Publication : 2026-06-01*
 
-- Il y a quelque chose de presque poétique dans l'idée qu'une technologie née des lois les plus abstraites de la physique trouve son emblème dans l'un des animaux les plus anciens de la mythologie européenne.
-- La mission Saga, portée par l'Agence spatiale européenne, n'est pas une mission ordinaire.
-- Elle vise à démontrer, depuis l'orbite, la faisabilité d'une distribution quantique de clés cryptographiques, une technologie capable de rendre les communications numériques quasiment inviolables à l'heure où les cybermenaces se multiplient à une vitesse que les systèmes classiques peinent à absorber.
-- Saga, acronyme de Secure and Cryptographic, est conçue pour renforcer la résilience numérique de l'Europe et sa souveraineté stratégique.
+- Cybersécurité: pour rassurer l'UE, Anthropic va lui proposer un premier accès à son puissant modèle d'IA, Mythos Deux mois après le lancement de Mythos d'Anthropic, l'Union européenne est toujours privée du modèle d'IA d'Anthropic capable de détecter des failles informatiques dans des logiciels existants.
+- Mais cela pourrait bientôt changer.
+- La start-up est en effet prête à accorder à une agence de l'UE un accès encadré à son modèle qui suscite d'énormes craintes pour la cybersécurité, a-t-on appris lundi.
+- Un porte-parole de la Commission européenne a confirmé que le groupe américain avait proposé à l'agence européenne pour la cybersécurité, l'ENISA, de rejoindre le programme "Glasswing", comme l'avait rapporté l'agence Bloomberg.
 
-## [« Être un bon informaticien ne suffit plus » : à Gennevilliers, le succès de l'école des ...](https://www.leparisien.fr/hauts-de-seine-92/etre-un-bon-informaticien-ne-suffit-plus-a-gennevilliers-le-succes-de-lecole-des-cyberdefenseurs-de-demain-31-05-2026-VS6V7762JVDOFC2NWHNFAT3CII.php)  
-*Source : leparisien.fr | Publication : 2026-05-31*
+## [L'UGAP et Cybermalveillance.gouv.fr nouent un partenariat structurant pour accompagner ...](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/ugap-cybermalveillancegouvfr)  
+*Source : cybermalveillance.gouv.fr | Publication : 2026-06-01*
 
-- Gennevilliers, le 27 mai 2026.
-- L'école de cybersécurité Oteria doit passer de 300 à 400 étudiants à la rentrée prochaine.
-- LP/O.B.
+- L’UGAP et Cybermalveillance.gouv.fr nouent un partenariat structurant pour accompagner les acteurs publics face au risque cyber Publié le 01/06/2026 - 4 minutes de lecture - Dans un contexte d’intensification des menaces numériques, l’UGAP, centrale d’achat public, et Cybermalveillance.gouv.fr ont signé une convention de partenariat visant à renforcer la sensibilisation et l’accompagnement des acheteurs publics en matière de cybersécurité.
+- Ce partenariat s’inscrit dans une volonté commune de mieux outiller les décideurs publics face aux risques numériques, et plus particulièrement au risque cyber, désormais critique pour la continuité des services publics.
+- Une exposition accrue et des capacités inégales entre territoires Piratage, hameçonnage, rançongiciels, faux ordre de virement, fuite de données : les menaces se multiplient et affectent l’ensemble des collectivités, avec des capacités de réponse très variables selon leur taille.
+- Si les collectivités s’estiment globalement mieux protégées, elles ne sont pour autant pas mieux préparées en cas de cyberattaque.
 
-## [ESUP &amp; la sécurité - Amue](https://www.amue.fr/publications/la-collection-numerique/31-securite-des-si-saison-2-la-cybersecurite-au-coeur-de-la-strategie-de-lesri/esup-la-securite)  
-*Source : amue.fr | Publication : 2026-05-31*
+## [Anthropic va accorder à l'Agence de l'Union européenne pour la <b>cybersécurité</b> un accès ...](https://www.zonebourse.com/actualite-bourse/anthropic-va-accorder-a-l-agence-de-l-union-europeenne-pour-la-cybersecurite-un-acces-anticipe-a-myt-ce7f5dd9d98dff2d)  
+*Source : zonebourse.com | Publication : 2026-06-01*
 
-- Numéro 31février 2024 La collection numérique Sécurité des SI (saison 2) : La cybersécurité au cœur de la stratégie de l'ESRI ESUP & la sécurité Catégorie : Enjeux et stratégie Auteure et auteur : Damien Berjoan DPD Brigitte Sor Présidente, Consortium Esup Comment est-t-elle traitée dans les services de ESUP ou ses incubations : applications à installer ou mis à disposition en tant que service ?.
-- Cela permet de consolider la sécurité numérique à travers : La coordination technique d'ESUP-Portail et les ateliers thématiques, en charge de formuler des recommandations techniques basées sur les retours d'expérience des établissements membres.
-- Ces instances assurent une veille constante sur les technologies et services émergents, les travaux sont présentés lors des journées biannuelles ESUP-Days dont les enregistrements sont disponibles sur le portail ESUP (prochaine édition en Avril 2024).
-- L'expertise de la coordination technique a permis d'émettre des avis de sécurité spécifiques pour la communauté, notamment sur des sujets tels que Log4J et Spring.
+- Anthropic va accorder à l'Agence de l'Union européenne pour la cybersécurité un accès anticipé à MythosAnthropic, société soutenue par Amazon.com , va permettre à l'Agence de l'Union européenne pour la cybersécurité de rejoindre le projet Glasswing, offrant ainsi à l'agence un accès à.
 
-## [Propos sur Ousmane Sonko : La journaliste Aïssatou Diop Fall convoquée par la Division ...](https://www.senenews.com/actualites/propos-sur-ousmane-sonko-la-journaliste-aissatou-diop-fall-convoquee-par-la-division-speciale-de-cybersecurite_588021.html)  
-*Source : senenews.com | Publication : 2026-05-31*
+## [Rosières. La <b>cybersécurité</b> évoquée au Grenier vendredi soir - Le Progrès](https://www.leprogres.fr/social/2026/06/01/la-cybersecurite-evoquee-au-grenier-vendredi-soir)  
+*Source : leprogres.fr | Publication : 2026-06-01*
 
-- Propos sur Ousmane Sonko : La journaliste Aïssatou Diop Fall convoquée par la Division spéciale de cybersécurité La journaliste Aïssatou Diop Fall fait face à des conséquences suite à ses propos controversés sur Ousmane Sonko, appelant à son enlèvement.
-- Convoquée par la Division spéciale de cybersécurité, elle devra s'expliquer devant les enquêteurs, malgré ses excuses publiques.
-- La journaliste Aïssatou Diop Fall est convoquée à la Division spéciale de cybersécurité (DSC) de la Police nationale, à la suite d’une autosaisine du procureur de la République près du Tribunal de grande instance hors classe de Dakar.
-- Selon les informations rapportées, la patronne de la chaîne Public SN est attendue ce lundi devant les enquêteurs pour être entendue sur des déclarations ayant suscité une vive polémique sur les réseaux sociaux et dans l’espace public.
+- Rosières La cybersécurité évoquée au Grenier vendredi soir Vendredi 29 mai, le conseiller numérique Robin Gaudin a animé une réunion publique sur la cybersécurité au cinéma le Grenier de Rosières.... Connectez-vous ou créez un compte Pour pouvoir enregistrer un article, un compte est nécessaire.
+- Se connecter ou créer un compteLe Progrès, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de votre compte, ainsi que des abonnements et autres services souscrits.
+- Si vous y avez consenti, ces données peuvent également être utilisées pour l’envoi de newsletters et/ou d’offres promotionnelles par Le Progrès, les sociétés qui lui sont affiliées et/ou ses partenaires commerciaux.
+- Vous pouvez exercer en permanence vos droits d’accès, rectification, effacement, limitation, opposition, retirer votre consentement et/ou pour toute question relative au traitement de vos données à caractère personnel en contactant lprventesweb@leprogres.fr ou consulter les liens suivants : Protection des données, CGU du site et Contact.
 
-## [Microsoft démasque une cyberattaque qui se cache dans les résultats Google et les réponses de l'IA](https://www.01net.com/actualites/microsoft-demasque-cyberattaque-cache-dans-resultats-google-reponses-ia.html)  
-*Source : 01net.com | Publication : 2026-05-31*
+## [Script de sécurité rapide pour la vulnérabilité YellowKey - <b>Cybersécurité</b> B2B](https://b2b-cyber-security.de/fr/Script-de-sécurité-rapide-pour-la-vulnérabilité-YellowKey/)  
+*Source : b2b-cyber-security.de | Publication : 2026-06-01*
 
-- Les chercheurs de Microsoft viennent de lever le voile sur une vaste campagne malveillante, active au moins depuis mars 2026.
-- L’offensive débute par une simple recherche en ligne.
-- Elle vise les internautes qui recherchent des logiciels populaires à télécharger sur Internet.
-- Il tape alors « télécharger HWMonitor », « CrystalDiskInfo gratuit » ou « FurMark download » dans Google ou Bing.
+- D'un côté, Microsoft semble refuser de récompenser un développeur ayant découvert des vulnérabilités.
+- De l'autre, chaque exploit zero-day publié par le chercheur Chaotic Eclipse, exposant des failles dans les produits Microsoft, représente une menace majeure.
+- Redmond réagit désormais à la vulnérabilité YellowKey de BitLocker par un script PowerShell en guise de solution de dépannage, plutôt que par un correctif.
+- Microsoft réagit à la vulnérabilité BitLocker CVE-2026-45585, également connue sous le nom de YellowKey, divulguée publiquement, en publiant dans un premier temps des recommandations d'atténuation plutôt qu'une mise à jour de sécurité immédiate.
 
-## [Mutualisation, la solution pour contrer les risques cyber ? - Amue](https://www.amue.fr/publications/la-collection-numerique/31-securite-des-si-saison-2-la-cybersecurite-au-coeur-de-la-strategie-de-lesri/mutualisation-la-solution-pour-contrer-les-risques-cyber)  
-*Source : amue.fr | Publication : 2026-05-31*
+## [<b>Cybersécurité</b> : les entreprises corses et les particuliers en première ligne face à une ... - France Bleu](https://www.ici.fr/emissions/mag-redac/cybersecurite-les-entreprises-corses-et-les-particuliers-en-premiere-ligne-face-a-une-menace-grandissante-5788290)  
+*Source : ici.fr | Publication : 2026-06-01*
 
-- Numéro 31février 2024 La collection numérique Sécurité des SI (saison 2) : La cybersécurité au cœur de la stratégie de l'ESRI Mutualisation, la solution pour contrer les risques cyber ?.
-- Catégorie : Enjeux et stratégie Auteur : Florent Della Valle Chef du service de l’expertise technologique au sein de la CNIL.
-- Florent Della Valle a également occupé, entre 2019 et 2023, les fonctions de Délégué Régional À la Recherche et à l’Innovation (DRARI) en région Bretagne.
-- Enseignement supérieur et sécurité des données, les risques cyber sont réels mais ne sont pas une fatalité.
+- Émission Mag Rédac Cybersécurité : les entreprises corses et les particuliers en première ligne face à une menace grandissante Diffusé le Publié le En Corse, où les TPE et PME représentent près de 90% du tissu économique, la cybersécurité est devenue un enjeu majeur.
+- Dans ce magazine de la rédaction, les acteurs locaux de la filière ont rappelé l'importance de la prévention et de l'accompagnement face à une menace en constante évolution.
+- Longtemps perçues comme des cibles secondaires, les petites structures sont aujourd'hui particulièrement exposées aux cyberattaques.
+- Selon Boris Brunel, président de Cybersécurité Management, l'une des principales entreprises du secteur dans l'île, les pirates exploitent souvent des failles simples, comme des mots de passe insuffisamment sécurisés, une absence de double authentification, ou un manque de sensibilisation des salariés ou encore courriels frauduleux.
 
-## [NICE : France 2030 - Le préfet en visite chez BKUBE, pépite de la <b>cybersécurité</b>](https://presseagence.fr/nice-france-2030-le-prefet-en-visite-chez-bkube-pepite-de-la-cybersecurite/)  
-*Source : presseagence.fr | Publication : 2026-05-31*
+## [17 millions de PC, tablettes et smartphones piratés : un monstrueux botnet a été démantelé ...](https://www.01net.com/actualites/17-millions-pc-tablettes-smartphones-pirates-monstrueux-botnet-demantele-pays-bas.html)  
+*Source : 01net.com | Publication : 2026-06-01*
 
-- NICE : France 2030 – Le préfet en visite chez BKUBE… Partager : NICE : France 2030 – Le préfet en visite chez BKUBE, pépite de la cybersécurité Le préfet des Alpes-Maritimes, Laurent Hottiaux, visitera ce lundi la PME niçoise BKUBE, lauréate du plan France 2030 pour ses solutions de cybersécurité.
-- La déclinaison locale du plan d’investissement national France 2030 sera mise à l’honneur ce lundi 1er juin 2026 à Nice.
-- Laurent Hottiaux, préfet des Alpes-Maritimes, se rendra dans les locaux de l’entreprise BKUBE, une PME spécialisée dans les technologies de pointe, pour une visite officielle prévue à 15h30.
-- L’événement vise à souligner le soutien de l’État aux acteurs économiques innovants du territoire, qui contribuent à la souveraineté industrielle et technologique du pays.
+- Le 28 mai 2026, les autorités néerlandaises ont annoncé le démantèlement d’un redoutable botnet.
+- Composé d’au moins 17 millions d’appareils infectés, le botnet était parvenu à compromettre des ordinateurs, des tablettes et des smartphones dans le monde entier.
+- C’est l’une des plus grandes opérations de démantèlement de botnet de ces dernières années.
+- L’opération, diligentée par la police nationale néerlandaise et le Centre national de cybersécurité (NCSC), a abouti à la saisie de plus de 200 serveurs.
 
-## [RSSI vs Direction : Le secret de lISO 27001 - YouTube](https://www.youtube.com/watch?v=L-wELUqTNWM)  
-*Source : youtube.com | Publication : 2026-05-31*
+## [Le 5e numéro de la MInute Cyber est disponible - Gendinfo - Gendarmerie nationale](https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2026/le-5e-numero-de-la-minute-cyber-est-disponible)  
+*Source : gendarmerie.interieur.gouv.fr | Publication : 2026-06-01*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Retrouvez le 5ᵉ numéro de La MInute Cyber, éditée par le Commandement du ministère de l'Intérieur dans le cyberespace (COMCYBER-MI).
 
-## [Bitdefender lance Offensive Security Services](https://www.bitdefender.com/fr-be/business/webinars/bitdefender_launches_offensive_security_services)  
-*Source : bitdefender.com | Publication : 2026-05-30*
+## [Rendre le numérique accessible aux personnes déficientes visuelles : un enjeu à la croisée ...](https://theconversation.com/rendre-le-numerique-accessible-aux-personnes-deficientes-visuelles-un-enjeu-a-la-croisee-de-la-psychologie-et-de-la-cybersecurite-280767)  
+*Source : theconversation.com | Publication : 2026-06-01*
 
-- Placeholder Pour particuliers Pour les petites entreprises Pour Entreprises Plateforme Plateforme GravityZone Paquets Small Business Security Buy Online Business Security Business Security Premium Business Security Enterprise Defense XDR Essais gratuits View All Technologie DemoZone TechZone Bitdefender Labs AI Advantage Enterprise Cybersecurity Prévention Dynamic Attack Surface Reduction.
-- Compliance Manager Risk Management Vulnerability & Patch Management Cloud Security Posture Management External Attack Surface Management Full Disk Encryption View All Managed Service Providers GravityZone MSP Security Security for MSSPs Managed Detection and Response for MSPs Protection Email Security Mobile Security Cloud Native Security Cloud Workload Security Container Security View All Détection et Réponse Endpoint Detection & Response Extended Detection & Response Identity Threat Detection & Response Operational Threat Intelligence Managed Detection and Response Managed Detection and Response Plus Security Data Lake View All Services Managed Services Managed Detection and Response PLUS Managed Detection and Response Managed Detection and Response for MSPs Managed XDR Security Services Offensive Services Advisory Services Support Digital Forensics and Incident Response Cybersecurity Advisory Services Compliance Support Cybersecurity Review (CSR) Cybersecurity Advisory Retainer Incident Response Tabletop Exercises (TXT) Offensive Services Penetration Testing Red Teaming Cloud Security Assessment Phishing Simulation Pourquoi Bitdefender La différence Bitdefender Cybersécurité souveraine de l'UE AI-Powered Cybersecurity Lutte contre la cybercriminalité.
-- Témoignages de clients Récompenses et reconnaissance du secteur Alliances technologiques Certificats Recherche et Bitdefender Lab Solutions Renforce la cyber-résilience Améliore la conformité en matière de cybersécurité Fournit des services de sécurité managés Security Cloud Workloads Sécuriser les datacenters Sécuriser les endpoints Sécuriser les PME Industries Éducation Énergie et services publics Services financiers Soins de santé Production Secteur public Technologie Télécommunications Vente au détail Ressources Points Forts 2025 Cybersecurity Predictions FunkSec: Ransomware Group Akira Ransomware ShrinkLocker (+Decryptor) Formations et éducation InfoZone, Cybersecurity 101 TechZone, Technical Insights & Explainers DemoZone, Interactive Demos.
-- Toutes les ressources Newsroom Blogs Industry Recognition & Reports Webinars Events eBooks & Whitepapers Case Studies Vous avez été victime d'une violation?.
+- Entrer un mot de passe puis un code reçu par SMS pour se connecter sur le site de sa banque constitue, pour la plupart des utilisateurs, une démarche contraignante mais réalisable.
+- En revanche, pour les personnes porteuses de déficiences visuelles, cela peut représenter un obstacle majeur, voire insurmontable.
+- Face à ces difficultés, il existe plusieurs solutions, certaines déjà mises en œuvre et d’autres, conçues en partenariat avec les utilisateurs, qui sont en cours de développement.
+- Les services numériques sont omniprésents dans notre quotidien.
 
-## [Vous cherchez ChatGPT sur Google ? Attention à cette nouvelle arnaque - PhonAndroid](https://www.phonandroid.com/vous-cherchez-chatgpt-sur-google-attention-a-cette-nouvelle-arnaque.html)  
-*Source : phonandroid.com | Publication : 2026-05-30*
+## [Pour rassurer l'UE, Anthropic lui propose un accès à Mythos - TV5MONDE Info](https://information.tv5monde.com/economie/pour-rassurer-lue-anthropic-lui-propose-un-acces-mythos-2824124)  
+*Source : information.tv5monde.com | Publication : 2026-06-01*
 
-- Vous cherchez ChatGPT sur Google ?.
-- Attention à cette nouvelle arnaque Méfiez-vous de ceux qui se feraient passer pour ChatGPT.
-- Des chercheurs en cybersécurité ont en effet découvert une nouvelle arnaque qui permet aux hackers d'imiter le célèbre chatbot d’OpenAI… Avec plusieurs centaines de millions d’utilisateurs, ChatGPT est sans conteste l’IA la plus populaire du marché.
-- Correction de texte, traduction, génération d’images et même code : le chatbot d’OpenAI est capable de (presque) tout, et même de vous protéger des pirates.
+- Anthropic est prêt à accorder à une agence de l'Union européenne un accès encadré à Mythos, son nouveau modèle d'intelligence artificielle qui suscite d'énormes craintes pour la cybersécurité Anthropic est prêt à accorder à une agence de l'Union européenne un accès encadré à Mythos, son nouveau modèle d'intelligence artificielle qui suscite d'énormes craintes pour la cybersécurité, a-t-on appris lundi.
+- Un porte-parole de la Commission européenne a confirmé que le groupe américain avait proposé à l'agence européenne pour la cybersécurité, l'ENISA, de rejoindre le programme "Glasswing", comme l'avait rapporté l'agence Bloomberg.
+- Pour l'instant, seules des entreprises et institutions basées aux Etats-Unis ou au Royaume-Uni font partie de programme, qui leur permet de tester ce modèle avant son lancement commercial.
+- Si les conditions de cet accès font toujours l'objet de discussions, l'UE voit dans cette proposition "le résultat d'une coopération solide et d'échanges soutenus avec Anthropic", a souligné Thomas Regnier, porte-parole de la Commission en matière de Numérique.
 
-## [BMM Innovation Group mettra en avant ses services de conformité et de <b>cybersécurité</b> lors ...](https://www.yogonet.com/fr/international/nouvelles/2026/05/29/122169-BMM-Innovation-Group-mettra-en-avant-ses-services-de-conformité-et-de-cybersécurité-lors-du-SBC-Summit-Americas-2026)  
-*Source : yogonet.com | Publication : 2026-05-30*
+## [Pour rassurer l'UE, Anthropic lui propose un accès à Mythos - France 24](https://www.france24.com/fr/info-en-continu/20260601-pour-rassurer-l-ue-anthropic-lui-propose-un-accès-à-mythos)  
+*Source : france24.com | Publication : 2026-06-01*
 
-- Loader Please wait while your request is being verified.
+- Pour rassurer l'UE, Anthropic lui propose un accès à Mythos Bruxelles (Belgique) (AFP) – Anthropic est prêt à accorder à une agence de l'Union européenne un accès encadré à Mythos, son nouveau modèle d'intelligence artificielle qui suscite d'énormes craintes pour la cybersécurité, a-t-on appris lundi.
+- Publié le : Un porte-parole de la Commission européenne a confirmé que le groupe américain avait proposé à l'agence européenne pour la cybersécurité, l'ENISA, de rejoindre le programme "Glasswing", comme l'avait rapporté l'agence Bloomberg.
+- Pour l'instant, seules des entreprises et institutions basées aux Etats-Unis ou au Royaume-Uni font partie de programme, qui leur permet de tester ce modèle avant son lancement commercial.
+- Si les conditions de cet accès font toujours l'objet de discussions, l'UE voit dans cette proposition "le résultat d'une coopération solide et d'échanges soutenus avec Anthropic", a souligné Thomas Regnier, porte-parole de la Commission en matière de Numérique.
+
+## [PARIS : <b>Cybersécurité</b> - Une Junior-Entreprise obtient la certification ISO 27001, une ...](https://presseagence.fr/paris-cybersecurite-une-junior-entreprise-obtient-la-certification-iso-27001-une-premiere-mondiale/)  
+*Source : presseagence.fr | Publication : 2026-06-01*
+
+- PARIS : Cybersécurité – Une Junior-Entreprise obtient… Partager : PARIS : Cybersécurité – Une Junior-Entreprise obtient la certification ISO 27001, une première mondiale ESSCA Junior Conseil devient la première Junior-Entreprise au monde à obtenir la certification ISO 27001, imposant les standards des grands cabinets.
+- C’est une avancée majeure dans le monde des services étudiants aux entreprises.
+- ESSCA Junior Conseil, l’association étudiante de conseil de l’école de commerce ESSCA, vient d’annoncer avoir obtenu la certification ISO 27001.
+- Cette première mondiale la place au niveau d’exigence de seulement 800 entreprises en France, majoritairement des grands groupes, des cabinets de conseil et des acteurs technologiques de premier plan.
