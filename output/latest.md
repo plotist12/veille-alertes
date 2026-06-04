@@ -1,150 +1,147 @@
-# Résumés – 2026-06-03
+# Résumés – 2026-06-04
 
 
-## [Le vrai risque pour une agence en 2026 ? Ce n'est ni la récession, ni l'IA…](https://www.deplacementspros.com/mobility-management/le-vrai-risque-pour-une-agence-en-2026-ce-nest-ni-la-recession-ni-lia)  
-*Source : deplacementspros.com | Publication : 2026-06-02*
+## [Vos données ont une grande valeur. Un expert en <b>cybersécurité</b> vous dit comment les protéger](https://www.transportroutier.ca/nouvelles/vos-donnees-ont-une-grande-valeur-un-expert-en-cybersecurite-vous-dit-comment-les-proteger/)  
+*Source : transportroutier.ca | Publication : 2026-06-03*
 
-- C’est la cybersécurité.
-- Un rapport révèle l'ampleur alarmante des cybermenaces qui pèsent sur les agences de voyages indépendantes.
-- Pour résumer : elles ne sont pas prêtes.
-- C'est le constat que dresse SecureTrust, filiale cybersécurité du groupe VikingCloud, dans son rapport annuel publié le 20 mai 2026.
+- Vos données ont une grande valeur.
+- Un expert en cybersécurité vous dit comment les protéger Vous générez une foule de données que vous confiez à des fournisseurs en qui vous avez confiance.
+- Mais savez-vous réellement par où elles transitent, où elles sont stockées et qui peut y avoir accès?.
+- Dans un contexte où les solutions télématiques, les caméras embarquées et les plateformes connectées se multiplient, ces questions prennent une importance croissante pour les transporteurs.
 
-## [Cyber Benchmark 2026 : un ralentissement des progrès face à une complexité croissante](https://www.wavestone.com/fr/insight/cyber-benchmark-2026-un-ralentissement-des-progres-face-a-une-complexite-croissante/)  
-*Source : wavestone.com | Publication : 2026-06-02*
+## [<b>Cybersécurité</b> : l'IA s'impose, la supply chain s'expose - ITRmobiles](https://itrmobiles.com/articles/209960/cybersecurite-lia-simpose-la-supply-chain-sexpose.html)  
+*Source : itrmobiles.com | Publication : 2026-06-03*
 
-- Cyber Benchmark 2026 : un ralentissement des progrès face à une complexité croissante Publié le 2 juin 2026 Cybersécurité - Dans un contexte de montée des menaces exponentielles, y compris d’origine géopolitique, de pression réglementaire renforcée (DORA, NIS 2, CRA…), les entreprises françaises et internationales doivent renforcer leur posture de cybersécurité.
-- Les défis restent nombreux : explosion des usages de l’intelligence artificielle, résilience encore incomplète, dépendance aux fournisseurs tiers internationaux, et disparités importantes entre les secteurs… Dans ce paysage en mutation rapide, où en sont réellement les grandes entreprises ?.
-- Quel niveau de sécurité ont-elles atteint ?.
-- Quels progrès ont été réalisés et où persistent les fragilités ?.
+- Veuillez activer Javascript pour accéder au site web.
 
-## [<b>Cybersécurité</b>: Trump finit par adopter une régulation de l'IA | 7sur7.be](https://www.7sur7.be/monde/cybersecurite-trump-finit-par-adopter-une-regulation-de-lia~a8acea7b/)  
-*Source : 7sur7.be | Publication : 2026-06-02*
+## [<b>Cybersécurité</b> : le français Squad se renforce pour l'Europe - Goodtech.info](https://goodtech.info/squad-rachete-lovell-consulting-cybersecurite-souverainete-nis2/)  
+*Source : goodtech.info | Publication : 2026-06-03*
 
-- Cybersécurité : Trump finit par adopter une régulation de l'IA.
-- Donald Trump a discrètement signé un décret instaurant un encadrement de l'intelligence.
+- L’alignement des entreprises et des administrations européennes sur les nouvelles exigences de sécurité numérique ne peut plus se satisfaire de solutions fragmentées.
+- En cette année 2026, l’entrée en vigueur et le durcissement des réglementations européennes comme NIS2 pour les infrastructures critiques, DORA pour le secteur financier et l’AI Act pour l’intelligence artificielle redessinent en profondeur les obligations des organisations.
+- C’est dans ce contexte de forte pression réglementaire que le groupe français Squad, spécialiste reconnu de la cybersécurité, vient d’annoncer l’acquisition stratégique de Løvell Consulting afin de structurer une offre globale capable de peser à l’échelle du continent.
+- Fondé en 2019, Løvell Consulting s’est taillé une solide réputation auprès des directeurs de la sécurité des systèmes d’information (RSSI) grâce à son expertise pointue en matière de gouvernance, de gestion des risques, de conformité et de gestion des identités.
 
-## [Palo Alto revoit à la hausse ses prévisions annuelles grâce à la forte demande en matière ...](https://www.boursorama.com/bourse/actualites-amp/palo-alto-revoit-a-la-hausse-ses-previsions-annuelles-grace-a-la-forte-demande-en-matiere-de-cybersecurite-liee-a-l-ia-son-cours-de-bourse-s-envole-a4127afffcd4bb9e6dc1f54b7c81ef90)  
-*Source : boursorama.com | Publication : 2026-06-02*
+## [Un des plus grands réseaux criminels du web neutralisé : 17 millions d'appareils compromis !](https://www.journaldugeek.com/2026/06/03/un-des-plus-grands-reseaux-criminels-du-web-neutralise-17-millions-dappareils-compromis/)  
+*Source : journaldugeek.com | Publication : 2026-06-03*
 
-- Palo Alto revoit à la hausse ses prévisions annuelles grâce à la forte demande en matière de cybersécurité liée à l'IA ; son cours de bourse s'envole information fournie par Reuters 02/06/2026 à 22:51 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) PANW.O , la société Palo Alto Networks , a revu à la hausse mardi ses prévisions de chiffre d'affaires et de bénéfices annuels, les entreprises ayant accru leurs dépenses en matière de produits de cybersécurité liés au cloud, à l'identité et à l'IA face à un environnement de menaces de plus en plus menaçant, ce qui a entraîné une hausse de 7,4% du cours de l'action en séance prolongée.
-- Voici quelques détails sur ces résultats: * Palo Alto, dont le siège se trouve à Santa Clara, en Californie, prévoit un chiffre d'affaires compris entre 11,415 et 11,425 milliards de dollars pourl'exercice 2026, soit un chiffre supérieur à ses prévisions antérieures, qui s'échelonnaient entre 11,28 et 11,31 milliards de dollars.
-- * L'IA est devenue un moteur de croissance majeur pour l'entreprise, les cybermenaces basées sur l'IA, en augmentation, devant accélérer les dépenses des entreprises en matière de cybersécurité et renforcer la demande pour les fournisseurs de plateformes tels que Palo Alto Networks.
-- * La société fournit des solutions intégrées de sécurité pour les réseaux, le cloud, l'identité et l'IA.
+- Votre smartphone, votre caméra de surveillance ou même votre prise connectée participaient peut-être, à votre insu, à des cyberattaques mondiales.
+- C’est la réalité des botnets, des réseaux de machines “zombies” connectées à Internet.
+- Aux Pays-Bas, les autorités locales se sont associées afin de démanteler ce qui s’apparente à l’un des plus gros réseaux jamais débusqués.
+- Le réseau, lié à la société russe ASOCKS spécialisée dans la fourniture de services de proxy résidentiel, était gigantesque.
 
-## [Palo Alto Networks relève ses objectifs grâce à la demande en <b>cybersécurité</b> liée à l'IA](https://www.tradingsat.com/actualites/informations-societes/palo-alto-networks-releve-ses-objectifs-grace-a-la-demande-en-cybersecurite-liee-a-l-ia-1164328.html)  
-*Source : tradingsat.com | Publication : 2026-06-02*
+## [Souveraineté numérique : la cyber‑résilience comme ligne de défense](https://www.lemondeinformatique.fr/publi_info/lire-souverainete-numerique-la-cyberet-8209-resilience-comme-ligne-de-defense-1377.html)  
+*Source : lemondeinformatique.fr | Publication : 2026-06-03*
 
-- (Zonebourse.com) - Palo Alto Networks a publié des résultats trimestriels supérieurs aux attentes et relevé ses prévisions pour l'ensemble de l'exercice, profitant du renforcement des besoins en cybersécurité face à la montée des risques liés à l'intelligence artificielle.
-- L'annonce a été bien accueillie par les marchés, l'action progressant d'environ 10% après la clôture.
-- Le groupe a enregistré un bénéfice ajusté de 0,85 dollar par action pour un chiffre d'affaires de 3 milliards de dollars, contre des attentes respectives de 0,80 dollar et 2,94 milliards.
-- Les revenus ont progressé de 31% sur un an, soutenus notamment par les acquisitions de CyberArk et Chronosphere, qui ont contribué à hauteur de 388 millions de dollars.
+- 1/ Le modèle défensif classique est-il devenu obsolète face au contexte actuel ?.
+- La menace continue de s’intensifier et le contexte géopolitique accentue cette tendance.
+- Au gré des alliances et du positionnement de l’État français, on observe des fluctuations dans les attaques.
+- Ce que redoute particulièrement l’ANSSI, c’est une attaque coordonnée.
 
-## [MISE À JOUR N° 3-L'administration Trump va demander aux entreprises américaines ...](https://www.boursorama.com/bourse/actualites-amp/mise-a-jour-n-3-l-administration-trump-va-demander-aux-entreprises-americaines-specialisees-dans-l-ia-de-soumettre-volontairement-leurs-modeles-a-des-tests-de-cybersecurite-bde94aab38b81cf7650c52914d9b527d)  
-*Source : boursorama.com | Publication : 2026-06-02*
+## [CrowdStrike fait état d'une hausse de ses charges d'exploitation alors que ses ...](https://www.boursorama.com/bourse/actualites-amp/crowdstrike-fait-etat-d-une-hausse-de-ses-charges-d-exploitation-alors-que-ses-investissements-dans-l-ia-s-accelerent-9a8b9c9e973055d7fc5abb1a7de11854)  
+*Source : boursorama.com | Publication : 2026-06-03*
 
-- MISE À JOUR N° 3-L'administration Trump va demander aux entreprises américaines spécialisées dans l'IA de soumettre volontairement leurs modèles à des tests de cybersécurité information fournie par Reuters 03/06/2026 à 00:29 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Un décret présidentiel enjoint aux agences de conclure des accords volontaires avec les développeurs pour tester les modèles d'IA * Cette mesure marque un changement par rapport à la politique de non-intervention de Trump en matière de technologie * Le secrétaire au Trésor, Scott Bessent, coordonnera avec les banques et les entreprises d'IA les analyses de cybersécurité (Ajout du commentaire d'Anthropic au paragraphe 5) par Courtney Rozen, Ismail Shakil et Bhargav Acharya L'administration Trump demandera aux principaux développeurs d'IA de soumettre volontairement leurs modèles les plus performants à des tests de cybersécurité menés par le gouvernement avant de les mettre à la disposition du public, selon un décret publié mardi, alors que les craintes en matière de sécurité s'intensifient à Washington concernant les nouveaux systèmes d'IA puissants tels que Mythos d'Anthropic.
-- Le président américain Donald Trump a signé un décret qui charge les départements du Trésor, de la Défense, du Commerce et de la Sécurité intérieure, ainsi que d'autres responsables et agences gouvernementaux, de conclure des accords avec les développeurs d'IA afin de tester leurs modèles.
-- Les agences américaines disposeraient d'un délai maximal de 30 jours pour tester les modèles avant leur diffusion à des organisations extérieures au gouvernement, selon le décret.
-- Celui-ci demande également aux agences de mettre l'accent sur le renforcement de la cyberdéfense à l'échelle du gouvernement.
+- CrowdStrike CRWD.O a annoncé mercredi une hausse de 15 % de ses charges d'exploitation au premier trimestre, alors que l'entreprise de cybersécurité.
 
-## [Trump signe un décret très souple sur la sécurité de l'IA, basé sur le volontariat - Le Devoir](https://www.ledevoir.com/monde/etats-unis/984758/trump-signe-decret-tres-souple-securite-ia-base-volontariat)  
-*Source : ledevoir.com | Publication : 2026-06-02*
+## [La boulette d'un pirate force tout un gang de rançongiciels à présenter ses excuses - Korben](https://korben.info/la-boulette-dun-pirate-force-tout-un-gang-de-rancongiciels-a-presenter-ses-excuses.html)  
+*Source : korben.info | Publication : 2026-06-03*
 
-- Donald Trump a signé mardi, sans pompe ni fanfare, un décret très attendu qui institue un encadrement de l’intelligence artificielle aux États-Unis, au nom de la cybersécurité, avec un contrôle facultatif par le gouvernement des modèles les plus avancés.
-- Le texte entend protéger les systèmes informatiques du pays face à des modèles d’IA désormais capables de repérer et d’exploiter des failles à une vitesse inédite, comme Mythos, d’Anthropic.
-- Il prévoit le développement d’un cadre de régulation « sur la base du volontariat » avec les entreprises de l’IA, qui pourront soumettre leurs modèles de pointe à un examen par le gouvernement, avant leur sortie.
-- Le texte contient aussi cette précision : rien dans le décret « ne doit servir à instaurer » un quelconque contrôle préalable « obligatoire » par le gouvernement des nouveaux modèles d’IA.
+- La boulette d'un pirate force tout un gang de rançongiciels à présenter ses excuses Ce qu’il faut retenir Un affilié du gang Nova a chiffré les serveurs d'Eriell, une société de forage pétrolier en Ouzbékistan, violant la règle non écrite des rançongiciels : ne jamais s'attaquer à des cibles de la CEI pour éviter que les autorités locales ne se réveillent.
+- - Nova a publié des excuses officielles, promis une remise en état gratuite et assuré qu'aucun fichier n'avait été chiffré ni données volées, avant de bannir l'affilié responsable de l'erreur.
+- - Certains rançongiciels détectent automatiquement le cyrillique et s'effacent d'eux-mêmes pour éviter les cibles russophones, un garde-fou qui n'a pas fonctionné dans ce cas.
+- - Résumé généré par IA Un affilié du gang Nova, spécialisé dans les rançongiciels (ces logiciels qui chiffrent vos fichiers pour vous réclamer une rançon), a commis la bourde qui restera probablement dans les annales du milieu.
 
-## [L'un des plus vastes réseaux de piratage au monde démantelé après avoir compromis 17 ...](https://siecledigital.fr/2026/06/02/lun-des-plus-vastes-reseaux-de-piratage-au-monde-demantele-apres-avoir-compromis-17-millions-dappareils/)  
-*Source : siecledigital.fr | Publication : 2026-06-02*
+## [Le FSB assure que les smartphones de hauts responsables russes ont été visés par une ... - BFM](https://www.bfmtv.com/tech/cybersecurite/le-fsb-assure-que-les-smartphones-de-hauts-responsables-russes-ont-ete-vises-par-une-campagne-d-espionnage-massive-etrangere-sans-apporter-de-preuve-pour-l-instant_AV-202606030730.html)  
+*Source : bfmtv.com | Publication : 2026-06-03*
 
-- L’opération a été menée par la police nationale néerlandaise ainsi que le NCSC, le Centre national de cybersécurité du pays.
-- Les enquêteurs ont saisi plus de 200 serveurs hébergés chez un prestataire local, qui formaient le cœur logistique du dispositif.
-- Tout est parti d’une alerte d’un chercheur en sécurité indépendant, qui avait remonté le pot aux roses au NCSC.
-- Un parc d’appareils piégés à l’échelle mondiale Aucune catégorie n’a été épargnée, des ordinateurs personnels aux smartphones en passant par les tablettes, partout dans le monde.
+- Le FSB assure que les smartphones de hauts responsables russes ont été visés par une campagne d'espionnage massive étrangère, sans apporter de preuve pour l’instant Dans un communiqué lapidaire publié ce mardi 2 juin, le Service fédéral de sécurité russe (FSB) a affirmé avoir mis au jour une vaste opération d’espionnage étranger visant à transformer les smartphones de hauts responsables du pays en véritables mouchards de poche.
+- Selon l’agence de renseignement intérieur par laquelle est passé Vladimir Poutine avant de devenir président, cette cyberattaque d'envergure aurait permis à des "services de renseignement étrangers" d'implanter des logiciels malveillants.
+- Ceux-ci permettraient de siphonner des données privées, d'intercepter des communications et d’activer à distance les micros et caméras des appareils pour surveiller l'entourage des cibles.
+- L'agence a annoncé l'ouverture d'une enquête pénale pour accès illégal à des informations informatiques et diffusion de logiciels malveillants.
 
-## [Trump opte pour une régulation volontaire de l'IA, centrée sur la <b>cybersécurité</b> - La Tribune](https://www.latribune.fr/article/tech/97675012010849/trump-opte-pour-une-regulation-volontaire-de-l-ia-centree-sur-la-cybersecurite)  
-*Source : latribune.fr | Publication : 2026-06-02*
+## [Google a trouvé une astuce simple et efficace pour vous empêcher d'être trompé par un ...](https://www.bfmtv.com/tech/cybersecurite/google-a-trouve-une-astuce-simple-et-efficace-pour-vous-empecher-d-etre-trompe-par-un-arnaqueur-qui-usurperait-le-numero-de-telephone-d-un-contact-et-sa-voix-grace-a-l-ia_AV-202606030757.html)  
+*Source : bfmtv.com | Publication : 2026-06-03*
 
-- Trump opte pour une régulation volontaire de l’IA, centrée sur la cybersécurité Washington s'inquiète notamment des risques pesant sur les réseaux électriques, les banques et les administrations, alors que les capacités des systèmes d'IA évoluent à grande vitesse.
+- Google a trouvé une astuce simple et efficace pour vous empêcher d’être trompé par un arnaqueur qui usurperait le numéro de téléphone d’un contact et sa voix grâce à l’IA Le spoofing, en l'occurrence, l'usurpation d'un numéro de téléphone, est devenu une technique courante dans les arnaques téléphoniques.
+- Et Google l'a bien compris.
+- Dans une nouvelle mise à jour pour Android qui met à jour l'application Téléphone, l'entreprise active "Phone by Google", une solution qui est en mesure de détecter les appels louches, y compris lorsqu'ils sont a priori passer par l'un de vos contacts.
+- Ce type de fraude par usurpation d'identité a coûté plus de 400 milliards de dollars à leurs victimes, relate Google qui cite un rapport d'Interpol de mars 2026.
 
-## [Il suffisait de demander: comment le chatbot d'assistance de Meta IA a aidé des pirates à ...](https://www.bfmtv.com/tech/cybersecurite/il-suffisait-de-demander-comment-le-chatbot-d-assistance-de-meta-ia-a-aide-des-pirates-a-voler-des-comptes-instagram-sans-meme-avoir-acces-aux-mails-de-leurs-proprietaires_AV-202606020483.html)  
-*Source : bfmtv.com | Publication : 2026-06-02*
+## [Choose France : des milliards pour les infra d'IA - L'INFORMATICIEN &amp; L'INFO CYBER ...](https://www.linformaticien.com/magazine/tendances/941-ia/64925-choose-france-des-milliards-pour-les-infra-d-ia.html)  
+*Source : linformaticien.com | Publication : 2026-06-03*
 
-- Il suffisait de demander: comment le chatbot d'assistance de Meta IA a aidé des pirates à voler des comptes Instagram... sans même avoir accès aux mails de leurs propriétaires Contourner des mots de passe complexes ou déployer des campagnes d'hameçonnage sophistiquées?.
-- C'est déjà dépassé.
-- Désormais, certains pirates semblent avoir trouvé plus simple: demander poliment à une intelligence artificielle mal sécurisée de faire le travail à leur place.
-- Instagram a reconnu avoir corrigé une faille de sécurité qui aurait permis le piratage de plusieurs comptes utilisateurs.
+- Plusieurs annonces ont été faites autour du développement des infrastructures d'IA sur le territoire national dans le cadre du sommet Choose.
 
-## [Optic 2000, Auchan Optique, Atol : les lunetiers français ciblés par une cyberattaque sans précédent](https://www.futura-sciences.com/tech/actualites/cybersecurite-optic-2000-auchan-optique-atol-lunetiers-francais-cibles-cyberattaque-precedent-134800/)  
-*Source : futura-sciences.com | Publication : 2026-06-02*
+## [Instagram : quand une IA se voit dotée de trop de pouvoir - LeMagIT](https://www.lemagit.fr/actualites/366643728/Instagram-quand-une-IA-se-voit-dotee-de-trop-de-pouvoir)  
+*Source : lemagit.fr | Publication : 2026-06-03*
 
-- En l'espace de 48 heures, du 22 au 24 mai 2026, quatre enseignes d'optique françaises ont vu les données de leurs clients mises en vente sur des forums cybercriminels.
-- Selon les sites spécialisés cyberattaque.org et frenchbreaches.com, les fuites concerneraient Atol (5,9 millions de clients revendiqués), Auchan Optique (218 824), Jimmy Fairly (357 317) et Optic 2000 (environ 8 000 factures PDF et coordonnées de franchisés).
-- Au total, plus de 6 millions de personnes pourraient être exposées.
-- Aucune des enseignes n'a publié de communication officielle détaillée à ce stade.
+- Getty Images/iStockphoto Instagram : quand une IA se voit dotée de trop de pouvoir L’exploitation de l’IA de Meta a permis à des attaquants de prendre le contrôle de comptes Instagram de haut profil via une simple requête de support automatisé.
+- On connaissait le détournement de chatbots pour profiter de services d’IA générative gratuitement.
+- Voici leur détournement pour le vol de comptes de réseaux sociaux.
+- L’exploitation repose sur une interaction simple avec le chatbot de support de Meta.
 
-## [<b>Cybersécurité</b>: Trump finit par adopter une régulation de l'IA - Yahoo Actualités France](https://fr.news.yahoo.com/cybersécurité-trump-finit-adopter-régulation-173532015.html)  
-*Source : fr.news.yahoo.com | Publication : 2026-06-02*
+## [Les <b>ransomwares</b> frappent toutes les 11 secondes ! Es-tu vraiment protégé contre cette menace ? #e](https://www.youtube.com/watch?v=F5caghogpDE)  
+*Source : youtube.com | Publication : 2026-06-03*
 
-- Cybersécurité: Trump finit par adopter une régulation de l'IA Donald Trump a signé mardi, sans pompe ni fanfare, un décret très attendu sur l'intelligence artificielle, qui prévoie la possibilité d'un contrôle par le gouvernement des modèles les plus avancés, au nom de la cybersécurité.
-- Le texte, qui réinstitue un encadrement relatif de l'IA aux Etats-Unis, constitue un virage prudent pour l'administration Trump, jusqu'ici dominée par les opposants à toute régulation au nom de la compétitivité avec la Chine.
-- La donne a toutefois changé au début du printemps, face à l'évidence que les modèles de pointe américains étaient capables de repérer et d'exploiter des failles informatiques à une vitesse inédite.
-- Ces performances ont secoué les institutions, inquiètes des risques d'attaques contre des infrastructures critiques (réseaux électriques, banques, administrations) si ces modèles étaient rendus publics avant le colmatage des brèches.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [<b>Cybersécurité</b>: Trump finit par adopter une régulation de l'IA - Orange Actu](https://actu.orange.fr/societe/high-tech/cybersecurite-trump-finit-par-adopter-une-regulation-de-l-ia-CNT000002pINsL.html)  
-*Source : actu.orange.fr | Publication : 2026-06-02*
+## [<b>Cybersécurité</b>: les acteurs financiers doivent &quot;renforcer leurs dispositifs&quot; face à l'IA (régulateur)](https://www.notretemps.com/depeches/cybersecurite-les-acteurs-financiers-doivent-renforcer-leurs-dispositifs-face-a-l-ia-regulateur-133755)  
+*Source : notretemps.com | Publication : 2026-06-03*
 
-- Cybersécurité: Trump finit par adopter une régulation de l'IA © Brendan SMIALOWSKI, AFP - Le président américain Donald Trump signe un décret dans le Bureau ovale de la Maison Blanche, le 30 avril 2026 à Washington Donald Trump a signé mardi, sans pompe ni fanfare, un décret très attendu sur l'intelligence artificielle, qui prévoie la possibilité d'un contrôle par le gouvernement des modèles les plus avancés, au nom de la cybersécurité.
-- Le texte, qui réinstitue un encadrement relatif de l'IA aux Etats-Unis, constitue un virage prudent pour l'administration Trump, jusqu'ici dominée par les opposants à toute régulation au nom de la compétitivité avec la Chine.
-- La donne a toutefois changé au début du printemps, face à l'évidence que les modèles de pointe américains étaient capables de repérer et d'exploiter des failles informatiques à une vitesse inédite.
-- Ces performances ont secoué les institutions, inquiètes des risques d'attaques contre des infrastructures critiques (réseaux électriques, banques, administrations) si ces modèles étaient rendus publics avant le colmatage des brèches.
+- Cybersécurité: les acteurs financiers doivent "renforcer leurs dispositifs" face à l'IA (régulateur) Les acteurs financiers en France doivent "renforcer leurs dispositifs" en matière de cybersécurité pour faire face à la menace grandissante posée par l'intelligence artificielle, a indiqué mercredi l'Autorité des marchés financiers (AMF).
+- "Les progrès récents de certains modèles d'intelligence artificielle, spécialisés ou mobilisables à des fins de cybersécurité ou d'attaque informatique sont susceptibles" de "contribuer à une forme d'industrialisation des campagnes malveillantes", a-t-elle indiqué dans un communiqué.
+- Leur "développement rapide (...) impose aux acteurs financiers d'adapter leurs dispositifs de maîtrise des risques", qu'il s'agit donc de "renforcer", a-t-elle ajouté.
+- L'AMF mènera "au second semestre 2026, différentes actions de sensibilisation auprès" des entreprises et les "interrogera sur les mesures prises ou envisagées face aux risques spécifiquement liés aux modèles d'IA".
 
-## [MISE À JOUR N° 3-L'administration Trump va demander aux entreprises américaines ...](https://www.boursorama.com/bourse/actualites-amp/mise-a-jour-n-3-l-administration-trump-va-demander-aux-entreprises-americaines-specialisees-dans-l-ia-de-soumettre-volontairement-leurs-modeles-a-des-tests-de-cybersecurite-e5107fcb7913c197544938a42d52801f)  
-*Source : boursorama.com | Publication : 2026-06-02*
+## [&quot;De nouveaux risques pour la sécurité nationale&quot;: pourquoi Mythos d'Anthropic pousse ...](https://information.tv5monde.com/international/de-nouveaux-risques-pour-la-securite-nationale-ce-modele-dintelligence-artificielle-inquiete-meme-donald-trump-2824397?amp)  
+*Source : information.tv5monde.com | Publication : 2026-06-03*
 
-- cybersécurité.
-- information fournie par Reuters •02/06/2026 à 19:25.
-- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et.
+- "De nouveaux risques pour la sécurité nationale": pourquoi Mythos d'Anthropic pousse Donald Trump à encadrer l'intelligence artificielle Claude Mythos, le dernier modèle d'intelligence artificielle (IA) spécialisé en cybersécurité et développé par Anthropic, est aussi prometteur qu'inquiétant, tant ses performances sont grandes.
+- Le modèle, sorti en avril, a poussé le président américain Donald Trump à signer ce mardi 2 juin un décret pour encadrer l'IA.
+- Le décret signé par Donald Trump n'est certes pas contraignant.
+- Il se fait "sur la base du volontariat" des entreprises de l'IA: celles-ci accepteraient ou non de soumettre leurs nouveaux modèles à examen du gouvernement américain, un mois avant leur sortie.
 
-## [Au nom de la <b>cybersécurité</b>, Donald Trump finit par réguler l'IA - France 24](https://www.france24.com/fr/amériques/20260602-au-nom-de-la-cybersécurité-donald-trump-finit-par-réguler-l-ia)  
-*Source : france24.com | Publication : 2026-06-02*
+## [En matière de <b>cybersécurité</b>, la dépendance aux tiers expose la finance européenne](https://www.agefi.fr/news/banque-assurance/en-matiere-de-cybersecurite-la-dependance-aux-tiers-expose-la-finance-europeenne)  
+*Source : agefi.fr | Publication : 2026-06-03*
 
-- Au nom de la cybersécurité, Donald Trump finit par réguler l'IA Donald Trump a signé, mardi, un décret très attendu instituant un encadrement de l'IA aux États-Unis, au nom de la cybersécurité.
-- Le texte entend notamment protéger les systèmes informatiques du pays face à des modèles d'IA désormais capables de repérer et d'exploiter des failles à une vitesse inédite.
-- Publié le : Modifié le : Donald Trump a signé mardi 2 juin, sans pompe ni fanfare, un décret très attendu sur l'intelligence artificielle, qui prévoie la possibilité d'un contrôle par le gouvernement des modèles les plus avancés, au nom de la cybersécurité.
-- Le texte, qui réinstitue un encadrement relatif de l'IA aux États-Unis, constitue un virage prudent pour l'administration Trump, jusqu'ici dominée par les opposants à toute régulation au nom de la compétitivité avec la Chine.
+- En matière de cybersécurité, la dépendance aux tiers expose la finance européenne Un an après la mise en application du règlement européen Dora relatif à la résilience des infrastructures cyber des établissements financiers de l’UE, les autorités de surveillance tirent un premier bilan.
+- Un tiers des incidents cyber majeurs des établissements financiers est le fait d’une défaillance d’un tiers et est de plus en plus transfrontalier.
+- Connectez-vous ou abonnez-vous pour accéder au résumé de cet article.
+- Un tiers des incidents cyber majeurs des établissements de l’UE provient de la défaillance d’un tiers prestataire.
 
-## [Royaume-Uni - Veille climat environnement énergie industrie transport n°17 du SER de Londres](https://www.tresor.economie.gouv.fr/Articles/2026/06/02/royaume-uni-veille-climat-environnement-energie-industrie-transport-n-17-du-ser-de-londres)  
-*Source : tresor.economie.gouv.fr | Publication : 2026-06-02*
+## [RVM ACTU - Ardennes - Lutter contre la <b>cybercriminalité</b>](https://www.rvm.fr/ardennes-lutter-contre-la-cybercriminalite)  
+*Source : rvm.fr | Publication : 2026-06-03*
 
-- Article Royaume-Uni - Veille climat environnement énergie industrie transport n°17 du SER de Londres Royaume-Uni - Veille climat environnement énergie industrie transport n°17 du SER de Londres Climat & Energie 2025 a été une année record pour l’installation de panneaux photovoltaïque au Royaume-Uni, et la dynamique ne faiblit pas - Les factures d’énergie des ménages augmenteront de 13% à compter du 1er juillet - Le gouvernement lance un plan stratégique pour la cybersécurité des infrastructures d’énergie renouvelables - Environnement 30 M£ supplémentaires pour la restauration de la nature - Industrie La chute du prix des véhicules électriques d’occasion perturbe le marché du leasing automobile - La chancelière appelle à la mise en place d’une préférence britannique pour les marchés publics de plusieurs secteurs stratégiques - Transports Les autorités des transports londoniens préoccupées par le développement à venir de taxis autonomes -.
+- Ardennes - Lutter contre la cybercriminalité La gendarmerie nationale a des référents cybersécurité et des enquêteurs spécialisés Faux conseiller bancaire, fausse amende, fausse facture de péage, fausse sécurité sociale et faux démarcheurs, la liste n'est absolument exhaustive.
+- Les arnaques et escroquerie en ligne ou par smartphone se multiplient actuellement.
+- Pour lutter contre cette cybercriminalité, les gendarmes des Ardennes ont mis en place des référents et un enquêteur spécialisé.
+- L'adjudant de gendarmerie Franck est référent de cybersécurité et nous donne un premier conseil, celui de rester "curieux" et de "prendre le temps de se renseigner, voire de suivre une formation".
 
-## [<b>Cybersécurité</b>: Trump finit par adopter une régulation de l'IA | JDQ - Journal de Québec](https://www.journaldequebec.com/2026/06/02/cybersecurite-trump-finit-par-adopter-une-regulation-de-lia)  
-*Source : journaldequebec.com | Publication : 2026-06-02*
+## [<b>Cybersécurité</b>: Trump finit par adopter une régulation de l'IA - L'Echo](https://www.lecho.be/dossiers/intelligence-artificielle/cybersecurite-trump-finit-par-adopter-une-regulation-de-l-ia/10673689.html)  
+*Source : lecho.be | Publication : 2026-06-03*
 
-- Donald Trump a signé mardi, sans pompe ni fanfare, un décret très attendu qui institue un encadrement de l'intelligence artificielle aux.
+- <b>Cybersécurité</b>: Trump finit par adopter une régulation de l'IA - L'Echo.
 
-## [IA et <b>cybersécurité</b> : Trump dégaine un nouveau décret exécutif - Cryptoast](https://cryptoast.fr/ia-et-cybersecurite-trump-degaine-un-nouveau-decret-executif/)  
-*Source : cryptoast.fr | Publication : 2026-06-02*
+## [Ready For IT 2026 : les bons conseils du général, la nouvelle menace du tueur d'EDR - JDN](https://www.journaldunet.com/cybersecurite/1550905-ready-for-it-2026-les-pme-et-eti-sous-pression-face-a-l-intensification-des-cyberattaques/)  
+*Source : journaldunet.com | Publication : 2026-06-03*
 
-- IA et cybersécurité : Trump dégaine un nouveau décret exécutif Donald Trump vient de signer un nouveau décret exécutif consacré à l’innovation et à la sécurité dans l’intelligence artificielle.
-- Le texte, publié ce 2 juin 2026, vise à muscler la cyberdéfense américaine et à encadrer le déploiement des modèles d’IA dits de « frontières ».
-- Décryptage à chaud.
-- Un décret centré sur la cybersécurité et la souveraineté américaine Le président américain a officialisé ce 2 juin 2026 un décret exécutif intitulé Promoting Advanced Artificial Intelligence Innovation and Security.
+- Ready For IT 2026 : les bons conseils du général, la nouvelle menace du tueur d'EDR Lors de la première journée de la 7e édition de Ready For IT à Monaco, 700 décideurs IT, DSI, RSSI et CTO ont pu écouter Patrick Touak, le général directeur du Commandement du ministère de l'Intérieur dans le cyberespace.
+- Top départ pour la 7e édition de Ready For IT, qui séduit les visiteurs pour son format à taille humaine et son atmosphère conviviale à Monaco.
+- "C'est la deuxième année que je viens et je suis conquis.
+- Il y a de vrais décideurs mais dans un cadre plus petit que les grands salons du secteur, ce qui laisse plus de place aux échanges", glisse un expert de la cybersécurité rompu aux événements IT.
 
-## [À l'heure de la pègre numérique | LeMagIT](https://www.lemagit.fr/actualites/366643837/A-lheure-de-la-pegre-numerique)  
-*Source : lemagit.fr | Publication : 2026-06-02*
+## [Connectez votre ambition au très haut débit chez Ekinops -L'interview de Dmitri Pigoulevski](https://www.mondedesgrandesecoles.fr/connectez-votre-ambition-au-tres-haut-debit-chez-ekinops-linterview-de-dmitri-pigoulevski/)  
+*Source : mondedesgrandesecoles.fr | Publication : 2026-06-03*
 
-- stokkete - stock.adobe.com À l'heure de la pègre numérique Au même titre que la délinquance, les vols et escroqueries, la cybercriminalité est entrée dans les mœurs.
-- Le nombre de plaintes continue de croître de manière géométrique et le secteur s’est structuré.
-- Il y a quelques semaines, le Commandement du ministère de l'Intérieur dans le cyberespace (ComCyber-Mi) publiait l’édition 2026 de son rapport annuel de la Cybercriminalité.
-- Celui-ci pointait le chiffre de 453 200 atteintes numériques enregistrées en 2025, soit une progression de 87 % sur les 5 dernières années.
+- Et si votre carrière se construisait comme une architecture réseau : agile, évolutive et sans frontières ?.
+- Chez Ekinops, spécialiste des infrastructures télécoms, Dmitri Pigoulevski, (MBA HEC Paris 00), Directeur Général Administratif et Financier, embarque les jeunes diplômés dans une aventure internationale faite de transformation et de croissance accélérée.
+- Comment passe-t-on de la Biélorussie, dont vous êtes originaire, à la direction financière d’un groupe coté ?.
+- J’ai d’abord fait des études de langues étrangères avant de m’orienter vers le business.
 
-## [La CCI Lyon Métropole Saint-Étienne Roanne lance un numéro d'urgence cyber pour les ...](https://www.lyon-entreprises.com/actualites/article/cyber-assistance-auvergne-rhone-alpes-cci-lyon)  
-*Source : lyon-entreprises.com | Publication : 2026-06-02*
+## [En Allemagne, une cyberattaque contre un grossiste a interrompu les livraisons de ... - TICsanté](https://www.ticsante.com/story?ID=8278)  
+*Source : ticsante.com | Publication : 2026-06-03*
 
-- La CCI Lyon Métropole Saint-Étienne Roanne lance un numéro d’urgence cyber pour les entreprises d’Auvergne-Rhône-Alpes Face à la multiplication des cyberattaques visant les entreprises et les collectivités, la CCI Lyon Métropole Saint-Étienne Roanne lance “Cyber Assistance Auvergne-Rhône-Alpes”, le premier dispositif régional de réponse aux incidents cyber opéré dans le cadre du réseau national des CSIRT territoriaux soutenus par l’ANSSI.
-- Accessible gratuitement 24h/24 et 7j/7 via un numéro d’urgence unique, ce nouveau service doit permettre aux TPE, PME, ETI, collectivités et associations de bénéficier d’un premier niveau d’assistance en cas d’attaque informatique.
-- Un dispositif régional pour répondre aux cyberattaques Mandatée par l’Agence nationale de la sécurité des systèmes d’information (ANSSI), la CCI Lyon Métropole opérera ce nouveau CSIRT territorial avec l’appui technique d’Orange Cyberdefense, spécialiste français de la cybersécurité.
-- Le dispositif vise à accompagner les structures confrontées à des rançongiciels, tentatives de phishing, piratages ou compromissions de systèmes informatiques, à travers un premier diagnostic, une aide aux démarches urgentes et une orientation vers des prestataires spécialisés.
+- AEP Pharma est un des plus importants grossistes en Allemagne avec un chiffre d'affaires revendiqué supérieur au milliard d'euros.
+- Il a été victime d'une cyberattaque le 28 octobre 2024.
+- Deux jours plus tard, AEP Pharma a annoncé être "victime d'une cyberattaque ciblée et criminelle" ayant provoqué "un chiffrement partiel" de son système d'information.
+- Tous les systèmes ont été arrêtés et toutes les connexions extérieures coupées.
