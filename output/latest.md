@@ -1,152 +1,153 @@
-# Résumés – 2026-06-05
+# Résumés – 2026-06-06
 
 
-## [Cloud souverain : la riposte française s'organise depuis Sophia Antipolis - Tribuca.net](https://tribuca.net/cloud-souverain-la-riposte-francaise-sorganise-depuis-sophia-antipolis/)  
-*Source : tribuca.net | Publication : 2026-06-04*
+## [IA : menace, outil, ou les deux ? | Malwarebytes](https://www.malwarebytes.com/fr/blog/ai/2026/06/ai-threat-tool-or-both)  
+*Source : malwarebytes.com | Publication : 2026-06-05*
 
-- Dans le viseur de Nubevia, deux marchés montent particulièrement en puissance : l'intelligence artificielle et la cybersécurité.
-- "Les PME, ETI.
+- L'opinion publique à l'égard de l'intelligence artificielle (IA) évolue, et nous avons voulu en comprendre les raisons.
+- Une récente enquête du Pew Research Center a révélé qu'environ la moitié des adultes déclarent que l'utilisation croissante de l'IA dans la vie quotidienne les inquiète davantage qu'elle ne les enthousiasme, et que cette inquiétude s'est accrue au cours des dernières années.
+- Les gens ont tendance à s'inquiéter surtout des répercussions sociales à long terme (emploi, créativité, relations humaines, désinformation), même si beaucoup utilisent des outils d'IA et en perçoivent certains avantages pratiques, notamment pour l'analyse de données et les tâches routinières.
+- Les données d'une enquête britannique plus ancienne montraient déjà une tendance similaire.
 
-## [Fuite de données chez Groupe Sécurité CLB, une cyberattaque <b>ransomware</b> signalée](https://frenchbreaches.com/r/UXTt44)  
-*Source : frenchbreaches.com | Publication : 2026-06-04*
+## [Piratage de chaînes de TV payantes: démantèlement d'un important réseau par les cybergendarmes](https://actu.orange.fr/societe/high-tech/piratage-de-chaines-de-tv-payantes-demantelement-d-un-important-reseau-par-les-cybergendarmes-CNT000002pMqoy.html)  
+*Source : actu.orange.fr | Publication : 2026-06-05*
 
-- Une enquête menée par la France, l'Espagne et Europol a permis de démanteler un atelier de faux papiers utilisé par des réseaux de passeurs de migrant.
+- Piratage de chaînes de TV payantes: démantèlement d'un important réseau par les cybergendarmes © JOEL SAGET, AFP - Un gendarme de l'Unité Nationale Cyber (UNCyber) de la Gendarmerie Nationale, le 7 avril 2026 à Pontoise, dans le Val-d'Oise Les gendarmes spécialisés dans la cybercriminalité ont démantelé mardi un important réseau de piratage des flux de télévisions payantes qui proposait à ses clients des prix défiant toute concurrence, a annoncé vendredi la gendarmerie.
+- Onze interpellations - trois en Belgique et huit en France - ont eu lieu dans le cadre d'une enquête dirigée par la section de lutte contre la cybercriminalité du parquet de Paris et confiée à l'unité nationale cyber de la gendarmerie (UNCyber), a ajouté la gendarmerie dans un communiqué.
+- Les malfaiteurs proposaient "à la vente une solution illégale appelée "Noos+", qui permettait aux clients d'accéder à un ensemble de chaînes payantes et à du contenu VOD (vidéo à la demande).
+- L'enquête a été déclenchée par une plainte en juin 2024 de Canal+ qui venait de découvrir ce service proposant d'accéder aux flux de télévisions payantes y compris de la sienne, pour un "abonnement annuel entre 50 et 100 euros".
 
-## [Le bot d'assistance basé sur l'IA de Meta a volontiers transmis Instagram à hackers](https://www.malwarebytes.com/fr/blog/ai/2026/06/metas-ai-support-bot-happily-handed-instagram-accounts-to-hackers)  
-*Source : malwarebytes.com | Publication : 2026-06-04*
+## [#forumav #innovation #industrie #ia #<b>cybersecurite</b> #souverainete | Aerospace Valley - LinkedIn](https://fr.linkedin.com/posts/aerospace-valley_forumav-innovation-industrie-activity-7468637754298503169-lTKV)  
+*Source : fr.linkedin.com | Publication : 2026-06-05*
 
-- Les chatbots du service client ont une seule mission : fournir à l'utilisateur ce qu'il demande sans faire appel à un humain.
-- Le nouvel assistant d'assistance basé sur l'IA de Meta a pris cette consigne un peu trop au pied de la lettre.
-- Au cours des derniers mois, des pirates ont ouvert des sessions de chat d'assistance, ont fait croire au bot qu'ils n'avaient plus accès à Instagram qui ne leur appartenaient pas, et ont ainsi réussi à s'emparer des identifiants.
-- Ce week-end, Meta a déployé un correctif d'urgence après que Instagram appartenant à la Maison Blanche sous Obama (aujourd'hui inactifs), à la chaîne de cosmétiques Sephora et à un haut responsable de la Force spatiale américaine ont été piratés et brièvement défigurés par des images pro-iraniennes.
+- [ #ForumAV ] Après des séquences et interventions inspirantes, place aux ateliers techniques proposés par les Ecosystèmes d’Excellence et Axes de Transition du Pôle !.
+- #1 : "La sécurité dans l'entreprise par et pour le dirigeant : enjeux dans le cycle de vie des informations et des équipements & systèmes embarqués" Dans un contexte de tensions géopolitiques et de transformation numérique accélérée, cet atelier a permis d’aborder les enjeux de sécurité, cybersécurité et souveraineté autour du cycle de vie des informations et des systèmes embarqués.
+- 🎤 Cyril Caritey – AKAWAN | France Charruyer – Altij | Marc Gatti – Thales AVS | Mathias JULIEN – Cyblex Consulting | Benjamin SPUND – ORANGE | Tony TEIXEIRA – Groupama d’Oc #2 : "L’IA dans tous ses états : une démarche de résilience et de souveraineté des filières aérospatiales" L’intelligence artificielle transforme profondément les usages et les modèles industriels.
+- Cet atelier a permis d’explorer comment l’IA peut devenir un levier de résilience, de compétitivité et de souveraineté pour les acteurs des filières aérospatiales.
 
-## [<b>Cybersécurité</b> &amp; IA, les amours contrariés - LeMagIT](https://www.lemagit.fr/actualites/366643901/Cybersecurite-IA-les-amours-contraries)  
-*Source : lemagit.fr | Publication : 2026-06-04*
+## [L'Ugap et Cybermalveillance.gouv.fr s'associent pour renforcer la <b>cybersécurité</b> des acteurs publics](https://www.banquedesterritoires.fr/lugap-et-cybermalveillancegouvfr-sassocient-pour-renforcer-la-cybersecurite-des-acteurs-publics?pk_campaign=newsletter_quotidienne&pk_kwd=2026-06-05&pk_source=Actualités_Localtis&pk_medium=newsletter_quotidienne)  
+*Source : banquedesterritoires.fr | Publication : 2026-06-05*
 
-- Â© studiostoks-AdobeStock Cybersécurité & IA, les amours contrariés La cybersécurité et l’intelligence artificielle entretiennent une relation compliquée, entre des apports face à des acteurs malveillants qui ne manquent pas d’utiliser la GenAI, et l’émergence de nouvelles surfaces exposées.
-- Comme dans de nombreux autres domaines, l’intelligence artificielle s’est graduellement imposée dans les outils, d’abord par l’intégration de fonctionnalités génératives, puis par celle de capacités agentiques.
-- Mais la cybersécurité a ses particularités : c’est un domaine où se faire peur est un sport de compétition.
-- Alors avec l’intelligence artificielle, ça n’a pas loupé : les prophéties annonçant une IA-pocalypse résultant d’attaquants soudain devenus surpuissants se sont multipliées.
+- L'Ugap et Cybermalveillance.gouv.fr s'associent pour renforcer la cybersécurité des acteurs publics L'Ugap, centrale d'achat public, et Cybermalveillance.gouv.fr ont signé une convention de partenariat destinée à mieux outiller les décideurs publics face aux risques numériques.
+- Annoncé le 1er juin 2026 dans un communiqué commun, cet accord formalise des engagements réciproques autour de la sensibilisation et de l'accompagnement des acheteurs publics en matière de cybersécurité.
+- Le constat qui motive ce rapprochement est préoccupant : selon une étude OpinionWay (1) réalisée en 2024 pour Cybermalveillance.gouv.fr auprès de collectivités de moins de 25.000 habitants, seulement 14% d'entre elles se sentent bien préparées à faire face à une cyberattaque — un chiffre qui monte à 24% pour celles de plus de 5.000 habitants.
+- Piratage, hameçonnage, rançongiciel, faux ordres de virement : les menaces se multiplient, avec des capacités de réponse très inégales selon la taille des collectivités.
 
-## [Conseil : Wavestone va mettre le paquet sur l'IA et les Etats-Unis pour se relancer](https://www.lesechos.fr/industrie-services/services-conseils/conseil-wavestone-va-mettre-le-paquet-sur-lia-et-les-etats-unis-pour-se-relancer-2235142)  
-*Source : lesechos.fr | Publication : 2026-06-04*
+## [Un outil de piratage vise les utilisateurs de Microsoft 365 en contournant la double authentification](https://www.ouest-france.fr/societe/un-outil-de-piratage-vise-les-utilisateurs-de-microsoft-365-en-contournant-la-double-authentification-7743d126-60ef-11f1-b037-716b21dc467b)  
+*Source : ouest-france.fr | Publication : 2026-06-05*
 
-- Wavestone va continuer de s'appuyer sur ses points forts, comme la cybersécurité.
-- (Photo Xavier Popy/REA).
-- Par Alexandre Rousset.
-
-## [Les actions de CrowdStrike chutent, le &quot;moment Mythos&quot; n'ayant pas réussi à enthousiasmer ...](https://www.boursorama.com/bourse/actualites-amp/les-actions-de-crowdstrike-chutent-le-moment-mythos-n-ayant-pas-reussi-a-enthousiasmer-les-investisseurs-44edcf067068aa5d3d4d04e552f6231f)  
-*Source : boursorama.com | Publication : 2026-06-04*
-
-- Les actions de CrowdStrike chutent, le "moment Mythos" n'ayant pas réussi à enthousiasmer les investisseurs information fournie par Reuters 04/06/2026 à 18:15 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Les analystes évoquent des prises de bénéfices après une hausse de 90 % depuis la publication des résultats de mars * La demande pour les logiciels de cybersécurité basés sur l'IA reste forte * Les actions de Netskope et Palo Alto Networks reculent également (Mise à jour des cours, ajout de graphiques) par Akriti Shah et Jaspreet Singh L'action de CrowdStrike CRWD.O a chuté de 7 % jeudi après que les prévisions trimestrielles de la société n'ont pas répondu aux attentes élevées des investisseurs, même si la demande de logiciels de cybersécurité a été stimulée après l'annonce par Anthropic de son modèle d'IA Mythos.
-- Si les pertes persistent, la valorisation boursière de la société de cybersécurité, qui s'élève à près de 190 milliards de dollars, pourrait diminuer de 13 milliards de dollars.
-- Certains analystes ont attribué cette chute à des prises de bénéfices de la part des investisseurs, les actions de CrowdStrike ayant bondi d'environ 90 % depuis la publication du dernier rapport financier de la société en mars.
-- À la clôture de mercredi, le titre avait progressé de près de 60 % cette année.
-
-## [ORCOM | Expertise-comptable, audit, conseil - LinkedIn](https://fr.linkedin.com/posts/orcom-2_cybersécurité-data-rgpd-activity-7468225087377342465-eUwv)  
-*Source : fr.linkedin.com | Publication : 2026-06-04*
-
-- 🚨 Et si votre plus grand risque cyber… n’était pas votre système informatique ?.
-- Aujourd’hui, la majorité des cyberattaques ne viennent pas d’une faille technique.
-- Elles commencent par un geste simple : 👉 un clic 👉 un mot de passe trop faible 👉 un document envoyé à la mauvaise personne La cybersécurité ne se joue pas uniquement dans les outils.
-- Elle se joue dans les comportements.
-
-## [Fuite de données : le «Dossier médical partagé» a-t-il vraiment été hacké - Libération](https://www.liberation.fr/checknews/fuite-de-donnees-le-dossier-medical-partage-a-t-il-vraiment-ete-hacke-20260604_6RPZTO6L5BBT7CXXH3GCVYLKEQ/)  
-*Source : liberation.fr | Publication : 2026-06-04*
-
-- CybercriminalitéCybersécurité Assurance maladie.
-- Dans la même rubrique.
-- CheckNews · Fuite de données : le «Dossier médical partagé» a-t-il vraiment été.
-
-## [HID et Sharry numérisent l'accès au campus H-FARM](https://www.informatiquenews.fr/hid-et-sharry-lancent-les-cartes-etudiantes-en-portefeuille-numerique-dans-lenseignement-superieur-europeen-avec-h-farm-college-111690)  
-*Source : informatiquenews.fr | Publication : 2026-06-04*
-
-- HID et Sharry déploient pour la première fois en Europe des cartes étudiantes accessibles depuis le portefeuille numérique du smartphone, en partenariat avec H-FARM College.
-- Étudiants, enseignants et personnels peuvent désormais accéder aux espaces du campus via leur téléphone ou leur montre connectée.
-- Ce déploiement associe la plateforme d’accès intelligent de Sharry et les solutions d’identité de HID pour offrir une expérience campus entièrement dématérialisée à H-FARM College.
-- Un campus d’innovation, précurseur en matière d’accès numérique Situé en bordure de la lagune de Venise, H-FARM College est un écosystème d’innovation qui réunit sur un même site formation, startups et technologie.
-
-## [Singapour mise sur des paris audacieux dans les secteurs d'avenir pour sécuriser sa ...](https://www.teamfrance-export.fr/infos-sectorielles/41047/41047-singapour-mise-sur-des-paris-audacieux-dans-les-secteurs-davenir-pour-securiser-sa-croissance-economique)  
-*Source : teamfrance-export.fr | Publication : 2026-06-04*
-
-- Date de publication : Je souhaite aller plus loin, je veux être contacté(e) par un expert gratuitement.
-- Être contactéSingapour cherche à sécuriser sa croissance économique de long terme en s’appuyant sur de nouveaux relais de développement ambitieux, avec une volonté assumée de prise de risque : l’inaction représenterait un coût plus élevé que l’échec de certaines initiatives.
-- Le pays entend ainsi consolider ses atouts dans l’industrie manufacturière à forte valeur ajoutée et les services avancés, tout en accélérant ses investissements dans des secteurs émergents tels que les technologies quantiques, le spatial, la cybersécurité, la gouvernance de l’IA, ainsi que l’audit, la conformité et la gestion des risques.
-- L’objectif est d’attirer et d’ancrer durablement des activités stratégiques, en développant des écosystèmes locaux intégrés associant sous-traitants, centres de recherche et talents qualifiés.
-
-## [CyberSPEX : atelier sur la facilitation de la coopération dans le cadre du deuxième ...](https://www.coe.int/fr/web/cybercrime/-/cyberspex-national-meetings-on-the-implementation-of-the-second-additional-protocol-duplicate-1-1)  
-*Source : coe.int | Publication : 2026-06-04*
-
-- Le Conseil de l'Europe, par l'intermédiaire du Bureau du programme sur la cybercriminalité , a réaffirmé son engagement à accompagner les.
-
-## [L'action de CrowdStrike chute, le “moment Mythos” n'ayant pas réussi à rassurer les investisseurs](https://www.boursorama.com/bourse/actualites-amp/l-action-de-crowdstrike-chute-le-moment-mythos-n-ayant-pas-reussi-a-rassurer-les-investisseurs-44edcf067068aa5d3d4d04e552f6231f)  
-*Source : boursorama.com | Publication : 2026-06-04*
-
-- Les actions de CrowdStrike chutent, le "moment Mythos" n'ayant pas réussi à enthousiasmer les investisseurs information fournie par Reuters 04/06/2026 à 18:15 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Les analystes évoquent des prises de bénéfices après une hausse de 90 % depuis la publication des résultats de mars * La demande pour les logiciels de cybersécurité basés sur l'IA reste forte * Les actions de Netskope et Palo Alto Networks reculent également (Mise à jour des cours, ajout de graphiques) par Akriti Shah et Jaspreet Singh L'action de CrowdStrike CRWD.O a chuté de 7 % jeudi après que les prévisions trimestrielles de la société n'ont pas répondu aux attentes élevées des investisseurs, même si la demande de logiciels de cybersécurité a été stimulée après l'annonce par Anthropic de son modèle d'IA Mythos.
-- Si les pertes persistent, la valorisation boursière de la société de cybersécurité, qui s'élève à près de 190 milliards de dollars, pourrait diminuer de 13 milliards de dollars.
-- Certains analystes ont attribué cette chute à des prises de bénéfices de la part des investisseurs, les actions de CrowdStrike ayant bondi d'environ 90 % depuis la publication du dernier rapport financier de la société en mars.
-- À la clôture de mercredi, le titre avait progressé de près de 60 % cette année.
-
-## [Un hacker revendique le piratage du Dossier médical partagé : l'Assurance maladie exclut ... - RTL](https://www.rtl.fr/actu/sciences-tech/un-hacker-revendique-le-piratage-du-dossier-medical-partage-l-assurance-maladie-exclut-toute-extraction-massive-de-donnees-et-va-saisir-la-justice-7900642399)  
-*Source : rtl.fr | Publication : 2026-06-04*
-
-- 3 min de lecture Je m'abonne à la newsletter « Infos » Sur un forum cybercriminel, un hacker a affirmé avoir mis la main sur une vaste base de données provenant du Dossier médical partagé (DMP), le carnet de santé numérique géré par l’Assurance maladie.
-- Selon cette revendication, plus de 34 millions de personnes seraient concernées et les informations compromises incluraient notamment des noms, des numéros de sécurité sociale ou encore des coordonnées bancaires.
-- Interrogée par RTL ce mercredi 3 juin, l’Assurance maladie dément.
-- L'organisme assure que les investigations menées par ses équipes n’ont révélé aucun élément permettant de confirmer ces affirmations.
-
-## [CrowdStrike dévisse, mais Wedbush reste acheteur - Option Finance](https://www.optionfinance.fr/info-financiere-en-continu/d/2026-06-04-crowdstrike-devisse-mais-wedbush-reste-acheteur.html)  
-*Source : optionfinance.fr | Publication : 2026-06-04*
-
-- Alors que l'action CrowdStrike dévisse de 7,8% vers 689 USD en début de séance à Wall Street, au lendemain de la publication de ses résultats au titre du 1er trimestre de l'exercice 2027, Wedbush se veut rassurant dans une note publiée avant l'ouverture, ajoutant même qu'il "serait acheteur en cas de repli du cours".
-- Le broker américain réaffirme son opinion "surperformance" sur le titre du groupe spécialisé dans les services de cybersécurité, avec un objectif de cours à 12 mois relevé de 700 USD à 720 USD, "reflétant la dynamique positive de son approche par plateforme".
-- Outre des performances légèrement supérieures aux attentes sur l'ensemble des indicateurs au 1er trimestre, Wedbush souligne que CrowdStrike a légèrement relevé ses prévisions annuelles, "constatant un important pipeline pour son portefeuille de produits de cybersécurité et d'IA, qui demeure un moteur essentiel de son carnet de commandes".
-- "Nous continuons de croire que la position de CrowdStrike en tant que référence en matière de cybersécurité demeure solidement établie, sa plateforme Falcon, innovante et de premier ordre, devenant de plus en plus importante dans le nouvel environnement des menaces liées à l'IA", indique le broker.
-
-## [Ingérences étrangères : la riposte encore fragile de l'Europe - L'Express](https://www.lexpress.fr/monde/europe/ingerences-etrangeres-la-riposte-encore-fragile-de-leurope-GFXW4VWD3VECJBRTCUIHPP6CPU/)  
-*Source : lexpress.fr | Publication : 2026-06-04*
-
-- Depuis les "Macron Leaks", ces emails piratés par la Russie qui étaient venus interférer dans la campagne présidentielle de 2017, l’exécutif français est largement monté au créneau dans sa lutte contre la désinformation.
-- Un très inflammable projet de loi "contre les ingérences étrangères" est désormais dans les tuyaux pour préserver au mieux la présidentielle de 2027.
-- Preuve de l’importance du dossier, Viginum, l’agence mise sur pied en juillet 2021 pour déjouer ces tentatives de déstabilisation, est l’un des rares services de l’Etat à bénéficier d’une rallonge budgétaire.
+- Le FBI a émis une alerte critique le 21 mai 2026 concernant une cybermenace baptisée « Kali365 ».
 - .
+- Selon plusieurs cabinets de cybersécurité.
 
-## [Doctolib, données médicales et IA américaine : la plateforme répond](https://www.solutions-numeriques.com/doctolib-donnees-medicales-et-ia-americaine-la-plateforme-repond/)  
-*Source : solutions-numeriques.com | Publication : 2026-06-04*
+## [Coupe du monde 2026 : ces arnaques sont déjà prêtes à piéger les fans - Clubic](https://www.clubic.com/actualite-615439-coupe-du-monde-2026-ces-arnaques-sont-deja-pretes-a-pieger-les-fans.html)  
+*Source : clubic.com | Publication : 2026-06-05*
 
-- Le Canard Enchaîné a révélé le 2 juin que les notes de consultation captées par l’assistant IA de Doctolib alimentaient des modèles développés avec Google, Microsoft et Anthropic.
-- La plateforme conteste les termes de l’enquête et apporte des précisions sur l’architecture technique et les conditions de traitement des données.
-- Ce que révèle le Canard Enchaîné Depuis 2024, Doctolib propose aux médecins un assistant virtuel de transcription des consultations, facturé 79 euros par mois.
-- Selon l’hebdomadaire, la politique de protection des données de la plateforme indique que ces notes participent à l’entraînement de modèles d’IA développés avec Google (Gemini), Microsoft (Copilot) et Anthropic (Claude), en contradiction avec l’engagement public de Doctolib selon lequel “aucun tiers ne peut accéder au contenu des notes médicales.” Le Canard Enchaîné soulève également la question du Cloud Act américain : même hébergées en Europe, les données détenues par des entreprises américaines peuvent théoriquement être requises par la justice des États-Unis.
+- Le cabinet de sécurité Check Point a publié un rapport de 72 pages sur les cybermenaces liées à la Coupe du monde 2026 qui débute la semaine prochaine aux États-Unis, au Mexique et au Canada.
+- Tout est déjà en œuvre pour maximiser les fraudes.
+- Billets, hôtels, transferts d'argent, paris sportifs…à l'instar des Jeux olympiques, les Coupes du monde génèrent de gros volumes de transactions en très peu de temps.
+- C'est précisément la raison pour laquelle les cybercriminels travaillent d'arrache-pied.
 
-## [Des sites Web peuvent tomber en 10 secondes : la nouvelle technique qui contourne les ... - Futura](https://www.futura-sciences.com/tech/actualites/cybersecurite-sites-web-peuvent-tomber-10-secondes-nouvelle-technique-contourne-defenses-affole-experts-135038/)  
-*Source : futura-sciences.com | Publication : 2026-06-04*
+## [Olivier Beaudet, président de Claranet France, est notre invité - InformatiqueNews.fr](https://www.informatiquenews.fr/souverainete-numerique-on-ne-parle-pas-dachat-patriotique-on-parle-de-resilience-olivier-beaudet-claranet-111806)  
+*Source : informatiquenews.fr | Publication : 2026-06-05*
 
-- Les attaques par déni de service (DDoS) sont à la fois un cauchemar pour les gestionnaires des sites ciblés et une des attaques les plus basiques et simples.
-- Il s'agit de bombarder un site de connexions afin de saturer ses serveurs et que le service devienne totalement inaccessible.
-- Pour envoyer ce volume massif de requêtes simultanées, un grand réseau de machines (botnet) est nécessaire.
-- Ces gigantesques réseaux de botnets peuvent être loués ou bien ces attaques reposent sur des milliers d'appareils mal sécurisés (caméras, routeurs, objets connectés et ordinateurs non mis à jour).
+- Dans les DSI, le moment est assez clair : l’heure n’est plus seulement à tester l’IA, à déplacer quelques charges vers le cloud ou à empiler des outils de sécurité, mais à industrialiser sans perdre la maîtrise.
+- Gouvernance des données, souveraineté, performance des plateformes, conformité, observabilité, maîtrise des coûts : c’est sur cette ligne de crête que se joue aujourd’hui une grande partie de la modernisation IT.
+- C’est précisément là que se situe Claranet, qui met de plus en plus l’accent sur l’IA gouvernée, la souveraineté numérique et la modernisation des plateformes critiques.
+- Son président en France, Olivier Beaudet, est notre invité de la semaine.
 
-## [Le <b>ransomware</b> Gentlemen utilise une double extorsion et un abus de GPO - SOC Prime](https://socprime.com/fr/active-threats/explication-de-lemulation-du-ransomware-gentlemen/)  
-*Source : socprime.com | Publication : 2026-06-04*
+## [Euroclear et Swift reçoivent un accès à Mythos, le modèle IA de <b>cybersécurité</b> d'Anthropic](https://www.lecho.be/dossiers/intelligence-artificielle/euroclear-et-swift-recoivent-un-acces-a-mythos-le-modele-ia-de-cybersecurite-d-anthropic/10674052.html)  
+*Source : lecho.be | Publication : 2026-06-05*
 
-- Explication de l’émulation du ransomware Gentlemen Detection stack.
-- - Alert -.
-- - Query - Résumé Le groupe de ransomware Gentlemen est actif depuis juillet 2025 et suit un modèle de double extorsion, combinant le chiffrement de fichiers avec le vol de données et l’extorsion via un site de fuite.
-- Le malware est écrit en Go, supporte les environnements Windows, Linux et ESXi, et utilise un argument de mot de passe codé en dur pendant le processus de chiffrement.
+- Euroclear et Swift reçoivent un accès à Mythos, le modèle IA de <b>cybersécurité</b> d'Anthropic.
 
-## [Identité des agents et gestion des vulnérabilités, les deux chantiers communs DSI/RSSI](https://itsocial.fr/cybersecurite/cybersecurite-articles/identite-des-agents-et-gestion-des-vulnerabilites-les-deux-chantiers-communs-dsi-rssi/)  
-*Source : itsocial.fr | Publication : 2026-06-04*
+## [&quot;Cyber is broken&quot; : l'IA a mis en évidence les limites de la détection](https://www.journaldunet.com/cybersecurite/1550815-cyber-is-broken-l-ia-a-mis-en-evidence-les-limites-de-la-detection/)  
+*Source : journaldunet.com | Publication : 2026-06-05*
 
-- Deux textes institutionnels publiés à quelques semaines d'intervalle dessinent le cadre dans lequel les entreprises européennes devront déployer leurs agents d'intelligence artificielle.
-- Le 1er mai 2026, six agences de cybersécurité du groupe Five Eyes ont publié un guide commun sur l'adoption prudente des services d'IA agentique.
-- Le 11 septembre 2026, le Cyber Resilience Act européen ouvrira son obligation de signalement des vulnérabilités activement exploitées.
-- Le premier texte fixe une doctrine de sécurité pour des agents déjà présents dans les infrastructures critiques, le second impose un calendrier de conformité daté et assorti de sanctions.
+- "Cyber is broken" : l'IA a mis en évidence les limites de la détection Les entreprises investissent massivement dans la cybersécurité mais malgré une meilleure visibilité et des outils avancés, la protection attendue n'a pas été au rendez-vous.
+- Depuis plus d'une décennie, la cybersécurité s'articule autour d'un même objectif : détecter plus tôt, détecter plus vite, tout détecter.
+- Les entreprises ont multiplié leurs investissements dans les centres d'opérations de sécurité, la supervision, l'analyse comportementale et la détection assistée par l'IA, convaincues qu'une meilleure visibilité se traduirait à terme par une meilleure protection.
+- Cela n'a pas été le cas.
 
-## [IA en entreprise : pourquoi les RSSI ne peuvent plus porter seuls le risque - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/ia-en-entreprise-pourquoi-les-rssi-ne-peuvent-plus-porter-seuls-le-risque-227507/amp)  
-*Source : silicon.fr | Publication : 2026-06-04*
+## [Général Touak, ComCyber-MI : « la <b>cybercriminalité</b> devient un modèle économique](https://www.lemagit.fr/actualites/366643967/General-Touak-ComCyber-MI-la-cybercriminalite-devient-un-modele-economique)  
+*Source : lemagit.fr | Publication : 2026-06-05*
 
-- L’intelligence artificielle s’est imposée dans les entreprises à une vitesse sans commune mesure.
-- Assistants conversationnels, automatisation documentaire, analyse prédictive et copilotes métiers se généralisent dans tous les secteurs, souvent plus vite que les capacités d’encadrement des organisations.
-- Dans ce contexte, la question n’est plus de savoir si l’IA sera utilisée, mais comment elle sera gouvernée, sécurisée et intégrée aux processus internes.
-- Le RSSI se retrouve ainsi au centre des attentes et des responsabilités.
+- mehaniq41 - stock.adobe.com « La cybercriminalité devient un modèle économique » (Général Touak, ComCyber-MI) Le chef du commandement du ministère de l’Intérieur dans le Cyberespace a rappelé aux DSI et RSSI rassemblés lors de l’événement Ready for IT !.
+- l’importance de la menace que fait peser la cybercriminalité.
+- En ouverture de l’événement Ready for IT !, le général Touak a souligné les enjeux de cybersécurité.
+- Celui qui a succédé au général Christophe Husson à la tête du ComCyber-MI a rappelé qu’en 2025, 453 200 faits d’atteintes numériques, de criminalités numériques avaient été enregistrés en France : « le chiffre en lui-même n’est pas très important.
+
+## [SMART TRENDS - <b>Cybersécurité</b> et innovation en interdépendance - Vidéo Dailymotion](https://www.dailymotion.com/video/xadg5wi)  
+*Source : dailymotion.com | Publication : 2026-06-05*
+
+- Skip to player Skip to main content Watch fullscreen.
+- SMART TRENDS - Cybersécurité et innovation en interdépendance.
+
+## [Vie privée et <b>cybersécurité</b> réunies : Surfshark couvre tous les besoins - Les Numériques](https://www.lesnumeriques.com/vpn/vie-privee-et-cybersecurite-reunies-surfshark-couvre-tous-les-besoins-n257033.html)  
+*Source : lesnumeriques.com | Publication : 2026-06-05*
+
+- Vie privée et cybersécurité réunies : Surfshark couvre tous les besoins Surfshark ne se contente plus de proposer un VPN rapide pour masquer une adresse IP ou sécuriser une connexion Wi-Fi.
+- L’offre prend désormais des airs de boîte à outils complète, avec antivirus, blocage des publicités, surveillance des fuites de données et protection de l’identité.
+- Le tout démarre à 1,99 € par mois avec trois mois offerts, dans le cadre d’un abonnement longue durée.
+- Pour un foyer équipé de plusieurs appareils, l’argument est simple : un seul compte suffit, sans limite de connexions.
+
+## [Loir-et-Cher Tech monte en puissance - Mag'CentreMagcentre](https://www.magcentre.fr/370857-loir-et-cher-tech-monte-en-puissance/)  
+*Source : magcentre.fr | Publication : 2026-06-05*
+
+- Loir-et-Cher Tech monte en puissance vendredi, 5 juin 2026 L’association fondée en 2016, qui promeut la culture et l’inclusion numérique, monte en puissance.
+- Son assemblée générale, organisée le 3 juin dernier à la Cité départementale du Numérique à Blois, en présence de ses nombreux partenaires, a confirmé l’impact grandissant de ses actions.
+- Pas moins de 1 442 personnes ont ainsi bénéficié de divers évènements (Startup teens, coding goûter, Cafés IA…), formations (Seconde numérique, escape game immersif Les Gardiens du numérique…) ou actions d’inclusion numérique (féminisation des métiers, handi Num…).
+- Le reconditionnement d’ordinateurs (750 ces cinq dernières années), l’accompagnement des projets participatifs de la ville de Blois ou la participation à des manifestations locales (Nuit de l’Orientation, Rendez-vous de l’Histoire) figurent également parmi les activités d’une association « fer de lance du numérique pour tous dans la région ».
+
+## [Piratage de flux IPTV Noos+ : démantèlement d'une structure criminelle par l'UNCyber](https://www.gendarmerie.interieur.gouv.fr/unpj/nos-publications2/sur-le-terrain/piratage-de-flux-iptv-noos-demantelement-d-une-structure-criminelle-par-l-uncyber)  
+*Source : gendarmerie.interieur.gouv.fr | Publication : 2026-06-05*
+
+- L'Unité nationale cyber a mené une opération judiciaire d'une ampleur inédite visant une organisation criminelle spécialisée dans l'IPTV illégale,.
+
+## [Berenberg rétrograde CrowdStrike à « conserver » malgré de bonnes perspectives](https://fr.finance.yahoo.com/actualites/berenberg-rétrograde-crowdstrike-à-conserver-140223372.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-06-05*
+
+- Investing.com - La banque d’investissement Berenberg a abaissé sa recommandation sur le leader de la cybersécurité CrowdStrike Holdings, Inc, de « Acheter » à « Conserver », estimant que le cours de l’action reflète déjà une grande partie de son potentiel de croissance futur, malgré des fondamentaux solides.
+- Cette révision à la baisse intervient après que CrowdStrike a publié un début d’exercice 2027 encourageant, avec des résultats dépassant les attentes déjà élevées des investisseurs.
+- Berenberg a mis en avant la position de force de la société dans le secteur de la cybersécurité, notamment dans un contexte où l’adoption croissante de l’intelligence artificielle devrait stimuler les dépenses en solutions de sécurité.
+- Cependant, les analystes ont averti que la valorisation du titre est devenue de plus en plus difficile à justifier.
+
+## [Faire plus avec moins : l'IA, nouveau levier des budgets cyber](https://www.journaldunet.com/cybersecurite/1550771-faire-plus-avec-moins-l-ia-nouveau-levier-des-budgets-cyber/)  
+*Source : journaldunet.com | Publication : 2026-06-05*
+
+- Faire plus avec moins : l'IA, nouveau levier des budgets cyber Sous pression budgétaire, les équipes cyber doivent faire plus avec moins.
+- L'IA et la consolidation des outils permettent d'automatiser les tâches répétitives et de rationaliser les coûts.
+- Pendant des années, la cybersécurité a bénéficié d'un statut à part dans les arbitrages budgétaires des entreprises.
+- Face à la montée des menaces — ransomwares, attaques sur les chaînes d'approvisionnement, violations de données massives — les DSI et RSSI obtenaient facilement des budgets plus conséquents, justifiés par l'urgence et la pression réglementaire croissante.
+
+## [Une vague de cyberattaques déferle sur les réservoirs de carburant - 01net.com](https://www.01net.com/actualites/reservoirs-carburant-cibles-cyberattaques.html)  
+*Source : 01net.com | Publication : 2026-06-05*
+
+- La CISA, le FBI, la NSA, le Département de l’Énergie ainsi que quatre autres agences gouvernementales lancent l’alerte : les cyberattaques ciblant les systèmes de jaugeage automatique des réservoirs (ATG) exposés sur Internet se multiplient aux États-Unis.
+- Dans un communiqué, le collectif d’agences fédérales explique ne pas avoir identifié les auteurs de ces cyberattaques, tout en mettant en garde contre leurs conséquences potentiellement importantes.
+- Alerte aux États-Unis : les cyberattaques ciblant des réservoirs de carburant se multiplient La CISA (Cybersecurity and Infrastructure Security Agency), ainsi que le FBI, la NSA et cinq autres agences fédérales américaines lancent une alerte : les cyberattaques ciblant les systèmes de jaugeage automatique des réservoirs (ATG) exposés sur Internet se multiplient aux États-Unis.
+- Dans un communiqué partagé en ligne, le collectif d’agences fédérales explique : « L’activité cybernétique malveillante récente observée par les organisations autrices, que le gouvernement américain n’a pas encore attribuée à un État-nation ou à un groupe d’acteurs de menace, implique des cyberattaquants qui compromettent des systèmes ATG exposés sur Internet, puis les modifient par exécution de commandes ».
+
+## [L'IA agentique dans le secteur de la santé est une proposition risquée - Health-ISAC](https://health-isac.org/fr/L'IA-agentique-dans-le-domaine-de-la-santé-est-une-proposition-risquée/)  
+*Source : health-isac.org | Publication : 2026-06-05*
+
+- L'IA agentique dans le secteur de la santé est une proposition risquée Health-ISAC met en garde contre une gouvernance défaillante et l'utilisation abusive des identifiants Les humains font des erreurs.
+- Ils tombent dans le piège des arnaques par hameçonnage et cliquent sur des liens malveillants.
+- Les machines ne sont pas forcément meilleures : déléguer des décisions à des outils d’intelligence artificielle autonomes peut considérablement aggraver les risques de cybersécurité, prévient une association du secteur de la santé.
+- Les comptes aux autorisations excessives, la faible gouvernance et l'utilisation abusive des identifiants sont tous amplifiés par les flux de travail basés sur l'IA, a déclaré Errol Weiss, responsable de la sécurité du Centre d'analyse et de partage des informations sur la santé (Santé-ISAC).
+
+## [Faille Google Gemini : comment une simple notification a pu pièger l'assistant - Numerama](https://www.numerama.com/cyberguerre/2267683-gemini-piege-par-de-simples-notifications-une-attaque-par-injection-de-prompt-a-detourne-lassistant-de-google.html)  
+*Source : numerama.com | Publication : 2026-06-05*
+
+- C’est une nouvelle variante d’un problème déjà connu.
+- Celle d’une démonstration marquante présentée à Black Hat 2025, où une simple invitation Google Calendar piégée pouvait pousser Gemini à exécuter des actions malveillantes, jusqu’au contrôle d’objets connectés.
+- Cette fois, les chercheurs de SafeBreach ont exploré un autre point d’entrée : les notifications de messagerie.
+- Dans une étude publiée le 3 juin 2026, les équipes de la société de cybersécurité ont montré comment l’assistant vocal de Gemini peut être manipulé lorsqu’il lit ou résume des messages reçus via des applications comme WhatsApp.
+
+## [Cette nouvelle arnaque Wero fait des ravages sur les ventes entre particuliers](https://siecledigital.fr/2026/06/04/cette-nouvelle-arnaque-wero-fait-des-ravages-sur-les-ventes-entre-particuliers/)  
+*Source : siecledigital.fr | Publication : 2026-06-05*
+
+- Le scénario est rodé comme toujours.
+- Vous mettez un objet en vente sur Marketplace.
+- Un acheteur vous contacte, aimable, pressé, prêt à payer tout de suite via Wero.
+- Il vous demande juste votre prénom et votre numéro de téléphone.
