@@ -1,153 +1,147 @@
-# Résumés – 2026-06-06
+# Résumés – 2026-06-07
 
 
-## [IA : menace, outil, ou les deux ? | Malwarebytes](https://www.malwarebytes.com/fr/blog/ai/2026/06/ai-threat-tool-or-both)  
-*Source : malwarebytes.com | Publication : 2026-06-05*
+## [Le Procureur du pôle national de lutte contre la <b>cybercriminalité</b>, Dr. Adama Coulibaly, signe ...](https://www.maliweb.net/societe/justice/le-procureur-du-pole-national-de-lutte-contre-la-cybercriminalite-dr-adama-coulibaly-signe-et-persiste-le-pole-fait-partie-des-juridictions-qui-decernent-le-moins-de-mandats-3117280.html)  
+*Source : maliweb.net | Publication : 2026-06-06*
 
-- L'opinion publique à l'égard de l'intelligence artificielle (IA) évolue, et nous avons voulu en comprendre les raisons.
-- Une récente enquête du Pew Research Center a révélé qu'environ la moitié des adultes déclarent que l'utilisation croissante de l'IA dans la vie quotidienne les inquiète davantage qu'elle ne les enthousiasme, et que cette inquiétude s'est accrue au cours des dernières années.
-- Les gens ont tendance à s'inquiéter surtout des répercussions sociales à long terme (emploi, créativité, relations humaines, désinformation), même si beaucoup utilisent des outils d'IA et en perçoivent certains avantages pratiques, notamment pour l'analyse de données et les tâches routinières.
-- Les données d'une enquête britannique plus ancienne montraient déjà une tendance similaire.
+- Le Procureur du pôle national de lutte contre la cybercriminalité, Dr.
+- Adama Coulibaly, signe et persiste : "Le Pôle fait partie des juridictions qui décernent le moins de mandats" "De janvier à ce jour, 17 mandats ont été décernés ; 94 dossiers classés sans suite, pour 48 dossiers orientés en instruction.".
+- "Et sur les 81 dossiers en instance de jugement, 8 personnes ont été placées sous mandat de dépôt" A l'occasion de la tenue de sa première audience de la chambre criminelle, le 20 mai courant, le procureur du Pôle national de lutte contre la cybercriminalité, Dr.
+- Adama Coulibaly, a dressé un large panorama des enjeux liés à la criminalité numérique au Mali.
 
-## [Piratage de chaînes de TV payantes: démantèlement d'un important réseau par les cybergendarmes](https://actu.orange.fr/societe/high-tech/piratage-de-chaines-de-tv-payantes-demantelement-d-un-important-reseau-par-les-cybergendarmes-CNT000002pMqoy.html)  
-*Source : actu.orange.fr | Publication : 2026-06-05*
+## [Pretalx : La faille idéale pour s'imposer comme conférencier - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/06/06/pretalx-faille-conferencier/)  
+*Source : dcod.ch | Publication : 2026-06-06*
 
-- Piratage de chaînes de TV payantes: démantèlement d'un important réseau par les cybergendarmes © JOEL SAGET, AFP - Un gendarme de l'Unité Nationale Cyber (UNCyber) de la Gendarmerie Nationale, le 7 avril 2026 à Pontoise, dans le Val-d'Oise Les gendarmes spécialisés dans la cybercriminalité ont démantelé mardi un important réseau de piratage des flux de télévisions payantes qui proposait à ses clients des prix défiant toute concurrence, a annoncé vendredi la gendarmerie.
-- Onze interpellations - trois en Belgique et huit en France - ont eu lieu dans le cadre d'une enquête dirigée par la section de lutte contre la cybercriminalité du parquet de Paris et confiée à l'unité nationale cyber de la gendarmerie (UNCyber), a ajouté la gendarmerie dans un communiqué.
-- Les malfaiteurs proposaient "à la vente une solution illégale appelée "Noos+", qui permettait aux clients d'accéder à un ensemble de chaînes payantes et à du contenu VOD (vidéo à la demande).
-- L'enquête a été déclenchée par une plainte en juin 2024 de Canal+ qui venait de découvrir ce service proposant d'accéder aux flux de télévisions payantes y compris de la sienne, pour un "abonnement annuel entre 50 et 100 euros".
+- TL;DR : L’essentiel Le logiciel libre pretalx, utilisé pour gérer les propositions de présentations de nombreuses conférences technologiques et académiques, souffre d’une faille de sécurité majeure de sévérité élevée.
+- - Cette vulnérabilité de type injection de code indirecte permet à un utilisateur malveillant de prendre le contrôle total du compte d’un organisateur sans aucune interaction de sa part.
+- - En exploitant cette faille, un chercheur a réussi à faire accepter de manière automatisée sa propre présentation au sein de 40 conférences différentes à travers le monde.
+- - Les équipes de développement ont rapidement corrigé cette faille de sécurité avec la publication d’une mise à jour corrective à la fin du mois de mai de l’année en cours.
 
-## [#forumav #innovation #industrie #ia #<b>cybersecurite</b> #souverainete | Aerospace Valley - LinkedIn](https://fr.linkedin.com/posts/aerospace-valley_forumav-innovation-industrie-activity-7468637754298503169-lTKV)  
-*Source : fr.linkedin.com | Publication : 2026-06-05*
+## [Tes données valent de l'or sur le marché noir - YouTube](https://www.youtube.com/watch?v=wbPL5_KaBLI)  
+*Source : youtube.com | Publication : 2026-06-06*
 
-- [ #ForumAV ] Après des séquences et interventions inspirantes, place aux ateliers techniques proposés par les Ecosystèmes d’Excellence et Axes de Transition du Pôle !.
-- #1 : "La sécurité dans l'entreprise par et pour le dirigeant : enjeux dans le cycle de vie des informations et des équipements & systèmes embarqués" Dans un contexte de tensions géopolitiques et de transformation numérique accélérée, cet atelier a permis d’aborder les enjeux de sécurité, cybersécurité et souveraineté autour du cycle de vie des informations et des systèmes embarqués.
-- 🎤 Cyril Caritey – AKAWAN | France Charruyer – Altij | Marc Gatti – Thales AVS | Mathias JULIEN – Cyblex Consulting | Benjamin SPUND – ORANGE | Tony TEIXEIRA – Groupama d’Oc #2 : "L’IA dans tous ses états : une démarche de résilience et de souveraineté des filières aérospatiales" L’intelligence artificielle transforme profondément les usages et les modèles industriels.
-- Cet atelier a permis d’explorer comment l’IA peut devenir un levier de résilience, de compétitivité et de souveraineté pour les acteurs des filières aérospatiales.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [L'Ugap et Cybermalveillance.gouv.fr s'associent pour renforcer la <b>cybersécurité</b> des acteurs publics](https://www.banquedesterritoires.fr/lugap-et-cybermalveillancegouvfr-sassocient-pour-renforcer-la-cybersecurite-des-acteurs-publics?pk_campaign=newsletter_quotidienne&pk_kwd=2026-06-05&pk_source=Actualités_Localtis&pk_medium=newsletter_quotidienne)  
-*Source : banquedesterritoires.fr | Publication : 2026-06-05*
+## [États‑Unis et Philippines renforcent leur coopération en catastrophes et <b>cybersécurité</b>](https://lecourrier.vn/etats‑unis-et-philippines-renforcent-leur-cooperation-en-catastrophes-et-cybersecurite/1348934.html)  
+*Source : lecourrier.vn | Publication : 2026-06-06*
 
-- L'Ugap et Cybermalveillance.gouv.fr s'associent pour renforcer la cybersécurité des acteurs publics L'Ugap, centrale d'achat public, et Cybermalveillance.gouv.fr ont signé une convention de partenariat destinée à mieux outiller les décideurs publics face aux risques numériques.
-- Annoncé le 1er juin 2026 dans un communiqué commun, cet accord formalise des engagements réciproques autour de la sensibilisation et de l'accompagnement des acheteurs publics en matière de cybersécurité.
-- Le constat qui motive ce rapprochement est préoccupant : selon une étude OpinionWay (1) réalisée en 2024 pour Cybermalveillance.gouv.fr auprès de collectivités de moins de 25.000 habitants, seulement 14% d'entre elles se sentent bien préparées à faire face à une cyberattaque — un chiffre qui monte à 24% pour celles de plus de 5.000 habitants.
-- Piratage, hameçonnage, rançongiciel, faux ordres de virement : les menaces se multiplient, avec des capacités de réponse très inégales selon la taille des collectivités.
+- >> Cybersécurité : la Malaisie et l'Indonésie conviennent de renforcer leurs relations >> Indonésie - Australie : coopérer pour lutter contre les fausses nouvelles >> Forum InCyber : une nouvelle édition à la "dimension internationale" L'exercice "Tempest 41-2026" a officiellement débuté le 5 juin dans le cadre du Programme d'équipe multinationale de renforcement de la planification (MPAT).
+- Cet exercice vise à améliorer les capacités de coordination des opérations d'aide humanitaire et de secours en cas de catastrophe.
+- Le colonel Xerxes Trinidad, chef du Bureau des affaires publiques des AFP, a déclaré que l'exercice rassemble des représentants de 17 pays membres du MPAT, ainsi que des organisations humanitaires et des agences civiles.
+- Les activités sont axées sur la planification de la réponse aux crises, l'amélioration de l'interopérabilité entre les forces participantes et le renforcement des mécanismes de coordination pour les catastrophes naturelles de grande ampleur et les situations d'urgence.
 
-## [Un outil de piratage vise les utilisateurs de Microsoft 365 en contournant la double authentification](https://www.ouest-france.fr/societe/un-outil-de-piratage-vise-les-utilisateurs-de-microsoft-365-en-contournant-la-double-authentification-7743d126-60ef-11f1-b037-716b21dc467b)  
-*Source : ouest-france.fr | Publication : 2026-06-05*
+## [[Short] <b>Cybersécurité</b> hôpitaux : alerte Cour des comptes - YouTube](https://www.youtube.com/watch?v=BJTGGUNO6V0)  
+*Source : youtube.com | Publication : 2026-06-06*
 
-- Le FBI a émis une alerte critique le 21 mai 2026 concernant une cybermenace baptisée « Kali365 ».
-- .
-- Selon plusieurs cabinets de cybersécurité.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Coupe du monde 2026 : ces arnaques sont déjà prêtes à piéger les fans - Clubic](https://www.clubic.com/actualite-615439-coupe-du-monde-2026-ces-arnaques-sont-deja-pretes-a-pieger-les-fans.html)  
-*Source : clubic.com | Publication : 2026-06-05*
+## [WASHINGTON : <b>Cybersécurité</b> - HALO Trust sécurise ses opérations de déminage dans 36 pays](https://presseagence.fr/washington-cybersecurite-halo-trust-securise-ses-operations-de-deminage-dans-36-pays/)  
+*Source : presseagence.fr | Publication : 2026-06-06*
 
-- Le cabinet de sécurité Check Point a publié un rapport de 72 pages sur les cybermenaces liées à la Coupe du monde 2026 qui débute la semaine prochaine aux États-Unis, au Mexique et au Canada.
-- Tout est déjà en œuvre pour maximiser les fraudes.
-- Billets, hôtels, transferts d'argent, paris sportifs…à l'instar des Jeux olympiques, les Coupes du monde génèrent de gros volumes de transactions en très peu de temps.
-- C'est précisément la raison pour laquelle les cybercriminels travaillent d'arrache-pied.
+- WASHINGTON : Cybersécurité – HALO Trust sécurise ses… Partager : WASHINGTON : Cybersécurité – HALO Trust sécurise ses opérations de déminage dans 36 pays L’ONG de déminage HALO Trust adopte la solution CoreView pour centraliser la sécurité de son environnement Microsoft 365 à travers le monde.
+- The HALO Trust, la plus grande organisation humanitaire mondiale de déminage, a renforcé la sécurité et la gouvernance de son environnement Microsoft 365 grâce à un partenariat stratégique avec CoreView, leader des plateformes de gestion pour M365, et Cyber Vigilance, partenaire de Microsoft.
+- Annoncé le 28 mai 2026, ce déploiement couvre les opérations de l’ONG dans 36 pays et territoires, y compris dans des zones de conflit actif comme l’Ukraine.
+- Face à la complexité de gérer plus de 8 000 collaborateurs, dont de nombreux personnels temporaires et locaux, HALO Trust cherchait une solution pour centraliser le contrôle de son infrastructure informatique tout en accordant l’autonomie nécessaire à ses équipes sur le terrain.
 
-## [Olivier Beaudet, président de Claranet France, est notre invité - InformatiqueNews.fr](https://www.informatiquenews.fr/souverainete-numerique-on-ne-parle-pas-dachat-patriotique-on-parle-de-resilience-olivier-beaudet-claranet-111806)  
-*Source : informatiquenews.fr | Publication : 2026-06-05*
+## [Anthropic Project Glasswing : l'IA qui nous protège - BlogNT](https://www.blog-nouvelles-technologies.fr/371167/anthropic-project-glasswing-ia-securite/)  
+*Source : blog-nouvelles-technologies.fr | Publication : 2026-06-06*
 
-- Dans les DSI, le moment est assez clair : l’heure n’est plus seulement à tester l’IA, à déplacer quelques charges vers le cloud ou à empiler des outils de sécurité, mais à industrialiser sans perdre la maîtrise.
-- Gouvernance des données, souveraineté, performance des plateformes, conformité, observabilité, maîtrise des coûts : c’est sur cette ligne de crête que se joue aujourd’hui une grande partie de la modernisation IT.
-- C’est précisément là que se situe Claranet, qui met de plus en plus l’accent sur l’IA gouvernée, la souveraineté numérique et la modernisation des plateformes critiques.
-- Son président en France, Olivier Beaudet, est notre invité de la semaine.
+- Alors que la course à l’intelligence artificielle se concentre souvent sur les assistants conversationnels et la productivité, Anthropic poursuit une stratégie différente : utiliser l’IA pour protéger les infrastructures les plus sensibles au monde.
+- L’entreprise américaine vient d’annoncer l’extension de Project Glasswing, son programme dédié à la détection proactive des vulnérabilités logicielles.
+- Après une phase pilote lancée en avril, l’initiative s’ouvre désormais à près de 150 organisations réparties dans plus de 15 pays.
+- Claude Mythos au cœur du dispositif Au centre de Project Glasswing se trouve Claude Mythos, le modèle de cybersécurité le plus avancé développé par Anthropic à ce jour.
 
-## [Euroclear et Swift reçoivent un accès à Mythos, le modèle IA de <b>cybersécurité</b> d'Anthropic](https://www.lecho.be/dossiers/intelligence-artificielle/euroclear-et-swift-recoivent-un-acces-a-mythos-le-modele-ia-de-cybersecurite-d-anthropic/10674052.html)  
-*Source : lecho.be | Publication : 2026-06-05*
+## [L'un des plus grands dangers de l'IA est passé sous silence, cette jeune pousse française le combat](https://www.presse-citron.net/lun-des-plus-grands-dangers-de-lia-est-passe-sous-silence-cette-jeune-pousse-francaise-le-combat/)  
+*Source : presse-citron.net | Publication : 2026-06-06*
 
-- Euroclear et Swift reçoivent un accès à Mythos, le modèle IA de <b>cybersécurité</b> d'Anthropic.
+- « C’est un projet sur lequel je travaille depuis peut-être quatre ans et demi maintenant », se souvient Marie Paindavoine, docteure en cryptographie, dans un entretien accordé à Presse-citron.
+- Elle s’est notamment forgée dans le monde du téléphone portable à travers une thèse chez Orange.
+- « J’ai travaillé dans une entreprise qui faisait des téléphones portables sécurisés », confie-t-il.
+- C’est lors d’une veille technique en 2021 qu’elle découvre qu’extraire les modèles d’IA embarqués sur smartphone est un jeu d’enfant.
 
-## [&quot;Cyber is broken&quot; : l'IA a mis en évidence les limites de la détection](https://www.journaldunet.com/cybersecurite/1550815-cyber-is-broken-l-ia-a-mis-en-evidence-les-limites-de-la-detection/)  
-*Source : journaldunet.com | Publication : 2026-06-05*
+## [Beauvais. À 27 ans, Bastien Languedoc souhaite construire l'alternative française à Google](https://www.oisehebdo.fr/2026/06/06/beauvais-bastien-languedoc-alternative-francaise-google/)  
+*Source : oisehebdo.fr | Publication : 2026-06-06*
 
-- "Cyber is broken" : l'IA a mis en évidence les limites de la détection Les entreprises investissent massivement dans la cybersécurité mais malgré une meilleure visibilité et des outils avancés, la protection attendue n'a pas été au rendez-vous.
-- Depuis plus d'une décennie, la cybersécurité s'articule autour d'un même objectif : détecter plus tôt, détecter plus vite, tout détecter.
-- Les entreprises ont multiplié leurs investissements dans les centres d'opérations de sécurité, la supervision, l'analyse comportementale et la détection assistée par l'IA, convaincues qu'une meilleure visibilité se traduirait à terme par une meilleure protection.
-- Cela n'a pas été le cas.
+- Une société qui propose de l'hébergement web, du support informatique, de l'hébergement de serveur physique, du télécom, de la cybersécurité , un.
 
-## [Général Touak, ComCyber-MI : « la <b>cybercriminalité</b> devient un modèle économique](https://www.lemagit.fr/actualites/366643967/General-Touak-ComCyber-MI-la-cybercriminalite-devient-un-modele-economique)  
-*Source : lemagit.fr | Publication : 2026-06-05*
+## [Cyberattaque: Ruag a payé une rançon à des pirates informatiques - Agefi.com](https://agefi.com/actualites/entreprises/cyberattaque-ruag-a-paye-une-rancon-a-des-pirates-informatiques)  
+*Source : agefi.com | Publication : 2026-06-06*
 
-- mehaniq41 - stock.adobe.com « La cybercriminalité devient un modèle économique » (Général Touak, ComCyber-MI) Le chef du commandement du ministère de l’Intérieur dans le Cyberespace a rappelé aux DSI et RSSI rassemblés lors de l’événement Ready for IT !.
-- l’importance de la menace que fait peser la cybercriminalité.
-- En ouverture de l’événement Ready for IT !, le général Touak a souligné les enjeux de cybersécurité.
-- Celui qui a succédé au général Christophe Husson à la tête du ComCyber-MI a rappelé qu’en 2025, 453 200 faits d’atteintes numériques, de criminalités numériques avaient été enregistrés en France : « le chiffre en lui-même n’est pas très important.
+- 06 juin 2026, 9h21 Partager L'entreprise d'armement appartenant à la Confédération Ruag a versé une rançon à des hackers à la suite une cyberattaque.
+- La bande criminelle Akira avait menacé de publier des données volées après avoir attaqué la filiale américaine Ruag LLC.
+- «Nous avons payé un petit montant et nous avons heureusement récupéré toutes les données», a déclaré samedi le président du conseil d'administration de Ruag, Jürg Rötheli, sur les ondes de la radio alémanique de service public, la SRF.
+- Il n'a pas com... «Nous avons payé un petit montant et nous avons heureusement récupéré toutes les données», a déclaré samedi le président du conseil d'administration de Ruag, Jürg Rötheli, sur les ondes de la radio alémanique de service public, la SRF.
 
-## [SMART TRENDS - <b>Cybersécurité</b> et innovation en interdépendance - Vidéo Dailymotion](https://www.dailymotion.com/video/xadg5wi)  
-*Source : dailymotion.com | Publication : 2026-06-05*
+## [Diaspo #444 : Asmae Mhassni navigue entre supercalculateurs et <b>cybersécurité</b>](https://www.yabiladi.com/articles/details/196122/diaspo-asmae-mhassni-navigue-entre.html)  
+*Source : yabiladi.com | Publication : 2026-06-06*
 
-- Skip to player Skip to main content Watch fullscreen.
-- SMART TRENDS - Cybersécurité et innovation en interdépendance.
+- Dans son parcours atypique, Asmae Mhassni a navigué entre dispositifs médicaux, supercalculateurs et cybersécurité , jusqu'à devenir ingénieure.
 
-## [Vie privée et <b>cybersécurité</b> réunies : Surfshark couvre tous les besoins - Les Numériques](https://www.lesnumeriques.com/vpn/vie-privee-et-cybersecurite-reunies-surfshark-couvre-tous-les-besoins-n257033.html)  
-*Source : lesnumeriques.com | Publication : 2026-06-05*
+## [Formation professionnelle : l'illusion du digital](https://www.journaldunet.com/management/formation/1550973-formation-professionnelle-l-illusion-du-digital/)  
+*Source : journaldunet.com | Publication : 2026-06-06*
 
-- Vie privée et cybersécurité réunies : Surfshark couvre tous les besoins Surfshark ne se contente plus de proposer un VPN rapide pour masquer une adresse IP ou sécuriser une connexion Wi-Fi.
-- L’offre prend désormais des airs de boîte à outils complète, avec antivirus, blocage des publicités, surveillance des fuites de données et protection de l’identité.
-- Le tout démarre à 1,99 € par mois avec trois mois offerts, dans le cadre d’un abonnement longue durée.
-- Pour un foyer équipé de plusieurs appareils, l’argument est simple : un seul compte suffit, sans limite de connexions.
+- Formation professionnelle : l'illusion du digital La formation digitale échoue souvent, faute d'attention, pas de technologie.
+- L'IA ne changera rien sans nouveaux formats.
+- Place au microlearning : court, mobile, utile et réellement engageant.
+- Formation professionnelle : l'illusion du digital Ou l'art de confondre contenu et apprentissage Par Samantha Larsen Mellor Spécialiste en transfert de connaissances et brand storytelling Le LMS, ce cimetière numérique que personne n'ouvre !.
 
-## [Loir-et-Cher Tech monte en puissance - Mag'CentreMagcentre](https://www.magcentre.fr/370857-loir-et-cher-tech-monte-en-puissance/)  
-*Source : magcentre.fr | Publication : 2026-06-05*
+## [Quand Steve Jobs a révélé l'iPhone, la plupart de l'industrie a haussé les épaules. Le PDG ...](https://fr.benzinga.com/latest-news/quand-steve-jobs-a-revele-liphone-la-plupart-de-lindustrie-a-hausse-les-epaules-le-pdg-de-crowdstrike-declare-que-lia-pourrait-etre-un-autre-de-ces-moments-pour-la-cybersecurite/)  
+*Source : fr.benzinga.com | Publication : 2026-06-06*
 
-- Loir-et-Cher Tech monte en puissance vendredi, 5 juin 2026 L’association fondée en 2016, qui promeut la culture et l’inclusion numérique, monte en puissance.
-- Son assemblée générale, organisée le 3 juin dernier à la Cité départementale du Numérique à Blois, en présence de ses nombreux partenaires, a confirmé l’impact grandissant de ses actions.
-- Pas moins de 1 442 personnes ont ainsi bénéficié de divers évènements (Startup teens, coding goûter, Cafés IA…), formations (Seconde numérique, escape game immersif Les Gardiens du numérique…) ou actions d’inclusion numérique (féminisation des métiers, handi Num…).
-- Le reconditionnement d’ordinateurs (750 ces cinq dernières années), l’accompagnement des projets participatifs de la ville de Blois ou la participation à des manifestations locales (Nuit de l’Orientation, Rendez-vous de l’Histoire) figurent également parmi les activités d’une association « fer de lance du numérique pour tous dans la région ».
+- En janvier 2007, Steve Jobs a brandit un rectangle de verre et la majeure partie de l’industrie technologique haussa les épaules.
+- Dix-huit mois plus tard, tous les fabricants de téléphones sur terre étaient en train de se démener pour rattraper leur retard.
+- Les premiers à agir ont gagné.
+- Ceux qui ont attendu ont passé des années à essayer de rattraper leur retard.
 
-## [Piratage de flux IPTV Noos+ : démantèlement d'une structure criminelle par l'UNCyber](https://www.gendarmerie.interieur.gouv.fr/unpj/nos-publications2/sur-le-terrain/piratage-de-flux-iptv-noos-demantelement-d-une-structure-criminelle-par-l-uncyber)  
-*Source : gendarmerie.interieur.gouv.fr | Publication : 2026-06-05*
+## [L'armée française est désormais capable d'abattre les drones Shahed iraniens avec ses hélicoptères](https://www.clubic.com/actualite-615700-l-armee-francaise-est-desormais-capable-d-abattre-les-drones-shahed-iraniens-avec-ses-helicopteres.html)  
+*Source : clubic.com | Publication : 2026-06-06*
 
-- L'Unité nationale cyber a mené une opération judiciaire d'une ampleur inédite visant une organisation criminelle spécialisée dans l'IPTV illégale,.
+- Pour la première fois, les hélicoptères Caracal et Fennec de l'armée de l'Air et de l'Espace ont effectué cette semaine des tirs expérimentaux contre des drones Shahed, ces aéronefs fabriqués par l'Iran.
+- Les équipages de l'armée de l'Air et de l'Espace ont montré qu'ils sont de mieux à mieux armés face à une menace devenue omniprésente, le drone.
+- Au large de Biscarrosse, depuis la base aérienne 120 de Cazaux, les hélicoptères Caracal et Fennec ont ouvert le feu sur des drones-cibles de type Shahed, fabriqués par l'Iran et beaucoup utilisés par la Russie.
+- Le Caracal en a abattu deux avec ses propres armes embarquées.
 
-## [Berenberg rétrograde CrowdStrike à « conserver » malgré de bonnes perspectives](https://fr.finance.yahoo.com/actualites/berenberg-rétrograde-crowdstrike-à-conserver-140223372.html)  
-*Source : fr.finance.yahoo.com | Publication : 2026-06-05*
+## [Pour devenir souveraine, l'Europe doit apprendre l'anglais : les leçons de Dave Keating](https://www.lexpress.fr/monde/europe/pour-devenir-souveraine-leurope-doit-apprendre-langlais-les-lecons-de-dave-keating-UUFD2BDW7NCLBKHGIJTATYC76I/)  
+*Source : lexpress.fr | Publication : 2026-06-06*
 
-- Investing.com - La banque d’investissement Berenberg a abaissé sa recommandation sur le leader de la cybersécurité CrowdStrike Holdings, Inc, de « Acheter » à « Conserver », estimant que le cours de l’action reflète déjà une grande partie de son potentiel de croissance futur, malgré des fondamentaux solides.
-- Cette révision à la baisse intervient après que CrowdStrike a publié un début d’exercice 2027 encourageant, avec des résultats dépassant les attentes déjà élevées des investisseurs.
-- Berenberg a mis en avant la position de force de la société dans le secteur de la cybersécurité, notamment dans un contexte où l’adoption croissante de l’intelligence artificielle devrait stimuler les dépenses en solutions de sécurité.
-- Cependant, les analystes ont averti que la valorisation du titre est devenue de plus en plus difficile à justifier.
+- Pourquoi les dirigeants européens sont-ils soumis aux Etats-Unis ?.
+- Pourquoi acceptent-ils avec le sourire des diktats commerciaux léonins ?.
+- Pourquoi se prosternent-ils devant un président Donald Trump méprisant et prédateur ?.
+- Et surtout, comment les citoyens ordinaires tolèrent-ils une telle servitude ?.
 
-## [Faire plus avec moins : l'IA, nouveau levier des budgets cyber](https://www.journaldunet.com/cybersecurite/1550771-faire-plus-avec-moins-l-ia-nouveau-levier-des-budgets-cyber/)  
-*Source : journaldunet.com | Publication : 2026-06-05*
+## [Ruag a payé une rançon à des hackers - Watson](https://www.watson.ch/fr/international/etats-unis/832803794-ruag-a-paye-une-rancon-a-des-hackers)  
+*Source : watson.ch | Publication : 2026-06-06*
 
-- Faire plus avec moins : l'IA, nouveau levier des budgets cyber Sous pression budgétaire, les équipes cyber doivent faire plus avec moins.
-- L'IA et la consolidation des outils permettent d'automatiser les tâches répétitives et de rationaliser les coûts.
-- Pendant des années, la cybersécurité a bénéficié d'un statut à part dans les arbitrages budgétaires des entreprises.
-- Face à la montée des menaces — ransomwares, attaques sur les chaînes d'approvisionnement, violations de données massives — les DSI et RSSI obtenaient facilement des budgets plus conséquents, justifiés par l'urgence et la pression réglementaire croissante.
+- Ruag a payé une rançon à des hackers Le groupe d'armement Ruag a versé une rançon à des pirates informatiques à la suite d'une cyberattaque contre l'une de ses filiales.
+- Jürg Rötheli, président du conseil d'administration de Ruag, ne souhaite pas dévoiler le montant déboursé.
+- Des études et des analyses sectorielles montrent toutefois que de telles demandes s'élèvent souvent à plusieurs millions.
+- La société britannique de cybersécurité Sophos a estimé à environ 1,2 million de dollars le montant moyen des rançons exigées des entreprises à l'échelle mondiale en 2025.
 
-## [Une vague de cyberattaques déferle sur les réservoirs de carburant - 01net.com](https://www.01net.com/actualites/reservoirs-carburant-cibles-cyberattaques.html)  
-*Source : 01net.com | Publication : 2026-06-05*
+## [IPTV illégale : un réseau démantelé, que risquez-vous si vous achetez une solution pirate ...](https://www.capital.fr/votre-argent/iptv-illegale-un-reseau-demantele-que-risquez-vous-si-vous-achetez-une-solution-pirate-pour-la-coupe-du-monde-de-football-1527348)  
+*Source : capital.fr | Publication : 2026-06-06*
 
-- La CISA, le FBI, la NSA, le Département de l’Énergie ainsi que quatre autres agences gouvernementales lancent l’alerte : les cyberattaques ciblant les systèmes de jaugeage automatique des réservoirs (ATG) exposés sur Internet se multiplient aux États-Unis.
-- Dans un communiqué, le collectif d’agences fédérales explique ne pas avoir identifié les auteurs de ces cyberattaques, tout en mettant en garde contre leurs conséquences potentiellement importantes.
-- Alerte aux États-Unis : les cyberattaques ciblant des réservoirs de carburant se multiplient La CISA (Cybersecurity and Infrastructure Security Agency), ainsi que le FBI, la NSA et cinq autres agences fédérales américaines lancent une alerte : les cyberattaques ciblant les systèmes de jaugeage automatique des réservoirs (ATG) exposés sur Internet se multiplient aux États-Unis.
-- Dans un communiqué partagé en ligne, le collectif d’agences fédérales explique : « L’activité cybernétique malveillante récente observée par les organisations autrices, que le gouvernement américain n’a pas encore attribuée à un État-nation ou à un groupe d’acteurs de menace, implique des cyberattaquants qui compromettent des systèmes ATG exposés sur Internet, puis les modifient par exécution de commandes ».
+- À l’approche du début de la Coupe du monde 2026, c’est un coup de filet dont les gendarmes du centre de lutte contre les criminalités numériques vont pouvoir s’enorgueillir.
+- Comme le rapporte 20 Minutes, les gendarmes spécialisés dans la cybercriminalité ont démantelé, mardi 2 juin, un important réseau de piratage des flux de télévisions payantes.
+- Onze individus ont ainsi été arrêtés par les forces de l’ordre, trois en Belgique et huit autres en France.
+- Les malfaiteurs arrêtés proposaient à des milliers d’utilisateurs - 250 000 selon les derniers chiffres - une solution illégale nommée «Noos+» qui permettait de pouvoir avoir accès à du contenu VOD et des chaînes payantes à l’instar de Ligue 1+ ou encore BeIN Sports contre un abonnement annuel compris entre 50 et 100 euros.
 
-## [L'IA agentique dans le secteur de la santé est une proposition risquée - Health-ISAC](https://health-isac.org/fr/L'IA-agentique-dans-le-domaine-de-la-santé-est-une-proposition-risquée/)  
-*Source : health-isac.org | Publication : 2026-06-05*
+## [du VPN à la super-app de <b>cybersécurité</b> : ce que change la fonctionnalité antivirus nouvelle ...](https://www.lebigdata.fr/fonctionnalite-antivirus-nordvpn)  
+*Source : lebigdata.fr | Publication : 2026-06-06*
 
-- L'IA agentique dans le secteur de la santé est une proposition risquée Health-ISAC met en garde contre une gouvernance défaillante et l'utilisation abusive des identifiants Les humains font des erreurs.
-- Ils tombent dans le piège des arnaques par hameçonnage et cliquent sur des liens malveillants.
-- Les machines ne sont pas forcément meilleures : déléguer des décisions à des outils d’intelligence artificielle autonomes peut considérablement aggraver les risques de cybersécurité, prévient une association du secteur de la santé.
-- Les comptes aux autorisations excessives, la faible gouvernance et l'utilisation abusive des identifiants sont tous amplifiés par les flux de travail basés sur l'IA, a déclaré Errol Weiss, responsable de la sécurité du Centre d'analyse et de partage des informations sur la santé (Santé-ISAC).
+- NordSecurity se place depuis longtemps comme une référence dans le monde la cybersécurité.
+- Avec sa fonctionnalité antivirus NordVPN de nouvelle génération, le service franchit une étape supplémentaire : celle d’une solution complète capable de couvrir la quasi-totalité des risques numériques du quotidien.
+- Le tout sans multiplier les applications, sans compliquer les réglages et sans alourdir l’expérience utilisateur.
+- Pendant des années, une bonne hygiène numérique impliquait de jongler entre plusieurs outils.
 
-## [Faille Google Gemini : comment une simple notification a pu pièger l'assistant - Numerama](https://www.numerama.com/cyberguerre/2267683-gemini-piege-par-de-simples-notifications-une-attaque-par-injection-de-prompt-a-detourne-lassistant-de-google.html)  
-*Source : numerama.com | Publication : 2026-06-05*
+## [<b>Cybercriminalité</b>: Comment se protéger des fraudes par réservations d'hôtels - Bluewin](https://www.bluewin.ch/fr/infos/suisse/comment-se-prot-ger-des-fraudes-par-r-servations-d-h-tels-3266564.html)  
+*Source : bluewin.ch | Publication : 2026-06-06*
 
-- C’est une nouvelle variante d’un problème déjà connu.
-- Celle d’une démonstration marquante présentée à Black Hat 2025, où une simple invitation Google Calendar piégée pouvait pousser Gemini à exécuter des actions malveillantes, jusqu’au contrôle d’objets connectés.
-- Cette fois, les chercheurs de SafeBreach ont exploré un autre point d’entrée : les notifications de messagerie.
-- Dans une étude publiée le 3 juin 2026, les équipes de la société de cybersécurité ont montré comment l’assistant vocal de Gemini peut être manipulé lorsqu’il lit ou résume des messages reçus via des applications comme WhatsApp.
+- Aperçu Football en direct Ligues Super League Aperçu Sports d'hiver en direct Résultats et classements FIS Résultats et classements IBU Aperçu Hockey sur glace en direct Résultats et tableau Aperçu Live-Tennis Tournois Résultats Aperçu Live Motorsport Courses et classements Aperçu Sport en direct Live-Streams & Highlights Foot - Mondial 2026 - Super League - Challenge League - Champions League - Bundesliga - Premier League - Serie A - LaLiga - Ligue 1 - Europa League - Conference League - Services Swisscom Swisscom Apps Langue.
 
-## [Cette nouvelle arnaque Wero fait des ravages sur les ventes entre particuliers](https://siecledigital.fr/2026/06/04/cette-nouvelle-arnaque-wero-fait-des-ravages-sur-les-ventes-entre-particuliers/)  
-*Source : siecledigital.fr | Publication : 2026-06-05*
+## [Les États-Unis et les Philippines renforcent leur coopération en matière de réponse aux ...](https://fr.vietnamplus.vn/les-etats-unis-et-les-philippines-renforcent-leur-cooperation-en-matiere-de-reponse-aux-catastrophes-et-de-cybersecurite-post263444.vnp)  
+*Source : fr.vietnamplus.vn | Publication : 2026-06-06*
 
-- Le scénario est rodé comme toujours.
-- Vous mettez un objet en vente sur Marketplace.
-- Un acheteur vous contacte, aimable, pressé, prêt à payer tout de suite via Wero.
-- Il vous demande juste votre prénom et votre numéro de téléphone.
+- Manille (VNA) - Les Forces armées philippines (AFP) et le Commandement indo-pacifique des États-Unis (USINDOPACOM) renforcent leur coopération en matière de réponse aux catastrophes et de cybersécurité par le biais d'une série d'exercices conjoints, alors que la région continue d'être confrontée à des catastrophes naturelles fréquentes et à des défis sécuritaires non traditionnels de plus en plus complexes.
+- L'exercice "Tempest 41-2026" a officiellement débuté le 5 juin dans le cadre du Programme d'équipe multinationale de renforcement de la planification (MPAT).
+- Cet exercice vise à améliorer les capacités de coordination des opérations d'aide humanitaire et de secours en cas de catastrophe.
+- Le colonel Xerxes Trinidad, chef du Bureau des affaires publiques des AFP, a déclaré que l'exercice rassemble des représentants de 17 pays membres du MPAT, ainsi que des organisations humanitaires et des agences civiles.
