@@ -1,147 +1,145 @@
-# Résumés – 2026-06-07
+# Résumés – 2026-06-08
 
 
-## [Le Procureur du pôle national de lutte contre la <b>cybercriminalité</b>, Dr. Adama Coulibaly, signe ...](https://www.maliweb.net/societe/justice/le-procureur-du-pole-national-de-lutte-contre-la-cybercriminalite-dr-adama-coulibaly-signe-et-persiste-le-pole-fait-partie-des-juridictions-qui-decernent-le-moins-de-mandats-3117280.html)  
-*Source : maliweb.net | Publication : 2026-06-06*
+## [MokN lève 15 M$ en série A pour son service de <b>cybersécurité</b> - J'aime les startups](https://www.jaimelesstartups.fr/news/mokn-levee-de-fonds-15-millions-en-serie-a/)  
+*Source : jaimelesstartups.fr | Publication : 2026-06-07*
 
-- Le Procureur du pôle national de lutte contre la cybercriminalité, Dr.
-- Adama Coulibaly, signe et persiste : "Le Pôle fait partie des juridictions qui décernent le moins de mandats" "De janvier à ce jour, 17 mandats ont été décernés ; 94 dossiers classés sans suite, pour 48 dossiers orientés en instruction.".
-- "Et sur les 81 dossiers en instance de jugement, 8 personnes ont été placées sous mandat de dépôt" A l'occasion de la tenue de sa première audience de la chambre criminelle, le 20 mai courant, le procureur du Pôle national de lutte contre la cybercriminalité, Dr.
-- Adama Coulibaly, a dressé un large panorama des enjeux liés à la criminalité numérique au Mali.
+- Avec cette innovation, MokN comble un vide crucial dans la cybersécurité : la détection et la récupération des identifiants compromis avant qu'ils ne.
 
-## [Pretalx : La faille idéale pour s'imposer comme conférencier - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/06/06/pretalx-faille-conferencier/)  
-*Source : dcod.ch | Publication : 2026-06-06*
+## [Taille du marché de la résilience des données, part | Prévisions de croissance [2034]](https://www.fortunebusinessinsights.com/fr/data-resiliency-market-116982)  
+*Source : fortunebusinessinsights.com | Publication : 2026-06-07*
 
-- TL;DR : L’essentiel Le logiciel libre pretalx, utilisé pour gérer les propositions de présentations de nombreuses conférences technologiques et académiques, souffre d’une faille de sécurité majeure de sévérité élevée.
-- - Cette vulnérabilité de type injection de code indirecte permet à un utilisateur malveillant de prendre le contrôle total du compte d’un organisateur sans aucune interaction de sa part.
-- - En exploitant cette faille, un chercheur a réussi à faire accepter de manière automatisée sa propre présentation au sein de 40 conférences différentes à travers le monde.
-- - Les équipes de développement ont rapidement corrigé cette faille de sécurité avec la publication d’une mise à jour corrective à la fin du mois de mai de l’année en cours.
+- "Stratégies intelligentes, donnant une vitesse à votre trajectoire de croissance" La taille du marché mondial de la résilience des données était évaluée à 37,93 milliards USD en 2025.
+- Le marché devrait passer de 44,72 milliards USD en 2026 à 166,76 milliards USD d’ici 2034, avec un TCAC de 17,88 % au cours de la période de prévision.
+- Le marché de la résilience des données se développe rapidement à mesure que les organisations donnent la priorité aux opérations commerciales ininterrompues, à la préparation à la cybersécurité, à la planification de reprise après sinistre et aux stratégies avancées de protection des données.
+- Les entreprises de tous secteurs investissent dans une infrastructure numérique résiliente pour protéger les informations critiques contre les attaques de ransomwares, les pannes matérielles, les suppressions accidentelles et les perturbations opérationnelles.
 
-## [Tes données valent de l'or sur le marché noir - YouTube](https://www.youtube.com/watch?v=wbPL5_KaBLI)  
-*Source : youtube.com | Publication : 2026-06-06*
+## [Récap du 06/06/2026 : sécurité, deuil national et météo agitée - INFO.FR](https://info.fr/recap/2026-06-07/)  
+*Source : info.fr | Publication : 2026-06-07*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Bernadette Chirac s'éteint à 93 ans Bernadette Chirac est décédée le vendredi 5 juin au soir à l'âge de 93 ans, entourée de sa famille.
+- C'est sa fille Claude qui a annoncé la nouvelle à l'AFP le samedi matin.
+- Figure incontournable de la Ve République aux côtés de Jacques Chirac, elle laisse une empreinte durable dans la vie politique et associative française, notamment à travers son engagement pour les enfants malades.
+- À surveiller : Pourquoi c'est important : la disparition d'une figure centrale de la politique française pendant des décennies.
 
-## [États‑Unis et Philippines renforcent leur coopération en catastrophes et <b>cybersécurité</b>](https://lecourrier.vn/etats‑unis-et-philippines-renforcent-leur-cooperation-en-catastrophes-et-cybersecurite/1348934.html)  
-*Source : lecourrier.vn | Publication : 2026-06-06*
-
-- >> Cybersécurité : la Malaisie et l'Indonésie conviennent de renforcer leurs relations >> Indonésie - Australie : coopérer pour lutter contre les fausses nouvelles >> Forum InCyber : une nouvelle édition à la "dimension internationale" L'exercice "Tempest 41-2026" a officiellement débuté le 5 juin dans le cadre du Programme d'équipe multinationale de renforcement de la planification (MPAT).
-- Cet exercice vise à améliorer les capacités de coordination des opérations d'aide humanitaire et de secours en cas de catastrophe.
-- Le colonel Xerxes Trinidad, chef du Bureau des affaires publiques des AFP, a déclaré que l'exercice rassemble des représentants de 17 pays membres du MPAT, ainsi que des organisations humanitaires et des agences civiles.
-- Les activités sont axées sur la planification de la réponse aux crises, l'amélioration de l'interopérabilité entre les forces participantes et le renforcement des mécanismes de coordination pour les catastrophes naturelles de grande ampleur et les situations d'urgence.
-
-## [[Short] <b>Cybersécurité</b> hôpitaux : alerte Cour des comptes - YouTube](https://www.youtube.com/watch?v=BJTGGUNO6V0)  
-*Source : youtube.com | Publication : 2026-06-06*
+## [Le Dico de la Cyber : C'est quoi un Honeypot ? - YouTube](https://www.youtube.com/watch?v=5-OdbVdHDmQ)  
+*Source : youtube.com | Publication : 2026-06-07*
 
 - About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [WASHINGTON : <b>Cybersécurité</b> - HALO Trust sécurise ses opérations de déminage dans 36 pays](https://presseagence.fr/washington-cybersecurite-halo-trust-securise-ses-operations-de-deminage-dans-36-pays/)  
-*Source : presseagence.fr | Publication : 2026-06-06*
+## [Tests ADN récréatifs et enquêtes criminelles, la dérive que la France s'apprête à légaliser](https://www.clubic.com/dossier-615463-tests-adn-recreatifs-et-enquetes-criminelles-la-derive-que-la-france-s-apprete-a-legaliser.html)  
+*Source : clubic.com | Publication : 2026-06-07*
 
-- WASHINGTON : Cybersécurité – HALO Trust sécurise ses… Partager : WASHINGTON : Cybersécurité – HALO Trust sécurise ses opérations de déminage dans 36 pays L’ONG de déminage HALO Trust adopte la solution CoreView pour centraliser la sécurité de son environnement Microsoft 365 à travers le monde.
-- The HALO Trust, la plus grande organisation humanitaire mondiale de déminage, a renforcé la sécurité et la gouvernance de son environnement Microsoft 365 grâce à un partenariat stratégique avec CoreView, leader des plateformes de gestion pour M365, et Cyber Vigilance, partenaire de Microsoft.
-- Annoncé le 28 mai 2026, ce déploiement couvre les opérations de l’ONG dans 36 pays et territoires, y compris dans des zones de conflit actif comme l’Ukraine.
-- Face à la complexité de gérer plus de 8 000 collaborateurs, dont de nombreux personnels temporaires et locaux, HALO Trust cherchait une solution pour centraliser le contrôle de son infrastructure informatique tout en accordant l’autonomie nécessaire à ses équipes sur le terrain.
+- Sous couvert de résoudre des affaires graves, le projet de loi sur la justice criminelle ouvre la voie à l’exploitation policière de bases ADN privées étrangères.
+- Une évolution lourde de conséquences pour le consentement et la vie privée, qui ne concerne pas seulement les personnes testées, mais aussi leur parentèle.
+- La fenêtre de tir est courte, et le texte n’a pas suscité de débat public à la hauteur de l’enjeu.
+- Adopté par le Sénat le 14 avril dernier, le projet de loi sur la justice criminelle et le respect des victimes doit être examiné par la commission des lois de l’Assemblée nationale à partir du 8 juin, après engagement de la procédure accélérée par le gouvernement.
 
-## [Anthropic Project Glasswing : l'IA qui nous protège - BlogNT](https://www.blog-nouvelles-technologies.fr/371167/anthropic-project-glasswing-ia-securite/)  
-*Source : blog-nouvelles-technologies.fr | Publication : 2026-06-06*
+## [Principales cyberattaques de 2026 : vol de données et risques - Zamin.uz](https://zamin.uz/fr/technologie/205820-principales-cyberattaques-de-2026-vol-de-donnees-et-risques.html)  
+*Source : zamin.uz | Publication : 2026-06-07*
 
-- Alors que la course à l’intelligence artificielle se concentre souvent sur les assistants conversationnels et la productivité, Anthropic poursuit une stratégie différente : utiliser l’IA pour protéger les infrastructures les plus sensibles au monde.
-- L’entreprise américaine vient d’annoncer l’extension de Project Glasswing, son programme dédié à la détection proactive des vulnérabilités logicielles.
-- Après une phase pilote lancée en avril, l’initiative s’ouvre désormais à près de 150 organisations réparties dans plus de 15 pays.
-- Claude Mythos au cœur du dispositif Au centre de Project Glasswing se trouve Claude Mythos, le modèle de cybersécurité le plus avancé développé par Anthropic à ce jour.
+- Principales cyberattaques de 2026 : vol de données et risques 2026 a montré que la cybersécurité n'est plus seulement une question technique, mais est devenue centrale dans la politique mondiale.
+- Les guerres sur les fronts numériques, les gouvernements utilisant les données des citoyens comme arme et les botnets frappant les institutions démocratiques sont devenus monnaie courante.
+- Les hackers d'État ciblent les infrastructures civiles, des réseaux électriques aux systèmes d'eau, tandis que les ransomwares prennent de grandes entreprises en otage.
+- Selon Techcrunch.com rapporte.
 
-## [L'un des plus grands dangers de l'IA est passé sous silence, cette jeune pousse française le combat](https://www.presse-citron.net/lun-des-plus-grands-dangers-de-lia-est-passe-sous-silence-cette-jeune-pousse-francaise-le-combat/)  
-*Source : presse-citron.net | Publication : 2026-06-06*
+## [<b>Cybersécurité</b> : les 13 actualités majeures du 7 juin 2026](https://dcod.ch/2026/06/07/cybersecurite-les-13-actualites-majeures-du-7-juin-2026/)  
+*Source : dcod.ch | Publication : 2026-06-07*
 
-- « C’est un projet sur lequel je travaille depuis peut-être quatre ans et demi maintenant », se souvient Marie Paindavoine, docteure en cryptographie, dans un entretien accordé à Presse-citron.
-- Elle s’est notamment forgée dans le monde du téléphone portable à travers une thèse chez Orange.
-- « J’ai travaillé dans une entreprise qui faisait des téléphones portables sécurisés », confie-t-il.
-- C’est lors d’une veille technique en 2021 qu’elle découvre qu’extraire les modèles d’IA embarqués sur smartphone est un jeu d’enfant.
+- Faits marquants de la semaine L’Union européenne dévoile un vaste paquet pour réduire sa dépendance aux fournisseurs technologiques américains, avec un Cloud and AI Development Act orientant l’argent public vers des solutions européennes, un forum « Eurocloud » et une révision de la loi sur les puces.
+- - Une réforme européenne prévoit d’interdire l’usage de l’intelligence artificielle pour produire des deepfakes à caractère sexuel, avec un renforcement du droit pénal et une mise en œuvre annoncée pour décembre 2026 par le futur office de l’IA de l’UE.
+- - Pour la première fois, une agence européenne de cybersécurité obtient un accès direct à Claude Mythos, un modèle d’intelligence artificielle d’Anthropic, quelques mois avant que la Commission européenne ne dispose d’un cadre juridique lui permettant d’imposer ce type d’accès.
+- - L’État de New York se dirige vers un moratoire d’un an sur les grands centres de données de plus de 20 mégawatts, ciblant particulièrement les infrastructures géantes qui alimentent la croissance actuelle de l’intelligence artificielle.
 
-## [Beauvais. À 27 ans, Bastien Languedoc souhaite construire l'alternative française à Google](https://www.oisehebdo.fr/2026/06/06/beauvais-bastien-languedoc-alternative-francaise-google/)  
-*Source : oisehebdo.fr | Publication : 2026-06-06*
+## [Vos réservations d'hôtel sont menacées cet été avec l'IA des cybercriminels qui peuvent ...](https://www.be.com/culture/societe/cybercriminel-reservations-hotel-248786.html)  
+*Source : be.com | Publication : 2026-06-07*
 
-- Une société qui propose de l'hébergement web, du support informatique, de l'hébergement de serveur physique, du télécom, de la cybersécurité , un.
+- À l’approche de la saison touristique, le nombre de réservations en ligne augmente, entraînant la circulation de nombreuses données personnelles.
+- Des cybercriminels ont développé une méthode d’escroquerie identifiée par l’Agence de cybersécurité andorrane ANC-AD sous le nom de « Reservation Hijack Scam ».
+- Cette technique consiste à envoyer de faux emails aux clients ayant déjà confirmé une réservation, en usurpant l’identité de l’hôtel.
+- Les messages prétendent qu’un problème est survenu avec la réservation et sollicitent le renvoi des informations de carte bancaire ou le paiement d’un supplément pour conserver le séjour.
 
-## [Cyberattaque: Ruag a payé une rançon à des pirates informatiques - Agefi.com](https://agefi.com/actualites/entreprises/cyberattaque-ruag-a-paye-une-rancon-a-des-pirates-informatiques)  
-*Source : agefi.com | Publication : 2026-06-06*
+## [Sécurisez vos clés privées : la méthode infaillible. - YouTube](https://www.youtube.com/watch?v=NA3gAiKQFHk)  
+*Source : youtube.com | Publication : 2026-06-07*
 
-- 06 juin 2026, 9h21 Partager L'entreprise d'armement appartenant à la Confédération Ruag a versé une rançon à des hackers à la suite une cyberattaque.
-- La bande criminelle Akira avait menacé de publier des données volées après avoir attaqué la filiale américaine Ruag LLC.
-- «Nous avons payé un petit montant et nous avons heureusement récupéré toutes les données», a déclaré samedi le président du conseil d'administration de Ruag, Jürg Rötheli, sur les ondes de la radio alémanique de service public, la SRF.
-- Il n'a pas com... «Nous avons payé un petit montant et nous avons heureusement récupéré toutes les données», a déclaré samedi le président du conseil d'administration de Ruag, Jürg Rötheli, sur les ondes de la radio alémanique de service public, la SRF.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Diaspo #444 : Asmae Mhassni navigue entre supercalculateurs et <b>cybersécurité</b>](https://www.yabiladi.com/articles/details/196122/diaspo-asmae-mhassni-navigue-entre.html)  
-*Source : yabiladi.com | Publication : 2026-06-06*
+## [Poulpiquet Immobilier alerte ses clients après une fuite de données chez un prestataire](https://www.cyberattaque.org/poulpiquet-immobilier-alerte-ses-clients-apres-une-fuite-de-donnees-chez-un-prestataire/)  
+*Source : cyberattaque.org | Publication : 2026-06-07*
 
-- Dans son parcours atypique, Asmae Mhassni a navigué entre dispositifs médicaux, supercalculateurs et cybersécurité , jusqu'à devenir ingénieure.
+- L’agence Poulpiquet Immobilier a récemment informé certains de ses clients qu’un incident de cybersécurité avait affecté un logiciel utilisé dans le cadre de son activité immobilière.
+- Selon le courrier adressé aux personnes concernées, l’incident ne touche pas directement les systèmes de l’agence mais une fonctionnalité d’un logiciel fourni par un partenaire technique utilisé pour le suivi des projets immobiliers.
+- L’événement aurait été détecté puis rapidement contenu par l’éditeur de la solution, qui a mis en œuvre des mesures de blocage afin de limiter l’accès aux données concernées.
+- Des données clients potentiellement consultées D’après les informations communiquées par Poulpiquet Immobilier, certaines données de contact auraient pu être consultées lors de cet incident.
 
-## [Formation professionnelle : l'illusion du digital](https://www.journaldunet.com/management/formation/1550973-formation-professionnelle-l-illusion-du-digital/)  
-*Source : journaldunet.com | Publication : 2026-06-06*
+## [Le groupe suisse d'armement Ruag a payé une rançon après une cyberattaque](https://frenchbreaches.com/blog/le-groupe-suisse-darmement-ruag-a-paye-une-rancon-apres-une-cyberattaque)  
+*Source : frenchbreaches.com | Publication : 2026-06-07*
 
-- Formation professionnelle : l'illusion du digital La formation digitale échoue souvent, faute d'attention, pas de technologie.
-- L'IA ne changera rien sans nouveaux formats.
-- Place au microlearning : court, mobile, utile et réellement engageant.
-- Formation professionnelle : l'illusion du digital Ou l'art de confondre contenu et apprentissage Par Samantha Larsen Mellor Spécialiste en transfert de connaissances et brand storytelling Le LMS, ce cimetière numérique que personne n'ouvre !.
+- Ruag a payé une rançon au groupe Akira après le piratage de sa filiale américaine L'entreprise d'armement suisse Ruag a confirmé avoir versé une rançon au groupe cybercriminel Akira à la suite d'une cyberattaque ayant visé sa filiale américaine Ruag LLC.
+- Cette décision intervient alors que les autorités fédérales suisses déconseillent formellement le paiement des rançons réclamées par les groupes spécialisés dans les rançongiciels.
+- Selon les informations communiquées par l'entreprise, le paiement aurait permis de récupérer l'ensemble des données concernées par l'incident.
+- Une cyberattaque contre la filiale américaine de Ruag L'attaque remonte à l'automne 2025 et a visé Ruag LLC, une filiale basée en Virginie aux États-Unis.
 
-## [Quand Steve Jobs a révélé l'iPhone, la plupart de l'industrie a haussé les épaules. Le PDG ...](https://fr.benzinga.com/latest-news/quand-steve-jobs-a-revele-liphone-la-plupart-de-lindustrie-a-hausse-les-epaules-le-pdg-de-crowdstrike-declare-que-lia-pourrait-etre-un-autre-de-ces-moments-pour-la-cybersecurite/)  
-*Source : fr.benzinga.com | Publication : 2026-06-06*
+## [Les cyberattaques explosent : IDELUX ouvre son centre de <b>cybersécurité</b> aux entreprises à Libin](https://www.sudinfo.be/id1158723/article/2026-06-07/les-cyberattaques-explosent-idelux-ouvre-son-centre-de-cybersecurite-aux)  
+*Source : sudinfo.be | Publication : 2026-06-07*
 
-- En janvier 2007, Steve Jobs a brandit un rectangle de verre et la majeure partie de l’industrie technologique haussa les épaules.
-- Dix-huit mois plus tard, tous les fabricants de téléphones sur terre étaient en train de se démener pour rattraper leur retard.
-- Les premiers à agir ont gagné.
-- Ceux qui ont attendu ont passé des années à essayer de rattraper leur retard.
+- centre de cybersécurité.
+- L'objectif : aider les entrepreneurs à mieux comprendre les menaces numériques et à s'en protéger.
 
-## [L'armée française est désormais capable d'abattre les drones Shahed iraniens avec ses hélicoptères](https://www.clubic.com/actualite-615700-l-armee-francaise-est-desormais-capable-d-abattre-les-drones-shahed-iraniens-avec-ses-helicopteres.html)  
-*Source : clubic.com | Publication : 2026-06-06*
+## [IA et <b>Cybercriminalité</b>: L'Industrie des Attaques Explose! #shorts - YouTube](https://www.youtube.com/watch?v=wdcwEN6YJ34)  
+*Source : youtube.com | Publication : 2026-06-07*
 
-- Pour la première fois, les hélicoptères Caracal et Fennec de l'armée de l'Air et de l'Espace ont effectué cette semaine des tirs expérimentaux contre des drones Shahed, ces aéronefs fabriqués par l'Iran.
-- Les équipages de l'armée de l'Air et de l'Espace ont montré qu'ils sont de mieux à mieux armés face à une menace devenue omniprésente, le drone.
-- Au large de Biscarrosse, depuis la base aérienne 120 de Cazaux, les hélicoptères Caracal et Fennec ont ouvert le feu sur des drones-cibles de type Shahed, fabriqués par l'Iran et beaucoup utilisés par la Russie.
-- Le Caracal en a abattu deux avec ses propres armes embarquées.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Pour devenir souveraine, l'Europe doit apprendre l'anglais : les leçons de Dave Keating](https://www.lexpress.fr/monde/europe/pour-devenir-souveraine-leurope-doit-apprendre-langlais-les-lecons-de-dave-keating-UUFD2BDW7NCLBKHGIJTATYC76I/)  
-*Source : lexpress.fr | Publication : 2026-06-06*
+## [<b>Cybercriminalité</b> : Vers une nouvelle ère de contrôle des réseaux sociaux - lexpress.mu](https://lexpress.mu/s/vers-une-nouvelle-ere-de-controle-des-reseaux-sociaux-558887)  
+*Source : lexpress.mu | Publication : 2026-06-07*
 
-- Pourquoi les dirigeants européens sont-ils soumis aux Etats-Unis ?.
-- Pourquoi acceptent-ils avec le sourire des diktats commerciaux léonins ?.
-- Pourquoi se prosternent-ils devant un président Donald Trump méprisant et prédateur ?.
-- Et surtout, comment les citoyens ordinaires tolèrent-ils une telle servitude ?.
+- Publicité Cybercriminalité Vers une nouvelle ère de contrôle des réseaux sociaux Par Partager cet article Cybercriminalité Vers une nouvelle ère de contrôle des réseaux sociaux Les autorités souhaitent renforcer la sécurité et la confiance dans l’espace numérique.
+- Le ministère des Technologies de l’information, de la communication et de l’innovation lancera prochainement des consultations auprès des parties prenantes afin d’établir un mécanisme de vérification d’identité pour les utilisateurs des réseaux sociaux.
+- Annoncé après le Conseil des ministres le vendredi 5 juin 2026, ce cadre proactif vise à lutter contre l’utilisation abusive des profils et plateformes numériques.
+- La vérification d’identité sur les réseaux sociaux est devenue un enjeu central à l’ère du numérique.
 
-## [Ruag a payé une rançon à des hackers - Watson](https://www.watson.ch/fr/international/etats-unis/832803794-ruag-a-paye-une-rancon-a-des-hackers)  
-*Source : watson.ch | Publication : 2026-06-06*
+## [Palo Alto Networks-CrowdStrike : la <b>cybersécurité</b>, un enjeu mondial, mais une seule de ces ...](https://investir.lesechos.fr/conseils-boursiers/conseils-actions/palo-alto-networks-crowdstrike-la-cybersecurite-un-enjeu-mondial-mais-une-seule-de-ces-actions-est-a-acheter-lautre-est-a-vendre-2235347)  
+*Source : investir.lesechos.fr | Publication : 2026-06-07*
 
-- Ruag a payé une rançon à des hackers Le groupe d'armement Ruag a versé une rançon à des pirates informatiques à la suite d'une cyberattaque contre l'une de ses filiales.
-- Jürg Rötheli, président du conseil d'administration de Ruag, ne souhaite pas dévoiler le montant déboursé.
-- Des études et des analyses sectorielles montrent toutefois que de telles demandes s'élèvent souvent à plusieurs millions.
-- La société britannique de cybersécurité Sophos a estimé à environ 1,2 million de dollars le montant moyen des rançons exigées des entreprises à l'échelle mondiale en 2025.
+- Les journalistes d'Investir vous proposent un nouveau match, entre deux mastodontes américains de l'univers de la cybersécurité , CrowdStrike et.
 
-## [IPTV illégale : un réseau démantelé, que risquez-vous si vous achetez une solution pirate ...](https://www.capital.fr/votre-argent/iptv-illegale-un-reseau-demantele-que-risquez-vous-si-vous-achetez-une-solution-pirate-pour-la-coupe-du-monde-de-football-1527348)  
-*Source : capital.fr | Publication : 2026-06-06*
+## [La percée quantique de Microsoft rapproche une menace longtemps redoutée par le Bitcoin](https://fr.tradingview.com/news/cointribune:82e167f92b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-06-07*
 
-- À l’approche du début de la Coupe du monde 2026, c’est un coup de filet dont les gendarmes du centre de lutte contre les criminalités numériques vont pouvoir s’enorgueillir.
-- Comme le rapporte 20 Minutes, les gendarmes spécialisés dans la cybercriminalité ont démantelé, mardi 2 juin, un important réseau de piratage des flux de télévisions payantes.
-- Onze individus ont ainsi été arrêtés par les forces de l’ordre, trois en Belgique et huit autres en France.
-- Les malfaiteurs arrêtés proposaient à des milliers d’utilisateurs - 250 000 selon les derniers chiffres - une solution illégale nommée «Noos+» qui permettait de pouvoir avoir accès à du contenu VOD et des chaînes payantes à l’instar de Ligue 1+ ou encore BeIN Sports contre un abonnement annuel compris entre 50 et 100 euros.
+- Le Bitcoin menacé ?.
+- Microsoft annonce une avancée quantique qui inquiète La sécurité du bitcoin vient de recevoir un nouveau rappel à l’ordre.
+- Microsoft a dévoilé Majorana 2, une puce quantique présentée comme une avancée majeure vers des ordinateurs quantiques capables de résoudre des problèmes aujourd’hui hors de portée des machines classiques.
+- Si cette innovation ne menace pas encore directement le réseau créé par Satoshi Nakamoto, elle ravive une question qui inquiète l’écosystème crypto depuis des années : combien de temps la cryptographie qui protège le bitcoin résistera-t-elle à la montée en puissance du calcul quantique ?.
 
-## [du VPN à la super-app de <b>cybersécurité</b> : ce que change la fonctionnalité antivirus nouvelle ...](https://www.lebigdata.fr/fonctionnalite-antivirus-nordvpn)  
-*Source : lebigdata.fr | Publication : 2026-06-06*
+## [Cyberguerre: en Corée du Nord, le cyberespionnage, les vols de cryptomonnaies et les ... - BFM](https://www.bfmtv.com/tech/cybersecurite/cyberguerre-en-coree-du-nord-le-cyberespionnage-les-vols-de-cryptomonnaies-et-les-hackers-au-service-d-un-etat-sous-sanctions_AN-202606070053.html)  
+*Source : bfmtv.com | Publication : 2026-06-07*
 
-- NordSecurity se place depuis longtemps comme une référence dans le monde la cybersécurité.
-- Avec sa fonctionnalité antivirus NordVPN de nouvelle génération, le service franchit une étape supplémentaire : celle d’une solution complète capable de couvrir la quasi-totalité des risques numériques du quotidien.
-- Le tout sans multiplier les applications, sans compliquer les réglages et sans alourdir l’expérience utilisateur.
-- Pendant des années, une bonne hygiène numérique impliquait de jongler entre plusieurs outils.
+- Cyberguerre: en Corée du Nord, le cyberespionnage, les vols de cryptomonnaies et les hackers au service d’un État sous sanctions Séparées par une zone de 250 km de long, de 4 km de large, entourée de barbelés, de mines, et théoriquement démilitarisée, mais fortement surveillée, la Corée du Nord et la Corée du Sud véhiculent toujours les spectres de la guerre de Corée, et avec elle de la guerre froide.
+- Une guerre qui n'est techniquement pas terminée, seulement suspendue, il n'y a jamais eu de traité officiel.
+- Cette frontière reste aujourd'hui un symbole géopolitique majeur.
+- Elle représente la division de la péninsule coréenne et incarne les tensions entre deux systèmes politiques totalement opposés.
 
-## [<b>Cybercriminalité</b>: Comment se protéger des fraudes par réservations d'hôtels - Bluewin](https://www.bluewin.ch/fr/infos/suisse/comment-se-prot-ger-des-fraudes-par-r-servations-d-h-tels-3266564.html)  
-*Source : bluewin.ch | Publication : 2026-06-06*
+## [Une double authentification inutile : l'outil de piratage Kali365 fait des ravages sur les ...](https://www.01net.com/actualites/double-authentification-inutile-outil-piratage-kali365-ravages-comptes-microsoft.html)  
+*Source : 01net.com | Publication : 2026-06-07*
 
-- Aperçu Football en direct Ligues Super League Aperçu Sports d'hiver en direct Résultats et classements FIS Résultats et classements IBU Aperçu Hockey sur glace en direct Résultats et tableau Aperçu Live-Tennis Tournois Résultats Aperçu Live Motorsport Courses et classements Aperçu Sport en direct Live-Streams & Highlights Foot - Mondial 2026 - Super League - Challenge League - Champions League - Bundesliga - Premier League - Serie A - LaLiga - Ligue 1 - Europa League - Conference League - Services Swisscom Swisscom Apps Langue.
+- Depuis avril 2026, une plateforme de piratage, baptisée Kali365, est devenue de plus en plus populaire dans le milieu de la cybercriminalité.
+- Mise en avant sur des canaux Telegram, la plateforme est vendue par le biais d’un abonnement, à partir de 250 dollars par mois ou 2 000 dollars à l’année.
+- L’outil s’inscrit dans la tendance des PhaaS (Phishing-as-a-Service) ces kits de phishing clés en main qui facilitent la vie des cybercriminels.
+- À lire aussi : Microsoft démasque une cyberattaque qui se cache dans les résultats Google et les réponses de l’IA Des centaines d’attaques en quelques semaines En souscrivant à un abonnement, n’importe quel cybercriminel, même sans la moindre compétence technique, peut lancer des attaques phishing redoutables destinées à prendre le contrôle de comptes Microsoft 365.
 
-## [Les États-Unis et les Philippines renforcent leur coopération en matière de réponse aux ...](https://fr.vietnamplus.vn/les-etats-unis-et-les-philippines-renforcent-leur-cooperation-en-matiere-de-reponse-aux-catastrophes-et-de-cybersecurite-post263444.vnp)  
-*Source : fr.vietnamplus.vn | Publication : 2026-06-06*
+## [a16z annonce un changement stratégique mondial pour soutenir le leadership ...](https://www.kucoin.com/fr/news/flash/a16z-announces-global-strategic-shift-to-support-u-s-and-allied-tech-leadership)  
+*Source : kucoin.com | Publication : 2026-06-07*
 
-- Manille (VNA) - Les Forces armées philippines (AFP) et le Commandement indo-pacifique des États-Unis (USINDOPACOM) renforcent leur coopération en matière de réponse aux catastrophes et de cybersécurité par le biais d'une série d'exercices conjoints, alors que la région continue d'être confrontée à des catastrophes naturelles fréquentes et à des défis sécuritaires non traditionnels de plus en plus complexes.
-- L'exercice "Tempest 41-2026" a officiellement débuté le 5 juin dans le cadre du Programme d'équipe multinationale de renforcement de la planification (MPAT).
-- Cet exercice vise à améliorer les capacités de coordination des opérations d'aide humanitaire et de secours en cas de catastrophe.
-- Le colonel Xerxes Trinidad, chef du Bureau des affaires publiques des AFP, a déclaré que l'exercice rassemble des représentants de 17 pays membres du MPAT, ainsi que des organisations humanitaires et des agences civiles.
+- Note de la rédaction : Cette annonce de Ben Horowitz marque un tournant important dans la stratégie mondiale de a16z : elle ne consiste plus seulement à chercher des projets à l'étranger ou à étendre ses investissements internationaux, mais à s'intégrer dans un cadre plus vaste de concurrence technologique et de coopération entre alliés.
+- Par le passé, la capacité essentielle des fonds de capital-risque résidait principalement à identifier les entreprises, fournir des capitaux et accompagner la croissance.
+- Mais depuis que l’IA, la robotique, la technologie de défense, la cybersécurité et la restructuration des chaînes d’approvisionnement sont devenues des enjeux de compétition nationale, le parcours d’internationalisation des startups s’est complexifié.
+- Elles ne font plus face uniquement à des marchés et à des clients, mais aussi à une réglementation multinationale, des politiques industrielles, des relations géopolitiques et des capitaux stratégiques.
+
+## [Attention aux logiciels malveillants se faisant passer pour des <b>ransomwares</b> et ciblant les ...](https://www.vietnam.vn/fr/canh-giac-ma-doc-gia-danh-ransomware-tan-cong-smartphone-android)  
+*Source : vietnam.vn | Publication : 2026-06-07*
+
+- D'après les experts en technologie, il ne s'agit pas d'un ransomware au sens strict, car ce type de logiciel malveillant ne chiffre pas les données et ne prend pas le contrôle total de l'appareil.
+- Il exploite plutôt les autorisations d'accès accordées par l'utilisateur lors de l'installation pour prendre le contrôle de l'affichage à l'écran, donnant ainsi l'impression que le téléphone a été piraté.
+- Les distributeurs de logiciels malveillants se font souvent passer pour des fichiers d'installation Android au format .apk.
+- En cherchant des applications en ligne, les utilisateurs peuvent télécharger sans le savoir des fichiers provenant de sites web d'origine inconnue ou contrôlés par des pirates informatiques.
