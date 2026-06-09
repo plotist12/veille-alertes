@@ -1,145 +1,147 @@
-# Résumés – 2026-06-08
+# Résumés – 2026-06-09
 
 
-## [MokN lève 15 M$ en série A pour son service de <b>cybersécurité</b> - J'aime les startups](https://www.jaimelesstartups.fr/news/mokn-levee-de-fonds-15-millions-en-serie-a/)  
-*Source : jaimelesstartups.fr | Publication : 2026-06-07*
+## [Whatsapp de nouveau en guerre contre NSO Group, l'entreprise israélienne spécialisée ...](https://www.bfmtv.com/tech/cybersecurite/whatsapp-de-nouveau-en-guerre-contre-nso-group-l-entreprise-israelienne-specialisee-dans-l-espionnage-est-accusee-d-avoir-tente-de-pirater-a-nouveau-des-utilisateurs-de-la-messagerie-de-meta_AV-202606080782.html)  
+*Source : bfmtv.com | Publication : 2026-06-08*
 
-- Avec cette innovation, MokN comble un vide crucial dans la cybersécurité : la détection et la récupération des identifiants compromis avant qu'ils ne.
+- Whatsapp de nouveau en guerre contre NSO Group, l'entreprise israélienne spécialisée dans l’espionnage est accusée d'avoir tenté de pirater à nouveau des utilisateurs de la messagerie de Meta NSO Group ne semble pas avoir retenu la leçon.
+- Plus d'un an après sa condamnation pour avoir piraté des smartphones via Whatsapp, l'entreprise israélienne spécialisée dans l'espionnage a été prise la main dans le sac par la messagerie de Meta.
+- Après avoir reçu des signalements de la part d'utilisateurs, celle-ci assure avoir détecté et perturbé des tentatives de spear phishing liées à cette société.
+- Connue sous le nom de "hameçonnage ciblé" en français, cette technique consiste à entrer en contact avec un individu, un groupe ou une entreprise spécifique tout en se faisant passer pour un tiers de confiance, afin de l'inciter à divulguer des données sensibles ou encore à télécharger un logiciel malveillant.
 
-## [Taille du marché de la résilience des données, part | Prévisions de croissance [2034]](https://www.fortunebusinessinsights.com/fr/data-resiliency-market-116982)  
-*Source : fortunebusinessinsights.com | Publication : 2026-06-07*
+## [Débouchés &amp; métiers | MS <b>Cybersécurité</b> Industrielle | Mines Saint-Étienne](https://www.mines-stetienne.fr/programmes/manager-de-la-cybersecurite-industrielle-ms-mcsi/ms-mcsi-debouches)  
+*Source : mines-stetienne.fr | Publication : 2026-06-08*
 
-- "Stratégies intelligentes, donnant une vitesse à votre trajectoire de croissance" La taille du marché mondial de la résilience des données était évaluée à 37,93 milliards USD en 2025.
-- Le marché devrait passer de 44,72 milliards USD en 2026 à 166,76 milliards USD d’ici 2034, avec un TCAC de 17,88 % au cours de la période de prévision.
-- Le marché de la résilience des données se développe rapidement à mesure que les organisations donnent la priorité aux opérations commerciales ininterrompues, à la préparation à la cybersécurité, à la planification de reprise après sinistre et aux stratégies avancées de protection des données.
-- Les entreprises de tous secteurs investissent dans une infrastructure numérique résiliente pour protéger les informations critiques contre les attaques de ransomwares, les pannes matérielles, les suppressions accidentelles et les perturbations opérationnelles.
+- Des experts au cœur de la sécurité et de la continuité des systèmes industriels Les cyberattaques ciblant les infrastructures critiques et les systèmes industriels (OT) explosent.
+- Les entreprises de production, les opérateurs de services essentiels (OSE), les industriels de l’énergie, du transport, de la santé ou de la défense sont confrontés à un besoin urgent de compétences en cybersécurité appliquée à l’industrie.
+- Le programme Mastère Spécialisé Manager de la Cybersécurité Industrielle forme des professionnels immédiatement opérationnels, capables de sécuriser les architectures industrielles, d’anticiper les menaces, d’organiser la réponse aux incidents et d’accompagner les organisations dans leur transformation numérique sécurisée.
+- Un marché en forte tension : des opportunités immédiates Les recrutements dans la cybersécurité OT/ICS sont en très forte croissance, notamment sous l’effet : des attaques majeures visant les chaînes de production, - de la montée des exigences réglementaires (NIS2, IEC 62443, OSE), - de l’industrie 4.0 (IoT, robotique, edge computing, jumeaux numériques), - des besoins de résilience des entreprises face aux risques cyber, - de la généralisation des audits OT et des plans de sécurisation.
 
-## [Récap du 06/06/2026 : sécurité, deuil national et météo agitée - INFO.FR](https://info.fr/recap/2026-06-07/)  
-*Source : info.fr | Publication : 2026-06-07*
-
-- Bernadette Chirac s'éteint à 93 ans Bernadette Chirac est décédée le vendredi 5 juin au soir à l'âge de 93 ans, entourée de sa famille.
-- C'est sa fille Claude qui a annoncé la nouvelle à l'AFP le samedi matin.
-- Figure incontournable de la Ve République aux côtés de Jacques Chirac, elle laisse une empreinte durable dans la vie politique et associative française, notamment à travers son engagement pour les enfants malades.
-- À surveiller : Pourquoi c'est important : la disparition d'une figure centrale de la politique française pendant des décennies.
-
-## [Le Dico de la Cyber : C'est quoi un Honeypot ? - YouTube](https://www.youtube.com/watch?v=5-OdbVdHDmQ)  
-*Source : youtube.com | Publication : 2026-06-07*
+## [<b>Cybersécurité</b>: Le Piège des Diplômes Sans Compétences #shorts - YouTube](https://www.youtube.com/watch?v=NefgVYgtK98)  
+*Source : youtube.com | Publication : 2026-06-08*
 
 - About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Tests ADN récréatifs et enquêtes criminelles, la dérive que la France s'apprête à légaliser](https://www.clubic.com/dossier-615463-tests-adn-recreatifs-et-enquetes-criminelles-la-derive-que-la-france-s-apprete-a-legaliser.html)  
-*Source : clubic.com | Publication : 2026-06-07*
+## [WISeKey, The Hashgraph Group et Hedera lancent une plateforme de <b>cybersécurité</b> quantique](https://www.zonebourse.com/actualite-bourse/wisekey-the-hashgraph-group-et-hedera-lancent-une-plateforme-de-cybersecurite-quantique-ce7f5dd2de88f420)  
+*Source : zonebourse.com | Publication : 2026-06-08*
 
-- Sous couvert de résoudre des affaires graves, le projet de loi sur la justice criminelle ouvre la voie à l’exploitation policière de bases ADN privées étrangères.
-- Une évolution lourde de conséquences pour le consentement et la vie privée, qui ne concerne pas seulement les personnes testées, mais aussi leur parentèle.
-- La fenêtre de tir est courte, et le texte n’a pas suscité de débat public à la hauteur de l’enjeu.
-- Adopté par le Sénat le 14 avril dernier, le projet de loi sur la justice criminelle et le respect des victimes doit être examiné par la commission des lois de l’Assemblée nationale à partir du 8 juin, après engagement de la procédure accélérée par le gouvernement.
+- WISeKey, The Hashgraph Group et Hedera lancent une plateforme de cybersécurité quantique Publié le 08/06/2026 à 09:35 MT Newswires - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager Cet article est réservé aux membres Débloquer l'article : INSCRIVEZ-VOUS !.
+- Inscription 100% Gratuite Vous êtes déja client ?.
+- Se connecter © MT Newswires - 2026 Partager.
 
-## [Principales cyberattaques de 2026 : vol de données et risques - Zamin.uz](https://zamin.uz/fr/technologie/205820-principales-cyberattaques-de-2026-vol-de-donnees-et-risques.html)  
-*Source : zamin.uz | Publication : 2026-06-07*
+## [40 des 140 membres du personnel du Bureau de l'intelligence artificielle de la Commission ...](https://agenceurope.eu/index.php/fr/bulletin/article/13883/11)  
+*Source : agenceurope.eu | Publication : 2026-06-08*
 
-- Principales cyberattaques de 2026 : vol de données et risques 2026 a montré que la cybersécurité n'est plus seulement une question technique, mais est devenue centrale dans la politique mondiale.
-- Les guerres sur les fronts numériques, les gouvernements utilisant les données des citoyens comme arme et les botnets frappant les institutions démocratiques sont devenus monnaie courante.
-- Les hackers d'État ciblent les infrastructures civiles, des réseaux électriques aux systèmes d'eau, tandis que les ransomwares prennent de grandes entreprises en otage.
-- Selon Techcrunch.com rapporte.
+- Le Bureau européen de l’intelligence artificielle (AI Office) de la Commission européenne « emploie plus de 140 membres du personnel, dont plus de 40 au sein de son unité chargée de la sécurité de l’IA, la majorité d’entre eux disposant de profils techniques, notamment en cybersécurité », a confirmé la vice-présidente exécutive chargée de la Souveraineté technologique, Henna Virkkunen, dans une réponse parlementaire adressée à Piotr Müller (CRE, polonais) qui l'interrogeait sur le nombre de fonctionnaires travaillant sur les modèles avancés et le fait de savoir si l'UE avait la capacité technique de faire appliquer les règles dans ce domaine, après les révélations concernant le modèle Mythos de l’entreprise Anthropic (EUROPE 13862/4, 13863/5).
+- L’Agence de l’Union européenne pour la cybersécurité (ENISA), à laquelle Anthropic a proposé un accès à son modèle Mythos (EUROPE 13879/14), apporte également son soutien à la direction générale des réseaux de communication, du contenu et des technologies (DG CONNECT) et sa direction spécifiquement dédiée à la cybersécurité.
+- Une fois que les pleins pouvoirs d’exécution du Bureau de l’IA entreront en vigueur, en août 2026, « les demandes d’informations et, si nécessaire, l’accès aux modèles deviendront obligatoires », a rappelé Mme Virkkunen.
+- (Ana Pisonero Hernández).
 
-## [<b>Cybersécurité</b> : les 13 actualités majeures du 7 juin 2026](https://dcod.ch/2026/06/07/cybersecurite-les-13-actualites-majeures-du-7-juin-2026/)  
-*Source : dcod.ch | Publication : 2026-06-07*
+## [Congrès national des SI hospitaliers: demandez le programme! - APMnews](https://www.apmnews.com/freestory/10/437603/congres-national-des si-hospitaliers-demandez-le programme!)  
+*Source : apmnews.com | Publication : 2026-06-08*
 
-- Faits marquants de la semaine L’Union européenne dévoile un vaste paquet pour réduire sa dépendance aux fournisseurs technologiques américains, avec un Cloud and AI Development Act orientant l’argent public vers des solutions européennes, un forum « Eurocloud » et une révision de la loi sur les puces.
-- - Une réforme européenne prévoit d’interdire l’usage de l’intelligence artificielle pour produire des deepfakes à caractère sexuel, avec un renforcement du droit pénal et une mise en œuvre annoncée pour décembre 2026 par le futur office de l’IA de l’UE.
-- - Pour la première fois, une agence européenne de cybersécurité obtient un accès direct à Claude Mythos, un modèle d’intelligence artificielle d’Anthropic, quelques mois avant que la Commission européenne ne dispose d’un cadre juridique lui permettant d’imposer ce type d’accès.
-- - L’État de New York se dirige vers un moratoire d’un an sur les grands centres de données de plus de 20 mégawatts, ciblant particulièrement les infrastructures géantes qui alimentent la croissance actuelle de l’intelligence artificielle.
+- Garder la maîtrise du numérique hospitalier Les équipes au cœur de la transformation Des ateliers et retours d'expérience très concrets Testez APM NEWS et profitez de l'intégralité de nos dépêches 30 à 50 dépêches par jour sur les sujets du domaine de la santé Plus de 100 000 utilisateurs en France 30 journalistes experts en France et 3 bureaux en Europe.
 
-## [Vos réservations d'hôtel sont menacées cet été avec l'IA des cybercriminels qui peuvent ...](https://www.be.com/culture/societe/cybercriminel-reservations-hotel-248786.html)  
-*Source : be.com | Publication : 2026-06-07*
+## [Cyber Europe 2026: Le Luxembourg se prépare à une crise de <b>cybersécurité</b> d'envergure](https://infos.rtl.lu/news/luxembourg/le-luxembourg-se-prepare-a-une-crise-de-cybersecurite-denvergure-1604814331)  
+*Source : infos.rtl.lu | Publication : 2026-06-08*
 
-- À l’approche de la saison touristique, le nombre de réservations en ligne augmente, entraînant la circulation de nombreuses données personnelles.
-- Des cybercriminels ont développé une méthode d’escroquerie identifiée par l’Agence de cybersécurité andorrane ANC-AD sous le nom de « Reservation Hijack Scam ».
-- Cette technique consiste à envoyer de faux emails aux clients ayant déjà confirmé une réservation, en usurpant l’identité de l’hôtel.
-- Les messages prétendent qu’un problème est survenu avec la réservation et sollicitent le renvoi des informations de carte bancaire ou le paiement d’un supplément pour conserver le séjour.
+- Cet événement, mené tous les deux ans depuis 2010, sert de laboratoire grandeur nature pour tester la réaction des États face à des attaques informatiques complexes touchant plusieurs pays.
+- Pour cette huitième édition, l’accent est mis sur le secteur du transport, et plus particulièrement sur les infrastructures ferroviaires et maritimes, considérées comme essentielles au fonctionnement du continent.
+- Au Luxembourg, l’exercice mobilise un large éventail d’acteurs : le HCPN et son équipe de réponse aux incidents, le ministère de la Mobilité, l’Administration des chemins de fer, les CFL, l’autorité de régulation ILR, le CIRCL ainsi que l’institut ILNAS.
+- Ensemble, ils devront détecter, analyser et gérer une cyberattaque majeure, conformément au Plan national de gestion de crise cyber et aux exigences européennes en matière de sécurité numérique.
 
-## [Sécurisez vos clés privées : la méthode infaillible. - YouTube](https://www.youtube.com/watch?v=NA3gAiKQFHk)  
-*Source : youtube.com | Publication : 2026-06-07*
+## [Belleherbe. <b>Cybersécurité</b>, aisance, WhatsApp et Messenger : les ateliers du conseiller numérique](https://www.estrepublicain.fr/culture-loisirs/2026/06/08/cybersecurite-aisance-whatsapp-et-messenger-les-ateliers-du-conseiller-numerique)  
+*Source : estrepublicain.fr | Publication : 2026-06-08*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Belleherbe Cybersécurité, aisance, WhatsApp et Messenger : les ateliers du conseiller numérique Voici le programme des ateliers du conseiller numérique en juin.
+- 10 juin à 10 h : « Je gagne en autonomie numérique, je résous... Connectez-vous ou créez un compte Pour pouvoir enregistrer un article, un compte est nécessaire.
+- Se connecter ou créer un compteL'Est Républicain, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de votre compte, ainsi que des abonnements et autres services souscrits.
+- Si vous y avez consenti, ces données peuvent également être utilisées pour l’envoi de newsletters et/ou d’offres promotionnelles par L'Est Républicain, les sociétés qui lui sont affiliées et/ou ses partenaires commerciaux.
 
-## [Poulpiquet Immobilier alerte ses clients après une fuite de données chez un prestataire](https://www.cyberattaque.org/poulpiquet-immobilier-alerte-ses-clients-apres-une-fuite-de-donnees-chez-un-prestataire/)  
-*Source : cyberattaque.org | Publication : 2026-06-07*
+## [WhatsApp attaque NSO pour violation d'injonction - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/whatsapp-attaque-nso-pour-violation-injonction-227550)  
+*Source : silicon.fr | Publication : 2026-06-08*
 
-- L’agence Poulpiquet Immobilier a récemment informé certains de ses clients qu’un incident de cybersécurité avait affecté un logiciel utilisé dans le cadre de son activité immobilière.
-- Selon le courrier adressé aux personnes concernées, l’incident ne touche pas directement les systèmes de l’agence mais une fonctionnalité d’un logiciel fourni par un partenaire technique utilisé pour le suivi des projets immobiliers.
-- L’événement aurait été détecté puis rapidement contenu par l’éditeur de la solution, qui a mis en œuvre des mesures de blocage afin de limiter l’accès aux données concernées.
-- Des données clients potentiellement consultées D’après les informations communiquées par Poulpiquet Immobilier, certaines données de contact auraient pu être consultées lors de cet incident.
+- Meta dépose une demande d’outrage au tribunal fédéral contre NSO Group.
+- Le fabricant israélien du logiciel espion Pegasus aurait violé l’injonction permanente obtenue l’an dernier, qui lui interdisait de cibler WhatsApp et ses utilisateurs.
+- WhatsApp a repéré de nouvelles tentatives d’attaques liées à NSO après des signalements d’utilisateurs.
+- Ces tentatives visaient à pousser des cibles à cliquer sur des liens malveillants pour les rediriger vers des sites externes.
 
-## [Le groupe suisse d'armement Ruag a payé une rançon après une cyberattaque](https://frenchbreaches.com/blog/le-groupe-suisse-darmement-ruag-a-paye-une-rancon-apres-une-cyberattaque)  
-*Source : frenchbreaches.com | Publication : 2026-06-07*
+## [Tchap, la messagerie réservée aux agents de l'Etat, a été victime d'une &quot;intrusion maîtrisée&quot;](https://www.bfmtv.com/tech/cybersecurite/tchap-la-messagerie-reservee-aux-agents-de-l-etat-a-ete-victime-d-une-intrusion-maitrisee-les-donnees-de-plus-de-70-000-utilisateurs-et-jusqu-a-643-000-messages-auraient-ete-derobes_AV-202606080723.html)  
+*Source : bfmtv.com | Publication : 2026-06-08*
 
-- Ruag a payé une rançon au groupe Akira après le piratage de sa filiale américaine L'entreprise d'armement suisse Ruag a confirmé avoir versé une rançon au groupe cybercriminel Akira à la suite d'une cyberattaque ayant visé sa filiale américaine Ruag LLC.
-- Cette décision intervient alors que les autorités fédérales suisses déconseillent formellement le paiement des rançons réclamées par les groupes spécialisés dans les rançongiciels.
-- Selon les informations communiquées par l'entreprise, le paiement aurait permis de récupérer l'ensemble des données concernées par l'incident.
-- Une cyberattaque contre la filiale américaine de Ruag L'attaque remonte à l'automne 2025 et a visé Ruag LLC, une filiale basée en Virginie aux États-Unis.
+- Tchap, la messagerie réservée aux agents de l’Etat, a été victime d'une "intrusion maîtrisée": les données de plus de 70.000 utilisateurs et jusqu'à 643.000 messages auraient été dérobés Présentée comme une solution souveraine, développée en France, la messagerie Tchap, qui reprend l'idée de Slack ou de Discord, a été victime d'une cyberattaque.
+- La Direction interministérielle du numérique (la Dinum) a confirmé la nouvelle dans un communiqué, précisant que la compromission avait été rendue possible grâce à "l'usurpation d'un compte qui a été détectée et neutralisée".
+- Revendiquée par un pirate sur le dark web, la cyberattaque pourrait concerner les données de plus de 70.000 agents de l'Etat, et jusqu'à 643.000 messages, échangés au fil de trois ans de communications interministérielles, selon le site spécialisé French Breaches, qui répertorie les failles de sécurité.
+- Des échanges privés chiffrés La Dinum n'a pas confirmé ces données, mais explique néamoins que "des investigations ont immédiatement été menées par les équipes spécialisées" afin de confirmer la brèche et "définir un périmètre", tout en mettant en place "les mesures immédiates de protection à titre conservatoire".
 
-## [Les cyberattaques explosent : IDELUX ouvre son centre de <b>cybersécurité</b> aux entreprises à Libin](https://www.sudinfo.be/id1158723/article/2026-06-07/les-cyberattaques-explosent-idelux-ouvre-son-centre-de-cybersecurite-aux)  
-*Source : sudinfo.be | Publication : 2026-06-07*
+## [Profil des candidats | Mastère Spécialisé <b>Cybersécurité</b> Industrielle | Mines Saint-Étienne](https://www.mines-stetienne.fr/programmes/manager-de-la-cybersecurite-industrielle-ms-mcsi/ms-mcsi-profil)  
+*Source : mines-stetienne.fr | Publication : 2026-06-08*
 
-- centre de cybersécurité.
-- L'objectif : aider les entrepreneurs à mieux comprendre les menaces numériques et à s'en protéger.
+- La cybersécurité industrielle est aujourd’hui l’un des domaines les plus sensibles et stratégiques de la transformation numérique.
+- La formation MS-MCSI forme des experts capables de sécuriser les systèmes industriels (OT), de prévenir les cyberattaques et de garantir la continuité d’activité dans des environnements critiques.
+- La formation s’adresse aux personnes souhaitant associer compétences techniques, culture industrielle et vision stratégique, afin de devenir des acteurs clés de la résilience des entreprises.
+- À qui s’adresse cette formation ?.
 
-## [IA et <b>Cybercriminalité</b>: L'Industrie des Attaques Explose! #shorts - YouTube](https://www.youtube.com/watch?v=wdcwEN6YJ34)  
-*Source : youtube.com | Publication : 2026-06-07*
+## [« Être en état d'alerte maximale, en permanence » : face au fléau des arnaques, les ... - Challenges](https://www.challenges.fr/entreprise/banque-et-assurance/etre-en-etat-dalerte-maximale-en-permanence-face-au-fleau-des-arnaques-les-employes-de-banques-americaines-se-transforment-en-detectives_643984)  
+*Source : challenges.fr | Publication : 2026-06-08*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- « Être en état d’alerte maximale, en permanence » : face au fléau des arnaques, les employés de banques américaines se transforment en détectives Aux Etats-Unis, 21 milliards de dollars ont été signalés aux autorités comme perdus à cause de la cybercriminalité l’année dernière.
+- Face à des escroqueries toujours plus répandues, les banques forment leur personnel à détecter des signaux d’alerte, allant jusqu’à s’inspirer des sciences du comportement.
+- Karen Battista et Angela Castaldo ont passé à elles deux 47 ans derrière le guichet d’une agence de la banque Chase à Scarsdale, une banlieue aisée de New York située juste au nord de Manhattan.
+- Elles savent quels clients viennent de rentrer de vacances, qui ont des enfants qui se sont récemment mariés ou qui vient de perdre son chien adoré.
 
-## [<b>Cybercriminalité</b> : Vers une nouvelle ère de contrôle des réseaux sociaux - lexpress.mu](https://lexpress.mu/s/vers-une-nouvelle-ere-de-controle-des-reseaux-sociaux-558887)  
-*Source : lexpress.mu | Publication : 2026-06-07*
+## [SOPHIA-ANTIPOLIS : <b>Cybersécurité</b> - Le groupe Squad acquiert Løvell Consulting pour ...](https://presseagence.fr/sophia-antipolis-cybersecurite-le-groupe-squad-acquiert-lovell-consulting-pour-viser-le-leadership-europeen/)  
+*Source : presseagence.fr | Publication : 2026-06-08*
 
-- Publicité Cybercriminalité Vers une nouvelle ère de contrôle des réseaux sociaux Par Partager cet article Cybercriminalité Vers une nouvelle ère de contrôle des réseaux sociaux Les autorités souhaitent renforcer la sécurité et la confiance dans l’espace numérique.
-- Le ministère des Technologies de l’information, de la communication et de l’innovation lancera prochainement des consultations auprès des parties prenantes afin d’établir un mécanisme de vérification d’identité pour les utilisateurs des réseaux sociaux.
-- Annoncé après le Conseil des ministres le vendredi 5 juin 2026, ce cadre proactif vise à lutter contre l’utilisation abusive des profils et plateformes numériques.
-- La vérification d’identité sur les réseaux sociaux est devenue un enjeu central à l’ère du numérique.
+- En rachetant le cabinet Løvell Consulting, le spécialiste de la cybersécurité Squad complète son offre et affiche ses ambitions de leadership en.
 
-## [Palo Alto Networks-CrowdStrike : la <b>cybersécurité</b>, un enjeu mondial, mais une seule de ces ...](https://investir.lesechos.fr/conseils-boursiers/conseils-actions/palo-alto-networks-crowdstrike-la-cybersecurite-un-enjeu-mondial-mais-une-seule-de-ces-actions-est-a-acheter-lautre-est-a-vendre-2235347)  
-*Source : investir.lesechos.fr | Publication : 2026-06-07*
+## [Encadrement du risque cyber : le chaud et le froid dans l'Union européenne - CMS.law](https://cms.law/fr/fra/legal-updates/Encadrement-du-risque-cyber-le-chaud-et-le-froid-dans-l-Union-europeenne)  
+*Source : cms.law | Publication : 2026-06-08*
 
-- Les journalistes d'Investir vous proposent un nouveau match, entre deux mastodontes américains de l'univers de la cybersécurité , CrowdStrike et.
+- Encadrement du risque cyber : le chaud et le froid dans l’Union européenne Auteurs Dans le cadre de son paquet Omnibus VII (aussi appelé « Omnibus numérique »)1, la Commission européenne a annoncé, le 19 novembre 2025, diverses mesures de simplification en lien avec la cybersécurité.
+- Alors que ce texte est encore loin d’être publié, l’exécutif européen a également présenté, le 20 janvier 20262, un « paquet cybersécurité », qui inclut quelques mesures de simplification, mais aussi de nouvelles obligations structurantes, notamment pour les entreprises soumises à la directive NIS II3.
+- Ces textes devraient évoluer sensiblement d’ici leur publication, mais un état des lieux est d’ores et déjà possible.
+- Il donne la mesure des vents contraires auxquels est exposée l’Union européenne, prise en étau entre un risque cyber toujours plus prégnant et la nécessité d’alléger la charge administrative des entreprises.
 
-## [La percée quantique de Microsoft rapproche une menace longtemps redoutée par le Bitcoin](https://fr.tradingview.com/news/cointribune:82e167f92b858:0/)  
-*Source : fr.tradingview.com | Publication : 2026-06-07*
+## [<b>Cybersécurité</b> : Tchap, la messagerie des agents publics, victime d'une attaque - La Croix](https://www.la-croix.com/societe/cybersecurite-tchap-la-messagerie-des-agents-publics-victime-d-une-attaque-20260608)  
+*Source : la-croix.com | Publication : 2026-06-08*
 
-- Le Bitcoin menacé ?.
-- Microsoft annonce une avancée quantique qui inquiète La sécurité du bitcoin vient de recevoir un nouveau rappel à l’ordre.
-- Microsoft a dévoilé Majorana 2, une puce quantique présentée comme une avancée majeure vers des ordinateurs quantiques capables de résoudre des problèmes aujourd’hui hors de portée des machines classiques.
-- Si cette innovation ne menace pas encore directement le réseau créé par Satoshi Nakamoto, elle ravive une question qui inquiète l’écosystème crypto depuis des années : combien de temps la cryptographie qui protège le bitcoin résistera-t-elle à la montée en puissance du calcul quantique ?.
+- Tchap, la messagerie instantanée chiffrée utilisée par les agents publics, a été victime d’un « incident de sécurité » avec une fuite de données qui a été « maîtrisée », a annoncé lundi 8 juin la Direction interministérielle du numérique (Dinum).
+- L’Agence nationale de la sécurité des systèmes d’information (Anssi) a détecté dimanche 7 juin « une compromission du service Tchap à la suite d’une usurpation de compte », a indiqué la Dinum dans un communiqué.
+- Elle a précisé que le compte à l’origine des requêtes malveillantes avait « été identifié » et « immédiatement bloqué afin de supprimer l’accès persistant de l’attaquant ».
+- « Même dans le cas d’une usurpation de compte, l’historique des conversations privées et chiffrées n’est pas accessible » et « les échanges susceptibles d’avoir été consultés se limitent donc au contenu des conversations publiques », a-t-elle expliqué.
 
-## [Cyberguerre: en Corée du Nord, le cyberespionnage, les vols de cryptomonnaies et les ... - BFM](https://www.bfmtv.com/tech/cybersecurite/cyberguerre-en-coree-du-nord-le-cyberespionnage-les-vols-de-cryptomonnaies-et-les-hackers-au-service-d-un-etat-sous-sanctions_AN-202606070053.html)  
-*Source : bfmtv.com | Publication : 2026-06-07*
+## [Cybersécurité : 3 numéros offerts pour fêter les 10 ans des ... - Solutions Numériques](https://www.solutions-numeriques.com/solutions-numeriques-cybersecurite-3-numeros-offerts-pour-feter-les10-ans-des-trophees-de-la-transformation-numerique/)  
+*Source : solutions-numeriques.com | Publication : 2026-06-08*
 
-- Cyberguerre: en Corée du Nord, le cyberespionnage, les vols de cryptomonnaies et les hackers au service d’un État sous sanctions Séparées par une zone de 250 km de long, de 4 km de large, entourée de barbelés, de mines, et théoriquement démilitarisée, mais fortement surveillée, la Corée du Nord et la Corée du Sud véhiculent toujours les spectres de la guerre de Corée, et avec elle de la guerre froide.
-- Une guerre qui n'est techniquement pas terminée, seulement suspendue, il n'y a jamais eu de traité officiel.
-- Cette frontière reste aujourd'hui un symbole géopolitique majeur.
-- Elle représente la division de la péninsule coréenne et incarne les tensions entre deux systèmes politiques totalement opposés.
+- Offre exclusive : Recevez gratuitement nos 3 prochains magazines !.
+- Pour célébrer la sortie de notre nouveau numéro et les 10 ans des Trophées de l’Innovation, nous avons décidé de vous faire un cadeau.
+- Exceptionnellement, nous offrons à nos lecteurs l’opportunité de recevoir les trois prochains numéros de Solutions Numériques & Cybersécurité au format papier, 100 % gratuitement.
+- Pour recevoir nos décryptages stratégiques et nos retours d’expérience directement dans votre boîte aux lettres, complétez simplement le formulaire ci-dessous : Au sommaire de notre nouveau numéro spéciale Trophées de la Transformation Numérique (Sortie le 10 juin) Sous la pression de la souveraineté, de la multiplication des cybermenaces et de l’intelligence artificielle, le système d’information des entreprises ne tient plus : il déborde.
 
-## [Une double authentification inutile : l'outil de piratage Kali365 fait des ravages sur les ...](https://www.01net.com/actualites/double-authentification-inutile-outil-piratage-kali365-ravages-comptes-microsoft.html)  
-*Source : 01net.com | Publication : 2026-06-07*
+## [<b>Ransomware</b> : Ruag reconnaît avoir cédé au chantage d'Akira | LeMagIT](https://www.lemagit.fr/actualites/366643846/Ransomware-Ruag-reconnait-avoir-cede-au-chantage-dAkira)  
+*Source : lemagit.fr | Publication : 2026-06-08*
 
-- Depuis avril 2026, une plateforme de piratage, baptisée Kali365, est devenue de plus en plus populaire dans le milieu de la cybercriminalité.
-- Mise en avant sur des canaux Telegram, la plateforme est vendue par le biais d’un abonnement, à partir de 250 dollars par mois ou 2 000 dollars à l’année.
-- L’outil s’inscrit dans la tendance des PhaaS (Phishing-as-a-Service) ces kits de phishing clés en main qui facilitent la vie des cybercriminels.
-- À lire aussi : Microsoft démasque une cyberattaque qui se cache dans les résultats Google et les réponses de l’IA Des centaines d’attaques en quelques semaines En souscrivant à un abonnement, n’importe quel cybercriminel, même sans la moindre compétence technique, peut lancer des attaques phishing redoutables destinées à prendre le contrôle de comptes Microsoft 365.
+- Ransomware : Ruag reconnaît avoir cédé au chantage d’Akira Le groupe d’armement helvète a versé une rançon au groupe Akira après une cyberattaque contre sa filiale américaine, défiant les recommandations fédérales suisses.
+- La filiale américaine Ruag LLC, située en Virginie, du groupe d’armement helvète a subi une cyberattaque orchestrée par le groupe Akira à l’automne 2025.
+- Les attaquants ont déployé une stratégie de double extorsion, comme à leur habitude : exfiltration de données sensibles et chiffrement des systèmes.
+- Le périmètre de la compromission inclut des données relatives au personnel, des contrats militaires et des protocoles de manipulation d’explosifs.
 
-## [a16z annonce un changement stratégique mondial pour soutenir le leadership ...](https://www.kucoin.com/fr/news/flash/a16z-announces-global-strategic-shift-to-support-u-s-and-allied-tech-leadership)  
-*Source : kucoin.com | Publication : 2026-06-07*
+## [Maintenance des Rafale, <b>cybersécurité</b>, data scientists : le ministère des Armées recrute 4 ...](https://fr.finance.yahoo.com/actualites/maintenance-rafale-cybersécurité-data-scientists-153527499.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-06-08*
 
-- Note de la rédaction : Cette annonce de Ben Horowitz marque un tournant important dans la stratégie mondiale de a16z : elle ne consiste plus seulement à chercher des projets à l'étranger ou à étendre ses investissements internationaux, mais à s'intégrer dans un cadre plus vaste de concurrence technologique et de coopération entre alliés.
-- Par le passé, la capacité essentielle des fonds de capital-risque résidait principalement à identifier les entreprises, fournir des capitaux et accompagner la croissance.
-- Mais depuis que l’IA, la robotique, la technologie de défense, la cybersécurité et la restructuration des chaînes d’approvisionnement sont devenues des enjeux de compétition nationale, le parcours d’internationalisation des startups s’est complexifié.
-- Elles ne font plus face uniquement à des marchés et à des clients, mais aussi à une réglementation multinationale, des politiques industrielles, des relations géopolitiques et des capitaux stratégiques.
+- Maintenance des Rafale, cybersécurité, data scientists : le ministère des Armées recrute 4 000 civils, quels sont les métiers concernés ?.
+- Le ministère des Armées accélère le recrutement de personnels civils.
+- Cette année, jusqu’à 4 000 postes sont à pourvoir dans des domaines très variés, allant de la maintenance aéronautique à la cybersécurité, en passant par la gestion de projets ou encore la data.
+- Des métiers techniques et hautement qualifiés, dans un secteur devenu stratégique pour la défense française.
 
-## [Attention aux logiciels malveillants se faisant passer pour des <b>ransomwares</b> et ciblant les ...](https://www.vietnam.vn/fr/canh-giac-ma-doc-gia-danh-ransomware-tan-cong-smartphone-android)  
-*Source : vietnam.vn | Publication : 2026-06-07*
+## [AVIS D'EXPERT – Cyberattaques à répétition : le vrai problème français n'est plus le hack ...](https://www.solutions-numeriques.com/avis-dexpert-cyberattaques-a-repetition-le-vrai-probleme-francais-nest-plus-le-hack-mais-la-banalisation-du-risque/)  
+*Source : solutions-numeriques.com | Publication : 2026-06-08*
 
-- D'après les experts en technologie, il ne s'agit pas d'un ransomware au sens strict, car ce type de logiciel malveillant ne chiffre pas les données et ne prend pas le contrôle total de l'appareil.
-- Il exploite plutôt les autorisations d'accès accordées par l'utilisateur lors de l'installation pour prendre le contrôle de l'affichage à l'écran, donnant ainsi l'impression que le téléphone a été piraté.
-- Les distributeurs de logiciels malveillants se font souvent passer pour des fichiers d'installation Android au format .apk.
-- En cherchant des applications en ligne, les utilisateurs peuvent télécharger sans le savoir des fichiers provenant de sites web d'origine inconnue ou contrôlés par des pirates informatiques.
+- Parler de cybersécurité en France ne provoque plus vraiment de réaction, d'après Jeremy Marsalik, ingénieur avant-vente senior chez CoreView.
+
+## [AIX-EN-PROVENCE : <b>Cybersécurité</b> Santé - Le navigateur web, talon d'Achille des ...](https://presseagence.fr/aix-en-provence-cybersecurite-sante-le-navigateur-web-talon-dachille-des-systemes-hospitaliers/)  
+*Source : presseagence.fr | Publication : 2026-06-08*
+
+- des systèmes hospitaliers.
+- À l'approche des Rencontres SSI Santé à Aix-en-Provence, VirtualBrowser alerte sur les risques de cybersécurité santé.
