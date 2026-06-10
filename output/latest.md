@@ -1,147 +1,145 @@
-# Résumés – 2026-06-09
+# Résumés – 2026-06-10
 
 
-## [Whatsapp de nouveau en guerre contre NSO Group, l'entreprise israélienne spécialisée ...](https://www.bfmtv.com/tech/cybersecurite/whatsapp-de-nouveau-en-guerre-contre-nso-group-l-entreprise-israelienne-specialisee-dans-l-espionnage-est-accusee-d-avoir-tente-de-pirater-a-nouveau-des-utilisateurs-de-la-messagerie-de-meta_AV-202606080782.html)  
-*Source : bfmtv.com | Publication : 2026-06-08*
+## [Intelligence artificielle | Québec demande à Cohere de rendre la fonction publique plus efficace](https://www.lapresse.ca/affaires/techno/2026-06-09/intelligence-artificielle/quebec-demande-a-cohere-de-rendre-la-fonction-publique-plus-efficace.php)  
+*Source : lapresse.ca | Publication : 2026-06-09*
 
-- Whatsapp de nouveau en guerre contre NSO Group, l'entreprise israélienne spécialisée dans l’espionnage est accusée d'avoir tenté de pirater à nouveau des utilisateurs de la messagerie de Meta NSO Group ne semble pas avoir retenu la leçon.
-- Plus d'un an après sa condamnation pour avoir piraté des smartphones via Whatsapp, l'entreprise israélienne spécialisée dans l'espionnage a été prise la main dans le sac par la messagerie de Meta.
-- Après avoir reçu des signalements de la part d'utilisateurs, celle-ci assure avoir détecté et perturbé des tentatives de spear phishing liées à cette société.
-- Connue sous le nom de "hameçonnage ciblé" en français, cette technique consiste à entrer en contact avec un individu, un groupe ou une entreprise spécifique tout en se faisant passer pour un tiers de confiance, afin de l'inciter à divulguer des données sensibles ou encore à télécharger un logiciel malveillant.
+- Intelligence artificielle Québec demande à Cohere de rendre la fonction publique plus efficace C’est une première nationale : le gouvernement du Québec s’associe à l’entreprise d’IA canadienne Cohere pour trouver les moyens d’intégrer l’intelligence artificielle à la fonction publique afin de la rendre plus efficace et améliorer les services offerts aux contribuables.
+- L’entente de collaboration avec Québec est la première fois que Cohere s’entend avec un gouvernement provincial, mais elle reprend la formule adoptée à la fin de l’été 2025 par le gouvernement fédéral dans un partenariat similaire, également avec Cohere : l’entreprise torontoise participera à des rencontres et des ateliers avec différentes organisations qui composent l’administration publique provinciale.
+- Elle proposera ensuite des applications, un cadre et des limites dans lesquels l’intelligence artificielle peut aider ces organisations à être plus efficaces.
+- Québec n’engage pour le moment aucune somme d’argent dans cette collaboration.
 
-## [Débouchés &amp; métiers | MS <b>Cybersécurité</b> Industrielle | Mines Saint-Étienne](https://www.mines-stetienne.fr/programmes/manager-de-la-cybersecurite-industrielle-ms-mcsi/ms-mcsi-debouches)  
-*Source : mines-stetienne.fr | Publication : 2026-06-08*
+## [La société Anthropic rend publique son IA la plus puissante, bridée pour des raisons de sécurité](https://www.ouest-france.fr/high-tech/intelligence-artificielle/la-societe-anthropic-rend-publique-son-ia-la-plus-puissante-bridee-pour-des-raisons-de-securite-b9d4d188-6429-11f1-bb6e-df703f58b398)  
+*Source : ouest-france.fr | Publication : 2026-06-09*
 
-- Des experts au cœur de la sécurité et de la continuité des systèmes industriels Les cyberattaques ciblant les infrastructures critiques et les systèmes industriels (OT) explosent.
-- Les entreprises de production, les opérateurs de services essentiels (OSE), les industriels de l’énergie, du transport, de la santé ou de la défense sont confrontés à un besoin urgent de compétences en cybersécurité appliquée à l’industrie.
-- Le programme Mastère Spécialisé Manager de la Cybersécurité Industrielle forme des professionnels immédiatement opérationnels, capables de sécuriser les architectures industrielles, d’anticiper les menaces, d’organiser la réponse aux incidents et d’accompagner les organisations dans leur transformation numérique sécurisée.
-- Un marché en forte tension : des opportunités immédiates Les recrutements dans la cybersécurité OT/ICS sont en très forte croissance, notamment sous l’effet : des attaques majeures visant les chaînes de production, - de la montée des exigences réglementaires (NIS2, IEC 62443, OSE), - de l’industrie 4.0 (IoT, robotique, edge computing, jumeaux numériques), - des besoins de résilience des entreprises face aux risques cyber, - de la généralisation des audits OT et des plans de sécurisation.
+- cybersécurité et, fait nouveau, les risques d'attaque biologique ou chimique.
+- Baptisé Fable 5, ce modèle est le premier de la classe Mythos - la.
 
-## [<b>Cybersécurité</b>: Le Piège des Diplômes Sans Compétences #shorts - YouTube](https://www.youtube.com/watch?v=NefgVYgtK98)  
-*Source : youtube.com | Publication : 2026-06-08*
+## [<b>Cybersécurité</b> : Les secrets en libre accès de Medef International | Le Canard enchaîné](https://www.lecanardenchaine.fr/technologie-sciences/54082-les-secrets-en-libre-acces-de-medef-international)  
+*Source : lecanardenchaine.fr | Publication : 2026-06-09*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Par Lauriane Gaud Documents confidentiels, pièces d'identité… Pas besoin d'être un as de l'informatique pour accéder à des données sensibles du Medef International, très proche du syndicat patronal : il suffit de se promener sur Internet.
+- Alertée fin 2025, l'association n'a pourtant pas bronché, jusqu'à ce que le gendarme du numérique débarque.
+- C’est une grosse amende de la Commission nationale de l’informatique et des libertés (Cnil) que risque le Medef, et, surtout, une vilaine atteinte à sa réputation.
+- Sa faute ?.
 
-## [WISeKey, The Hashgraph Group et Hedera lancent une plateforme de <b>cybersécurité</b> quantique](https://www.zonebourse.com/actualite-bourse/wisekey-the-hashgraph-group-et-hedera-lancent-une-plateforme-de-cybersecurite-quantique-ce7f5dd2de88f420)  
-*Source : zonebourse.com | Publication : 2026-06-08*
+## [Anthropic rend publique son IA la plus puissante, Mythos, bridée pour la <b>cybersécurité</b> et les ...](https://www.liberation.fr/economie/anthropic-rend-publique-son-ia-la-plus-puissante-mythos-bridee-pour-la-cybersecurite-et-les-risques-biologiques-20260609_76YSTOTU25HBBL62GD4EXCNQGI/)  
+*Source : liberation.fr | Publication : 2026-06-09*
 
-- WISeKey, The Hashgraph Group et Hedera lancent une plateforme de cybersécurité quantique Publié le 08/06/2026 à 09:35 MT Newswires - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager Cet article est réservé aux membres Débloquer l'article : INSCRIVEZ-VOUS !.
-- Inscription 100% Gratuite Vous êtes déja client ?.
-- Se connecter © MT Newswires - 2026 Partager.
+- Anthropic rend publique son IA la plus puissante, Mythos, bridée pour la cybersécurité et les risques biologiques.
+- La start-up californienne.
 
-## [40 des 140 membres du personnel du Bureau de l'intelligence artificielle de la Commission ...](https://agenceurope.eu/index.php/fr/bulletin/article/13883/11)  
-*Source : agenceurope.eu | Publication : 2026-06-08*
+## [Anthropic rend publique son IA la plus puissante, bridée pour la <b>cybersécurité</b> et les risques ...](https://www.rfi.fr/fr/en-bref/20260609-anthropic-rend-publique-son-ia-la-plus-puissante-bridée-pour-la-cybersécurité-et-les-risques-biologiques)  
+*Source : rfi.fr | Publication : 2026-06-09*
 
-- Le Bureau européen de l’intelligence artificielle (AI Office) de la Commission européenne « emploie plus de 140 membres du personnel, dont plus de 40 au sein de son unité chargée de la sécurité de l’IA, la majorité d’entre eux disposant de profils techniques, notamment en cybersécurité », a confirmé la vice-présidente exécutive chargée de la Souveraineté technologique, Henna Virkkunen, dans une réponse parlementaire adressée à Piotr Müller (CRE, polonais) qui l'interrogeait sur le nombre de fonctionnaires travaillant sur les modèles avancés et le fait de savoir si l'UE avait la capacité technique de faire appliquer les règles dans ce domaine, après les révélations concernant le modèle Mythos de l’entreprise Anthropic (EUROPE 13862/4, 13863/5).
-- L’Agence de l’Union européenne pour la cybersécurité (ENISA), à laquelle Anthropic a proposé un accès à son modèle Mythos (EUROPE 13879/14), apporte également son soutien à la direction générale des réseaux de communication, du contenu et des technologies (DG CONNECT) et sa direction spécifiquement dédiée à la cybersécurité.
-- Une fois que les pleins pouvoirs d’exécution du Bureau de l’IA entreront en vigueur, en août 2026, « les demandes d’informations et, si nécessaire, l’accès aux modèles deviendront obligatoires », a rappelé Mme Virkkunen.
-- (Ana Pisonero Hernández).
+- Anthropic rend publique son IA la plus puissante, bridée pour la cybersécurité et les risques biologiques Publié le : 09/06/2026 - 19:05 Publicité La société américaine Anthropic, éditrice des modèles d'intelligence artificielle (IA) Claude, a mis mardi 9 juin à la disposition du grand public la version la plus puissante de sa technologie tout en la bridant dans des domaines sensibles comme la cybersécurité et les risques d'attaque biologique.
+- Baptisé Fable 5, ce modèle est le premier de la classe Mythos - la gamme la plus avancée d'Anthropic, dévoilée en avril mais restreinte pour des raisons de sécurité - à être ouvert au public.
+- En parallèle, Anthropic propose une version non bridée, Claude Mythos 5, aux entreprises, organisations et agences étatiques disposant déjà d'un accès à cette famille de modèles, présentée comme capable de détecter et exploiter des failles de sécurité à une vitesse et avec une acuité inédites.
+- Partager :.
 
-## [Congrès national des SI hospitaliers: demandez le programme! - APMnews](https://www.apmnews.com/freestory/10/437603/congres-national-des si-hospitaliers-demandez-le programme!)  
-*Source : apmnews.com | Publication : 2026-06-08*
+## [Comment la gouvernance des sociétés cotées tient-elle compte de l'intelligence artificielle ... - AMF](https://www.amf-france.org/fr/actualites-publications/actualites/comment-la-gouvernance-des-societes-cotees-tient-elle-compte-de-lintelligence-artificielle-la)  
+*Source : amf-france.org | Publication : 2026-06-09*
 
-- Garder la maîtrise du numérique hospitalier Les équipes au cœur de la transformation Des ateliers et retours d'expérience très concrets Testez APM NEWS et profitez de l'intégralité de nos dépêches 30 à 50 dépêches par jour sur les sujets du domaine de la santé Plus de 100 000 utilisateurs en France 30 journalistes experts en France et 3 bureaux en Europe.
+- Accueil - Actualités & publications - Actualités - Comment la gouvernance des sociétés cotées tient-elle compte de l’intelligence artificielle, la cybersécurité et la géopolitique ?.
+- C’est ce sur quoi l’AMF décide de se pencher en 2026 dans son rapport sur le gouvernement d’entreprise - Comment la gouvernance des sociétés cotées tient-elle compte de l’intelligence artificielle, la cybersécurité et la géopolitique ?.
+- C’est ce sur quoi l’AMF décide de se pencher en 2026 dans son rapport sur le gouvernement d’entreprise À l’occasion de son rapport sur le gouvernement d’entreprise et la rémunération des dirigeants, l’AMF réalisera une étude thématique sur la prise en compte, par les conseils d’administration et de surveillance, des risques liés à l’intelligence artificielle, à la cybersécurité et à la géopolitique.
+- L'Autorité des marchés financiers annonce que son prochain rapport annuel sur le gouvernement d'entreprise et la rémunération des dirigeants comprendra en 2026 une étude thématique consacrée à la manière dont les conseils d'administration et de surveillance appréhendent les risques émergents liés à l’intelligence artificielle (IA), à la cybersécurité et à la géopolitique.
 
-## [Cyber Europe 2026: Le Luxembourg se prépare à une crise de <b>cybersécurité</b> d'envergure](https://infos.rtl.lu/news/luxembourg/le-luxembourg-se-prepare-a-une-crise-de-cybersecurite-denvergure-1604814331)  
-*Source : infos.rtl.lu | Publication : 2026-06-08*
+## [Québec collabore avec Cohere pour intégrer l'IA dans la fonction publique | Radio-Canada](https://ici.radio-canada.ca/nouvelle/2260282/ia-cohere-quebec-gouvernement-entente)  
+*Source : ici.radio-canada.ca | Publication : 2026-06-09*
 
-- Cet événement, mené tous les deux ans depuis 2010, sert de laboratoire grandeur nature pour tester la réaction des États face à des attaques informatiques complexes touchant plusieurs pays.
-- Pour cette huitième édition, l’accent est mis sur le secteur du transport, et plus particulièrement sur les infrastructures ferroviaires et maritimes, considérées comme essentielles au fonctionnement du continent.
-- Au Luxembourg, l’exercice mobilise un large éventail d’acteurs : le HCPN et son équipe de réponse aux incidents, le ministère de la Mobilité, l’Administration des chemins de fer, les CFL, l’autorité de régulation ILR, le CIRCL ainsi que l’institut ILNAS.
-- Ensemble, ils devront détecter, analyser et gérer une cyberattaque majeure, conformément au Plan national de gestion de crise cyber et aux exigences européennes en matière de sécurité numérique.
+- Québec collabore avec Cohere pour intégrer l’IA dans la fonction publique La ministre France-Élaine Duranceau a conclu une entente « exploratoire » avec une compagnie d'ici, Cohere.
+- (Photo d'archives).
+- Photo : Radio-Canada / Sylvain Roy Roussel Le gouvernement Fréchette s'entend avec le fleuron canadien de l’intelligence artificielle (IA) Cohere, avec comme objectif de « rendre l’État plus efficace et améliorer les services offerts aux Québécoises et aux Québécois », selon le ministère de la Cybersécurité et du Numérique.
+- La signature du partenariat ne comprend aucun engagement financier ou contractuel de la part de Québec.
 
-## [Belleherbe. <b>Cybersécurité</b>, aisance, WhatsApp et Messenger : les ateliers du conseiller numérique](https://www.estrepublicain.fr/culture-loisirs/2026/06/08/cybersecurite-aisance-whatsapp-et-messenger-les-ateliers-du-conseiller-numerique)  
-*Source : estrepublicain.fr | Publication : 2026-06-08*
+## [Anthropic rend publique son IA la plus puissante, mais dans une version bridée pour les ... - BFM](https://www.bfmtv.com/tech/intelligence-artificielle/anthropic-rend-publique-son-ia-la-plus-puissante-mais-dans-une-version-bridee-pour-les-domaines-sensibles-comme-la-cybersecurite-et-les-risques-biologiques_AD-202606090806.html)  
+*Source : bfmtv.com | Publication : 2026-06-09*
 
-- Belleherbe Cybersécurité, aisance, WhatsApp et Messenger : les ateliers du conseiller numérique Voici le programme des ateliers du conseiller numérique en juin.
-- 10 juin à 10 h : « Je gagne en autonomie numérique, je résous... Connectez-vous ou créez un compte Pour pouvoir enregistrer un article, un compte est nécessaire.
-- Se connecter ou créer un compteL'Est Républicain, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de votre compte, ainsi que des abonnements et autres services souscrits.
-- Si vous y avez consenti, ces données peuvent également être utilisées pour l’envoi de newsletters et/ou d’offres promotionnelles par L'Est Républicain, les sociétés qui lui sont affiliées et/ou ses partenaires commerciaux.
+- Anthropic rend publique son IA la plus puissante, mais dans une version bridée pour les domaines sensibles comme la cybersécurité et les risques biologiques La société américaine Anthropic, éditrice des modèles d'intelligence artificielle (IA) Claude, a mis mardi à la disposition du grand public la version la plus puissante de sa technologie tout en la bridant dans des domaines sensibles comme la cybersécurité et les risques d'attaque biologique.
+- Baptisé Fable 5, ce modèle est le premier de la classe Mythos, la gamme la plus avancée d'Anthropic, dévoilée en avril mais restreinte pour des raisons de sécurité, à être ouvert au public.
+- En parallèle, Anthropic propose une version non bridée, Claude Mythos 5, aux entreprises, organisations et agences étatiques disposant déjà d'un accès à cette famille de modèles, présentée comme capable de détecter et exploiter des failles de sécurité à une vitesse et avec une acuité inédites.
+- Inquiétudes sur sa puissance Début avril, Anthropic avait annoncé simultanément l'existence de Mythos et sa décision d'en limiter l'accès à des partenaires de confiance pour renforcer leur protection cyber.
 
-## [WhatsApp attaque NSO pour violation d'injonction - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/whatsapp-attaque-nso-pour-violation-injonction-227550)  
-*Source : silicon.fr | Publication : 2026-06-08*
+## [<b>Cybersécurité</b> : qu'est-ce que Tchap, la messagerie de l'État piratée par un hackeur ?](https://www.la-croix.com/societe/cybersecurite-qu-est-ce-que-tchap-la-messagerie-de-letat-piratee-par-un-hackeur-20260609)  
+*Source : la-croix.com | Publication : 2026-06-09*
 
-- Meta dépose une demande d’outrage au tribunal fédéral contre NSO Group.
-- Le fabricant israélien du logiciel espion Pegasus aurait violé l’injonction permanente obtenue l’an dernier, qui lui interdisait de cibler WhatsApp et ses utilisateurs.
-- WhatsApp a repéré de nouvelles tentatives d’attaques liées à NSO après des signalements d’utilisateurs.
-- Ces tentatives visaient à pousser des cibles à cliquer sur des liens malveillants pour les rediriger vers des sites externes.
+- Souveraine, hébergée par le cloud du ministère de l’intérieur, exclusivement réservée aux agents de l’État français, ultra-sécurisée… Tout cela n’aura pas empêché la messagerie Tchap d’être victime d’une cyberattaque, a annoncé lundi 8 juin la Direction interministérielle du numérique (Dinum).
+- D’après le site spécialisé FrenchBreaches, un pirate aurait revendiqué l’attaque sur le dark Web, affirmant avoir extrait de l’application plus de 643 000 messages et les données de 73 000 agents publics.
+- Lancée en 2019 par la Dinum, l’application avait dû être progressivement téléchargée par l’ensemble des agents publics, sur demande du premier ministre François Bayrou.
+- Cela, « afin d’assurer la sécurité des conversations et des informations partagées », ainsi que la souveraineté numérique de la France.
 
-## [Tchap, la messagerie réservée aux agents de l'Etat, a été victime d'une &quot;intrusion maîtrisée&quot;](https://www.bfmtv.com/tech/cybersecurite/tchap-la-messagerie-reservee-aux-agents-de-l-etat-a-ete-victime-d-une-intrusion-maitrisee-les-donnees-de-plus-de-70-000-utilisateurs-et-jusqu-a-643-000-messages-auraient-ete-derobes_AV-202606080723.html)  
-*Source : bfmtv.com | Publication : 2026-06-08*
+## [#campuscyber #<b>cybersécurité</b> #ecosystème #france2030 | Campus Cyber - LinkedIn](https://fr.linkedin.com/posts/campuscyberfr_campuscyber-cybersécurité-ecosystème-activity-7470135152082493441-a8OB)  
+*Source : fr.linkedin.com | Publication : 2026-06-09*
 
-- Tchap, la messagerie réservée aux agents de l’Etat, a été victime d'une "intrusion maîtrisée": les données de plus de 70.000 utilisateurs et jusqu'à 643.000 messages auraient été dérobés Présentée comme une solution souveraine, développée en France, la messagerie Tchap, qui reprend l'idée de Slack ou de Discord, a été victime d'une cyberattaque.
-- La Direction interministérielle du numérique (la Dinum) a confirmé la nouvelle dans un communiqué, précisant que la compromission avait été rendue possible grâce à "l'usurpation d'un compte qui a été détectée et neutralisée".
-- Revendiquée par un pirate sur le dark web, la cyberattaque pourrait concerner les données de plus de 70.000 agents de l'Etat, et jusqu'à 643.000 messages, échangés au fil de trois ans de communications interministérielles, selon le site spécialisé French Breaches, qui répertorie les failles de sécurité.
-- Des échanges privés chiffrés La Dinum n'a pas confirmé ces données, mais explique néamoins que "des investigations ont immédiatement été menées par les équipes spécialisées" afin de confirmer la brèche et "définir un périmètre", tout en mettant en place "les mesures immédiates de protection à titre conservatoire".
+- 🎥 La Minute Campus Cyber | Portrait de Résident : ESILV - Ecole Supérieure d'Ingénieurs Léonard de Vinci Au Campus Cyber, nous donnons la parole à nos résidents.
+- Un format court, 1 minute, pour se présenter, partager leur expertise et leur vision de la cybersécurité.
+- Aujourd’hui, l'ESILV - Ecole Supérieure d'Ingénieurs Léonard de Vinci présente son activité, son positionnement et ses engagements au service de la filière.
+- « La cybersécurité évolue rapidement et en continu.
 
-## [Profil des candidats | Mastère Spécialisé <b>Cybersécurité</b> Industrielle | Mines Saint-Étienne](https://www.mines-stetienne.fr/programmes/manager-de-la-cybersecurite-industrielle-ms-mcsi/ms-mcsi-profil)  
-*Source : mines-stetienne.fr | Publication : 2026-06-08*
+## [Anthropic rend publique son IA la plus puissante... avec des limites pour la <b>cybersécurité</b> et ...](https://www.tvanouvelles.ca/2026/06/09/anthropic-rend-publique-son-ia-la-plus-puissante-avec-des-limites-pour-la-cybersecurite-et-les-risques-biologiques)  
+*Source : tvanouvelles.ca | Publication : 2026-06-09*
 
-- La cybersécurité industrielle est aujourd’hui l’un des domaines les plus sensibles et stratégiques de la transformation numérique.
-- La formation MS-MCSI forme des experts capables de sécuriser les systèmes industriels (OT), de prévenir les cyberattaques et de garantir la continuité d’activité dans des environnements critiques.
-- La formation s’adresse aux personnes souhaitant associer compétences techniques, culture industrielle et vision stratégique, afin de devenir des acteurs clés de la résilience des entreprises.
-- À qui s’adresse cette formation ?.
+- Anthropic rend publique son IA la plus puissante... avec des limites pour la cybersécurité et les risques biologiques.
+- Smartphone displaying Claude.
 
-## [« Être en état d'alerte maximale, en permanence » : face au fléau des arnaques, les ... - Challenges](https://www.challenges.fr/entreprise/banque-et-assurance/etre-en-etat-dalerte-maximale-en-permanence-face-au-fleau-des-arnaques-les-employes-de-banques-americaines-se-transforment-en-detectives_643984)  
-*Source : challenges.fr | Publication : 2026-06-08*
+## [Anthropic lance une version publique de Mythos dépourvue de fonctionnalités de <b>cybersécurité</b>](https://www.boursorama.com/bourse/actualites-amp/anthropic-lance-une-version-publique-de-mythos-depourvue-de-fonctionnalites-de-cybersecurite-23231a4ff0629c8e98bcc05bc062338f)  
+*Source : boursorama.com | Publication : 2026-06-09*
 
-- « Être en état d’alerte maximale, en permanence » : face au fléau des arnaques, les employés de banques américaines se transforment en détectives Aux Etats-Unis, 21 milliards de dollars ont été signalés aux autorités comme perdus à cause de la cybercriminalité l’année dernière.
-- Face à des escroqueries toujours plus répandues, les banques forment leur personnel à détecter des signaux d’alerte, allant jusqu’à s’inspirer des sciences du comportement.
-- Karen Battista et Angela Castaldo ont passé à elles deux 47 ans derrière le guichet d’une agence de la banque Chase à Scarsdale, une banlieue aisée de New York située juste au nord de Manhattan.
-- Elles savent quels clients viennent de rentrer de vacances, qui ont des enfants qui se sont récemment mariés ou qui vient de perdre son chien adoré.
+- Anthropic lance une version publique de Mythos dépourvue de fonctionnalités de cybersécurité information fournie par Reuters 09/06/2026 à 19:00 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) par Deepa Seetharaman et Zaheer Kachwala Anthropic lance une version publique de son modèle d'IA Mythos, mais avec des garde-fous interdisant son utilisation dans des domaines à risque tels que la cybersécurité, après qu'une préversion présentée plus tôt cette année ait fait sensation dans le monde entier grâce à sa capacité à détecter des failles logicielles.
+- Le nouveau Claude Fable 5 est le modèle le plus puissant qu'Anthropic ait jamais créé pour une utilisation à plus grande échelle, a déclaré mardi la start-up, vantant ses performances en matière d'ingénierie logicielle et d'analyse.
+- Anthropic a jusqu'à présent limité l'accès à ce modèle à un groupe d'environ 200 organisations, dont le gouvernement américain dans le cadre du programme Glasswing, après avoir annoncé en avril que Mythos avait mis au jour des milliers de vulnérabilités logicielles.
+- En proposant ses capacités à un public plus large, cette entreprise évaluée à 965 milliards de dollars pourrait prolonger la dynamique qui a propulsé sa valorisation au-dessus de celle de son concurrent OpenAI, alors que les deux start-ups au cœur de l'industrie de l'IA se précipitent pour entrer en bourse.
 
-## [SOPHIA-ANTIPOLIS : <b>Cybersécurité</b> - Le groupe Squad acquiert Løvell Consulting pour ...](https://presseagence.fr/sophia-antipolis-cybersecurite-le-groupe-squad-acquiert-lovell-consulting-pour-viser-le-leadership-europeen/)  
-*Source : presseagence.fr | Publication : 2026-06-08*
+## [Anthropic lance une version publique de Mythos dépourvue de fonctionnalités de <b>cybersécurité</b>](https://www.boursorama.com/bourse/actualites/anthropic-lance-une-version-publique-de-mythos-depourvue-de-fonctionnalites-de-cybersecurite-23231a4ff0629c8e98bcc05bc062338f)  
+*Source : boursorama.com | Publication : 2026-06-09*
 
-- En rachetant le cabinet Løvell Consulting, le spécialiste de la cybersécurité Squad complète son offre et affiche ses ambitions de leadership en.
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) par Deepa Seetharaman et Zaheer Kachwala Anthropic lance une version publique de son modèle d'IA Mythos, mais avec des garde-fous interdisant son utilisation dans des domaines à risque tels que la cybersécurité, après qu'une préversion présentée plus tôt cette année ait fait sensation dans le monde entier grâce à sa capacité à détecter des failles logicielles.
+- Le nouveau Claude Fable 5 est le modèle le plus puissant qu'Anthropic ait jamais créé pour une utilisation à plus grande échelle, a déclaré mardi la start-up, vantant ses performances en matière d'ingénierie logicielle et d'analyse.
+- Anthropic a jusqu'à présent limité l'accès à ce modèle à un groupe d'environ 200 organisations, dont le gouvernement américain dans le cadre du programme Glasswing, après avoir annoncé en avril que Mythos avait mis au jour des milliers de vulnérabilités logicielles.
+- En proposant ses capacités à un public plus large, cette entreprise évaluée à 965 milliards de dollars pourrait prolonger la dynamique qui a propulsé sa valorisation au-dessus de celle de son concurrent OpenAI, alors que les deux start-ups au cœur de l'industrie de l'IA se précipitent pour entrer en bourse.
 
-## [Encadrement du risque cyber : le chaud et le froid dans l'Union européenne - CMS.law](https://cms.law/fr/fra/legal-updates/Encadrement-du-risque-cyber-le-chaud-et-le-froid-dans-l-Union-europeenne)  
-*Source : cms.law | Publication : 2026-06-08*
+## [La croissance de la filière <b>cybersécurité</b> et sécurité numérique portée par les secteurs ... - AEF info](https://www.aefinfo.fr/depeche/752055-la-croissance-de-la-filiere-cybersecurite-et-securite-numerique-portee-par-les-secteurs-les-plus-critiques-acn)  
+*Source : aefinfo.fr | Publication : 2026-06-09*
 
-- Encadrement du risque cyber : le chaud et le froid dans l’Union européenne Auteurs Dans le cadre de son paquet Omnibus VII (aussi appelé « Omnibus numérique »)1, la Commission européenne a annoncé, le 19 novembre 2025, diverses mesures de simplification en lien avec la cybersécurité.
-- Alors que ce texte est encore loin d’être publié, l’exécutif européen a également présenté, le 20 janvier 20262, un « paquet cybersécurité », qui inclut quelques mesures de simplification, mais aussi de nouvelles obligations structurantes, notamment pour les entreprises soumises à la directive NIS II3.
-- Ces textes devraient évoluer sensiblement d’ici leur publication, mais un état des lieux est d’ores et déjà possible.
-- Il donne la mesure des vents contraires auxquels est exposée l’Union européenne, prise en étau entre un risque cyber toujours plus prégnant et la nécessité d’alléger la charge administrative des entreprises.
+- La Dinum confirme que Tchap, la messagerie instantanée de l'État, a été compromise, "à la suite d'une usurpation de compte", L'année "2025 a vu une compétition féroce entre assureurs cyber pour maintenir leurs parts de marché ou en acquérir", relève Philippe Cotelle, président de la commission cyber de l'Association pour l Voici, en bref, une sélection d'actualités récentes relatives aux technologies et services de sécurité : Dans une note publiée mercredi 6 mai 2026, le Campus cyber appelle à relativiser les performances du modèle américain d'IA "Claude Mythos".
+- Il alerte notamment sur l'objectivité des informations rela Sébastien Lecornu veut "fusionner Dinum et DITP</.
 
-## [<b>Cybersécurité</b> : Tchap, la messagerie des agents publics, victime d'une attaque - La Croix](https://www.la-croix.com/societe/cybersecurite-tchap-la-messagerie-des-agents-publics-victime-d-une-attaque-20260608)  
-*Source : la-croix.com | Publication : 2026-06-08*
+## [Atos étend son utilisation de Microsoft - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/logiciel/64946-atos-etend-son-utilisation-de-microsoft.html)  
+*Source : linformaticien.com | Publication : 2026-06-09*
 
-- Tchap, la messagerie instantanée chiffrée utilisée par les agents publics, a été victime d’un « incident de sécurité » avec une fuite de données qui a été « maîtrisée », a annoncé lundi 8 juin la Direction interministérielle du numérique (Dinum).
-- L’Agence nationale de la sécurité des systèmes d’information (Anssi) a détecté dimanche 7 juin « une compromission du service Tchap à la suite d’une usurpation de compte », a indiqué la Dinum dans un communiqué.
-- Elle a précisé que le compte à l’origine des requêtes malveillantes avait « été identifié » et « immédiatement bloqué afin de supprimer l’accès persistant de l’attaquant ».
-- « Même dans le cas d’une usurpation de compte, l’historique des conversations privées et chiffrées n’est pas accessible » et « les échanges susceptibles d’avoir été consultés se limitent donc au contenu des conversations publiques », a-t-elle expliqué.
+- Microsoft 365 Copilot sera disponible pour l'ensemble des 56 000 employés du Groupe, dans 54 pays, mettant l'IA agentique entre les mains de.
 
-## [Cybersécurité : 3 numéros offerts pour fêter les 10 ans des ... - Solutions Numériques](https://www.solutions-numeriques.com/solutions-numeriques-cybersecurite-3-numeros-offerts-pour-feter-les10-ans-des-trophees-de-la-transformation-numerique/)  
-*Source : solutions-numeriques.com | Publication : 2026-06-08*
+## [Stormshield complète sa gamme de pares-feux industriels avec le SNi50 - L'Informaticien](https://www.linformaticien.com/magazine/cybersecurite/64947-stormshield-complete-sa-gamme-de-pares-feux-industriels-avec-le-sni50.html)  
+*Source : linformaticien.com | Publication : 2026-06-09*
 
-- Offre exclusive : Recevez gratuitement nos 3 prochains magazines !.
-- Pour célébrer la sortie de notre nouveau numéro et les 10 ans des Trophées de l’Innovation, nous avons décidé de vous faire un cadeau.
-- Exceptionnellement, nous offrons à nos lecteurs l’opportunité de recevoir les trois prochains numéros de Solutions Numériques & Cybersécurité au format papier, 100 % gratuitement.
-- Pour recevoir nos décryptages stratégiques et nos retours d’expérience directement dans votre boîte aux lettres, complétez simplement le formulaire ci-dessous : Au sommaire de notre nouveau numéro spéciale Trophées de la Transformation Numérique (Sortie le 10 juin) Sous la pression de la souveraineté, de la multiplication des cybermenaces et de l’intelligence artificielle, le système d’information des entreprises ne tient plus : il déborde.
+- Le fournisseur de solutions de cybersécurité annonce le lancement de son nouveau pare-feu industriel SNi50, conçu pour étendre sa gamme existante.
 
-## [<b>Ransomware</b> : Ruag reconnaît avoir cédé au chantage d'Akira | LeMagIT](https://www.lemagit.fr/actualites/366643846/Ransomware-Ruag-reconnait-avoir-cede-au-chantage-dAkira)  
-*Source : lemagit.fr | Publication : 2026-06-08*
+## [Apple va automatiquement changer vos mots de passe en cas de piratage - 01net.com](https://www.01net.com/actualites/apple-automatiquement-changer-mots-passe-piratage.html)  
+*Source : 01net.com | Publication : 2026-06-09*
 
-- Ransomware : Ruag reconnaît avoir cédé au chantage d’Akira Le groupe d’armement helvète a versé une rançon au groupe Akira après une cyberattaque contre sa filiale américaine, défiant les recommandations fédérales suisses.
-- La filiale américaine Ruag LLC, située en Virginie, du groupe d’armement helvète a subi une cyberattaque orchestrée par le groupe Akira à l’automne 2025.
-- Les attaquants ont déployé une stratégie de double extorsion, comme à leur habitude : exfiltration de données sensibles et chiffrement des systèmes.
-- Le périmètre de la compromission inclut des données relatives au personnel, des contrats militaires et des protocoles de manipulation d’explosifs.
+- Dans le cadre de la conférence d’ouverture de la WWDC 2026, Apple a dévoilé une armée de nouveautés reposant sur l’intelligence artificielle générative.
+- Ces nouvelles fonctionnalités s’inscrivent évidemment dans l’évolution bienvenue de la suite Apple Intelligence.
+- Parmi les nouveautés phares d’Apple Intelligence, on trouve une nouvelle fonctionnalité de sécurité intégrée à l’application Mots de passe, ainsi qu’à Safari.
+- L’option permet à Apple de changer automatiquement un mot de passe qui a été compromis, sans que l’utilisateur soit obligé d’intervenir en personne.
 
-## [Maintenance des Rafale, <b>cybersécurité</b>, data scientists : le ministère des Armées recrute 4 ...](https://fr.finance.yahoo.com/actualites/maintenance-rafale-cybersécurité-data-scientists-153527499.html)  
-*Source : fr.finance.yahoo.com | Publication : 2026-06-08*
+## [Retard sur NIS 2 : La France risque une double peine entre sanctions européennes et perte ...](https://www.usine-digitale.fr/cybersecurite/retard-sur-nis-2-la-france-risque-une-double-peine-entre-sanctions-europeennes-et-perte-dinfluence-a-bruxelles-sur-les-sujets-cyber.5DII4Q6NTRHGNH5KGDDFEHXW4Q.html)  
+*Source : usine-digitale.fr | Publication : 2026-06-09*
 
-- Maintenance des Rafale, cybersécurité, data scientists : le ministère des Armées recrute 4 000 civils, quels sont les métiers concernés ?.
-- Le ministère des Armées accélère le recrutement de personnels civils.
-- Cette année, jusqu’à 4 000 postes sont à pourvoir dans des domaines très variés, allant de la maintenance aéronautique à la cybersécurité, en passant par la gestion de projets ou encore la data.
-- Des métiers techniques et hautement qualifiés, dans un secteur devenu stratégique pour la défense française.
+- Une situation embarrassante pour Paris qui plaide régulièrement pour un renforcement des règles de cybersécurité mais n'a toujours pas adopté le texte.
 
-## [AVIS D'EXPERT – Cyberattaques à répétition : le vrai problème français n'est plus le hack ...](https://www.solutions-numeriques.com/avis-dexpert-cyberattaques-a-repetition-le-vrai-probleme-francais-nest-plus-le-hack-mais-la-banalisation-du-risque/)  
-*Source : solutions-numeriques.com | Publication : 2026-06-08*
+## [L'ANSSI accompagne les organisateurs dans la <b>cybersécurité</b> du Sommet du G7 à Evian](https://cyber.gouv.fr/actualites/lanssi-accompagne-les-organisateurs-dans-la-cybersecurite-du-sommet-du-g7-a-evian/)  
+*Source : cyber.gouv.fr | Publication : 2026-06-09*
 
-- Parler de cybersécurité en France ne provoque plus vraiment de réaction, d'après Jeremy Marsalik, ingénieur avant-vente senior chez CoreView.
+- L’ANSSI accompagne les organisateurs dans la cybersécurité du Sommet du G7 à Evian Publié le mardi 9 juin 2026 Dans un contexte de fortes tensions géopolitiques mondiales, la présidence française du G7 en 2026 est exposée à de potentielles attaques informatiques.
+- L’Agence nationale de la sécurité des systèmes d’information (ANSSI) apporte donc son soutien aux organisateurs pour la cybersécurité de l’écosystème associé au Sommet des chefs d’Etat et de gouvernement organisé à Evian du lundi 15 au mercredi 17 juin 2026.
+- L’Agence tient également à rappeler les mesures de prévention et de protection à l’ensemble des parties prenantes au Sommet pour se prémunir contre les cybermenaces.
+- La présidence française du G7 en 2026, et particulièrement le Sommet des chefs d’État et de gouvernement à Evian, représentent une opportunité qui pourrait être exploitée par différents types d’attaquants, aux niveaux de technicité variés.
 
-## [AIX-EN-PROVENCE : <b>Cybersécurité</b> Santé - Le navigateur web, talon d'Achille des ...](https://presseagence.fr/aix-en-provence-cybersecurite-sante-le-navigateur-web-talon-dachille-des-systemes-hospitaliers/)  
-*Source : presseagence.fr | Publication : 2026-06-08*
+## [Confiance numérique et IA : comment garantir une gouvernance sécurisée des données](https://www.archimag.com/demat-cloud/2026/06/09/confiance-numerique-ia-garantir-gouvernance-securisee-donnees)  
+*Source : archimag.com | Publication : 2026-06-09*
 
-- des systèmes hospitaliers.
-- À l'approche des Rencontres SSI Santé à Aix-en-Provence, VirtualBrowser alerte sur les risques de cybersécurité santé.
+- L’intégration croissante de l’IA dans les programmes de gouvernance de l’information ouvre de nouvelles perspectives, mais expose également les organisations à des risques accrus.
+- Désormais intégrée au cœur de nombreux processus métiers, cette technologie s’accompagne d’une professionnalisation des cyberattaques, elles-mêmes renforcées par l’automatisation et les capacités de l’intelligence artificielle.
+- Résultat : 80 % des professionnels placent la perte de données au premier rang de leurs préoccupations, tandis que 57 % des organisations constatent une augmentation des risques cyber et des négligences humaines.
+- Face à ces enjeux, la demi-journée Archimag dédiée à la gouvernance de l’information, organisée le 11 juin, y consacrera une conférence de 11h à 11h30.
