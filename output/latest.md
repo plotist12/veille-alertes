@@ -1,155 +1,146 @@
-# Résumés – 2026-06-11
+# Résumés – 2026-06-12
 
 
-## [Pour le Conseil de l'UE, le mécanisme d'exclusion des fournisseurs à haut risque dans les ...](https://agenceurope.eu/fr/bulletin/article/13885/8/pour-le-conseil-de-lue-le-mecanisme-dexclusion-des-fournisseurs-a-haut-risque-dans-les-chaines-dapprovisionnement-des-tic-demeure-controverse)  
-*Source : agenceurope.eu | Publication : 2026-06-10*
+## [Un cyberexercice à l'échelle de l'UE teste la réaction aux attaques contre les réseaux ...](https://digital-strategy.ec.europa.eu/fr/news/eu-wide-cyber-exercise-tests-response-attacks-rail-and-maritime-networks)  
+*Source : digital-strategy.ec.europa.eu | Publication : 2026-06-11*
 
-- Le cadre européen visant à identifier les actifs stratégiques et les fournisseurs à haut risque dans les chaînes d’approvisionnement des technologies de l’information et de la communication (TIC), proposé par la Commission européenne dans le cadre du Cybersecurity Act 2 (EUROPE 13790/1), demeure le point le plus sensible et controversé du dossier et nécessitera de nouvelles discussions, ont souligné plusieurs ministres européens des Télécommunications lors du débat consacré au texte, mardi 9 juin.
-- Si les États membres soutiennent largement l’objectif général consistant à renforcer le mandat de l’Agence de l’Union européenne pour la cybersécurité (ENISA), plusieurs d’entre eux, notamment la Hongrie, la Finlande et l’Estonie, ont insisté sur le fait que celle-ci devrait avant tout se concentrer sur le soutien aux États membres, compte tenu de leurs prérogatives nationales en matière de sécurité.
-- Au cours du débat, l’Espagne a clairement indiqué que les États membres « doivent jouer un rôle dans la définition » des risques liés aux chaînes d’approvisionnement.
-- La France, pour sa part, a insisté sur la nécessité de protéger ces chaînes d’approvisionnement « de manière proportionnée », en évaluant ensemble les « risques techniques et non techniques ».
+- Cyber Europe 2026 a également été le premier test à l’échelle de l’UE du plan d’action de l’UE en matière de cybersécurité pour 2025, qui clarifie les rôles et les responsabilités en cas de crise.
+- Organisé par l'Agence de l'UE pour la cybersécurité (ENISA), l'exercice a simulé une cyberattaque sur les réseaux ferroviaires et maritimes européens.
+- Le scénario a provoqué de graves perturbations opérationnelles et s'est transformé en une crise de cybersécurité à part entière.
+- Parmi les participants figuraient des spécialistes de la cybersécurité des secteurs public et privé, des décideurs politiques, des institutions de l’UE, des entreprises et des pays partenaires (Royaume-Uni, Norvège, Suisse et Ukraine).
 
-## [&quot;Vallée de l'IA&quot;: comment la région Hauts-de-France séduit les investisseurs](https://fr.finance.yahoo.com/actualites/vallée-lia-région-hauts-france-074535954.html)  
-*Source : fr.finance.yahoo.com | Publication : 2026-06-10*
+## [Cyberattaques : sept personnes interpellées, soupçonnées d'avoir volé plusieurs dizaines ...](https://www.ouest-france.fr/societe/cyberattaque/cyberattaques-sept-personnes-interpellees-soupconnees-davoir-vole-plusieurs-dizaines-de-millions-de-donnees-75bb794c-65ab-11f1-a46d-81598b89efb2)  
+*Source : ouest-france.fr | Publication : 2026-06-11*
 
-- Dans la région Hauts-de-France, des projets de centres de données se multiplient, avec des investissements colossaux qui pourraient en faire une "vallée de l'IA", grâce à des atouts géographiques et une méthode déjà éprouvée pour sa "vallée de la batterie".
-- Quarante-cinq milliards d'euros ont été promis par le japonais SoftBank Group pour construire trois centres de données d'une puissance de calcul inédite d'un gigawatt chacun dans la région d'ici 2031.
-- A elle seule, cette annonce représente près de la moitié de la moisson nationale d'investissements étrangers lors du dernier sommet Choose France début juin.
-- D'autres investisseurs se profilent: l'opérateur européen Data4, appartenant au canadien Brookfield, prévoit jusqu'à 30 milliards d'euros pour construire deux autres méga-centres de données dans le Nord.
+- Jeudi 11 juin, l'Office anti- cybercriminalité a annoncé avoir interpellé sept personnes dans le démantèlement d'un groupe spécialisé dans l'extraction.
 
-## [Une cyberattaque cible 5 500 agents de Rennes métropole : les données de l'annuaire ...](https://www.ouest-france.fr/societe/cyberattaque/une-cyberattaque-cible-5-500-agents-de-rennes-metropole-les-donnees-de-lannuaire-interne-volees-cc0f862c-64dd-11f1-a46d-81598b89efb2)  
-*Source : ouest-france.fr | Publication : 2026-06-10*
+## [Voici pourquoi il faut redémarrer son téléphone cellulaire au moins une fois par semaine](https://www.tvanouvelles.ca/2026/06/11/voici-pourquoi-il-faut-redemarrer-son-telephone-cellulaire-au-moins-une-fois-par-semaine)  
+*Source : tvanouvelles.ca | Publication : 2026-06-11*
 
-- cybercriminalité ….
-- Selon lui les données proviendraient de plusieurs exports internes de Rennes métropole.
-- CYBERALERT BRETAGNE | Les.
+- Si ce n'est pas le cas, un expert en cybersécurité vous recommande fortement de le faire pour des raisons de sécurité.
+- • À lire aussi : Comment.
 
-## [Avec Claude Fable 5 et Mythos 5, Anthropic inaugure l'ère des modèles d'IA sous autorisation](https://www.usine-digitale.fr/intelligence-artificielle/anthropic/avec-claude-fable-5-et-mythos-5-anthropic-inaugure-lere-des-modeles-dia-sous-autorisation.6JMICVDM6VA67KMGOSULEXTICI.html)  
-*Source : usine-digitale.fr | Publication : 2026-06-10*
+## [Piratage de la messagerie Tchap : le Parquet de Paris ouvre une enquête - 01net.com](https://www.01net.com/actualites/piratage-messagerie-tchap-le-parquet-de-paris-ouvre-une-enquete.html)  
+*Source : 01net.com | Publication : 2026-06-11*
 
-- cybersécurité et bientôt de la recherche biomédicale.
-- Derrière cette ... cybersécurité et bientôt de la recherche biomédicale.
-- Derrière cette.
+- Suite à la compromission de la plateforme ultra sécurisée Tchap, le Parquet de Paris a annoncé l’ouverture d’une enquête.
+- L’Office anti-cybercriminalité (OFAC) a été saisi dans le cadre de soupçons d’atteintes à un système automatisé de données, de détention et de transmission frauduleuses de données contenues « dans un système de traitement automatisé de données à caractère personnel mis en œuvre par l’État ».
+- La messagerie ultra sécurisée Tchap victime d’une attaque Ce 7 juin, la messagerie Tchap a été victime d’une attaque.
+- Pour rappel, il s’agit d’une plateforme ultra sécurisée utilisée par les administrations françaises.
 
-## [Japon : Fujitsu s'allie à Anthropic pour accélérer ses services d'IA et de <b>cybersécurité</b>](https://www.teamfrance-export.fr/infos-sectorielles/41109/41109-japon-fujitsu-sallie-a-anthropic-pour-accelerer-ses-services-dia-et-de-cybersecurite)  
-*Source : teamfrance-export.fr | Publication : 2026-06-10*
+## [Le profil de la 5ème étape du Tour de Suisse 2026 - Cyclisme - Orange Sport](https://sports.orange.fr/videos/cyclisme/le-profil-de-la-5eme-etape-du-tour-de-suisse-2026-cyclisme-tour-de-suisse-CNT000002pUpNU.html)  
+*Source : sports.orange.fr | Publication : 2026-06-11*
 
-- Date de publication : Je souhaite aller plus loin, je veux être contacté(e) par un expert gratuitement.
-- Être contactéFujitsu a annoncé un partenariat avec la start-up américaine Anthropic afin de proposer des services d’intelligence artificielle plus avancés à ses clients professionnels.
-- L’objectif est de combiner la technologie d’Anthropic, notamment son outil d’IA générative Claude, avec le savoir-faire de Fujitsu dans la conception de solutions adaptées aux besoins des entreprises.
-- Cette coopération doit permettre de réduire les délais de développement et d’améliorer l’efficacité des projets, notamment grâce à l’utilisation de ces outils par l’ensemble des effectifs du groupe, soit environ 100 000 personnes.
+- Vidéo suivante dans 5 secondes Le profil de la 5ème étape du Tour de Suisse 2026 - Cyclisme - Tour de Suisse par L'Équipe info - Découvrez le profil de la 5ème étape du Tour de Suisse.
+- vidéos similaires lecture autoOUINON par L'Équipe Découvrez le profil de la 5ème étape du Tour de Suisse.
 
-## [Coupe du monde de football : près de &quot;20 000 faux sites de vente de billets&quot; ont été ... - franceinfo](https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-de-football-pres-de-20-000-faux-sites-de-vente-de-billets-ont-ete-crees-selon-un-expert-en-cybersecurite_8053451.html)  
-*Source : franceinfo.fr | Publication : 2026-06-10*
-
-- Coupe du monde de football : près de "20 000 faux sites de vente de billets" ont été créés, selon un expert en cybersécurité Les sites de vente de faux billets pour la Coupe du monde de football aux Etats-Unis se multiplient ces dernières semaines, avec le même mode de fonctionnement que pour les JO de Paris 2024.
-- Alors que le coup d'envoi de la Coupe du monde de football sera donné jeudi 11 juin, l'entreprise Eset, spécialisée dans l'analyse de la cybercriminalité observe une multiplication des faux sites de billets qui imitent celui de la Fifa.
-- Ce type de fraude avait déjà été observé lors de précédents évènements sportifs de grande ampleur comme la Coupe du monde de football de 2022 au Qatar ou lors des Jeux olympiques de Paris, en 2024.
-- "La méthode ne change pas, observe Benoît Grunemwald, expert en cybersécurité chez Eset.
-
-## [Anthropic lance une version bridée de son puissant modèle Mythos - Courrier international](https://www.courrierinternational.com/article/intelligence-artificielle-anthropic-lance-une-version-bridee-de-son-puissant-modele-mythos_245051)  
-*Source : courrierinternational.com | Publication : 2026-06-10*
-
-- “Anthropic met pour la première fois à la disposition du grand public son modèle d’IA le plus puissant, mais il a prévu des garde-fous”, commence TechCrunch, site d’information spécialisé dans le numérique, les nouvelles technologies et l’actualité des start-up.
-- Le mardi 9 juin, l’entreprise de Dario et Daniela Amodei a lancé Claude Fable 5, le premier modèle accessible de la classe Mythos, la plus avancée d’Anthropic.
-- Présenté en avril, Mythos était initialement limité à une poignée de partenaires en raison de problèmes liés à la cybersécurité qu’il ferait encourir.
-- Les garde-fous prévus pour sa version “bridée” sont censés empêcher Fable 5 de donner des détails sur la façon de mener une cyberattaque ou de créer une arme biologique, par exemple.
-
-## [Mali: RSF dénonce des «arrestations arbitraires» et l'«instrumentalisation» de la loi sur la ...](https://www.rfi.fr/fr/afrique/20260610-mali-rsf-dénonce-des-arrestations-arbitraires-et-l-instrumentalisation-de-la-loi-sur-la-cybercriminalité)  
-*Source : rfi.fr | Publication : 2026-06-10*
-
-- Mali: RSF dénonce des «arrestations arbitraires» et l'«instrumentalisation» de la loi sur la cybercriminalité Au Mali, après le placement sous mandat de dépôt des journalistes Chahana Takiou, lundi 8, et Abdrahamane Keita, mardi 9 juin, l'association Reporters sans frontières dénonce des « arrestations arbitraires ».
-- Publié le : Chahana Takiou, le directeur du journal 22 Septembre, avait critiqué lors d'un forum sur les médias le non-respect du droit de la presse par la justice malienne.
-- Abdrahamane Keita, le directeur du journal Le Témoin, avait déploré lors d'un débat télévisé que Kidal soit actuellement administrée par le Jnim – le groupe jihadiste, lié à al-Qaïda –, et les indépendantistes du FLA contrôlent effectivement Kidal depuis le 25 avril.
-- L'armée et les représentants de l'État malien ne sont plus présents à Kidal depuis cette date.
-
-## [Anthropic dévoile Claude Fable 5, premier modèle public de la classe Mythos - BDM](https://www.blogdumoderateur.com/anthropic-devoile-claude-fable-5-premier-modele-public-classe-mythos/)  
-*Source : blogdumoderateur.com | Publication : 2026-06-10*
-
-- Anthropic dévoile Claude Fable 5, premier modèle public de la classe Mythos Avec Claude Fable 5, Anthropic rend public pour la première fois un modèle de classe Mythos, encadré par de nouveaux garde-fous qui réorientent les requêtes sensibles vers Opus 4.8.
-- Anthropic franchit une nouvelle étape dans la diffusion de ses modèles les plus avancés.
-- La firme a lancé, mardi 9 juin 2026, Claude Fable 5, première déclinaison accessible à tous d’un modèle de classe Mythos, une catégorie qu’elle place au-dessus de ses modèles Opus.
-- Présenté comme son modèle le plus puissant à ce jour, il arrive encadré par de nouveaux garde-fous qui réorientent les requêtes sensibles vers Claude Opus 4.8.
-
-## [La tech et la <b>cybersécurité</b> touchées par l'initiative «Pas de Suisse à 10 millions» | Agefi.com](https://agefi.com/actualites/opinions/la-tech-et-la-cybersecurite-touchees-par-linitiative-pas-de-suisse-a-10-millions)  
-*Source : agefi.com | Publication : 2026-06-10*
-
-- L’initiative «Pas de Suisse à 10 millions» vise la dénonciation de la libre circulation des personnes et met en danger l’ensemble de la voie bilatérale avec l’Union européenne (UE).
-- Notre écosystème en serait profondément bouleversé.
-- Le recrutement de talents qualifiés deviendrait encore plus difficile pour les entreprises, et pas seulement dans les domaines de la santé, de la construction ou de l’hôtellerie.
-- Les secteurs de la tech et de la cybersécurité en subiraient un impact de plein fouet.
-
-## [« A part le scam, ici, il n'y a rien d'autre à faire » : Jamtara, la capitale indienne de l'arnaque ...](https://www.lesechos.fr/weekend/business-story/a-part-le-scam-ici-il-ny-a-rien-dautre-a-faire-jamtara-la-capitale-indienne-de-larnaque-en-ligne-2235963)  
-*Source : lesechos.fr | Publication : 2026-06-10*
-
-- cybercriminalité en Inde.
-- (Photo Collage Alexia Mayoux pour « Les Echos » / Photos Shutterstock et iStock).
-- Par Clément Perruche.
-- Publié le 10 juin.
-
-## [Les meilleures valeurs de <b>cybersécurité</b> à l'ère de l'IA, selon Truist - Investing.com](https://fr.investing.com/news/stock-market-news/les-meilleures-valeurs-de-cybersecurite-a-lere-de-lia-selon-truist-93CH-3455747)  
-*Source : fr.investing.com | Publication : 2026-06-10*
-
-- Investing.com -- Les plateformes de sécurité natives à l'IA redéfinissent le paysage de la cybersécurité en permettant une détection des menaces.
-
-## [<b>Cybersécurité</b> : après le bonnet d'âne européen, la France risque une amende - Les Echos](https://www.lesechos.fr/tech-medias/hightech/cybersecurite-apres-le-bonnet-dane-europeen-la-france-risque-une-amende-2236153)  
-*Source : lesechos.fr | Publication : 2026-06-10*
-
-- Paris serait-il en train de devenir la lanterne rouge de l'Union européenne en matière de cybersécurité ?.
-- Alors que la France figure déjà parmi.
-
-## [Anthropic met entre toutes les mains un modèle qu'elle jugeait trop dangereux à publier il y ...](https://korben.info/anthropic-met-entre-toutes-les-mains-un-modele-quelle-jugeait-trop-dangereux-a-publier-il-y-a-deux-mois.html)  
-*Source : korben.info | Publication : 2026-06-10*
-
-- Anthropic met entre toutes les mains un modèle qu'elle jugeait trop dangereux à publier il y a deux mois Ce qu’il faut retenir Anthropic publie Claude Fable 5, le modèle Mythos qu'elle jugeait trop dangereux il y a deux mois, désormais limité par trois classifieurs qui redirigent les requêtes sensibles en cybersécurité, biologie ou chimie vers Claude Opus 4.8.
-- - Fable 5 dépasse Opus 4.8 et se place devant GPT-5.5 et Gemini 3.1 Pro selon les tests internes d'Anthropic, mais toutes les conversations sont conservées 30 jours malgré les accords de rétention zéro signés avec certaines entreprises.
-- - Le modèle est gratuit jusqu'au 22 juin pour les abonnés Pro, Max, Team et Enterprise, puis facturé 10 dollars par million de mots en entrée et 50 dollars en sortie, soit le double du tarif d'Opus 4.8.
-- - Résumé généré par IA Voilà autre chose dites donc.
-
-## [Naviguez, gérez vos comptes et faites vos achats en toute sérénité avec cette suite de ... - Clubic](https://www.clubic.com/bons-plans-615646-naviguez-gerez-vos-comptes-et-faites-vos-achats-en-toute-serenite-avec-cette-suite-de-cybersecurite-dediee.html)  
-*Source : clubic.com | Publication : 2026-06-10*
-
-- Renforcer sa cybersécurité est un objectif clé pour 2026, et la bonne nouvelle, c’est qu’une solution de cybersécurité adaptée vous permet de protéger vos appareils connectés du quotidien.
-- Avec plusieurs décennies d’expérience dans le domaine de la cybersécurité, Norton vous aide à accroître votre sérénité lorsque vous naviguez en ligne.
-- Avec sa suite Norton 360 Deluxe, vous obtenez des fonctionnalités adaptées à vos appareils du quotidien, que ce soit votre ordinateur, sous macOS, comme Windows, votre smartphone sous Android ou iOS, comme votre tablette.
-- Les points forts de Norton 360 Deluxe : Jusqu’à 5 appareils simultanément connectés - Protection face aux arnaques par IA avec Safe Web - Cyberconfidentialité renforcée grâce à Norton VPN - Norton vous aide concrètement à gagner en cybersécurité Une solution adaptée pour 5 de vos appareils connectés simultanément Facilitez-vous la vie, au quotidien, avec une suite de cybersécurité centralisée pour 5 de vos appareils connectés.
-
-## [La messagerie française Tchap visée par une cyberattaque, une enquête ouverte](https://www.lemonde.fr/pixels/article/2026/06/10/la-messagerie-francaise-tchap-visee-par-une-cyberattaque-une-enquete-ouverte_6700451_4408996.html)  
-*Source : lemonde.fr | Publication : 2026-06-10*
+## [<b>Cybersécurité</b> : Orange et Crédit agricole en discussions pour avoir accès à Mythos, le ... - Le Monde](https://www.lemonde.fr/economie/article/2026/06/11/cybersecurite-orange-et-credit-agricole-en-discussions-pour-avoir-acces-a-mythos-le-modele-d-ia-d-anthropic_6700795_3234.html)  
+*Source : lemonde.fr | Publication : 2026-06-11*
 
 - JavaScript is disabled in your browser.
 - Please enable JavaScript to proceed.
 - A required part of this site couldn’t load.
 - This may be due to a browser extension, network issues, or browser settings.
 
-## [Guinée • Mamadi Doumbouya s'entoure de discrets prestataires de <b>cybersécurité</b>](https://www.africaintelligence.fr/afrique-ouest/2026/06/10/mamadi-doumbouya-s-entoure-de-discrets-prestataires-de-cybersecurite,110785129-eve)  
-*Source : africaintelligence.fr | Publication : 2026-06-10*
+## [Éducation nationale, Leroy Merlin... Un groupe cybercriminel arrêté, suspecté d'avoir volé ...](https://actu.orange.fr/societe/fait-divers/education-nationale-leroy-merlin-un-groupe-cybercriminel-arrete-suspecte-d-avoir-vole-les-donnees-de-millions-de-francais-magic-CNT000002pUDzE.html)  
+*Source : actu.orange.fr | Publication : 2026-06-11*
 
-- La nouvelle garde Côte d'Ivoire, Cameroun, Kenya Chaque mercredi, Africa Intelligence lève le voile sur les décideurs politiques et économiques de demain.
-- Chaque mercredi, Africa Intelligence lève le voile sur les décideurs politiques et économiques de demain.
-- Dans l'optique de financer son plan de développement Simandou 2040, le pays ambitionne de lever des fonds sur les marchés internationaux.
-- La banque d'affaires qui l'accompagnera dans ce processus devrait être désignée dans les prochaines semaines.
+- Éducation nationale, Leroy Merlin.
+- Un groupe cybercriminel arrêté, suspecté d'avoir volé les données de millions de Français © Unsplash - Edouard Geffray Sept personnes soupçonnées d'être membres du groupe de cyberpirates Dumpsec ont été arrêtées, a annoncé jeudi 11 juin, l'Office anti-cybercriminalité (OFAC).
+- Le groupe est soupçonné d'avoir volé les données de dizaines de millions de Français.
+- Nouveau coup de filet contre le monde de la cybercriminalité.
 
-## [IA et <b>cybersécurité</b> : le mur du temps](https://www.journaldunet.com/cybersecurite/1550943-ia-et-cybersecurite-le-mur-du-temps/)  
-*Source : journaldunet.com | Publication : 2026-06-10*
+## [UE <b>Cybersécurité</b> : les États membres veulent le soutien de l'UE - Contexte](https://www.contexte.com/fr/actualite/tech/cybersecurite-les-etats-membres-veulent-le-soutien-de-lue_68869)  
+*Source : contexte.com | Publication : 2026-06-11*
 
-- IA et cybersécurité : le mur du temps Pour la première fois, la vitesse d'exécution des systèmes dépasse durablement celle des processus de décision humains.
-- Cette rupture remodèle en profondeur les pratiques de cybersécurité.
-- Pendant longtemps, la cybersécurité a été pensée uniquement en termes d’espace : protéger des périmètres, sécuriser des infrastructures, contrôler des accès.
-- Cette époque est révolue.
+- briefingtech Cybersécurité.
+- Cybersécurité : les États membres veulent le soutien de l’UE Les capitales comptent sur.
 
-## [Finances sociales – <b>Cybersécurité</b> – Intelligence artificielle - Acteurs Publics](https://acteurspublics.fr/articles/finances-sociales-cybersecurite-intelligence-artificielle/)  
-*Source : acteurspublics.fr | Publication : 2026-06-10*
+## [CTI : l'accélération de l'analyse technique par les modèles de langage | LeMagIT](https://www.lemagit.fr/etude/CTI-lacceleration-de-lanalyse-technique-par-les-modeles-de-langage)  
+*Source : lemagit.fr | Publication : 2026-06-11*
 
-- Le député Liot Stéphane Viry a déposé une proposition de résolution pour inciter le gouvernement à engager une concertation sur la mise en place d’une programmation pluriannuelle des finances sociales.
-- Dans un contexte de déséquilibre constant des comptes de la Sécurité sociale et devant l’ampleur des défis attendus face au vieillissement de la population, le député alerte sur le caractère obsolète du modèle.
-- “Notre système continue d’être gouverné au moyen d’un outil devenu largement inadapté : un projet de loi de financement de la Sécurité sociale annuel”, regrette-t-il.
-- La proposition de résolution enjoint l’exécutif d’appliquer 4 mesures : la mise en place d’une programmation pluriannuelle des finances sociales, celle d’un comité de pilotage chargé d’élaborer des propositions, la présentation au Parlement des conclusions de ces travaux ainsi que les suites qu’il entend y donner et le renforcement, “à court terme”, de la portée des trajectoires pluriannuelles existantes dans les lois de financement de la Sécurité sociale – La Commission européenne s’apprête à poursuivre la France en justice.
+- ipopba - stock.adobe.com CTI : l’accélération de l’analyse technique par les modèles de langage L’intégration des modèles de langage dans l’analyse CTI accélère le traitement des données massives et transforme la production de rapports techniques.
+- Intrinsec vient de partager son expérience.
+- L’intégration des modèles de langage (LLM) dans les processus de renseignement sur les menaces, ou Cyber Threat Intelligence (CTI), modifie la structure de la production analytique.
+- L’usage de l’IA ne remplace pas l’investigation mais agit comme un multiplicateur de capacité d’exécution.
 
-## [<b>Cybersécurité</b> 2026 : les hackers n'ont plus besoin de pirater votre entreprise, ils s'y connectent](https://www.journaldunet.com/cybersecurite/1551041-cybersecurite-2026-les-hackers-n-ont-plus-besoin-de-pirater-votre-entreprise-ils-s-y-connectent/)  
-*Source : journaldunet.com | Publication : 2026-06-10*
+## [Lutte contre les ingérences numériques : &quot;La France est dans le top 3 européen&quot;](https://www.france24.com/fr/france/20260611-lutte-contre-ingérences-numériques-france-top-3-européen-présidentielle-lecornu)  
+*Source : france24.com | Publication : 2026-06-11*
 
-- Cybersécurité 2026 : les hackers n'ont plus besoin de pirater votre entreprise, ils s'y connectent En 2026, les cyberattaques ne forcent plus seulement les systèmes : elles utilisent des identités valides, des tokens, des comptes SaaS et des accès fournisseurs.
-- Le hacker de 2026 ne casse plus la porte de l’entreprise : il se connecte avec les bons identifiants.
-- La cyberattaque moderne ne ressemble plus au cliché du pirate qui force un pare-feu dans une cave sombre.
-- En 2026, l’attaque la plus dangereuse est souvent propre, silencieuse, authentifiée.
+- Lutte contre les ingérences numériques : "La France est dans le top 3 européen" Le Premier ministre Sébastien Lecornu a réuni jeudi les formations politiques pour aborder la question des ingérences électorales.
+- À l’approche de la présidentielle, les autorités françaises redoutent des tentatives de manipulation numérique venues de l’étranger, dont l'efficacité est décuplée par les progrès de l'intelligence artificielle.
+- Entretien avec Benoît Grünemwald, expert en cybersécurité à Eset.
+- Publié le : Les autorités françaises sur le qui-vive un an avant la tenue de l'élection présidentielle.
+
+## [NIS 2 : Bruxelles hausse le ton contre la France - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/nis-2-bruxelles-hausse-le-ton-contre-la-france-227630/amp)  
+*Source : silicon.fr | Publication : 2026-06-11*
+
+- C’est un de ces retards bureaucratiques dont Paris a le secret, mais qui commence à coûter très cher en crédibilité et, bientôt, en dizaines de millions d’euros.
+- Selon Politico, la Commission européenne durcit progressivement le ton contre la France, toujours hors-jeu sur la transposition de la directive de cybersécurité NIS 2.
+- L’affaire a pris une dimension particulièrement sensible à Bruxelles depuis que la Commission a multiplié les avertissements officiels.
+- L’échéance initiale de transposition était pourtant fixée au 17 octobre 2024.
+
+## [Cyberattaques : sept personnes interpellées, soupçonnées d'avoir volé plusieurs dizaines ...](https://www.lemonde.fr/pixels/article/2026/06/11/cyberattaques-sept-personnes-interpellees-soupconnees-d-avoir-vole-plusieurs-dizaines-de-millions-de-donnees-sensibles_6700775_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-06-11*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [Fuite de données chez DISCOLABINDU, une cyberattaque <b>ransomware</b> signalée - FrenchBreaches](https://frenchbreaches.com/r/KHYLH3)  
+*Source : frenchbreaches.com | Publication : 2026-06-11*
+
+- Fuite de données chez DISCOLABINDU, une cyberattaque ransomware signalée victime d'une fuite de données revendiquée.
+
+## [Cyberattaques : sept personnes interpellées, soupçonnées d'avoir volé plusieurs dizaines ...](https://www.leparisien.fr/faits-divers/cyberattaques-sept-personnes-interpellees-soupconnees-davoir-vole-plusieurs-dizaines-de-millions-de-donnees-sensibles-en-france-11-06-2026-JMLLVMF5XBF3VD676XA5X4K4ZU.php)  
+*Source : leparisien.fr | Publication : 2026-06-11*
+
+- Selon l'Office anti- cybercriminalité , il s'agit de « mineurs ou de jeunes majeurs », « souvent des autodidactes » et « totalement décomplexés ».
+- Par.
+
+## [Ils avaient ciblé l'Éducation nationale, Leroy Merlin et le Crous : coup d'arrêt pour le groupe ...](https://www.rtl.fr/actu/justice-faits-divers/ils-avaient-cible-l-education-nationale-leroy-merlin-et-le-crous-coup-d-arret-pour-le-groupe-dumpsec-soupconne-d-avoir-vole-les-donnees-de-dizaines-de-millions-de-francais-7900645302)  
+*Source : rtl.fr | Publication : 2026-06-11*
+
+- 2 min de lecture Je m'abonne à la newsletter « Infos » Un coup de filet a visé l'un des groupes de hackers les plus actifs ces derniers mois en France.
+- Sept personnes soupçonnées d’avoir participé au vol de plusieurs dizaines de millions de données ont été interpellées dans le cadre du démantèlement de Dumpsec, un groupe spécialisé dans le piratage, l’extraction et la revente de données sensibles, a annoncé jeudi 11 juin l’Office anti-cybercriminalité dans une publication sur LinkedIn, avant de donner plus de détails à l'AFP.
+- Selon les enquêteurs, ce collectif de hackers français, présenté comme particulièrement actif, s’en prenait aussi bien à des acteurs publics que privés.
+- Plus de 1.500 entités pourraient avoir été visées, parmi lesquelles l’Assemblée nationale, Leroy Merlin, plusieurs fédérations sportives ou encore des sites médicaux.
+
+## [Comment la Suisse va prêter main forte à Genève pour le G7 - Léman Bleu](https://www.lemanbleu.ch/fr/Accueil/G7/Comment-la-Suisse-va-preter-main-forte-a-Geneve-pour-le-G7.html)  
+*Source : lemanbleu.ch | Publication : 2026-06-11*
+
+- cybersécurité , l'armée.
+- «Au tout début, l'option d'atterrir en France a.
+- Elle sera déployée sur les infrastructures sensibles, offrira sa capacité de.
+
+## [Novo Nordisk victime d'un incident informatique, enquête sur une fuite de données](https://www.boursorama.com/bourse/actualites-amp/novo-nordisk-victime-d-un-incident-informatique-enquete-sur-une-fuite-de-donnees-59f1d2baccceb2bf976b9ec80e360822)  
+*Source : boursorama.com | Publication : 2026-06-11*
+
+- Novo Nordisk signale une fuite de données de patients issues de certains essais cliniques à la suite d'une cyberattaque information fournie par Reuters 11/06/2026 à 18:41 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Ajoute des précisions aux paragraphes 3 à 6) Novo Nordisk NOVOb.CO a déclaré jeudi avoir identifié un incident de sécurité au cours duquel certaines informations, notamment des données de patients issues de certains essais cliniques, ont été copiées vers l'extérieur sans autorisation à partir de ses systèmes informatiques internes.
+- La société, fabricant du médicamentphare contre l'obésité Wegovy, a déclaré avoir lancé une enquête avec l'aide d'experts externes en cybersécurité et être en contact avec les autorités compétentes.
+- “L'incident a concerné une quantité limitée d'informations relatives à des patients participant à certains de nos essais cliniques”, a déclaré Novo dans son communiqué, sans préciser de quel type d'essais il s'agissait.
+- Les catégories potentielles de données à caractère personnel concernées peuvent inclure, entre autres, l'identifiant du patient, l'année de naissance, le sexe et des données relatives à la santé ou à l'immunogénicité, a-t-elle ajouté.
+
+## [Cyberattaques : sept personnes interpellées, soupçonnées d'avoir volé plusieurs dizaines ...](https://www.liberation.fr/economie/economie-numerique/cyberattaques-sept-personnes-interpellees-soupconnees-davoir-vole-plusieurs-dizaines-de-millions-de-donnees-sensibles-en-france-20260611_NZKKV2DAENEXVH5B66ZPFMDRZU/)  
+*Source : liberation.fr | Publication : 2026-06-11*
+
+- cybercriminalité.
+- Ce groupe, connu sous le nom de «Dumpsec ... CybercriminalitéCybersécurité Assemblée nationale.
+- Dans la même rubrique.
+
+## [Novo Nordisk visé par un incident de <b>cybersécurité</b>, une enquête ouverte sur une fuite de données](https://www.zonebourse.com/actualite-bourse/novo-nordisk-vise-par-un-incident-de-cybersecurite-une-enquete-ouverte-sur-une-fuite-de-donnees-ce7f5cd8da80ff2d)  
+*Source : zonebourse.com | Publication : 2026-06-11*
+
+- June 11 (Reuters) - Novo Nordisk said on Thursday it has identified a security incident in which certain information, including patient data from some clinical trials, was copied externally without authorization from its internal IT systems.
+- The company, maker of the blockbuster weight-loss drug Wegovy, said it has launched a probe with the assistance of external cybersecurity experts and is in contact with the relevant authorities.
+- &quot;The incident affected a limited amount of information related to patients participating in some of our clinical trials,&quot; Novo said in its statement, without disclosing what type of trials.
+- The potential categories of personal data affected may include patient ID, year of birth, sex and health or immunogenicity data among others, it added.Novo did not provide further details when contacted by Reuters.
+
+## [RSSI et DSI : Une collaboration essentielle pour assurer la mise en place d'une stratégie ...](https://www.thalesgroup.com/fr/search/rssi-et-dsi-une-collaboration-essentielle-pour-assurer-la-mise-en-place-dune-strategie)  
+*Source : thalesgroup.com | Publication : 2026-06-11*
+
+- As you were browsing something about your browser made us think you were a bot.
+- There are a few reasons this might happen: To regain access, please make sure that cookies and JavaScript are enabled before reloading the page.
+- We're getting everything ready for you. The page is loading, and you'll be on your way in just a few moments.
+- Thanks for your patience!.
