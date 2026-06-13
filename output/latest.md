@@ -1,146 +1,145 @@
-# Résumés – 2026-06-12
+# Résumés – 2026-06-13
 
 
-## [Un cyberexercice à l'échelle de l'UE teste la réaction aux attaques contre les réseaux ...](https://digital-strategy.ec.europa.eu/fr/news/eu-wide-cyber-exercise-tests-response-attacks-rail-and-maritime-networks)  
-*Source : digital-strategy.ec.europa.eu | Publication : 2026-06-11*
+## [<b>Cybersécurité</b> africaine: Un nouveau centre à Rabat pour renforcer la réponse aux menaces ...](https://snrtnews.com/fr/article/cybersecurite-africaine-un-nouveau-centre-a-rabat-pour-renforcer-la-reponse-aux-menaces)  
+*Source : snrtnews.com | Publication : 2026-06-12*
 
-- Cyber Europe 2026 a également été le premier test à l’échelle de l’UE du plan d’action de l’UE en matière de cybersécurité pour 2025, qui clarifie les rôles et les responsabilités en cas de crise.
-- Organisé par l'Agence de l'UE pour la cybersécurité (ENISA), l'exercice a simulé une cyberattaque sur les réseaux ferroviaires et maritimes européens.
-- Le scénario a provoqué de graves perturbations opérationnelles et s'est transformé en une crise de cybersécurité à part entière.
-- Parmi les participants figuraient des spécialistes de la cybersécurité des secteurs public et privé, des décideurs politiques, des institutions de l’UE, des entreprises et des pays partenaires (Royaume-Uni, Norvège, Suisse et Ukraine).
+- Société Cybersécurité africaine: Un nouveau centre à Rabat pour renforcer la réponse aux menaces numériques 12/06/2026 - 14:11 Ouiam FarajLe Maroc s'apprête à consolider son positionnement stratégique au sein du système de cybersécurité africain à travers la création d'un centre régional spécialisé dans le soutien et la coordination des réponses aux incidents électroniques.
+- Cette initiative découle du projet de loi n° 01.26, portant approbation de l'accord conclu entre le gouvernement et le Réseau africain des autorités de cybersécurité.
+- Un mécanisme de coopération et de veille face aux menaces Signé à Marrakech le 14 novembre 2025, cet accord vise à mettre en place le "Centre régional d'appui et de coordination pour la réponse aux incidents cybernétiques".
+- Ce dispositif est conçu comme un levier de coopération entre les États africains pour surveiller les cyberattaques, échanger des informations et des expertises, et renforcer les capacités de réaction rapide face à des risques qui figurent désormais parmi les défis sécuritaires et économiques majeurs du continent.
 
-## [Cyberattaques : sept personnes interpellées, soupçonnées d'avoir volé plusieurs dizaines ...](https://www.ouest-france.fr/societe/cyberattaque/cyberattaques-sept-personnes-interpellees-soupconnees-davoir-vole-plusieurs-dizaines-de-millions-de-donnees-75bb794c-65ab-11f1-a46d-81598b89efb2)  
-*Source : ouest-france.fr | Publication : 2026-06-11*
+## [De la collecte des preuves à leur analyse : l'atelier CyberSEE renforce les capacités ...](https://www.coe.int/fr/web/cybercrime/-/from-evidence-acquisition-to-analysis-cybersee-workshop-strengthens-regional-digital-forensics-capacities)  
+*Source : coe.int | Publication : 2026-06-12*
 
-- Jeudi 11 juin, l'Office anti- cybercriminalité a annoncé avoir interpellé sept personnes dans le démantèlement d'un groupe spécialisé dans l'extraction.
+- Ransomware Resource · CYBOX.
+- Retour; About CYBOX · Connect to the platform.
+- Vous êtes ici : Cybercriminalité · C-PROC & Capacity Building · Ongoing.
 
-## [Voici pourquoi il faut redémarrer son téléphone cellulaire au moins une fois par semaine](https://www.tvanouvelles.ca/2026/06/11/voici-pourquoi-il-faut-redemarrer-son-telephone-cellulaire-au-moins-une-fois-par-semaine)  
-*Source : tvanouvelles.ca | Publication : 2026-06-11*
+## [L'UE teste sa Réserve de <b>cybersécurité</b> lors d'un exercice conjoint simulant des ...](https://agenceurope.eu/index.php/fr/bulletin/article/13887/19)  
+*Source : agenceurope.eu | Publication : 2026-06-12*
 
-- Si ce n'est pas le cas, un expert en cybersécurité vous recommande fortement de le faire pour des raisons de sécurité.
-- • À lire aussi : Comment.
+- L’Union européenne a testé son Plan de cybersécurité, qui précise les rôles et les responsabilités en cas de crise, ainsi que, pour la première fois, la Réserve européenne de cybersécurité, au cours d’un exercice de deux jours organisé les 10 et 11 juin, simulant des cybermenaces de grande ampleur évoluant vers une véritable crise de cybersécurité, avec de multiples attaques visant des infrastructures maritimes et ferroviaires critiques à travers l’Europe et nécessitant une réponse coordonnée aux niveaux technique, opérationnel et politique.
+- L’exercice Cyber Europe a permis de tester la réaction des autorités face à des attaques compromettant les systèmes logistiques portuaires et les systèmes de navigation, entraînant de graves perturbations opérationnelles, notamment l’arrêt des mouvements de marchandises, des risques pour la sécurité, tels que des incidents de quasi-collision, ainsi que le retard de milliers de trains et de convois de fret dans les transports ferroviaires transfrontaliers.
+- Au cours de l’exercice, les autorités chargées des transports et les services de billetterie ont également été la cible d’une attaque par rançongiciel (ransomware), qui a paralysé les opérations administratives et les services aux voyageurs.
+- L’attaque a en outre conduit à la divulgation de données sensibles concernant les passagers et les services d’urgence, alimentant des campagnes de désinformation menées par des 'hacktivistes' sur les réseaux sociaux, a indiqué l’Agence de l’Union européenne pour la cybersécurité (ENISA) dans un communiqué de presse.
 
-## [Piratage de la messagerie Tchap : le Parquet de Paris ouvre une enquête - 01net.com](https://www.01net.com/actualites/piratage-messagerie-tchap-le-parquet-de-paris-ouvre-une-enquete.html)  
-*Source : 01net.com | Publication : 2026-06-11*
+## [Les fabricants européens font face à une convergence de pressions - Acronis](https://www.acronis.com/fr/resource-center/resource/why-european-manufacturers-need-an-enterprise-resilience-plan/)  
+*Source : acronis.com | Publication : 2026-06-12*
 
-- Suite à la compromission de la plateforme ultra sécurisée Tchap, le Parquet de Paris a annoncé l’ouverture d’une enquête.
-- L’Office anti-cybercriminalité (OFAC) a été saisi dans le cadre de soupçons d’atteintes à un système automatisé de données, de détention et de transmission frauduleuses de données contenues « dans un système de traitement automatisé de données à caractère personnel mis en œuvre par l’État ».
-- La messagerie ultra sécurisée Tchap victime d’une attaque Ce 7 juin, la messagerie Tchap a été victime d’une attaque.
-- Pour rappel, il s’agit d’une plateforme ultra sécurisée utilisée par les administrations françaises.
+- Les organisations disposant d’environnements de technologie opérationnelle (OT) doivent faire face aux attaques par rançongiciel, aux perturbations opérationnelles, à l’évolution des exigences de la directive NIS 2 et à une surveillance accrue de la part des assureurs cyber.
+- Un seul incident cyber peut perturber la production, entraîner des risques réglementaires et compromettre les demandes d’indemnisation liées à l’assurance cyber.
+- Comment les fabricants doivent-ils réagir ?.
+- Ils doivent aller au-delà des stratégies de sauvegarde fragmentées et adopter un véritable plan de résilience à l’échelle de l’entreprise.
 
-## [Le profil de la 5ème étape du Tour de Suisse 2026 - Cyclisme - Orange Sport](https://sports.orange.fr/videos/cyclisme/le-profil-de-la-5eme-etape-du-tour-de-suisse-2026-cyclisme-tour-de-suisse-CNT000002pUpNU.html)  
-*Source : sports.orange.fr | Publication : 2026-06-11*
+## [Exercice «Cyber Europe» 2026 : La Suisse teste sa cyberrésilience dans les secteurs ...](https://www.ncsc.admin.ch/ncsc/fr/home/aktuell/im-fokus/2026/cyber-europe-26.html)  
+*Source : ncsc.admin.ch | Publication : 2026-06-12*
 
-- Vidéo suivante dans 5 secondes Le profil de la 5ème étape du Tour de Suisse 2026 - Cyclisme - Tour de Suisse par L'Équipe info - Découvrez le profil de la 5ème étape du Tour de Suisse.
-- vidéos similaires lecture autoOUINON par L'Équipe Découvrez le profil de la 5ème étape du Tour de Suisse.
+- 12.06.2026 - Le 10 et 11 juin 2026, la Suisse a participé à «Cyber Europe 2026», le plus grand exercice européen de cybersécurité organisé par.
 
-## [<b>Cybersécurité</b> : Orange et Crédit agricole en discussions pour avoir accès à Mythos, le ... - Le Monde](https://www.lemonde.fr/economie/article/2026/06/11/cybersecurite-orange-et-credit-agricole-en-discussions-pour-avoir-acces-a-mythos-le-modele-d-ia-d-anthropic_6700795_3234.html)  
-*Source : lemonde.fr | Publication : 2026-06-11*
+## [Adopter l'IA: à Lille, entreprises et chercheurs échangent sur ses usages concrets](https://information.tv5monde.com/economie/adopter-lia-lille-entreprises-et-chercheurs-echangent-sur-ses-usages-concrets-2825841?amp)  
+*Source : information.tv5monde.com | Publication : 2026-06-12*
 
-- JavaScript is disabled in your browser.
-- Please enable JavaScript to proceed.
-- A required part of this site couldn’t load.
-- This may be due to a browser extension, network issues, or browser settings.
+- Adopter l'IA: à Lille, entreprises et chercheurs échangent sur ses usages concrets Au-delà des gigantesques investissements annoncés pour construire des méga-centres de données, les retombées de l'intelligence artificielle restent encore inégales selon les secteurs et les usages: le défi de la convertir en bénéfices concrets pour tous était au coeur d'un sommet vendredi à Lille.
+- "L'IA n'est pas encore réellement arrivée" dans les usages, estime Gautier Cloix, dirigeant de H Company, qui développe des agents capables d'utiliser les ordinateurs à la place des humains.
+- Par exemple, dans les tâches administratives, "on ne l'utilise pour le moment que pour de petites tâches, comme trier les mails, suggérer des réponses", mais son entreprise espère réduire à quasi néant le temps passé avec clavier et souris dans certains métiers.
+- Même constat chez Jacques Pommeraud, PDG d'Inetum, société spécialisée dans la transformation numérique des entreprises.
 
-## [Éducation nationale, Leroy Merlin... Un groupe cybercriminel arrêté, suspecté d'avoir volé ...](https://actu.orange.fr/societe/fait-divers/education-nationale-leroy-merlin-un-groupe-cybercriminel-arrete-suspecte-d-avoir-vole-les-donnees-de-millions-de-francais-magic-CNT000002pUDzE.html)  
-*Source : actu.orange.fr | Publication : 2026-06-11*
+## [Claude Mythos : Orange et le Crédit Agricole veulent pouvoir accéder au puissant modèle IA](https://www.clubic.com/actualite-616612-claude-mythos-orange-et-le-credit-agricole-veulent-pouvoir-acceder-au-puissant-modele-ia.html)  
+*Source : clubic.com | Publication : 2026-06-12*
 
-- Éducation nationale, Leroy Merlin.
-- Un groupe cybercriminel arrêté, suspecté d'avoir volé les données de millions de Français © Unsplash - Edouard Geffray Sept personnes soupçonnées d'être membres du groupe de cyberpirates Dumpsec ont été arrêtées, a annoncé jeudi 11 juin, l'Office anti-cybercriminalité (OFAC).
-- Le groupe est soupçonné d'avoir volé les données de dizaines de millions de Français.
-- Nouveau coup de filet contre le monde de la cybercriminalité.
+- Le modèle d'Anthropic spécialisé dans la cybersécurite Claude Mythos attire l'intérêt de nombreuses grandes entreprises.
+- Dont deux géants français.
+- La sortie de Claude Mythos a été un choc dans le secteur de l'intelligence artificielle, à cause de la capacité du nouveau modèle IA d'Anthropic à repérer de nombreuses failles de cybersécurité.
+- Depuis, de nombreuses grandes entreprises souhaitent pouvoir bénéficier d'outils de ce genre.
 
-## [UE <b>Cybersécurité</b> : les États membres veulent le soutien de l'UE - Contexte](https://www.contexte.com/fr/actualite/tech/cybersecurite-les-etats-membres-veulent-le-soutien-de-lue_68869)  
-*Source : contexte.com | Publication : 2026-06-11*
+## [Un groupe de pirates informatiques démantelé par des enquêteurs de Rennes - Ouest-France](https://www.ouest-france.fr/societe/cyberattaque/un-groupe-de-pirates-informatiques-demantele-par-des-enqueteurs-de-rennes-des-dizaines-de-millions-de-donnees-volees-4af76b04-6677-11f1-8ae5-0c53cf467897)  
+*Source : ouest-france.fr | Publication : 2026-06-12*
 
-- briefingtech Cybersécurité.
-- Cybersécurité : les États membres veulent le soutien de l’UE Les capitales comptent sur.
+- Jeudi 11 juin 2026, l'Office anti- cybercriminalité (Ofac) a annoncé avoir démantelé un groupe spécialisé dans l'extraction et la revente de.
 
-## [CTI : l'accélération de l'analyse technique par les modèles de langage | LeMagIT](https://www.lemagit.fr/etude/CTI-lacceleration-de-lanalyse-technique-par-les-modeles-de-langage)  
-*Source : lemagit.fr | Publication : 2026-06-11*
+## [L'ONU choisit Riyad pour accueillir le premier bureau de l'UNITAR consacré à la <b>cybersécurité</b>](https://spa.gov.sa/fr/N2611280)  
+*Source : spa.gov.sa | Publication : 2026-06-12*
 
-- ipopba - stock.adobe.com CTI : l’accélération de l’analyse technique par les modèles de langage L’intégration des modèles de langage dans l’analyse CTI accélère le traitement des données massives et transforme la production de rapports techniques.
-- Intrinsec vient de partager son expérience.
-- L’intégration des modèles de langage (LLM) dans les processus de renseignement sur les menaces, ou Cyber Threat Intelligence (CTI), modifie la structure de la production analytique.
-- L’usage de l’IA ne remplace pas l’investigation mais agit comme un multiplicateur de capacité d’exécution.
+- Cybersécurité (NCA), et l'UNITAR, au siège de la NCA à Riyad.
+- Le bureau, qui sera basé à Riyad, lancera plusieurs initiatives et projets dans les.
 
-## [Lutte contre les ingérences numériques : &quot;La France est dans le top 3 européen&quot;](https://www.france24.com/fr/france/20260611-lutte-contre-ingérences-numériques-france-top-3-européen-présidentielle-lecornu)  
-*Source : france24.com | Publication : 2026-06-11*
+## [La sécurité de npm, un jeu d'équilibriste pour GitHub - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/github-securite-npm-227651/amp)  
+*Source : silicon.fr | Publication : 2026-06-12*
 
-- Lutte contre les ingérences numériques : "La France est dans le top 3 européen" Le Premier ministre Sébastien Lecornu a réuni jeudi les formations politiques pour aborder la question des ingérences électorales.
-- À l’approche de la présidentielle, les autorités françaises redoutent des tentatives de manipulation numérique venues de l’étranger, dont l'efficacité est décuplée par les progrès de l'intelligence artificielle.
-- Entretien avec Benoît Grünemwald, expert en cybersécurité à Eset.
-- Publié le : Les autorités françaises sur le qui-vive un an avant la tenue de l'élection présidentielle.
+- Ajoutez les clés de passe si vous voulez, mais ne supprimez pas le TOTP.
+- Cette demande est emblématique de la friction que GitHub a engendrée avec son dernier train de mesures de sécurité pour npm.
+- Il avait annoncé la couleur fin septembre 2025, dans la lignée d’une attaque d’ampleur sur le gestionnaire de paquets.
+- Dans un horizon de quelques semaines, les tokens « classiques » (legacy) seraient supprimés.
 
-## [NIS 2 : Bruxelles hausse le ton contre la France - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/nis-2-bruxelles-hausse-le-ton-contre-la-france-227630/amp)  
-*Source : silicon.fr | Publication : 2026-06-11*
+## [Un vaste groupe de hackers démantelé par l'Office anti-<b>cybercriminalité</b> de Rennes - ICI](https://www.ici.fr/bretagne/ille-et-vilaine-35/rennes/un-vaste-groupe-de-hackers-demantele-par-de-l-office-anti-cyber-de-rennes-4592662)  
+*Source : ici.fr | Publication : 2026-06-12*
 
-- C’est un de ces retards bureaucratiques dont Paris a le secret, mais qui commence à coûter très cher en crédibilité et, bientôt, en dizaines de millions d’euros.
-- Selon Politico, la Commission européenne durcit progressivement le ton contre la France, toujours hors-jeu sur la transposition de la directive de cybersécurité NIS 2.
-- L’affaire a pris une dimension particulièrement sensible à Bruxelles depuis que la Commission a multiplié les avertissements officiels.
-- L’échéance initiale de transposition était pourtant fixée au 17 octobre 2024.
+- Un vaste groupe de hackers démantelé par l'Office anti-cybercriminalité de Rennes Publié le Une enquête, débutée en novembre 2025 à la suite d'une cyberattaque contre une entreprise rennaise, a permis de démanteler un groupe de hackers, soupçonnés d'avoir volé plusieurs dizaines de millions de données.
+- C’est un joli coup que vient de réaliser l'antenne rennaise de l'Office anti-cybercriminalité.
+- Deux hackers ont été mis en examen ce jeudi 11 juin.
+- Un est en détention provisoire, l’autre sous contrôle judiciaire.
 
-## [Cyberattaques : sept personnes interpellées, soupçonnées d'avoir volé plusieurs dizaines ...](https://www.lemonde.fr/pixels/article/2026/06/11/cyberattaques-sept-personnes-interpellees-soupconnees-d-avoir-vole-plusieurs-dizaines-de-millions-de-donnees-sensibles_6700775_4408996.html)  
-*Source : lemonde.fr | Publication : 2026-06-11*
+## [Optique, mathématique, informatique et <b>cybersécurité</b> : ce laboratoire réunit les ... - France 3 Régions](https://france3-regions.franceinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/optique-mathematique-informatique-et-cybersecurite-ce-laboratoire-reunit-les-meilleurs-chercheurs-francais-depuis-20-ans-3367837.html)  
+*Source : france3-regions.franceinfo.fr | Publication : 2026-06-12*
 
-- JavaScript is disabled in your browser.
-- Please enable JavaScript to proceed.
-- A required part of this site couldn’t load.
-- This may be due to a browser extension, network issues, or browser settings.
+- À la pointe de la recherche depuis deux décennies : le laboratoire Xlim basé à l'université de Limoges fête ses 20 ans.
+- Pour l'occasion, Philippe Baptiste, le ministre de l'Enseignement supérieur et de la Recherche, était à Limoges.
+- L'institut de recherche Xlim a été fondé il y a tout juste 20 ans par Pierre-Yves Guillon, physicien émérite.
+- Il réunit plusieurs laboratoires de recherche, tous à la pointe de l'innovation dans chacun de leurs domaines : photonique, optique, mathématiques, hyperfréquences ou encore informatique et cybersécurité.
 
-## [Fuite de données chez DISCOLABINDU, une cyberattaque <b>ransomware</b> signalée - FrenchBreaches](https://frenchbreaches.com/r/KHYLH3)  
-*Source : frenchbreaches.com | Publication : 2026-06-11*
+## [336 millions d'euros de crypto blanchies : la police démantèle AudiA6, la plateforme ... - 01net.com](https://www.01net.com/actualites/336-millions-euros-crypto-blanchies-europol-demantele-audia6-plateforme-de-blanchiment-ransomwares.html)  
+*Source : 01net.com | Publication : 2026-06-12*
 
-- Fuite de données chez DISCOLABINDU, une cyberattaque ransomware signalée victime d'une fuite de données revendiquée.
+- Le 10 juin 2026, une vaste opération de police a démantelé AudiA6, un service spécialisé dans le blanchiment de cryptomonnaies.
+- Massivement utilisé par des groupes de hackers, dont des spécialistes du ransomware, le service a permis de blanchir plus de 336 millions d’euros en l’espace de trois ans, de 2022 à 2025.
+- L’argent provenait essentiellement de rançons versées par les victimes d’un ransomware.
+- Coordonnées par Europol, l’opération a mobilisé les forces de police de onze pays, dont la France, l’Allemagne, la Pologne, les États-Unis, l’Australie, le Royaume-Uni et le Japon.
 
-## [Cyberattaques : sept personnes interpellées, soupçonnées d'avoir volé plusieurs dizaines ...](https://www.leparisien.fr/faits-divers/cyberattaques-sept-personnes-interpellees-soupconnees-davoir-vole-plusieurs-dizaines-de-millions-de-donnees-sensibles-en-france-11-06-2026-JMLLVMF5XBF3VD676XA5X4K4ZU.php)  
-*Source : leparisien.fr | Publication : 2026-06-11*
+## [Windows 11 : pourquoi vos dossiers ne s'affichent plus comme avant depuis la mise à jour de juin](https://www.clubic.com/actualite-616591-windows-11-pourquoi-vos-dossiers-ne-s-affichent-plus-comme-avant-depuis-la-mise-a-jour-de-juin.html)  
+*Source : clubic.com | Publication : 2026-06-12*
 
-- Selon l'Office anti- cybercriminalité , il s'agit de « mineurs ou de jeunes majeurs », « souvent des autodidactes » et « totalement décomplexés ».
-- Par.
+- Vos dossiers ont perdu leurs icônes après la dernière mise à jour de Windows 11 ?.
+- Le Patch Tuesday de juin y est sans doute pour quelque chose, mais pas forcément pour les raisons que l’on imagine.
+- La disparition soudaine d’une icône de dossier après un Patch Tuesday a tout du petit bug agaçant.
+- Cette fois, pourtant, Windows agit comme prévu.
 
-## [Ils avaient ciblé l'Éducation nationale, Leroy Merlin et le Crous : coup d'arrêt pour le groupe ...](https://www.rtl.fr/actu/justice-faits-divers/ils-avaient-cible-l-education-nationale-leroy-merlin-et-le-crous-coup-d-arret-pour-le-groupe-dumpsec-soupconne-d-avoir-vole-les-donnees-de-dizaines-de-millions-de-francais-7900645302)  
-*Source : rtl.fr | Publication : 2026-06-11*
+## [<b>cybercriminalité</b> : les enquêteurs rennais derrière le démantèlement d'un vaste réseau de ...](https://www.rennes-infos-autrement.fr/cybercriminalite-les-enqueteurs-rennais-derriere-le-demantelement-dun-vaste-reseau-de-hackers-francais/)  
+*Source : rennes-infos-autrement.fr | Publication : 2026-06-12*
 
-- 2 min de lecture Je m'abonne à la newsletter « Infos » Un coup de filet a visé l'un des groupes de hackers les plus actifs ces derniers mois en France.
-- Sept personnes soupçonnées d’avoir participé au vol de plusieurs dizaines de millions de données ont été interpellées dans le cadre du démantèlement de Dumpsec, un groupe spécialisé dans le piratage, l’extraction et la revente de données sensibles, a annoncé jeudi 11 juin l’Office anti-cybercriminalité dans une publication sur LinkedIn, avant de donner plus de détails à l'AFP.
-- Selon les enquêteurs, ce collectif de hackers français, présenté comme particulièrement actif, s’en prenait aussi bien à des acteurs publics que privés.
-- Plus de 1.500 entités pourraient avoir été visées, parmi lesquelles l’Assemblée nationale, Leroy Merlin, plusieurs fédérations sportives ou encore des sites médicaux.
+- C’est une enquête discrète, menée loin des projecteurs, mais dont les ramifications et les investigations touchent plus de 1 500 organismes et sociétés en France.
+- Derrière le démantèlement du groupe de hackers français « Dumpsec », annoncé jeudi par l’Office anti-cybercriminalité (OFAC), se trouvent les enquêteurs de l’antenne rennaise, qui ont piloté pendant plusieurs mois une opération d’envergure nationale.
+- « C’est une belle affaire », note une source policière.
+- L’enquête débute en novembre 2025, après une attaque informatique visant une entreprise installée à Rennes.
 
-## [Comment la Suisse va prêter main forte à Genève pour le G7 - Léman Bleu](https://www.lemanbleu.ch/fr/Accueil/G7/Comment-la-Suisse-va-preter-main-forte-a-Geneve-pour-le-G7.html)  
-*Source : lemanbleu.ch | Publication : 2026-06-11*
+## [Des hackers infiltrés comme salariés : l'incroyable piège de la Corée du Nord pour pirater la tech](https://www.01net.com/actualites/des-hackers-infiltres-comme-salaries-lincroyable-piege-de-la-coree-du-nord-pour-pirater-la-tech.html)  
+*Source : 01net.com | Publication : 2026-06-12*
 
-- cybersécurité , l'armée.
-- «Au tout début, l'option d'atterrir en France a.
-- Elle sera déployée sur les infrastructures sensibles, offrira sa capacité de.
+- L’employé idéal que vous venez de recruter à distance pour gérer vos infrastructures informatiques est peut-être un agent secret à la solde de Pyongyang.
+- Loin des clichés du piratage informatique classique par simple injection de code malveillant, le régime de Kim Jong-un a industrialisé une méthode d’infiltration particulièrement audacieuse : l’embauche frauduleuse de ses propres hackers au sein des organigrammes des entreprises occidentales.
+- Les conclusions du rapport du géant de la cybersécurité CrowdStrike mettent en lumière une stratégie d’ingénierie sociale à grande échelle qui transforme des experts informatiques en véritables chevaux de Troie.
+- Des deepfakes en temps réel pour berner les RH Selon les données consolidées par les analystes entre le 1er avril 2025 et le 31 mars 2026, un groupe de menace étatique baptisé Famous Chollima s’est hissé au centre des préoccupations de l’industrie technologique.
 
-## [Novo Nordisk victime d'un incident informatique, enquête sur une fuite de données](https://www.boursorama.com/bourse/actualites-amp/novo-nordisk-victime-d-un-incident-informatique-enquete-sur-une-fuite-de-donnees-59f1d2baccceb2bf976b9ec80e360822)  
-*Source : boursorama.com | Publication : 2026-06-11*
+## [<b>Cybersécurité</b> : Anthropic ouvre les portes de Mythos à trois banques européennes](https://www.lesechos.fr/finance-marches/banque-assurances/cybersecurite-anthropic-ouvre-les-portes-de-mythos-a-trois-banques-europeennes-2236698)  
+*Source : lesechos.fr | Publication : 2026-06-12*
 
-- Novo Nordisk signale une fuite de données de patients issues de certains essais cliniques à la suite d'une cyberattaque information fournie par Reuters 11/06/2026 à 18:41 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Ajoute des précisions aux paragraphes 3 à 6) Novo Nordisk NOVOb.CO a déclaré jeudi avoir identifié un incident de sécurité au cours duquel certaines informations, notamment des données de patients issues de certains essais cliniques, ont été copiées vers l'extérieur sans autorisation à partir de ses systèmes informatiques internes.
-- La société, fabricant du médicamentphare contre l'obésité Wegovy, a déclaré avoir lancé une enquête avec l'aide d'experts externes en cybersécurité et être en contact avec les autorités compétentes.
-- “L'incident a concerné une quantité limitée d'informations relatives à des patients participant à certains de nos essais cliniques”, a déclaré Novo dans son communiqué, sans préciser de quel type d'essais il s'agissait.
-- Les catégories potentielles de données à caractère personnel concernées peuvent inclure, entre autres, l'identifiant du patient, l'année de naissance, le sexe et des données relatives à la santé ou à l'immunogénicité, a-t-elle ajouté.
+- Ce nouveau modèle d'IA, capable de détecter des failles de cybersécurité jugées sans précédent, a suscité de vives inquiétudes.
 
-## [Cyberattaques : sept personnes interpellées, soupçonnées d'avoir volé plusieurs dizaines ...](https://www.liberation.fr/economie/economie-numerique/cyberattaques-sept-personnes-interpellees-soupconnees-davoir-vole-plusieurs-dizaines-de-millions-de-donnees-sensibles-en-france-20260611_NZKKV2DAENEXVH5B66ZPFMDRZU/)  
-*Source : liberation.fr | Publication : 2026-06-11*
+## [Le secteur de la vente d'énergie fait face à des <b>cybermenaces</b> croissantes](https://www.enerzine.com/le-secteur-de-la-vente-denergie-fait-face-a-des-cybermenaces-croissantes/188149-2026-06)  
+*Source : enerzine.com | Publication : 2026-06-12*
 
-- cybercriminalité.
-- Ce groupe, connu sous le nom de «Dumpsec ... CybercriminalitéCybersécurité Assemblée nationale.
-- Dans la même rubrique.
+- Une thèse de doctorat de Mikko Suorsa, qui sera soutenue à l’Université de Vaasa, en Finlande, révèle que le secteur de la vente d’énergie est une partie essentielle mais vulnérable de la chaîne de valeur de l’industrie énergétique et des infrastructures critiques.
+- Ayant reçu relativement peu d’attention dans les efforts de cybersécurité, le secteur nécessite une résilience renforcée, et l’étude introduit des méthodes concrètes pour y parvenir.
+- C’est l’une des premières études à se concentrer spécifiquement sur les organisations de vente d’énergie.
+- Alors que les réseaux de production et de transport d’énergie ont traditionnellement été strictement protégés en tant qu’infrastructures critiques, la cybersécurité du secteur de la vente d’énergie a reçu beaucoup moins d’attention.
 
-## [Novo Nordisk visé par un incident de <b>cybersécurité</b>, une enquête ouverte sur une fuite de données](https://www.zonebourse.com/actualite-bourse/novo-nordisk-vise-par-un-incident-de-cybersecurite-une-enquete-ouverte-sur-une-fuite-de-donnees-ce7f5cd8da80ff2d)  
-*Source : zonebourse.com | Publication : 2026-06-11*
+## [Job Description: Cybersecurity Consultant - YouTube](https://www.youtube.com/watch?v=6ZIqS-2LWMc)  
+*Source : youtube.com | Publication : 2026-06-12*
 
-- June 11 (Reuters) - Novo Nordisk said on Thursday it has identified a security incident in which certain information, including patient data from some clinical trials, was copied externally without authorization from its internal IT systems.
-- The company, maker of the blockbuster weight-loss drug Wegovy, said it has launched a probe with the assistance of external cybersecurity experts and is in contact with the relevant authorities.
-- &quot;The incident affected a limited amount of information related to patients participating in some of our clinical trials,&quot; Novo said in its statement, without disclosing what type of trials.
-- The potential categories of personal data affected may include patient ID, year of birth, sex and health or immunogenicity data among others, it added.Novo did not provide further details when contacted by Reuters.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [RSSI et DSI : Une collaboration essentielle pour assurer la mise en place d'une stratégie ...](https://www.thalesgroup.com/fr/search/rssi-et-dsi-une-collaboration-essentielle-pour-assurer-la-mise-en-place-dune-strategie)  
-*Source : thalesgroup.com | Publication : 2026-06-11*
+## [<b>Cybersécurité</b> : La Chine et ses alliés sont responsables de 58% des attaques étatiques ...](https://www.usine-digitale.fr/cybersecurite/cybersecurite-la-chine-et-ses-allies-sont-responsables-de-58-des-attaques-etatiques-contre-le-secteur-technologique.4J5ZB5PK5BB7RAMJ5EJ2WJRLTU.html)  
+*Source : usine-digitale.fr | Publication : 2026-06-12*
 
-- As you were browsing something about your browser made us think you were a bot.
-- There are a few reasons this might happen: To regain access, please make sure that cookies and JavaScript are enabled before reloading the page.
-- We're getting everything ready for you. The page is loading, and you'll be on your way in just a few moments.
-- Thanks for your patience!.
+- Le secteur tech, cible numéro un des ransomwares et fuites de données.
+- 572 organisations technologiques ont été publiquement exposées par des groupes.
