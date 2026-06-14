@@ -1,145 +1,134 @@
-# Résumés – 2026-06-13
+# Résumés – 2026-06-14
 
 
-## [<b>Cybersécurité</b> africaine: Un nouveau centre à Rabat pour renforcer la réponse aux menaces ...](https://snrtnews.com/fr/article/cybersecurite-africaine-un-nouveau-centre-a-rabat-pour-renforcer-la-reponse-aux-menaces)  
-*Source : snrtnews.com | Publication : 2026-06-12*
+## [Anthropic suspend Fable 5 et Mythos 5, ses deux modèles d'IA les plus puissants - Capital](https://www.capital.fr/entreprises-marches/anthropic-suspend-fable-5-et-mythos-5-ses-deux-modeles-dia-les-plus-puissants-1527599)  
+*Source : capital.fr | Publication : 2026-06-13*
 
-- Société Cybersécurité africaine: Un nouveau centre à Rabat pour renforcer la réponse aux menaces numériques 12/06/2026 - 14:11 Ouiam FarajLe Maroc s'apprête à consolider son positionnement stratégique au sein du système de cybersécurité africain à travers la création d'un centre régional spécialisé dans le soutien et la coordination des réponses aux incidents électroniques.
-- Cette initiative découle du projet de loi n° 01.26, portant approbation de l'accord conclu entre le gouvernement et le Réseau africain des autorités de cybersécurité.
-- Un mécanisme de coopération et de veille face aux menaces Signé à Marrakech le 14 novembre 2025, cet accord vise à mettre en place le "Centre régional d'appui et de coordination pour la réponse aux incidents cybernétiques".
-- Ce dispositif est conçu comme un levier de coopération entre les États africains pour surveiller les cyberattaques, échanger des informations et des expertises, et renforcer les capacités de réaction rapide face à des risques qui figurent désormais parmi les défis sécuritaires et économiques majeurs du continent.
+- Anthropic suspend ses deux modèles d’IA les plus puissants, Fable 5 et Mythos 5.
+- La start-up américaine est bien connue du grand public pour son agent conversationnel Claude (Sonnet 4.6), qui n’est pas concerné par cette suspension.
+- Celle-ci est due à une directive du gouvernement américain.
+- Celui-ci invoque la «sécurité nationale», rapporte BFMTV.
 
-## [De la collecte des preuves à leur analyse : l'atelier CyberSEE renforce les capacités ...](https://www.coe.int/fr/web/cybercrime/-/from-evidence-acquisition-to-analysis-cybersee-workshop-strengthens-regional-digital-forensics-capacities)  
-*Source : coe.int | Publication : 2026-06-12*
+## [La 5e édition de la Conférence sur la sécurité de l'information et la <b>cybersécurité</b> « CAISEC 2026 »](https://sis.gov.eg/fr/centre-médiatique/événements/la-5e-édition-de-la-conférence-sur-la-sécurité-de-l-information-et-la-cybersécurité-caisec-2026/)  
+*Source : sis.gov.eg | Publication : 2026-06-13*
 
-- Ransomware Resource · CYBOX.
-- Retour; About CYBOX · Connect to the platform.
-- Vous êtes ici : Cybercriminalité · C-PROC & Capacity Building · Ongoing.
+- Moustafa Madbouli, les activités de la 5ᵉ édition de la Conférence et du Salon sur la sécurité de l'information et la cybersécurité « CAISEC 2026 ».
 
-## [L'UE teste sa Réserve de <b>cybersécurité</b> lors d'un exercice conjoint simulant des ...](https://agenceurope.eu/index.php/fr/bulletin/article/13887/19)  
-*Source : agenceurope.eu | Publication : 2026-06-12*
+## [Lightning talks at Octopus Conference 2026 - <b>Cybercriminalité</b> - The Council of Europe](https://www.coe.int/fr/web/cybercrime/lightning-talks-at-octopus-conference-2026)  
+*Source : coe.int | Publication : 2026-06-13*
 
-- L’Union européenne a testé son Plan de cybersécurité, qui précise les rôles et les responsabilités en cas de crise, ainsi que, pour la première fois, la Réserve européenne de cybersécurité, au cours d’un exercice de deux jours organisé les 10 et 11 juin, simulant des cybermenaces de grande ampleur évoluant vers une véritable crise de cybersécurité, avec de multiples attaques visant des infrastructures maritimes et ferroviaires critiques à travers l’Europe et nécessitant une réponse coordonnée aux niveaux technique, opérationnel et politique.
-- L’exercice Cyber Europe a permis de tester la réaction des autorités face à des attaques compromettant les systèmes logistiques portuaires et les systèmes de navigation, entraînant de graves perturbations opérationnelles, notamment l’arrêt des mouvements de marchandises, des risques pour la sécurité, tels que des incidents de quasi-collision, ainsi que le retard de milliers de trains et de convois de fret dans les transports ferroviaires transfrontaliers.
-- Au cours de l’exercice, les autorités chargées des transports et les services de billetterie ont également été la cible d’une attaque par rançongiciel (ransomware), qui a paralysé les opérations administratives et les services aux voyageurs.
-- L’attaque a en outre conduit à la divulgation de données sensibles concernant les passagers et les services d’urgence, alimentant des campagnes de désinformation menées par des 'hacktivistes' sur les réseaux sociaux, a indiqué l’Agence de l’Union européenne pour la cybersécurité (ENISA) dans un communiqué de presse.
+- Cybercriminalité · Présentations de 5 minutes · 1 diapositive seulement · 4 minutes de questions-réponses avec le public · Présentations individuelles ou.
 
-## [Les fabricants européens font face à une convergence de pressions - Acronis](https://www.acronis.com/fr/resource-center/resource/why-european-manufacturers-need-an-enterprise-resilience-plan/)  
-*Source : acronis.com | Publication : 2026-06-12*
-
-- Les organisations disposant d’environnements de technologie opérationnelle (OT) doivent faire face aux attaques par rançongiciel, aux perturbations opérationnelles, à l’évolution des exigences de la directive NIS 2 et à une surveillance accrue de la part des assureurs cyber.
-- Un seul incident cyber peut perturber la production, entraîner des risques réglementaires et compromettre les demandes d’indemnisation liées à l’assurance cyber.
-- Comment les fabricants doivent-ils réagir ?.
-- Ils doivent aller au-delà des stratégies de sauvegarde fragmentées et adopter un véritable plan de résilience à l’échelle de l’entreprise.
-
-## [Exercice «Cyber Europe» 2026 : La Suisse teste sa cyberrésilience dans les secteurs ...](https://www.ncsc.admin.ch/ncsc/fr/home/aktuell/im-fokus/2026/cyber-europe-26.html)  
-*Source : ncsc.admin.ch | Publication : 2026-06-12*
-
-- 12.06.2026 - Le 10 et 11 juin 2026, la Suisse a participé à «Cyber Europe 2026», le plus grand exercice européen de cybersécurité organisé par.
-
-## [Adopter l'IA: à Lille, entreprises et chercheurs échangent sur ses usages concrets](https://information.tv5monde.com/economie/adopter-lia-lille-entreprises-et-chercheurs-echangent-sur-ses-usages-concrets-2825841?amp)  
-*Source : information.tv5monde.com | Publication : 2026-06-12*
-
-- Adopter l'IA: à Lille, entreprises et chercheurs échangent sur ses usages concrets Au-delà des gigantesques investissements annoncés pour construire des méga-centres de données, les retombées de l'intelligence artificielle restent encore inégales selon les secteurs et les usages: le défi de la convertir en bénéfices concrets pour tous était au coeur d'un sommet vendredi à Lille.
-- "L'IA n'est pas encore réellement arrivée" dans les usages, estime Gautier Cloix, dirigeant de H Company, qui développe des agents capables d'utiliser les ordinateurs à la place des humains.
-- Par exemple, dans les tâches administratives, "on ne l'utilise pour le moment que pour de petites tâches, comme trier les mails, suggérer des réponses", mais son entreprise espère réduire à quasi néant le temps passé avec clavier et souris dans certains métiers.
-- Même constat chez Jacques Pommeraud, PDG d'Inetum, société spécialisée dans la transformation numérique des entreprises.
-
-## [Claude Mythos : Orange et le Crédit Agricole veulent pouvoir accéder au puissant modèle IA](https://www.clubic.com/actualite-616612-claude-mythos-orange-et-le-credit-agricole-veulent-pouvoir-acceder-au-puissant-modele-ia.html)  
-*Source : clubic.com | Publication : 2026-06-12*
-
-- Le modèle d'Anthropic spécialisé dans la cybersécurite Claude Mythos attire l'intérêt de nombreuses grandes entreprises.
-- Dont deux géants français.
-- La sortie de Claude Mythos a été un choc dans le secteur de l'intelligence artificielle, à cause de la capacité du nouveau modèle IA d'Anthropic à repérer de nombreuses failles de cybersécurité.
-- Depuis, de nombreuses grandes entreprises souhaitent pouvoir bénéficier d'outils de ce genre.
-
-## [Un groupe de pirates informatiques démantelé par des enquêteurs de Rennes - Ouest-France](https://www.ouest-france.fr/societe/cyberattaque/un-groupe-de-pirates-informatiques-demantele-par-des-enqueteurs-de-rennes-des-dizaines-de-millions-de-donnees-volees-4af76b04-6677-11f1-8ae5-0c53cf467897)  
-*Source : ouest-france.fr | Publication : 2026-06-12*
-
-- Jeudi 11 juin 2026, l'Office anti- cybercriminalité (Ofac) a annoncé avoir démantelé un groupe spécialisé dans l'extraction et la revente de.
-
-## [L'ONU choisit Riyad pour accueillir le premier bureau de l'UNITAR consacré à la <b>cybersécurité</b>](https://spa.gov.sa/fr/N2611280)  
-*Source : spa.gov.sa | Publication : 2026-06-12*
-
-- Cybersécurité (NCA), et l'UNITAR, au siège de la NCA à Riyad.
-- Le bureau, qui sera basé à Riyad, lancera plusieurs initiatives et projets dans les.
-
-## [La sécurité de npm, un jeu d'équilibriste pour GitHub - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/github-securite-npm-227651/amp)  
-*Source : silicon.fr | Publication : 2026-06-12*
-
-- Ajoutez les clés de passe si vous voulez, mais ne supprimez pas le TOTP.
-- Cette demande est emblématique de la friction que GitHub a engendrée avec son dernier train de mesures de sécurité pour npm.
-- Il avait annoncé la couleur fin septembre 2025, dans la lignée d’une attaque d’ampleur sur le gestionnaire de paquets.
-- Dans un horizon de quelques semaines, les tokens « classiques » (legacy) seraient supprimés.
-
-## [Un vaste groupe de hackers démantelé par l'Office anti-<b>cybercriminalité</b> de Rennes - ICI](https://www.ici.fr/bretagne/ille-et-vilaine-35/rennes/un-vaste-groupe-de-hackers-demantele-par-de-l-office-anti-cyber-de-rennes-4592662)  
-*Source : ici.fr | Publication : 2026-06-12*
-
-- Un vaste groupe de hackers démantelé par l'Office anti-cybercriminalité de Rennes Publié le Une enquête, débutée en novembre 2025 à la suite d'une cyberattaque contre une entreprise rennaise, a permis de démanteler un groupe de hackers, soupçonnés d'avoir volé plusieurs dizaines de millions de données.
-- C’est un joli coup que vient de réaliser l'antenne rennaise de l'Office anti-cybercriminalité.
-- Deux hackers ont été mis en examen ce jeudi 11 juin.
-- Un est en détention provisoire, l’autre sous contrôle judiciaire.
-
-## [Optique, mathématique, informatique et <b>cybersécurité</b> : ce laboratoire réunit les ... - France 3 Régions](https://france3-regions.franceinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/optique-mathematique-informatique-et-cybersecurite-ce-laboratoire-reunit-les-meilleurs-chercheurs-francais-depuis-20-ans-3367837.html)  
-*Source : france3-regions.franceinfo.fr | Publication : 2026-06-12*
-
-- À la pointe de la recherche depuis deux décennies : le laboratoire Xlim basé à l'université de Limoges fête ses 20 ans.
-- Pour l'occasion, Philippe Baptiste, le ministre de l'Enseignement supérieur et de la Recherche, était à Limoges.
-- L'institut de recherche Xlim a été fondé il y a tout juste 20 ans par Pierre-Yves Guillon, physicien émérite.
-- Il réunit plusieurs laboratoires de recherche, tous à la pointe de l'innovation dans chacun de leurs domaines : photonique, optique, mathématiques, hyperfréquences ou encore informatique et cybersécurité.
-
-## [336 millions d'euros de crypto blanchies : la police démantèle AudiA6, la plateforme ... - 01net.com](https://www.01net.com/actualites/336-millions-euros-crypto-blanchies-europol-demantele-audia6-plateforme-de-blanchiment-ransomwares.html)  
-*Source : 01net.com | Publication : 2026-06-12*
-
-- Le 10 juin 2026, une vaste opération de police a démantelé AudiA6, un service spécialisé dans le blanchiment de cryptomonnaies.
-- Massivement utilisé par des groupes de hackers, dont des spécialistes du ransomware, le service a permis de blanchir plus de 336 millions d’euros en l’espace de trois ans, de 2022 à 2025.
-- L’argent provenait essentiellement de rançons versées par les victimes d’un ransomware.
-- Coordonnées par Europol, l’opération a mobilisé les forces de police de onze pays, dont la France, l’Allemagne, la Pologne, les États-Unis, l’Australie, le Royaume-Uni et le Japon.
-
-## [Windows 11 : pourquoi vos dossiers ne s'affichent plus comme avant depuis la mise à jour de juin](https://www.clubic.com/actualite-616591-windows-11-pourquoi-vos-dossiers-ne-s-affichent-plus-comme-avant-depuis-la-mise-a-jour-de-juin.html)  
-*Source : clubic.com | Publication : 2026-06-12*
-
-- Vos dossiers ont perdu leurs icônes après la dernière mise à jour de Windows 11 ?.
-- Le Patch Tuesday de juin y est sans doute pour quelque chose, mais pas forcément pour les raisons que l’on imagine.
-- La disparition soudaine d’une icône de dossier après un Patch Tuesday a tout du petit bug agaçant.
-- Cette fois, pourtant, Windows agit comme prévu.
-
-## [<b>cybercriminalité</b> : les enquêteurs rennais derrière le démantèlement d'un vaste réseau de ...](https://www.rennes-infos-autrement.fr/cybercriminalite-les-enqueteurs-rennais-derriere-le-demantelement-dun-vaste-reseau-de-hackers-francais/)  
-*Source : rennes-infos-autrement.fr | Publication : 2026-06-12*
-
-- C’est une enquête discrète, menée loin des projecteurs, mais dont les ramifications et les investigations touchent plus de 1 500 organismes et sociétés en France.
-- Derrière le démantèlement du groupe de hackers français « Dumpsec », annoncé jeudi par l’Office anti-cybercriminalité (OFAC), se trouvent les enquêteurs de l’antenne rennaise, qui ont piloté pendant plusieurs mois une opération d’envergure nationale.
-- « C’est une belle affaire », note une source policière.
-- L’enquête débute en novembre 2025, après une attaque informatique visant une entreprise installée à Rennes.
-
-## [Des hackers infiltrés comme salariés : l'incroyable piège de la Corée du Nord pour pirater la tech](https://www.01net.com/actualites/des-hackers-infiltres-comme-salaries-lincroyable-piege-de-la-coree-du-nord-pour-pirater-la-tech.html)  
-*Source : 01net.com | Publication : 2026-06-12*
-
-- L’employé idéal que vous venez de recruter à distance pour gérer vos infrastructures informatiques est peut-être un agent secret à la solde de Pyongyang.
-- Loin des clichés du piratage informatique classique par simple injection de code malveillant, le régime de Kim Jong-un a industrialisé une méthode d’infiltration particulièrement audacieuse : l’embauche frauduleuse de ses propres hackers au sein des organigrammes des entreprises occidentales.
-- Les conclusions du rapport du géant de la cybersécurité CrowdStrike mettent en lumière une stratégie d’ingénierie sociale à grande échelle qui transforme des experts informatiques en véritables chevaux de Troie.
-- Des deepfakes en temps réel pour berner les RH Selon les données consolidées par les analystes entre le 1er avril 2025 et le 31 mars 2026, un groupe de menace étatique baptisé Famous Chollima s’est hissé au centre des préoccupations de l’industrie technologique.
-
-## [<b>Cybersécurité</b> : Anthropic ouvre les portes de Mythos à trois banques européennes](https://www.lesechos.fr/finance-marches/banque-assurances/cybersecurite-anthropic-ouvre-les-portes-de-mythos-a-trois-banques-europeennes-2236698)  
-*Source : lesechos.fr | Publication : 2026-06-12*
-
-- Ce nouveau modèle d'IA, capable de détecter des failles de cybersécurité jugées sans précédent, a suscité de vives inquiétudes.
-
-## [Le secteur de la vente d'énergie fait face à des <b>cybermenaces</b> croissantes](https://www.enerzine.com/le-secteur-de-la-vente-denergie-fait-face-a-des-cybermenaces-croissantes/188149-2026-06)  
-*Source : enerzine.com | Publication : 2026-06-12*
-
-- Une thèse de doctorat de Mikko Suorsa, qui sera soutenue à l’Université de Vaasa, en Finlande, révèle que le secteur de la vente d’énergie est une partie essentielle mais vulnérable de la chaîne de valeur de l’industrie énergétique et des infrastructures critiques.
-- Ayant reçu relativement peu d’attention dans les efforts de cybersécurité, le secteur nécessite une résilience renforcée, et l’étude introduit des méthodes concrètes pour y parvenir.
-- C’est l’une des premières études à se concentrer spécifiquement sur les organisations de vente d’énergie.
-- Alors que les réseaux de production et de transport d’énergie ont traditionnellement été strictement protégés en tant qu’infrastructures critiques, la cybersécurité du secteur de la vente d’énergie a reçu beaucoup moins d’attention.
-
-## [Job Description: Cybersecurity Consultant - YouTube](https://www.youtube.com/watch?v=6ZIqS-2LWMc)  
-*Source : youtube.com | Publication : 2026-06-12*
+## [Tchap piraté sans hack - YouTube](https://www.youtube.com/watch?v=r5sBR1-jWwc)  
+*Source : youtube.com | Publication : 2026-06-13*
 
 - About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [<b>Cybersécurité</b> : La Chine et ses alliés sont responsables de 58% des attaques étatiques ...](https://www.usine-digitale.fr/cybersecurite/cybersecurite-la-chine-et-ses-allies-sont-responsables-de-58-des-attaques-etatiques-contre-le-secteur-technologique.4J5ZB5PK5BB7RAMJ5EJ2WJRLTU.html)  
-*Source : usine-digitale.fr | Publication : 2026-06-12*
+## [Les États-Unis forcent Anthropic à suspendre son IA la plus puissante - France 24](https://www.france24.com/fr/amériques/20260613-au-nom-de-la-sécurité-nationale-washington-force-anthropic-à-suspendre-son-ia-la-plus-puissante)  
+*Source : france24.com | Publication : 2026-06-13*
 
-- Le secteur tech, cible numéro un des ransomwares et fuites de données.
-- 572 organisations technologiques ont été publiquement exposées par des groupes.
+- Les États-Unis forcent Anthropic à suspendre son IA la plus puissante La société américaine Anthropic, éditrice des modèles d'intelligence artificielle Claude, a dû suspendre l’accès à ses nouveaux modèles d'IA, Mythos 5 et Fable 5, trois jours seulement après leur lancement, Washington ayant ordonné leur retrait pour tous les ressortissants étrangers.
+- Les États-Unis invoquent un risque pour la sécurité nationale craignant une utilisation de cette IA réputée performante pour détecter et exploiter des failles de cybersécurité.
+- Publié le : Modifié le : Le fleuron américain de l'intelligence artificielle Anthropic a été contraint, vendredi 12 juin, par son propre gouvernement de couper l'accès à ses modèles les plus puissants, trois jours après leur lancement.
+- Washington a invoqué un risque pour la sécurité nationale dans une décision sans précédent connu.
+
+## [La Chine publie des directives sur les données des services financiers dans le cadre d'un ...](https://www.zonebourse.com/actualite-bourse/la-chine-publie-des-directives-sur-les-donnees-des-services-financiers-dans-le-cadre-d-un-renforceme-ce7f5cd9de8ff723)  
+*Source : zonebourse.com | Publication : 2026-06-13*
+
+- PÉKIN, 13 juin - Les autorités chinoises chargées de la cybersécurité ont pris des mesures samedi pour durcir la hiérarchisation et la classification des données dans le secteur des services d'information financière, une initiative destinée, selon elles, à renforcer la gestion de la sécurité des données et à réguler le développement de l'industrie.
+- * L'Administration chinoise du cyberespace (CAC) a précisé que les données seraient désormais classées en quatre niveaux — centrales, importantes, générales sensibles et générales courantes — en fonction de leur importance, de leur sensibilité et du préjudice potentiel résultant d'éventuelles fuites.
+- * Cette mesure a été annoncée conjointement avec six autres départements ministériels, dont la Banque populaire de Chine (PBOC).
+- * Ces dernières années, la Chine a renforcé son cadre de sécurité des données, passant d'une législation de haut niveau à des règles sectorielles plus détaillées.
+
+## [Hiver, qualité, <b>cybersécurité</b>: doit-on se méfier des véhicules électriques «made in China»?](https://www.journaldemontreal.com/2026/07/11/vehicules-electriques-made-in-china-faut-il-se-mefier)  
+*Source : journaldemontreal.com | Publication : 2026-06-13*
+
+- Les conducteurs québécois ont de nombreuses questions concernant nos hivers rigoureux, la cybersécurité et les conditions de production.
+
+## [Coupe du Monde : Festival de Balogun qui s'offre un doublé ! : Sports - Orange](https://sports.orange.fr/videos/plus-de-sport/basket/coupe-du-monde-festival-de-balogun-qui-s-offre-un-double-CNT000002pVTqQ.html)  
+*Source : sports.orange.fr | Publication : 2026-06-13*
+
+- Equipements TV; TV et Replay; VOD; Musique, presse et jeux; Bons plans TV.
+- Orange TV · Cybersécurité et Télésurveillance.
+- Cybersécurité.
+
+## [<b>Cybercriminalité</b> : la justice saisie par le gouvernement contre Searcher, un site qui recense ...](https://actu.orange.fr/france/cybercriminalite-la-justice-saisie-par-le-gouvernement-contre-searcher-un-site-qui-recense-des-donnees-personnelles-volees-magic-CNT000002pVVlS.html)  
+*Source : actu.orange.fr | Publication : 2026-06-13*
+
+- cybercriminalité interrogés par Franceinfo et BFMTV, ces données volées par différents hackers auprès de structures variées étaient déjà.
+
+## [Quand les hackers frappent à votre porte : de faux techniciens se rendent désormais dans ...](https://www.01net.com/actualites/quand-les-hackers-frappent-a-votre-porte-de-faux-techniciens-se-rendent-desormais-dans-les-entreprises-quils-veulent-pirater.html)  
+*Source : 01net.com | Publication : 2026-06-13*
+
+- Le FBI et Google tirent la sonnette d’alarme.
+- Depuis janvier 2026, un groupe de cybercriminels intitulé Silent Ransom Group multiplie les cyberattaques aux États-Unis.
+- Les hackers se montrent particulièrement audacieux.
+- Ils vont parfois jusqu’à se rendre physiquement dans les bureaux des victimes pour voler des données.
+
+## [IA : Washington fait retirer le modèle phare d'Anthropic du marché mondial](https://www.agenceecofin.com/actualites/1306-139268-ia-washington-fait-retirer-le-modele-phare-d-anthropic-du-marche-mondial)  
+*Source : agenceecofin.com | Publication : 2026-06-13*
+
+- (Agence Ecofin) - Anthropic a ouvert cette semaine au public une version bridée de son modèle d’IA le plus puissant, jusque-là réservé à quelques partenaires en raison de ses capacités jugées dangereuses pour la cybersécurité.
+- Les précautions prises par l’entreprise s’avèrent insuffisantes, selon le gouvernement américain.
+- La start-up américaine Anthropic, à l’origine de l’assistant d’intelligence artificielle Claude, a annoncé le vendredi 12 juin la suspension avec effet immédiat de l’accès à ses modèles les plus avancés pour l’ensemble des clients.
+- Elle indique se conformer ainsi à une directive du gouvernement américain interdisant l’utilisation des modèles Claude Fable 5 et Claude Mythos 5 à tout ressortissant étranger, qu’il réside ou non aux États-Unis, y compris aux employés non américains d’Anthropic.
+
+## [Anthropic suspend Fable et Mythos 5 pour raisons de sécurité nationale - La Télé](https://latele.ch/articles/anthropic-suspend-fable-mythos-5-pour-raison-de-securite-nationale)  
+*Source : latele.ch | Publication : 2026-06-13*
+
+- Elle est bridée dans des domaines sensibles comme la cybersécurité et les risques d'attaque biologique et chimique.
+
+## [<b>Cybersécurité</b> : le gouvernement saisit la justice après la découverte d'un moteur de ...](https://www.linfo.re/france/faits-divers/cybersecurite-le-gouvernement-saisit-la-justice-apres-la-decouverte-d-un-moteur-de-recherche-controverse)  
+*Source : linfo.re | Publication : 2026-06-13*
+
+- Des informations confidentielles accessibles Révélé par franceinfo, le moteur de recherche « Searcher » donnait accès à de nombreuses informations personnelles concernant des Français.
+- Il permettait de consulter des noms, adresses et numéros de téléphone.
+- Il était également possible de voir des IBAN, des numéros de Sécurité sociale, des passeports ou encore des plaques d’immatriculation.
+- Des informations liées à la santé pouvaient aussi être retrouvées.
+
+## [Sur la piste des faux messages WhatsApp de Booking, cette nouvelle arnaque estivale en vogue](https://www.lemonde.fr/pixels/article/2026/06/13/sur-la-piste-des-faux-messages-whatsapp-de-booking-cette-nouvelle-arnaque-estivale-en-vogue_6701316_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-06-13*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [Orange et Crédit Agricole visent l'IA de <b>cybersécurité</b> d'Anthropic - Refrance](https://refrance.fr/orange-et-credit-agricole-visent-lia-de-cybersecurite-danthropic/)  
+*Source : refrance.fr | Publication : 2026-06-13*
+
+- Deux grands acteurs français, l’opérateur télécoms Orange et le groupe bancaire Crédit Agricole, seraient en négociation pour rejoindre Glasswing, le projet ultra-confidentiel d’Anthropic dédié à la cybersécurité par intelligence artificielle.
+- L’initiative, réservée à environ deux cents organisations mondiales triées sur le volet, vise à détecter et neutraliser les vulnérabilités informatiques à grande échelle avant toute exploitation malveillante.
+- Glasswing, un dispositif de cybersécurité IA à accès très restreint Crédit Agricole et Orange, deux piliers de l’économie française, seraient actuellement en discussions avec la société américaine Anthropic en vue d’intégrer le programme Glasswing, un projet d’intelligence artificielle appliquée à la cybersécurité de haute intensité.
+- Le directeur de la transformation technologique du Crédit Agricole a confirmé que l’établissement bancaire est « en train de rentrer dans le projet Glasswing », précisant que les échanges avec Anthropic portent notamment sur les questions cyber.
+
+## [Protéger activement les données personnelles dans le cyberespace - Báo Ảnh Việt Nam](https://vietnam.vnanet.vn/french/tin-van/proteger-activement-les-donnees-personnelles-dans-le-cyberespace-451493.html)  
+*Source : vietnam.vnanet.vn | Publication : 2026-06-13*
+
+- À l'heure où l'intelligence artificielle accélère la transformation numérique et stimule la croissance économique, les cybermenaces gagnent elles.
+
+## [9 banques européennes sont dans le viseur d'un redoutable malware qui exploite le NFC ...](https://www.01net.com/actualites/9-banques-europeennes-viseur-redoutable-malware-qui-exploite-nfc-smartphone.html)  
+*Source : 01net.com | Publication : 2026-06-13*
+
+- Début de l’année, les chercheurs de d3Lab ont découvert une fausse application Android sur Internet.
+- L’application se fait passer pour l’app officielle de la Deutsche Bank, la principale banque allemande.
+- Selon les investigations menées en janvier dernier, l’opération paraît encore relativement ciblée.
+- Le principe est aussi redoutable qu’éculé.
+
+## [Le modèle de <b>cybersécurité</b> attire les citoyens lors de l'événement &quot;Patrie paisible&quot;](https://fr.laodong.vn/video-xa-hoi/mo-hinh-an-ninh-mang-hut-nguoi-dan-tai-su-kien-to-quoc-binh-yen-1718292.ldo)  
+*Source : fr.laodong.vn | Publication : 2026-06-13*
+
+- Le modèle de cybersécurité attire les citoyens lors de l'événement "Patrie paisible" 14:16, Sat Jun 13, 2026 (GMT+7) Hô Chi Minh-Ville - Lors de l'événement "Patrie paisible", les touristes sont enthousiastes à l'idée de découvrir la technologie moderne, d'identifier les astuces des cybercriminels.
+- 59s Societe Culture - Divertissement Sports Entreprendre Mise à jour des prix de l'essence et du pétrole 13.6: Forte baisse grâce aux attentes d'un accord entre les États-Unis et l'Iran sur Hormuz Prix de l'or et des devises étrangères 13.
+- 6: L'or domestique fait une percée Le prix de l'or fluctue, les habitants de Hanoï font toujours la queue pour acheter des actifs Debat.
+
+## [Washington contraint Anthropic à suspendre Fable 5 et Mythos 5 - 20 minutes](https://www.20min.ch/fr/story/technologie-washington-force-anthropic-a-suspendre-son-ia-la-plus-puissante-103581694)  
+*Source : 20min.ch | Publication : 2026-06-13*
+
+- .
+- Fable 5 est bridé dans des domaines sensibles comme la cybersécurité et les risques d'attaque biologique et chimique.
+
+## [Micode, youtubeur spécialisé en <b>cybersécurité</b>, a été invité pour prése... - TikTok](https://www.tiktok.com/@quotidienofficiel/video/7650523875201010966)  
+*Source : tiktok.com | Publication : 2026-06-13*
+
+- 1826 j'aime,44 commentaires.Vidéo TikTok de Quotidien (@quotidienofficiel) : « Micode, youtubeur spécialisé en cybersécurité , a été invité pour.
