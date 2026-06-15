@@ -1,134 +1,150 @@
-# Résumés – 2026-06-14
+# Résumés – 2026-06-15
 
 
-## [Anthropic suspend Fable 5 et Mythos 5, ses deux modèles d'IA les plus puissants - Capital](https://www.capital.fr/entreprises-marches/anthropic-suspend-fable-5-et-mythos-5-ses-deux-modeles-dia-les-plus-puissants-1527599)  
-*Source : capital.fr | Publication : 2026-06-13*
+## [<b>Cybersécurité</b> : les 14 actualités majeures du 14 juin 2026](https://dcod.ch/2026/06/14/cybersecurite-les-14-actualites-majeures-du-14-juin-2026/)  
+*Source : dcod.ch | Publication : 2026-06-14*
 
-- Anthropic suspend ses deux modèles d’IA les plus puissants, Fable 5 et Mythos 5.
-- La start-up américaine est bien connue du grand public pour son agent conversationnel Claude (Sonnet 4.6), qui n’est pas concerné par cette suspension.
-- Celle-ci est due à une directive du gouvernement américain.
-- Celui-ci invoque la «sécurité nationale», rapporte BFMTV.
+- Faits marquants de la semaine Anthropic suspend brutalement l’accès à ses modèles Claude Fable 5 et Mythos 5 pour les citoyens étrangers, suite à une directive de sécurité nationale du gouvernement américain.
+- Ce blocage fait suite à des craintes de « jailbreak » permettant de militariser les capacités cyber du modèle.
+- - La Commission européenne s’apprête à saisir la Cour de justice de l’Union européenne contre la France et l’Espagne pour ne pas avoir transposé à temps la directive NIS2 et la directive sur la résilience des entités critiques, avec à la clé d’éventuelles amendes massives.
+- - Au large de Shanghai, le projet de datacentre sous-marin Shanghai Lingang, alimenté par l’énergie éolienne, est entré en service en mai avec une capacité de 24 mégawatts pour soutenir la montée en puissance de l’intelligence artificielle.
 
-## [La 5e édition de la Conférence sur la sécurité de l'information et la <b>cybersécurité</b> « CAISEC 2026 »](https://sis.gov.eg/fr/centre-médiatique/événements/la-5e-édition-de-la-conférence-sur-la-sécurité-de-l-information-et-la-cybersécurité-caisec-2026/)  
-*Source : sis.gov.eg | Publication : 2026-06-13*
+## [Salaires IT 2026 : la pénurie de talents fait toujours grimper la note des fonctions stratégiques](https://itchannel.info/articles/210059/salaires-it-2026-la-penurie-de-talents-fait-toujours-grimper-la-note-des-fonctions-strategiques.html)  
+*Source : itchannel.info | Publication : 2026-06-14*
 
-- Moustafa Madbouli, les activités de la 5ᵉ édition de la Conférence et du Salon sur la sécurité de l'information et la cybersécurité « CAISEC 2026 ».
+- Veuillez activer Javascript.
 
-## [Lightning talks at Octopus Conference 2026 - <b>Cybercriminalité</b> - The Council of Europe](https://www.coe.int/fr/web/cybercrime/lightning-talks-at-octopus-conference-2026)  
-*Source : coe.int | Publication : 2026-06-13*
+## [Salaires IT 2026 : la pénurie de talents fait toujours grimper la note des fonctions stratégiques](https://infodsi.com/articles/210059/salaires-it-2026-la-penurie-de-talents-fait-toujours-grimper-la-note-des-fonctions-strategiques.html)  
+*Source : infodsi.com | Publication : 2026-06-14*
 
-- Cybercriminalité · Présentations de 5 minutes · 1 diapositive seulement · 4 minutes de questions-réponses avec le public · Présentations individuelles ou.
+- Veuillez activer Javascript.
 
-## [Tchap piraté sans hack - YouTube](https://www.youtube.com/watch?v=r5sBR1-jWwc)  
-*Source : youtube.com | Publication : 2026-06-13*
+## [DOSSIER | FINTECH ET MOBILE MONEY 2.0 : SCALE, INTEROPÉRABILITÉ ET ...](https://cio-mag.com/dossier-fintech-et-mobile-money-2-0-scale-interoperabilite-et-regulation-en-afrique/)  
+*Source : cio-mag.com | Publication : 2026-06-14*
+
+- Editorial : L’Afrique financière vit aujourd’hui une révolution structurelle majeure où la vitesse cède désormais le pas à la maturité.
+- Certes, les performances spectaculaires du mobile money en République démocratique du Congo (RDC) ou dans l’espace UEMOA impressionnent, mais elles ne suffisent plus à masquer le défi crucial du passage à l’échelle.
+- C’est pourquoi, pour transformer cette adoption massive en une inclusion économique durable, le continent doit impérativement briser ses silos commerciaux.
+- L’avenir appartient ainsi aux architectures interconnectées, portées par l’essor des Super-Apps et des plateformes mutualisées comme GIMPay, qui s’efforcent d’unifier des marchés historiquement fragmentés.
+
+## [OpenText va créer 400 emplois grâce à un investissement de 105 millions d'euros à Cork et ...](https://fr.tradingview.com/news/prnewswire:e05bba3db68f9:0/)  
+*Source : fr.tradingview.com | Publication : 2026-06-14*
+
+- OpenText va créer 400 emplois grâce à un investissement de 105 millions d'euros à Cork et Galway afin de développer l'IA agentique et le cloud souverain en Europe Le Taoiseach Micheál Martin, député, et Michael Lohan, CEO d'IDA Ireland, se joignent à OpenText pour annoncer la création d'un centre d'excellence à Cork pour la région EMEA Il s'agit du plus important investissement jamais réalisé en Irlande par une entreprise technologique dont le siège social est situé au Canada, visant à faire progresser la R&D dans les domaines de l'IA agentique, du cloud souverain et de la cyberrésilience pour les clients de la région EMEA DUBLIN, 14 juin 2026 /PRNewswire/ -- OpenText™ (NASDAQ/TSX : OTEX), leader mondial de la gestion des données pour l'IA d'entreprise dont le siège social est situé à Waterloo, en Ontario (Canada), annonce aujourd'hui un investissement de 105 millions d'euros qui permettra de créer 400 nouveaux emplois sur l'ensemble de ses sites en Irlande au cours des trois prochaines années.
+- Cet engagement, qui double l'investissement d'OpenText en Irlande, permettra de renforcer sensiblement les capacités de l'entreprise en matière d'IA agentique, de cybersécurité, de cloud souverain et d'opérations numériques, au service des économies et des secteurs publics de la région Europe, Moyen-Orient et Afrique (EMEA).
+- Il s'agit du plus important investissement jamais réalisé en Irlande par une entreprise technologique dont le siège social est situé au Canada, avec le soutien du gouvernement irlandais par l'intermédiaire d'IDA Ireland.
+- Cet investissement de 105 millions d'euros est destiné aux activités opérationnelles et à la R&D dans trois domaines essentiels à une IA d'entreprise fiable — l'IA agentique, le cloud souverain et la cybersécurité — et permettra de créer des postes hautement qualifiés chez OpenText à Cork et à Galway.
+
+## [Claude Moniquet : «Le panel des menaces qui entourent le G7 est très complet» - Vidéo Dailymotion](https://www.dailymotion.com/video/xafmoh2)  
+*Source : dailymotion.com | Publication : 2026-06-14*
+
+- Skip to player Skip to main content Watch fullscreen.
+- Claude Moniquet : «Le panel des menaces qui entourent le G7 est très complet».
+
+## [Alerte <b>cybersécurité</b> : un faux site bancaire piège les internautes - Tuniscope](https://tuniscope.com/article/433900/actualites/societe/alerte-572719)  
+*Source : tuniscope.com | Publication : 2026-06-14*
+
+- Publié le 14-06-2026 Alerte cybersécurité : un faux site bancaire piège les internautes L’Agencenationale de cybersécurité a annoncé avoir détecté un site web frauduleux usurpant l’identité d’un établissement financier en reproduisant le design et le contenu de son site officiel.
+- L’objectif est de tromper les utilisateurs et de les inciter à saisir leurs données personnelles et sensibles via des formulaires suspects.
+- Dans un communiqué, l’Agence a mis en garde les citoyens et les a appelés à faire preuve de la plus grande vigilance, en évitant toute interaction avec ce site et en ne lui fournissant aucune information personnelle, bancaire ou aucun mot de passe.
+- Afin d’éviter de devenir victime de ce type d’escroquerie, l’Agence recommande de suivre les mesures suivantes : Vérifier l’adresse du site web avant de saisir toute donnée personnelle.
+
+## [Comment des hackeurs ont retourné l'IA de Google contre vous #<b>cybersecurite</b> #ia #shorts](https://www.youtube.com/watch?v=ZhUKLH_uBbY)  
+*Source : youtube.com | Publication : 2026-06-14*
 
 - About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Les États-Unis forcent Anthropic à suspendre son IA la plus puissante - France 24](https://www.france24.com/fr/amériques/20260613-au-nom-de-la-sécurité-nationale-washington-force-anthropic-à-suspendre-son-ia-la-plus-puissante)  
-*Source : france24.com | Publication : 2026-06-13*
+## [Anthropic a refusé de corriger le jailbreak de Claude Fable, alors les États-Unis l'ont interdit ...](https://yellow.com/fr/news/anthropic-a-refusé-de-corriger-le-jailbreak-de-claude-fable-alors-les-états-unis-lont-interdit-affirme-david-sacks)  
+*Source : yellow.com | Publication : 2026-06-14*
 
-- Les États-Unis forcent Anthropic à suspendre son IA la plus puissante La société américaine Anthropic, éditrice des modèles d'intelligence artificielle Claude, a dû suspendre l’accès à ses nouveaux modèles d'IA, Mythos 5 et Fable 5, trois jours seulement après leur lancement, Washington ayant ordonné leur retrait pour tous les ressortissants étrangers.
-- Les États-Unis invoquent un risque pour la sécurité nationale craignant une utilisation de cette IA réputée performante pour détecter et exploiter des failles de cybersécurité.
-- Publié le : Modifié le : Le fleuron américain de l'intelligence artificielle Anthropic a été contraint, vendredi 12 juin, par son propre gouvernement de couper l'accès à ses modèles les plus puissants, trois jours après leur lancement.
-- Washington a invoqué un risque pour la sécurité nationale dans une décision sans précédent connu.
+- David Sacks, conseiller technologique à la Maison-Blanche, a déclaré que l'administration Trump avait imposé export controls on Anthropic après que l'entreprise a refusé de corriger un jailbreak signalé dans son modèle Fable d’IA.
+- Sacks détaille l’ordonnance visant Anthropic Dans un post sur X samedi, Sacks wrote qu’un partenaire de confiance testant Fable avait trouvé un moyen de contourner les garde-fous censés empêcher son utilisation en cybersécurité.
+- L’administration a ensuite demandé au patron d’Anthropic, Dario Amodei, de corriger le problème ou de retirer le modèle.
+- Amodei a refusé, selon Sacks.
 
-## [La Chine publie des directives sur les données des services financiers dans le cadre d'un ...](https://www.zonebourse.com/actualite-bourse/la-chine-publie-des-directives-sur-les-donnees-des-services-financiers-dans-le-cadre-d-un-renforceme-ce7f5cd9de8ff723)  
-*Source : zonebourse.com | Publication : 2026-06-13*
+## [IA : la suspension de Claude Fable 5 et Mythos 5 d'Anthropic par l'administration Trump ...](https://www.humanite.fr/monde/administration-trump/ia-la-suspension-de-claude-fable-5-et-mythos-5-danthropic-par-ladministration-trump-relance-le-debat-sur-la-dependance-de-leurope-aux-technologies-americaines)  
+*Source : humanite.fr | Publication : 2026-06-14*
 
-- PÉKIN, 13 juin - Les autorités chinoises chargées de la cybersécurité ont pris des mesures samedi pour durcir la hiérarchisation et la classification des données dans le secteur des services d'information financière, une initiative destinée, selon elles, à renforcer la gestion de la sécurité des données et à réguler le développement de l'industrie.
-- * L'Administration chinoise du cyberespace (CAC) a précisé que les données seraient désormais classées en quatre niveaux — centrales, importantes, générales sensibles et générales courantes — en fonction de leur importance, de leur sensibilité et du préjudice potentiel résultant d'éventuelles fuites.
-- * Cette mesure a été annoncée conjointement avec six autres départements ministériels, dont la Banque populaire de Chine (PBOC).
-- * Ces dernières années, la Chine a renforcé son cadre de sécurité des données, passant d'une législation de haut niveau à des règles sectorielles plus détaillées.
+- L’administration Trump a interdit à Anthropic de distribuer la dernière mouture de son IA générative, Claude, hors des États-Unis.
+- L’éditeur se voit pris au piège de sa propre stratégie marketing basée sur la peur.
+- Plus personne n’a accès aux dernières versions de Claude, l’IA générative d’Anthropic, nommées Mythos 5 – connue pour ses compétences en cybersécurité et réservée à quelques acteurs stratégiques – et Fable 5, la version bridée à destination du grand public.
+- Le 12 juin au soir, l’administration Trump a demandé en effet à l’éditeur via une directive de « suspendre tous les accès » de ces outils « à tous les étrangers, aux États-Unis comme à l’étranger, y compris aux employés du groupe ».
 
-## [Hiver, qualité, <b>cybersécurité</b>: doit-on se méfier des véhicules électriques «made in China»?](https://www.journaldemontreal.com/2026/07/11/vehicules-electriques-made-in-china-faut-il-se-mefier)  
-*Source : journaldemontreal.com | Publication : 2026-06-13*
+## [Cyberattaques ciblant le Maroc : le paradoxe de la digitalisation sans maturité sécuritaire (Tribune)](https://lematin.ma/chroniques/cyberattaques-ciblant-le-maroc-digitalisation-vs-maturite-securitaire/350652/amp)  
+*Source : lematin.ma | Publication : 2026-06-14*
 
-- Les conducteurs québécois ont de nombreuses questions concernant nos hivers rigoureux, la cybersécurité et les conditions de production.
+- Matin TV Activités Royales Nation Économie Monde Société Culture Régions Emploi Enseignement Sports Automobile Chroniques Nos Spéciaux Chroniques Cyberattaques ciblant le Maroc : le paradoxe de la digitalisation sans maturité sécuritaire (Tribune) La vague de cyberattaques visant des institutions, des plateformes et des données marocaines ne dément pas la transformation numérique du Royaume.
+- Elle en révèle le nouveau seuil d’exigence.
+- À mesure que les services publics, les registres, les procédures et les infrastructures deviennent numériques, leur protection devient une condition de confiance, de continuité et de souveraineté.
+- L’intelligence artificielle ajoute désormais une rupture supplémentaire : elle rend l’attaque accessible à des profils peu expérimentés et démultiplie la puissance des acteurs aguerris.
 
-## [Coupe du Monde : Festival de Balogun qui s'offre un doublé ! : Sports - Orange](https://sports.orange.fr/videos/plus-de-sport/basket/coupe-du-monde-festival-de-balogun-qui-s-offre-un-double-CNT000002pVTqQ.html)  
-*Source : sports.orange.fr | Publication : 2026-06-13*
+## [La Syrie et l'Agence arabe de l'énergie atomique renforcent leur coopération](https://sana.sy/fr/syria-and-the-world/2311852/)  
+*Source : sana.sy | Publication : 2026-06-14*
 
-- Equipements TV; TV et Replay; VOD; Musique, presse et jeux; Bons plans TV.
-- Orange TV · Cybersécurité et Télésurveillance.
-- Cybersécurité.
+- Damas (SANA) – Le président de la Commission syrienne de l’énergie atomique, Mudar Al-Akleh, a rencontré dimanche le directeur général de l’Agence arabe de l’énergie atomique, Salem Al-Hamdi, en visite en Syrie.
+- Lors de la réunion tenue au siège de la Commission à Damas, les deux parties ont discuté des moyens de renforcer la coopération technique, la formation et les activités scientifiques dans le domaine des applications pacifiques de l’énergie atomique, ainsi que du soutien à la qualification et à la recherche scientifique.
+- Coopération conjointe dans les domaines scientifique et technique Mudar Al-Akleh, président de la commission, a affirmé la volonté de cette dernière de renforcer sa coopération et de contribuer au développement d’un avenir scientifique arabe plus avancé.
+- Il a précisé que cette visite témoigne de la solidité de la coopération scientifique et technique entre les deux parties et de la volonté de la Syrie d’être un partenaire actif.
 
-## [<b>Cybercriminalité</b> : la justice saisie par le gouvernement contre Searcher, un site qui recense ...](https://actu.orange.fr/france/cybercriminalite-la-justice-saisie-par-le-gouvernement-contre-searcher-un-site-qui-recense-des-donnees-personnelles-volees-magic-CNT000002pVVlS.html)  
-*Source : actu.orange.fr | Publication : 2026-06-13*
+## [Pourquoi le FBI a construit une ville entière dans un bâtiment - Clubic](https://www.clubic.com/actualite-616768-pourquoi-le-fbi-a-construit-une-ville-entiere-dans-un-batiment.html)  
+*Source : clubic.com | Publication : 2026-06-14*
 
-- cybercriminalité interrogés par Franceinfo et BFMTV, ces données volées par différents hackers auprès de structures variées étaient déjà.
+- Le FBI a ouvert en février 2025, sur sa base de Huntsville en Alabama, un centre d’entraînement cyber de 2 040 mètres carrés reproduisant une ville entière à l’intérieur d’un bâtiment.
+- Maisons, hôtel, hôpital, compagnie électrique, station-service : chaque bâtiment fonctionne avec de vrais réseaux, de vrais serveurs et de vraies infrastructures numériques.
+- Au rez-de-chaussée du campus nord du FBI à Redstone Arsenal, des agents s’agenouillent dans l’habitacle d’une voiture, retirent revêtements et plastiques, et remontent à la main les câbles jusqu’au calculateur électronique central, l’unité qui enregistre les déplacements du véhicule et ses usages.
+- L’exercice reproduit à l’identique les gestes d'une perquisition réelle.
 
-## [Quand les hackers frappent à votre porte : de faux techniciens se rendent désormais dans ...](https://www.01net.com/actualites/quand-les-hackers-frappent-a-votre-porte-de-faux-techniciens-se-rendent-desormais-dans-les-entreprises-quils-veulent-pirater.html)  
-*Source : 01net.com | Publication : 2026-06-13*
+## [Sénégal : Six personnes interpellées à Louga pour association de malfaiteurs, transmission ...](https://bambouguinee.com/2026/06/14/senegal-six-personnes-interpellees-a-louga-pour-association-de-malfaiteurs-transmission-volontaire-du-vih-et-actes-contre-nature/)  
+*Source : bambouguinee.com | Publication : 2026-06-14*
 
-- Le FBI et Google tirent la sonnette d’alarme.
-- Depuis janvier 2026, un groupe de cybercriminels intitulé Silent Ransom Group multiplie les cyberattaques aux États-Unis.
-- Les hackers se montrent particulièrement audacieux.
-- Ils vont parfois jusqu’à se rendre physiquement dans les bureaux des victimes pour voler des données.
+- Louga, Sénégal 13 juin 2026 – Une opération policière d’envergure a permis l’interpellation de six individus impliqués dans une affaire grave mêlant association de malfaiteurs, actes contre nature et transmission volontaire du VIH.
+- Dans le cadre d’une délégation judiciaire délivrée par le Juge d’instruction du Tribunal de Grande Instance (TGI) de Louga, la Division Spéciale de Lutte contre la Cybercriminalité (DSC), en collaboration avec le Groupe de Recherche et d’Interpellation (GRI) de la Division des Investigations Criminelles (DIC) et le Commissariat Urbain de Linguère, a mené une intervention coordonnée.
+- Les investigations ont abouti à l’arrestation des six cibles identifiées dans l’enquête principale visant un suspect principal.
+- Selon les autorités, ces personnes sont impliquées à des degrés divers dans les faits reprochés.
 
-## [IA : Washington fait retirer le modèle phare d'Anthropic du marché mondial](https://www.agenceecofin.com/actualites/1306-139268-ia-washington-fait-retirer-le-modele-phare-d-anthropic-du-marche-mondial)  
-*Source : agenceecofin.com | Publication : 2026-06-13*
+## [Privacy Research Day : Bitdefender protège vos données face aux menaces invisibles](https://www.lesnumeriques.com/antivirus/privacy-research-day-bitdefender-protege-vos-donnees-face-aux-menaces-invisibles-n257441.html)  
+*Source : lesnumeriques.com | Publication : 2026-06-14*
 
-- (Agence Ecofin) - Anthropic a ouvert cette semaine au public une version bridée de son modèle d’IA le plus puissant, jusque-là réservé à quelques partenaires en raison de ses capacités jugées dangereuses pour la cybersécurité.
-- Les précautions prises par l’entreprise s’avèrent insuffisantes, selon le gouvernement américain.
-- La start-up américaine Anthropic, à l’origine de l’assistant d’intelligence artificielle Claude, a annoncé le vendredi 12 juin la suspension avec effet immédiat de l’accès à ses modèles les plus avancés pour l’ensemble des clients.
-- Elle indique se conformer ainsi à une directive du gouvernement américain interdisant l’utilisation des modèles Claude Fable 5 et Claude Mythos 5 à tout ressortissant étranger, qu’il réside ou non aux États-Unis, y compris aux employés non américains d’Anthropic.
+- Privacy Research Day : Bitdefender protège vos données face aux menaces invisibles À l'occasion du Privacy Research Day, la protection des données personnelles revient au cœur des préoccupations numériques.
+- Entre tentatives de phishing, logiciels malveillants, fuites d'informations et arnaques en ligne, les menaces se multiplient tout en devenant de plus en plus discrètes.
+- Souvent invisibles pour l'utilisateur, elles ciblent aussi bien les ordinateurs que les smartphones utilisés au quotidien.
+- Dans ce contexte, Bitdefender met en avant plusieurs offres de cybersécurité actuellement proposées avec jusqu'à 50 % de réduction.
 
-## [Anthropic suspend Fable et Mythos 5 pour raisons de sécurité nationale - La Télé](https://latele.ch/articles/anthropic-suspend-fable-mythos-5-pour-raison-de-securite-nationale)  
-*Source : latele.ch | Publication : 2026-06-13*
+## [Nantes : la maire Johanna Rolland dénonce un &quot;déferlement de haine&quot; après sa visite dans ...](https://actu.orange.fr/france/nantes-la-maire-johanna-rolland-denonce-un-deferlement-de-haine-apres-sa-visite-dans-une-mosquee-magic-CNT000002pXj6H.html)  
+*Source : actu.orange.fr | Publication : 2026-06-14*
 
-- Elle est bridée dans des domaines sensibles comme la cybersécurité et les risques d'attaque biologique et chimique.
+- Nantes : la maire Johanna Rolland dénonce un "déferlement de haine" après sa visite dans une mosquée © Capture Presse Océan - Johanna Rolland a reçu un déferlement de haine sous une publication Facebook Johanna Rolland a fermement condamné les commentaires haineux reçus sous l'une de ses publications Facebook récentes samedi 13 juin.
+- Elle y partage les images d’une visite donnée à la nouvelle mosquée de sa ville.
+- La maire de Nantes dénonce une libération de la parole raciste.
+- "Ça suffit !.
 
-## [<b>Cybersécurité</b> : le gouvernement saisit la justice après la découverte d'un moteur de ...](https://www.linfo.re/france/faits-divers/cybersecurite-le-gouvernement-saisit-la-justice-apres-la-decouverte-d-un-moteur-de-recherche-controverse)  
-*Source : linfo.re | Publication : 2026-06-13*
+## [Selon une source, Amazon s'est inquiété des modèles d'IA d'Anthropic avant la répression ...](https://www.boursorama.com/bourse/actualites-amp/selon-une-source-amazon-avait-fait-part-de-ses-inquietudes-concernant-les-modeles-d-ia-d-anthropic-avant-la-campagne-de-repression-menee-par-le-gouvernement-americain-10dca0f82fed2e11787ff0e59dea0376)  
+*Source : boursorama.com | Publication : 2026-06-14*
 
-- Des informations confidentielles accessibles Révélé par franceinfo, le moteur de recherche « Searcher » donnait accès à de nombreuses informations personnelles concernant des Français.
-- Il permettait de consulter des noms, adresses et numéros de téléphone.
-- Il était également possible de voir des IBAN, des numéros de Sécurité sociale, des passeports ou encore des plaques d’immatriculation.
-- Des informations liées à la santé pouvaient aussi être retrouvées.
+- Selon une source, Amazon s'est inquiété des modèles d'IA d'Anthropic avant la répression américaine information fournie par Reuters 14/06/2026 à 00:21 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Ajout des commentaires du conseiller de la Maison Blanche, paragraphes 13 et 14) * Anthropic a désactivé ses modèles d'IA à l'échelle mondiale suite à des ordres liés à la sécurité nationale américaine * Le gouvernement américain a invoqué le risque de "jailbreak" de Fable 5 pour identifier les vulnérabilités logicielles * Les experts remettent en question les contrôles à l'exportation qui affectent les alliés, qualifiant cette mesure de mal pensée par Stephen Nellis Andy Jassy, directeur général d' AMZN.O , a fait partie des dirigeants du secteur technologique qui ont fait part cette semaine à de hauts responsables de l'administration Trump de leurs inquiétudes concernant les risques de sécurité liés aux modèles d'IA les plus avancés d'Anthropic, a déclaré à Reuters une source proche du dossier.
+- L'implication de M. Jassy éclaire la décision extraordinaire prise vendredi par Anthropic de mettre hors service ses derniers modèles à l'échelle mondiale en réponse aux ordres de sécurité nationale émis par l'administration du président Donald Trump.
+- La start-up d'IA basée à San Francisco, qui a déposé en toute confidentialité une demande d'introduction en bourse aux États-Unis , avait précédemment mis en garde contre les capacités de piratage de son modèle Mythos et en avait suspendu la diffusion à grande échelle, mais en début de semaine, Anthropic a lancé une version publique , baptisée Fable, dotée de ce qu'elle a décrit comme des mesures de protection en matière de cybersécurité.
+- Cette brève mise à disposition a pris fin vendredi.
 
-## [Sur la piste des faux messages WhatsApp de Booking, cette nouvelle arnaque estivale en vogue](https://www.lemonde.fr/pixels/article/2026/06/13/sur-la-piste-des-faux-messages-whatsapp-de-booking-cette-nouvelle-arnaque-estivale-en-vogue_6701316_4408996.html)  
-*Source : lemonde.fr | Publication : 2026-06-13*
+## [dangereuses »… Le destin chaotique de Mythos, la dernière IA d'Anthropic, en 5 actes](https://www.ouest-france.fr/high-tech/intelligence-artificielle/modele-dangereux-embargo-de-trump-fuite-le-destin-chaotique-de-mythos-la-derniere-ia-danthropic-en-5-actes-75686fd2-67c1-11f1-8ae5-0c53cf467897)  
+*Source : ouest-france.fr | Publication : 2026-06-14*
 
-- JavaScript is disabled in your browser.
-- Please enable JavaScript to proceed.
-- A required part of this site couldn’t load.
-- This may be due to a browser extension, network issues, or browser settings.
+- Une fuite révèle les performances inquiétantes de Mythos.
+- C'est un comble pour un modèle d'IA particulièrement efficace en matière de cybersécurité.
+- À.
 
-## [Orange et Crédit Agricole visent l'IA de <b>cybersécurité</b> d'Anthropic - Refrance](https://refrance.fr/orange-et-credit-agricole-visent-lia-de-cybersecurite-danthropic/)  
-*Source : refrance.fr | Publication : 2026-06-13*
+## [Searcher: pourquoi l'outil de recherche en ligne de données volées est-il illégal, et surtout ...](https://www.bfmtv.com/tech/cybersecurite/searcher-pourquoi-l-outil-de-recherche-en-ligne-de-donnees-volees-est-il-illegal-et-surtout-que-risquent-ses-utilisateurs_AV-202606140272.html)  
+*Source : bfmtv.com | Publication : 2026-06-14*
 
-- Deux grands acteurs français, l’opérateur télécoms Orange et le groupe bancaire Crédit Agricole, seraient en négociation pour rejoindre Glasswing, le projet ultra-confidentiel d’Anthropic dédié à la cybersécurité par intelligence artificielle.
-- L’initiative, réservée à environ deux cents organisations mondiales triées sur le volet, vise à détecter et neutraliser les vulnérabilités informatiques à grande échelle avant toute exploitation malveillante.
-- Glasswing, un dispositif de cybersécurité IA à accès très restreint Crédit Agricole et Orange, deux piliers de l’économie française, seraient actuellement en discussions avec la société américaine Anthropic en vue d’intégrer le programme Glasswing, un projet d’intelligence artificielle appliquée à la cybersécurité de haute intensité.
-- Le directeur de la transformation technologique du Crédit Agricole a confirmé que l’établissement bancaire est « en train de rentrer dans le projet Glasswing », précisant que les échanges avec Anthropic portent notamment sur les questions cyber.
+- Searcher: pourquoi l’outil de recherche en ligne de données volées est-il illégal, et surtout que risquent ses utilisateurs?.
+- Accessible depuis une dizaine de jours, Searcher est un site qui propose aux internautes de consulter des bases de données d’informations qui ont été dérobées lors de cyberattaques ces derniers mois, par exemple celle de l'ANTS ou des services de l’assurance maladie.
+- "D'un point de vue juridique, ce site peut être qualifié de service de recherche et d'agrégation d'informations relatives aux personnes physiques", nous explique Me Antoine Cheron, avocat spécialisé dans le numérique.
+- De fait, y sont listés de nombreux types d’informations personnelles (nom, adresse électronique, numéro de téléphone, pseudonyme utilisé sur les réseaux sociaux, IBAN, etc.).
 
-## [Protéger activement les données personnelles dans le cyberespace - Báo Ảnh Việt Nam](https://vietnam.vnanet.vn/french/tin-van/proteger-activement-les-donnees-personnelles-dans-le-cyberespace-451493.html)  
-*Source : vietnam.vnanet.vn | Publication : 2026-06-13*
+## [Conseil de l'Europe victime d'une fuite de données, 297 Go volés par <b>ransomware</b>](https://frenchbreaches.com/alertes/conseil-de-l-europe-rw_WTI5bExtbHVkRUJ6YUdsdWVXaDFiblJsY25NPQ)  
+*Source : frenchbreaches.com | Publication : 2026-06-14*
 
-- À l'heure où l'intelligence artificielle accélère la transformation numérique et stimule la croissance économique, les cybermenaces gagnent elles.
-
-## [9 banques européennes sont dans le viseur d'un redoutable malware qui exploite le NFC ...](https://www.01net.com/actualites/9-banques-europeennes-viseur-redoutable-malware-qui-exploite-nfc-smartphone.html)  
-*Source : 01net.com | Publication : 2026-06-13*
-
-- Début de l’année, les chercheurs de d3Lab ont découvert une fausse application Android sur Internet.
-- L’application se fait passer pour l’app officielle de la Deutsche Bank, la principale banque allemande.
-- Selon les investigations menées en janvier dernier, l’opération paraît encore relativement ciblée.
-- Le principe est aussi redoutable qu’éculé.
-
-## [Le modèle de <b>cybersécurité</b> attire les citoyens lors de l'événement &quot;Patrie paisible&quot;](https://fr.laodong.vn/video-xa-hoi/mo-hinh-an-ninh-mang-hut-nguoi-dan-tai-su-kien-to-quoc-binh-yen-1718292.ldo)  
-*Source : fr.laodong.vn | Publication : 2026-06-13*
-
-- Le modèle de cybersécurité attire les citoyens lors de l'événement "Patrie paisible" 14:16, Sat Jun 13, 2026 (GMT+7) Hô Chi Minh-Ville - Lors de l'événement "Patrie paisible", les touristes sont enthousiastes à l'idée de découvrir la technologie moderne, d'identifier les astuces des cybercriminels.
-- 59s Societe Culture - Divertissement Sports Entreprendre Mise à jour des prix de l'essence et du pétrole 13.6: Forte baisse grâce aux attentes d'un accord entre les États-Unis et l'Iran sur Hormuz Prix de l'or et des devises étrangères 13.
-- 6: L'or domestique fait une percée Le prix de l'or fluctue, les habitants de Hanoï font toujours la queue pour acheter des actifs Debat.
-
-## [Washington contraint Anthropic à suspendre Fable 5 et Mythos 5 - 20 minutes](https://www.20min.ch/fr/story/technologie-washington-force-anthropic-a-suspendre-son-ia-la-plus-puissante-103581694)  
-*Source : 20min.ch | Publication : 2026-06-13*
-
-- .
-- Fable 5 est bridé dans des domaines sensibles comme la cybersécurité et les risques d'attaque biologique et chimique.
-
-## [Micode, youtubeur spécialisé en <b>cybersécurité</b>, a été invité pour prése... - TikTok](https://www.tiktok.com/@quotidienofficiel/video/7650523875201010966)  
-*Source : tiktok.com | Publication : 2026-06-13*
-
-- 1826 j'aime,44 commentaires.Vidéo TikTok de Quotidien (@quotidienofficiel) : « Micode, youtubeur spécialisé en cybersécurité , a été invité pour.
+- Menace de divulgation de données – ShinyHunters menace de publier 297 Go de données du Conseil de l'Europe Le groupe cybercriminel ShinyHunters a publié une nouvelle revendication visant le Conseil de l'Europe sur sa plateforme de fuite du dark web.
+- Cette publication intervient après la confirmation d'un incident de cybersécurité ayant affecté des infrastructures européennes.
+- Les cybercriminels affirment désormais détenir un important volume de données internes liées aux ressources humaines et à l'administration du personnel.
+- Selon les éléments publiés par le groupe, environ 297 Go de données représentant plus de 429 000 fichiers auraient été exfiltrés.
