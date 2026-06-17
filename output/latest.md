@@ -1,156 +1,148 @@
-# Résumés – 2026-06-16
+# Résumés – 2026-06-17
 
 
-## [Squad consolide son positionnement cyber avec une opération de croissance externe](https://www.itforbusiness.fr/squad-consolide-son-positionnement-cyber-avec-une-operation-de-croissance-externe-104641)  
-*Source : itforbusiness.fr | Publication : 2026-06-15*
+## [ZDNET Morning 16/06/2026 : Telcos et quantique : entre miracle et péril, <b>Cybersécurité</b> et ...](https://www.zdnet.fr/actualites/zdnet-morning-16-06-2026-telcos-et-quantique-entre-miracle-et-peril-cybersecurite-et-sous-traitants-nouveau-revers-judiciaire-pour-elon-musk-497003.htm)  
+*Source : zdnet.fr | Publication : 2026-06-16*
 
-- ChannelScope Squad consolide son positionnement cyber avec une opération de croissance externe Par Frédéric Bergonzoli, publié le 15 juin 2026 Squad a procédé au rachat de Løvell Consulting pour renforcer son offre de conseil en cybersécurité.
-- Cette intégration complète ses expertises dans les domaines de la gestion des risques et de la conformité, de la gestion des identités et des accès, et de la résilience.
-- Entreprise française de cybersécurité fondée en 2011, Squad a accéléré son développement ces dernières années, avec notamment les acquisitions de Newlode, spécialisée dans l’intégration et les services managés, et de Scassi, un expert des systèmes critiques, OT, IoT et embarqués.
-- Le groupe vient de mettre la main sur Løvell Consulting, un cabinet de conseil spécialisé dans la gouvernance des systèmes de sécurité, la GRC et l’IAM.
+- Le ZDNET Morning c'est LE condensé de l'actu tech pour les pros tous les matins à 9h00 sur le site.
+- Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.
+- 📡 Réseaux télécoms : le quantique, entre miracle et péril - Si cette technologie promet de révolutionner la vitesse et la confidentialité des échanges, elle fait aussi peser une menace sans précédent sur nos chiffrements actuels.
+- Mesurer les risques du quantique 🔒 Cybersécurité : les sous-traitants restent le point faible des grandes entreprises - Une étude signée Kaspersky révèle qu'un tiers des organisations mondiales ont subi une intrusion via leur chaîne d'approvisionnement en un an.
 
-## [<b>Cybersécurité</b> : Mise en garde de l'ANCS contre un site électronique frauduleux](https://espacemanager.com/cybersecurite-mise-en-garde-de-lancs-contre-un-site-electronique/)  
-*Source : espacemanager.com | Publication : 2026-06-15*
+## [«Des projets concrets issus du terrain» : trois nouvelles académies au Digital Learning Hub](https://lequotidien.lu/a-la-une/des-projets-concrets-issus-du-terrain-trois-nouvelles-academies-au-digital-learning-hub/)  
+*Source : lequotidien.lu | Publication : 2026-06-16*
 
-- L’Agence Nationale de la cybersécurité (ANCS) a mis en garde contre un site électronique frauduleux qui usurpe l’identité d’un nombre d’établissements financiers en reproduisant la conception et le contenu de leurs sites officiels dans l’objectif de tromper les utilisateurs et de les inciter à saisir leurs données personnelles et sensibles à travers des formulaires suspects.
-- L’ANCS appelle également les utilisateurs à faire preuve de la plus grande vigilance et à ne pas interagir avec ce site ni lui communiquer des informations personnelles, bancaires ou des mots de passe.
-- L’agence recommande dans ce cadre de vérifier l’adresse du site internet avant de saisir toute donnée personnelle.
-- Il s’agit en outre de ne pas cliquer sur les liens reçus par courrier électronique, SMS ou via les applications de réseaux sociaux provenant de sources non fiables, avertit encore l’ANCS.
+- Le Digital Learning Hub a inauguré ce mardi à Belval trois académies spécialisées en intelligence artificielle, cybersécurité et informatique quantique.
+- Depuis son lancement en 2022, le Digital Learning Hub, structure d’apprentissage implantée à Belval et rattachée au ministère de l’Éducation nationale, a assuré plus de 650 formations courtes sous forme de modules pour 15 000 participants.
+- Avec un double objectif : réduire la fracture numérique en aidant des publics différents à se former au digital via des sessions abordables – 4 euros l’heure en moyenne, - et contribuer à combler le manque de professionnels qualifiés en informatique sur le marché du travail.
+- - D’où la gratuité des formations pour les agents de la fonction publique, et une réduction de 4 euros par heure de cours pour les étudiants, les demandeurs d’asile, les bénéficiaires de l’allocation de vie chère et les demandeurs d’emploi inscrits à l’Adem ou auprès d’une agence pour l’emploi dans la Grande Région.
 
-## [Une cryptographe française de renom travaille sur l'un des plus grands problèmes de l'IA](https://sciencepost.fr/une-cryptographe-francaise-de-renom-travaille-sur-lun-des-plus-grands-problemes-de-lia-sa-securisation-face-aux-futures-cyberattaques/)  
-*Source : sciencepost.fr | Publication : 2026-06-15*
+## [Vivatech, du 17 au 20 juin 2026 à Paris | France TV &amp; Vous](https://www.francetelevisions.fr/et-vous/notre-tele/on-soutient/vivatech-du-17-au-20-juin-2026-a-paris-57340)  
+*Source : francetelevisions.fr | Publication : 2026-06-16*
 
-- Selon la cryptographe française Marie Paindavoine le déploiement d’Internet il y a plusieurs décennies s’est fait avant tout sécurisation.
-- Or, le schéma semble se répéter aujourd’hui avec l’intelligence artificielle.
-- Sa récente tribune dans un important média témoigne du décalage certain entre l’adoption rapide de l’IA et le développement de sa sécurité.
-- Une sécurité quasiment inexistante Docteure en cryptographie, Marie Paindavoine est aujourd’hui une figure importante de la cybersécurité en Europe.
+- Salon technologique majeur, Vivatech, qui fête sa 10ᵉ édition, réunit chaque année l’écosystème mondial de l’innovation – startups, grandes entreprises, investisseurs, décideurs publics et experts – pour co-construire les technologies et modèles économiques de demain.
+- En l’espace de dix ans, il est devenu l’un des plus grands événements européens dédiés à l’innovation numérique, à l’entrepreneuriat et à la transformation technologique, favorisant les échanges entre acteurs privés et publics et contribuant à l’accélération de projets innovants.
+- Pendant quatre jours, un riche programme attend les visiteurs : expositions sectorielles et stands d’innovation, conférences plénières et panels d’experts, sessions de pitchs et concours startup, rencontres B2B et opportunités de mise en relation pour catalyser des collaborations durables, zones thématiques dédiées à l’intelligence artificielle, à l’impact social, à la cybersécurité, aux technologies immersives, au climat et à la mobilité.
+- Jeff Bezos, le président exécutif d’Amazon, est attendu le 17 juin pour une prise de parole sur la grande scène du VivaTech Theater.
 
-## [HENSOLDT et ST Engineering signent un protocole d'accord dans les domaines de la ...](https://www.hensoldt.net/fr/news/hensoldt-and-st-engineering-sign-an-mou-in-the-fields-of-software-defined-defence-and-cybersecurity)  
-*Source : hensoldt.net | Publication : 2026-06-15*
+## [Cyberattaque contre jeveuxaider.gouv.fr : les données de plus de 550 000 utilisateurs ...](https://actu.orange.fr/france/cyberattaque-contre-jeveuxaider-gouv-fr-les-donnees-de-plus-de-550-000-utilisateurs-potentiellement-compromises-magic-CNT000002q0yHF.html)  
+*Source : actu.orange.fr | Publication : 2026-06-16*
 
-- HENSOLDT et Project Q s'associent pour faire progresser l'intégration des systèmes de défense et des capteurs axée sur les logiciels HENSOLDT et Project Q ont signé un protocole d'accord lors du salon Eurosatory à Paris.
-- Cet accord jette les bases d'une collaboration dans les domaines de l'intégration de capteurs, de l'edge computing et des opérations multidomaines.
+- Cyberattaque contre jeveuxaider.gouv.fr : les données de plus de 550 000 utilisateurs potentiellement compromises © Julio Lopez / Pexels - Illustration La plateforme gouvernementale de bénévolat jeveuxaider.gouv.fr a été victime d’une attaque informatique lundi 15 juin.
+- Selon les premières informations rapportées par le ministère des Sports, de la jeunesse et de la vie associative, les données personnelle de plus de 550 000 utilisateurs pourraient avoir été exposées.
+- Une enquête est en cours pour déterminer l'étendue exacte de l'incident et les informations concernées.
+- Une énième cyberattaque affecte les données des Français.
 
-## [Face aux <b>cybermenaces</b>, le groupe informatique VFLIT avance ses pions parmi les grands, à Nantes](https://nantes.maville.com/actu/actudet_-face-aux-cybermenaces-le-groupe-informatique-vflit-avance-ses-pions-parmi-les-grands-a-nantes-_loc-7361861_actu.Htm)  
-*Source : nantes.maville.com | Publication : 2026-06-15*
+## [Impact des modèles d'IA de frontière sur la <b>cybersécurité</b> : le guide du défenseur](https://www.paloaltonetworks.com/blog/2026/06/impact-des-modeles-dia-de-frontiere-sur-la-cybersecurite-le-guide-du-defenseur/?lang=fr)  
+*Source : paloaltonetworks.com | Publication : 2026-06-16*
 
-- Installé à Saint-Sébastien-sur-Loire et à La Roche-sur-Yon, le groupe VFLIT a présenté sa stratégie pour les prochaines années : passer de 30 à 50 millions d’euros de chiffre d’affaires, en développant entre autres ses activités de cybersécurité.
-- Pas facile dans l’univers informatique où des géants caracolent en tête de se faire une place au soleil pour un groupe de taille moyenne.
-- Comme VFLIT, pour Vous faciliter l’IT (1), trente millions de chiffre d’affaires en 2025, 235 salariés dans vingt départements, implanté notamment à Saint-Sébastien-sur-Loire (Loire-Atlantique).
-- Cet article est réservé aux abonnés Pour un accès immédiat, abonnez-vous 1er mois à 1€ Déjà abonné ?.
+- This post is also available in: English (Anglais) 繁體中文 (Chinois traditionnel) 日本語 (Japonais) 한국어 (Coréen) L’essor des nouveaux modèles d’IA de frontière rebat les cartes de la cybersécurité.
+- Palo Alto Networks a eu l’occasion de tester en avant-première les tout derniers modèles d’IA de frontière, notamment le modèle Mythos d’Anthropic (dans le cadre du projet Glasswing) et les modèles les plus récents d’OpenAI (dans le cadre du programme Trusted Access for Cyber).
+- Le constat est sans appel : Ces modèles sont extrêmement efficaces pour identifier des vulnérabilités et générer les exploits correspondants.
+- Ce bond générationnel des capacités de codage se traduit directement par une avancée majeure dans la découverte des vulnérabilités et la génération d’exploitations.
 
-## [Les États membres de l'UE s'accordent sur l'inclusion de l'Ukraine dans la ... - Agence Europe](https://agenceurope.eu/fr/bulletin/article/13888/34/les-etats-membres-de-lue-saccordent-sur-linclusion-de-lukraine-dans-la-reserve-europeenne-de-cybersecurite)  
-*Source : agenceurope.eu | Publication : 2026-06-15*
+## [Grant Thornton Advisors standardise ses services de <b>cybersécurité</b> sur la plateforme Falcon](https://www.zonebourse.com/actualite-bourse/crowdstrike-grant-thornton-advisors-standardise-ses-services-de-cybersecurite-sur-la-plateforme-fa-ce7f5cdfdc80f520)  
+*Source : zonebourse.com | Publication : 2026-06-16*
 
-- 15/06/26 (Agence Europe) – Le Conseil de l’UE est convenu, lundi 15 juin, d’inclure l’Ukraine dans la réserve européenne de cybersécurité, ouvrant ainsi la voie à ce que le pays puisse activer ce mécanisme et bénéficier de son soutien.
-- Cette réserve fournit des services de réponse aux incidents par l’intermédiaire de prestataires privés de confiance afin de faire face à des cyberattaques de grande ampleur et de forte intensité.
-- Elle est gérée par l’Agence de l’Union européenne pour la cybersécurité (ENISA).
-- La Commission européenne avait demandé au Conseil d’autoriser cette mesure après avoir confirmé que l’Ukraine remplissait les conditions requises pour en bénéficier (EUROPE 13870/10).
+- CrowdStrike : Grant Thornton Advisors standardise ses services de cybersécurité sur la plateforme FalconCrowdStrike a annoncé mardi que Grant Thornton Advisors a standardisé ses opérations de services de sécurité managés sur la plateforme CrowdStrike Falcon, s'appuyant principalement sur.
 
-## [RGPD et <b>cybersécurité</b> : le lien que beaucoup de PME n'ont toujours pas compris - Clubic](https://www.clubic.com/dossier-615745-rgpd-et-cybersecurite-le-lien-que-beaucoup-de-pme-n-ont-toujours-pas-compris.html)  
-*Source : clubic.com | Publication : 2026-06-15*
+## [Claude Mythos et la nouvelle dynamique de la <b>cybersécurité</b> - NTT DATA](https://fr.nttdata.com/insights/blog/claude-mythos)  
+*Source : fr.nttdata.com | Publication : 2026-06-16*
 
-- En 2025, la CNIL a recensé 6 167 violations de données personnelles notifiées, soit 9,5 % de plus qu’en 2024.
-- Un incident sur deux déclaré relève d’un piratage.
-- La CNIL a prononcé 83 sanctions pour un montant total de 487 millions d’euros.
-- Dès qu’une faille informatique touche des données personnelles, vous avez 72 heures pour notifier la CNIL.
+- L’histoire de la cybersécurité a largement été une course contre la montre.
+- Depuis des années, les organisations cherchent à réduire le délai entre l’identification d’une vulnérabilité et sa correction.
+- Aujourd’hui, une nouvelle génération de modèles d’intelligence artificielle accélère la découverte des vulnérabilités à un rythme sans précédent.
+- Claude Mythos, présenté par Anthropic dans le cadre de l’initiative Project Glasswing, est bien plus qu’un nouveau modèle d’IA avancé.
 
-## [Constructions Piraino ciblée par <b>ransomware</b>, une fuite de données revendiquée en ligne](https://frenchbreaches.com/alertes/constructions-piraino-rw_UTI5dWMzUnlkV04wYVc5dWN5QlFhWEpoYVc1dlFIUm9aV2RsYm5Sc1pXMWxiZz09)  
-*Source : frenchbreaches.com | Publication : 2026-06-15*
+## [Les assurés en cyberassurance font l'objet d'un examen plus approfondi lors de la ...](https://health-isac.org/fr/Les-assurés-en-cyberassurance-font-l'objet-d'un-examen-plus-approfondi-lors-du-traitement-des-demandes-d'indemnisation./)  
+*Source : health-isac.org | Publication : 2026-06-16*
 
-- Revendication de cyberattaque – Constructions Piraino ajoutée au site de fuite du groupe ransomware TheGentleman Le groupe de ransomware TheGentleman a ajouté Constructions Piraino à sa plateforme de divulgation et revendique une compromission de ses systèmes d'information.
-- Constructions Piraino est une entreprise française spécialisée dans la construction de maisons individuelles et les projets résidentiels.
-- Basée à Wasquehal, elle intervient principalement dans le Nord et le Pas-de-Calais et accompagne ses clients dans la conception et la réalisation de projets immobiliers sur mesure.Selon les éléments publiés sur le site de fuite de TheGentleman, les cybercriminels affirment avoir obtenu un volume important de documents internes et menacent de publier les données dérobées à l'expiration du compte à rebours affiché sur leur plateforme.
-- Ce que revendique le groupe TheGentleman D'après les informations affichées sur la plateforme de fuite : Revendication publiée par le groupe ransomware TheGentleman ; - Compromission présumée des systèmes d'information de Constructions Piraino ; - Publication d'une fiche dédiée sur le site de fuite du groupe ; - Menace de divulgation publique des données ; - Présence d'un compte à rebours avant publication ; - Revendication d'un accès à des documents internes ; - Publication d'une description détaillée de l'entreprise ciblée ; - Étendue réelle de l'incident encore inconnue ; - Vérifications et investigations nécessaires pour confirmer les impacts.
+- Les assurés en cyberassurance font l'objet d'un examen plus approfondi lors de la souscription et du traitement des sinistres.
+- Une accalmie de plusieurs années dans la hausse des tarifs d'assurance et la dépendance excessive des assureurs à l'égard des grands assurés américains ont entraîné davantage de restrictions et d'exclusions de couverture.
+- Les entreprises titulaires de polices d'assurance cyber font l'objet d'un examen plus approfondi de leurs demandes d'indemnisation, à mesure que les tarifs baissent et que les assureurs s'efforcent de rester rentables.
+- L'enjeu est de taille pour les deux parties.
 
-## [DumpSec : des arrestations qui rappellent encore l'importance de la <b>cybercriminalité</b> française](https://www.lemagit.fr/actualites/366644295/DumpSec-des-arrestations-qui-rappellent-encore-limportance-de-la-cybercriminalite-francaise)  
-*Source : lemagit.fr | Publication : 2026-06-15*
+## [Selon Fernando de l'hôpital pour enfants Rady, l'engagement opérationnel est la clé de la ...](https://health-isac.org/fr/rady-childrens-fernando-says-operational-engagement-is-the-key-to-cyber-resilience/)  
+*Source : health-isac.org | Publication : 2026-06-16*
 
-- zef art - stock.adobe.com DumpSec : des arrestations qui rappellent encore l'importance de la cybercriminalité française Sept individus associés au collectif DumpSec ont été arrêtés en fin de semaine dernière.
-- Ils auraient soutiré des données à plus de 1 500 entités publiques et privées et illustrent à nouveau l'ampleur de la cybercriminalité française.
-- Le groupe Dumpsec a démontré une capacité d'extraction massive et indiscriminée, touchant plus de 1 500 sociétés ou organismes publics en France.
-- Il pourrait bien avoir signé ses derniers méfaits : 7 individus présentés comme associés au collectif ont été interpelé dans le cadre d'une opération pilotée par l'Office anti-cybercriminalité (OFAC), Parmi les cibles documentées, l'Assemblée nationale et l'enseigne Leroy Merlin figurent parmi les acteurs privés et publics touchés.
+- Selon Fernando de l'hôpital pour enfants Rady, l'engagement opérationnel est la clé de la cyber-résilience.
+- Sahan Fernando, responsable de la sécurité des systèmes d'information de l'hôpital Rady Children's, explique pourquoi la compréhension du fonctionnement hospitalier constitue le véritable fondement d'une cyber-résilience et d'une continuité durables.
+- La cybersécurité dans le secteur de la santé dépend moins de la technologie que de la capacité de l'équipe de sécurité à comprendre réellement le fonctionnement quotidien de l'hôpital.
+- Cette conviction anime le travail de Sahan Fernando, responsable de la sécurité des systèmes d'information chez Hôpital pour enfants Rady de San DiegoPour Fernando, un engagement opérationnel profond est le fondement de tout programme conçu pour assurer la continuité des soins malgré les perturbations.
 
-## [Face aux <b>cybermenaces</b>, le groupe informatique VFLIT avance ses pions parmi les grands, à Nantes](https://www.ouest-france.fr/economie/entreprises/face-aux-cybermenaces-le-groupe-informatique-vflit-avance-ses-pions-parmi-les-grands-a-nantes-a9a87708-6021-11f1-b0fc-ddf25559701c)  
-*Source : ouest-france.fr | Publication : 2026-06-15*
+## [Égypte : Telecom Egypt lance un laboratoire d'innovation en <b>cybersécurité</b>](https://africa-news-agency.com/egypte-telecom-egypt-lance-un-laboratoire-dinnovation-en-cybersecurite/)  
+*Source : africa-news-agency.com | Publication : 2026-06-16*
 
-- Deux ou trois gestions de crise de cyberattaque par mois.
-- Parmi les axes de travail : la cybersécurité.
-- C'est ce qui apporte le plus de croissance.
+- et l'Académie arabe pour la science, la technologie et le transport maritime, a inauguré le premier laboratoire d'innovation en cybersécurité du pays.
 
-## [<b>Cybersécurité</b> : des dirigeants du secteur pressent Washington de lever les restrictions sur ...](https://www.zonebourse.com/actualite-bourse/cybersecurite-des-dirigeants-du-secteur-pressent-washington-de-lever-les-restrictions-sur-les-mode-ce7f5cdeda8af421)  
-*Source : zonebourse.com | Publication : 2026-06-15*
+## [Produits chimiques, données personnelles, <b>cybersécurité</b> - Michael McGrath critique le ...](https://agenceurope.eu/index.php/fr/bulletin/article/13889/6)  
+*Source : agenceurope.eu | Publication : 2026-06-16*
 
-- Des responsables de la cybersécurité de grandes entreprises américaines, dont Nvidia et Adobe, ont demandé à l&#039;administration Trump de lever les restrictions pesant sur les modèles d&#039;intelligence artificielle (IA) les plus puissants d&#039;Anthropic.
-- Ils soutiennent que ces interdictions entravent les efforts visant à prévenir la propagation des cyberattaques.Cette lettre fait suite à la décision prise vendredi par Washington, ordonnant à Anthropic de suspendre l&#039;accès à ses modèles Fable 5 et Mythos 5 pour tout ressortissant étranger, invoquant des préoccupations de sécurité nationale.Après avoir précédemment mis en garde contre les capacités de piratage de son modèle Mythos et restreint sa diffusion pour éviter des dommages potentiels, Anthropic a lancé la semaine dernière une version publique nommée Fable, dotée de ce qu&#039;elle décrit comme des garde-fous en matière de cybersécurité.Selon une lettre signée dimanche par plus de 50 experts en sécurité, les restrictions imposées par Washington limiteront la capacité de l&#039;industrie de la cybersécurité à identifier et corriger les failles logicielles, à un moment où d&#039;autres outils d&#039;IA facilitent l&#039;exploitation des vulnérabilités par les pirates informatiques.Le document souligne que les modèles d&#039;Anthropic ne sont pas les seuls capables de détecter des failles de sécurité et d&#039;automatiser des exploits, des modèles concurrents, dont le chinois Kimi 2.7, offrant des performances similaires.« Mythos est presque certainement le meilleur modèle actuel pour identifier les bugs et les codes de sécurité, mais il ne représente qu&#039;une avancée incrémentale par rapport à d&#039;autres modèles déjà ouverts », a déclaré lors d&#039;un entretien Joshua Saxe, directeur de la technologie (CTO) de la société de sécurité IA Abundant Security et signataire de la lettre.ANTHROPIC SUR LA CORDE RAIDE DE LA SÉCURITÉ NATIONALEDes cadres dirigeants d&#039;Anthropic doivent rencontrer lundi des responsables gouvernementaux au département du Commerce des États-Unis à Washington, a indiqué un membre de l&#039;administration Trump à Reuters.Anthropic a déclaré que le gouvernement estime possible de contourner, ou de « jailbreaker », une protection empêchant Fable d&#039;être utilisé pour identifier des vulnérabilités logicielles.
-- L&#039;entreprise soutient qu&#039;un risque limité de contournement ne devrait pas justifier la suspension de l&#039;accès à un modèle utilisé par des centaines de millions de personnes.La lettre abonde dans ce sens, affirmant qu&#039;Anthropic a déjà mis en place des protections robustes et que le retrait de ces capacités pourrait s&#039;avérer « dangereux ».
-- Elle souligne que les modèles open-source chinois n&#039;ont que quelques mois de retard sur les meilleurs modèles américains, et que Pékin dispose probablement de capacités supérieures à celles connues du public.Toute réglementation doit être fondée sur des preuves, clairement définie et appliquée de manière cohérente, or « aucune de ces normes n&#039;a été respectée ici », a affirmé Alex Stamos, autre signataire et directeur des produits chez Corridor.« Il s&#039;agit d&#039;une réaction excessive du gouvernement », a-t-il ajouté, précisant qu&#039;un différend opposait Anthropic et la tierce partie ayant signalé le problème quant à la gravité des conclusions, selon ses échanges avec les parties prenantes.La société de cybersécurité CrowdStrike a indiqué la semaine dernière que les pirates liés à la Chine représentaient la plus grande menace d&#039;espionnage pour les entreprises technologiques au cours de l&#039;année écoulée.Anthropic, valorisée à 965 milliards de dollars et en préparation pour une introduction en bourse, s&#039;est déjà opposée au gouvernement américain par le passé concernant l&#039;accès à ses modèles et leur impact sur la sécurité nationale.Plus tôt cette année, l&#039;administration Trump avait ordonné aux agences américaines de cesser de collaborer avec Anthropic, qualifiant l&#039;entreprise de risque pour la chaîne d&#039;approvisionnement en raison de son refus de voir sa technologie utilisée pour la surveillance de masse et les armes autonomes.
+- Le commissaire européen à la Justice, Michael McGrath, a critiqué, mardi 16 juin à Luxembourg, lors d’un bref débat public, les choix des États membres s’agissant des différents paquets ‘Omnibus’ de simplification de la réglementation européenne et qui « réduisent les ambitions » initiales de la Commission.
+- Le commissaire s’est ainsi dit « inquiet » que les gouvernements s’éloignent de leur objectif de renforcement de la compétitivité, énumérant quelques dossiers - selon lui - problématiques.
+- Il a notamment cité le retour aux « procédures de double notification dans l’évaluation des produits chimiques » ou « l’abandon de la disposition créant un point d’entrée unique » pour rapporter les incidents de sécurité.
+- Et de critiquer également un affaiblissement, lié aux pays membres, du texte législatif visant à simplifier le réglement 'RGPD' encadrant la protection des données personnelles.
 
-## [Le ministère de la Poste et des Télécommunications organise à Alger un Forum sur la <b>cybersécurité</b>](https://www.aps.dz/fr/algerie/education-et-technologie/mqfgss6z-le-ministere-de-la-poste-et-des-telecommunications-organise-a-alger-un-forum-sur-la-cybersecurite)  
-*Source : aps.dz | Publication : 2026-06-15*
+## [Interlock et Rhysida dans l'écosystème du <b>ransomware</b> - SOC Prime](https://socprime.com/fr/active-threats/interlock-et-rhysida-ia-dans-lecosysteme-des-ransomwares/)  
+*Source : socprime.com | Publication : 2026-06-16*
 
-- Le ministère de la Poste et des Télécommunications organise à Alger un Forum sur la cybersécurité lundi 15 juin 2026 18:08 ALGER - Le ministère de la Poste et des Télécommunications a organisé, lundi à Alger, un forum sur la cybersécurité visant à protéger le cyberespace du secteur et à renforcer sa résilience numérique, en concomitance avec l'inauguration du Centre sectoriel de veille, de détection et de réponse aux incidents cybernétiques (MPT-CERT), indique un communiqué du ministère.
-- Articles connexes.
+- Interlock et Rhysida : L’IA dans l’écosystème des ransomwares Detection stack.
+- - Alert -.
+- - Query - Résumé La recherche IBM X-Force met en évidence un lien fort entre les écosystèmes ransomware Interlock (Hive0163) et Rhysida.
+- Le rapport décrit un réseau complexe de familles de logiciels malveillants partagées, de crypteurs spécialisés et de brokers d’accès initial coordonnés.
 
-## [Les nouveaux certificats Secure Boot débarquent sur tous les PC compatibles, voici ... - Clubic](https://www.clubic.com/actualite-616900-les-nouveaux-certificats-secure-boot-debarquent-sur-tous-les-pc-compatibles-voici-comment-verifier-si-le-votre-est-a-jour.html)  
-*Source : clubic.com | Publication : 2026-06-15*
+## [Une demande de rançon de 5 millions, des milliers d'entreprises touchées... Le récit ... - Le Parisien](https://www.leparisien.fr/economie/entreprise/une-demande-rancon-de-5-millions-des-milliers-dentreprises-touchees-le-recit-captivant-de-la-cyberattaque-contre-coaxis-16-06-2026-YQ3CHGLYANHZZBVT362CTSBN4Q.php)  
+*Source : leparisien.fr | Publication : 2026-06-16*
 
-- Microsoft généralise le déploiement des certificats Secure Boot 2023 sur les PC Windows compatibles.
-- La mise à jour s’installe seule, mais un détour par Sécurité Windows permet de vérifier que votre machine a bien reçu les nouvelles autorités.
-- Après des mois de déploiement au compte-gouttes, Microsoft passe à la vitesse supérieure.
-- Avec les mises à jour de juin 2026, les certificats Secure Boot 2023 arrivent sur l’ensemble des PC Windows jugés compatibles, sans intervention nécessaire côté utilisateur.
+- Joseph Veigas est alerté, tout comme Orange Cyberdéfense, son prestataire en cybersécurité dont il est déjà client.
+- « Personne ne comprend.
 
-## [Sitemap - ANSSI](https://cyber.gouv.fr/en/sitemap/)  
-*Source : cyber.gouv.fr | Publication : 2026-06-15*
+## [ANTS: comment une simple erreur de configuration a permis à un jeune homme de 19 ans ...](https://www.bfmtv.com/tech/actualites/cybersecurite/ants-comment-une-simple-erreur-de-configuration-a-permis-a-un-jeune-homme-de-19-ans-sans-connaissance-technique-avancee-de-pirater-les-donnees-de-pres-de-12-millions-de-personnes_AV-202606160869.html)  
+*Source : bfmtv.com | Publication : 2026-06-16*
 
-- Sitemap Au cœur d'un collectif, pour une nation cyber-résiliente Mentions légales - Déclaration d’accessibilité - Les actualités L’ANSSI inaugure sa nouvelle antenne à Rennes - JOP 2024 : l’ANSSI met à disposition un kit d’exercice « JOP massifié » - L’ANSSI lance Hackropole - L’ANSSI et le BSI publient un rapport sur la vérification d’identité à distance - L’ANSSI publie un corpus de guides dédiés à la remédiation d’incidents cyber - La distribution quantique de clé, son utilisation et ses limites - Consultation publique sur le projet de décret concernant les mesures cyber de la LPM 2024-2030 - EUCC, premier schéma européen de certification de cybersécurité adopté - Participation du Directeur général à la Munich Cyber Security Conference - L'ANSSI publie le Panorama de la cybermenace 2023 - L’ANSSI vous donne rendez-vous au Forum InCyber 2024 - Le secteur de la cybersécurité vu par les professionnels : l'Observatoire des métiers publie son enquête 2023 - L’ANSSI publie son rapport d’activité 2023 - L'ANSSI met à jour la méthode EBIOS Risk Manager - [Clos] L’ANSSI lance un appel à projet de cybersécurité dans le cadre de France 2030 - Tentez votre chance au France Cybersecurity Challenge 2024 (FCSC) !.
-- - Renouvellement de l’accord de reconnaissance mutuelle CSPN-BSZ entre l’ANSSI et le BSI - Consultations NIS 2, une démarche contributive qui s’inscrit dans la durée - L’ANSSI renforce son ancrage dans le Pacifique avec le réseau PaCSON - L’ANSSI au cœur des Jeux de Paris 2024 - L’ANSSI publie ses recommandations pour l’hébergement des systèmes d’information sensibles dans le cloud - Sécurité numérique et sécurité économique : « Prévenir pour ne pas subir » - Bilan cyber des Jeux Olympiques et Paralympiques de Paris 2024 - Participation de l’ANSSI à la Conférence Threathunt 2030 organisée par l’ENISA - L’ANSSI se félicite de l’entrée en vigueur de la révision du règlement européen sur l'identité numérique et les services de confiance « eIDAS » - Sommet de la CRI : renforcer la coopération internationale contre les rançongiciels - L’ANSSI et le BSI publient leurs recommandations de sécurité concernant les assistants de programmation basés sur l’IA - Le GT « Gestion de Crise et Entraînement » met à disposition de nouvelles ressources - SICW 2024 : la France renforce ses partenariats cyber dans la région Asie-Pacifique - L’ANSSI partage deux études de marché sur la cryptographie post-quantique menées auprès de l’écosystème - Forum économique mondial de Genève 2024 : l’ANSSI au cœur des enjeux de cybersécurité - L’ANSSI met à jour les référentiels PASSI (version 2.2) et PRIS (version 3.0) - L’ANSSI et le BSI publient un rapport sur la cybersécurité des grands événements sportifs grâce à la coopération avec le secteur privé - L’ANSSI partage son guichet de diodes Eurydice en open-source - Participez au France Cybersecurity Challenge (FCSC) 2025 !.
-- - L’algorithme HAETAE lauréat de la compétition coréenne de cryptographie post-quantique - Sommet pour l’action sur l’intelligence artificielle : retour sur les travaux de l’ANSSI - L’ANSSI publie son état de la menace sur le cloud computing - L’ANSSI publie son plan stratégique 2025-2027 - Appel à commentaires sur le vote par internet pour les élections non politiques [CLOS] - Panorama de la cybermenace 2024 : mobilisation et vigilance face aux attaquants - L’ANSSI partage en open source un outil de test du protocole industriel OPC UA - Appel à commentaires sur l’ajout d’un volet gestion de crise au référentiel PRIS - L’ANSSI vous donne rendez-vous au Forum InCyber 2025 !.
-- - REMPAR25 : les inscriptions sont ouvertes !.
+- ANTS: comment une simple erreur de configuration a permis à un jeune homme de 19 ans, sans connaissance technique avancée, de pirater les données de près de 12 millions de personnes On apprend de ses erreurs.
+- Mais parfois, l'erreur en question peut être évitée.
+- C'est on ne peut plus vrai dans le cas de la fuite de données que l'Agence nationale des titres sécurisés (ANTS) a subi en avril.
+- Nom, date de naissance, identifiant unique du compte.
 
-## [Les entreprises françaises ne voient pas leurs vulnérabilités - LeMagIT](https://www.lemagit.fr/actualites/366644380/Les-entreprises-francaises-ne-voient-pas-leurs-vulnerabilites)  
-*Source : lemagit.fr | Publication : 2026-06-15*
+## [L'Ukraine rejoint la réserve de <b>cybersécurité</b> de l'Union européenne - INCYBER NEWS](https://incyber.org/article/lukraine-rejoint-reserve-de-cybersecurite-union-europeenne/)  
+*Source : incyber.org | Publication : 2026-06-16*
 
-- Sergej Khackimullin - Fotolia Les entreprises françaises ne voient pas leurs vulnérabilités Le baromètre de Cybermalveillance.fr confirme qu’un déni persiste chez les entreprises françaises sur leur cybersécurité.
-- Conséquence, elles investissent trop peu, ou trop tard.
-- Trois organisations patronales (Medef, CPME, U2P) font front commun pour lutter contre cette cécité et pour la résilience.
-- Le baromètre annuel de Cybermalveillance.gouv.fr confirme qu’une dissonance persiste au sein des directions générales sur la cybersécurité.
+- L’Ukraine rejoint la réserve de cybersécurité de l’Union européenne Articles du même auteur : L’Union européenne a annoncé, le 15 juin 2026, l’intégration de l’Ukraine à sa « réserve de cybersécurité », un mécanisme de réponse collective aux incidents cyber majeurs, géré par l’Agence de l’UE pour la cybersécurité (ENISA).
+- Ce dispositif n’est pas réservé aux États membres de l’UE, mais ouvert à tous les pays tiers liés au programme « Europe numérique ».
+- La réserve de cybersécurité permet de mobiliser des acteurs privés qualifiés par l’UE, spécialisés dans la gestion de crise cyber : analyse d’incidents, remédiation et rétablissement de systèmes critiques.
+- Les bénéficiaires du dispositif sont des opérateurs de secteurs essentiels : énergie, santé, eau et infrastructures numériques.
 
-## [La lyonnaise Hogo décroche une nouvelle certification de <b>cybersécurité</b> de l'ANSSI](https://www.lyon-entreprises.com/actualites/article/hogo-certification-anssi-cspn-station-blanche-cybersecurite)  
-*Source : lyon-entreprises.com | Publication : 2026-06-15*
+## [Cyberattaques : deux hackers de 22 et 15 ans mis en examen, soupçonnés d'avoir volé des ...](https://www.sudouest.fr/economie/cybersecurite/cyberattaques-deux-hackers-de-22-et-15-ans-mis-en-examen-soupconnes-d-avoir-vole-des-dizaines-de-millions-de-donnees-29516512.php)  
+*Source : sudouest.fr | Publication : 2026-06-16*
 
-- La lyonnaise Hogo décroche une nouvelle certification de cybersécurité de l’ANSSI La PME Hogo, qui dispose d’une plateforme d’assemblage à Lyon, vient d’obtenir une nouvelle Certification de Sécurité de Premier Niveau (CSPN) délivrée par l’Agence nationale de la sécurité des systèmes d’information (ANSSI).
-- Cette reconnaissance concerne sa station blanche S3Pos, un équipement destiné à sécuriser les échanges de données via les supports amovibles.
-- Un marché de niche mais stratégique à l’heure où les cyberattaques ciblent de plus en plus les infrastructures sensibles.
-- Un équipement destiné aux secteurs les plus sensibles Les clés USB, disques durs externes et autres supports amovibles continuent de représenter un risque important pour les systèmes d’information.
+- Le parquet de Paris confirme la mise en examen de deux suspects soupçonnés d’avoir ciblé plus de 1 500 entités dont l’Assemblée nationale et Leroy Merlin Deux hackers présumés, âgés de 22 ans et 15 ans, ont été mis en examen, suspectés d’appartenir au groupe « Dumpsec », ciblant des acteurs privés ou publics, telle l’Assemblée nationale, a indiqué mardi le parquet de Paris.
 
-## [La justice française saisie contre plusieurs « lookups », moteurs de recherche alimentés par ...](https://www.lemonde.fr/pixels/article/2026/06/15/la-justice-francaise-saisie-contre-plusieurs-lookups-moteurs-de-recherche-alimentes-par-des-millions-de-donnees-personnelles-volees_6703202_4408996.html)  
-*Source : lemonde.fr | Publication : 2026-06-15*
+## [La <b>cybersécurité</b> : un impératif pour protéger vos données sur internet | Radio Okapi](https://www.radiookapi.net/2026/06/16/emissions/okapi-service/la-cybersecurite-un-imperatif-pour-proteger-vos-donnees-sur)  
+*Source : radiookapi.net | Publication : 2026-06-16*
 
-- JavaScript is disabled in your browser.
-- Please enable JavaScript to proceed.
-- A required part of this site couldn’t load.
-- This may be due to a browser extension, network issues, or browser settings.
+- La criminalité ainsi que la guerre ne sont plus que physiques.
+- Elles s’invitent également dans l’espace numérique.
+- Derrière son ordinateur, un criminel est capable de vous escroquer de l’argent, de pirater vos comptes, de paralyser le système d’une entreprise ou d’un pays, de répandre des fausses informations, de voler vos données ou de soumettre une personnalité au lynchage numérique.
+- Face au danger que représente la cybercriminalité la structure Cyberdev s’est lancée dans la formation des jeunes afin de renforcer la protection numérique des entreprises, institutions et des particuliers.
 
-## [Marketplaces européennes : la carte se redistribue - Solutions-Numeriques](https://www.solutions-numeriques.com/marketplaces-europeennes-la-carte-se-redistribue/)  
-*Source : solutions-numeriques.com | Publication : 2026-06-15*
+## [ITW MARL Digital Services - YouTube](https://www.youtube.com/watch?v=ubagGc6P924)  
+*Source : youtube.com | Publication : 2026-06-16*
 
-- Deux ans de données agrégées sur 74 plateformes et 1,2 million de marchands : l’étude publiée par Iziflux Market Intelligence dresse un état des lieux sans complaisance d’un e-commerce européen en pleine recomposition.
-- Entre concentration des catalogues, effondrement de certains acteurs historiques et montée en puissance d’Amazon sur tous ses marchés, les lignes bougent plus vite que prévu.
-- Amazon rafle la mise, mais le marché reste fragmenté Entre mars 2025 et mars 2026, toutes les plateformes Amazon européennes enregistrent une croissance significative de leur base de vendeurs actifs : +49 % au Royaume-Uni, +39 % en Italie, +37 % en Allemagne, +33 % en Espagne, +32 % en France, soit plus de 117 000 vendeurs actifs sur Amazon.fr.
-- Ces chiffres, issus du tracking continu de Sellerbase sur 26 mois, confirment qu’Amazon reste le canal d’acquisition prioritaire pour les e-commerçants qui cherchent à structurer leur présence multi-pays rapidement.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [L'IA gagne en importance pour les banques suisses | ICTjournal](https://www.ictjournal.ch/etudes/2026-06-15/lia-gagne-en-importance-pour-les-banques-suisses)  
-*Source : ictjournal.ch | Publication : 2026-06-15*
+## [Databricks conclut un accord en vue d'acquérir Panther Labs dans le cadre de sa stratégie ...](https://www.boursorama.com/bourse/actualites-amp/databricks-conclut-un-accord-en-vue-d-acquerir-panther-labs-dans-le-cadre-de-sa-strategie-de-renforcement-de-la-cybersecurite-7778466512f6f614d1a6d87986bae0a5)  
+*Source : boursorama.com | Publication : 2026-06-16*
 
-- L’IA gagne en importance pour les banques suisses L’intelligence artificielle s’impose progressivement parmi les priorités des banques suisses.
-- Une étude de la Haute école de Lucerne (HSLU), menée auprès de 43 banques de détail, montre que près de la moitié des établissements lui accordent désormais une grande importance.
-- L’externalisation des services informatiques continue également de progresser.
-- L’intelligence artificielle s’impose progressivement parmi les priorités des banques suisses.
+- Databricks conclut un accord en vue d'acquérir Panther Labs dans le cadre de sa stratégie de renforcement de la cybersécurité information fournie par Reuters 16/06/2026 à 18:21 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Panther a été valorisée à 1,4 milliard de dollars à l'issue d'un tour de table de série B de 120 millions de dollars en 2021 * Il s'agira de la troisième acquisition de Databricks dans le domaine de la cybersécurité * Databricks entend concurrencer les acteurs historiques du secteur de la sécurité tels que Splunk et Crowdstrike (Ajout d'informations sur les clients au paragraphe 4, et de l'historique des transactions aux paragraphes 7 à 9) Databricks a annoncé mardi avoir conclu un accord en vue d’ acquérir la start-up Panther Labs, alors que le fournisseur américain de solutions d’analyse de données renforce sa présence sur le marché de la cybersécurité.
+- Cette acquisition, la troisième de Databricks dans ce domaine, s'inscrit dans sa volonté de concurrencer les acteurs historiques de la gestion de la sécurité tels que CrowdStrike CRWD.O et Splunk CSCO.O , filiale de Cisco.
+- Databricks n’a pas souhaité s’exprimer sur les conditions de l’accord.
+- Panther, dont la valorisation s’élève à 1,4 milliard de dollars après avoir levé 120 millions de dollars lors d’un tour de table de série B en 2021, regroupe en un seul endroit les sources de données et les éléments clés pour la sécurité.
 
-## [Advans Group s'installe en Italie - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/biz-it/64967-advans-group-s-installe-en-italie.html)  
-*Source : linformaticien.com | Publication : 2026-06-15*
+## [Cyberattaques : le vrai coût de l'austérité numérique - L'éditorial de Stéphane Sahuc - 16 juin 2026](https://www.humanite.fr/en-debat/cybercriminalite/cyberattaques-le-vrai-cout-de-lausterite-numerique)  
+*Source : humanite.fr | Publication : 2026-06-16*
 
-- Ransomware : les jours d'après · Biz'IT · Advans Group s'installe en Italie.
-- Détails: Bertrand Garé: 15 juin 2026.
-- L'ESN s'étend en Europe et ouvre.
+- Cyberattaques : le vrai coût de l’austérité numérique La cybercriminalité en France n’est plus une menace lointaine, c’est un piratage en bande organisée de nos vies quotidiennes.
+- Les méthodes ont changé.
+- Fini le simple blocage d’ordinateur avec demande de rançon ; aujourd’hui, les hackers pillent en masse.
+- Ils vident les fichiers confidentiels et les revendent au plus offrant.
