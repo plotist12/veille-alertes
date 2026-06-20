@@ -1,155 +1,145 @@
-# Résumés – 2026-06-19
+# Résumés – 2026-06-20
 
 
-## [Les meilleures solutions de <b>cybersécurité</b> pour entreprise en 2026 - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/les-meilleures-solutions-de-cybersecurite-pour-entreprise-en-2026-227713/amp)  
-*Source : silicon.fr | Publication : 2026-06-18*
+## [Opération Endgame : les forces de l'ordre internationales frappent SocGholish, faussaire ... - Clubic](https://www.clubic.com/actualite-617755-operation-endgame-les-forces-de-l-ordre-internationales-frappent-socgholish-faussaire-de-mises-a-jour-et-complice-de-ransomwares.html)  
+*Source : clubic.com | Publication : 2026-06-19*
 
-- Le marché de la cybersécurité connaît une consolidation accélérée.
-- En 2025, huit transactions ont dépassé le milliard de dollars : Google a finalisé le rachat de Wiz pour 32 milliards de dollars début 2026 – la plus grosse opération de l’histoire du secteur – et Palo Alto Networks a acquis CyberArk pour environ 25 milliards de dollars.
-- Cette course à la plateforme reflète une demande des entreprises : consolider les outils plutôt que multiplier les briques disparates.
-- Ce comparatif retient cinq acteurs selon trois critères de sélection explicites : la représentativité sur le marché européen et français, la couverture fonctionnelle (du poste de travail au cloud) et la pertinence pour différents profils d’organisation.
+- Près de 15 000 sites WordPress compromis par SocGholish ont été nettoyés dans le cadre de l'Operation Endgame.
+- L'action, coordonnée avec Europol et Eurojust, vise une chaîne d’infection liée au groupe cybercriminel Evil Corp.
+- L'Opération Endgame poursuit son travail de démantèlement, cette fois contre l’une des chaînes d’infection les plus installées du cybercrime.
+- Le 18 juin, les autorités des Pays-Bas, du Canada, des États-Unis et d’Allemagne, soutenues par Europol, ont annoncé une action coordonnée contre TA569, le groupe associé à SocGholish, aussi connu sous les noms FakeUpdates et GhoLoader.
 
-## [<b>Cybersécurité</b> en entreprise : définition, périmètre et panorama des menaces - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/cybersecurite-en-entreprise-definition-perimetre-et-panorama-des-menaces-227709/amp)  
-*Source : silicon.fr | Publication : 2026-06-18*
+## [« Il y aura de la casse à l'arrivée » : grâce à l'IA, la France n'a jamais créé autant de start-up ...](https://www.lesechos.fr/start-up/ecosysteme/il-y-aura-de-la-casse-a-larrivee-grace-a-lia-la-france-na-jamais-cree-autant-de-start-up-dans-la-cyber-2238203)  
+*Source : lesechos.fr | Publication : 2026-06-19*
 
-- La cybersécurité désigne l’ensemble des moyens techniques, organisationnels et humains visant à protéger les systèmes d’information contre les attaques, les accès non autorisés et les pertes de données.
-- Elle poursuit trois objectifs classiques, résumés par le triptyque CIA : confidentialité (seuls les ayants droit accèdent à l’information), intégrité (la donnée n’est pas altérée) et disponibilité (les systèmes restent accessibles quand on en a besoin).
-- En entreprise, la cybersécurité ne se réduit pas à un outil.
-- Elle combine des technologies (pare-feu, chiffrement, détection), des processus (gestion des accès, réponse à incident) et une dimension humaine (sensibilisation des collaborateurs).
+- » Jamais en huit ans le cabinet Wavestone n'avait vu autant de créations de start-up en France dans le domaine de la cybersécurité que ces douze.
 
-## [Microsoft travaille à la correction de « RoguePlanet », une faille permettant de prendre le ...](https://www.malwarebytes.com/fr/blog/news/2026/06/microsoft-working-on-a-fix-for-rogueplanet-a-flaw-that-grants-full-pc-control)  
-*Source : malwarebytes.com | Publication : 2026-06-18*
+## [Repenser la <b>cybersécurité</b> à l'ère de l'IA de défense : comment anticiper les menaces introduites par](https://theatrum-belli.com/repenser-la-cybersecurite-a-lere-de-lia-de-defense-comment-anticiper-les-menaces-introduites-par-lutilisation-de-lintelligence-artificielle-sur-le-champ-de-batail/?pdf=379196)  
+*Source : theatrum-belli.com | Publication : 2026-06-19*
 
-- Une faille de sécurité accessible au public, baptisée « RoguePlanet », peut permettre à des pirates d'obtenir un accès de niveau maximal sur Windows.
-- Microsoft a confirmé l'existence de cette faille et indique qu'il travaille actuellement à la mise au point d'un correctif de sécurité.
-- RoguePlanet est répertorié sous le numéro CVE-2026-50656, où il est décrit comme une vulnérabilité de Microsoft Defender permettant une élévation de privilèges (EoP).
-- Dans son avis, Microsoft indique : « Microsoft a pris connaissance d'une faille permettant l'élévation de privilèges dans le moteur de protection contre les logiciels malveillants de Microsoft Defender, communément appelée « RoguePlanet ».
+- Car si la cybersécurité des systèmes d'information militaires fait l'objet d'une doctrine structurée depuis plusieurs années, que se passe-t-il.
 
-## [<b>Cybercriminalité</b> | Un couple de Saint-Paul arrêté par la Sûreté du Québec - Mon Joliette](https://monjoliette.com/2026/06/18/cybercriminalite-un-couple-de-saint-paul-arrete-par-la-surete-du-quebec/)  
-*Source : monjoliette.com | Publication : 2026-06-18*
+## [Un groupe lié à la Chine est impliqué dans une campagne pluriannuelle ciblant la ... - Health-ISAC](https://health-isac.org/fr/Le-groupe-China-Nexus-est-lié-à-une-campagne-pluriannuelle-ciblant-la-recherche-médicale-canado-américaine./)  
+*Source : health-isac.org | Publication : 2026-06-19*
 
-- Cybercriminalité | Un couple de Saint-Paul arrêté par la Sûreté du Québec Un couple de Lanaudière déjà accusé dans la plus grosse enquête de cybercriminalité de l’histoire du pays aurait encore récidivé alors qu’il aurait été à la tête d’un nouveau site de revente de fausses identités.
-- Selon le Journal de Montréal, Dylan Albert et Erika Drouin ont été arrêtés mercredi, mais ils ont été libérés plus tard le jour même sous promesse de comparaître.
-- Le couple de Saint-Paul est soupçonné d’avoir fait partie des administrateurs d’un site web offrant notamment des identités volées ainsi que l’accès à des programmes de privilèges.
-- Des perquisitions effectuées à leur domicile ainsi que dans un appartement de Montréal ont permis de confisquer du matériel informatique.
+- Un groupe lié à la Chine est impliqué dans une campagne pluriannuelle ciblant la recherche médicale américaine et canadienne.
+- Un rapport établit un lien entre une opération d'espionnage sophistiquée et des informations sur les virus, l'IA et les données militaires.
+- Errol Weiss, responsable de la sécurité au Centre d'analyse et de partage des informations sur la santé, a déclaré que la recherche médicale est une cible fréquente de piratage et que cette campagne particulière soulève des préoccupations de sécurité plus importantes pour les organismes de soins de santé.
+- « Même lorsque le motif apparent est l’espionnage, les mêmes voies d’accès peuvent être réutilisées ultérieurement à des fins de perturbation ou d’extorsion, ce qui, dans le secteur de la santé, peut rapidement devenir un problème de sécurité des patients si des systèmes critiques sont touchés », a déclaré Weiss à Cybersecurity Dive.
 
-## [ComptaTech 2026 : la facturation électronique et l'IA en débat - Compta Online](https://www.compta-online.com/comptatech-ao8743)  
-*Source : compta-online.com | Publication : 2026-06-18*
+## [AVIS D'EXPERT – Repenser la sécurité des agents IA pour accompagner leur déploiement ...](https://www.solutions-numeriques.com/avis-dexpert-repenser-la-securite-des-agents-ia-pour-accompagner-leur-deploiement-a-grande-echelle/)  
+*Source : solutions-numeriques.com | Publication : 2026-06-19*
 
-- ę Levez la main si vous utilisez l'IA tous les jours dans votre cabinet.
-- Ľ Beaucoup de bras se dressent dans la salle.
-- ę Gardez-la levťe si plus de la moitiť de vos collaborateurs en font autant.
-- Ľ Quelques mains retombent.
+- Lisa Bouam, Enterprise Account Director France chez Snyk, alerte sur les nouveaux risques liés au déploiement des agents IA.
+- Capables d’agir sur des environnements sensibles, ces systèmes imposent de repenser les mécanismes de contrôle, avec des guardrails capables d’encadrer chaque interaction entre le modèle, ses outils et les données auxquelles il accède.
+- L’accélération du développement des agents d’intelligence artificielle marque une nouvelle étape dans l’automatisation des tâches numériques.
+- Leur capacité à interagir avec des environnements complexes (messageries, systèmes d’information, bases de données, infrastructures cloud) ouvre d’importantes perspectives d’efficacité.
 
-## [&quot;Nous ne comprenons pas ce que nous avons développé&quot; : l'appel du prêtre à l'origine ... - L'Express](https://www.lexpress.fr/economie/high-tech/nous-ne-comprenons-pas-ce-que-nous-avons-developpe-lappel-du-pretre-a-lorigine-du-code-moral-de-NKCBJZABCJFNLKHJ6Z57DUMAEE/)  
-*Source : lexpress.fr | Publication : 2026-06-18*
+## [Près de 15 000 sites web infectés nettoyés dans le cadre de l'opération de lutte contre SocGholish](https://www.malwarebytes.com/fr/blog/news/2026/06/nearly-15000-infected-websites-cleaned-in-socgholish-crackdown)  
+*Source : malwarebytes.com | Publication : 2026-06-19*
 
-- Sous les voûtes du sous-sol du Collège des Bernardins où il nous reçoit, Brendan McGuire remplit tout l'espace.
-- Colosse aux yeux azur, brillants, presque enfiévrés, la paume des mains, larges, ouverte.
-- Ce prêtre catholique irlandais, spécialiste de cybersécurité, installé depuis une vingtaine d'années dans la Silicon Valley, est l'un des artisans de la pensée du Vatican sur l'intelligence artificielle.
-- Fin 2025, à la demande des fondateurs d'Anthropic, il a coécrit le code moral de Claude, les grands principes qui encadrent l'IA.
+- Nous sommes toujours ravis de terminer la semaine sur une note positive.
+- Une opération policière baptisée « Operation Endgame » vient de remporter une victoire majeure contre le réseau SocGholish (également connu sous le nom de FakeUpdates), actif depuis longtemps.
+- SocGholish est un framework de logiciels malveillants actif depuis au moins 2017 et surtout connu pour exploiter des sites WordPress légitimes piratés afin de proposer aux visiteurs de fausses mises à jour de navigateur et de logiciels.
+- Lorsqu’un utilisateur clique sur l’une de ces invites convaincantes invitant à « mettre à jour maintenant », le logiciel malveillant ouvre une porte dérobée sur le système, offrant ainsi aux attaquants un accès initial souvent utilisé pour déployer des ransomwares et d’autres logiciels malveillants.
 
-## [BEA Solutions, 40 ans d'une PME familiale gardoise qui mise sur l'humain et l'IA - Midi Libre](https://www.midilibre.fr/2026/06/18/notre-vocation-cest-de-travailler-sur-notre-territoire-bea-solutions-40-ans-dune-pme-familiale-gardoise-qui-mise-sur-lhumain-et-lia-13416519.php)  
-*Source : midilibre.fr | Publication : 2026-06-18*
+## [&quot;De faux profils proposent de l'argent&quot; : comment le secteur nucléaire se défend face aux ...](https://www.lanouvellerepublique.fr/tours/de-faux-profils-proposent-de-l-argent-comment-le-secteur-nucleaire-se-defend-face-aux-cybercriminels-en-indre-et-loire-1781893014)  
+*Source : lanouvellerepublique.fr | Publication : 2026-06-19*
 
-- "Notre vocation, c’est de travailler sur notre territoire..." : BEA Solutions, 40 ans d’une PME familiale gardoise qui mise sur l’humain et l’IA À Alès (Gard), BEA Solutions célèbre quarante ans d’une aventure familiale marquée par les mutations numériques.
-- Cybersécurité, intelligence artificielle et transmission des savoirs dessinent son nouvel avenir.
-- Quarante ans après sa création, BEA Solutions, et ses 40 salariés pour 4 millions d’euros de chiffre d’affaires, n’est plus vraiment une entreprise informatique.
-- Depuis Alès, dans le Gard, la PME a évolué avec son époque pour devenir un acteur des services numériques spécialisé dans la cybersécurité, le cloud souverain et l’intelligence artificielle.
+- « De faux profils proposent de l’argent » : comment le secteur nucléaire se défend face aux cybercriminels en Indre-et-Loire AbonnésCet article est réservé aux abonnés numériques.
+- Politique - Indre-et-Loire - AbonnésCet article est réservé aux abonnés numériques.
+- Les exercices sont réguliers, mais des mots-clés sont parfois plus forts que la prévention.
+- « Lors d’un hameçonnage interne, il fallait cliquer sur un lien pour accéder à la nouvelle grille de salaires d’EDF.
 
-## [IA, sécurité et résilience au Canada : entretien avec John O'Brien, responsable de la ...](https://news.microsoft.com/source/canada/features/ai/ia-securite-et-resilience-au-canada-entretien-avec-john-obrien-responsable-de-la-securite-a-lechelle-nationale/?lang=fr)  
-*Source : news.microsoft.com | Publication : 2026-06-18*
+## [<b>Cybersécurité</b> : les agents du renseignement belge victimes d'un piratage massif - DHnet](https://www.dhnet.be/actu/belgique/2026/06/19/cybersecurite-les-agents-du-renseignement-belge-victimes-dun-piratage-massif-SISIAGQ2UNFCPKV3KSYX2UAWPU/)  
+*Source : dhnet.be | Publication : 2026-06-19*
 
-- Le Canada entre dans une nouvelle phase de son parcours en intelligence artificielle.
-- Avec le lancement de la Stratégie pancanadienne en matière d’intelligence artificielle : l’IA pour tous, le gouvernement fédéral renouvelle son engagement envers l’adoption, la confiance, les talents et les infrastructures, démontrant à quel point l’IA est devenue centrale pour l’économie canadienne.
-- Parallèlement, les cybermenaces évoluent rapidement, deviennent plus sophistiquées et sont de plus en plus amplifiées par l’intelligence artificielle.
-- Pour les organisations canadiennes, le défi ne consiste plus à se préparer à l’avenir, mais à s’adapter à une réalité déjà bien présente.
+- Cybersécurité : les agents du renseignement belge victimes d'un piratage massif Le service belge de renseignement civil a été victime, entre mai 2025 et le printemps 2026, d'une cyberattaque compromettant les données personnelles de ses agents, indique vendredi soir la RTBF.
+- Publié le 19-06-2026 à 20h17 - Selon la chaîne publique, des cybercriminels sont parvenus à s'introduire dans le logiciel d'une société externe chargée de sécuriser les téléphones portables du personnel de la Sûreté.
+- Des données telles que les noms, prénoms et numéros de téléphone des membres du service ont pu être dérobées.
+- Les données de personnes contactées par des membres de la Sûreté via ces GSM pourraient également avoir été touchées.
 
-## [Les Commissaires aux Comptes à l'heure de l'IA | La Gazette France](https://www.lagazettefrance.fr/article/les-commissaires-aux-comptes-a-l-heure-de-l-ia)  
-*Source : lagazettefrance.fr | Publication : 2026-06-18*
+## [<b>Cybersécurité</b> des ports de plaisance : l'Occitanie veut encadrer l'usage de l'intelligence artificielle](https://lemarin.ouest-france.fr/industries-nautiques/cybersecurite-des-ports-de-plaisance-loccitanie-veut-encadrer-lusage-de-lintelligence-artificielle-8aaee48e-6b18-11f1-a3cf-41dac410473f)  
+*Source : lemarin.ouest-france.fr | Publication : 2026-06-19*
 
-- Le sujet est sur toutes les lèvres depuis quelques années : la transformation des métiers des professionnels du chiffre et du droit à l’ère d’Internet.
-- Les commissaires aux comptes n’y échappent pas et sont entrés dans une phase presque opérationnelle, à l’heure du passage obligatoire à la facturation électronique qui interviendra à compter du 1er septembre 2026 pour les entreprises concernées, pour un passage obligatoire à toutes les entreprises en 2027.
-- «Avec l’arrivée de la facture électronique, beaucoup de tâches vont être automatisées, il va falloir aller chercher la donnée, la traiter et l’utiliser, explique Frédéric Tilly, président de la Compagnie Régionale des Commissaires aux Comptes (CRCC) des Hauts-de-France et dirigeant du Cabinet Clarté Audit Consultant à Compiègne, dans l’Oise.
-- Elle bouleverse nos interventions et notamment l’analyse du contrôle interne».
+- Alors que l'usage de l'intelligence artificielle se développe chez les agents portuaires et les usagers des ports de plaisance, l'Union des villes.
 
-## [Le super modèle d'IA Mythos serait-il tombé entre les mains de la Chine? La peur de voir ...](https://www.bfmtv.com/tech/cybersecurite/le-super-modele-d-ia-mythos-serait-il-tombe-entre-les-mains-de-la-chine-la-peur-de-voir-ses-ia-aux-mains-de-pekin-se-cacherait-derriere-la-coupure-ordonnee-par-la-maison-blanche_AN-202606180460.html)  
-*Source : bfmtv.com | Publication : 2026-06-18*
+## [NIS2 en suspens : les RSSI attendent, le marché aussi - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/nis2-en-suspens-les-rssi-attendent-le-marche-aussi-227945)  
+*Source : silicon.fr | Publication : 2026-06-19*
 
-- Le super modèle d’IA Mythos serait-il tombé entre les mains de la Chine?.
-- La peur de voir ses IA aux mains de Pékin se cacherait derrière la coupure ordonnée par la Maison Blanche C’est une affaire qui a fait couler beaucoup d’encre.
-- Vendredi dernier, l’administration de Donald Trump a enjoint Anthropic de restreindre l’accès à ses modèles les plus avancés, dont Mythos et sa version grand public Fable 5, aux seuls citoyens américains.
-- Même les employés étrangers de l’entreprise se seraient vu interdire leur utilisation.
+- Le projet de loi français de transposition de la directive européenne NIS2 ne figure toujours pas à l’agenda de la session extraordinaire ouverte le 1ᵉʳ juillet 2026.
+- Pour le CESIN, la première association de RSSI en France, ce vide n’est pas seulement un problème juridique c’est un frein concret à l’investissement en cybersécurité.
+- Le calendrier parlementaire avance, mais le texte n’y est pas.
+- Rappelons que l’échéance initiale de transposition était fixée au 17 octobre 2024.
 
-## [Renforcer la confiance numérique et l'avantage stratégique grâce à la protection de la vie ...](https://www.nortonrosefulbright.com/fr-ca/centre-du-savoir/publications/d8eb590c/renforcer-la-confiance-numerique-et-l-avantage-strategique-grace-a-la-protection-de-la-vie-privee-et-a-la-cybersecurite)  
-*Source : nortonrosefulbright.com | Publication : 2026-06-18*
+## [Des millions d'iPhone et d'iPad vulnérables : une faille impossible à corriger touche ...](https://www.01net.com/actualites/des-millions-diphone-et-dipad-vulnerables-une-faille-impossible-a-corriger-touche-certaines-puces-apple.html)  
+*Source : 01net.com | Publication : 2026-06-19*
 
-- D’emblée, soyez clairs sur les nuances entre la protection de la vie privée et la cybersécurité au Canada La protection de la vie privée et la cybersécurité sont inextricablement liées dans l’environnement commercial actuel.
-- Bien qu’ils se chevauchent, il s’agit vraiment de deux domaines distincts.
-- Être une bonne entreprise citoyenne ou une organisation publique de confiance signifie comprendre les implications en matière de protection de la vie privée dans tous les aspects de ses activités : recueillir, utiliser, stocker et conserver des données; limiter le type de données recueillies afin de s’assurer qu’elles répondent clairement à un besoin pertinent et spécifique; adopter une infrastructure basée sur le nuage et les technologies émergentes.
-- Chacun de ces aspects soulève des considérations relatives à la protection de la vie privée qui auront une incidence sur la préparation réglementaire et la conformité dans les secteurs privé et public.
+- Une faille de sécurité a été découverte au sein des puces A12 et A13 d’Apple, qui animent notamment les iPhone XR, les iPhone XS, et les iPhone 11.
+- Débusquée par les chercheurs de Paradigm Shift, la vulnérabilité se situe dans BootROM, la toute première couche logicielle qui s’exécute quand un appareil Apple démarre.
+- C’est pourquoi la faille est considérée comme impossible à corriger.
+- Le BootROM est en effet gravé directement dans le silicium des puces lors de leur fabrication.
 
-## [Accenture chute de 16% après une révision de ses prévisions et annonce des acquisitions ...](https://fr.investing.com/news/earnings/accenture-depasse-les-attentes-au-t3-fiscal-mais-chute-apres-des-acquisitions-en-cybersecurite-3466186)  
-*Source : fr.investing.com | Publication : 2026-06-18*
+## [Cloud, <b>Cybersecurité</b>, Connectivité : La triple promesse d'Orange Cloud &amp; Cyber S - Sika Finance](https://www.sikafinance.com/marches/cloud-cybersecurite-connectivite-la-triple-promesse-d-orange-cloud-cyber-solutions-pour-une-responsabilite-unique-des-flux-numeriques_62411)  
+*Source : sikafinance.com | Publication : 2026-06-19*
 
-- L'entreprise a également annoncé une série d'acquisitions dans le domaine de la cybersécurité pour un montant total d'environ 4,175 milliards $.
+- Le jeudi 18 juin 2026 à Abidjan, Orange Business Day a réuni de nombreux directeurs des systèmes d'information (DSI) et responsables de la sécurité des systèmes d'information (RSSI) des secteurs public et privé.
+- À cette occasion, Orange Cloud & Cyber Solutions (OCCS), la filiale d'Orange CI, a dévoilé sa stratégie d'intégration unique combinant cloud, cybersécurité et connectivité pour simplifier la transformation digitale en Côte d'Ivoire.
+- Animée par les experts d'OCCS, notamment Mame Diop Ba, directrice des opérations, Pacôme Boidi, senior manager coordination commerciale B2B, Anzi Akpa Gnagne, ingénieur d'affaires ICT pour le secteur public, et Ibrahim Diallo, manager senior vente pour le secteur privé, cette rencontre a permis de dresser un état des lieux du marché et d'apporter une réponse concrète aux défis technologiques du continent.
+- Cloud et cybersécurité en Afrique Pour Mame Diop Ba, le marché mondial des TIC connaît des bouleversements profonds, et le continent africain s'inscrit désormais au cœur de cette dynamique.
 
-## [DumpSec : des arrestations qui rappellent l'importance de la <b>cybercriminalité</b> française](https://www.lemagit.fr/dessin/DumpSec-des-arrestations-qui-rappellent-encore-limportance-de-la-cybercriminalite-francaise)  
-*Source : lemagit.fr | Publication : 2026-06-18*
+## [Wallix et l'INRIA étendent leur partenariat - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/biz-it/64995-wallix-et-l-inria-etendent-leur-partenariat.html)  
+*Source : linformaticien.com | Publication : 2026-06-19*
 
-- DumpSec : des arrestations qui rappellent encore l'importance de la cybercriminalité française Sept individus associés au collectif DumpSec ont été arrêtés en fin de semaine dernière.
-- Ils auraient soutiré des données à plus de 1 500 entités publiques et privées et illustrent à nouveau l'ampleur de la cybercriminalité française.
-- > Lire l’article de Valéry Rieß-Marchive.
+- Les deux entités ont signé un accord destiné à accélérer le développement d'une intelligence artificielle de confiance appliquée pour la.
 
-## [WALLIX : WALLIX et Inria signent un partenariat stratégique pour développer la prochaine ...](https://www.boursorama.com/bourse/actualites/wallix-wallix-et-inria-signent-un-partenariat-strategique-pour-developper-la-prochaine-generation-d-ia-souveraine-en-cybersecurite-6cb8b977430864f74d19636d5eea77b9)  
-*Source : boursorama.com | Publication : 2026-06-18*
+## [Près de 15 000 sites piratés : la police fait tomber le « parrain » des fausses mises à jour](https://www.01net.com/actualites/parrain-cyberattaques-fausses-mises-jour-vient-tomber.html)  
+*Source : 01net.com | Publication : 2026-06-19*
 
-- Paris, 18 juin 2026 – À l'occasion de VivaTech 2026, WALLIX, acteur européen de référence de la cybersécurité des identités et des accès, et Inria, l'institut national de recherche dans les sciences et technologies du numérique, annoncent la signature d'un partenariat stratégique destiné à accélérer le développement d'une intelligence artificielle de confiance appliquée pour la cybersécurité des identités et des accès.
-- Photo dans le document PDF avec de gauche à droite : Bruno Sportisse, Président-directeur général d'Inria, Anne Le Hénanff, ministre déléguée chargée de l'Intelligence artificielle et du Numérique, Jean-Noël de Galzain, Président-directeur général de WALLIX.
-- Cette collaboration s'appuiera sur des projets de recherche, des défis technologiques, des démonstrateurs et des initiatives d'innovation conjointes.
-- - Les travaux porteront notamment sur l'analyse comportementale des identités, la gouvernance intelligente des accès, les identités non humaines, la conformité continue et les systèmes d'IA de confiance.
+- Il y a près de 10 ans, en 2017, un groupe de cybercriminels, appelé SocGholish, ou encore FakeUpdates, s’est mis à exploiter une nouvelle tactique de piratage, l’injection web.
+- Le procédé consiste tout d’abord à s’introduire dans des sites web légitimes.
+- En général, les pirates se tournent vers des sites WordPress.
+- Ils y insèrent discrètement quelques lignes de code JavaScript malveillant.
 
-## [ARTE - <b>Cybercriminalité</b>, des attaques bien réelles - YouTube](https://www.youtube.com/watch?v=P9K1Fc0ayjU)  
-*Source : youtube.com | Publication : 2026-06-18*
+## [Fuite de données chez Commune d'Eyguires, des données compromises par <b>ransomware</b>](https://frenchbreaches.com/r/DXWcaA)  
+*Source : frenchbreaches.com | Publication : 2026-06-19*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Fuite de données chez Commune d'Eyguires, des données compromises par ransomware victime d'une fuite de données revendiquée.
+- Les données exposées.
 
-## [<b>Cybersécurité</b> : 250 000 passeports et cartes d'identité sur le darkweb : êtes-vous concerné](https://www.capital.fr/economie-politique/cybersecurite-250-000-passeports-et-cartes-d-identite-sur-le-darkweb-etes-vous-concerne-1527736)  
-*Source : capital.fr | Publication : 2026-06-18*
+## [Cyberhebdo du 19 juin 2026 : vaste vol de données chez Novo Nordisk | LeMagIT](https://www.lemagit.fr/actualites/366644863/Cyberhebdo-du-19-juin-2026-vaste-vol-de-donnees-chez-Novo-Nordisk)  
+*Source : lemagit.fr | Publication : 2026-06-19*
 
-- Vos passeports ou vos cartes d’identité se trouvent-ils sur le darknet ?.
-- La question a de quoi faire peur tant les usurpations d’identité peuvent être compromettantes.
-- Mais l’information est bien sérieuse, rapporte le site spécialisé sur les fuites de données, FrenchBreaches.
-- Un hacker, connu sous le nom de «ChimeraZ», affirme avoir en sa possession plus de 250 000 documents d’identité, des passeports et des cartes d’identité donc, qu’il souhaite vendre.
+- Cyberhebdo du 19 juin 2026 : vaste vol de données chez Novo Nordisk Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
+- Bienvenue dans votre Cyberhebdo, la revue de presse hebdomadaire dédiée aux cybermenaces.
+- La semaine écoulée a été marquée par une activité significative, avec 8 cyberattaques rapportées dans la presse à l'échelle internationale.
+- L'analyse de la couverture médiatique montre une distribution des incidents entre plusieurs pays : Allemagne, Sénégal, Norvège, Canada, Pays-Bas, États-Unis, Espagne et Taïwan.
 
-## [<b>Cybersécurité</b> &amp; Souveraineté | Paperjam News](https://paperjam.lu/dossier/cybersecurity-and-sovereignty)  
-*Source : paperjam.lu | Publication : 2026-06-18*
+## [Les premières échéances d'Hospiconnect repoussées - TICsanté - Articles](https://www.ticsante.com/story?ID=8308)  
+*Source : ticsante.com | Publication : 2026-06-19*
 
-- Cybersécurité & Souveraineté.
-- La résilience comme première ligne de défense Dans un contexte de tensions géopolitiques croissantes, les cyberattaques s’inscrivent désormais dans des stratégies de guerre hybride visant à déstabiliser les États, leurs infrastructures critiques et la confiance des citoyens.
-- Face à des menaces en constante évolution, le Luxembourg a fait de la cyberdéfense un enjeu stratégique.
-- À travers une stratégie dédiée, la Défense luxembourgeoise entend renforcer la coordination entre les acteurs concernés, accroître la résilience nationale et développer les capacités nécessaires pour anticiper les défis de demain.
+- Après une phase d'expérimentation, la généralisation d'Hospiconnect a été lancée en janvier.
+- Partie intégrante du programme Care (Cybersécurité accélération et résilience des établissements), ce dispositif doit permettre le financement pour les établissements sanitaires et médico-sociaux de l'acquisition de moyens d'identification électronique conformes aux exigences du référentiel d'identification électronique (RIE).
+- Hospiconnect comprend trois "relèves", une par an entre 2026 et 2028.
+- Ce sont les échéances pour cette année qui ont été décalées.
 
-## [<b>Cybersécurité</b> des réseaux: la 6G face aux systèmes ultra-distribués | Paperjam News](https://paperjam.lu/article/cybersecurite-des-reseaux-la-6g-face-aux-systemes-ultra-distribues)  
-*Source : paperjam.lu | Publication : 2026-06-18*
+## [LINCS : le pari d'un labo commun pour sortir la <b>cybersécurité</b> des silos](https://www.solutions-numeriques.com/lincs-le-pari-dun-labo-commun-pour-sortir-la-cybersecurite-des-silos/)  
+*Source : solutions-numeriques.com | Publication : 2026-06-19*
 
-- «La cybersécurité des réseaux ne se jouera plus seulement dans des mécanismes de protection ajoutés après coup: elle dépendra directement de la manière dont les réseaux seront conçus, distribués, automatisés et opérés.» Sébastien Faye, responsable du groupe de recherche Distributed & Intelligent Connectivity au LIST.
-- Une architecture qui se transforme en profondeur Il fut un temps où sécuriser un réseau télécom relevait d’une logique relativement simple: protéger un périmètre défini, surveiller quelques points d’entrée, contrôler ce qui entrait et sortait.
-- La 5G a profondément modifié cette équation.
-- La 6G, attendue pour 2030, va l’achever.
+- Le CNRS, Université Côte d’Azur et Docaposte ont annoncé le 18 juin au salon VivaTech la création du LINCS, Laboratoire informatique pour un numérique de confiance souverain.
+- Au-delà de l’effet d’annonce, la structure dit quelque chose de concret sur la manière dont la France entend traiter le problème de la fiabilité des infrastructures numériques.
+- Sortir la confiance numérique du discours La confiance numérique est un sujet sur lequel tout le monde s’accorde en principe, et peu de monde investit en pratique sur le plan scientifique.
+- Le LINCS tente de combler cet écart en articulant quatre chantiers de recherche complémentaires : la sécurisation des environnements d’exécution, l’usage de jumeaux numériques pour tester des scénarios de cyberattaques en conditions contrôlées, le développement de techniques d’IA explicables, et l’amélioration de la génération automatique d’arguments pour la prise de décision.
 
-## [Un haut gradé de la SQ, Charles Hudon, recruté par le PLQ | Radio-Canada](https://ici.radio-canada.ca/nouvelle/2262513/plq-liberal-charles-hudon-sq-candidat)  
-*Source : ici.radio-canada.ca | Publication : 2026-06-18*
+## [Challenge App Afrique : Cindy Monjoli, lauréate de l'édition 2026 - France 24](https://www.france24.com/fr/éco-tech/20260619-challenge-app-afrique-cindy-monjoli-lauréate-de-l-édition-2026)  
+*Source : france24.com | Publication : 2026-06-19*
 
-- Un haut gradé de la SQ, Charles Hudon, recruté par le PLQ Charles Hudon sera candidat libéral dans la circonscription de Vanier–Les Rivières, à Québec.
-- Photo : Fournie par le PLQ Expert des enquêtes criminelles à la Sûreté du Québec (SQ), Charles Hudon troque l’uniforme vert pour arborer les couleurs libérales dans la circonscription de Vanier–Les Rivières en vue des élections d’octobre prochain.
-- Charles Hudon était jusqu’à tout récemment directeur adjoint à la Direction des enquêtes sur les crimes financiers et la cybercriminalité à la SQ.
-- Le chef du Parti libéral, Charles Milliard, confirmera jeudi la candidature de celui qui réside dans cette circonscription de Québec depuis 2014.
+- Challenge App Afrique : Cindy Monjoli, lauréate de l'édition 2026 Cindy Monjoli est la lauréate du Challenge App Afrique.
+- L'édition 2026 de ce concours de start-up, porté par RFI et France 24, avait pour thème la gestion, la transofrmation et la valorisation des déchets.
+- Publié le : Modifié le : L'étudiante en cybersécurité originaire de Yaoundé, au Cameroun, a remporté les faveurs du jury avec son projet "Sosso Market", une application destinée à lutter contre le gaspillage alimentaire dans les marchés camerounais.
+- En favorisant la valorisation des invendus, elle contribue également à limiter les déchets organiques et les émissions de méthane, un puissant gaz à effet de serre produit lors de leur décomposition.
 
-## [“La <b>cybersécurité</b> ne sera plus jamais comme avant” : Ready For IT dévoile ce que la ...](https://www.solutions-numeriques.com/la-cybersecurite-ne-sera-plus-jamais-comme-avant-readyforit-devoile-ce-que-la-disruption-ia-a-vraiment-coute/)  
-*Source : solutions-numeriques.com | Publication : 2026-06-18*
+## [<b>Cybersécurité</b> : L'IA accélère les lancements de start-up spécialisées, mais pas encore l ...](https://www.usine-digitale.fr/cybersecurite/cybersecurite-lia-accelere-les-lancements-de-start-up-specialisees-mais-pas-encore-lemergence-de-champions-tricolores.MS3W5PKPLFD3BE2VJEFKO7NRHY.html)  
+*Source : usine-digitale.fr | Publication : 2026-06-19*
 
-- Du 2 au 4 juin à Monaco, Ready For IT a réuni 700 décideurs dans une ambiance que Maria Iacono, directrice de l’événement et des Assises de la cybersécurité, résume : celle d’une communauté en alerte et cherche à reconstruire ce que l’IA a abîmé en allant trop vite.
-- Déploiements sauvages, budgets perdus : la facture de l’hiver IA Ce n’est pas une métaphore.
-- L’hiver 2024-2025 a laissé des traces concrètes dans les systèmes d’information des entreprises du Midmarket et des ETI.
-- Des chatbots bricolés par les métiers sans passer par la DSI, des agents venus remplacer des outils CRM entiers, installés sans gouvernance, sans suivi, sans filet.
+- A l'occasion du salon VivaTech, le cabinet Wavestone et Bpifrance dévoilent les résultats de l'édition 2026 du “Radar des start-up de la cybersécurité.
