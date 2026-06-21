@@ -1,145 +1,156 @@
-# Résumés – 2026-06-20
+# Résumés – 2026-06-21
 
 
-## [Opération Endgame : les forces de l'ordre internationales frappent SocGholish, faussaire ... - Clubic](https://www.clubic.com/actualite-617755-operation-endgame-les-forces-de-l-ordre-internationales-frappent-socgholish-faussaire-de-mises-a-jour-et-complice-de-ransomwares.html)  
-*Source : clubic.com | Publication : 2026-06-19*
+## [Fiche métier Technicien / Technicienne en <b>cybersécurité</b> | MétierScope par France Travail](https://candidat.francetravail.fr/metierscope/fiche-metier/M1819/technicien-technicienne-en-cybersecurite)  
+*Source : candidat.francetravail.fr | Publication : 2026-06-20*
 
-- Près de 15 000 sites WordPress compromis par SocGholish ont été nettoyés dans le cadre de l'Operation Endgame.
-- L'action, coordonnée avec Europol et Eurojust, vise une chaîne d’infection liée au groupe cybercriminel Evil Corp.
-- L'Opération Endgame poursuit son travail de démantèlement, cette fois contre l’une des chaînes d’infection les plus installées du cybercrime.
-- Le 18 juin, les autorités des Pays-Bas, du Canada, des États-Unis et d’Allemagne, soutenues par Europol, ont annoncé une action coordonnée contre TA569, le groupe associé à SocGholish, aussi connu sous les noms FakeUpdates et GhoLoader.
+- Missions principales · Le Technicien en cybersécurité intervient dans la sécurisation des réseaux, des systèmes d'information et des données.
 
-## [« Il y aura de la casse à l'arrivée » : grâce à l'IA, la France n'a jamais créé autant de start-up ...](https://www.lesechos.fr/start-up/ecosysteme/il-y-aura-de-la-casse-a-larrivee-grace-a-lia-la-france-na-jamais-cree-autant-de-start-up-dans-la-cyber-2238203)  
-*Source : lesechos.fr | Publication : 2026-06-19*
+## [IA, cloud, cyber... Quelles compétences au cœur de la stratégie des directions informatiques](https://alliancy.fr/issues/dcd07048-508b-4c40-85dd-12c79350a3d8)  
+*Source : alliancy.fr | Publication : 2026-06-20*
 
-- » Jamais en huit ans le cabinet Wavestone n'avait vu autant de créations de start-up en France dans le domaine de la cybersécurité que ces douze.
+- IA, cloud, cyber.
+- Quelles compétences au cœur de la stratégie des directions informatiques ?.
+- Magazine PDF L’accélération technologique portée par l’IA, le cloud et la cybersécurité bouleverse les repères des directions informatiques.
+- Face à l’obsolescence rapide des compétences, les CIO doivent repenser leurs stratégies RH pour anticiper les besoins, réduire le skill gap et maintenir l’agilité de leurs équipes dans un environnement en mutation permanente.
 
-## [Repenser la <b>cybersécurité</b> à l'ère de l'IA de défense : comment anticiper les menaces introduites par](https://theatrum-belli.com/repenser-la-cybersecurite-a-lere-de-lia-de-defense-comment-anticiper-les-menaces-introduites-par-lutilisation-de-lintelligence-artificielle-sur-le-champ-de-batail/?pdf=379196)  
-*Source : theatrum-belli.com | Publication : 2026-06-19*
+## [DarkMoon : un moteur libre de pentest autonome avec agents IA, MCP et outillage conteneurisé](https://linuxfr.org/news/darkmoon-un-moteur-libre-de-pentest-autonome-avec-agents-ia-mcp-et-outillage-conteneurise)  
+*Source : linuxfr.org | Publication : 2026-06-20*
 
-- Car si la cybersécurité des systèmes d'information militaires fait l'objet d'une doctrine structurée depuis plusieurs années, que se passe-t-il.
+- DarkMoon est un projet libre de cybersécurité publié sous licence GNU GPLv3.
+- Il propose un moteur de test d’intrusion automatisé, lancé en conteneur Docker, qui orchestre des outils de sécurité existants, des agents spécialisés et un modèle de langage configurable.
+- Concrètement, l’utilisateur donne une cible autorisée.
+- DarkMoon lance des étapes de reconnaissance, identifie des technologies exposées, choisit certains outils ou agents selon le contexte, puis produit des journaux et un rapport de pentest en Markdown.
 
-## [Un groupe lié à la Chine est impliqué dans une campagne pluriannuelle ciblant la ... - Health-ISAC](https://health-isac.org/fr/Le-groupe-China-Nexus-est-lié-à-une-campagne-pluriannuelle-ciblant-la-recherche-médicale-canado-américaine./)  
-*Source : health-isac.org | Publication : 2026-06-19*
+## [Repenser la <b>cybersécurité</b> à l'ère de l'IA de défense : comment anticiper les menaces ...](https://theatrum-belli.com/repenser-la-cybersecurite-a-lere-de-lia-de-defense-comment-anticiper-les-menaces-introduites-par-lutilisation-de-lintelligence-artificielle-sur-le-champ-de-batail/)  
+*Source : theatrum-belli.com | Publication : 2026-06-20*
 
-- Un groupe lié à la Chine est impliqué dans une campagne pluriannuelle ciblant la recherche médicale américaine et canadienne.
-- Un rapport établit un lien entre une opération d'espionnage sophistiquée et des informations sur les virus, l'IA et les données militaires.
-- Errol Weiss, responsable de la sécurité au Centre d'analyse et de partage des informations sur la santé, a déclaré que la recherche médicale est une cible fréquente de piratage et que cette campagne particulière soulève des préoccupations de sécurité plus importantes pour les organismes de soins de santé.
-- « Même lorsque le motif apparent est l’espionnage, les mêmes voies d’accès peuvent être réutilisées ultérieurement à des fins de perturbation ou d’extorsion, ce qui, dans le secteur de la santé, peut rapidement devenir un problème de sécurité des patients si des systèmes critiques sont touchés », a déclaré Weiss à Cybersecurity Dive.
+- En juin 2025, au Salon du Bourget, l’AMIAD et Dassault Aviation signaient un accord de R&D sur l’intégration de l’IA dans le combat aérien.
+- Quelques mois plus tôt, l’agence lançait Pendragon : d’ici 2027, une force de robots coordonnés par une IA collective sera déployée au sein de l’armée de Terre.
+- Derrière ces annonces se profile un enjeu que les armées ne peuvent pas ignorer.
+- Car si la cybersécurité des systèmes d’information militaires fait l’objet d’une doctrine structurée depuis plusieurs années, que se passe-t-il lorsque c’est le système d’IA lui-même, que ce soit son modèle, ses données d’entraînement ou ses inférences en temps réel qui est attaqué ?.
 
-## [AVIS D'EXPERT – Repenser la sécurité des agents IA pour accompagner leur déploiement ...](https://www.solutions-numeriques.com/avis-dexpert-repenser-la-securite-des-agents-ia-pour-accompagner-leur-deploiement-a-grande-echelle/)  
-*Source : solutions-numeriques.com | Publication : 2026-06-19*
+## [Abdoul Aziz Diop envoyé à Rebeuss, son procès prévu mardi - DAKARACTU.COM](https://www.dakaractu.com/Abdoul-Aziz-Diop-envoye-a-Rebeuss-son-proces-prevu-mardi_a272910.html)  
+*Source : dakaractu.com | Publication : 2026-06-20*
 
-- Lisa Bouam, Enterprise Account Director France chez Snyk, alerte sur les nouveaux risques liés au déploiement des agents IA.
-- Capables d’agir sur des environnements sensibles, ces systèmes imposent de repenser les mécanismes de contrôle, avec des guardrails capables d’encadrer chaque interaction entre le modèle, ses outils et les données auxquelles il accède.
-- L’accélération du développement des agents d’intelligence artificielle marque une nouvelle étape dans l’automatisation des tâches numériques.
-- Leur capacité à interagir avec des environnements complexes (messageries, systèmes d’information, bases de données, infrastructures cloud) ouvre d’importantes perspectives d’efficacité.
+- Première nuit à Rebeuss pour Abdoul Aziz Diop Abdoul Aziz Diop va passer sa première nuit à la prison de Rebeuss.
+- D’après L’Observateur, l’ancien conseiller spécial du Président Macky Sall a été placé sous mandat de dépôt par le procureur de la République près le Tribunal de grande instance hors classe de Dakar.
+- Déféré hier vendredi par la Division spéciale de cybersécurité, le politologue est désormais en détention en attendant son jugement.
+- Sauf changement de programme, il comparaîtra mardi prochain devant le tribunal en audience de flagrant délit.
 
-## [Près de 15 000 sites web infectés nettoyés dans le cadre de l'opération de lutte contre SocGholish](https://www.malwarebytes.com/fr/blog/news/2026/06/nearly-15000-infected-websites-cleaned-in-socgholish-crackdown)  
-*Source : malwarebytes.com | Publication : 2026-06-19*
+## [Google Workspace : comment des hackers chinois ont volé des emails de défense sans ...](https://www.futura-sciences.com/tech/actualites/cybersecurite-google-workspace-hackers-chinois-ont-vole-emails-defense-exploiter-aucune-faille-135400/)  
+*Source : futura-sciences.com | Publication : 2026-06-20*
 
-- Nous sommes toujours ravis de terminer la semaine sur une note positive.
-- Une opération policière baptisée « Operation Endgame » vient de remporter une victoire majeure contre le réseau SocGholish (également connu sous le nom de FakeUpdates), actif depuis longtemps.
-- SocGholish est un framework de logiciels malveillants actif depuis au moins 2017 et surtout connu pour exploiter des sites WordPress légitimes piratés afin de proposer aux visiteurs de fausses mises à jour de navigateur et de logiciels.
-- Lorsqu’un utilisateur clique sur l’une de ces invites convaincantes invitant à « mettre à jour maintenant », le logiciel malveillant ouvre une porte dérobée sur le système, offrant ainsi aux attaquants un accès initial souvent utilisé pour déployer des ransomwares et d’autres logiciels malveillants.
+- Un groupe d'espionnage lié à la Chine a siphonné pendant plus d'un an des courriels de recherche médicale et de défense en Amérique du Nord.
+- Pour dérober les messages eux-mêmes, il n'a exploité aucune faille.
+- Le Google Threat Intelligence Group (GTIG) a détaillé cette campagne dans un rapport publié le 15 juin 2026, qu'il attribue avec un haut degré de confiance à un acteur suivi sous le nom d'UNC6508.
+- Son arme principale : une fonction parfaitement légitime de Google Workspace, détournée de son usage.
 
-## [&quot;De faux profils proposent de l'argent&quot; : comment le secteur nucléaire se défend face aux ...](https://www.lanouvellerepublique.fr/tours/de-faux-profils-proposent-de-l-argent-comment-le-secteur-nucleaire-se-defend-face-aux-cybercriminels-en-indre-et-loire-1781893014)  
-*Source : lanouvellerepublique.fr | Publication : 2026-06-19*
+## [Le téléphone Trump Mobile perd aussi son équipe de relations publiques - Mon Carnet](https://moncarnet.com/2026/06/20/le-telephone-trump-mobile-perd-aussi-son-equipe-de-relations-publiques/)  
+*Source : moncarnet.com | Publication : 2026-06-20*
 
-- « De faux profils proposent de l’argent » : comment le secteur nucléaire se défend face aux cybercriminels en Indre-et-Loire AbonnésCet article est réservé aux abonnés numériques.
-- Politique - Indre-et-Loire - AbonnésCet article est réservé aux abonnés numériques.
-- Les exercices sont réguliers, mais des mots-clés sont parfois plus forts que la prévention.
-- « Lors d’un hameçonnage interne, il fallait cliquer sur un lien pour accéder à la nouvelle grille de salaires d’EDF.
+- Le dossier Trump Mobile continue de prendre une tournure embarrassante.
+- Après les questions sur l’origine réelle du T1 Phone, les retards de livraison, les doutes sur ses caractéristiques et une fuite de données touchant des clients potentiels, c’est maintenant l’agence de relations publiques associée au projet qui prend ses distances.
+- Selon The Verge, Poplar Group ne représente plus Trump Mobile.
+- Chris Walker, cofondateur de l’agence, a confirmé que son équipe n’aide plus l’entreprise.
 
-## [<b>Cybersécurité</b> : les agents du renseignement belge victimes d'un piratage massif - DHnet](https://www.dhnet.be/actu/belgique/2026/06/19/cybersecurite-les-agents-du-renseignement-belge-victimes-dun-piratage-massif-SISIAGQ2UNFCPKV3KSYX2UAWPU/)  
-*Source : dhnet.be | Publication : 2026-06-19*
+## [iPhone XS et 11 menacés : cette faille des puces A12 et A13 ne se patchera pas - Clubic](https://www.clubic.com/actualite-617794-les-anciennes-puces-apple-a12-et-a13-souffrent-d-une-faille-a-laquelle-apple-ne-pourra-rien.html)  
+*Source : clubic.com | Publication : 2026-06-20*
 
-- Cybersécurité : les agents du renseignement belge victimes d'un piratage massif Le service belge de renseignement civil a été victime, entre mai 2025 et le printemps 2026, d'une cyberattaque compromettant les données personnelles de ses agents, indique vendredi soir la RTBF.
-- Publié le 19-06-2026 à 20h17 - Selon la chaîne publique, des cybercriminels sont parvenus à s'introduire dans le logiciel d'une société externe chargée de sécuriser les téléphones portables du personnel de la Sûreté.
-- Des données telles que les noms, prénoms et numéros de téléphone des membres du service ont pu être dérobées.
-- Les données de personnes contactées par des membres de la Sûreté via ces GSM pourraient également avoir été touchées.
+- Les chercheurs du cabinet Paradigm Shift ont publié les détails d'une nouvelle faille de sécurité critique touchant les puces Apple A12 et A13.
+- Impossible à patcher et d'ores et déjà exploitable par des tiers malveillants, cette vulnérabilité nécessite néanmoins une interaction physique avec les appareils concernés.
+- « usbliter8 », la preuve que cette faille peut être exploitée Découverte par les chercheurs du cabinet Paradigm Shift, cette vulnérabilité est notamment liée à ce que l'on appelle le BootROM (ou SecureROM) de l'iPhone : le tout premier code exécuté par l'appareil à sa mise sous tension, rappelle MacRumors.
+- Plus précisément, la faille tire parti d'un bug dans le contrôleur USB des deux puces affectées.
 
-## [<b>Cybersécurité</b> des ports de plaisance : l'Occitanie veut encadrer l'usage de l'intelligence artificielle](https://lemarin.ouest-france.fr/industries-nautiques/cybersecurite-des-ports-de-plaisance-loccitanie-veut-encadrer-lusage-de-lintelligence-artificielle-8aaee48e-6b18-11f1-a3cf-41dac410473f)  
-*Source : lemarin.ouest-france.fr | Publication : 2026-06-19*
+## [Prêt européen, SEB, TotalEnergies : les cinq infos économiques de la semaine - JDD](https://www.lejdd.fr/economie/pret-europeen-seb-totalenergies-les-cinq-infos-economiques-de-la-semaine-176865)  
+*Source : lejdd.fr | Publication : 2026-06-20*
 
-- Alors que l'usage de l'intelligence artificielle se développe chez les agents portuaires et les usagers des ports de plaisance, l'Union des villes.
+- Prêt européen, SEB, TotalEnergies : les cinq infos économiques de la semaine Un prêt européen pour la Défense française, SEB à l’Institut français de la mode, Astek mise sur la cybersécurité, les 200 millions perdus de TotalEnergies et le nouveau podcast de Bourse Direct.
+- Voilà les infos économiques à retenir cette semaine.
+- Un prêt européen pour la défense française En marge du salon de la défense Eurosatory, près de Paris, la France et la Commission européenne ont signé un accord portant sur un prêt de 15,1 milliards d’euros dans le cadre du programme de réarmement en Europe.
+- Ce prêt financera une trentaine de projets du ministère des Armées, y compris dans le domaine spatial.
 
-## [NIS2 en suspens : les RSSI attendent, le marché aussi - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/nis2-en-suspens-les-rssi-attendent-le-marche-aussi-227945)  
-*Source : silicon.fr | Publication : 2026-06-19*
+## [Fuite de données chez Vera Chimie Management, une attaque <b>ransomware</b> revendiquée](https://frenchbreaches.com/alertes/vera-chimie-management-rw_Vm1WeVlTQkRhR2x0YVdVZ1RXRnVZV2RsYldWdWRFQjBhR1ZuWlc1MGJHVnRaVzQ9)  
+*Source : frenchbreaches.com | Publication : 2026-06-20*
 
-- Le projet de loi français de transposition de la directive européenne NIS2 ne figure toujours pas à l’agenda de la session extraordinaire ouverte le 1ᵉʳ juillet 2026.
-- Pour le CESIN, la première association de RSSI en France, ce vide n’est pas seulement un problème juridique c’est un frein concret à l’investissement en cybersécurité.
-- Le calendrier parlementaire avance, mais le texte n’y est pas.
-- Rappelons que l’échéance initiale de transposition était fixée au 17 octobre 2024.
+- Revendication de cyberattaque – Vera Chimie Management ajoutée au site de fuite du groupe ransomware TheGentleman Le groupe de ransomware TheGentleman a ajouté Vera Chimie Management à sa plateforme de divulgation et revendique une compromission de ses systèmes d'information.
+- Vera Chimie Management est une entreprise française spécialisée dans la formulation sur mesure, la fabrication et le conditionnement de produits chimiques industriels.
+- Basée à Irigny, dans la métropole lyonnaise, la société accompagne depuis plus de trente ans des industriels en proposant des solutions adaptées en sous-traitance, avec une attention particulière portée aux exigences réglementaires, environnementales et à la confidentialité des projets confiés.Selon les éléments publiés sur le site de fuite de TheGentleman, les cybercriminels affirment avoir obtenu un volume de documents internes et menacent de publier les données prétendument dérobées à l'expiration du compte à rebours affiché sur leur plateforme.
+- Ce que revendique le groupe TheGentleman D'après les informations affichées sur la plateforme de fuite : Revendication publiée par le groupe ransomware TheGentleman ; - Compromission présumée des systèmes d'information de Vera Chimie Management ; - Publication d'une fiche dédiée sur le site de fuite du groupe ; - Menace de divulgation publique des données ; - Présence d'un compte à rebours avant publication ; - Revendication d'un accès à des documents internes ; - Publication d'une description détaillée de l'entreprise ciblée ; - Étendue réelle de l'incident encore inconnue ; - Vérifications et investigations nécessaires pour confirmer les impacts.
 
-## [Des millions d'iPhone et d'iPad vulnérables : une faille impossible à corriger touche ...](https://www.01net.com/actualites/des-millions-diphone-et-dipad-vulnerables-une-faille-impossible-a-corriger-touche-certaines-puces-apple.html)  
-*Source : 01net.com | Publication : 2026-06-19*
+## [Fuite de données chez Cofaq, des données compromises par <b>ransomware</b> - FrenchBreaches](https://frenchbreaches.com/alertes/cofaq-rw_UTI5bVlYRkFkR2hsWjJWdWRHeGxiV1Z1)  
+*Source : frenchbreaches.com | Publication : 2026-06-20*
 
-- Une faille de sécurité a été découverte au sein des puces A12 et A13 d’Apple, qui animent notamment les iPhone XR, les iPhone XS, et les iPhone 11.
-- Débusquée par les chercheurs de Paradigm Shift, la vulnérabilité se situe dans BootROM, la toute première couche logicielle qui s’exécute quand un appareil Apple démarre.
-- C’est pourquoi la faille est considérée comme impossible à corriger.
-- Le BootROM est en effet gravé directement dans le silicium des puces lors de leur fabrication.
+- Revendication de cyberattaque – COFAQ ajoutée au site de fuite du groupe ransomware TheGentleman Le groupe de ransomware TheGentleman a ajouté COFAQ à sa plateforme de divulgation et revendique une compromission de ses systèmes d'information.
+- COFAQ (Groupe COFAQ) est une coopérative française regroupant des distributeurs indépendants spécialisés dans les secteurs de la quincaillerie, de l'outillage, des fournitures industrielles et de l'équipement agricole.
+- Basé à Poitiers, le groupe fédère plusieurs centaines de points de vente et de commerçants indépendants sur le territoire français et s'appuie notamment sur des plateformes logistiques dédiées telles que COFALOG afin d'optimiser sa chaîne d'approvisionnement et ses services aux adhérents.Selon les éléments publiés sur le site de fuite de TheGentleman, les cybercriminels affirment avoir obtenu des documents internes et menacent de publier les données prétendument dérobées à l'expiration du compte à rebours affiché sur leur plateforme.
+- Ce que revendique le groupe TheGentleman D'après les informations affichées sur la plateforme de fuite : Revendication publiée par le groupe ransomware TheGentleman ; - Compromission présumée des systèmes d'information de COFAQ ; - Publication d'une fiche dédiée sur le site de fuite du groupe ; - Menace de divulgation publique des données ; - Présence d'un compte à rebours avant publication ; - Revendication d'un accès à des documents internes ; - Publication d'une description détaillée de l'organisation ciblée ; - Étendue réelle de l'incident encore inconnue ; - Vérifications et investigations nécessaires pour confirmer les impacts.
 
-## [Cloud, <b>Cybersecurité</b>, Connectivité : La triple promesse d'Orange Cloud &amp; Cyber S - Sika Finance](https://www.sikafinance.com/marches/cloud-cybersecurite-connectivite-la-triple-promesse-d-orange-cloud-cyber-solutions-pour-une-responsabilite-unique-des-flux-numeriques_62411)  
-*Source : sikafinance.com | Publication : 2026-06-19*
+## [Ce <b>ransomware</b> débranche les antivirus, et l'Europe est en première ligne - 01net.com](https://www.01net.com/actualites/ransomware-debranche-antivirus-europe-premiere-ligne.html)  
+*Source : 01net.com | Publication : 2026-06-20*
 
-- Le jeudi 18 juin 2026 à Abidjan, Orange Business Day a réuni de nombreux directeurs des systèmes d'information (DSI) et responsables de la sécurité des systèmes d'information (RSSI) des secteurs public et privé.
-- À cette occasion, Orange Cloud & Cyber Solutions (OCCS), la filiale d'Orange CI, a dévoilé sa stratégie d'intégration unique combinant cloud, cybersécurité et connectivité pour simplifier la transformation digitale en Côte d'Ivoire.
-- Animée par les experts d'OCCS, notamment Mame Diop Ba, directrice des opérations, Pacôme Boidi, senior manager coordination commerciale B2B, Anzi Akpa Gnagne, ingénieur d'affaires ICT pour le secteur public, et Ibrahim Diallo, manager senior vente pour le secteur privé, cette rencontre a permis de dresser un état des lieux du marché et d'apporter une réponse concrète aux défis technologiques du continent.
-- Cloud et cybersécurité en Afrique Pour Mame Diop Ba, le marché mondial des TIC connaît des bouleversements profonds, et le continent africain s'inscrit désormais au cœur de cette dynamique.
+- Le rançongiciel a longtemps fonctionné sur un principe simple, consistant à chiffrer les fichiers d’une victime avant de réclamer une rançon pour les libérer.
+- Les groupes les plus organisés y ont ajouté une étape, celle qui consiste à neutraliser d’abord les défenses censées les repérer.
+- Beaucoup fonctionnent aujourd’hui comme une franchise du crime, où des pirates indépendants, les affiliés, louent l’outillage du gang pour mener leurs propres attaques en échange d’une commission.
+- Un groupe baptisé Gentlemen a poussé le modèle plus loin, en fournissant à ces affiliés des outils prêts à l’emploi pour désactiver les antivirus professionnels.
 
-## [Wallix et l'INRIA étendent leur partenariat - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/biz-it/64995-wallix-et-l-inria-etendent-leur-partenariat.html)  
-*Source : linformaticien.com | Publication : 2026-06-19*
+## [Une alarme s'est déclenchée sur les téléphones portables avec un message contenant le ... - BFM](https://www.bfmtv.com/tech/cybersecurite/une-alarme-s-est-declenchee-sur-les-telephones-portables-avec-un-message-contenant-le-mot-misanthropie-les-autorites-bresiliennes-evoquent-une-probable-cyberattaque-apres-de-fausses-alertes-envoyees-au-public_AD-202606200265.html)  
+*Source : bfmtv.com | Publication : 2026-06-20*
 
-- Les deux entités ont signé un accord destiné à accélérer le développement d'une intelligence artificielle de confiance appliquée pour la.
+- Une alarme s'est déclenchée sur les téléphones portables avec un message contenant le mot "misanthropie": les autorités brésiliennes évoquent une "probable" cyberattaque après de fausses alertes envoyées au public La Défense civile au Brésil a annoncé ce samedi 20 juin que son système d'alerte avait été mis hors service après avoir "subi une intrusion" qui a déclenché l'envoi de faux messages sur les téléphones portables, dans le cadre d'une "probable" attaque de pirates informatiques.
+- Plusieurs Brésiliens ont ainsi raconté sur les réseaux sociaux comment ils avaient été réveillés par le son fort d'une alarme sur leur téléphone.
+- "Misanthropie" "Le message diffusé était de type 'Alerte extrême' et contenait le mot 'misanthropie', qui signifie haine de l'humanité.
+- Il s'agit probablement d'une attaque de pirates informatiques", a déclaré la plateforme dans un communiqué.
 
-## [Près de 15 000 sites piratés : la police fait tomber le « parrain » des fausses mises à jour](https://www.01net.com/actualites/parrain-cyberattaques-fausses-mises-jour-vient-tomber.html)  
-*Source : 01net.com | Publication : 2026-06-19*
+## [Stormshield lance le SNi50, un pare-feu pour les systèmes industriels pensé comme un ...](https://www.usine-digitale.fr/cybersecurite/stormshield-lance-le-sni50-un-pare-feu-pour-les-systemes-industriels-pense-comme-un-bouclier-souverain-face-aux-cyberattaques-ciblant-les-infrastructures-critiques.7FXBRDBMSJAQTCG2VJOYEZUJY4.html)  
+*Source : usine-digitale.fr | Publication : 2026-06-20*
 
-- Il y a près de 10 ans, en 2017, un groupe de cybercriminels, appelé SocGholish, ou encore FakeUpdates, s’est mis à exploiter une nouvelle tactique de piratage, l’injection web.
-- Le procédé consiste tout d’abord à s’introduire dans des sites web légitimes.
-- En général, les pirates se tournent vers des sites WordPress.
-- Ils y insèrent discrètement quelques lignes de code JavaScript malveillant.
+- L'acteur européen de référence en cybersécurité étend sa gamme pour répondre à un plus large éventail de cas d'usages critiques avec de fortes.
 
-## [Fuite de données chez Commune d'Eyguires, des données compromises par <b>ransomware</b>](https://frenchbreaches.com/r/DXWcaA)  
-*Source : frenchbreaches.com | Publication : 2026-06-19*
+## [11 milliards de dollars perdus en arnaques crypto aux États-Unis en 2025 - TradingView](https://fr.tradingview.com/news/cointribune:29e51376bb858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-06-20*
 
-- Fuite de données chez Commune d'Eyguires, des données compromises par ransomware victime d'une fuite de données revendiquée.
-- Les données exposées.
+- 11 milliards de dollars perdus en arnaques crypto aux États-Unis en 2025 En 2025, les arnaques crypto ont coûté 11 milliards de dollars aux Américains et le FBI tire la sonnette d’alarme.
+- Entre faux investissements, portefeuilles piratés et escroqueries sophistiquées, la crypto reste un terrain de jeu pour les fraudeurs.
+- Pourquoi le marché peine-t-il à se sécuriser ?.
+- Lisez-nous sur Google NewsEn bref 11 milliards de dollars, le coût record des arnaques crypto aux États-Unis en 2025, selon le FBI.
 
-## [Cyberhebdo du 19 juin 2026 : vaste vol de données chez Novo Nordisk | LeMagIT](https://www.lemagit.fr/actualites/366644863/Cyberhebdo-du-19-juin-2026-vaste-vol-de-donnees-chez-Novo-Nordisk)  
-*Source : lemagit.fr | Publication : 2026-06-19*
+## [PARIS : <b>Cybersécurité</b> - Les arnaques « deepfake » explosent, Donald Trump et Elon Musk ...](https://presseagence.fr/paris-cybersecurite-les-arnaques-deepfake-explosent-donald-trump-et-elon-musk-en-tete-des-usurpations/)  
+*Source : presseagence.fr | Publication : 2026-06-20*
 
-- Cyberhebdo du 19 juin 2026 : vaste vol de données chez Novo Nordisk Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
-- Bienvenue dans votre Cyberhebdo, la revue de presse hebdomadaire dédiée aux cybermenaces.
-- La semaine écoulée a été marquée par une activité significative, avec 8 cyberattaques rapportées dans la presse à l'échelle internationale.
-- L'analyse de la couverture médiatique montre une distribution des incidents entre plusieurs pays : Allemagne, Sénégal, Norvège, Canada, Pays-Bas, États-Unis, Espagne et Taïwan.
+- PARIS : Cybersécurité – Les arnaques « deepfake » exp… Partager : PARIS : Cybersécurité – Les arnaques « deepfake » explosent, Donald Trump et Elon Musk en tête des usurpations Une étude de BrokerChooser révèle une hausse de 982 % des fraudes « deepfake » en 2025, usurpant surtout l’identité de célébrités.
+- La cybercriminalité a franchi un nouveau cap en 2025 avec la prolifération des arnaques basées sur l’intelligence artificielle, connues sous le nom de « deepfakes ».
+- Selon le ministère de l’Intérieur, plus de 280 000 infractions numériques portant atteinte aux biens ont été recensées en France l’an dernier.
+- Parmi elles, le « célèb-baiting », qui consiste à usurper l’identité d’une personnalité pour escroquer les internautes, connaît une croissance fulgurante, facilitée par des outils d’IA de plus en plus sophistiqués et accessibles.
 
-## [Les premières échéances d'Hospiconnect repoussées - TICsanté - Articles](https://www.ticsante.com/story?ID=8308)  
-*Source : ticsante.com | Publication : 2026-06-19*
+## [Cofondateur du géant français du jeu vidéo Ubisoft, Claude Guillemot fait partie des victimes ...](https://www.bfmtv.com/tech/cybersecurite/cofondateur-du-geant-francais-du-jeu-video-ubisoft-claude-guillemot-fait-partie-des-victimes-du-crash-d-un-avion-de-tourisme-a-la-baule_AD-202606200259.html)  
+*Source : bfmtv.com | Publication : 2026-06-20*
 
-- Après une phase d'expérimentation, la généralisation d'Hospiconnect a été lancée en janvier.
-- Partie intégrante du programme Care (Cybersécurité accélération et résilience des établissements), ce dispositif doit permettre le financement pour les établissements sanitaires et médico-sociaux de l'acquisition de moyens d'identification électronique conformes aux exigences du référentiel d'identification électronique (RIE).
-- Hospiconnect comprend trois "relèves", une par an entre 2026 et 2028.
-- Ce sont les échéances pour cette année qui ont été décalées.
+- Cofondateur du géant français du jeu vidéo Ubisoft, Claude Guillemot fait partie des victimes du crash d'un avion de tourisme à La Baule Il était l'un des cofondateurs d'Ubisoft.
+- Claude Guillemot, 69 ans, est mort vendredi 19 juin dans le crash d'un avion de tourisme survenu à La Baule, en Loire-Atlantique, a indiqué le studio français du jeu vidéo dans un communiqué, confirmant une information de Ouest-France.
+- "Ubisoft a appris avec une profonde tristesse le décès de Claude Guillemot, cofondateur du Groupe et Président de Guillemot Corporation, dans un accident.
+- Nos pensées vont à sa famille et à ses proches dans cette épreuve", a écrit l'entreprise dans un communiqué.
 
-## [LINCS : le pari d'un labo commun pour sortir la <b>cybersécurité</b> des silos](https://www.solutions-numeriques.com/lincs-le-pari-dun-labo-commun-pour-sortir-la-cybersecurite-des-silos/)  
-*Source : solutions-numeriques.com | Publication : 2026-06-19*
+## [Le nombre de cyberattaques s'envole : cet opérateur vous protège gratuitement avec ces box internet](https://www.degrouptest.com/actualite/le-nombre-de-cyberattaques-s-envole-cet-operateur-vous-protege-gratuitement-avec-ces-box-internet)  
+*Source : degrouptest.com | Publication : 2026-06-20*
 
-- Le CNRS, Université Côte d’Azur et Docaposte ont annoncé le 18 juin au salon VivaTech la création du LINCS, Laboratoire informatique pour un numérique de confiance souverain.
-- Au-delà de l’effet d’annonce, la structure dit quelque chose de concret sur la manière dont la France entend traiter le problème de la fiabilité des infrastructures numériques.
-- Sortir la confiance numérique du discours La confiance numérique est un sujet sur lequel tout le monde s’accorde en principe, et peu de monde investit en pratique sur le plan scientifique.
-- Le LINCS tente de combler cet écart en articulant quatre chantiers de recherche complémentaires : la sécurisation des environnements d’exécution, l’usage de jumeaux numériques pour tester des scénarios de cyberattaques en conditions contrôlées, le développement de techniques d’IA explicables, et l’amélioration de la génération automatique d’arguments pour la prise de décision.
+- C'est une réalité invisible mais omniprésente : la France est sous le feu constant des cybercriminels.
+- Chaque jour, des milliers de tentatives d'attaques ciblent les entreprises, les administrations, mais aussi bien sûr les particuliers.
+- Explosion des cyberattaques en France : personne n'est à l'abri Ne faites pas l'erreur de penser que vous êtes trop prudent pour être une cible.
+- Aujourd'hui, les techniques de phishing, de rançongiciels et de vol de données sont si sophistiquées qu'elles peuvent piéger même les utilisateurs les plus avertis.
 
-## [Challenge App Afrique : Cindy Monjoli, lauréate de l'édition 2026 - France 24](https://www.france24.com/fr/éco-tech/20260619-challenge-app-afrique-cindy-monjoli-lauréate-de-l-édition-2026)  
-*Source : france24.com | Publication : 2026-06-19*
+## [Plus de 200 applications bancaires et de cryptos sont visées par un nouveau virus](https://www.01net.com/actualites/plus-de-200-applications-bancaires-et-de-cryptos-sont-visees-par-un-nouveau-virus-furtif-et-sophistique.html)  
+*Source : 01net.com | Publication : 2026-06-20*
 
-- Challenge App Afrique : Cindy Monjoli, lauréate de l'édition 2026 Cindy Monjoli est la lauréate du Challenge App Afrique.
-- L'édition 2026 de ce concours de start-up, porté par RFI et France 24, avait pour thème la gestion, la transofrmation et la valorisation des déchets.
-- Publié le : Modifié le : L'étudiante en cybersécurité originaire de Yaoundé, au Cameroun, a remporté les faveurs du jury avec son projet "Sosso Market", une application destinée à lutter contre le gaspillage alimentaire dans les marchés camerounais.
-- En favorisant la valorisation des invendus, elle contribue également à limiter les déchets organiques et les émissions de méthane, un puissant gaz à effet de serre produit lors de leur décomposition.
+- Un nouveau cheval de Troie bancaire a été découvert par les chercheurs de Zimperium.
+- Baptisé Rokarolla, le malware se diffuse via des sites web malveillants, véritables copies conformes des pages de téléchargement officielles de Google Chrome ou de TikTok.
+- L’internaute croit installer une mise à jour de son navigateur ou une version récente de l’application de vidéos, mais il se retrouve en fait avec un virus sur son smartphone Android.
+- Dans un premier temps, la victime installe un malware compte-gouttes (ou « dropper » en anglais).
 
-## [<b>Cybersécurité</b> : L'IA accélère les lancements de start-up spécialisées, mais pas encore l ...](https://www.usine-digitale.fr/cybersecurite/cybersecurite-lia-accelere-les-lancements-de-start-up-specialisees-mais-pas-encore-lemergence-de-champions-tricolores.MS3W5PKPLFD3BE2VJEFKO7NRHY.html)  
-*Source : usine-digitale.fr | Publication : 2026-06-19*
+## [L'ONG VAN SO SECONDARY SCHOOL ORGANISE UNE CAMPAGNE DE ... - Vietnam.vn](https://www.vietnam.vn/fr/truong-thcs-ngo-van-so-to-chuc-tuyen-truyen-luat-an-ninh-mang-va-phong-chong-ma-tuy-thuoc-la-dien-tu)  
+*Source : vietnam.vn | Publication : 2026-06-20*
 
-- A l'occasion du salon VivaTech, le cabinet Wavestone et Bpifrance dévoilent les résultats de l'édition 2026 du “Radar des start-up de la cybersécurité.
+- Auteur : Nguyen Thi Hai Yen – Lycée Ngo Van So Le matin du 20 mars 2023, la police de la ville de Lao Cai a organisé une session de formation sur la loi relative à la cybersécurité et la prévention des effets nocifs des drogues et des cigarettes électroniques à l'intention de 53 fonctionnaires, enseignants et membres du personnel, et de 903 élèves de l'école secondaire Ngo Van So de la ville de Lao Cai.
+- Le lieutenant principal Nguyen Gia Huan et le lieutenant Doan Doan Hung, respectivement de l'équipe de sécurité et de l'équipe d'enquête sur les stupéfiants de la police de Lao Cai, ont assisté à la présentation et y ont fait des exposés.
+- Étaient également présents des représentants de l'association des parents d'élèves des 24 classes du collège Ngo Van So.
+- Des agents de police ont diffusé des informations sur la loi relative à la cybersécurité, l'influence du cyberespace, ses impacts positifs et négatifs sur la vie moderne, les principes fondamentaux de la protection de la cybersécurité des systèmes d'information critiques pour la sécurité nationale, ainsi que la réglementation applicable aux actes de cyberviolation.
