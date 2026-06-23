@@ -1,153 +1,160 @@
-# Résumés – 2026-06-22
+# Résumés – 2026-06-23
 
 
-## [Quand on a plus le temps de suivre le protocole : c'est quoi un hotfix en <b>cybersécurité</b> - Numerama](https://www.numerama.com/cyberguerre/2279243-quand-on-a-plus-le-temps-de-suivre-le-protocole-cest-quoi-un-hotfix-en-cybersecurite.html)  
-*Source : numerama.com | Publication : 2026-06-21*
+## [IBM s'associe à OpenAI pour développer des solutions d'IA dédiées à la sécurité des entreprises](https://www.boursorama.com/bourse/actualites-amp/ibm-s-associe-a-openai-pour-developper-des-solutions-d-ia-dediees-a-la-securite-des-entreprises-b32c31cab2a681575e656ff1aeed1558)  
+*Source : boursorama.com | Publication : 2026-06-22*
 
-- Dans le monde idéal de la cybersécurité, une faille suit un parcours balisé.
-- Un chercheur en sécurité, interne à l’entreprise, indépendant, ou membre d’un cabinet spécialisé, découvre une vulnérabilité dans un logiciel.
-- Il la signale à l’éditeur via un programme de divulgation responsable, souvent encadré par un délai de confidentialité de 90 jours.
-- L’éditeur analyse, développe un correctif, le teste en profondeur puis le publie lors d’une fenêtre de mise à jour planifiée.
+- IBM s'associe à OpenAI pour développer des solutions d'IA dédiées à la sécurité des entreprises information fournie par Reuters 22/06/2026 à 23:23 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) IBM IBM.N a annoncé lundi avoir conclu un partenariat avec OpenAI afin d'intégrer des capacités d'IA de pointe dans les processus de sécurité des entreprises, dans le but de lutter contre les cybermenaces en constante évolution.
+- Le cours de l'action de la société a progressé de 3,6% après la clôture de la Bourse.
+- Voici quelques détails sur ce partenariat: * IBM a rejoint le programme OpenAI Daybreak Cyber Partner et collabore avec la start-up pour intégrer des outils de protection basés sur l’IA directement dans les opérations métier, aidant ainsi les entreprises à identifier et à minimiser leurs risques de sécurité.
+- * Dans le cadre de ce partenariat, l’entreprise a lancé un nouveau service de sécurité des applications qui utilise les capacités de cybersécurité d’OpenAI pour aider les organisations à identifier et à valider les vulnérabilités logicielles avec plus de rapidité et de précision.
 
-## [Le « Google » des fuites de données : ce moteur de recherche recense les infos ...](https://www.01net.com/actualites/google-fuites-donnees-moteur-recherche-recense-infos-millions-francais.html)  
-*Source : 01net.com | Publication : 2026-06-21*
+## [IBM s'associe à OpenAI pour intégrer l'IA à la <b>cybersécurité</b> des entreprises - Zonebourse](https://ch.zonebourse.com/actualite-bourse/ibm-s-associe-a-openai-pour-integrer-l-ia-a-la-cybersecurite-des-entreprises-ce7f5cd3d081f12c)  
+*Source : ch.zonebourse.com | Publication : 2026-06-22*
 
-- Début juin 2026, un moteur de recherche intitulé « Searcher » est apparu sur Internet.
-- Le moteur indexe uniquement des données personnelles appartenant à des Français.
-- Révélée au grand public par la cellule « Vrai ou Faux » de Franceinfo, qui a été alertée par les élèves d’un collège d’Essonne, la plateforme permet de rechercher des fiches d’identité compromises.
-- En pratique, il suffit de taper un nom pour faire remonter une fiche d’identité complète, comprenant le prénom, le nom de famille, la date et lieu de naissance, l’adresse postale, l’adresse e-mail, le numéro de téléphone, le numéro du passeport, l’IBAN, le numéro de Sécurité sociale, la plaque d’immatriculation du véhicule, certains rendez-vous médicaux et même le nombre d’enfants d’une famille.
+- IBM a annoncé lundi avoir conclu un partenariat avec OpenAI afin d&#039;intégrer des capacités d&#039;intelligence artificielle (IA) de pointe dans les processus de sécurité des entreprises, avec pour objectif de contrer des cybermenaces en mutation rapide.L&#039;action de la société progressait de 3,6 % lors des échanges après-bourse.Voici les principaux détails de ce partenariat :* IBM a rejoint le programme OpenAI Daybreak Cyber Partner et collabore avec la start-up pour intégrer des outils d&#039;IA de protection directement au sein des opérations commerciales, aidant ainsi les entreprises à identifier et à minimiser leurs risques de sécurité.
+- * Dans le cadre de cet accord, le groupe a lancé un nouveau service de sécurité des applications.
+- Celui-ci utilise les capacités cyber d&#039;OpenAI pour aider les organisations à identifier et à valider les vulnérabilités logicielles avec une rapidité et une précision accrues.
+- * Ce nouveau service s&#039;appuie sur le Project Lightwell, une initiative lancée le mois dernier visant à déployer des ingénieurs et des outils d&#039;IA pour aider les entreprises à mieux sécuriser les logiciels libres (open source).
 
-## [Faux congé payé: un test «cruel» de <b>cybersécurité</b> indigne des travailleurs de la santé](https://www.noovo.info/nouvelles/societe/article/faux-conge-paye-un-test-cruel-de-cybersecurite-indigne-des-travailleurs-de-la-sante/)  
-*Source : noovo.info | Publication : 2026-06-21*
+## [Proofpoint rejoint le programme OpenAI Daybreak Cyber Partner pour renforcer la défense ...](https://www.proofpoint.com/fr/newsroom/press-releases/proofpoint-rejoint-le-programme-openai-daybreak-cyber-partner-pour-renforcer)  
+*Source : proofpoint.com | Publication : 2026-06-22*
 
-- Les dirigeants syndicaux de Terre-Neuve-et-Labrador affirment qu’un test de cybersécurité qualifié de «cruel» a indigné les travailleurs de la santé de toute la province et pourrait pousser certains d’entre eux à quitter leur emploi prématurément.
-- Ce texte est une traduction d’un article de CTV News.
-- Des milliers d’infirmières, de médecins et d’autres employés des Services de santé de Terre-Neuve-et-Labrador (NLHS) ont reçu mardi un courriel de leur employeur leur promettant une journée de congé payé supplémentaire en reconnaissance de leurs efforts récents — pour découvrir par la suite que ce courriel n’était qu’un test de cybersécurité visant à piéger les employés.
-- «C’était en fait insultant, humiliant et irrespectueux», a indiqué Yvette Coffey, présidente du Syndicat des infirmières et infirmiers autorisés de Terre-Neuve-et-Labrador.
+- Proofpoint rejoint le programme OpenAI Daybreak Cyber Partner pour renforcer la défense cybersécurité par l'IA responsable Proofpoint a été sélectionné pour participer à OpenAI Daybreak, qui aide les entreprises de cybersécurité de confiance à intégrer l'IA dans leurs opérations de sécurité défensive.
+- - Dans le cadre du programme OpenAI Daybreak Cyber Partner, Proofpoint peut utiliser GPT-5.5 au sein de ses produits, services et workflows gérés pour accompagner ses clients.
+- - Les deux entreprises partagent un engagement commun pour garantir que l'IA est déployée de manière sûre, transparente et de façon à renforcer la défense cybersécurité tout en prévenant les abus.
+- - Proofpoint, Inc., leader de la cybersécurité et de la conformité, annonce aujourd'hui avoir été sélectionné pour rejoindre le programme OpenAI Daybreak Cyber Partner, une initiative collaborative conçue pour aider les organisations de cybersécurité de confiance à intégrer des capacités d'IA avancées dans leurs opérations, produits et services de sécurité défensive au bénéfice de leurs clients.
 
-## [DevSecOps : de la théorie au mur de la réalité - Global Security Mag](https://www.globalsecuritymag.fr/devsecops-de-la-theorie-au-mur-de-la-realite.html)  
-*Source : globalsecuritymag.fr | Publication : 2026-06-21*
+## [Trump signe des décrets visant à mettre au point un ordinateur quantique ultra-puissant, l ...](https://www.boursorama.com/bourse/actualites-amp/trump-signe-des-decrets-visant-a-mettre-au-point-un-ordinateur-quantique-ultra-puissant-l-objectif-etant-fixe-a-2028-ce5458b871df35ee95fc8a031a576d75)  
+*Source : boursorama.com | Publication : 2026-06-22*
 
-- Le concept de DevSecOps s’est imposé en quelques années dans les discours IT.
-- Évolution du DevOps à l’heure de la cybersécurité, ce modèle permet d’automatiser l’ensemble de la chaîne logicielle, d’intégrer la sécurité dès la conception et de déployer en continu, sans rupture de service.
-- Cette vision s’appuie sur des exemples puissants tels que Netflix, Amazon et d’autres acteurs du cloud qui ont démontré qu’il était possible de concilier vitesse, fiabilité et sécurité à grande échelle.
-- Leur réussite a largement contribué à structurer les pratiques et les attentes du marché.
+- Trump signe des décrets visant à mettre au point un ordinateur quantique ultra-puissant, l'objectif étant fixé à 2028 information fournie par Reuters 22/06/2026 à 22:29 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) par Jacob Bogage et Alexandra Alper Le président américain Donald Trump a ordonné lundi de donner un coup d’accélérateur à la construction d’un puissant ordinateur quantique destiné à la recherche scientifique et d’accélérer les efforts visant à protéger les systèmes gouvernementaux contre les cybermenaces associées, renforçant ainsi les efforts des États-Unis dans leur course contre la Chine pour une technologie susceptible de bouleverser la science et la cybersécurité.
+- "Nous pensons que cela pourra se concrétiser d’ici 2028", a déclaré Michael Kratsios, directeur du Bureau de la politique scientifique et technologique de la Maison Blanche, lors d’une conférence téléphonique présentant ces mesures et évoquant l’ordinateur quantique.
+- Trump a signé deux décrets présidentiels, dont l’un vise à protéger les ordinateurs du gouvernement contre les cyberattaques menées à l’aide d’ordinateurs quantiques en fixant comme objectif la migration des principaux systèmes informatiques gouvernementaux vers la cryptographie post-quantique d’ici 2030 ou 2031.
+- Les ordinateurs quantiques utilisent les lois de la physique quantique pour traiter l’information de manière à résoudre certains problèmes complexes bien plus rapidement que les supercalculateurs actuels.
 
-## [À 50 ans, il se reconvertit dans la <b>cybersécurité</b> et se fait embaucher chez Thales](https://etudiant.lefigaro.fr/article/etudes/a-50-ans-il-se-reconvertit-dans-la-cybersecurite-et-se-fait-embaucher-chez-thales-20260621/)  
-*Source : etudiant.lefigaro.fr | Publication : 2026-06-21*
+## [Une attaque supply chain expose des données Salesforce de plusieurs entreprises de <b>cybersécurité</b>](https://www.numerama.com/cyberguerre/2281657-une-attaque-supply-chain-expose-des-donnees-salesforce-de-plusieurs-entreprises-de-cybersecurite.html)  
+*Source : numerama.com | Publication : 2026-06-22*
 
-- Après avoir créé son agence de sondage, il s'est lancé dans la cybersécurité .Collection personnelle.
-- Christophe Ralle n'a pas hésité à changer.
+- C’est une affaire qui débute le 11 juin 2026 et dont le nombre de victimes continue d’augmenter.
+- Ce jour-là, un acteur affilié au groupe cybercriminel Icarus accède aux systèmes de Klue, un outil de veille concurrentielle permettant de centraliser et analyser des informations sur le marché et les concurrents.
+- Depuis le 18 juin, au moins neuf organisations ont confirmé avoir été affectées, et la liste a de quoi surprendre : HackerOne, Huntress, Jamf, OneTrust, Recorded Future, Snyk et Tanium, autant d’acteurs majeurs de l’écosysteme cyber dont le cœur de métier est précisément de protéger les autres.
+- Un token suffit à ouvrir toutes les portes Selon les premières analyses, le point d’entrée exploité est un identifiant resté actif, créé dans le cadre d’un prototype d’intégration jamais finalisé ni supprimé.
 
-## [L'IA n'a pas détruit le marché du travail, mais elle creuse un fossé entre juniors et seniors](https://www.clubic.com/actualite-617896-l-ia-menace-t-elle-vraiment-votre-emploi-ce-graphique-compare-avec-internet.html)  
-*Source : clubic.com | Publication : 2026-06-21*
+## [La révision du Cybersecurity Act face au défi de l'harmonisation](https://www.journaldunet.com/cybersecurite/1551483-la-revision-du-cybersecurity-act-face-au-defi-de-l-harmonisation/)  
+*Source : journaldunet.com | Publication : 2026-06-22*
 
-- Trente-trois mois après le lancement de ChatGPT, le Budget Lab de l’université de Yale ne relève aucune rupture dans les statistiques nationales de l’emploi américain.
-- L’IA transforme les métiers plus qu’elle ne les supprime, comme l’ont fait avant elle les ordinateurs dans les années 1980 puis Internet dans les années 1990.
-- Le secteur informatique fait pourtant exception, au détriment des moins de 30 ans.
-- 71 % des Américains redoutaient une perte d’emploi permanente liée à l’IA, selon un sondage Reuters/Ipsos d’août 2025.
+- La révision du Cybersecurity Act face au défi de l'harmonisation La Commission européenne veut renforcer la cybersécurité de l'UE avec le CSA2 et NIS2, mais la fragmentation réglementaire et les réflexes nationaux compliquent une véritable harmonisation.
+- Le 20 janvier 2026, la Commission européenne a présenté un nouveau paquet cybersécurité comprenant une révision majeure du Cybersecurity Act (CSA2) ainsi que des ajustements ciblés de la directive NIS2.
+- L’objectif est de renforcer la résilience cyber de l’Union face à des menaces en constante progression.
+- Derrière cette ambition, une interrogation demeure : l’harmonisation européenne en matière de cybersécurité est-elle réellement atteignable ou restera-t-elle un objectif théorique ?.
 
-## [« Nos infrastructures constituent des cibles de choix pour la Russie » : la Roumanie, premier ...](https://www.lesechos.fr/tech-medias/hightech/nos-infrastructures-constituent-des-cibles-de-choix-pour-la-russie-la-roumanie-premier-rempart-cyber-pour-leurope-2238319)  
-*Source : lesechos.fr | Publication : 2026-06-21*
+## [<b>Ransomware</b> : les liens techniques entre Rhysida et Interlock - LeMagIT](https://www.lemagit.fr/actualites/366644865/Ransomware-les-liens-techniques-entre-Rhysida-et-Interlock)  
+*Source : lemagit.fr | Publication : 2026-06-22*
 
-- Un écran géant domine trois rangées d'ordinateurs dans un centre opérationnel de cybersécurité à Bucarest.
-- Valentin Popa, CTO de la filiale Scut.
+- Afiq Sam - stock.adobe.com Ransomware : les liens techniques entre Rhysida et Interlock Les chercheurs d'IBM X-Force se sont penchés sur l'écosystème Interlock/Rhysida, détaillant les vecteurs d'infection, les portes dérobées partagées et les techniques d'obfuscation avancées.
+- L'émergence d'un bloc opérationnel entre Interlock et Rhysida marque une mutation structurelle dans l'économie des ransomwares.
+- Plutôt que des entités isolées, les données suggèrent une transition vers des infrastructures distribuées et partagées.
+- Cette convergence tactique permet une résilience accrue face aux mesures de démantèlement : si une infrastructure est neutralisée, les autres membres du bloc conservent leur capacité opérationnelle.
 
-## [FAQ : Antivirus, VPN, pare-feu... que faut-il vraiment installer aujourd'hui ? - GNT](https://www.generation-nt.com/actualites/faq-antivirus-vpn-parefeu-protection-2077420/amp)  
-*Source : generation-nt.com | Publication : 2026-06-21*
+## [Une enquête révèle le mode opératoire du groupe criminel de hackers Gentlemen](https://trends.levif.be/a-la-une/tech/une-enquete-revele-le-mode-operatoire-du-groupe-criminel-de-hackers-gentlemen/)  
+*Source : trends.levif.be | Publication : 2026-06-22*
 
-- Antivirus, VPN, pare-feu... les noms s'accumulent sur les boîtes et les sites web, les promesses se ressemblent, et à la fin, on est un peu perdu.
-- On a l'impression d'être face à un mur de jargon technique, sans savoir par où commencer.
-- Faut-il vraiment installer toute cette panoplie ?.
-- Un seul logiciel suffit-il ?.
+- C'est ce que révèle une étude de la firme de cybersécurité ESET.
+- Gentlemen a vu le jour fin 2025 et est devenu l'un des groupes de hackers les plus.
 
-## [Faillefox, la cybersécurité ultime selon CNEWS - Smartphone France Android Edition](https://android.smartphonefrance.info/commentaire.asp?ID=6431)  
-*Source : android.smartphonefrance.info | Publication : 2026-06-21*
+## [L'évasion EDR : une tactique standardisée dans le RaaS | LeMagIT](https://www.lemagit.fr/actualites/366644767/Levasion-EDR-une-tactique-standardisee-dans-le-RaaS)  
+*Source : lemagit.fr | Publication : 2026-06-22*
 
-- Bienvenue sur Smartphone France Android Edition Actuellement, 127 visiteurs en ligne Accueil Discord Facebook Twitter / X Forum Recherche Windows Edition Vous utilisez un bloqueur de publicités ?.
-- Félicitations :) Actualités du monde Android Retour au sommaire du site Faillefox, la cybersécurité ultime selon CNEWS Publié le 21/06/2026 à 11:11 - Pas de commentaire.
-- Si vous désirez sourire un peu, n'hésitez pas à aller faire un petit tour sur le site Faillefox.
-- Un site réalisé dans l'urgence grâce à l'IA pour donner suite à une explication technique de haut vol de Joseph Macé-Scaron qui nous alerte, sur CNEWS, sur les dangers de cette intelligence artificielle.
+- basiczto - stock.adobe.com L’évasion EDR : une tactique standardisée dans le RaaS La désactivation des EDR est passée de tactique de contournement plus ou moins fréquente au pré-requis critique.
+- Analyse des outils sophistiqués et des tendances systémiques dans la cybercriminalité.
+- L'écosystème du rançongiciel en mode service (RaaS) a atteint un niveau de maturité opérationnelle élevé, faisant de la neutralisation des solutions de détection et de réponse aux menaces (EDR) une étape planifiée.
+- Les chercheurs d'Eset viennent de documenter le framework GentleKiller, développé par le groupe TheGentlemen.
 
-## [VivaTech 2026 franchit le cap des 200 000 visiteurs pour son 10e anniversaire - Mon Carnet](https://moncarnet.com/2026/06/20/vivatech-2026-franchit-le-cap-des-200-000-visiteurs-pour-son-10e-anniversaire/)  
-*Source : moncarnet.com | Publication : 2026-06-21*
+## [Pourquoi vous devriez éteindre votre téléphone au lieu de le redémarrer ?](https://www.journaldugeek.com/2026/06/22/pourquoi-vous-devriez-eteindre-votre-telephone-au-lieu-de-le-redemarrer/)  
+*Source : journaldugeek.com | Publication : 2026-06-22*
 
-- PARIS – VivaTech a conclu sa 10e édition sur un record historique.
-- L’événement parisien consacré à l’innovation, aux startups et aux technologies a accueilli plus de 200 000 visiteurs provenant de 165 pays entre le 17 et le 20 juin à la Porte de Versailles.
-- Les organisateurs affirment que cette édition marque un changement d’échelle pour le rendez-vous technologique européen.
-- Plus de 15 000 startups, 4 500 exposants et plus de 1 150 conférenciers ont participé à l’événement.
+- Les limites du redémarrage traditionnel Pendant longtemps, les spécialistes en cybersécurité ont encouragé les utilisateurs à redémarrer régulièrement leurs appareils mobiles pour éviter de potentielles cyberattaques.
+- La NSA, agence nationale de sécurité américaine, préconise elle-même cette pratique, à effectuer selon elle au moins deux fois par semaine.
+- L’objectif ?.
+- Empêcher d’éventuels programmes malveillants d’infiltrer le système de votre téléphone.
 
-## [À retenir ce soir : vigilance forts vents et forte houle, Bétharram, <b>cybersécurité</b>, coupure d ...](https://imazpress.com/toute-l-actu/-retenir-ce-soir-246)  
-*Source : imazpress.com | Publication : 2026-06-21*
+## [4 300 routeurs piratés : un mystérieux botnet exploite les appareils obsolètes dans une ...](https://www.01net.com/actualites/4-300-routeurs-pirates-mysterieux-botnet-exploite-appareils-obsoletes-grande-operation-espionnage.html)  
+*Source : 01net.com | Publication : 2026-06-22*
 
-- BONSOIR LA RÉUNION - À la une de ce samedi soir 20 juin 2026 : - Dès 22H, les côtes du sud au nord-ouest en vigilance vagues submersions et vigilance vents forts dans l'ouest, le sud-est et l'est - Bétharram : entre 700 et 1.500 élèves potentiellement victimes, selon les projections d'une ONG - Cybersécurité : le premier Forum de l'océan Indien réunit plus de 230 participants à La Réunion - Plaine des Palmistes : coupure d'eau programmée cette nuit suite à un incident technique à Bras des Calumets - La France écrasée par la canicule, 60 départements en vigilance orange Dès 22H, les côtes du sud au nord-ouest en vigilance vagues submersions et vigilance vents forts dans l'ouest, le sud-est et l'est Ce samedi 20 juin 2026, les zones ouest, sud-est et est de La Réunion sont placées en vigilance jaune vents forts, à partir de 22 heures.
-- À la même heure, une vigilance jaune vagues submersions entre, par ailleurs, en vigueur sur les côtes sud, sud-ouest, ouest et nord-ouest.
-- Bétharram : entre 700 et 1.500 élèves potentiellement victimes, selon les projections d'une ONG Entre 700 et 1.500 enfants scolarisés de 1950 à la fin des années 1990 à Notre-Dame-De-Bétharram, près de Lourdes, et dans d'autres établissements de cette congrégation religieuse, ont été potentiellement victimes de violences sexuelles, physiques ou psychologiques, selon le rapport d'une ONG spécialisée dévoilé samedi.
-- Cybersécurité : le premier Forum de l'océan Indien réunit plus de 230 participants à La Réunion Pendant deux jours, les mercredi 17 et jeudi 18 juin 2026, Saint-André a accueilli la première édition du Forum de la Cybersécurité de l'océan Indien (FCOI).
+- Votre vieux routeur, dépourvu de mises à jour depuis de longues années, est peut-être tombé entre les mains d’un botnet.
+- Comme l’ont découvert les chercheurs de XLab, le laboratoire de renseignement sur les menaces de la société de cybersécurité chinoise QiAnXin, un nouveau botnet, nommé AryStinger, s’en prend actuellement aux routeurs obsolètes.
+- Selon les données mises en avant par XLab, au moins 4 300 routeurs ont déjà été infectés par le botnet dans le monde.
+- Ce chiffre « est en constante augmentation », souligne le rapport.
 
-## [Windows 11 26H2 arrive : pourquoi Microsoft demande déjà aux admins de se préparer](https://www.clubic.com/actualite-617902-windows-11-26h2-arrive-pourquoi-microsoft-demande-deja-aux-admins-de-se-preparer.html)  
-*Source : clubic.com | Publication : 2026-06-21*
+## [Rencontre Vietnam - États-Unis sur la défense](https://lecourrier.vn/rencontre-vietnam-etats-unis-sur-la-defense/1349977.html)  
+*Source : lecourrier.vn | Publication : 2026-06-22*
 
-- Windows 11 26H2, la prochaine mise à jour annuelle du système, arrivera sous forme d’un paquet d’activation de quelques centaines de kilo-octets, installable en un seul redémarrage.
-- Microsoft demande aux administrateurs IT de préparer leur parc dès maintenant, avant la disponibilité générale attendue à l’automne.
-- En début d’année, Microsoft avait réservé sa version 26H1 aux seules machines ARM équipées des nouvelles puces Snapdragon X2 de Qualcomm.
-- Les utilisateurs de PC Intel et AMD attendaient donc toujours leur mise à jour de fonctionnalités.
+- >> Renforcer une coopération Vietnam - États-Unis plus substantielle et approfondie >> Washington octroie plus de 450.000 dollars au Vietnam pour la recherche des disparus de guerre >> Le Vietnam figure parmi les marchés prioritaires pour la DFC américaine Lors de cette rencontre, le général Phan Van Giang a chaleureusement félicité Hung Cao pour sa récente nomination, exprimant sa conviction que ce dernier servira de passerelle stratégique pour dynamiser les relations entre les deux pays et renforcer les liens entre leurs ministères de la Défense.
+- Le général Phan Van Giang a dressé un bilan positif de la coopération bilatérale en matière de défense, soulignant qu’elle s’inscrit de manière concrète et efficace dans le cadre des relations diplomatiques globales entre les deux pays.
+- Cette coopération s’est notamment traduite par des échanges réguliers de délégations, y compris de haut niveau, ainsi que dans des domaines tels que la formation, le maintien de la paix de l’ONU, la cybersécurité, la médecine militaire et l’aide humanitaire.
+- Fort de ces acquis, le ministre a plaidé pour une mise en œuvre efficace des documents et accords signés, en mettant l'accent sur l’échange de délégations, la formation, la sécurité maritime, l'industrie de défense et la coopération militaire.
 
-## [Pourquoi ton projet ISO 27001 échoue ? - YouTube](https://www.youtube.com/watch?v=ygFBD2CQEkI)  
-*Source : youtube.com | Publication : 2026-06-21*
+## [Oak Valley Health choisit Sectra One Cloud de Sectra AB pour renforcer sa <b>cybersécurité</b> et ...](https://www.zonebourse.com/actualite-bourse/oak-valley-health-choisit-sectra-one-cloud-de-sectra-ab-pour-renforcer-sa-cybersecurite-et-optimiser-ce7f5cd3dd89f22d)  
+*Source : zonebourse.com | Publication : 2026-06-22*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Oak Valley Health a annoncé que Sectra AB fournira à ses établissements canadiens sa solution d&#039;imagerie d&#039;entreprise sous forme de service cloud, Sectra One Cloud, en utilisant initialement les modules de radiologie et d&#039;imagerie mammaire.
+- En migrant de sa solution cloud précédente vers Sectra One Cloud, Oak Valley Health consolide l&#039;ensemble de son imagerie sur une plateforme unique et entièrement gérée.
+- Ce passage élimine les charges internes liées à la surveillance, aux mises à jour et au support technique qui incombaient auparavant aux équipes informatiques, garantissant ainsi une performance et une fiabilité constantes sur tous les sites de l&#039;organisation.La solution est également évolutive pour accompagner l&#039;augmentation des volumes d&#039;imagerie et peut s&#039;étendre à d&#039;autres spécialités selon l&#039;évolution des besoins.
+- Le contrat de cinq ans a été signé au cours du quatrième trimestre de l&#039;exercice fiscal 2025/2026 de Sectra, pour un volume annuel prévu de plus de 250 000 examens d&#039;imagerie.
 
-## [Palantir évincé de la DGSI, l'Ukraine intègre la cyber-réserve de l'UE et Microsoft 365 ...](https://www.numerama.com/cyberguerre/2279489-palantir-evince-de-la-dgsi-lukraine-integre-la-cyber-reserve-de-lue-et-microsoft-365-copilot-transforme-en-mouchard-on-vous-raconte-la-semaine-cyberguerre-qui-vient-de-secouler.html)  
-*Source : numerama.com | Publication : 2026-06-21*
+## [<b>Cybersécurité</b> : les Five Eyes sonnent l'alerte sur les modèles IA les plus avancés - Next.ink](https://next.ink/brief-article/cybersecurite-les-five-eyes-sonnent-lalerte-sur-les-modeles-ia-les-plus-avances/)  
+*Source : next.ink | Publication : 2026-06-22*
 
-- La France coupe les ponts avec Palantir : la DGSI bascule vers ChapsVision Le gouvernement français met fin au contrat avec Palantir pour la DGSI, optant pour la solution française ChapsVision afin de renforcer l’autonomie numérique nationale.
-- - Sébastien Lecornu annonce un plan d’investissement de 655 millions d’euros pour développer une IA souveraine, dans le cadre du programme France 2030, visant à réduire la dépendance aux technologies étrangères.
-- - L’assistant conversationnel basé sur les modèles de Mistral AI sera déployé auprès d’un million d’agents publics, après une phase de test réussie avec 10 000 fonctionnaires.
-- - L’Ukraine rejoint la réserve de cybersécurité de l’UE : ce que cela implique vraiment L’Ukraine intègre la réserve de cybersécurité de l’UE, permettant d’accélérer la réponse face aux cyberattaques majeures grâce à l’intervention d’experts pré-qualifiés par l’Europe.
+- Cybersécurité : les Five Eyes sonnent l’alerte sur les modèles IA les plus avancés 3 min Sécurité Sécurité Les agences de cybersécurité des Five Eyes n’ont pas l’habitude de communiquer publiquement, mais elles ont fait une exception.
+- Nous ne serions qu’à quelques mois d’un modèle IA de frontière capable de démultiplier les capacités des attaquants comme des défenseurs.
+- L’alliance Five Eyes, composée des agences de renseignement des États-Unis, du Canada, du Royaume-Uni, de l’Australie et de la Nouvelle-Zélande, préfère travailler dans la discrétion.
+- Mais exceptionnellement, elle a publié un communiqué sur les dangers que font peser les modèles IA de frontière.
 
-## [Lomé débat de souveraineté numérique à l'ère de l'IA - République Togolaise](https://www.republicoftogo.com/toutes-les-rubriques/high-tech/lome-debat-de-souverainete-numerique-a-l-ere-de-l-ia)  
-*Source : republicoftogo.com | Publication : 2026-06-21*
+## [La société indienne Tata Electronics frappée par une cyberattaque qui prétend exposer des ...](https://www.boursorama.com/bourse/actualites-amp/la-societe-indienne-tata-electronics-frappee-par-une-cyberattaque-qui-pretend-exposer-des-secrets-commerciaux-d-apple-et-de-tesla-d9b0dbb65772b2adb2bf8e4f9c29277c)  
+*Source : boursorama.com | Publication : 2026-06-22*
 
-- Lomé débat de souveraineté numérique à l'ère de l'IA La 12e édition du Forum national sur la gouvernance de l'internet au Togo s'est tenue vendredi à Lomé, réunissant acteurs publics du numérique, régulateurs et partenaires internationaux autour du thème de la souveraineté numérique à l'ère de l'intelligence artificielle.
-- La 12e édition du Forum national sur la gouvernance de l'internet au Togo s'est tenue vendredi à Lomé, réunissant acteurs publics du numérique, régulateurs et partenaires internationaux autour du thème de la souveraineté numérique à l'ère de l'intelligence artificielle.
-- Soutenu par le PNUD et le Secrétariat des Nations Unies pour la gouvernance de l'internet, l'événement a permis d'échanger sur le développement de l'IA, l'économie numérique, la gestion des données et l'utilisation responsable des outils digitaux.
-- « La souveraineté numérique doit être envisagée comme une capacité nationale à développer des compétences locales prêtes à contribuer aux débats régionaux et internationaux qui façonnent l'avenir du numérique », a déclaré Emmanuel Vitus Agbenowossi, président de ISOC Togo.
+- La société indienne Tata Electronics frappée par une cyberattaque qui prétend exposer des secrets commerciaux d'Apple et de Tesla information fournie par Reuters 22/06/2026 à 17:22 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Tata Electronics affirme avoir identifié un « incident de cybersécurité » * Apple mène actuellement une enquête sur cette affaire, selon une source * Un document attribué à Tesla concernerait une pièce de la Model 3 remaniée * Cet incident constitue un nouveau défi pour la chaîne d'approvisionnement d'Apple en Inde * Tata affirme que ses activités ne sont pas affectées par cet incident par Munsif Vengattil, Aditya Kalra et Aditi Shah Tata Electronics a déclaré lundi avoir détecté un récent « incident de cybersécurité », après que des chercheurs ont indiqué que World Leaks avait publié des documents présumés relatifs à la conception et aux spécifications de composants d’Apple et de Tesla, deux clients du groupe indien.
+- Le groupe de ransomware a publié plus de 200 000 fichiers sur le dark web, ont indiqué les chercheurs en sécurité à Reuters.
+- « Il y a quelques semaines, Tata Electronics a identifié un incident de cybersécurité sur certains de nos systèmes.
+- Nos protocoles d’intervention ont été immédiatement mis en œuvre, et l’incident n’a eu aucun impact sur nos activités dans l’ensemble de nos divisions, qui ne sont pas affectées », a déclaré Tata Electronics à Reuters dans un communiqué.
 
-## [Mt. Baker Imaging et Northwest Radiologists s'accordent sur un règlement de 3,3 millions de ...](https://www.binance.com/fr/square/post/336157752427570)  
-*Source : binance.com | Publication : 2026-06-21*
+## [MSP, comment évaluer la sécurité de l'IA - Acronis](https://www.acronis.com/fr/blog/posts/how-can-msps-evaluate-ai-security/)  
+*Source : acronis.com | Publication : 2026-06-22*
 
-- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
-- This requires JavaScript.
-- Enable JavaScript and then reload the page.
+- Un référentiel de comparaison des solutions de sécurité d'IA générative L’intelligence artificielle est déjà intégrée dans la plupart des workflows de vos clients.
+- Les collaborateurs utilisent des chatbots et d'autres outils d'intelligence artificielle générative intégrés pour rédiger des e-mails, analyser des données et automatiser le travail.
+- Le défi ?.
+- Une grande partie de cette activité se déroule en dehors de vos contrôles de sécurité formels, ce qui crée un nouveau facteur de risque.
 
-## [Illumiverse Labs : Mettez la main à la pâte avec Breach Containment lors de nos ... - Illumio](https://www.illumio.com/fr/blog/illumiverse-labs-hands-on-breach-containment-virtual-experiences-for-security-practitioners)  
-*Source : illumio.com | Publication : 2026-06-21*
+## [Secure Boot 2023 : quels PC Windows risquent de ne pas recevoir la mise à jour ? - Clubic](https://www.clubic.com/actualite-618022-secure-boot-2023-quels-pc-windows-risquent-de-ne-pas-recevoir-la-mise-a-jour.html)  
+*Source : clubic.com | Publication : 2026-06-22*
 
-- Illumiverse Labs : Mettez la main à la pâte avec Breach Containment lors de nos événements d'expérience virtuelle en direct Que feriez-vous si un attaquant commençait à se déplacer latéralement dans votre environnement en ce moment même ?.
-- Illumiverse Labs vous permet de vous plonger dans ce scénario - et de vous entraîner à le contenir avant qu'il ne se répande.
-- Rejoignez-nous pour les Illumiverse Labs de février, notre expérience pratique pour les équipes de sécurité qui veulent apprendre par la pratique.
-- Voyez à quoi ressemble l'endiguement des brèches dans la pratique.
+- Tous les PC Windows ne recevront pas forcément les nouveaux certificats Secure Boot 2023.
+- Les modèles trop anciens, les BIOS abandonnés, les systèmes Windows 10 hors support ou les installations Windows 11 à la hussarde sont les premiers concernés.
+- Le compte à rebours touche à sa fin.
+- À partir du 24 juin, les anciennes autorités Secure Boot de 2011 entreront dans leur phase d’expiration, remplacées par les certificats 2023, dont Microsoft a acté le déploiement généralisé sur les PC Windows compatibles avec les mises à jour de sécurité de juin.
 
-## [“L'IA sera plus utile à la défense qu'à l'attaque, mais les trois prochaines années seront ...](https://www.usine-digitale.fr/cybersecurite/lia-sera-plus-utile-a-la-defense-qua-lattaque-mais-les-trois-prochaines-annees-seront-difficiles-christopher-porter-head-of-international-security-cooperation-chez-google.WIWQMYVV5ZHZLFO7HJNR2FI46E.html)  
-*Source : usine-digitale.fr | Publication : 2026-06-21*
+## [Un tueur d'EDR retrouvé dans l'arsenal d'un groupe de <b>ransomware</b>](https://www.lemondeinformatique.fr/actualites/lire-un-tueur-d-edr-retrouve-dans-l-arsenal-d-un-groupe-de-ransomware-100518.html)  
+*Source : lemondeinformatique.fr | Publication : 2026-06-22*
 
-- cybersécurité.
-- Ne risquons-nous pas de voir la coopération internationale chuter à un niveau historiquement bas ?.
-- La France exploite déjà son.
+- Selon une étude de la société Eset, l’un des principaux groupes de ransomware as a service propose à ses affiliés l’accès à des outils avancés capable de neutraliser efficacement des solutions EDR (détection et réponses d’incident sur les terminaux).
+- Nommé The Gentlemen, il a fait son apparition l’année dernière et a gagné en popularité grâce à un partage de revenu exceptionnellement avantageux (90/10) pour les affiliés.
+- GentleKiller un tueur d’EDR taillé sur mesure En mai dernier, les serveurs du groupe ont été piratés par un attaquant inconnu, qui a publié des documents analysés par la suite par des chercheurs afin de mieux comprendre le fonctionnement du groupe.
+- Dans leur analyse, ils mettent l’accent sur l’importance croissante des « tueurs d’EDR » dans les quelques 300 attaques par ransomware perpétrées par The Gentlemen.
 
-## [FPT renforce la coopération technologique franco-vietnamienne - Le Courrier du VietNam](https://lecourrier.vn/fpt-renforce-la-cooperation-technologique-franco-vietnamienne/1349885.html)  
-*Source : lecourrier.vn | Publication : 2026-06-20*
+## [Pourquoi cette ville des Côtes-d'Armor est plus connue dans le monde que dans sa région](https://actu.fr/bretagne/ploufragan_22215/pourquoi-cette-ville-des-cotes-darmor-est-plus-connue-dans-le-monde-que-dans-sa-region_64414733.html)  
+*Source : actu.fr | Publication : 2026-06-22*
 
-- >> Puces électroniques : FPT pose les bases d’une souveraineté technologique >> Une entreprise technologique vietnamienne reconnue en France >> FPT renforce sa coopération avec FESCARO dans la cybersécurité automobile >> FPT propose de renforcer une alliance IA entre le Vietnam et l’Inde Plusieurs centaines de dirigeants d’entreprises, décideurs économiques et experts technologiques venus du Vietnam, de France et de plusieurs autres pays ont participé, le 19 juin à Paris, au Forum d’affaires Vietnam - France 2026.
-- Cette édition était consacrée aux défis et aux opportunités liés à la transformation par l’intelligence artificielle (IA), à la souveraineté technologique et à l’émergence de nouveaux modèles économiques fondés sur l’IA.
-- L’événement était coorganisé par le groupe vietnamien FPT, le Mouvement des entreprises de France International (MEDEF International) et Business France, l’agence nationale chargée du développement international des entreprises françaises.
-- Il s’agit de la deuxième édition de cette rencontre, après le Forum des dirigeants Vietnam - France organisé à Hanoï en 2025, dans un contexte marqué par le développement soutenu du partenariat stratégique global entre les deux pays.
+- La ville de Ploufragan (Côtes-d’Armor) vit dans l’ombre de sa grande soeur, Saint-Brieuc, dont elle est périphérique.
+- Méconnue localement, elle jouit pourtant d’un statut particulier au niveau national et même mondial.
+- Si Ploufragan doit au sport sa notoriété dans l’Hexagone, grâce au prestige du centre technique Henri Guérin qui forme à l’excellence de jeunes pousses du football, ou encore à son club de rink-hockey, c’est à travers la technopole Saint-Brieuc Armor qu’elle existe au-delà des frontières.
+- Des chercheurs internationaux Début juin 2026, une cinquantaine de chercheurs internationaux se sont rassemblés à l’occasion du 5ᵉ séminaire annuel de l’équipe Réseaux et objets connectés (ROC) du Conservatoire national des arts et métiers (CNAM).
 
-## [Insolite : le sac en cuir de T-Rex ne fait pas recette et un fan de l'Argentine en Indonésie](https://imazpress.com/france-monde/insolite-41)  
-*Source : imazpress.com | Publication : 2026-06-20*
+## [Cyber, le fossé entre la prise de conscience des dirigeants et la prise de responsabilité au ...](https://itsocial.fr/cybersecurite/cybersecurite-articles/cyber-le-fosse-entre-la-prise-de-conscience-des-dirigeants-et-la-prise-de-responsabilite-au-comite-de-direction/)  
+*Source : itsocial.fr | Publication : 2026-06-22*
 
-- Vous avez demandé le menu du zot lé pa payé pou kroir de cette semaine du lundi 15 au vendredi 19 juin 2026, le voici.
-- Il y a d'abord l'échec de la vente aux enchères du premier sac en cuir provenant de cellules de T-Rex.
-- Il y a aussi cet Indonésien fan inconditionnel du footballeur argentin Messi.
-- • Échec pour la vente aux enchères du premier sac en cuir provenant de cellules de T-Rex Un sac en cuir reconstitué à partir de cellules de Tyrannosaure Rex n'a pas pu être vendu lors d'enchères organisées jeudi à Paris, car le prix proposé était bien inférieur à l'estimation, a-t-on appris auprès de l'hôtel Drouot, où la vente avait lieu.
+- Une étude européenne commandée par l’éditeur HarfangLab mesure un écart persistant entre la conscience du risque cyber et son appropriation par les dirigeants.
+- En France, 46 % des entreprises constatent une baisse de chiffre d’affaires dès le jour d’une cyberattaque, et il leur faut en moyenne 6,04 jours pour revenir à la normale, le délai le plus long d’Europe.
+- Pourtant, 58 % des dirigeants traitent encore la cybersécurité comme un sujet technique, et sa gouvernance reste éclatée entre direction informatique, direction de la sécurité et direction générale.
+- L’accélération des investissements dans l’IA, déployée plus vite que sa sécurité, creuse encore le fossé.
