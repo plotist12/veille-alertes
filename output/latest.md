@@ -1,148 +1,148 @@
-# Résumés – 2026-06-25
+# Résumés – 2026-06-26
 
 
-## [Comment les MSP peuvent-ils se constituer une clientèle dans le secteur dynamique des ... - Acronis](https://www.acronis.com/fr/resource-center/resource/how-msps-can-build-practices-in-the-high-growth-health-care-sector/)  
-*Source : acronis.com | Publication : 2026-06-24*
+## [Instagram, Netflix, Spotify : tous épinglés sur une liste de la honte - 01net.com](https://www.01net.com/actualites/instagram-netflix-spotify-tous-epingles-sur-une-liste-de-la-honte.html)  
+*Source : 01net.com | Publication : 2026-06-25*
 
-- Les MSP (fournisseurs de services managés) sont idéalement positionnés pour fournir la cyberprotection résiliente dont les organisations de santé ont besoin.
-- Les prestataires de soins de santé ont du mal à faire face aux cybermenaces, aux exigences de conformité réglementaire et au risque potentiellement mortel que représente une interruption de service.
-- Malheureusement, nombre d’entre eux ne disposent ni du budget ni de l’expertise interne nécessaires pour gérer efficacement leur cybersécurité.
-- Pour les MSP, cette situation difficile dans le secteur de la santé représente une opportunité majeure.
+- Depuis 2022, l’Alliance FIDO promet d’en finir avec les mots de passe grâce aux passkeys, ces clés cryptographiques générées directement sur votre appareil qui rendent le phishing structurellement impossible.
+- Apple, Google et Microsoft ont déployé le standard sur leurs plateformes, les grands gestionnaires de mots de passe ont suivi, et les tutoriels se multiplient.
+- Reste une résistance inattendue : parmi les vingt-cinq services les plus visités au monde, un quart refuse toujours de proposer l’option à ses utilisateurs.
+- whynopasskeys.com, la liste de la honte Scott Helme, chercheur en sécurité connu pour son travail sur les standards HTTPS, a mis en ligne whynopasskeys.com avec Troy Hunt, sur le modèle du site whynohttps.com que le duo avait lancé en 2017.
 
-## [Cameroun: au procès de l'assassinat de Martinez Zogo, un expert évoque les liens de l ...](https://www.rfi.fr/fr/afrique/20260624-cameroun-au-procès-de-l-assassinat-de-martinez-zogo-un-expert-évoque-les-liens-de-l-animateur-avec-la-présidence)  
-*Source : rfi.fr | Publication : 2026-06-24*
+## [Tô Lâm souligne l'impératif de garantir la <b>cybersécurité</b>, la sécurité de l'information et ... - VOV World](https://vovworld.vn/fr-CH/actualites/to-lam-souligne-limperatif-de-garantir-la-cybersecurite-la-securite-de-linformation-et-la-protection-2445701.vov5)  
+*Source : vovworld.vn | Publication : 2026-06-25*
 
-- Cameroun: au procès de l’assassinat de Martinez Zogo, un expert évoque les liens de l’animateur avec la présidence Trois ans après l'assassinat de Martinez Zogo, le procès sur la mort de l’animateur radio se poursuit devant le tribunal militaire de Yaoundé.
-- Lors de son témoignage des lundi 22 et mardi 23 juin, le témoin Jean-Pierre Eloumou a mis en lumière la relation assidue entre Martinez Zogo et le secrétaire général de la présidence de la République, Ferdinand Ngoh Ngoh.
-- Par son témoignage et son rapport, cet expert en cybercriminalité, chargé d’exploiter les téléphones de la victime et des principaux accusés, semble pointer un animateur pris dans une lutte de clans.
-- Publié le : Modifié le : L’expert a livré un témoignage ambigu, mais qui a fait sensation.
+- C’est ce qu’a souligné le secrétaire général du Parti communiste vietnamien et président de la République, Tô Lâm, lors d’une réunion consacrée à la transformation numérique au sein du système politique, tenue ce jeudi à Hanoï.
+- En sa qualité de chef du Comité directeur national pour le développement scientifique et technologique, l’innovation et la transformation numérique, Tô Lâm a demandé à l’ensemble des organismes concernés de respecter le principe selon lequel tous les systèmes numériques, bases de données et plateformes doivent être conçus dès l’origine selon des normes strictes de sûreté et de sécurité.
+- Il a insisté sur la nécessité d’empêcher toute fuite, tout trafic ou toute exploitation illégale des données nationales ainsi que des informations appartenant aux citoyens et aux entreprises.
+- "Il est impératif d’instaurer une discipline commune en matière de partage des données et d’utilisation des systèmes d’information au sein du système politique.
 
-## [Depuis Marseille, Letsignit s'attaque aux présentations PowerPoint ratées en entreprise](https://www.laprovence.com/article/economie/42058101553025/depuis-marseille-letsignit-sattaque-aux-presentations-powerpoint-ratees-en-entreprise)  
-*Source : laprovence.com | Publication : 2026-06-24*
+## [<b>Ransomware</b> : sur la trace de l'outillage d'un courtier en accès initial | LeMagIT](https://www.lemagit.fr/actualites/366645122/Ransomware-sur-la-trace-de-loutillage-dun-courtier-en-acces-initial)  
+*Source : lemagit.fr | Publication : 2026-06-25*
 
-- Article réservé aux abonnés Depuis Marseille, Letsignit s'attaque aux présentations PowerPoint ratées en entreprise Capucine Roche, PDG de Letsignit : "Les collaborateurs sont les premiers ambassadeurs des entreprises.".
-- Il faut être abonné pour écouter l'audio.
-- Si vous êtes déjà abonné, connectez-vous Alors que trois présentations sur quatre en entreprise ne respectent pas les normes graphiques officielles, Letsignit dévoile Letsignit Slides en partenariat avec Microsoft.
-- Grâce à l'intelligence artificielle, cette nouvelle solution promet de transformer chaque diaporama collaboratif en un puissant ambassadeur de la marque, de façon simple et automatisée.
+- Rawpixel.com - stock.adobe.com Ransomware : sur la trace de l'outillage d'un courtier en accès initial Cheval de Troie furtif, Mistic s'invite vite Teams, prétextant des impératifs de support informatique.
+- Il est utilisé au moins depuis le mois d'avril par un courtier en accès initial connu notamment pour fournir des acteurs du rançongiciel.
+- Le groupe d'accès initial (IAB) KongTuke, également connu sous le nom de Woodgnat, a déplacé son vecteur d'accès initial vers les chats externes de Microsoft Teams.
+- Cette transition modifie la méthode par laquelle l'acteur pécuniairement motivé établit une présence dans les réseaux d'entreprise.
 
-## [Déclaration du Centre canadien pour la <b>cybersécurité</b> sur les modèles d'intelligence ...](https://www.canada.ca/fr/securite-telecommunications/nouvelles/2026/06/declaration-du-centre-canadien-pour-la-cybersecurite-sur-les-modeles-dia-de-pointe-et-leurs-repercussions-sur-la-cybersecurite.html)  
-*Source : canada.ca | Publication : 2026-06-24*
+## [Le fonds d'investissement Jolt Capital reprend Tehtris et assure la continuité de ses activités](https://incyber.org/article/fonds-investissement-jolt-capital-reprend-tehtris-assure-continuite-activites/)  
+*Source : incyber.org | Publication : 2026-06-25*
 
-- Déclaration du Centre canadien pour la cybersécurité sur les modèles d’intelligence articifielle de pointe et leurs répercussions sur la cybersécurité Déclaration 24 juin 2026 – Ottawa, Ontario Le Centre canadien pour la cybersécurité (Centre pour la cybersécurité), qui relève du Centre de la sécurité des télécommunications Canada (CST), presse les organisations partout au Canada d’agir afin de faire face aux cyberrisques émergents liés à l’intelligence artificielle (IA) de pointe.
-- Cet appel à l’action suit la déclaration commune publiée par les dirigeantes et dirigeants des organismes de cybersécurité de la collectivité des cinq, dans laquelle ils exhortent les hautes décideuses et hauts décideurs partout dans le monde à renforcer immédiatement leurs capacités de cyberdéfense avant qu’un cyberincident n’entraîne une crise opérationnelle et financière majeure.
-- En tant qu’autorité technique et opérationelle du gouvernement du Canada en matière de cybersécurité, nous travaillons étroitement avec des partenaires des secteurs public et privé, des infrastructures essentielles et du milieu universitaire, ainsi qu’avec des alliés étrangers, afin de comprendre ces risques et d’aider les responsables de la défense à suivre la cadence.
-- Nous collaborons aussi directement avec l’industrie, y compris les fournisseurs d’IA, afin de suivre l’évolution de l’IA de pointe et son incidence sur la cybersécurité du Canada.
+- Le fonds d’investissement Jolt Capital reprend Tehtris et assure la continuité de ses activités Articles du même auteur : 1 3 25.06.26 Cybercriminalité MesVaccins.net victime d’une fuite de données Lire 02.
 
-## [Après la décision de Donald Trump, une partie de la NSA n'a plus accès à Mythos - BFM](https://www.bfmtv.com/tech/actualites/cybersecurite/apres-la-decision-de-donald-trump-une-partie-de-la-nsa-n-a-plus-acces-a-mythos-et-c-est-genant-l-ia-d-anthropic-avait-detecte-des-failles-dans-des-systemes-classifies-hautement-sensibles-en-quelques-heures-seulement_AV-202606240446.html)  
-*Source : bfmtv.com | Publication : 2026-06-24*
+## [L'usage de logiciels espions par le renseignement français a plus que doublé en quatre ans](https://www.liberation.fr/societe/police-justice/lusage-de-logiciels-espions-par-le-renseignement-francais-a-plus-que-double-20260625_2SDHF5WZD5HIPNFQQKERSGQH6U/)  
+*Source : liberation.fr | Publication : 2026-06-25*
 
-- Après la décision de Donald Trump, une partie de la NSA n'a plus accès à Mythos: et c’est gênant, l’IA d’Anthropic avait détecté des failles dans des systèmes classifiés hautement sensibles en quelques heures seulement Elle faisait partie des privilégiés, mais comme tout le monde, elle fait les frais des restrictions imposées à Anthropic par la Maison Blanche.
-- Aux États-Unis, la National Security Agency (NSA), agence de renseignement, ne peut plus utiliser Mythos 5, un des puissants modèles d'IA de la start-up, rapporte le New York Times.
-- Lancé début juin aux côtés de Fable 5, il a été retiré du marché après que l'administration Trump a ordonné à la jeune pousse de couper l'accès à ses deux modèles pour tout ressortissant étranger.
-- La NSA paye désormais les pots cassés.
-
-## [Cyber-risque : menace systémique pour la continuité opérationnelle en Europe. - LeMagIT](https://www.lemagit.fr/actualites/366645114/Cyber-risque-menace-systemique-pour-la-continuite-operationnelle-en-Europe)  
-*Source : lemagit.fr | Publication : 2026-06-24*
-
-- Andrey Kuzmin - stock.adobe.com Cyber-risque : menace systémique pour la continuité opérationnelle en Europe.
-- L'étude HarfangLab 2026 révèle la prédominance du cyber-risque en Europe, exposant des lacunes systémiques en gouvernance, en préparation opérationnelle et dans l'adoption de l'IA.
-- Une toute récente étude signée HarfangLab, basée sur une enquête menée auprès de 750 dirigeants d'entreprises européennes (France, Allemagne, Belgique, Pays-Bas, Autriche, Italie) de plus de 250 employés, établit le cyber-risque comme la menace la plus critique pour la continuité opérationnelle, devant l'instabilité géopolitique ou les pénuries de compétences.
-- L'impact financier d'un incident est immédiat : près de la moitié des entreprises (48 %) estiment qu'un incident cyber affecterait leurs revenus le jour même.
-
-## [Madagascar : un cadre légal pour faire face à la <b>cybercriminalité</b> - We Are Tech Africa](https://www.wearetech.africa/fr/fils/actualites/tech/madagascar-un-cadre-legal-pour-faire-face-a-la-cybercriminalite)  
-*Source : wearetech.africa | Publication : 2026-06-24*
-
-- En 2014, Madagascar s’est doté d’un cadre légal pour lutter contre la cybercriminalité.
-- Mais depuis la pandémie de Covid-19 et l’accélération de la transformation numérique, les incidents se multiplient et ce dispositif apparaît désormais dépassé.
-- Le ministère du Développement numérique, des Postes et des Télécommunications a profité du premier Symposium de la cybersécurité, organisé les lundi 22 et mardi 23 juin à Antananarivo, afin de faire le point sur la modernisation du cadre légal malgache.
-- Le pays s’appuie encore sur une loi adoptée en 2014, jugée de plus en plus inadaptée face à l’évolution rapide des technologies et des menaces.
-
-## [8x8 signale un incident de <b>cybersécurité</b>, avec compromission de données clients](https://www.zonebourse.com/actualite-bourse/8x8-signale-un-incident-de-cybersecurite-avec-compromission-de-donnees-clients-ce7f5fdbdc8cf220)  
-*Source : zonebourse.com | Publication : 2026-06-24*
-
-- 8x8 signale un incident de cybersécurité, avec compromission de données clients8x8 a indiqué dans un dépôt réglementaire tard mardi qu'un acteur non autorisé a accédé à des données sensibles de clients en exploitant une intégration entre l'interface de.
-
-## [[Tribune] La <b>cybersécurité</b> n'est pas un sujet IT. C'est celui du marketing.](https://www.e-marketing.fr/data-1091/tribune-la-cybersecurite-nest-pas-un-sujet-it-cest-celui-du-marketing-173072)  
-*Source : e-marketing.fr | Publication : 2026-06-24*
-
-- Une brèche ne détruit pas seulement des systèmes — elle détruit des années de confiance.
-- Il est temps que le marketing s’en empare avant que la catastrophe ne le fasse à sa place.
-- Commençons par un cas qui peut arriver à tout un chacun : vous avez passé dix-huit mois à repositionner votre marque.
-- Vous avez refait le site, revu la charte, lancé une campagne.
-
-## [L'IA à l'épreuve de la confiance : bâtir la résilience de demain - Silicon.fr](https://www.silicon.fr/brandvoice/lia-a-lepreuve-de-la-confiance-batir-la-resilience-de-demain)  
-*Source : silicon.fr | Publication : 2026-06-24*
-
-- L’IA s’impose aujourd’hui comme un levier majeur de transformation pour les organisations.
-- Mais à mesure que son usage se généralise, une question devient centrale : sur quoi reposera la résilience numérique de demain ?.
-- Pour ce hors-série des Résilients, nous avons interrogé plusieurs experts de la cybersécurité, de la résilience et de la gestion des risques.
-- Tous convergent vers une même idée : la confiance sera le socle des organisations capables de faire face aux défis des prochaines années.
-
-## [Des créations records de start-up, mais de moins en moins de scale-up : la <b>cybersécurité</b> ...](https://www.usinenouvelle.com/cybersecurite/des-creations-records-de-start-up-mais-de-moins-en-moins-de-scale-up-la-cybersecurite-francaise-en-pleine-crise-existentielle.RBMYMQMM5VAS5JMMMBNQOGK2HY.html)  
-*Source : usinenouvelle.com | Publication : 2026-06-24*
-
-- Publié par Wavestone et Bpifrance à l'occasion de VivaTech, le dernier radar des start-up de la cybersécurité française constate une.
-
-## [La Fédération sportive de la police nationale visée par une cyberattaque, une enquête ouverte](https://www.liberation.fr/societe/police-justice/la-federation-sportive-de-la-police-nationale-visee-par-une-cyberattaque-une-enquete-ouverte-20260624_RLQPMO2O6VEURJKFZ7RII3SK7Y/)  
-*Source : liberation.fr | Publication : 2026-06-24*
-
-- cybercriminalité (OFAC).
-- Pour aller plus loin : CybercriminalitéCybersécurité Ministère de l'Intérieur.
+- Renseignement Cybersécurité.
 - Dans la même rubrique.
-- Pédocriminalité · Une.
+- Justice · Procès climatique : la justice demande à TotalEnergies d'intégrer les émissions de gaz à.
 
-## [Quandela valide une intégration avec NVIDIA Accelerated Computing - L'Informaticien](https://www.linformaticien.com/magazine/infra/65009-quandela-valide-une-integration-avec-nvidia-accelerated-computing.html)  
-*Source : linformaticien.com | Publication : 2026-06-24*
+## [La Russie a accédé aux données de l'iPhone d'un opposant grâce aux outils de Cellebrite](https://next.ink/brief-article/la-russie-a-accede-aux-donnees-de-liphone-dun-opposant-grace-aux-outils-de-cellebrite/)  
+*Source : next.ink | Publication : 2026-06-25*
 
-- LES DOSSIERS CYBERSECURITE.
-- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Infra · Quandela valide une intégration.
+- La Russie a accédé aux données de l’iPhone d’un opposant grâce aux outils de Cellebrite 2 min Sécurité Sécurité En mai 2021, suite à l’incarcération de l’opposant au régime russe Andreï Pivovarov, plusieurs autres personnalités politiques avaient été soumises à des perquisitions policières.
+- Il n’avait pas donné ses mots de passe, mais les autorités russes ont pu accéder aux données de son iPhone 12 qui lui avait été confisqué avec son MacBook.
+- Les chercheurs du Citizen Lab ont pu analyser le smartphone de l’activiste et trouver des traces des outils d’extraction de l’entreprise de cybersécurité israélienne.
+- Dans un billet de blog, ils expliquent qu’ils ont pu détecter que l’iPhone a été branché à un appareil dont ils avaient déjà attribué précédemment l’Host ID à l’entreprise de cybersécurité israélienne Cellebrite.
 
-## [Thinkproject se pose sur SecNumCloud - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cloud/65008-thinkproject-se-pose-sur-secnumcloud.html)  
-*Source : linformaticien.com | Publication : 2026-06-24*
+## [88% of <b>ransomware</b> comes from phishing #cybersecurity #shorts - YouTube](https://www.youtube.com/watch?v=NzXBm092jaU)  
+*Source : youtube.com | Publication : 2026-06-25*
 
-- Ransomware : les jours d'après · Cloud · Thinkproject se pose sur SecNumCloud.
-- Détails: Bertrand Garé: 24 juin 2026.
-- L'éditeur de solutions de gestion.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Mythos : le poison de l'IA sans l'antidote - Les Echos](https://www.lesechos.fr/idees-debats/editos-analyses/mythos-le-poison-de-lia-sans-lantidote-2238942)  
-*Source : lesechos.fr | Publication : 2026-06-24*
+## [Cyberguerre: les soldats français du régiment de cyberdéfense effectuent des rotations en ...](https://www.bfmtv.com/tech/cybersecurite/cyberguerre-les-soldats-francais-du-regiment-de-cyberdefense-effectuent-des-rotations-en-ukraine-pour-se-former-au-plus-pres-des-cyberattaques-russes_AN-202606250644.html)  
+*Source : bfmtv.com | Publication : 2026-06-25*
 
-- Tous les experts le disent : Mythos a modifié pour toujours le niveau de cybersécurité des organisations.
-- (Photo Thomas Fuller.
+- Cyberguerre: les soldats français du régiment de cyberdéfense effectuent des rotations en Ukraine pour se former au plus près des cyberattaques russes On n’apprend jamais aussi bien qu’en confrontant la théorie... au terrain.
+- Des militaires du régiment de cyberdéfense de Rennes effectuent actuellement des rotations en Ukraine afin d’étudier, au contact direct des forces locales, les méthodes employées dans la guerre cyber, notamment celles attribuées aux services russes.
+- Selon le bien informé Intelligence Online, ces échanges nourrissent directement la réflexion française sur la protection des futurs réseaux tactiques de l’armée de Terre, en lien avec les enseignements tirés au plus près du terrain.
+- Sur place, ils travaillent notamment avec le CERT-UA, l’unité ukrainienne de réponse aux incidents cyber, ainsi qu’avec le Cyber Security Situation Centre du SBU, cellule de surveillance et d’analyse cyber intégrée au renseignement ukrainien.
 
-## [Une tablette de prison américaine ouverte à la scie - Korben](https://korben.info/une-tablette-de-prison-americaine-ouverte-a-la-scie.html)  
-*Source : korben.info | Publication : 2026-06-24*
+## [MS Architecte Réseaux &amp; <b>Cybersécurité</b> : parole de diplômée Télécom Paris](https://www.aerocontact.com/videos/150845-ms-architecte-reseaux-and-cybersecurite-parole-de-diplomee-telecom-paris)  
+*Source : aerocontact.com | Publication : 2026-06-25*
 
-- Une tablette de prison américaine ouverte à la scie Ce qu’il faut retenir Hugh Jeffreys a démonté une tablette de prison américaine et découvert une Iview Optimus-C-8001 avec un vieux processeur Intel Atom Z8350, 2 Go de RAM, tournant sous Windows 10 Home jamais mis à jour depuis 2018.
-- - Le système d'exploitation n'est pas chiffré, permettant un accès sans restriction à l'intégralité du disque une fois le boîtier ouvert, malgré le verrouillage en mode kiosque censé restreindre les services.
-- - Ces tablettes sont louées aux détenus qui paient pour chaque service, générant des revenus pour les prestataires pénitentiaires, tout en offrant une sécurité matérielle et logicielle minimale.
-- - Résumé généré par IA Le réparateur australien Hugh Jeffreys, connu pour ses vidéos de démontage et ses collaborations avec le site de réparation iFixit, a mis la main sur l'un de ces appareils que les prisons américaines louent à leurs détenus pour accéder à une poignée de services autorisés, et il a voulu savoir ce qu'on avait bien pu cacher à l'intérieur d'un objet aussi verrouillé.
+- Cybersécurité.
+- Elle a décroché rapidement un CDI et d'évoluer dans la Cybersécurité , "un secteur d'avenir" confirme Alexandra à notre micro.
+- Elle.
 
-## [Tanium annonce la disponibilité générale d'Atlas : les clients cloud accèdent à ... - Yahoo Finance](https://fr.finance.yahoo.com/actualites/tanium-annonce-disponibilité-générale-d-135700899.html)  
-*Source : fr.finance.yahoo.com | Publication : 2026-06-24*
+## [Microsoft s'associe à Europol pour mener la guerre à deux outils de <b>cybercriminalité</b> qui ...](https://www.usine-digitale.fr/big-tech/microsoft/microsoft-sassocie-a-europol-pour-mener-la-guerre-a-deux-outils-de-cybercriminalite-qui-sont-au-coeur-doperations-mondiales-de-ransomwares-et-de-fraudes.L4C6LBE265E37D5VCQI3GVXSIM.html)  
+*Source : usine-digitale.fr | Publication : 2026-06-25*
 
-- Tanium annonce la disponibilité générale d’Atlas : les clients cloud accèdent à une cybersécurité pilotée par l'IA agentique Six semaines après son lancement, Tanium Atlas est désormais disponible à l'international, offrant une expérience d'opérateur unique basée sur l'intelligence des terminaux en temps réel.
-- EMERYVILLE, Californie, June 24, 2026--(BUSINESS WIRE)--Tanium, leader de l'Autonomous IT, annonce la disponibilité générale de Tanium Atlas, le système d'exploitation autonome de la société, pour tous les clients cloud commerciaux, ainsi que pour les clients du gouvernement américain.
-- Lancé pour la première fois en mai 2026, Tanium Atlas tient la promesse de l'autonomous IT avec un système d'IA agentique natif qui ne nécessite qu'un seul opérateur informatique ou de sécurité pour aller de la question jusqu'à la résolution : pas besoin de commutation d'outils, de transfert manuel, ni d'expertise approfondie de la plateforme.
-- « La dernière génération d'IA découvre et exploite les vulnérabilités en quelques minutes, et l'ancienne façon d'opérer (vues statiques, outils fragmentés, transferts entre spécialistes) est dépassée », déclare Harman Kaur, CTO de Tanium.
+- La cybersécurité offensive monte en puissance, grâce aux technologies d'IA comme accélérateurs forensiques, des coalitions public-privé mais aussi.
 
-## [<b>Cybersécurité</b> : Profitant des déboires d'Anthropic, OpenAI lance Daybreak et Patch the ...](https://www.usine-digitale.fr/intelligence-artificielle/openai/cybersecurite-profitant-des-deboires-danthropic-openai-lance-daybreak-et-patch-the-planet-pour-corriger-les-failles-sous-loeil-des-autorites-americaines.VG42X2WYZFE3VJSQJQKCYFSJWE.html)  
-*Source : usine-digitale.fr | Publication : 2026-06-24*
+## [Une notification de message vocal peut cacher une arnaque - Entreprise Romande](https://www.entrepriseromande.ch/web/er/w/une-notification-de-message-vocal-peut-cacher-une-arnaque-1)  
+*Source : entrepriseromande.ch | Publication : 2026-06-25*
 
-- Cybersécurité : Profitant des déboires d'Anthropic, OpenAI lance Daybreak et Patch the Planet pour corriger les failles sous l'œil des autorités.
+- #criminalité La notification de message vocal a l’air légitime.
+- Elle mène pourtant à un fichier contenant à un logiciel malveillant ou à une page d’hameçonnage.
+- Les faux messages vocaux ont connu une recrudescence ces dernières semaines, constate l’Office fédéral de la cybersécurité.
+- Ils ressemblent à s’y méprendre aux notifications de Microsoft 365 ou de OneDrive for Business et contiennent des détails telles que la date à laquelle le message est censé avoir été enregistré, le numéro de l’appelant et la durée du message.
 
-## [Hausse des tarifs VMware : le plan d'action des DSI pour organiser la sortie](https://www.solutions-numeriques.com/hausse-des-tarifs-vmware-le-plan-daction-des-dsi-pour-organiser-la-sortie/)  
-*Source : solutions-numeriques.com | Publication : 2026-06-24*
+## [Le Pentest Agentique de YesWeHack mobilise des agents IA autonomes à la demande](https://itsocial.fr/cybersecurite/cybersecurite-actualites/le-pentest-agentique-de-yeswehack-mobilise-des-agents-ia-autonomes-a-la-demande/)  
+*Source : itsocial.fr | Publication : 2026-06-25*
 
-- Le récent virage tarifaire de VMware bouleverse les budgets IT.
-- Pour beaucoup d’entreprises, la ligne rouge financière est franchie.
-- L’heure n’est plus au simple constat, mais à la recherche urgente d’une alternative.
-- La question est désormais purement pratique : comment bâtir une alternative solide sans paralyser sa production Pour lever ces freins, Solutions Numériques & Cybersécurité organise, demain à 11h, une table ronde en ligne animée à par notre rédactrice en chef Charlotte Rabatel.
+- YesWeHack lance le Pentest Agentique, une offre qui mobilise des agents d’intelligence artificielle autonomes à la demande pour tester les actifs exposés d’une organisation et livrer des résultats le jour même.
+- La plateforme française de sécurité offensive couvre les applications web et mobiles, les API et les actifs accessibles depuis Internet, en boîte noire, grise et blanche.
+- Les résultats sont rassemblés dans la plateforme aux côtés des autres services de l’éditeur.
+- YesWeHack, plateforme française de sécurité offensive et de gestion de l’exposition, a annoncé le 25 juin 2026 le lancement de son Pentest Agentique.
 
-## [Les PME françaises adoptent l'IA plus vite qu'elles ne la sécurisent - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/les-pme-francaises-adoptent-lia-plus-vite-quelles-ne-la-securisent/)  
-*Source : itsocial.fr | Publication : 2026-06-24*
+## [Mythos, le modèle d'Anthropic qui inquiète Washington : jusqu'où l'IA peut-elle aller en ...](https://journalducoin.com/analyses/anthropic-cyber-menace-usa-retour-dangereux-mythos/)  
+*Source : journalducoin.com | Publication : 2026-06-25*
 
-- Les PME françaises veulent l’intelligence artificielle pour croître, mais leur posture de sécurité ne suit pas le même rythme, et la France subit une pression cyber supérieure à la moyenne mondiale.
-- C’est le constat d’une étude IDC commandée par l’éditeur Sage, menée auprès de 2 210 petites et moyennes entreprises sur huit marchés.
-- Le rapport décrit un écart qui se creuse entre l’adoption de l’IA et la maturité défensive, et place les organisations françaises parmi les plus exposées aux perturbations majeures.
-- Pour le décideur, l’enjeu se déplace de l’outil vers la gouvernance du risque au quotidien.
+- Mythos, le modèle d’Anthropic qui inquiète Washington : jusqu’où l’IA peut-elle aller en cybersécurité offensive ?.
+- IA vs homo sapiens.
+- Au début du mois d’avril, le géant de l’Intelligence Artificielle Anthropic a publié via son Frontier Red Team une analyse détaillée des capacités cyber de Mythos Preview (aussi appelé Claude Mythos).
+- Puis, quelques jours plus tard, l’AI Security Institute (AISI) britannique confirmait ses résultats sur des simulations réalistes.
+
+## [ReCyF : comment conduire la mise en conformité NIS 2 avant même la version finale du référentiel](https://itsocial.fr/cybersecurite/cybersecurite-articles/recyf-comment-conduire-la-mise-en-conformite-nis-2-avant-meme-la-version-finale-du-referentiel/)  
+*Source : itsocial.fr | Publication : 2026-06-25*
+
+- Avec ReCyF (le Référentiel Cyber France), l’Anssi traduit les obligations de la directive NIS 2 en vingt objectifs de sécurité assortis de moyens de conformité acceptables.
+- Le référentiel, encore en version de travail, distingue ce que l’entité doit atteindre de la manière d’y parvenir, et module l’effort selon qu’elle est importante ou essentielle.
+- Pour une direction informatique, il fournit la grille qui manquait pour engager la mise en conformité sans attendre la transposition définitive de la directive en droit français.
+- La directive européenne NIS 2 élève le niveau de sécurité exigé des organisations jugées importantes ou essentielles pour le fonctionnement de l’économie et de la société.
+
+## [Sharp Électronique du Canada élargit son portefeuille de solutions en technologie grâce à ...](https://www.ledevoir.com/communiques-de-presse/990356/sharp-electronique-canada-elargit-portefeuille-solutions-technologie-grace-nouvelle-association-skadi-cyber-defense-corporation)  
+*Source : ledevoir.com | Publication : 2026-06-25*
+
+- MISSISSAUGA, Ontario, 25 juin 2026 (GLOBE NEWSWIRE) — Sharp Électronique du Canada Ltée a établi un partenariat avec SKADI Cyber Defense Corporation dans le but d’offrir aux clients de Sharp d’un bout à l’autre du pays des solutions en cybersécurité développées au Canada.
+- Ce partenariat constitue un nouveau pas en avant pour la stratégie de commercialisation de Sharp Canada visant à consolider sa place comme partenaire de confiance et de prédilection proposant un éventail complet de technologies pour le lieu de travail.
+- Au-delà des solutions de production de documents, technologies audiovisuelles professionnelles et produits électroniques grand public, Sharp Canada propose désormais des capacités de cybersécurité conçues pour aider les organisations à renforcer la solidité des systèmes de sécurité tout en simplifiant la gestion de ces mêmes technologies.
+- Dans le cadre de ce partenariat, les clients de Sharp Canada bénéficient d’un accès à Frostbow™, la plateforme de cybersécurité autonome de SKADI Cyber Defense Corporation.
+
+## [Outillage : Leborgne met un second pied dans le marché grand public - Les Echos](https://www.lesechos.fr/pme-regions/auvergne-rhone-alpes/outillage-leborgne-met-un-second-pied-dans-le-marche-grand-public-2239135)  
+*Source : lesechos.fr | Publication : 2026-06-25*
+
+- Cybersécurité : à Lyon, un centre dédié aux PME régionales sous la houlette de la CCI · Transport : Chalavan & Duc reprend de la vitesse · Santé.
+
+## [IA, data, <b>cybersécurité</b>… Les nouvelles compétences qui redessinent les carrières - TelQuel](https://telquel.ma/2026/06/25/ia-data-cybersecurite-les-nouvelles-competences-qui-redessinent-les-carrieres_1995973)  
+*Source : telquel.ma | Publication : 2026-06-25*
+
+- [Contenu Telquel Impact Spécial Études à l’étranger] Au Maroc, l’offre de formation numérique s’est élargie ces dernières années.
+- En avril 2026, Amal El Fallah Seghrouchni, ministre déléguée chargée de la Transition numérique, a indiqué que le nombre de diplômés avait atteint 22 500 par an et que 549 filières numériques avaient été créées.
+- Les bacheliers disposent ainsi de davantage de choix pour s’orienter dans ce domaine.
+- Des portes d’entrée à bien identifier Zouheir Lakhdissi, directeur général de Dial Technologies, estime que plusieurs formations de la data et de l’intelligence artificielle offrent de réels débouchés au Maroc.
+
+## [BlackBerry relève ses prévisions financières - Fortuneo Bourse](https://bourse.fortuneo.fr/actualites/blackberry-releve-ses-previsions-financieres-3813906)  
+*Source : bourse.fortuneo.fr | Publication : 2026-06-25*
+
+- BlackBerry, la star déchue des assistants personnels, reconvertie dans les solutions de cybersécurité et IoT, a relevé ses prévisions de chiffre d'affaires annuel, misant sur la dynamique soutenue de sa division QNX après l'achèvement de son redressement.
+- Pour son premier trimestre fiscal 2027 d'abord, le groupe a réalisé des revenus de 153 millions en croissance de 26%, un Ebitda ajusté en très forte augmentation de 144% à 36,3 millions et un bénéfice opérationnel de 15,3 millions.
+- BlackBerry, qui a réorienté ses activités vers les logiciels pour appareils connectés et véhicules autonomes, envisage pour le 2e trimestre fiscal 2027 des revenus de 137-148 M$, alors que son chiffre d'affaires annuel est maintenant anticipé entre 594 et 621 millions.
+- L'Ebitda ajusté de l'exercice est attendu entre 119 et 139 millions.
+
+## [Des pirates détournent WhatsApp pour piéger leurs victimes avec de faux documents](https://siecledigital.fr/2026/06/25/des-pirates-detournent-whatsapp-pour-pieger-leurs-victimes-avec-de-faux-documents/)  
+*Source : siecledigital.fr | Publication : 2026-06-25*
+
+- Votre collègue vous envoie un fichier sur WhatsApp.
+- Vous n’avez pas de message ou de bonjour, mais juste un document nommé Relevé de compte.vbs ou Facture impayée.vbs.
+- Vous connaissez la personne, alors vous ouvrez.
+- Sauf que ce collègue n’a rien envoyé et que son compte WhatsApp a été piraté.
+
+## [Vous ne devriez bientôt plus avoir à cliquer sur « Je ne suis pas un robot - Siècle Digital](https://siecledigital.fr/2026/06/25/vous-ne-devriez-bientot-plus-avoir-a-cliquer-sur-je-ne-suis-pas-un-robot-le-captcha-va-disparaitre/)  
+*Source : siecledigital.fr | Publication : 2026-06-25*
+
+- Vous avez passé les vingt-cinq dernières années à repérer des feux de signalisation, des bouches d’incendie et des passages piétons sur des grilles floues pour prouver que vous êtes un être humain.
+- Le système a toujours été insupportable.
+- Il vient aussi de devenir inutile, car les bots actuels, propulsés par l’IA, résolvent les CAPTCHAs mieux que vous.
+- Les agents autonomes de ChatGPT et Gemini naviguent à la place des utilisateurs et déclenchent des vérifications en cascade sur les sites visités.
