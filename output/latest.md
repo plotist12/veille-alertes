@@ -1,148 +1,155 @@
-# Résumés – 2026-06-26
+# Résumés – 2026-06-27
 
 
-## [Instagram, Netflix, Spotify : tous épinglés sur une liste de la honte - 01net.com](https://www.01net.com/actualites/instagram-netflix-spotify-tous-epingles-sur-une-liste-de-la-honte.html)  
-*Source : 01net.com | Publication : 2026-06-25*
+## [ACT plaide pour une certification en <b>cybersécurité</b> « volontaire » et dissociée des ... - Agence Europe](https://agenceurope.eu/fr/bulletin/article/13897/17/act-plaide-pour-une-certification-en-cybersecurite-volontaire-et-dissociee-des-evaluations-des-risques-lies-aux-chaines-dapprovisionnement)  
+*Source : agenceurope.eu | Publication : 2026-06-26*
 
-- Depuis 2022, l’Alliance FIDO promet d’en finir avec les mots de passe grâce aux passkeys, ces clés cryptographiques générées directement sur votre appareil qui rendent le phishing structurellement impossible.
-- Apple, Google et Microsoft ont déployé le standard sur leurs plateformes, les grands gestionnaires de mots de passe ont suivi, et les tutoriels se multiplient.
-- Reste une résistance inattendue : parmi les vingt-cinq services les plus visités au monde, un quart refuse toujours de proposer l’option à ses utilisateurs.
-- whynopasskeys.com, la liste de la honte Scott Helme, chercheur en sécurité connu pour son travail sur les standards HTTPS, a mis en ligne whynopasskeys.com avec Troy Hunt, sur le modèle du site whynohttps.com que le duo avait lancé en 2017.
+- ACT (Association for Competitive Technology), une association représentant des start-ups technologiques, a publié, jeudi 25 juin, sa position sur la révision du règlement sur la cybersécurité (Cybersecurity Act 2) (EUROPE 13790/1).
+- Parmi ses principales demandes figure la nécessité de dissocier les évaluations des risques liés aux chaînes d’approvisionnement des critères d’éligibilité à la certification européenne en cybersécurité, qui doit rester « volontaire », compte tenu de coûts « excessifs » et « des bénéfices très limités pour la cyberrésilience de l’Europe ».
+- « Les évaluations des risques liés aux chaînes d’approvisionnement ne devraient pas déterminer l’éligibilité à la certification », estime l’association.
+- Des schémas de certification fondés sur les risques et alignés sur les normes internationales.
 
-## [Tô Lâm souligne l'impératif de garantir la <b>cybersécurité</b>, la sécurité de l'information et ... - VOV World](https://vovworld.vn/fr-CH/actualites/to-lam-souligne-limperatif-de-garantir-la-cybersecurite-la-securite-de-linformation-et-la-protection-2445701.vov5)  
-*Source : vovworld.vn | Publication : 2026-06-25*
+## [<b>Cybersécurité</b> des soins de santé à l'ère de l'instabilité géopolitique - Health-ISAC](https://health-isac.org/fr/La-cybersécurité-dans-le-secteur-de-la-santé-à-l'ère-de-l'instabilité-géopolitique/)  
+*Source : health-isac.org | Publication : 2026-06-26*
 
-- C’est ce qu’a souligné le secrétaire général du Parti communiste vietnamien et président de la République, Tô Lâm, lors d’une réunion consacrée à la transformation numérique au sein du système politique, tenue ce jeudi à Hanoï.
-- En sa qualité de chef du Comité directeur national pour le développement scientifique et technologique, l’innovation et la transformation numérique, Tô Lâm a demandé à l’ensemble des organismes concernés de respecter le principe selon lequel tous les systèmes numériques, bases de données et plateformes doivent être conçus dès l’origine selon des normes strictes de sûreté et de sécurité.
-- Il a insisté sur la nécessité d’empêcher toute fuite, tout trafic ou toute exploitation illégale des données nationales ainsi que des informations appartenant aux citoyens et aux entreprises.
-- "Il est impératif d’instaurer une discipline commune en matière de partage des données et d’utilisation des systèmes d’information au sein du système politique.
+- Cybersécurité des soins de santé à l'ère de l'instabilité géopolitique Résilience, gouvernance et préparation dans un environnement contesté Écrit par Vasileios Mingos.
+- Le secteur de la santé a longtemps été considéré comme protégé, civil, neutre et essentiel.
+- Cette conception est de plus en plus remise en question.
+- Le contexte géopolitique actuel est marqué par une instabilité persistante, avec de multiples conflits militaires et une montée des tensions dans différentes régions.
 
-## [<b>Ransomware</b> : sur la trace de l'outillage d'un courtier en accès initial | LeMagIT](https://www.lemagit.fr/actualites/366645122/Ransomware-sur-la-trace-de-loutillage-dun-courtier-en-acces-initial)  
-*Source : lemagit.fr | Publication : 2026-06-25*
+## [L'Insee ciblé par une attaque informatique, les données de plus de 12.000 personnes concernées](https://www.20minutes.fr/societe/4231374-20260626-cybercriminalite-insee-ciblee-attaque-informatique-donnees-plus-12-000-personnes-concernees)  
+*Source : 20minutes.fr | Publication : 2026-06-26*
 
-- Rawpixel.com - stock.adobe.com Ransomware : sur la trace de l'outillage d'un courtier en accès initial Cheval de Troie furtif, Mistic s'invite vite Teams, prétextant des impératifs de support informatique.
-- Il est utilisé au moins depuis le mois d'avril par un courtier en accès initial connu notamment pour fournir des acteurs du rançongiciel.
-- Le groupe d'accès initial (IAB) KongTuke, également connu sous le nom de Woodgnat, a déplacé son vecteur d'accès initial vers les chats externes de Microsoft Teams.
-- Cette transition modifie la méthode par laquelle l'acteur pécuniairement motivé établit une présence dans les réseaux d'entreprise.
+- Cybercriminalité : L’Insee ciblé par une attaque informatique, les données de plus de 12.000 personnes concernées fuite de données•Les identités et les coordonnées professionnelles de près de 13.000 employés ou ex-employés de l’institut national de la statistique ont été volées dans une nouvelle cyberattaque détectée le 19 juin20 Minutes avec AFP Ce sont près de 13.000 personnes concernées.
+- L’Institut national de la statistique a été victime d’une attaque informatique qui a conduit à une violation de données personnelles de 12.800 personnes « travaillant, ayant travaillé », ou « issus des corps de l’Insee », a-t-elle indiqué dans un communiqué vendredi.
+- Aucune donnée sensible relative aux agents, comme les mots de passe, les données bancaires ou le numéro de Sécurité sociale, n’est concernée par cette violation détectée le 19 juin.
+- Seulement l’identité et les coordonnées professionnelles seraient concernées, a détaillé l’Institut dans un communiqué.
 
-## [Le fonds d'investissement Jolt Capital reprend Tehtris et assure la continuité de ses activités](https://incyber.org/article/fonds-investissement-jolt-capital-reprend-tehtris-assure-continuite-activites/)  
-*Source : incyber.org | Publication : 2026-06-25*
+## [Horizon3.ai révèle les failles de sécurité avant les hackers - L'Express](https://www.lexpress.fr/partenaires/horizon3ai-revele-les-failles-de-securite-avant-les-hackers-FPAAG6GWNRDP3NSJHMZXBFIICU/)  
+*Source : lexpress.fr | Publication : 2026-06-26*
 
-- Le fonds d’investissement Jolt Capital reprend Tehtris et assure la continuité de ses activités Articles du même auteur : 1 3 25.06.26 Cybercriminalité MesVaccins.net victime d’une fuite de données Lire 02.
+- Une approche offensive pour une défense proactive Fondée en 2019 par d’anciens membres des forces spéciales américaines, des services de sécurité nationale des États-Unis et du secteur de la cybersécurité, Horizon3.ai propose une vision inédite de la cybersécurité.
+- Certes, il est indispensable de se protéger, mais il faut aussi challenger sans relâche sa protection pour s’assurer de son efficacité, comme l’explique Frédéric Nakhlé, directeur EMEA : « Les entreprises dépensent des centaines de milliers d’euros pour se protéger sans savoir si leurs investissements fonctionnent réellement.
+- Tout cela gagnerait à être optimisé.
+- » La solution réside dans le concept du hacker éthique, dont les forces sont démultipliées par l’intelligence artificielle.
 
-## [L'usage de logiciels espions par le renseignement français a plus que doublé en quatre ans](https://www.liberation.fr/societe/police-justice/lusage-de-logiciels-espions-par-le-renseignement-francais-a-plus-que-double-20260625_2SDHF5WZD5HIPNFQQKERSGQH6U/)  
-*Source : liberation.fr | Publication : 2026-06-25*
+## [Insolite : Gaslight, le malware macOS qui tente de manipuler les assistants IA](https://www.solutions-numeriques.com/insolite-gaslight-le-malware-macos-qui-tente-de-manipuler-les-assistants-ia/)  
+*Source : solutions-numeriques.com | Publication : 2026-06-26*
 
-- Renseignement Cybersécurité.
-- Dans la même rubrique.
-- Justice · Procès climatique : la justice demande à TotalEnergies d'intégrer les émissions de gaz à.
+- Un malware macOS, baptisé Gaslight, ne se contente pas de cacher ses traces.
+- Il embarque aussi de faux messages conçus pour perturber les outils d’analyse assistés par IA.
+- Une manière assez nouvelle de jouer avec les usages des analystes, à l’heure où les grands modèles de langage commencent à s’inviter dans les workflows de cybersécurité.
+- Quand le malware tente de parler à l’IA Les malwares savent depuis longtemps repérer certains environnements d’analyse.
 
-## [La Russie a accédé aux données de l'iPhone d'un opposant grâce aux outils de Cellebrite](https://next.ink/brief-article/la-russie-a-accede-aux-donnees-de-liphone-dun-opposant-grace-aux-outils-de-cellebrite/)  
-*Source : next.ink | Publication : 2026-06-25*
+## [Incident de <b>cybersécurité</b> sur l'annuaire des agents de l'Insee](https://www.insee.fr/fr/information/9016741)  
+*Source : insee.fr | Publication : 2026-06-26*
 
-- La Russie a accédé aux données de l’iPhone d’un opposant grâce aux outils de Cellebrite 2 min Sécurité Sécurité En mai 2021, suite à l’incarcération de l’opposant au régime russe Andreï Pivovarov, plusieurs autres personnalités politiques avaient été soumises à des perquisitions policières.
-- Il n’avait pas donné ses mots de passe, mais les autorités russes ont pu accéder aux données de son iPhone 12 qui lui avait été confisqué avec son MacBook.
-- Les chercheurs du Citizen Lab ont pu analyser le smartphone de l’activiste et trouver des traces des outils d’extraction de l’entreprise de cybersécurité israélienne.
-- Dans un billet de blog, ils expliquent qu’ils ont pu détecter que l’iPhone a été branché à un appareil dont ils avaient déjà attribué précédemment l’Host ID à l’entreprise de cybersécurité israélienne Cellebrite.
+- Incident de cybersécurité sur l’annuaire des agents de l’Insee L’Insee a été victime d’une attaque informatique qui a conduit à la violation de données à caractère personnel de ses agents.
+- Cette violation concerne l’identité d’environ 12 800 personnes travaillant, ayant travaillé à l’Insee ou issus des corps de l’Insee, ainsi que leurs coordonnées professionnelles.
+- Aucune donnée sensible relative aux agents, telles que mots de passe, coordonnées personnelles, données bancaires, numéro de Sécurité Sociale ou informations de santé, n’est concernée.
+- Dès la détection de cet incident le 19 juin, des mesures immédiates ont été mises en œuvre afin de stopper l'attaque.
 
-## [88% of <b>ransomware</b> comes from phishing #cybersecurity #shorts - YouTube](https://www.youtube.com/watch?v=NzXBm092jaU)  
-*Source : youtube.com | Publication : 2026-06-25*
+## [Le Vietnam plaide pour une coopération scientifique renforcée au sein de l'ASEAN](https://lecourrier.vn/le-vietnam-plaide-pour-une-cooperation-scientifique-renforcee-au-sein-de-lasean/1350279.html)  
+*Source : lecourrier.vn | Publication : 2026-06-26*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- >> ASEAN - ONUDC : unir les efforts contre la cybercriminalité et la criminalité >> Vietnam - ASEAN : affirmer sa position et créer de nouveaux moteurs de croissance >> Le Vietnam au cœur du dialogue économique entre l’ASEAN et l’Argentine Le Vietnam a réaffirmé son engagement en faveur du renforcement de la coopération régionale lors de la 22e réunion ministérielle de l'ASEAN sur la science, la technologie et l'innovation (AMMSTI-22), tenue le 26 juin à Vientiane, au Laos.
+- Placée sous le thème « Faire progresser le Plan d'action de l'ASEAN sur la science, la technologie et l'innovation (APASTI) pour une ASEAN résiliente, durable et compétitive », la réunion a rassemblé les ministres et représentants des États membres de l'ASEAN ainsi que le secrétaire général de l'ASEAN, Kao Kim Hourn, afin d'examiner le rôle de la science, de la technologie et de l'innovation dans le renforcement de la résilience, de la compétitivité et du développement durable de la région.
+- Conduite par le vice-ministre des Sciences et des Technologies, Bùi Hoàng Phuong, la délégation vietnamienne a présenté plusieurs propositions destinées à approfondir la coopération régionale.
+- Prenant la parole lors de la réunion, Bùi Hoàng Phuong a réaffirmé le soutien du Vietnam au Plan d'action de l'ASEAN, soulignant que la science, la technologie, l'innovation et la transformation numérique constituent des moteurs stratégiques du développement durable de la région.
 
-## [Cyberguerre: les soldats français du régiment de cyberdéfense effectuent des rotations en ...](https://www.bfmtv.com/tech/cybersecurite/cyberguerre-les-soldats-francais-du-regiment-de-cyberdefense-effectuent-des-rotations-en-ukraine-pour-se-former-au-plus-pres-des-cyberattaques-russes_AN-202606250644.html)  
-*Source : bfmtv.com | Publication : 2026-06-25*
+## [Les grands projets numériques ne commencent pas par la technologie, mais par la cohérence](https://www.lecho.be/partner/orange-business/telecom-ict/les-grands-projets-numeriques-ne-commencent-pas-par-la-technologie-mais-par-la-coherence/10676857.html)  
+*Source : lecho.be | Publication : 2026-06-26*
 
-- Cyberguerre: les soldats français du régiment de cyberdéfense effectuent des rotations en Ukraine pour se former au plus près des cyberattaques russes On n’apprend jamais aussi bien qu’en confrontant la théorie... au terrain.
-- Des militaires du régiment de cyberdéfense de Rennes effectuent actuellement des rotations en Ukraine afin d’étudier, au contact direct des forces locales, les méthodes employées dans la guerre cyber, notamment celles attribuées aux services russes.
-- Selon le bien informé Intelligence Online, ces échanges nourrissent directement la réflexion française sur la protection des futurs réseaux tactiques de l’armée de Terre, en lien avec les enseignements tirés au plus près du terrain.
-- Sur place, ils travaillent notamment avec le CERT-UA, l’unité ukrainienne de réponse aux incidents cyber, ainsi qu’avec le Cyber Security Situation Centre du SBU, cellule de surveillance et d’analyse cyber intégrée au renseignement ukrainien.
+- Les grands projets numériques ne commencent pas par la technologie, mais par la cohérence.
 
-## [MS Architecte Réseaux &amp; <b>Cybersécurité</b> : parole de diplômée Télécom Paris](https://www.aerocontact.com/videos/150845-ms-architecte-reseaux-and-cybersecurite-parole-de-diplomee-telecom-paris)  
-*Source : aerocontact.com | Publication : 2026-06-25*
+## [Sécurité de la supply chain logicielle : des outils complexes à mettre en action - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/securite-chaine-approvisionnement-logicielle-magic-quadrant-2026-228033/amp)  
+*Source : silicon.fr | Publication : 2026-06-26*
 
-- Cybersécurité.
-- Elle a décroché rapidement un CDI et d'évoluer dans la Cybersécurité , "un secteur d'avenir" confirme Alexandra à notre micro.
-- Elle.
+- Se limiter à une vingtaine de fournisseurs ne convient plus pour analyser le marché de l’AST (tests de sécurité applicative).
+- Gartner en a jugé ainsi.
+- Il considère que ce marché s’est trop étendu pour entrer dans la grille d’analyse de son Magic Quadrant, qui impose la limite en question.
+- Il a donc « zoomé » sur un sous-segment : la sécurité de la chaîne d’approvisionnement logicielle.
 
-## [Microsoft s'associe à Europol pour mener la guerre à deux outils de <b>cybercriminalité</b> qui ...](https://www.usine-digitale.fr/big-tech/microsoft/microsoft-sassocie-a-europol-pour-mener-la-guerre-a-deux-outils-de-cybercriminalite-qui-sont-au-coeur-doperations-mondiales-de-ransomwares-et-de-fraudes.L4C6LBE265E37D5VCQI3GVXSIM.html)  
-*Source : usine-digitale.fr | Publication : 2026-06-25*
+## [<b>Cybersécurité</b>: l'Insee visée par une attaque informatique, 12.800 personnes affectées](https://www.boursorama.com/actualite-economique/actualites/cybersecurite-l-insee-visee-par-une-attaque-informatique-12-800-personnes-affectees-ffc478199c9b3ed0a86549c89693f32e)  
+*Source : boursorama.com | Publication : 2026-06-26*
 
-- La cybersécurité offensive monte en puissance, grâce aux technologies d'IA comme accélérateurs forensiques, des coalitions public-privé mais aussi.
+- L'Institut national de la statistique a été victime d'une attaque informatique qui a conduit à une violation de données personnelles de 12.800 personnes "travaillant, ayant travaillé", ou "issus des corps de l'Insee", a-t-elle indiqué dans un communiqué vendredi.
+- Aucune donnée sensible relative aux agents, comme les mots de passe, les données bancaires ou le numéro de sécurité sociale, n'est concernée par cette violation détectée le 19 juin et qui concerne seulement l'identité et les coordonnées professionnelles, a détaillé l'Institut dans un communiqué.
+- L'Institut national de la statistique et des études économiques est une direction générale du ministère de l'Économie et des Finances, indépendante, qui a pour mission de collecter, analyser et diffuser des informations sur l'économie et la société françaises sur l'ensemble de son territoire.
+- L'enquête, lancée après la détection de l'incident, n'a "pas révélé de compromission des donnes collectées par l'Insee auprès des entreprises ou des personnes".
 
-## [Une notification de message vocal peut cacher une arnaque - Entreprise Romande](https://www.entrepriseromande.ch/web/er/w/une-notification-de-message-vocal-peut-cacher-une-arnaque-1)  
-*Source : entrepriseromande.ch | Publication : 2026-06-25*
+## [<b>Cybersécurité</b> : la Linux Foundation va mettre l'open source en ordre de bataille face à l'IA](https://www.clubic.com/actualite-618790-cybersecurite-la-linux-foundation-va-mettre-l-open-source-en-ordre-de-bataille-face-a-l-ia.html)  
+*Source : clubic.com | Publication : 2026-06-26*
 
-- #criminalité La notification de message vocal a l’air légitime.
-- Elle mène pourtant à un fichier contenant à un logiciel malveillant ou à une page d’hameçonnage.
-- Les faux messages vocaux ont connu une recrudescence ces dernières semaines, constate l’Office fédéral de la cybersécurité.
-- Ils ressemblent à s’y méprendre aux notifications de Microsoft 365 ou de OneDrive for Business et contiennent des détails telles que la date à laquelle le message est censé avoir été enregistré, le numéro de l’appelant et la durée du message.
+- Trouver une faille critique dans un projet open source réclamait des semaines de travail et une expertise pointue.
+- Un bon modèle d'IA peut faire la même chose en quelques minutes.
+- La Linux Foundation a décidé que ça devait changer.
+- Le 25 juin, la fondation a lancé Akrites, une initiative de coordination regroupant AWS, Anthropic, Cisco, Google, IBM, JPMorganChase, Microsoft, NVIDIA, OpenAI, Red Hat, Vodafone et une vingtaine d'autres organisations.
 
-## [Le Pentest Agentique de YesWeHack mobilise des agents IA autonomes à la demande](https://itsocial.fr/cybersecurite/cybersecurite-actualites/le-pentest-agentique-de-yeswehack-mobilise-des-agents-ia-autonomes-a-la-demande/)  
-*Source : itsocial.fr | Publication : 2026-06-25*
+## [VirtualBrowser embauche Edouard Lorrain pour développer l'international - Distributique](https://www.distributique.com/actualites/lire-virtualbrowser-embauche-edouard-lorrain-pour-developper-l-international-37350.html)  
+*Source : distributique.com | Publication : 2026-06-26*
 
-- YesWeHack lance le Pentest Agentique, une offre qui mobilise des agents d’intelligence artificielle autonomes à la demande pour tester les actifs exposés d’une organisation et livrer des résultats le jour même.
-- La plateforme française de sécurité offensive couvre les applications web et mobiles, les API et les actifs accessibles depuis Internet, en boîte noire, grise et blanche.
-- Les résultats sont rassemblés dans la plateforme aux côtés des autres services de l’éditeur.
-- YesWeHack, plateforme française de sécurité offensive et de gestion de l’exposition, a annoncé le 25 juin 2026 le lancement de son Pentest Agentique.
+- Ancien de VMware et Citrix, Edouard Lorrain possčde une bonne connaissance du marché de la virtualisation et connaît bien la distribution indirecte.
+- (Crédit VirtualBrowser) Edouard Lorrain, un fin connaisseur du marché de la virtualisation, rejoint VirtualBrowser le spécialiste français du RBI.
+- Il prend la tęte du développement international avec une priorité accordée ŕ la zone Middle East.
+- VirtualBrowser, pure-player français de la technologie RBI (Remote Browser Isolation), recrute Edouard Lorrain pour développer son activité ŕ l'échelle internationale, notamment sur le marché du Moyen-Orient (Middle East).
 
-## [Mythos, le modèle d'Anthropic qui inquiète Washington : jusqu'où l'IA peut-elle aller en ...](https://journalducoin.com/analyses/anthropic-cyber-menace-usa-retour-dangereux-mythos/)  
-*Source : journalducoin.com | Publication : 2026-06-25*
+## [Dstny investit 500 000 € à Lyon pour renforcer son infrastructure cloud](https://www.lyon-entreprises.com/actualites/article/dstny-investissement-cloud-lyon-500000-euros)  
+*Source : lyon-entreprises.com | Publication : 2026-06-26*
 
-- Mythos, le modèle d’Anthropic qui inquiète Washington : jusqu’où l’IA peut-elle aller en cybersécurité offensive ?.
-- IA vs homo sapiens.
-- Au début du mois d’avril, le géant de l’Intelligence Artificielle Anthropic a publié via son Frontier Red Team une analyse détaillée des capacités cyber de Mythos Preview (aussi appelé Claude Mythos).
-- Puis, quelques jours plus tard, l’AI Security Institute (AISI) britannique confirmait ses résultats sur des simulations réalistes.
+- Dstny investit 500 000 € à Lyon pour renforcer son infrastructure cloud Basée à Lyon, Dstny France Entreprises annonce un investissement de 500 000 euros dans la modernisation complète de son infrastructure cloud.
+- L’entreprise entend accompagner la croissance de son activité tout en renforçant ses capacités d’hébergement et de cybersécurité pour les PME et ETI françaises, dans un contexte où les enjeux de souveraineté numérique prennent une importance croissante.
+- Lyon au cœur de la stratégie cloud du groupe Si Dstny est un acteur européen des communications d’entreprise, son activité cloud est largement pilotée depuis Lyon.
+- L’entité française gère aujourd’hui le plus important portefeuille de clients cloud du groupe, une position héritée notamment du rachat de la société lyonnaise IP-Line, spécialisée dans l’hébergement, les services managés et la cybersécurité.
 
-## [ReCyF : comment conduire la mise en conformité NIS 2 avant même la version finale du référentiel](https://itsocial.fr/cybersecurite/cybersecurite-articles/recyf-comment-conduire-la-mise-en-conformite-nis-2-avant-meme-la-version-finale-du-referentiel/)  
-*Source : itsocial.fr | Publication : 2026-06-25*
+## [Le phishing s'invite dans les applications de suivi de commandes - Solutions-Numeriques](https://www.solutions-numeriques.com/le-phishing-sinvite-dans-les-applications-de-suivi-de-commandes/)  
+*Source : solutions-numeriques.com | Publication : 2026-06-26*
 
-- Avec ReCyF (le Référentiel Cyber France), l’Anssi traduit les obligations de la directive NIS 2 en vingt objectifs de sécurité assortis de moyens de conformité acceptables.
-- Le référentiel, encore en version de travail, distingue ce que l’entité doit atteindre de la manière d’y parvenir, et module l’effort selon qu’elle est importante ou essentielle.
-- Pour une direction informatique, il fournit la grille qui manquait pour engager la mise en conformité sans attendre la transposition définitive de la directive en droit français.
-- La directive européenne NIS 2 élève le niveau de sécurité exigé des organisations jugées importantes ou essentielles pour le fonctionnement de l’économie et de la société.
+- Des fraudeurs abusent de l’application Shop pour faire apparaître de faux reçus dans l’historique de commandes des utilisateurs.
+- Le piège reprend les codes classiques de l’arnaque au faux support, mais il se glisse dans un environnement plus crédible qu’un simple e-mail suspect : une application légitime, utilisée pour suivre de vrais achats.
+- Des faux reçus au milieu de vraies commandes Le faux reçu par e-mail est un grand classique du phishing.
+- Une facture Norton, McAfee, PayPal ou Geek Squad annonce un renouvellement coûteux, avec un numéro à appeler pour contester l’opération.
 
-## [Sharp Électronique du Canada élargit son portefeuille de solutions en technologie grâce à ...](https://www.ledevoir.com/communiques-de-presse/990356/sharp-electronique-canada-elargit-portefeuille-solutions-technologie-grace-nouvelle-association-skadi-cyber-defense-corporation)  
-*Source : ledevoir.com | Publication : 2026-06-25*
+## [Les DSI français attendent davantage de l'IA et des systèmes d'entreprise | Alliancy](https://www.alliancy.fr/les-dsi-francais-attendent-davantage-de-lia-et-des-systemes-dentreprise-6d63886b-77fd-45a7-b152-681bdc2dd299)  
+*Source : alliancy.fr | Publication : 2026-06-26*
 
-- MISSISSAUGA, Ontario, 25 juin 2026 (GLOBE NEWSWIRE) — Sharp Électronique du Canada Ltée a établi un partenariat avec SKADI Cyber Defense Corporation dans le but d’offrir aux clients de Sharp d’un bout à l’autre du pays des solutions en cybersécurité développées au Canada.
-- Ce partenariat constitue un nouveau pas en avant pour la stratégie de commercialisation de Sharp Canada visant à consolider sa place comme partenaire de confiance et de prédilection proposant un éventail complet de technologies pour le lieu de travail.
-- Au-delà des solutions de production de documents, technologies audiovisuelles professionnelles et produits électroniques grand public, Sharp Canada propose désormais des capacités de cybersécurité conçues pour aider les organisations à renforcer la solidité des systèmes de sécurité tout en simplifiant la gestion de ces mêmes technologies.
-- Dans le cadre de ce partenariat, les clients de Sharp Canada bénéficient d’un accès à Frostbow™, la plateforme de cybersécurité autonome de SKADI Cyber Defense Corporation.
+- Les DSI français attendent davantage de l’IA et des systèmes d’entreprise Une nouvelle étude indépendante commanditée par Rimini Street, spécialiste du support informatique, révèle que les dirigeants français subissent une pression croissante pour accélérer l’innovation grâce à l’IA, tout en devant faire face à la hausse des coûts informatiques, à la pénurie de talents et à l’intensification des menaces de cybersécurité.
+- L’enquête mondiale sur l’informatique 2025-2026, menée par Censuswide auprès de plus de 4300 entreprises de tous les secteurs, montre que les dirigeants s’interrogent sur la capacité de l’IA à générer une réelle valeur ajoutée.
+- Dans le même temps, les responsables informatiques doivent trouver un équilibre délicat entre les gains opérationnels à court terme et la mise en place d’une stratégie technologique durable.
+- Plus précisément, un rapport consacré à la France et à la région du Benelux révèle que 94 % des DSI, directeurs financiers, RSSI et PDG interrogés dans la région estiment que la pénurie de talents compromet leurs objectifs à long terme.
 
-## [Outillage : Leborgne met un second pied dans le marché grand public - Les Echos](https://www.lesechos.fr/pme-regions/auvergne-rhone-alpes/outillage-leborgne-met-un-second-pied-dans-le-marche-grand-public-2239135)  
-*Source : lesechos.fr | Publication : 2026-06-25*
+## [Duty of care : quelles sont les nouvelles obligations de l'employeur envers ses collaborateurs](https://www.deplacementspros.com/mobility-management/duty-of-care-quelles-sont-les-nouvelles-obligations-de-lemployeur-envers-ses-collaborateurs)  
+*Source : deplacementspros.com | Publication : 2026-06-26*
 
-- Cybersécurité : à Lyon, un centre dédié aux PME régionales sous la houlette de la CCI · Transport : Chalavan & Duc reprend de la vitesse · Santé.
+- Solenn Le Brazidec, directrice générale de Plus Voyages Corporate, analyse comment le duty of care s'est profondément élargi en 2026, bien au-delà de la sécurité physique, et ce que cela implique concrètement pour les employeurs.
+- Le duty of care n’est pas une nouveauté juridique.
+- Ce qui change en 2026, c’est l’étendue de ce qu’il recouvre.
+- Cybersécurité, santé mentale, instabilités géopolitiques : les employeurs qui pensaient avoir coché toutes les cases découvrent que le périmètre s’est considérablement élargi, sans que les dispositifs internes aient nécessairement suivi.
 
-## [IA, data, <b>cybersécurité</b>… Les nouvelles compétences qui redessinent les carrières - TelQuel](https://telquel.ma/2026/06/25/ia-data-cybersecurite-les-nouvelles-competences-qui-redessinent-les-carrieres_1995973)  
-*Source : telquel.ma | Publication : 2026-06-25*
+## [Deux pôles IA et cloud structurent l'accompagnement des partenaires d'Arrow](https://www.itforbusiness.fr/deux-poles-ia-et-cloud-structurent-laccompagnement-des-partenaires-darrow-104953)  
+*Source : itforbusiness.fr | Publication : 2026-06-26*
 
-- [Contenu Telquel Impact Spécial Études à l’étranger] Au Maroc, l’offre de formation numérique s’est élargie ces dernières années.
-- En avril 2026, Amal El Fallah Seghrouchni, ministre déléguée chargée de la Transition numérique, a indiqué que le nombre de diplômés avait atteint 22 500 par an et que 549 filières numériques avaient été créées.
-- Les bacheliers disposent ainsi de davantage de choix pour s’orienter dans ce domaine.
-- Des portes d’entrée à bien identifier Zouheir Lakhdissi, directeur général de Dial Technologies, estime que plusieurs formations de la data et de l’intelligence artificielle offrent de réels débouchés au Maroc.
+- ChannelScope Deux pôles IA et cloud structurent l’accompagnement des partenaires d’Arrow Par Frédéric Bergonzoli, publié le 26 juin 2026 Arrow ouvre deux centres d’expérience aux États-Unis et en Europe pour aider ses revendeurs et ses clients à tester, concevoir et sécuriser des solutions d’IA, de cloud hybride et de cybersécurité.
+- Environnements coordonnés conçus pour offrir un laboratoire de test avancé, un parcours technologique unifié, des démonstrations immersives ou encore des dispositifs de gestion en direct de ressources, les centres d’expérience interconnectés poussent sur la planète.
+- Ceux du distributeur Arrow sont implantés à Alpharetta, en Géorgie, et à Stockholm.
+- Ces sites doivent servir de points d’appui aux fournisseurs, partenaires commerciaux et clients finaux engagés dans des projets liés à l’intelligence artificielle et au cloud.
 
-## [BlackBerry relève ses prévisions financières - Fortuneo Bourse](https://bourse.fortuneo.fr/actualites/blackberry-releve-ses-previsions-financieres-3813906)  
-*Source : bourse.fortuneo.fr | Publication : 2026-06-25*
+## [[Événement] Les petits déjeuners de la rédaction » : 2ème édition le 30 juin !](https://www.solutions-numeriques.com/evenement-les-petits-dejeuners-de-la-redaction-2eme-edition-le-30-juin/)  
+*Source : solutions-numeriques.com | Publication : 2026-06-26*
 
-- BlackBerry, la star déchue des assistants personnels, reconvertie dans les solutions de cybersécurité et IoT, a relevé ses prévisions de chiffre d'affaires annuel, misant sur la dynamique soutenue de sa division QNX après l'achèvement de son redressement.
-- Pour son premier trimestre fiscal 2027 d'abord, le groupe a réalisé des revenus de 153 millions en croissance de 26%, un Ebitda ajusté en très forte augmentation de 144% à 36,3 millions et un bénéfice opérationnel de 15,3 millions.
-- BlackBerry, qui a réorienté ses activités vers les logiciels pour appareils connectés et véhicules autonomes, envisage pour le 2e trimestre fiscal 2027 des revenus de 137-148 M$, alors que son chiffre d'affaires annuel est maintenant anticipé entre 594 et 621 millions.
-- L'Ebitda ajusté de l'exercice est attendu entre 119 et 139 millions.
+- Après une première édition réussie, Solutions Numériques & Cybersécurité, en partenariat avec Euro Cyber Group (ECG), organise la deuxième édition des Petits Déjeuners de la rédaction, le mardi 30 juin, à Paris.
+- À l’occasion de la sortie de notre nouveau numéro, « Sous la pression de la souveraineté », la rédaction réunira deux experts pour décrypter deux enjeux majeurs auxquels sont confrontées les entreprises : la sécurisation des usages de l’intelligence artificielle et la préparation aux cyberattaques les plus critiques.
+- Au programme, deux échanges d’une quinzaine de minutes chacun, favorisant les retours d’expérience et les discussions avec les participants.
+- Intelligence artificielle : qui surveille les agents IA ?.
 
-## [Des pirates détournent WhatsApp pour piéger leurs victimes avec de faux documents](https://siecledigital.fr/2026/06/25/des-pirates-detournent-whatsapp-pour-pieger-leurs-victimes-avec-de-faux-documents/)  
-*Source : siecledigital.fr | Publication : 2026-06-25*
+## [Cyberattaque contre l'Insee : une violation de données expose l'identité et les coordonnées ...](https://www.usine-digitale.fr/cybersecurite/cyberattaque-contre-linsee-une-violation-de-donnees-expose-lidentite-et-les-coordonnees-professionnelles-de-12-800-agents.FS732BWREZHU7PXXHK5PELLJCY.html)  
+*Source : usine-digitale.fr | Publication : 2026-06-26*
 
-- Votre collègue vous envoie un fichier sur WhatsApp.
-- Vous n’avez pas de message ou de bonjour, mais juste un document nommé Relevé de compte.vbs ou Facture impayée.vbs.
-- Vous connaissez la personne, alors vous ouvrez.
-- Sauf que ce collègue n’a rien envoyé et que son compte WhatsApp a été piraté.
+- L'Institut national de la statistique et des études économiques a annoncé avoir été victime d'un incident de cybersécurité ayant visé son annuaire.
 
-## [Vous ne devriez bientôt plus avoir à cliquer sur « Je ne suis pas un robot - Siècle Digital](https://siecledigital.fr/2026/06/25/vous-ne-devriez-bientot-plus-avoir-a-cliquer-sur-je-ne-suis-pas-un-robot-le-captcha-va-disparaitre/)  
-*Source : siecledigital.fr | Publication : 2026-06-25*
+## [<b>Cybersécurité</b>, agriculture, pouvoir d'achat : les principales décisions (…) - Petites Affiches](https://www.petitesaffiches.fr/politique,104/cybersecurite-agriculture-pouvoir,43642.html)  
+*Source : petitesaffiches.fr | Publication : 2026-06-26*
 
-- Vous avez passé les vingt-cinq dernières années à repérer des feux de signalisation, des bouches d’incendie et des passages piétons sur des grilles floues pour prouver que vous êtes un être humain.
-- Le système a toujours été insupportable.
-- Il vient aussi de devenir inutile, car les bots actuels, propulsés par l’IA, résolvent les CAPTCHAs mieux que vous.
-- Les agents autonomes de ChatGPT et Gemini naviguent à la place des utilisateurs et déclenchent des vérifications en cascade sur les sites visités.
+- Tour d'horizon des principaux votes.
+- Une stratégie régionale pour renforcer la cybersécurité.
+- Face à la multiplication des cyberattaques, la Région.
