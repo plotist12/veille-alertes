@@ -1,155 +1,148 @@
-# Résumés – 2026-06-27
+# Résumés – 2026-06-28
 
 
-## [ACT plaide pour une certification en <b>cybersécurité</b> « volontaire » et dissociée des ... - Agence Europe](https://agenceurope.eu/fr/bulletin/article/13897/17/act-plaide-pour-une-certification-en-cybersecurite-volontaire-et-dissociee-des-evaluations-des-risques-lies-aux-chaines-dapprovisionnement)  
-*Source : agenceurope.eu | Publication : 2026-06-26*
+## [GitHub piégé : des agents de code IA exécutent un malware via un dépôt apparemment propre](https://www.clubic.com/actualite-618892-github-piege-des-agents-de-code-ia-executent-un-malware-via-un-depot-apparemment-propre.html)  
+*Source : clubic.com | Publication : 2026-06-27*
 
-- ACT (Association for Competitive Technology), une association représentant des start-ups technologiques, a publié, jeudi 25 juin, sa position sur la révision du règlement sur la cybersécurité (Cybersecurity Act 2) (EUROPE 13790/1).
-- Parmi ses principales demandes figure la nécessité de dissocier les évaluations des risques liés aux chaînes d’approvisionnement des critères d’éligibilité à la certification européenne en cybersécurité, qui doit rester « volontaire », compte tenu de coûts « excessifs » et « des bénéfices très limités pour la cyberrésilience de l’Europe ».
-- « Les évaluations des risques liés aux chaînes d’approvisionnement ne devraient pas déterminer l’éligibilité à la certification », estime l’association.
-- Des schémas de certification fondés sur les risques et alignés sur les normes internationales.
+- D’après des chercheurs de Mozilla, un agent de codage IA peut exécuter un malware sans jamais le voir dans le code source.
+- Pour leur démonstration, ils ont utilisé Claude Code et un dépôt GitHub dont tous les fichiers passent la revue de code sans alerte.
+- La charge malveillante se déploie au moment de l’exécution, extraite d’un enregistrement DNS contrôlé par l’attaquant.
+- André Hall et Miller Engelbrecht sont chercheurs au sein de 0DIN, la plateforme de sécurité IA de Mozilla.
 
-## [<b>Cybersécurité</b> des soins de santé à l'ère de l'instabilité géopolitique - Health-ISAC](https://health-isac.org/fr/La-cybersécurité-dans-le-secteur-de-la-santé-à-l'ère-de-l'instabilité-géopolitique/)  
-*Source : health-isac.org | Publication : 2026-06-26*
+## [<b>Cybersécurité</b> : l'alerte rouge sur la manipulation algorithmique - Leconomiste Maghrebin](https://www.leconomistemaghrebin.com/2026/06/27/cybersecurite-lalerte-rouge-sur-la-manipulation-algorithmique/)  
+*Source : leconomistemaghrebin.com | Publication : 2026-06-27*
 
-- Cybersécurité des soins de santé à l'ère de l'instabilité géopolitique Résilience, gouvernance et préparation dans un environnement contesté Écrit par Vasileios Mingos.
-- Le secteur de la santé a longtemps été considéré comme protégé, civil, neutre et essentiel.
-- Cette conception est de plus en plus remise en question.
-- Le contexte géopolitique actuel est marqué par une instabilité persistante, avec de multiples conflits militaires et une montée des tensions dans différentes régions.
+- « L’intelligence artificielle (IA) n’est plus un simple outil d’assistance, mais un véritable phénomène de manipulation cognitive et comportementale à l’échelle mondiale », estime l’expert en cybersécurité et en IA, Oussama Lahmar.
+- De ce fait, il appelle à l’instauration de la « résistance cognitive » face aux algorithmes, soulignant l’urgence de combler le retard législatif tunisien en la matière, un constat récemment corroboré par l’UNESCO, rapporte l’agence TAP.
+- Lors de la présentation d’une étude intitulée « L’intelligence artificielle, la drogue numérique qui vole nos esprits », l’expert a mis en garde contre la transformation de l’IA d’un outil technique en un « guide invisible » orientant aussi bien rationnellement qu’émotionnellement les comportements humains.
+- Le véritable danger, selon lui, réside dans la fragilité structurelle de ces systèmes : les statistiques récentes en cybersécurité révèlent que 73 % des grands modèles de langage (LLM) sont vulnérables aux « injections d’instructions » (prompt injection).
 
-## [L'Insee ciblé par une attaque informatique, les données de plus de 12.000 personnes concernées](https://www.20minutes.fr/societe/4231374-20260626-cybercriminalite-insee-ciblee-attaque-informatique-donnees-plus-12-000-personnes-concernees)  
-*Source : 20minutes.fr | Publication : 2026-06-26*
+## [Anthropic déploie de nouveau Mythos 5, Fable 5 attend son feu vert - Next.ink](https://next.ink/244502/anthropic-deploie-de-nouveau-mythos-5-fable-5-attend-son-feu-vert/)  
+*Source : next.ink | Publication : 2026-06-27*
 
-- Cybercriminalité : L’Insee ciblé par une attaque informatique, les données de plus de 12.000 personnes concernées fuite de données•Les identités et les coordonnées professionnelles de près de 13.000 employés ou ex-employés de l’institut national de la statistique ont été volées dans une nouvelle cyberattaque détectée le 19 juin20 Minutes avec AFP Ce sont près de 13.000 personnes concernées.
-- L’Institut national de la statistique a été victime d’une attaque informatique qui a conduit à une violation de données personnelles de 12.800 personnes « travaillant, ayant travaillé », ou « issus des corps de l’Insee », a-t-elle indiqué dans un communiqué vendredi.
-- Aucune donnée sensible relative aux agents, comme les mots de passe, les données bancaires ou le numéro de Sécurité sociale, n’est concernée par cette violation détectée le 19 juin.
-- Seulement l’identité et les coordonnées professionnelles seraient concernées, a détaillé l’Institut dans un communiqué.
+- Anthropic déploie de nouveau Mythos 5, Fable 5 attend son feu vert Libéré, délivré Le 27 juin à 16h59 Nouvel épisode dans la saga Mythos.
+- Anthropic a reçu la nuit dernière l’autorisation du gouvernement US pour déployer de nouveau Mythos 5 auprès d’organisations et entreprises états-uniennes.
+- Fable 5 pourrait obtenir son feu vert la semaine prochaine.
+- Anthropic déploie de nouveau Mythos 5, Fable 5 attend son feu vert Libéré, délivré Nouvel épisode dans la saga Mythos.
 
-## [Horizon3.ai révèle les failles de sécurité avant les hackers - L'Express](https://www.lexpress.fr/partenaires/horizon3ai-revele-les-failles-de-securite-avant-les-hackers-FPAAG6GWNRDP3NSJHMZXBFIICU/)  
-*Source : lexpress.fr | Publication : 2026-06-26*
+## [<b>Cybersécurité</b> : l'identité numérique est-elle devenue notre 1ère ligne de défense ? Les ...](https://www.medi1news.com/fr/article/400037.html)  
+*Source : medi1news.com | Publication : 2026-06-27*
 
-- Une approche offensive pour une défense proactive Fondée en 2019 par d’anciens membres des forces spéciales américaines, des services de sécurité nationale des États-Unis et du secteur de la cybersécurité, Horizon3.ai propose une vision inédite de la cybersécurité.
-- Certes, il est indispensable de se protéger, mais il faut aussi challenger sans relâche sa protection pour s’assurer de son efficacité, comme l’explique Frédéric Nakhlé, directeur EMEA : « Les entreprises dépensent des centaines de milliers d’euros pour se protéger sans savoir si leurs investissements fonctionnent réellement.
-- Tout cela gagnerait à être optimisé.
-- » La solution réside dans le concept du hacker éthique, dont les forces sont démultipliées par l’intelligence artificielle.
+- Longtemps, la cybersécurité consistait à protéger les réseaux, les serveurs ou les ordinateurs.
+- Aujourd'hui, les cybercriminels s'attaquent.
 
-## [Insolite : Gaslight, le malware macOS qui tente de manipuler les assistants IA](https://www.solutions-numeriques.com/insolite-gaslight-le-malware-macos-qui-tente-de-manipuler-les-assistants-ia/)  
-*Source : solutions-numeriques.com | Publication : 2026-06-26*
+## [<b>Cybersécurité</b> : l'identité numérique est-elle devenue notre 1ère ligne de défense ? Les ...](https://www.medi1tv.com/fr/reportage/400037/Cybersécurité--l-identité-numérique-est-elle-devenue-notre-1ère-ligne-de-défense-Les-explications-de-Rahif-Sadellah)  
+*Source : medi1tv.com | Publication : 2026-06-27*
 
-- Un malware macOS, baptisé Gaslight, ne se contente pas de cacher ses traces.
-- Il embarque aussi de faux messages conçus pour perturber les outils d’analyse assistés par IA.
-- Une manière assez nouvelle de jouer avec les usages des analystes, à l’heure où les grands modèles de langage commencent à s’inviter dans les workflows de cybersécurité.
-- Quand le malware tente de parler à l’IA Les malwares savent depuis longtemps repérer certains environnements d’analyse.
+- Vidéo : Cybersécurité : l'identité numérique est-elle devenue notre 1ère ligne de défense ?.
+- Les explications de Rahif Sadellah.
+- samedi 27 juin 2026.
 
-## [Incident de <b>cybersécurité</b> sur l'annuaire des agents de l'Insee](https://www.insee.fr/fr/information/9016741)  
-*Source : insee.fr | Publication : 2026-06-26*
+## [Madagascar: Informatique - Des jeunes se passionnent pour la <b>cybersécurité</b> - allAfrica.com](https://fr.allafrica.com/stories/202606270058.html)  
+*Source : fr.allafrica.com | Publication : 2026-06-27*
 
-- Incident de cybersécurité sur l’annuaire des agents de l’Insee L’Insee a été victime d’une attaque informatique qui a conduit à la violation de données à caractère personnel de ses agents.
-- Cette violation concerne l’identité d’environ 12 800 personnes travaillant, ayant travaillé à l’Insee ou issus des corps de l’Insee, ainsi que leurs coordonnées professionnelles.
-- Aucune donnée sensible relative aux agents, telles que mots de passe, coordonnées personnelles, données bancaires, numéro de Sécurité Sociale ou informations de santé, n’est concernée.
-- Dès la détection de cet incident le 19 juin, des mesures immédiates ont été mises en œuvre afin de stopper l'attaque.
+- Des jeunes manifestent un grand intérêt pour la cybersécurité.
+- Ils sont venus nombreux au Symposium national de la cybersécurité 2026, qui s'est tenu au Novotel Alarobia, les 22 et 23 juin.
+- « On constate un véritable engouement chez les jeunes, qui sont restés mobilisés du début à la fin », s'est réjoui Éric Rakotomaniraka, directeur général de la Computer Incident Response Team (CIRT) Madagascar, lors de la clôture de l'événement.
+- Ces deux jours d'apprentissage leur ont permis d'en savoir beaucoup plus sur la cybersécurité.
 
-## [Le Vietnam plaide pour une coopération scientifique renforcée au sein de l'ASEAN](https://lecourrier.vn/le-vietnam-plaide-pour-une-cooperation-scientifique-renforcee-au-sein-de-lasean/1350279.html)  
-*Source : lecourrier.vn | Publication : 2026-06-26*
+## [Cozes : la gendarmerie sensibilise les habitants aux risques de la <b>cybercriminalité</b>](https://www.sudouest.fr/charente-maritime/cozes/cozes-la-gendarmerie-sensibilise-les-habitants-aux-risques-de-la-cybercriminalite-29589523.php)  
+*Source : sudouest.fr | Publication : 2026-06-27*
 
-- >> ASEAN - ONUDC : unir les efforts contre la cybercriminalité et la criminalité >> Vietnam - ASEAN : affirmer sa position et créer de nouveaux moteurs de croissance >> Le Vietnam au cœur du dialogue économique entre l’ASEAN et l’Argentine Le Vietnam a réaffirmé son engagement en faveur du renforcement de la coopération régionale lors de la 22e réunion ministérielle de l'ASEAN sur la science, la technologie et l'innovation (AMMSTI-22), tenue le 26 juin à Vientiane, au Laos.
-- Placée sous le thème « Faire progresser le Plan d'action de l'ASEAN sur la science, la technologie et l'innovation (APASTI) pour une ASEAN résiliente, durable et compétitive », la réunion a rassemblé les ministres et représentants des États membres de l'ASEAN ainsi que le secrétaire général de l'ASEAN, Kao Kim Hourn, afin d'examiner le rôle de la science, de la technologie et de l'innovation dans le renforcement de la résilience, de la compétitivité et du développement durable de la région.
-- Conduite par le vice-ministre des Sciences et des Technologies, Bùi Hoàng Phuong, la délégation vietnamienne a présenté plusieurs propositions destinées à approfondir la coopération régionale.
-- Prenant la parole lors de la réunion, Bùi Hoàng Phuong a réaffirmé le soutien du Vietnam au Plan d'action de l'ASEAN, soulignant que la science, la technologie, l'innovation et la transformation numérique constituent des moteurs stratégiques du développement durable de la région.
+- Près de 80 personnes se sont réunies au Logis de Sorlut pour une réunion d’information sur la sécurité numérique et la prévention des cambriolages, animée par des représentants du groupement de La Rochelle et de la brigade de Cozes Jeudi 18 juin, à l’initiative de la municipalité de Cozes, près de 80 personnes se sont réunies au Logis de Sorlut pour assister à une réunion consacrée à la cybercriminalité, aux cambriolages.
+- Jeudi 18 juin, à l’initiative de la municipalité de Cozes, près de 80 personnes se sont réunies au Logis de Sorlut pour assister à une réunion consacrée à la cybercriminalité, aux cambriolages et aux agressions diverses.
 
-## [Les grands projets numériques ne commencent pas par la technologie, mais par la cohérence](https://www.lecho.be/partner/orange-business/telecom-ict/les-grands-projets-numeriques-ne-commencent-pas-par-la-technologie-mais-par-la-coherence/10676857.html)  
-*Source : lecho.be | Publication : 2026-06-26*
+## [IA et <b>cybersécurité</b> - Tunis](https://www.tap.info.tn/fr/Portail_Veille-et-Suivi/20336387-ia-et-cybersécurité)  
+*Source : tap.info.tn | Publication : 2026-06-27*
 
-- Les grands projets numériques ne commencent pas par la technologie, mais par la cohérence.
+- IA et cybersécurité : un expert alerte sur la manipulation algorithmique et réclame un cadre législatif d'urgence.
+- 27/.
 
-## [Sécurité de la supply chain logicielle : des outils complexes à mettre en action - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/securite-chaine-approvisionnement-logicielle-magic-quadrant-2026-228033/amp)  
-*Source : silicon.fr | Publication : 2026-06-26*
+## [<b>Cybersécurité</b>: Les outils d'IA externes bloqués dans les hôpitaux publics](https://fr.timesofisrael.com/cybersecurite-les-outils-dia-externes-bloques-dans-les-hopitaux-publics/amp/)  
+*Source : fr.timesofisrael.com | Publication : 2026-06-27*
 
-- Se limiter à une vingtaine de fournisseurs ne convient plus pour analyser le marché de l’AST (tests de sécurité applicative).
-- Gartner en a jugé ainsi.
-- Il considère que ce marché s’est trop étendu pour entrer dans la grille d’analyse de son Magic Quadrant, qui impose la limite en question.
-- Il a donc « zoomé » sur un sous-segment : la sécurité de la chaîne d’approvisionnement logicielle.
+- Cybersécurité : Les outils d'IA externes bloqués dans les hôpitaux publics.
+- Les personnels ne peuvent plus accéder à ChatGPT, Claude ou Gemini.
 
-## [<b>Cybersécurité</b>: l'Insee visée par une attaque informatique, 12.800 personnes affectées](https://www.boursorama.com/actualite-economique/actualites/cybersecurite-l-insee-visee-par-une-attaque-informatique-12-800-personnes-affectees-ffc478199c9b3ed0a86549c89693f32e)  
-*Source : boursorama.com | Publication : 2026-06-26*
+## [Facturation électronique, <b>cybersécurité</b> et IA : le GRETA Grand Littoral accompagne les ...](https://www.nordlittoral.fr/290157/article/2026-06-27/facturation-electronique-cybersecurite-et-ia-le-greta-grand-littoral-accompagne)  
+*Source : nordlittoral.fr | Publication : 2026-06-27*
 
-- L'Institut national de la statistique a été victime d'une attaque informatique qui a conduit à une violation de données personnelles de 12.800 personnes "travaillant, ayant travaillé", ou "issus des corps de l'Insee", a-t-elle indiqué dans un communiqué vendredi.
-- Aucune donnée sensible relative aux agents, comme les mots de passe, les données bancaires ou le numéro de sécurité sociale, n'est concernée par cette violation détectée le 19 juin et qui concerne seulement l'identité et les coordonnées professionnelles, a détaillé l'Institut dans un communiqué.
-- L'Institut national de la statistique et des études économiques est une direction générale du ministère de l'Économie et des Finances, indépendante, qui a pour mission de collecter, analyser et diffuser des informations sur l'économie et la société françaises sur l'ensemble de son territoire.
-- L'enquête, lancée après la détection de l'incident, n'a "pas révélé de compromission des donnes collectées par l'Insee auprès des entreprises ou des personnes".
+- cybersécurité , d'intelligence artificielle ou encore de dématérialisation des procédures administratives.
+- Trois ateliers pratiques.
+- Après cette.
 
-## [<b>Cybersécurité</b> : la Linux Foundation va mettre l'open source en ordre de bataille face à l'IA](https://www.clubic.com/actualite-618790-cybersecurite-la-linux-foundation-va-mettre-l-open-source-en-ordre-de-bataille-face-a-l-ia.html)  
-*Source : clubic.com | Publication : 2026-06-26*
+## [Redwood AI Corp. (CVE:AIRX) | - WebDisclosure](https://www.webdisclosure.com/article/redwood-ai-corp-cve-airx-redwood-ai-se-developpe-dans-la-cybersecurite-resistante-a-linformatique-quantique-avec-lacquisition-de-quantumiq-0RwmTSJgxwc)  
+*Source : webdisclosure.com | Publication : 2026-06-27*
 
-- Trouver une faille critique dans un projet open source réclamait des semaines de travail et une expertise pointue.
-- Un bon modèle d'IA peut faire la même chose en quelques minutes.
-- La Linux Foundation a décidé que ça devait changer.
-- Le 25 juin, la fondation a lancé Akrites, une initiative de coordination regroupant AWS, Anthropic, Cisco, Google, IBM, JPMorganChase, Microsoft, NVIDIA, OpenAI, Red Hat, Vodafone et une vingtaine d'autres organisations.
+- on Redwood AI Corp. (CVE:AIRX) Redwood AI se développe dans la cybersécurité résistante à l'informatique quantique avec l'acquisition de Quantum.IQ.
+- Redwood AI Corp a annoncé la conclusion d'un accord définitif portant sur l'acquisition de Quantum.IQ Technologies Inc.
+- Cette opération marque l'expansion de Redwood dans le domaine de la cybersécurité résistante aux attaques quantiques, complétant ainsi son expertise en intelligence artificielle et en technologies de calcul avancées.
+- L'acquisition prévoit l'émission d'actions Redwood d'une valeur approximative de 2,98 $ chacune au profit des actionnaires de Quantum.IQ.
 
-## [VirtualBrowser embauche Edouard Lorrain pour développer l'international - Distributique](https://www.distributique.com/actualites/lire-virtualbrowser-embauche-edouard-lorrain-pour-developper-l-international-37350.html)  
-*Source : distributique.com | Publication : 2026-06-26*
+## [Coupe du Monde 2026 : le VPN à -80% indispensable pour vos déplacements pro - Capital](https://www.capital.fr/conso/coupe-du-monde-2026-le-vpn-a-80-indispensable-pour-vos-deplacements-pro-1527946)  
+*Source : capital.fr | Publication : 2026-06-27*
 
-- Ancien de VMware et Citrix, Edouard Lorrain possčde une bonne connaissance du marché de la virtualisation et connaît bien la distribution indirecte.
-- (Crédit VirtualBrowser) Edouard Lorrain, un fin connaisseur du marché de la virtualisation, rejoint VirtualBrowser le spécialiste français du RBI.
-- Il prend la tęte du développement international avec une priorité accordée ŕ la zone Middle East.
-- VirtualBrowser, pure-player français de la technologie RBI (Remote Browser Isolation), recrute Edouard Lorrain pour développer son activité ŕ l'échelle internationale, notamment sur le marché du Moyen-Orient (Middle East).
+- Amérique du Nord et déplacements pro : l'impératif cybersécurité Pour les décideurs, entrepreneurs et grands voyageurs, concilier l'agenda professionnel avec la Coupe du Monde 2026 peut s'avérer complexe.
+- Que vous soyez dans un lounge d'aéroport à Dubaï ou dans un hôtel à Tokyo, accéder à vos abonnements français (comme BeIN Sports ou TF1) est souvent rendu impossible par les restrictions géographiques.
+- S'en remettre à des flux illégaux est hors de question pour des raisons de sécurité évidentes.
+- La solution premium s'impose : ExpressVPN.
 
-## [Dstny investit 500 000 € à Lyon pour renforcer son infrastructure cloud](https://www.lyon-entreprises.com/actualites/article/dstny-investissement-cloud-lyon-500000-euros)  
-*Source : lyon-entreprises.com | Publication : 2026-06-26*
+## [<b>Cybersécurité</b>: pourquoi les données sont mal protégées en Suisse - Watson](https://www.watson.ch/fr/suisse/economie/978020770-cybersecurite-pourquoi-les-donnees-sont-mal-protegees-en-suisse)  
+*Source : watson.ch | Publication : 2026-06-27*
 
-- Dstny investit 500 000 € à Lyon pour renforcer son infrastructure cloud Basée à Lyon, Dstny France Entreprises annonce un investissement de 500 000 euros dans la modernisation complète de son infrastructure cloud.
-- L’entreprise entend accompagner la croissance de son activité tout en renforçant ses capacités d’hébergement et de cybersécurité pour les PME et ETI françaises, dans un contexte où les enjeux de souveraineté numérique prennent une importance croissante.
-- Lyon au cœur de la stratégie cloud du groupe Si Dstny est un acteur européen des communications d’entreprise, son activité cloud est largement pilotée depuis Lyon.
-- L’entité française gère aujourd’hui le plus important portefeuille de clients cloud du groupe, une position héritée notamment du rachat de la société lyonnaise IP-Line, spécialisée dans l’hébergement, les services managés et la cybersécurité.
+- Ce que vous pouvez vraiment faire après une fuite de données Les médias rendent régulièrement compte de vols de données et de fuites informatiques, mais le silence retombe souvent très vite, même après la révélation d'affaires spectaculaires.
+- Les responsables des entreprises concernées en disent généralement le moins possible, souvent sur recommandation de la police.
+- Les autorités appelées à intervenir dans ce type de dossiers restent, elles aussi, discrètes.
+- Elles doivent préserver l'indépendance des enquêtes, respecter le secret de fonction et garantir les droits de l'ensemble des parties concernées.
 
-## [Le phishing s'invite dans les applications de suivi de commandes - Solutions-Numeriques](https://www.solutions-numeriques.com/le-phishing-sinvite-dans-les-applications-de-suivi-de-commandes/)  
-*Source : solutions-numeriques.com | Publication : 2026-06-26*
+## [Cyber et IA : après Anthropic, l'impressionnante contre-offensive de la Chine • FRANCE 24](https://www.youtube.com/watch?v=XVmM2mbg43s)  
+*Source : youtube.com | Publication : 2026-06-27*
 
-- Des fraudeurs abusent de l’application Shop pour faire apparaître de faux reçus dans l’historique de commandes des utilisateurs.
-- Le piège reprend les codes classiques de l’arnaque au faux support, mais il se glisse dans un environnement plus crédible qu’un simple e-mail suspect : une application légitime, utilisée pour suivre de vrais achats.
-- Des faux reçus au milieu de vraies commandes Le faux reçu par e-mail est un grand classique du phishing.
-- Une facture Norton, McAfee, PayPal ou Geek Squad annonce un renouvellement coûteux, avec un numéro à appeler pour contester l’opération.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Les DSI français attendent davantage de l'IA et des systèmes d'entreprise | Alliancy](https://www.alliancy.fr/les-dsi-francais-attendent-davantage-de-lia-et-des-systemes-dentreprise-6d63886b-77fd-45a7-b152-681bdc2dd299)  
-*Source : alliancy.fr | Publication : 2026-06-26*
+## [PARIS : <b>Cybersécurité</b> - CoreView lance une solution pour maîtriser les risques d'accès sur ...](https://presseagence.fr/paris-cybersecurite-coreview-lance-une-solution-pour-maitriser-les-risques-dacces-sur-sharepoint-face-a-lia/)  
+*Source : presseagence.fr | Publication : 2026-06-27*
 
-- Les DSI français attendent davantage de l’IA et des systèmes d’entreprise Une nouvelle étude indépendante commanditée par Rimini Street, spécialiste du support informatique, révèle que les dirigeants français subissent une pression croissante pour accélérer l’innovation grâce à l’IA, tout en devant faire face à la hausse des coûts informatiques, à la pénurie de talents et à l’intensification des menaces de cybersécurité.
-- L’enquête mondiale sur l’informatique 2025-2026, menée par Censuswide auprès de plus de 4300 entreprises de tous les secteurs, montre que les dirigeants s’interrogent sur la capacité de l’IA à générer une réelle valeur ajoutée.
-- Dans le même temps, les responsables informatiques doivent trouver un équilibre délicat entre les gains opérationnels à court terme et la mise en place d’une stratégie technologique durable.
-- Plus précisément, un rapport consacré à la France et à la région du Benelux révèle que 94 % des DSI, directeurs financiers, RSSI et PDG interrogés dans la région estiment que la pénurie de talents compromet leurs objectifs à long terme.
+- PARIS : Cybersécurité – CoreView lance une solution p… Partager : PARIS : Cybersécurité – CoreView lance une solution pour maîtriser les risques d’accès sur SharePoint face à l’IA Face aux risques de sécurité accrus par l’IA, CoreView lance « Control for SharePoint » pour aider les entreprises à maîtriser les accès aux données.
+- CoreView (https://www.coreview.com/), acteur majeur de la résilience des environnements Microsoft 365, a annoncé le 23 juin 2026 le lancement de sa nouvelle solution « CoreView Control for SharePoint ».
+- Cette initiative répond à une préoccupation croissante des entreprises : L’adoption massive de l’intelligence artificielle met en lumière des vulnérabilités de longue date liées au partage excessif de documents et à la complexité des autorisations au sein de SharePoint.
+- L’IA, un révélateur des failles de sécurité Les environnements SharePoint des grandes organisations peuvent héberger des centaines de millions de fichiers, dont les accès sont souvent devenus incontrôlables au fil des ans.
 
-## [Duty of care : quelles sont les nouvelles obligations de l'employeur envers ses collaborateurs](https://www.deplacementspros.com/mobility-management/duty-of-care-quelles-sont-les-nouvelles-obligations-de-lemployeur-envers-ses-collaborateurs)  
-*Source : deplacementspros.com | Publication : 2026-06-26*
+## [IA: Washington réautorise partiellement l'accès au dernier modèle d'Anthropic, Mythos - RFI](https://www.rfi.fr/fr/économie/20260627-ia-washington-réautorise-partiellement-l-accès-au-dernier-modèle-d-anthropic-mythos)  
+*Source : rfi.fr | Publication : 2026-06-27*
 
-- Solenn Le Brazidec, directrice générale de Plus Voyages Corporate, analyse comment le duty of care s'est profondément élargi en 2026, bien au-delà de la sécurité physique, et ce que cela implique concrètement pour les employeurs.
-- Le duty of care n’est pas une nouveauté juridique.
-- Ce qui change en 2026, c’est l’étendue de ce qu’il recouvre.
-- Cybersécurité, santé mentale, instabilités géopolitiques : les employeurs qui pensaient avoir coché toutes les cases découvrent que le périmètre s’est considérablement élargi, sans que les dispositifs internes aient nécessairement suivi.
+- IA: Washington réautorise partiellement l'accès au dernier modèle d’Anthropic, Mythos Après deux semaines de blocage inédit, le gouvernement américain a réautorisé, vendredi 26 juin 2026, Mythos 5, le modèle d'intelligence artificielle (IA) le plus puissant d'Anthropic, pour un petit cercle de partenaires uniquement américains.
+- Ce nouveau rebondissement vient illustrer la volonté de reprise en main de la Maison Blanche sur une technologie qui pourrait être utilisée à des fins malveillantes.
+- Publié le : L'exécutif américain est très vigilant au risque de piratage.
+- Le 12 juin dernier, Washington avait brutalement contraint le fleuron américain de l'intelligence artificielle Anthropic à couper l'accès à ses modèles les plus puissants – Mythos mais aussi Fable 5, ses deux modèles de pointe –, trois jours après leur lancement.
 
-## [Deux pôles IA et cloud structurent l'accompagnement des partenaires d'Arrow](https://www.itforbusiness.fr/deux-poles-ia-et-cloud-structurent-laccompagnement-des-partenaires-darrow-104953)  
-*Source : itforbusiness.fr | Publication : 2026-06-26*
+## [IA : Washington réautorise un accès limité au modèle Mythos d'Anthropic - l'Opinion](https://www.lopinion.fr/economie/ia-washington-reautorise-un-acces-limite-au-modele-mythos-danthropic)  
+*Source : lopinion.fr | Publication : 2026-06-27*
 
-- ChannelScope Deux pôles IA et cloud structurent l’accompagnement des partenaires d’Arrow Par Frédéric Bergonzoli, publié le 26 juin 2026 Arrow ouvre deux centres d’expérience aux États-Unis et en Europe pour aider ses revendeurs et ses clients à tester, concevoir et sécuriser des solutions d’IA, de cloud hybride et de cybersécurité.
-- Environnements coordonnés conçus pour offrir un laboratoire de test avancé, un parcours technologique unifié, des démonstrations immersives ou encore des dispositifs de gestion en direct de ressources, les centres d’expérience interconnectés poussent sur la planète.
-- Ceux du distributeur Arrow sont implantés à Alpharetta, en Géorgie, et à Stockholm.
-- Ces sites doivent servir de points d’appui aux fournisseurs, partenaires commerciaux et clients finaux engagés dans des projets liés à l’intelligence artificielle et au cloud.
+- IA : Washington réautorise un accès limité au modèle Mythos d’Anthropic Après deux semaines de blocage, voici Mythos, le modèle d’intelligence artificielle (IA) le plus puissant d’Anthropic, de nouveau (partiellement) sur les rails.
+- Mythos 5 a été réautorisé, vendredi 26 juin par le gouvernement américain.
+- Attention, cette remise en service ne concerne pour l’heure qu’un nombre restreint de « cyberdéfenseurs et opérateurs d’infrastructures » américains, selon Anthropic, valorisée à près de 1 000 milliards de dollars.
+- Les partenaires étrangers, dont des agences étatiques de cybersécurité en Europe et en Asie, n’ont à ce stade pas accès à Mythos 5.
 
-## [[Événement] Les petits déjeuners de la rédaction » : 2ème édition le 30 juin !](https://www.solutions-numeriques.com/evenement-les-petits-dejeuners-de-la-redaction-2eme-edition-le-30-juin/)  
-*Source : solutions-numeriques.com | Publication : 2026-06-26*
+## [Drones, cyberdéfense et modernisation : Les grandes lignes de la feuille de route de la ...](https://www.yabiladi.com/articles/details/197549/drones-cyberdefense-modernisation-grandes-lignes)  
+*Source : yabiladi.com | Publication : 2026-06-27*
 
-- Après une première édition réussie, Solutions Numériques & Cybersécurité, en partenariat avec Euro Cyber Group (ECG), organise la deuxième édition des Petits Déjeuners de la rédaction, le mardi 30 juin, à Paris.
-- À l’occasion de la sortie de notre nouveau numéro, « Sous la pression de la souveraineté », la rédaction réunira deux experts pour décrypter deux enjeux majeurs auxquels sont confrontées les entreprises : la sécurisation des usages de l’intelligence artificielle et la préparation aux cyberattaques les plus critiques.
-- Au programme, deux échanges d’une quinzaine de minutes chacun, favorisant les retours d’expérience et les discussions avec les participants.
-- Intelligence artificielle : qui surveille les agents IA ?.
+- cybersécurité et l'élargissement des exercices conjoints.
+- Le texte.
+- Le projet de loi appelle à élargir des manœuvres comme African Lion afin d'y.
 
-## [Cyberattaque contre l'Insee : une violation de données expose l'identité et les coordonnées ...](https://www.usine-digitale.fr/cybersecurite/cyberattaque-contre-linsee-une-violation-de-donnees-expose-lidentite-et-les-coordonnees-professionnelles-de-12-800-agents.FS732BWREZHU7PXXHK5PELLJCY.html)  
-*Source : usine-digitale.fr | Publication : 2026-06-26*
+## [Washington réautorise (en partie) l'accès au puissant modèle d'IA Mythos d'Anthropic](https://ici.radio-canada.ca/nouvelle/2265078/washington-reautorisation-acces-modele-ia-mythos-anthropic)  
+*Source : ici.radio-canada.ca | Publication : 2026-06-27*
 
-- L'Institut national de la statistique et des études économiques a annoncé avoir été victime d'un incident de cybersécurité ayant visé son annuaire.
+- Washington réautorise (en partie) l’accès au puissant modèle d’IA Mythos d’Anthropic Anthropic a des relations orageuses avec l'administration Trump depuis des mois.
+- Photo : Getty Images / AFP / RICCARDO MILANI Anthropic a annoncé vendredi avoir reçu l'autorisation du gouvernement américain pour remettre en service Mythos, son modèle d'intelligence artificielle le plus puissant, réputé capable de déceler des failles informatiques avec une acuité inédite, mais bloqué par Washington au nom de la sécurité nationale.
+- La remise en service ne bénéficiera pour l'instant qu'à un cercle restreint de cyberdéfenseurs et opérateurs d'infrastructures américains, dont Anthropic dit vouloir rétablir l'accès aussi vite que possible.
+- Les partenaires étrangers, notamment des agences de cybersécurité, restent privés d'accès à ce stade.
 
-## [<b>Cybersécurité</b>, agriculture, pouvoir d'achat : les principales décisions (…) - Petites Affiches](https://www.petitesaffiches.fr/politique,104/cybersecurite-agriculture-pouvoir,43642.html)  
-*Source : petitesaffiches.fr | Publication : 2026-06-26*
+## [IA : l'arme secrète de la contre-offensive de Pékin - 27/06/2026 à 14:33 - AMP Boursorama](https://www.boursorama.com/videos/actualites-amp/ia-l-arme-secrete-de-la-contre-offensive-de-pekin-f94d5e8d41fd01e4096eb48ccc5fb8e1)  
+*Source : boursorama.com | Publication : 2026-06-27*
 
-- Tour d'horizon des principaux votes.
-- Une stratégie régionale pour renforcer la cybersécurité.
-- Face à la multiplication des cyberattaques, la Région.
+- IA : l'arme secrète de la contre-offensive de Pékin information fournie par France 24 27/06/2026 à 14:33 Les États-Unis verrouillent l’accès à leurs meilleures IA ?.
+- La Chine, elle, a choisi de les offrir quasiment gratuitement au monde entier.
+- De Qwen à Kimi, en passant par Minimax ou GLM, les fleurons de la tech asiatique inondent le marché de modèles surpuissants, multimodaux et en libre accès qui bousculent la cybersécurité mondiale.
+- L’idée de Pékin ?.
