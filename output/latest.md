@@ -1,148 +1,157 @@
-# Résumés – 2026-06-28
+# Résumés – 2026-06-29
 
 
-## [GitHub piégé : des agents de code IA exécutent un malware via un dépôt apparemment propre](https://www.clubic.com/actualite-618892-github-piege-des-agents-de-code-ia-executent-un-malware-via-un-depot-apparemment-propre.html)  
-*Source : clubic.com | Publication : 2026-06-27*
+## [La SNCF et le CEA signent un accord-cadre de recherche sur le ferroviaire - CIO-online](https://www.cio-online.com/actualites/lire-la-sncf-et-le-cea-signent-un-accord-cadre-de-recherche-sur-le-ferroviaire-17117.html)  
+*Source : cio-online.com | Publication : 2026-06-28*
 
-- D’après des chercheurs de Mozilla, un agent de codage IA peut exécuter un malware sans jamais le voir dans le code source.
-- Pour leur démonstration, ils ont utilisé Claude Code et un dépôt GitHub dont tous les fichiers passent la revue de code sans alerte.
-- La charge malveillante se déploie au moment de l’exécution, extraite d’un enregistrement DNS contrôlé par l’attaquant.
-- André Hall et Miller Engelbrecht sont chercheurs au sein de 0DIN, la plateforme de sécurité IA de Mozilla.
+- La SNCF et le CEA signent un accord-cadre de recherche sur le ferroviaire À l'occasion de VivaTech, la SNCF et le CEA ont annoncé un accord-cadre de coopération destiné à développer des technologies innovantes au service de cas d'usage ferroviaire, en IA, en cybersécurité, en robotique, la SNCF passe un accord de coopération de laboratoires de recherche et développement technologiques communs avec le CEA.
+- PublicitéÀ l'occasion de VivaTech, la SNCF et le CEA ont annoncé un accord-cadre de coopération destiné à développer de nouvelles technologies appliquées au ferroviaire.
+- Les deux partenaires veulent mettre en place des laboratoires communs associant ingénieurs SNCF et chercheurs et scientifiques du CEA, afin de travailler sur certains cas d'usage métier.
+- À terme, les technologies développées dans ces laboratoires communs devront répondre à une question centrale pour la SNCF : comment rendre le système ferroviaire plus performant, tout en renforçant sa souveraineté technologique et en conservant les exigences propres à un service public de transport.
 
-## [<b>Cybersécurité</b> : l'alerte rouge sur la manipulation algorithmique - Leconomiste Maghrebin](https://www.leconomistemaghrebin.com/2026/06/27/cybersecurite-lalerte-rouge-sur-la-manipulation-algorithmique/)  
-*Source : leconomistemaghrebin.com | Publication : 2026-06-27*
+## [Chiffrement vs Police : « Le choix sera politique », prévient le patron de l'ANSSI - Interview](https://www.clubic.com/dossier-618682-interview-anssi.html)  
+*Source : clubic.com | Publication : 2026-06-28*
 
-- « L’intelligence artificielle (IA) n’est plus un simple outil d’assistance, mais un véritable phénomène de manipulation cognitive et comportementale à l’échelle mondiale », estime l’expert en cybersécurité et en IA, Oussama Lahmar.
-- De ce fait, il appelle à l’instauration de la « résistance cognitive » face aux algorithmes, soulignant l’urgence de combler le retard législatif tunisien en la matière, un constat récemment corroboré par l’UNESCO, rapporte l’agence TAP.
-- Lors de la présentation d’une étude intitulée « L’intelligence artificielle, la drogue numérique qui vole nos esprits », l’expert a mis en garde contre la transformation de l’IA d’un outil technique en un « guide invisible » orientant aussi bien rationnellement qu’émotionnellement les comportements humains.
-- Le véritable danger, selon lui, réside dans la fragilité structurelle de ces systèmes : les statistiques récentes en cybersécurité révèlent que 73 % des grands modèles de langage (LLM) sont vulnérables aux « injections d’instructions » (prompt injection).
+- Dix signalements et quatre incidents traités chaque jour, 7 jours sur 7 : c'est le quotidien de l'ANSSI face à la menace cyber.
+- Son directeur général Vincent Strubel revient sur le débat autour du chiffrement, la dépendance technologique de la France et le calendrier de la migration post-quantique.
+- Polytechnicien et ingénieur général des Mines, Vincent Strubel a pris la direction de l'ANSSI, l'Agence nationale de la sécurité des systèmes d'information, le 4 janvier 2023, après quinze ans passés au sein de la maison.
+- Il a accepté de répondre à quelques-unes de nos questions sur plusieurs sujets sensibles : l'amendement visant à affaiblir le chiffrement dans la loi Narcotrafic, les restrictions américaines à l'export imposées à Anthropic, et l'avancement de la transposition de la directive NIS2, freinée par des demandes d'accès dérogatoires aux messageries.
 
-## [Anthropic déploie de nouveau Mythos 5, Fable 5 attend son feu vert - Next.ink](https://next.ink/244502/anthropic-deploie-de-nouveau-mythos-5-fable-5-attend-son-feu-vert/)  
-*Source : next.ink | Publication : 2026-06-27*
+## [Pour ne plus dépendre des géants américains, Chinon Vienne et Loire mise sur son data ...](https://www.lanouvellerepublique.fr/indre-et-loire/commune/anche-37/pour-ne-plus-dependre-des-geants-americains-chinon-vienne-et-loire-mise-sur-son-data-center-intercommunal-1782670109)  
+*Source : lanouvellerepublique.fr | Publication : 2026-06-28*
 
-- Anthropic déploie de nouveau Mythos 5, Fable 5 attend son feu vert Libéré, délivré Le 27 juin à 16h59 Nouvel épisode dans la saga Mythos.
-- Anthropic a reçu la nuit dernière l’autorisation du gouvernement US pour déployer de nouveau Mythos 5 auprès d’organisations et entreprises états-uniennes.
-- Fable 5 pourrait obtenir son feu vert la semaine prochaine.
-- Anthropic déploie de nouveau Mythos 5, Fable 5 attend son feu vert Libéré, délivré Nouvel épisode dans la saga Mythos.
+- Pour ne plus dépendre des géants américains, Chinon Vienne et Loire mise sur son data center intercommunal AbonnésCet article est réservé aux abonnés numériques.
+- Sciences et technologies - Chinon Vienne et Loire - AbonnésCet article est réservé aux abonnés numériques.
+- En réaction à la décision du gouvernement américain le 12 juin 2026 de couper l’accès à l’intelligence artificielle (IA) californienne Anthropic pour tous les ressortissants non-américains, la communauté de communes Chinon Vienne et Loire (CCCVL) s’est saisie de ce sujet.
+- Elle a convoqué une commission jeudi 25 juin 2026, au cours de laquelle Thomas Hernault, conseiller communautaire délégué au numérique, à l’informatique, à la dématérialisation et à l’intelligence artificielle et expert sur le sujet, a pu sensibiliser ses collègues.
 
-## [<b>Cybersécurité</b> : l'identité numérique est-elle devenue notre 1ère ligne de défense ? Les ...](https://www.medi1news.com/fr/article/400037.html)  
-*Source : medi1news.com | Publication : 2026-06-27*
+## [<b>Cybersécurité</b> : un « bouclier » protégeant la transformation numérique du pays.](https://www.vietnam.vn/fr/an-ninh-mang-la-chan-bao-ve-chuyen-doi-so-quoc-gia)  
+*Source : vietnam.vn | Publication : 2026-06-28*
 
-- Longtemps, la cybersécurité consistait à protéger les réseaux, les serveurs ou les ordinateurs.
-- Aujourd'hui, les cybercriminels s'attaquent.
+- La cybersécurité doit être la priorité absolue.
+- Lors d'une réunion thématique sur la transformation numérique du système politique , organisée par le Comité central de pilotage pour la science, la technologie, l'innovation et la transformation numérique, le secrétaire général et président To Lam a insisté sur la nécessité de garantir une cybersécurité robuste, la sécurité de l'information et la protection des données nationales.
+- Plus la transformation numérique est profonde et étendue, plus les risques d'insécurité de l'information, de fuites de données, de cyberattaques, de cybercriminalité, de fausses informations et de contenus malveillants sont élevés.
+- Les organismes doivent impérativement intégrer les exigences de sécurité dès la conception de tous leurs systèmes, bases de données et plateformes numériques, et non a posteriori.
 
-## [<b>Cybersécurité</b> : l'identité numérique est-elle devenue notre 1ère ligne de défense ? Les ...](https://www.medi1tv.com/fr/reportage/400037/Cybersécurité--l-identité-numérique-est-elle-devenue-notre-1ère-ligne-de-défense-Les-explications-de-Rahif-Sadellah)  
-*Source : medi1tv.com | Publication : 2026-06-27*
+## [Cette option SFR coûte 5€/mois, mais elle vous sera vite indispensable - Ariase](https://www.ariase.com/mobile/actualite/cette-option-sfr-coute-5-euro-mois-mais-elle-vous-sera-vite-indispensable)  
+*Source : ariase.com | Publication : 2026-06-28*
 
-- Vidéo : Cybersécurité : l'identité numérique est-elle devenue notre 1ère ligne de défense ?.
-- Les explications de Rahif Sadellah.
-- samedi 27 juin 2026.
+- Le contexte Les chiffres donnent le vertige.
+- En 2025, plus de 450 000 crimes et délits numériques ont été enregistrés par les forces de sécurité en France, soit une hausse de 14% en un an.
+- La plateforme gouvernementale cybermalveillance.gouv.fr a franchi pour la première fois le cap du demi-million de victimes assistées, en hausse de 20% par rapport à 2024.
+- Et les tendances les plus récentes font froid dans le dos : les fraudes au virement ont bondi de 170%, - la fraude au faux conseiller bancaire a progressé de 159%, - et l'usurpation de numéro de téléphone a explosé de 517%.
 
-## [Madagascar: Informatique - Des jeunes se passionnent pour la <b>cybersécurité</b> - allAfrica.com](https://fr.allafrica.com/stories/202606270058.html)  
-*Source : fr.allafrica.com | Publication : 2026-06-27*
+## [Le ministre de l'éducation préside l'ouverture de la deuxième édition des Olympiades ... - TAP](https://www.tap.info.tn/fr/Portail-Titres-de-l-actualité/20338800-le-ministre-de)  
+*Source : tap.info.tn | Publication : 2026-06-28*
 
-- Des jeunes manifestent un grand intérêt pour la cybersécurité.
-- Ils sont venus nombreux au Symposium national de la cybersécurité 2026, qui s'est tenu au Novotel Alarobia, les 22 et 23 juin.
-- « On constate un véritable engouement chez les jeunes, qui sont restés mobilisés du début à la fin », s'est réjoui Éric Rakotomaniraka, directeur général de la Computer Incident Response Team (CIRT) Madagascar, lors de la clôture de l'événement.
-- Ces deux jours d'apprentissage leur ont permis d'en savoir beaucoup plus sur la cybersécurité.
+- cybersécurité.
+- 28/06/2026 16:26, TUNIS/Tunisie.
+- Tunis,28 juin (TAP)-Le ... cybersécurité , après l'organisation de la première édition à... Plus.
 
-## [Cozes : la gendarmerie sensibilise les habitants aux risques de la <b>cybercriminalité</b>](https://www.sudouest.fr/charente-maritime/cozes/cozes-la-gendarmerie-sensibilise-les-habitants-aux-risques-de-la-cybercriminalite-29589523.php)  
-*Source : sudouest.fr | Publication : 2026-06-27*
+## [Le ministre de l'éducation préside l'ouverture de la deuxième édition des Olympiades ... - TAP](https://www.tap.info.tn/fr/Portail-Société/20338800-le-ministre-de)  
+*Source : tap.info.tn | Publication : 2026-06-28*
 
-- Près de 80 personnes se sont réunies au Logis de Sorlut pour une réunion d’information sur la sécurité numérique et la prévention des cambriolages, animée par des représentants du groupement de La Rochelle et de la brigade de Cozes Jeudi 18 juin, à l’initiative de la municipalité de Cozes, près de 80 personnes se sont réunies au Logis de Sorlut pour assister à une réunion consacrée à la cybercriminalité, aux cambriolages.
-- Jeudi 18 juin, à l’initiative de la municipalité de Cozes, près de 80 personnes se sont réunies au Logis de Sorlut pour assister à une réunion consacrée à la cybercriminalité, aux cambriolages et aux agressions diverses.
+- cybersécurité , après l'organisation de la première édition à... Plus.
+- Mises à jour Twitter, Inscription à la newsletter, Contactez-nous.
+- Pour recevoir.
 
-## [IA et <b>cybersécurité</b> - Tunis](https://www.tap.info.tn/fr/Portail_Veille-et-Suivi/20336387-ia-et-cybersécurité)  
-*Source : tap.info.tn | Publication : 2026-06-27*
+## [Le gel de Mythos chez Anthropic ouvre la porte aux challengers asiatiques Sakana AI et 360](https://yellow.com/fr/news/le-gel-de-mythos-chez-anthropic-ouvre-la-porte-aux-challengers-asiatiques-sakana-ai-et-360)  
+*Source : yellow.com | Publication : 2026-06-28*
 
-- IA et cybersécurité : un expert alerte sur la manipulation algorithmique et réclame un cadre législatif d'urgence.
-- 27/.
+- Des entreprises d’IA asiatiques s’engouffrent dans le vide laissé par Anthropic, tandis que les contrôles à l’exportation américains maintiennent Mythos et Fable 5 hors de portée du reste du monde.
+- Points clés : Sakana AI a lancé Fugu comme modèle d’orchestration pour les entreprises et agences japonaises.
+- - La société chinoise de cybersécurité 360 aurait présenté Tulongfeng et Yitianzhen pour la découverte de vulnérabilités et la cyberdéfense.
+- - Ces lancements montrent comment les limites à l’exportation peuvent pousser les acheteurs étrangers vers des systèmes d’IA locaux.
 
-## [<b>Cybersécurité</b>: Les outils d'IA externes bloqués dans les hôpitaux publics](https://fr.timesofisrael.com/cybersecurite-les-outils-dia-externes-bloques-dans-les-hopitaux-publics/amp/)  
-*Source : fr.timesofisrael.com | Publication : 2026-06-27*
+## [Haute-Saône : 20 élèves de Seconde bouclent leur stage d'observation chez les gendarmes](https://info.fr/haute-saone-20-eleves-seconde-stage-observation-gendarmes-vesoul/)  
+*Source : info.fr | Publication : 2026-06-28*
 
-- Cybersécurité : Les outils d'IA externes bloqués dans les hôpitaux publics.
-- Les personnels ne peuvent plus accéder à ChatGPT, Claude ou Gemini.
+- Haute-Saône : 20 élèves de Seconde bouclent leur stage d’observation chez les gendarmes Du 22 au 26 juin, vingt lycéens ont découvert les métiers de la gendarmerie lors d'un stage d'observation à Vesoul, clôturé par Catherine Ridard, IA-DASEN.
+- Le groupement de gendarmerie de la Haute-Saône a accueilli 20 élèves de Seconde pour un stage d'observation.
+- La cérémonie de clôture s'est déroulée en présence de Catherine Ridard, IA-DASEN.
+- Au programme sécurité routière, enquêtes judiciaires et cybercriminalité.
 
-## [Facturation électronique, <b>cybersécurité</b> et IA : le GRETA Grand Littoral accompagne les ...](https://www.nordlittoral.fr/290157/article/2026-06-27/facturation-electronique-cybersecurite-et-ia-le-greta-grand-littoral-accompagne)  
-*Source : nordlittoral.fr | Publication : 2026-06-27*
+## [Djeddah accueille la 3e Conférence internationale des études juridiques et de la charia en juillet](https://www.spa.gov.sa/fr/N2623231)  
+*Source : spa.gov.sa | Publication : 2026-06-28*
 
-- cybersécurité , d'intelligence artificielle ou encore de dématérialisation des procédures administratives.
-- Trois ateliers pratiques.
-- Après cette.
+- cybercriminalité , les finalités de la charia, la jurisprudence contemporaine, ainsi que plusieurs questions juridiques et intellectuelles.
 
-## [Redwood AI Corp. (CVE:AIRX) | - WebDisclosure](https://www.webdisclosure.com/article/redwood-ai-corp-cve-airx-redwood-ai-se-developpe-dans-la-cybersecurite-resistante-a-linformatique-quantique-avec-lacquisition-de-quantumiq-0RwmTSJgxwc)  
-*Source : webdisclosure.com | Publication : 2026-06-27*
+## [Renault : pourquoi le constructeur devrait supprimer 800 postes d'ingénieurs d'ici 2027 ?](https://www.autojournal.fr/info-marque/renault-pourquoi-le-constructeur-devrait-supprimer-800-postes-dingenieurs-dici-2027-417308.html)  
+*Source : autojournal.fr | Publication : 2026-06-28*
 
-- on Redwood AI Corp. (CVE:AIRX) Redwood AI se développe dans la cybersécurité résistante à l'informatique quantique avec l'acquisition de Quantum.IQ.
-- Redwood AI Corp a annoncé la conclusion d'un accord définitif portant sur l'acquisition de Quantum.IQ Technologies Inc.
-- Cette opération marque l'expansion de Redwood dans le domaine de la cybersécurité résistante aux attaques quantiques, complétant ainsi son expertise en intelligence artificielle et en technologies de calcul avancées.
-- L'acquisition prévoit l'émission d'actions Redwood d'une valeur approximative de 2,98 $ chacune au profit des actionnaires de Quantum.IQ.
+- Renault : pourquoi le constructeur devrait supprimer 800 postes d’ingénieurs d’ici 2027 ?.
+- Renault s’apprête à engager une profonde réorganisation de ses activités de recherche et développement.
+- D’ici 2027, le constructeur français prévoit la suppression de 800 postes d’ingénieurs, tout en renforçant ses investissements dans l’électrique, l’intelligence artificielle et la cybersécurité pour rester compétitif face à la montée en puissance de la Chine.
+- Le constructeur au losange, Renault, va se séparer de 800 ingénieurs en recherche et développement en France d’ici 2027.
 
-## [Coupe du Monde 2026 : le VPN à -80% indispensable pour vos déplacements pro - Capital](https://www.capital.fr/conso/coupe-du-monde-2026-le-vpn-a-80-indispensable-pour-vos-deplacements-pro-1527946)  
-*Source : capital.fr | Publication : 2026-06-27*
+## [IA et <b>cybersécurité</b> : un expert alerte réclame un cadre législatif | African Manager](https://africanmanager.com/ia-et-cybersecurite-un-expert-alerte-sur-la-manipulation-algorithmique-et-reclame-un-cadre-legislatif-durgence/)  
+*Source : africanmanager.com | Publication : 2026-06-28*
 
-- Amérique du Nord et déplacements pro : l'impératif cybersécurité Pour les décideurs, entrepreneurs et grands voyageurs, concilier l'agenda professionnel avec la Coupe du Monde 2026 peut s'avérer complexe.
-- Que vous soyez dans un lounge d'aéroport à Dubaï ou dans un hôtel à Tokyo, accéder à vos abonnements français (comme BeIN Sports ou TF1) est souvent rendu impossible par les restrictions géographiques.
-- S'en remettre à des flux illégaux est hors de question pour des raisons de sécurité évidentes.
-- La solution premium s'impose : ExpressVPN.
+- IA et cybersécurité : un expert alerte réclame un cadre législatif.
+- Par.
+- African Manager.
+- -.
 
-## [<b>Cybersécurité</b>: pourquoi les données sont mal protégées en Suisse - Watson](https://www.watson.ch/fr/suisse/economie/978020770-cybersecurite-pourquoi-les-donnees-sont-mal-protegees-en-suisse)  
-*Source : watson.ch | Publication : 2026-06-27*
+## [Bitdefender en promo : bloquer faux sites, malwares et paiements piégés pendant les soldes](https://www.lesnumeriques.com/antivirus/bitdefender-en-promo-bloquer-faux-sites-malwares-et-paiements-pieges-pendant-les-soldes-n258395.html)  
+*Source : lesnumeriques.com | Publication : 2026-06-28*
 
-- Ce que vous pouvez vraiment faire après une fuite de données Les médias rendent régulièrement compte de vols de données et de fuites informatiques, mais le silence retombe souvent très vite, même après la révélation d'affaires spectaculaires.
-- Les responsables des entreprises concernées en disent généralement le moins possible, souvent sur recommandation de la police.
-- Les autorités appelées à intervenir dans ce type de dossiers restent, elles aussi, discrètes.
-- Elles doivent préserver l'indépendance des enquêtes, respecter le secret de fonction et garantir les droits de l'ensemble des parties concernées.
+- Bitdefender en promo : bloquer faux sites, malwares et paiements piégés pendant les soldes Les périodes de soldes attirent autant les bonnes affaires que les tentatives de fraude.
+- Faux sites marchands, liens trompeurs, arnaques aux paiements ou logiciels malveillants profitent souvent de l’intensification des achats en ligne.
+- Bitdefender met justement l’accent sur une protection pensée pour accompagner ces usages sans compliquer la vie quotidienne.
+- L’éditeur, présent depuis plus de vingt ans dans la cybersécurité, propose plusieurs formules actuellement à moitié prix.
 
-## [Cyber et IA : après Anthropic, l'impressionnante contre-offensive de la Chine • FRANCE 24](https://www.youtube.com/watch?v=XVmM2mbg43s)  
-*Source : youtube.com | Publication : 2026-06-27*
+## [La Syrie participe à un séminaire sur le traçage des cryptomonnaies à Madrid](https://sana.sy/fr/economy/2314449/)  
+*Source : sana.sy | Publication : 2026-06-28*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Madrid, (SANA) La délégation du ministère syrien de l’Intérieur a pris part à un séminaire scientifique intitulé « Traçage des cryptomonnaies et financement de la criminalité en ligne » à l’Académie de police de Madrid en coopération avec l’Université Naïef et des experts dans la cybersécurité, les enquêtes financières et les crimes électroniques.
+- Le ministère de l’Intérieur a indiqué sur Telegram que la délégation syrienne, dirigée par le général Maher Mohammad Marei, directeur de l’école de police, comprenait plusieurs officiers.
+- Cette participation vise à renforcer la coopération internationale et l’échange d’expertises dans la lutte contre la criminalité organisée et les crimes émergents, ainsi qu’à s’informer sur les méthodes modernes de traçage des actifs numériques liés aux activités criminelles.
+- Selon le ministère, le séminaire a abordé les méthodes de suivi des cryptomonnaies criminelles, l’analyse criminelle numérique, la détection des transactions suspectes et la coopération internationale dans les enquêtes, ainsi que les technologies récentes de la lutte contre la cybercriminalité.
 
-## [PARIS : <b>Cybersécurité</b> - CoreView lance une solution pour maîtriser les risques d'accès sur ...](https://presseagence.fr/paris-cybersecurite-coreview-lance-une-solution-pour-maitriser-les-risques-dacces-sur-sharepoint-face-a-lia/)  
-*Source : presseagence.fr | Publication : 2026-06-27*
+## [Le plus grand risque cyber ne vient pas des hackers - Business AM - FR](https://fr.businessam.be/le-plus-grand-risque-cyber-ne-vient-pas-des-hackers/)  
+*Source : fr.businessam.be | Publication : 2026-06-28*
 
-- PARIS : Cybersécurité – CoreView lance une solution p… Partager : PARIS : Cybersécurité – CoreView lance une solution pour maîtriser les risques d’accès sur SharePoint face à l’IA Face aux risques de sécurité accrus par l’IA, CoreView lance « Control for SharePoint » pour aider les entreprises à maîtriser les accès aux données.
-- CoreView (https://www.coreview.com/), acteur majeur de la résilience des environnements Microsoft 365, a annoncé le 23 juin 2026 le lancement de sa nouvelle solution « CoreView Control for SharePoint ».
-- Cette initiative répond à une préoccupation croissante des entreprises : L’adoption massive de l’intelligence artificielle met en lumière des vulnérabilités de longue date liées au partage excessif de documents et à la complexité des autorisations au sein de SharePoint.
-- L’IA, un révélateur des failles de sécurité Les environnements SharePoint des grandes organisations peuvent héberger des centaines de millions de fichiers, dont les accès sont souvent devenus incontrôlables au fil des ans.
+- Les récentes cyberattaques qui ont touché des centaines d’organisations belges invitent une nouvelle fois à la réflexion.
+- Comment les hackers ont-ils réussi à s’introduire dans les systèmes ?.
+- Quelle vulnérabilité ont-ils exploitée ?.
+- Et surtout, comment éviter que cela ne se reproduise ?.
 
-## [IA: Washington réautorise partiellement l'accès au dernier modèle d'Anthropic, Mythos - RFI](https://www.rfi.fr/fr/économie/20260627-ia-washington-réautorise-partiellement-l-accès-au-dernier-modèle-d-anthropic-mythos)  
-*Source : rfi.fr | Publication : 2026-06-27*
+## [Palo Alto Networks Stock Is Up 110% From Its 52-Week Low. Here&amp;#8217 - TIKR.com](https://www.tikr.com/fr/blog/palo-alto-networks-stock-is-up-110-from-its-52-week-low-heres-whether-the-ai-security-rally-can-last?)  
+*Source : tikr.com | Publication : 2026-06-28*
 
-- IA: Washington réautorise partiellement l'accès au dernier modèle d’Anthropic, Mythos Après deux semaines de blocage inédit, le gouvernement américain a réautorisé, vendredi 26 juin 2026, Mythos 5, le modèle d'intelligence artificielle (IA) le plus puissant d'Anthropic, pour un petit cercle de partenaires uniquement américains.
-- Ce nouveau rebondissement vient illustrer la volonté de reprise en main de la Maison Blanche sur une technologie qui pourrait être utilisée à des fins malveillantes.
-- Publié le : L'exécutif américain est très vigilant au risque de piratage.
-- Le 12 juin dernier, Washington avait brutalement contraint le fleuron américain de l'intelligence artificielle Anthropic à couper l'accès à ses modèles les plus puissants – Mythos mais aussi Fable 5, ses deux modèles de pointe –, trois jours après leur lancement.
+- Chiffres clés de l'action PANW Performance de la semaine dernière : 6,22 % - Fourchette sur 52 semaines : de 139 $ à 302 $ - Cours cible selon le modèle d'évaluation : 360 $ - Potentiel de hausse implicite : +23 % au cours des 2,1 prochaines années - Évaluez vos actions préférées, comme PANW, grâce aux prévisions des analystes sur 5 ans avec le nouveau modèle de valorisation de TIKR >>> Palo Alto affiche un troisième trimestre exceptionnel et relève la barre pour l'ensemble de l'année Palo Alto Networks (PANW) a enregistré l’une des réactions boursières les plus nettes du secteur de la cybersécurité ce mois-ci.
+- La société a annoncé un chiffre d’affaires de 3,0 milliards de dollars pour son troisième trimestre fiscal , en hausse de 31 % par rapport à l’année précédente, et a revu à la hausse ses prévisions pour l’ensemble de l’exercice.
+- La direction a cité la demande liée à l’intelligence artificielle pour sa plateforme de cybersécurité comme principal moteur de croissance.
+- Ce chiffre d’affaires mérite d’être replacé dans son contexte.
 
-## [IA : Washington réautorise un accès limité au modèle Mythos d'Anthropic - l'Opinion](https://www.lopinion.fr/economie/ia-washington-reautorise-un-acces-limite-au-modele-mythos-danthropic)  
-*Source : lopinion.fr | Publication : 2026-06-27*
+## [JaiLIP - L'image piégée qui débride les IA qui voient - Korben](https://korben.info/image-piegee-jailbreak-ia-vision-langage.html)  
+*Source : korben.info | Publication : 2026-06-28*
 
-- IA : Washington réautorise un accès limité au modèle Mythos d’Anthropic Après deux semaines de blocage, voici Mythos, le modèle d’intelligence artificielle (IA) le plus puissant d’Anthropic, de nouveau (partiellement) sur les rails.
-- Mythos 5 a été réautorisé, vendredi 26 juin par le gouvernement américain.
-- Attention, cette remise en service ne concerne pour l’heure qu’un nombre restreint de « cyberdéfenseurs et opérateurs d’infrastructures » américains, selon Anthropic, valorisée à près de 1 000 milliards de dollars.
-- Les partenaires étrangers, dont des agences étatiques de cybersécurité en Europe et en Asie, n’ont à ce stade pas accès à Mythos 5.
+- JaiLIP - L'image piégée qui débride les IA qui voient Ce qu’il faut retenir Des chercheurs de Florida International University ont développé JaiLIP, une méthode qui forge des images imperceptiblement modifiées pour contourner les garde-fous des modèles vision-langage et les forcer à produire des réponses dangereuses.
+- - L'attaque a quasiment doublé la part de réponses dangereuses sur les modèles testés (BLIP-2 et MiniGPT-4), mais n'a pas été validée sur GPT-4V, Gemini ou autres gros modèles fermés.
+- - La nouveauté de JaiLIP réside dans sa recette d'optimisation qui rend l'image plus discrète à l'œil humain tout en restant plus efficace que les précédentes méthodes, ce qui en fait un canal d'attaque pertinent puisque les modèles qui traitent des images sont désormais omniprésents.
+- - Résumé généré par IA Md Jueal Mia et Hadi Amini, deux chercheurs de Florida International University , ont mis au point une méthode qu'ils ont baptisée JaiLIP qui permet de forger une image capable de contourner les garde-fous des LLM pour les jailbreaker.
 
-## [Drones, cyberdéfense et modernisation : Les grandes lignes de la feuille de route de la ...](https://www.yabiladi.com/articles/details/197549/drones-cyberdefense-modernisation-grandes-lignes)  
-*Source : yabiladi.com | Publication : 2026-06-27*
+## [2ème Olympiade Internationale de <b>Cybersécurité</b> 2026 à Yasmine Hammamet | Univers News](https://universnews.tn/2eme-olympiade-internationale-de-cybersecurite-2026-a-yasmine-hammamet/)  
+*Source : universnews.tn | Publication : 2026-06-28*
 
-- cybersécurité et l'élargissement des exercices conjoints.
-- Le texte.
-- Le projet de loi appelle à élargir des manœuvres comme African Lion afin d'y.
+- UniversNews (Cybersécurité) – Des élèves talentueux du secondaire du monde entier se réuniront, Du 27 juin au 2 juillet 2026, à Yasmine Hammamet, pour rivaliser, collaborer et repousser les limites de la défense numérique, dans le cadre de l’Olympiade internationale de cybersécurité (ICO), dans une compétition de cybersécurité la plus prestigieuse au monde pour les élèves du secondaire.
+- Des délégations de 20 pays se réunissent ce week-end pour un programme international de six jours comprenant deux journées de compétition officielles de 7 heures, ainsi que des cérémonies, des collaborations et des activités culturelles.
+- L’Olympiade internationale de cybersécurité (ICO) est une compétition mondiale de haut niveau qui réunit les meilleurs talents en cybersécurité du monde entier.
+- Fondée en 2025 à Singapour par le professeur Tan Sun Teck, l’ICO a été créée comme une plateforme internationale où des étudiants d’élite relèvent des défis de cybersécurité de pointe et interagissent avec des experts reconnus du domaine.
 
-## [Washington réautorise (en partie) l'accès au puissant modèle d'IA Mythos d'Anthropic](https://ici.radio-canada.ca/nouvelle/2265078/washington-reautorisation-acces-modele-ia-mythos-anthropic)  
-*Source : ici.radio-canada.ca | Publication : 2026-06-27*
+## [Un prélèvement de 69 € sera bientôt effectué ? Ne cliquez surtout pas sur ce bouton](https://www.01net.com/actualites/un-prelevement-de-69-e-sera-bientot-effectue-ne-cliquez-surtout-pas-sur-ce-bouton.html)  
+*Source : 01net.com | Publication : 2026-06-28*
 
-- Washington réautorise (en partie) l’accès au puissant modèle d’IA Mythos d’Anthropic Anthropic a des relations orageuses avec l'administration Trump depuis des mois.
-- Photo : Getty Images / AFP / RICCARDO MILANI Anthropic a annoncé vendredi avoir reçu l'autorisation du gouvernement américain pour remettre en service Mythos, son modèle d'intelligence artificielle le plus puissant, réputé capable de déceler des failles informatiques avec une acuité inédite, mais bloqué par Washington au nom de la sécurité nationale.
-- La remise en service ne bénéficiera pour l'instant qu'à un cercle restreint de cyberdéfenseurs et opérateurs d'infrastructures américains, dont Anthropic dit vouloir rétablir l'accès aussi vite que possible.
-- Les partenaires étrangers, notamment des agences de cybersécurité, restent privés d'accès à ce stade.
+- Ces derniers jours, plusieurs signalements ont été faits pour alerter sur la multiplication d’arnaques au prélèvement bancaire en France.
+- Ces mails usurpent l’identité d’établissements prestigieux ou de plateformes bien connues, et font croire aux victimes qu’elles seront prochainement débitées de 69 €, si rien n’est fait.
+- Mais en voulant annuler ce prélèvement, le piège se referme sur la victime.
+- Un faux prélèvement de 69 €, de vraies données confidentielles sur la victime Comme l’alerte la plateforme Signal Arnaques, une nouvelle arnaque au prélèvement bancaire cible actuellement la France.
 
-## [IA : l'arme secrète de la contre-offensive de Pékin - 27/06/2026 à 14:33 - AMP Boursorama](https://www.boursorama.com/videos/actualites-amp/ia-l-arme-secrete-de-la-contre-offensive-de-pekin-f94d5e8d41fd01e4096eb48ccc5fb8e1)  
-*Source : boursorama.com | Publication : 2026-06-27*
+## [Votre commissariat vous appelle ? Attention, c'est probablement une arnaque - 01net.com](https://www.01net.com/actualites/votre-commissariat-vous-appelle-attention-cest-probablement-une-arnaque.html)  
+*Source : 01net.com | Publication : 2026-06-28*
 
-- IA : l'arme secrète de la contre-offensive de Pékin information fournie par France 24 27/06/2026 à 14:33 Les États-Unis verrouillent l’accès à leurs meilleures IA ?.
-- La Chine, elle, a choisi de les offrir quasiment gratuitement au monde entier.
-- De Qwen à Kimi, en passant par Minimax ou GLM, les fleurons de la tech asiatique inondent le marché de modèles surpuissants, multimodaux et en libre accès qui bousculent la cybersécurité mondiale.
-- L’idée de Pékin ?.
+- La Police nationale alerte sur la prolifération d’une arnaque téléphonique particulièrement trompeuse, qui usurpe le véritable numéro de certains commissariats.
+- En voyant s’afficher le numéro de la police sur son téléphone, la victime baisse sa garde.
+- À l’autre bout du fil, l’arnaqueur joue sur l’image d’autorité des forces de l’ordre pour lui réclamer de l’argent.
+- Quand le vrai numéro de la police dissimule une redoutable arnaque La Police nationale de la Seine-Maritime alerte sur la prolifération d’une arnaque particulièrement trompeuse.
