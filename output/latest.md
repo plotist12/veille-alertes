@@ -1,157 +1,150 @@
-# Résumés – 2026-06-29
+# Résumés – 2026-06-30
 
 
-## [La SNCF et le CEA signent un accord-cadre de recherche sur le ferroviaire - CIO-online](https://www.cio-online.com/actualites/lire-la-sncf-et-le-cea-signent-un-accord-cadre-de-recherche-sur-le-ferroviaire-17117.html)  
-*Source : cio-online.com | Publication : 2026-06-28*
+## [Le coût de la cyberassurance augmente à mesure que les risques auxquels les ... - Crisis24](https://www.crisis24.com/fr/articles/le-cout-de-la-cyberassurance-augmente-a-mesure-que-les-risques-auxquels-les-entreprises-sont-confrontees-sintensifient)  
+*Source : crisis24.com | Publication : 2026-06-29*
 
-- La SNCF et le CEA signent un accord-cadre de recherche sur le ferroviaire À l'occasion de VivaTech, la SNCF et le CEA ont annoncé un accord-cadre de coopération destiné à développer des technologies innovantes au service de cas d'usage ferroviaire, en IA, en cybersécurité, en robotique, la SNCF passe un accord de coopération de laboratoires de recherche et développement technologiques communs avec le CEA.
-- PublicitéÀ l'occasion de VivaTech, la SNCF et le CEA ont annoncé un accord-cadre de coopération destiné à développer de nouvelles technologies appliquées au ferroviaire.
-- Les deux partenaires veulent mettre en place des laboratoires communs associant ingénieurs SNCF et chercheurs et scientifiques du CEA, afin de travailler sur certains cas d'usage métier.
-- À terme, les technologies développées dans ces laboratoires communs devront répondre à une question centrale pour la SNCF : comment rendre le système ferroviaire plus performant, tout en renforçant sa souveraineté technologique et en conservant les exigences propres à un service public de transport.
+- Analyse Le coût de la cyberassurance augmente à mesure que les risques auxquels les entreprises sont confrontées s’intensifient.
+- / 4 mins de lecture Auteur Responsable d’information et d’analyse, Cybersécurité Aller à Points clés Les assureurs cyber imposeront probablement des exigences plus strictes en matière d’évaluation des risques aux entreprises opérant dans des régions associées à une activité élevée d’espionnage cybernétique ou de rançongiciel.
+- - La fraude assistée par l’IA, les campagnes d’usurpation d’identité et les activités d’intrusion automatisées devraient remodeler les modèles de tarification de l’assurance, les pratiques de souscription et les normes de responsabilité.
+- - Les entreprises dépendantes de prestataires non encadrés, de systèmes industriels anciens ou d’environnements cloud fragmentés pourraient faire face à une hausse des primes et à des conditions de couverture plus restrictives.
 
-## [Chiffrement vs Police : « Le choix sera politique », prévient le patron de l'ANSSI - Interview](https://www.clubic.com/dossier-618682-interview-anssi.html)  
-*Source : clubic.com | Publication : 2026-06-28*
+## [ViewSonic VG2748A-2K : l'écran devient un levier de <b>cybersécurité</b> et de sobriété énergétique](https://lavienumerique.com/articles/210240/viewsonic-vg2748a-2k-lecran-devient-un-levier-de-cybersecurite-et-de-sobriete-energetique.html)  
+*Source : lavienumerique.com | Publication : 2026-06-29*
 
-- Dix signalements et quatre incidents traités chaque jour, 7 jours sur 7 : c'est le quotidien de l'ANSSI face à la menace cyber.
-- Son directeur général Vincent Strubel revient sur le débat autour du chiffrement, la dépendance technologique de la France et le calendrier de la migration post-quantique.
-- Polytechnicien et ingénieur général des Mines, Vincent Strubel a pris la direction de l'ANSSI, l'Agence nationale de la sécurité des systèmes d'information, le 4 janvier 2023, après quinze ans passés au sein de la maison.
-- Il a accepté de répondre à quelques-unes de nos questions sur plusieurs sujets sensibles : l'amendement visant à affaiblir le chiffrement dans la loi Narcotrafic, les restrictions américaines à l'export imposées à Anthropic, et l'avancement de la transposition de la directive NIS2, freinée par des demandes d'accès dérogatoires aux messageries.
+- Veuillez activer Javascript pour accéder au site web.
 
-## [Pour ne plus dépendre des géants américains, Chinon Vienne et Loire mise sur son data ...](https://www.lanouvellerepublique.fr/indre-et-loire/commune/anche-37/pour-ne-plus-dependre-des-geants-americains-chinon-vienne-et-loire-mise-sur-son-data-center-intercommunal-1782670109)  
-*Source : lanouvellerepublique.fr | Publication : 2026-06-28*
+## [Arrow signe un accord de distribution avec Motorola Solutions - ITchannel](https://itchannel.info/articles/210231/arrow-signe-un-accord-de-distribution-avec-motorola-solutions.html)  
+*Source : itchannel.info | Publication : 2026-06-29*
 
-- Pour ne plus dépendre des géants américains, Chinon Vienne et Loire mise sur son data center intercommunal AbonnésCet article est réservé aux abonnés numériques.
-- Sciences et technologies - Chinon Vienne et Loire - AbonnésCet article est réservé aux abonnés numériques.
-- En réaction à la décision du gouvernement américain le 12 juin 2026 de couper l’accès à l’intelligence artificielle (IA) californienne Anthropic pour tous les ressortissants non-américains, la communauté de communes Chinon Vienne et Loire (CCCVL) s’est saisie de ce sujet.
-- Elle a convoqué une commission jeudi 25 juin 2026, au cours de laquelle Thomas Hernault, conseiller communautaire délégué au numérique, à l’informatique, à la dématérialisation et à l’intelligence artificielle et expert sur le sujet, a pu sensibiliser ses collègues.
+- Veuillez activer Javascript.
 
-## [<b>Cybersécurité</b> : un « bouclier » protégeant la transformation numérique du pays.](https://www.vietnam.vn/fr/an-ninh-mang-la-chan-bao-ve-chuyen-doi-so-quoc-gia)  
-*Source : vietnam.vn | Publication : 2026-06-28*
+## [119 Edge qui promettaient des outils utiles, mais qui ont en réalité téléchargé des logiciels ...](https://www.malwarebytes.com/fr/blog/news/2026/06/119-edge-extensions-promised-useful-tools-instead-downloaded-malware)  
+*Source : malwarebytes.com | Publication : 2026-06-29*
 
-- La cybersécurité doit être la priorité absolue.
-- Lors d'une réunion thématique sur la transformation numérique du système politique , organisée par le Comité central de pilotage pour la science, la technologie, l'innovation et la transformation numérique, le secrétaire général et président To Lam a insisté sur la nécessité de garantir une cybersécurité robuste, la sécurité de l'information et la protection des données nationales.
-- Plus la transformation numérique est profonde et étendue, plus les risques d'insécurité de l'information, de fuites de données, de cyberattaques, de cybercriminalité, de fausses informations et de contenus malveillants sont élevés.
-- Les organismes doivent impérativement intégrer les exigences de sécurité dès la conception de tous leurs systèmes, bases de données et plateformes numériques, et non a posteriori.
+- Microsoft a supprimé 119 extensions de la boutique Edge , qui étaient toutes liées à une même campagne de logiciels publicitaires.
+- Dans un article intitulé «Inside StegoAd : Comment nous avons mis fin à une vaste campagne d'extensions malveillantes », les chercheurs de Microsoft expliquent en détail comment ils ont découvert et démantelé une campagne sophistiquée de logiciels malveillants qui exploitait des extensions de navigateur pour infecter les utilisateurs.
+- Selon Microsoft, cette campagne comprenait 119 extensions de navigateur malveillantes qui ont été téléchargées par 2,6 millions d'utilisateurs.
+- Toutes ces extensions promettaient – et offraient effectivement – une fonctionnalité de base : bloqueurs de publicités, VPN, traducteurs, logiciels de téléchargement de vidéos, calculatrices, extensions de bons de réduction, etc.
 
-## [Cette option SFR coûte 5€/mois, mais elle vous sera vite indispensable - Ariase](https://www.ariase.com/mobile/actualite/cette-option-sfr-coute-5-euro-mois-mais-elle-vous-sera-vite-indispensable)  
-*Source : ariase.com | Publication : 2026-06-28*
+## [Mali: le procureur s'oppose à la libération provisoire du journaliste Chahana Takiou ... - RFI](https://www.rfi.fr/fr/afrique/20260629-mali-le-procureur-s-oppose-à-la-libération-provisoire-du-journaliste-chahana-takiou-délibéré-le-6-juillet)  
+*Source : rfi.fr | Publication : 2026-06-29*
 
-- Le contexte Les chiffres donnent le vertige.
-- En 2025, plus de 450 000 crimes et délits numériques ont été enregistrés par les forces de sécurité en France, soit une hausse de 14% en un an.
-- La plateforme gouvernementale cybermalveillance.gouv.fr a franchi pour la première fois le cap du demi-million de victimes assistées, en hausse de 20% par rapport à 2024.
-- Et les tendances les plus récentes font froid dans le dos : les fraudes au virement ont bondi de 170%, - la fraude au faux conseiller bancaire a progressé de 159%, - et l'usurpation de numéro de téléphone a explosé de 517%.
+- Mali: le procureur s'oppose à la libération provisoire du journaliste Chahana Takiou, délibéré le 6 juillet Le journaliste malien Chahana Takiou comparaissait lundi 29 juin devant le pôle judiciaire spécialisé contre la cybercriminalité, à Bamako.
+- Emprisonné depuis le 8 juin, le directeur du journal 22 Septembre est accusé d'« atteinte au crédit de l'État à travers l'institution judiciaire » pour avoir dénoncé publiquement le détournement du droit de la presse par la justice malienne et par ce pôle anti-cybercriminalité devant lequel il sera jugé le 27 juillet.
+- Dans l'attente du procès, les avocats du journaliste ont demandé sa libération provisoire pour raisons de santé.
+- Le procureur s'y est opposé.
 
-## [Le ministre de l'éducation préside l'ouverture de la deuxième édition des Olympiades ... - TAP](https://www.tap.info.tn/fr/Portail-Titres-de-l-actualité/20338800-le-ministre-de)  
-*Source : tap.info.tn | Publication : 2026-06-28*
+## [17 septembre - Un CyberTour Haute-Garonne spécial Gestion de crise - ToulÉco](https://www.touleco.fr/Un-CyberTour-Haute-Garonne-special-Gestion-de-crise,52421)  
+*Source : touleco.fr | Publication : 2026-06-29*
 
-- cybersécurité.
-- 28/06/2026 16:26, TUNIS/Tunisie.
-- Tunis,28 juin (TAP)-Le ... cybersécurité , après l'organisation de la première édition à... Plus.
+- Organisé par ToulÉco Événements, le CyberTour s’arrête en Haute-Garonne le 17 septembre prochain.
+- L’objectif est « de sensibiliser les acteurs du département aux risques encourus face aux cyberattaques » en faisant le point sur l’état de la menace.
+- Les tables rondes, présentations et autres démos auront pour thématique le sujet suivant : "Gestion de crise : avant, pendant, après".
+- L’événement prendre place dans le cadre du CEA (Commissariat à l’énergie atomique et aux énergies alternatives) en Occitanie, à Labège.
 
-## [Le ministre de l'éducation préside l'ouverture de la deuxième édition des Olympiades ... - TAP](https://www.tap.info.tn/fr/Portail-Société/20338800-le-ministre-de)  
-*Source : tap.info.tn | Publication : 2026-06-28*
+## [<b>Ransomware</b> : l'éphémère des marques et la permanence des liens | LeMagIT](https://www.lemagit.fr/actualites/366645185/Ransomware-lephemere-des-marques-et-la-permanence-des-liens)  
+*Source : lemagit.fr | Publication : 2026-06-29*
 
-- cybersécurité , après l'organisation de la première édition à... Plus.
-- Mises à jour Twitter, Inscription à la newsletter, Contactez-nous.
-- Pour recevoir.
+- beebright - stock.adobe.com Ransomware : l’éphémère des marques et la permanence des liens L’analyse de la menace des rançongiciels exige de dépasser l’identification des marques pour cartographier les liens opérationnels et les modèles d’affaires sous-jacents.
+- Les réseaux criminels les plus menaçants pour l’Union européenne (UE) ne se définissent plus uniquement par une étiquette de marque.
+- Si les enquêtes traditionnelles se sont historiquement concentrées sur le nom de la marque de ransomware, l’enseigne, ce modèle d’identification est insuffisant.
+- Les marques sont souvent éphémères, se renouvelant rapidement, mais elles masquent une structure sous-jacente remarquablement résiliente.
 
-## [Le gel de Mythos chez Anthropic ouvre la porte aux challengers asiatiques Sakana AI et 360](https://yellow.com/fr/news/le-gel-de-mythos-chez-anthropic-ouvre-la-porte-aux-challengers-asiatiques-sakana-ai-et-360)  
-*Source : yellow.com | Publication : 2026-06-28*
+## [OpenAI dévoile GPT-5.6 Sol, un nouveau modèle réservé aux partenaires approuvés par la ... - BDM](https://www.blogdumoderateur.com/openai-gpt-5-6-sol-modele-reserve-partenaires-approuves-maison-blanche/)  
+*Source : blogdumoderateur.com | Publication : 2026-06-29*
 
-- Des entreprises d’IA asiatiques s’engouffrent dans le vide laissé par Anthropic, tandis que les contrôles à l’exportation américains maintiennent Mythos et Fable 5 hors de portée du reste du monde.
-- Points clés : Sakana AI a lancé Fugu comme modèle d’orchestration pour les entreprises et agences japonaises.
-- - La société chinoise de cybersécurité 360 aurait présenté Tulongfeng et Yitianzhen pour la découverte de vulnérabilités et la cyberdéfense.
-- - Ces lancements montrent comment les limites à l’exportation peuvent pousser les acheteurs étrangers vers des systèmes d’IA locaux.
+- OpenAI dévoile GPT-5.6 Sol, un nouveau modèle réservé aux partenaires approuvés par la Maison-Blanche OpenAI dévoile sa nouvelle série de modèles intitulée GPT-5.6.
+- Sur demande de l’administration Trump, le lancement est limité à un petit groupe de partenaires américains sélectionnés.
+- OpenAI vient de dévoiler la série GPT-5.6, qui succède à GPT-5.5 avec des gains affichés en codage, biologie et cybersécurité.
+- Celle-ci est composée de trois modèles : Sol, Terra et Luna.
 
-## [Haute-Saône : 20 élèves de Seconde bouclent leur stage d'observation chez les gendarmes](https://info.fr/haute-saone-20-eleves-seconde-stage-observation-gendarmes-vesoul/)  
-*Source : info.fr | Publication : 2026-06-28*
+## [Mastercard lance un Centre d'excellence en <b>cybersécurité</b> pour l'Afrique | Zonebourse](https://www.zonebourse.com/actualite-bourse/mastercard-lance-un-centre-d-excellence-en-cybersecurite-pour-l-afrique-ce7f5fdfd88cf025)  
+*Source : zonebourse.com | Publication : 2026-06-29*
 
-- Haute-Saône : 20 élèves de Seconde bouclent leur stage d’observation chez les gendarmes Du 22 au 26 juin, vingt lycéens ont découvert les métiers de la gendarmerie lors d'un stage d'observation à Vesoul, clôturé par Catherine Ridard, IA-DASEN.
-- Le groupement de gendarmerie de la Haute-Saône a accueilli 20 élèves de Seconde pour un stage d'observation.
-- La cérémonie de clôture s'est déroulée en présence de Catherine Ridard, IA-DASEN.
-- Au programme sécurité routière, enquêtes judiciaires et cybercriminalité.
+- Mastercard a annoncé le lancement de son Centre d&#039;excellence en cybersécurité pour l&#039;Afrique, une initiative panafricaine conçue pour renforcer la cyber-résilience, accroître la collaboration et protéger la confiance qui sous-tend l&#039;économie numérique en pleine expansion du continent.
+- Ce Centre d&#039;excellence étend l&#039;expertise et le réseau de Mastercard, apportant des compétences et une intelligence de niveau mondial à l&#039;une des économies numériques les plus dynamiques au monde.
+- Le Centre d&#039;excellence en cybersécurité pour l&#039;Afrique a été créé pour soutenir le renforcement de la défense collective sur le continent en réunissant des institutions financières, des organisations du secteur public et des entreprises afin de partager des renseignements, d&#039;améliorer la préparation, d&#039;anticiper les menaces plus tôt et de bâtir une résilience durable.Cette initiative pluriannuelle sera pilotée par Mastercard.
+- Elle fera l&#039;objet d&#039;un déploiement progressif à partir de 2026, en commençant par l&#039;Afrique du Sud et le Nigeria.
 
-## [Djeddah accueille la 3e Conférence internationale des études juridiques et de la charia en juillet](https://www.spa.gov.sa/fr/N2623231)  
-*Source : spa.gov.sa | Publication : 2026-06-28*
+## [IA, phishing, faux sites : les marques face au défi de l'identité numérique](https://www.journaldunet.com/cybersecurite/1551739-ia-phishing-faux-sites-les-marques-face-au-defi-de-l-identite-numerique/)  
+*Source : journaldunet.com | Publication : 2026-06-29*
 
-- cybercriminalité , les finalités de la charia, la jurisprudence contemporaine, ainsi que plusieurs questions juridiques et intellectuelles.
+- IA, phishing, faux sites : les marques face au défi de l'identité numérique À l'heure où l'IA brouille les repères et où les faux sites se multiplient, les marques font face à un défi majeur : être visibles ne suffit plus, encore faut-il être identifiées comme légitimes.
+- Pendant vingt ans, les entreprises ont surtout cherché à être visibles en ligne.
+- Être bien référencé, apparaître dans les premiers résultats, occuper les plateformes : cette logique a structuré une grande partie des stratégies numériques.
+- Elle conserve sa valeur, mais elle ne répond plus à la question qui s’impose aujourd’hui : comment prouver qu’une marque est bien celle qu’elle prétend être ?.
 
-## [Renault : pourquoi le constructeur devrait supprimer 800 postes d'ingénieurs d'ici 2027 ?](https://www.autojournal.fr/info-marque/renault-pourquoi-le-constructeur-devrait-supprimer-800-postes-dingenieurs-dici-2027-417308.html)  
-*Source : autojournal.fr | Publication : 2026-06-28*
+## [L'ESN Numeryx décroche la double certification ISO 9001 et ISO 27001 - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-actualites/lesn-numeryx-decroche-la-double-certification-iso-9001-et-iso-27001/)  
+*Source : itsocial.fr | Publication : 2026-06-29*
 
-- Renault : pourquoi le constructeur devrait supprimer 800 postes d’ingénieurs d’ici 2027 ?.
-- Renault s’apprête à engager une profonde réorganisation de ses activités de recherche et développement.
-- D’ici 2027, le constructeur français prévoit la suppression de 800 postes d’ingénieurs, tout en renforçant ses investissements dans l’électrique, l’intelligence artificielle et la cybersécurité pour rester compétitif face à la montée en puissance de la Chine.
-- Le constructeur au losange, Renault, va se séparer de 800 ingénieurs en recherche et développement en France d’ici 2027.
+- L’ESN Numeryx a obtenu les certifications ISO 9001 et ISO 27001, qui portent respectivement sur le management de la qualité et sur la sécurité de l’information.
+- Le groupe rejoint les prestataires qui font de la conformité documentée un argument commercial, à l’heure où les donneurs d’ordre intègrent ces référentiels à leurs critères de sélection.
+- La certification ISO 9001 atteste de l’organisation des processus de l’entreprise au regard d’attentes clients formalisées, avec une exigence d’amélioration continue.
+- La certification ISO 27001 porte sur le système de management de la sécurité de l’information, c’est-à-dire l’identification des risques, la protection des données et la traçabilité des mesures.
 
-## [IA et <b>cybersécurité</b> : un expert alerte réclame un cadre législatif | African Manager](https://africanmanager.com/ia-et-cybersecurite-un-expert-alerte-sur-la-manipulation-algorithmique-et-reclame-un-cadre-legislatif-durgence/)  
-*Source : africanmanager.com | Publication : 2026-06-28*
+## [Chaînes d'approvisionnement : « Le défi n'est pas de collecter davantage de données, mais ...](https://www.solutions-numeriques.com/chaines-dapprovisionnement-le-defi-nest-pas-de-collecter-davantage-de-donnees-mais-de-comprendre-les-dependances-critiques/)  
+*Source : solutions-numeriques.com | Publication : 2026-06-29*
 
-- IA et cybersécurité : un expert alerte réclame un cadre législatif.
-- Par.
-- African Manager.
-- -.
+- Les tensions géopolitiques, les restrictions commerciales et les perturbations logistiques rappellent aux entreprises que leurs chaînes d’approvisionnement ne fonctionnent plus comme des structures linéaires, mais comme des réseaux complexes.
+- Pour Chris Upkes, ingénieur conseil chez Neo4j, l’enjeu n’est pas seulement d’identifier les fournisseurs directs, mais de comprendre les relations qui relient composants, sites, stocks, partenaires logistiques et clients afin d’anticiper les effets en cascade.
+- SNC : Les récentes tensions géopolitiques ont mis en lumière la fragilité des chaînes d’approvisionnement mondiales.
+- Selon vous, quels sont aujourd’hui les principaux angles morts auxquels les entreprises sont confrontées lorsqu’il s’agit de comprendre leurs dépendances critiques ?.
 
-## [Bitdefender en promo : bloquer faux sites, malwares et paiements piégés pendant les soldes](https://www.lesnumeriques.com/antivirus/bitdefender-en-promo-bloquer-faux-sites-malwares-et-paiements-pieges-pendant-les-soldes-n258395.html)  
-*Source : lesnumeriques.com | Publication : 2026-06-28*
+## [Coreview renforce les accès à Sharepoint - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/65032-coreview-renforce-les-acces-a-sharepoint.html)  
+*Source : linformaticien.com | Publication : 2026-06-29*
 
-- Bitdefender en promo : bloquer faux sites, malwares et paiements piégés pendant les soldes Les périodes de soldes attirent autant les bonnes affaires que les tentatives de fraude.
-- Faux sites marchands, liens trompeurs, arnaques aux paiements ou logiciels malveillants profitent souvent de l’intensification des achats en ligne.
-- Bitdefender met justement l’accent sur une protection pensée pour accompagner ces usages sans compliquer la vie quotidienne.
-- L’éditeur, présent depuis plus de vingt ans dans la cybersécurité, propose plusieurs formules actuellement à moitié prix.
+- L'éditeur de solutions de sécurité et de résilience pour les tenants Microsoft ajoute Control for SharePoint à sa plate-forme.
 
-## [La Syrie participe à un séminaire sur le traçage des cryptomonnaies à Madrid](https://sana.sy/fr/economy/2314449/)  
-*Source : sana.sy | Publication : 2026-06-28*
+## [Un puissant organisme allemand redoute une concurrence de plus en plus déloyale entre ...](https://www.automobile-magazine.fr/fiabilite-rappels/article/52352-un-puissant-organisme-allemand-redoute-une-concurrence-de-plus-en-plus-deloyale-entre-concessionnaires-et-garages-independants)  
+*Source : automobile-magazine.fr | Publication : 2026-06-29*
 
-- Madrid, (SANA) La délégation du ministère syrien de l’Intérieur a pris part à un séminaire scientifique intitulé « Traçage des cryptomonnaies et financement de la criminalité en ligne » à l’Académie de police de Madrid en coopération avec l’Université Naïef et des experts dans la cybersécurité, les enquêtes financières et les crimes électroniques.
-- Le ministère de l’Intérieur a indiqué sur Telegram que la délégation syrienne, dirigée par le général Maher Mohammad Marei, directeur de l’école de police, comprenait plusieurs officiers.
-- Cette participation vise à renforcer la coopération internationale et l’échange d’expertises dans la lutte contre la criminalité organisée et les crimes émergents, ainsi qu’à s’informer sur les méthodes modernes de traçage des actifs numériques liés aux activités criminelles.
-- Selon le ministère, le séminaire a abordé les méthodes de suivi des cryptomonnaies criminelles, l’analyse criminelle numérique, la détection des transactions suspectes et la coopération internationale dans les enquêtes, ainsi que les technologies récentes de la lutte contre la cybercriminalité.
+- Faut-il absolument faire entretenir sa voiture dans le réseau agréé par le constructeur ?.
+- Cette question, beaucoup d'automobilistes se la posent.
+- D'un côté, les concessionnaires sont de plus en plus boudés par les Français en raison de leurs tarifs jugés trop élevés.
+- De l'autre, les politiques de garantie longue durée comportent souvent des clauses visant à rendre les clients captifs.
 
-## [Le plus grand risque cyber ne vient pas des hackers - Business AM - FR](https://fr.businessam.be/le-plus-grand-risque-cyber-ne-vient-pas-des-hackers/)  
-*Source : fr.businessam.be | Publication : 2026-06-28*
+## [Exclusive Networks renforce sa direction financière - Fortuneo Bourse](https://bourse.fortuneo.fr/actualites/exclusive-networks-renforce-sa-direction-financiere-5714115)  
+*Source : bourse.fortuneo.fr | Publication : 2026-06-29*
 
-- Les récentes cyberattaques qui ont touché des centaines d’organisations belges invitent une nouvelle fois à la réflexion.
-- Comment les hackers ont-ils réussi à s’introduire dans les systèmes ?.
-- Quelle vulnérabilité ont-ils exploitée ?.
-- Et surtout, comment éviter que cela ne se reproduise ?.
+- Exclusive Networks, spécialiste mondial de la mise sur le marché de solutions de cybersécurité, annonce la nomination de Sergio Amodeo au poste de Directeur Financier Groupe, avec effet immédiat.
+- Sergio Amodeo rejoint le Comité Exécutif du Groupe et reportera à Jesper Trolle, Directeur Général d'Exclusive Networks.
+- Sergio Amodeo rejoint Exclusive Networks en provenance de Nexture, où il occupait les fonctions de Directeur Financier Groupe et membre du Conseil d'Administration.
+- Précédemment, il a exercé les fonctions de Directeur Financier Groupe chez Radisson Hospitality et TeamSystem, après avoir occupé des postes de direction financière chez Danone et Procter & Gamble.
 
-## [Palo Alto Networks Stock Is Up 110% From Its 52-Week Low. Here&amp;#8217 - TIKR.com](https://www.tikr.com/fr/blog/palo-alto-networks-stock-is-up-110-from-its-52-week-low-heres-whether-the-ai-security-rally-can-last?)  
-*Source : tikr.com | Publication : 2026-06-28*
+## [IA : comment Le Vecteur « rend plus visible » la politique RSE des entreprises - Placéco](https://www.placeco.fr/nouvelle-aquitaine/strategie/article/ia-comment-le-vecteur-rend-plus-visible-la-politique-rse-des-entreprises-10406)  
+*Source : placeco.fr | Publication : 2026-06-29*
 
-- Chiffres clés de l'action PANW Performance de la semaine dernière : 6,22 % - Fourchette sur 52 semaines : de 139 $ à 302 $ - Cours cible selon le modèle d'évaluation : 360 $ - Potentiel de hausse implicite : +23 % au cours des 2,1 prochaines années - Évaluez vos actions préférées, comme PANW, grâce aux prévisions des analystes sur 5 ans avec le nouveau modèle de valorisation de TIKR >>> Palo Alto affiche un troisième trimestre exceptionnel et relève la barre pour l'ensemble de l'année Palo Alto Networks (PANW) a enregistré l’une des réactions boursières les plus nettes du secteur de la cybersécurité ce mois-ci.
-- La société a annoncé un chiffre d’affaires de 3,0 milliards de dollars pour son troisième trimestre fiscal , en hausse de 31 % par rapport à l’année précédente, et a revu à la hausse ses prévisions pour l’ensemble de l’exercice.
-- La direction a cité la demande liée à l’intelligence artificielle pour sa plateforme de cybersécurité comme principal moteur de croissance.
-- Ce chiffre d’affaires mérite d’être replacé dans son contexte.
+- IA : comment Le Vecteur « rend plus visible » la politique RSE des entreprises - Premium Stratégie lundi 29 juin 2026 Laurent Bareille, responsable de produit ; et Mathieu Naud, fondateur du Vecteur.
+- Crédits : MBC La startup bordelaise Le Vecteur a conçu une plateforme numérique mêlant IA et RSE.
+- L’objectif ?.
+- « Faire coller les exigences de responsabilité sociétale à ce que font déjà les sociétés ».
 
-## [JaiLIP - L'image piégée qui débride les IA qui voient - Korben](https://korben.info/image-piegee-jailbreak-ia-vision-langage.html)  
-*Source : korben.info | Publication : 2026-06-28*
+## [Check Point intègre les modèles d'IA d'OpenAI à ses solutions de sécurité - ICTjournal](https://www.ictjournal.ch/news/2026-06-29/check-point-integre-les-modeles-dia-dopenai-a-ses-solutions-de-securite)  
+*Source : ictjournal.ch | Publication : 2026-06-29*
 
-- JaiLIP - L'image piégée qui débride les IA qui voient Ce qu’il faut retenir Des chercheurs de Florida International University ont développé JaiLIP, une méthode qui forge des images imperceptiblement modifiées pour contourner les garde-fous des modèles vision-langage et les forcer à produire des réponses dangereuses.
-- - L'attaque a quasiment doublé la part de réponses dangereuses sur les modèles testés (BLIP-2 et MiniGPT-4), mais n'a pas été validée sur GPT-4V, Gemini ou autres gros modèles fermés.
-- - La nouveauté de JaiLIP réside dans sa recette d'optimisation qui rend l'image plus discrète à l'œil humain tout en restant plus efficace que les précédentes méthodes, ce qui en fait un canal d'attaque pertinent puisque les modèles qui traitent des images sont désormais omniprésents.
-- - Résumé généré par IA Md Jueal Mia et Hadi Amini, deux chercheurs de Florida International University , ont mis au point une méthode qu'ils ont baptisée JaiLIP qui permet de forger une image capable de contourner les garde-fous des LLM pour les jailbreaker.
+- Check Point intègre les modèles d’IA d’OpenAI à ses solutions de sécurité Check Point élargit son partenariat avec OpenAI.
+- Grâce à cette collaboration, l’éditeur israélien de cybersécurité pourra intégrer les modèles d’intelligence artificielle d’OpenAI à ses produits afin de renforcer la détection et la prévention des cybermenaces.
+- Check Point renforce sa collaboration avec OpenAI.
+- Dans un communiqué, le spécialiste israélien de la cybersécurité indique que ce partenariat lui permettra d’intégrer les modèles d’OpenAI à ses solutions de sécurité afin de renforcer ses capacités de cyberdéfense.
 
-## [2ème Olympiade Internationale de <b>Cybersécurité</b> 2026 à Yasmine Hammamet | Univers News](https://universnews.tn/2eme-olympiade-internationale-de-cybersecurite-2026-a-yasmine-hammamet/)  
-*Source : universnews.tn | Publication : 2026-06-28*
+## [L'INSEE victime d'une cyberattaque exposant l'identité et les coordonnées de 12 800 agents](https://itsocial.fr/cybersecurite/cybersecurite-actualites/linsee-victime-dune-cyberattaque-exposant-lidentite-et-les-coordonnees-de-12-800-agents/)  
+*Source : itsocial.fr | Publication : 2026-06-29*
 
-- UniversNews (Cybersécurité) – Des élèves talentueux du secondaire du monde entier se réuniront, Du 27 juin au 2 juillet 2026, à Yasmine Hammamet, pour rivaliser, collaborer et repousser les limites de la défense numérique, dans le cadre de l’Olympiade internationale de cybersécurité (ICO), dans une compétition de cybersécurité la plus prestigieuse au monde pour les élèves du secondaire.
-- Des délégations de 20 pays se réunissent ce week-end pour un programme international de six jours comprenant deux journées de compétition officielles de 7 heures, ainsi que des cérémonies, des collaborations et des activités culturelles.
-- L’Olympiade internationale de cybersécurité (ICO) est une compétition mondiale de haut niveau qui réunit les meilleurs talents en cybersécurité du monde entier.
-- Fondée en 2025 à Singapour par le professeur Tan Sun Teck, l’ICO a été créée comme une plateforme internationale où des étudiants d’élite relèvent des défis de cybersécurité de pointe et interagissent avec des experts reconnus du domaine.
+- L’INSEE a révélé une attaque informatique contre son annuaire interne des agents, qui a entraîné une violation de données personnelles.
+- L’incident a touché l’identité et les coordonnées professionnelles d’environ 12 800 personnes travaillant ou ayant travaillé à l’institut.
+- Selon l’INSEE, aucune donnée sensible et aucune donnée statistique collectée auprès des entreprises ou des particuliers n’a été compromise.
+- L’Institut national de la statistique et des études économiques a détecté l’incident le 19 juin et pris des mesures immédiates pour stopper l’attaque.
 
-## [Un prélèvement de 69 € sera bientôt effectué ? Ne cliquez surtout pas sur ce bouton](https://www.01net.com/actualites/un-prelevement-de-69-e-sera-bientot-effectue-ne-cliquez-surtout-pas-sur-ce-bouton.html)  
-*Source : 01net.com | Publication : 2026-06-28*
+## [Virkkunen, vice-président exécutif, décerne des prix à des projets visant à renforcer les ...](https://digital-strategy.ec.europa.eu/fr/news/executive-vice-president-virkkunen-presents-awards-projects-boosting-digital-skills)  
+*Source : digital-strategy.ec.europa.eu | Publication : 2026-06-29*
 
-- Ces derniers jours, plusieurs signalements ont été faits pour alerter sur la multiplication d’arnaques au prélèvement bancaire en France.
-- Ces mails usurpent l’identité d’établissements prestigieux ou de plateformes bien connues, et font croire aux victimes qu’elles seront prochainement débitées de 69 €, si rien n’est fait.
-- Mais en voulant annuler ce prélèvement, le piège se referme sur la victime.
-- Un faux prélèvement de 69 €, de vraies données confidentielles sur la victime Comme l’alerte la plateforme Signal Arnaques, une nouvelle arnaque au prélèvement bancaire cible actuellement la France.
+- L'événement, ouvert au public, verra également le lancement de nouvelles académies des compétences numériques dans les mondes virtuels, l'intelligence quantique et artificielle pour combler les lacunes critiques en matière de talents.
+- Doter les citoyens de compétences numériques est une composante essentielle de la décennie numérique de l’Europe, qui vise à fournir à 80 % des adultes des compétences numériques de base et à disposer d’au moins 20 millions de spécialistes des technologies de l’information et de la communication (TIC) en Europe d’ici à 2030.
+- Le dernier rapport sur l’état d’avancement de la décennie numérique, publié le 16 juin, a montré que si plus de 60 % des Européens possèdent désormais des compétences numériques de base, il reste encore beaucoup à faire pour accroître le nombre de spécialistes des TIC en Europe, en particulier les femmes dans ce domaine.
+- Les Journées européennes des compétences numériques marqueront également le lancement d’une coalition pour les compétences en matière de cybersécurité, le consortium européen pour les infrastructures numériques, afin de soutenir les travaux de l’actuelle académie des compétences en matière de cybersécurité.
 
-## [Votre commissariat vous appelle ? Attention, c'est probablement une arnaque - 01net.com](https://www.01net.com/actualites/votre-commissariat-vous-appelle-attention-cest-probablement-une-arnaque.html)  
-*Source : 01net.com | Publication : 2026-06-28*
+## [WALLIX et Inria s'associent pour l'IA en <b>cybersécurité</b> - J'aime les startups](https://www.jaimelesstartups.fr/news/wallix-et-inria-sassocient-pour-lia-en-cybersecurite/)  
+*Source : jaimelesstartups.fr | Publication : 2026-06-29*
 
-- La Police nationale alerte sur la prolifération d’une arnaque téléphonique particulièrement trompeuse, qui usurpe le véritable numéro de certains commissariats.
-- En voyant s’afficher le numéro de la police sur son téléphone, la victime baisse sa garde.
-- À l’autre bout du fil, l’arnaqueur joue sur l’image d’autorité des forces de l’ordre pour lui réclamer de l’argent.
-- Quand le vrai numéro de la police dissimule une redoutable arnaque La Police nationale de la Seine-Maritime alerte sur la prolifération d’une arnaque particulièrement trompeuse.
+- WALLIX et Inria unissent recherche et cybersécurité pour développer une IA souveraine, ciblant identités, accès et conformité automatisée.
