@@ -1,150 +1,144 @@
-# Résumés – 2026-06-30
+# Résumés – 2026-07-01
 
 
-## [Le coût de la cyberassurance augmente à mesure que les risques auxquels les ... - Crisis24](https://www.crisis24.com/fr/articles/le-cout-de-la-cyberassurance-augmente-a-mesure-que-les-risques-auxquels-les-entreprises-sont-confrontees-sintensifient)  
-*Source : crisis24.com | Publication : 2026-06-29*
+## [Le directeur de la CIA compare l'IA de pointe à des &quot;armes nucléaires numériques&quot;](https://actu.orange.fr/economie/le-directeur-de-la-cia-compare-l-ia-de-pointe-a-des-quot-armes-nucleaires-numeriques-quot-CNT000002qgj79.html)  
+*Source : actu.orange.fr | Publication : 2026-06-30*
 
-- Analyse Le coût de la cyberassurance augmente à mesure que les risques auxquels les entreprises sont confrontées s’intensifient.
-- / 4 mins de lecture Auteur Responsable d’information et d’analyse, Cybersécurité Aller à Points clés Les assureurs cyber imposeront probablement des exigences plus strictes en matière d’évaluation des risques aux entreprises opérant dans des régions associées à une activité élevée d’espionnage cybernétique ou de rançongiciel.
-- - La fraude assistée par l’IA, les campagnes d’usurpation d’identité et les activités d’intrusion automatisées devraient remodeler les modèles de tarification de l’assurance, les pratiques de souscription et les normes de responsabilité.
-- - Les entreprises dépendantes de prestataires non encadrés, de systèmes industriels anciens ou d’environnements cloud fragmentés pourraient faire face à une hausse des primes et à des conditions de couverture plus restrictives.
+- Le directeur de la CIA compare l'IA de pointe à des "armes nucléaires numériques" © Kent NISHIMURA, AFP - Le directeur de la CIA John Ratcliffe à la Maison Blanche à Washington le 27 mai 2026 Le directeur de la CIA, John Ratcliffe, a comparé mardi les capacités des modèles d'intelligence artificielle (IA) les plus avancés à des "armes nucléaires numériques", lors d'une rare prise de parole publique à Washington.
+- "Il ne serait pas déplacé, comme nous l'avons évoqué, de comparer leurs capacités à des armes nucléaires numériques", a déclaré M. Ratcliffe, en rapportant ses échanges à ce sujet avec les conseillers du président Donald Trump.
+- Le plus haut responsable du renseignement extérieur américain assume publiquement cette analogie avec l'arme nucléaire au moment où l'administration Trump vient d'opérer une reprise en main inédite de cette technologie, en invoquant la sécurité nationale.
+- Le 12 juin, Washington a contraint Anthropic, un fleuron américain de l'IA basé à San Francisco, à couper l'accès à ses deux modèles les plus puissants, Mythos 5 et Fable 5, en lui imposant un "contrôle d'exportation".
 
-## [ViewSonic VG2748A-2K : l'écran devient un levier de <b>cybersécurité</b> et de sobriété énergétique](https://lavienumerique.com/articles/210240/viewsonic-vg2748a-2k-lecran-devient-un-levier-de-cybersecurite-et-de-sobriete-energetique.html)  
-*Source : lavienumerique.com | Publication : 2026-06-29*
+## [Tech &amp; Co Business - Mardi 30 juin - BFM](https://www.bfmtv.com/economie/replay-emissions/01-business/video-tech-co-business-mardi-30-juin_VN-202606300984.html)  
+*Source : bfmtv.com | Publication : 2026-06-30*
 
-- Veuillez activer Javascript pour accéder au site web.
+- Tech & Co Business - Mardi 30 juin Ce mardi 30 juin, Frédéric Simottel a reçu Gérôme Billois, associé en cybersécurité et confiance numérique au sein du cabinet Wavestone, Éric Haddad, président exécutif de Numspot, Vincent Champain, président de l’Observatoire du Long Terme, patron du digital chez Framatome, Emmanuel Vignon, vice-président engineering head of AI chez Generix, et Érik Campanini, associé chez Alixio Group, dans l'émission Tech&Co Business sur BFM Business.
+- Retrouvez l'émission le samedi et réécoutez la en podcast.
+- | Durée : 57:58.
 
-## [Arrow signe un accord de distribution avec Motorola Solutions - ITchannel](https://itchannel.info/articles/210231/arrow-signe-un-accord-de-distribution-avec-motorola-solutions.html)  
-*Source : itchannel.info | Publication : 2026-06-29*
+## [Cyber : l'âge d'or des startups, un défi de croissance - 30/06 - BFM](https://www.bfmtv.com/economie/replay-emissions/01-business/video-cyber-l-age-d-or-des-startups-un-defi-de-croissance-30-06_VN-202606300962.html)  
+*Source : bfmtv.com | Publication : 2026-06-30*
+
+- Cyber : l’âge d’or des startups, un défi de croissance - 30/06 Ce mardi 30 juin, Gérôme Billois, associé en cybersécurité et confiance numérique au sein du cabinet Wavestone s'est penché sur le Radar des startups cybersécurité françaises 2026, dans l'émission Tech&Co Business présentée par Frédéric Simottel.
+- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.
+- | Durée : 10:58.
+
+## [Un film décalé pour un opérateur qui joue la carte de la transparence - CÉLESTE - Isoskèle](https://lareclame.fr/isoskele/realisations/un-film-decale-pour-un-operateur-qui-joue-la-carte-de-la-transparence)  
+*Source : lareclame.fr | Publication : 2026-06-30*
+
+- L'agence St Johns Isoskele dévoile la nouvelle campagne de Céleste, solutions telecoms, Cloud et cybersécurité pour les entreprises.
+
+## [Tenable rejoint le programme de partenaires <b>cybersécurité</b> OpenAI Daybreak - ITRnews](https://itrnews.com/articles/210256/tenable-rejoint-le-programme-de-partenaires-cybersecurite-openai-daybreak.html)  
+*Source : itrnews.com | Publication : 2026-06-30*
 
 - Veuillez activer Javascript.
 
-## [119 Edge qui promettaient des outils utiles, mais qui ont en réalité téléchargé des logiciels ...](https://www.malwarebytes.com/fr/blog/news/2026/06/119-edge-extensions-promised-useful-tools-instead-downloaded-malware)  
-*Source : malwarebytes.com | Publication : 2026-06-29*
+## [Google active AI Overviews et AI Mode en France - Solutions-Numeriques](https://www.solutions-numeriques.com/google-active-ai-overviews-et-ai-mode-en-france/)  
+*Source : solutions-numeriques.com | Publication : 2026-06-30*
 
-- Microsoft a supprimé 119 extensions de la boutique Edge , qui étaient toutes liées à une même campagne de logiciels publicitaires.
-- Dans un article intitulé «Inside StegoAd : Comment nous avons mis fin à une vaste campagne d'extensions malveillantes », les chercheurs de Microsoft expliquent en détail comment ils ont découvert et démantelé une campagne sophistiquée de logiciels malveillants qui exploitait des extensions de navigateur pour infecter les utilisateurs.
-- Selon Microsoft, cette campagne comprenait 119 extensions de navigateur malveillantes qui ont été téléchargées par 2,6 millions d'utilisateurs.
-- Toutes ces extensions promettaient – et offraient effectivement – une fonctionnalité de base : bloqueurs de publicités, VPN, traducteurs, logiciels de téléchargement de vidéos, calculatrices, extensions de bons de réduction, etc.
+- Après trois ans d’annonces reportées, Google s’apprête à déployer en France ses fonctionnalités d’intelligence artificielle générative dans son moteur de recherche.
+- Selon une information de Ouest-France confirmée par France Inter, AI Overviews et AI Mode seront lancés au plus tard le 23 septembre 2026, faisant de la France l’un des derniers pays au monde à en bénéficier, alors que la fonctionnalité tourne déjà dans plus de 120 pays depuis deux ans.
+- Un courrier pour rassurer les éditeurs Le 29 juin, Google a adressé aux éditeurs de presse français, dans lequel le groupe promet “contrôle, transparence et rémunération”, rapporte Ouest France.
+- Concrètement, chaque média pourra choisir d’apparaître ou non dans ces fonctionnalités IA, les impressions générées par l’IA seront dissociées de celles issues de la recherche classique, et les contenus affichés dans les résumés donneront droit à une rémunération au titre du droit voisin, un régime qui couvre déjà 450 éditeurs en France.
 
-## [Mali: le procureur s'oppose à la libération provisoire du journaliste Chahana Takiou ... - RFI](https://www.rfi.fr/fr/afrique/20260629-mali-le-procureur-s-oppose-à-la-libération-provisoire-du-journaliste-chahana-takiou-délibéré-le-6-juillet)  
-*Source : rfi.fr | Publication : 2026-06-29*
+## [Intrusion fait l'acquisition de VigilAigent pour renforcer son offre en <b>cybersécurité</b>](https://www.zonebourse.com/actualite-bourse/intrusion-fait-l-acquisition-de-vigilaigent-pour-renforcer-son-offre-en-cybersecurite-ce7f5fdcd88cf425)  
+*Source : zonebourse.com | Publication : 2026-06-30*
 
-- Mali: le procureur s'oppose à la libération provisoire du journaliste Chahana Takiou, délibéré le 6 juillet Le journaliste malien Chahana Takiou comparaissait lundi 29 juin devant le pôle judiciaire spécialisé contre la cybercriminalité, à Bamako.
-- Emprisonné depuis le 8 juin, le directeur du journal 22 Septembre est accusé d'« atteinte au crédit de l'État à travers l'institution judiciaire » pour avoir dénoncé publiquement le détournement du droit de la presse par la justice malienne et par ce pôle anti-cybercriminalité devant lequel il sera jugé le 27 juillet.
-- Dans l'attente du procès, les avocats du journaliste ont demandé sa libération provisoire pour raisons de santé.
-- Le procureur s'y est opposé.
+- Intrusion fait l'acquisition de VigilAigent pour renforcer son offre en cybersécurité Publié le 30/06/2026 à 10:26 MT Newswires - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager Cet article est réservé aux membres Débloquer l'article : INSCRIVEZ-VOUS !.
+- Inscription 100% Gratuite Vous êtes déja client ?.
+- Se connecter © MT Newswires - 2026 Partager.
 
-## [17 septembre - Un CyberTour Haute-Garonne spécial Gestion de crise - ToulÉco](https://www.touleco.fr/Un-CyberTour-Haute-Garonne-special-Gestion-de-crise,52421)  
-*Source : touleco.fr | Publication : 2026-06-29*
+## [Qu'est-ce que le SecNumCloud ? - Vidéo Dailymotion](https://www.dailymotion.com/video/xajzxt6)  
+*Source : dailymotion.com | Publication : 2026-06-30*
 
-- Organisé par ToulÉco Événements, le CyberTour s’arrête en Haute-Garonne le 17 septembre prochain.
-- L’objectif est « de sensibiliser les acteurs du département aux risques encourus face aux cyberattaques » en faisant le point sur l’état de la menace.
-- Les tables rondes, présentations et autres démos auront pour thématique le sujet suivant : "Gestion de crise : avant, pendant, après".
-- L’événement prendre place dans le cadre du CEA (Commissariat à l’énergie atomique et aux énergies alternatives) en Occitanie, à Labège.
+- Skip to playerSkip to main contentWatch fullscreenLes EchosQu'est-ce que le SecNumCloud ?.
 
-## [<b>Ransomware</b> : l'éphémère des marques et la permanence des liens | LeMagIT](https://www.lemagit.fr/actualites/366645185/Ransomware-lephemere-des-marques-et-la-permanence-des-liens)  
-*Source : lemagit.fr | Publication : 2026-06-29*
+## [L'armée suisse réorganise son informatique : un projet à 200 millions - 20 Minuten](https://www.20min.ch/fr/story/cybersecurite-l-armee-face-a-un-chantier-informatique-a-200-millions-103593505)  
+*Source : 20min.ch | Publication : 2026-06-30*
 
-- beebright - stock.adobe.com Ransomware : l’éphémère des marques et la permanence des liens L’analyse de la menace des rançongiciels exige de dépasser l’identification des marques pour cartographier les liens opérationnels et les modèles d’affaires sous-jacents.
-- Les réseaux criminels les plus menaçants pour l’Union européenne (UE) ne se définissent plus uniquement par une étiquette de marque.
-- Si les enquêtes traditionnelles se sont historiquement concentrées sur le nom de la marque de ransomware, l’enseigne, ce modèle d’identification est insuffisant.
-- Les marques sont souvent éphémères, se renouvelant rapidement, mais elles masquent une structure sous-jacente remarquablement résiliente.
+- CybersécuritéL'armée face à un chantier informatique à 200 millions L'armée suisse souhaite conserver uniquement les infrastructures critiques sous son contrôle.
+- Le Contrôle fédéral des finances a des réserves.
+- Voilà dix ans qu'une vaste opération d'espionnage a ébranlé la Suisse.
+- Des pirates informatiques s'étaient introduits dans les systèmes de RUAG, le groupe d'armement appartenant à la Confédération, et avaient exfiltré des données pendant plusieurs années.
 
-## [OpenAI dévoile GPT-5.6 Sol, un nouveau modèle réservé aux partenaires approuvés par la ... - BDM](https://www.blogdumoderateur.com/openai-gpt-5-6-sol-modele-reserve-partenaires-approuves-maison-blanche/)  
-*Source : blogdumoderateur.com | Publication : 2026-06-29*
+## [Pourquoi Managed Agents a besoin d'une infrastructure distribuée - Akamai](https://www.akamai.com/fr/blog/cloud/why-managed-agents-needs-distributed-infrastructure)  
+*Source : akamai.com | Publication : 2026-06-30*
 
-- OpenAI dévoile GPT-5.6 Sol, un nouveau modèle réservé aux partenaires approuvés par la Maison-Blanche OpenAI dévoile sa nouvelle série de modèles intitulée GPT-5.6.
-- Sur demande de l’administration Trump, le lancement est limité à un petit groupe de partenaires américains sélectionnés.
-- OpenAI vient de dévoiler la série GPT-5.6, qui succède à GPT-5.5 avec des gains affichés en codage, biologie et cybersécurité.
-- Celle-ci est composée de trois modèles : Sol, Terra et Luna.
+- Cybersécurité ; Diffusion de contenu; Voir tous les produits · Notre infrastructure · Global Services.
+- Back.
+- Back Cloud Computing Close.
+- Intelligence.
 
-## [Mastercard lance un Centre d'excellence en <b>cybersécurité</b> pour l'Afrique | Zonebourse](https://www.zonebourse.com/actualite-bourse/mastercard-lance-un-centre-d-excellence-en-cybersecurite-pour-l-afrique-ce7f5fdfd88cf025)  
-*Source : zonebourse.com | Publication : 2026-06-29*
+## [L'UE lance un consortium européen CSC-EDIC afin de renforcer les compétences des ...](https://agenceurope.eu/fr/bulletin/article/13899/39/lue-lance-un-consortium-europeen-csc-edic-afin-de-renforcer-les-competences-des-travailleurs-europeens-en-cybersecurite)  
+*Source : agenceurope.eu | Publication : 2026-06-30*
 
-- Mastercard a annoncé le lancement de son Centre d&#039;excellence en cybersécurité pour l&#039;Afrique, une initiative panafricaine conçue pour renforcer la cyber-résilience, accroître la collaboration et protéger la confiance qui sous-tend l&#039;économie numérique en pleine expansion du continent.
-- Ce Centre d&#039;excellence étend l&#039;expertise et le réseau de Mastercard, apportant des compétences et une intelligence de niveau mondial à l&#039;une des économies numériques les plus dynamiques au monde.
-- Le Centre d&#039;excellence en cybersécurité pour l&#039;Afrique a été créé pour soutenir le renforcement de la défense collective sur le continent en réunissant des institutions financières, des organisations du secteur public et des entreprises afin de partager des renseignements, d&#039;améliorer la préparation, d&#039;anticiper les menaces plus tôt et de bâtir une résilience durable.Cette initiative pluriannuelle sera pilotée par Mastercard.
-- Elle fera l&#039;objet d&#039;un déploiement progressif à partir de 2026, en commençant par l&#039;Afrique du Sud et le Nigeria.
+- 30/06/2026 (Agence Europe) – L’Union européenne a lancé, mardi 30 juin, le Consortium européen d’infrastructures numériques pour les compétences en cybersécurité (CSC-EDIC), afin de renforcer les compétences essentielles en matière de cybersécurité des travailleurs européens.
+- Le CSC-EDIC, qui a déjà bénéficié d’une subvention de 3,1 millions d’euros au titre du programme Europe numérique, est établi à Athènes.
+- La Grèce, Chypre, l’Autriche, la Croatie et la Slovénie en sont membres fondateurs, tandis que la République tchèque et la Pologne y participent en qualité d’observateurs.
+- Le CSC-EDIC soutiendra notamment les travaux de l’Académie européenne des compétences en cybersécurité (EU Cyber Skills Academy), qui a déjà contribué à former plus de 900 000 professionnels de la cybersécurité.
 
-## [IA, phishing, faux sites : les marques face au défi de l'identité numérique](https://www.journaldunet.com/cybersecurite/1551739-ia-phishing-faux-sites-les-marques-face-au-defi-de-l-identite-numerique/)  
-*Source : journaldunet.com | Publication : 2026-06-29*
+## [Paritel pousse le firewall managé jusqu'aux TPE - InformatiqueNews.fr](https://www.informatiquenews.fr/paritel-fait-evoluer-son-catalogue-cyber-et-lance-une-offre-firewall-manage-de-nouvelle-generation-112191)  
+*Source : informatiquenews.fr | Publication : 2026-06-30*
 
-- IA, phishing, faux sites : les marques face au défi de l'identité numérique À l'heure où l'IA brouille les repères et où les faux sites se multiplient, les marques font face à un défi majeur : être visibles ne suffit plus, encore faut-il être identifiées comme légitimes.
-- Pendant vingt ans, les entreprises ont surtout cherché à être visibles en ligne.
-- Être bien référencé, apparaître dans les premiers résultats, occuper les plateformes : cette logique a structuré une grande partie des stratégies numériques.
-- Elle conserve sa valeur, mais elle ne répond plus à la question qui s’impose aujourd’hui : comment prouver qu’une marque est bien celle qu’elle prétend être ?.
+- Avec son offre de firewall managé en cœur de réseau, Paritel veut rendre la cybersécurité plus accessible aux TPE.
+- L’opérateur s’appuie sur les technologies Fortinet pour filtrer les menaces avant leur arrivée dans le système d’information.
+- La cybersécurité des petites entreprises reste l’un des angles morts du numérique professionnel.
+- Les TPE utilisent désormais les mêmes outils SaaS, les mêmes accès cloud et les mêmes connexions permanentes que les structures plus importantes, mais sans disposer des mêmes équipes IT, ni des mêmes budgets de sécurité.
 
-## [L'ESN Numeryx décroche la double certification ISO 9001 et ISO 27001 - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-actualites/lesn-numeryx-decroche-la-double-certification-iso-9001-et-iso-27001/)  
-*Source : itsocial.fr | Publication : 2026-06-29*
+## [Anthropic lance un modèle moins cher dans un contexte de flambée du coût de l'IA](https://www.ledevoir.com/economie/techno/991439/anthropic-lance-modele-moins-cher-contexte-flambee-cout-ia)  
+*Source : ledevoir.com | Publication : 2026-06-30*
 
-- L’ESN Numeryx a obtenu les certifications ISO 9001 et ISO 27001, qui portent respectivement sur le management de la qualité et sur la sécurité de l’information.
-- Le groupe rejoint les prestataires qui font de la conformité documentée un argument commercial, à l’heure où les donneurs d’ordre intègrent ces référentiels à leurs critères de sélection.
-- La certification ISO 9001 atteste de l’organisation des processus de l’entreprise au regard d’attentes clients formalisées, avec une exigence d’amélioration continue.
-- La certification ISO 27001 porte sur le système de management de la sécurité de l’information, c’est-à-dire l’identification des risques, la protection des données et la traçabilité des mesures.
+- Anthropic a publié mardi un nouveau modèle d’intelligence artificielle (IA) moins onéreux que ses produits les plus avancés mais aux performances approchantes, dans un contexte d’envolée du coût de l’IA.
+- Sonnet 5 affiche aussi une « bien moindre capacité d’effectuer des tâches dangereuses de cybersécurité que les modèles Opus », assure la start-up de San Francisco dans un document.
+- Cette affirmation s’inscrit dans le cadre d’un virage récent du gouvernement américain qui, craignant de les voir utilisés pour des cyberattaques, a contraint Anthropic à restreindre l’accès à son IA la plus puissante, Mythos 5, et à suspendre l’autre fleuron du groupe, Fable 5.
+- Ce nouveau modèle est le nouveau-né de la famille Sonnet, des interfaces rapides et traditionnellement meilleur marché, recommandées pour des applications du quotidien davantage que pour des travaux de recherche.
 
-## [Chaînes d'approvisionnement : « Le défi n'est pas de collecter davantage de données, mais ...](https://www.solutions-numeriques.com/chaines-dapprovisionnement-le-defi-nest-pas-de-collecter-davantage-de-donnees-mais-de-comprendre-les-dependances-critiques/)  
-*Source : solutions-numeriques.com | Publication : 2026-06-29*
+## [<b>Ransomware</b> Settra : l'autre enseigne qui utilise l'IA pour analyser les données volées](https://www.lemagit.fr/actualites/366645262/Ransomware-Settra-lautre-enseigne-qui-utilise-lIA-pour-analyser-les-donnees-volees)  
+*Source : lemagit.fr | Publication : 2026-06-30*
 
-- Les tensions géopolitiques, les restrictions commerciales et les perturbations logistiques rappellent aux entreprises que leurs chaînes d’approvisionnement ne fonctionnent plus comme des structures linéaires, mais comme des réseaux complexes.
-- Pour Chris Upkes, ingénieur conseil chez Neo4j, l’enjeu n’est pas seulement d’identifier les fournisseurs directs, mais de comprendre les relations qui relient composants, sites, stocks, partenaires logistiques et clients afin d’anticiper les effets en cascade.
-- SNC : Les récentes tensions géopolitiques ont mis en lumière la fragilité des chaînes d’approvisionnement mondiales.
-- Selon vous, quels sont aujourd’hui les principaux angles morts auxquels les entreprises sont confrontées lorsqu’il s’agit de comprendre leurs dépendances critiques ?.
+- Ransomware Settra : l'autre enseigne qui utilise l'IA pour analyser les données volées La toute nouvelle marque de rançongiciel Settra a suivi la voie montrée par Titan.
+- Mais elle apparaît pousser plus loin l'analyse des données volées à ses victimes.
+- Suivie depuis la mi-mai, l’enseigne Titan utilise l'intelligence artificielle pour parcourir des noms de fichiers et dossiers sélectionnés suivant des critères de recherche prédéfinis, puis pour rédiger un rapport conçu pour faire peur à la victime.
+- Ledit rapport insiste en effet sur les impacts réglementaires, juridiques et réputationnels potentiels.
 
-## [Coreview renforce les accès à Sharepoint - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/65032-coreview-renforce-les-acces-a-sharepoint.html)  
-*Source : linformaticien.com | Publication : 2026-06-29*
+## [L'essor de l'IA pousse Apple à accélérer ses mises à jour de sécurité - MacGeneration](https://www.macg.co/intelligence-artificielle/2026/06/lessor-de-lia-pousse-apple-accelerer-ses-mises-jour-de-securite-309503)  
+*Source : macg.co | Publication : 2026-06-30*
 
-- L'éditeur de solutions de sécurité et de résilience pour les tenants Microsoft ajoute Control for SharePoint à sa plate-forme.
+- Les progrès de l’intelligence artificielle dans le domaine de la cybersécurité poussent Apple à revoir sa politique de mise à jour.
+- La firme de Cupertino va dorénavant déployer ses patchs de sécurité de manière plus réactive.
+- Face à la capacité de l'IA à accélérer la création d'outils malveillants, Apple a pris la décision de réduire le délai entre la découverte des failles et la distribution des correctifs auprès des utilisateurs, comme elle l'a indiqué à Reuters.
+- Cette nouvelle politique est d’ores et déjà entrée en vigueur avec le déploiement d'iOS 26.5.2 et macOS 26.5.2 hier soir.
 
-## [Un puissant organisme allemand redoute une concurrence de plus en plus déloyale entre ...](https://www.automobile-magazine.fr/fiabilite-rappels/article/52352-un-puissant-organisme-allemand-redoute-une-concurrence-de-plus-en-plus-deloyale-entre-concessionnaires-et-garages-independants)  
-*Source : automobile-magazine.fr | Publication : 2026-06-29*
+## [Exploitarium : 130 exploits 0-day publiés sur GitHub, quel risque pour vos données](https://www.dpo-partage.fr/exploitarium-130-exploits-0-day-publies-sur-github-quel-risque-pour-vos-donnees/)  
+*Source : dpo-partage.fr | Publication : 2026-06-30*
 
-- Faut-il absolument faire entretenir sa voiture dans le réseau agréé par le constructeur ?.
-- Cette question, beaucoup d'automobilistes se la posent.
-- D'un côté, les concessionnaires sont de plus en plus boudés par les Français en raison de leurs tarifs jugés trop élevés.
-- De l'autre, les politiques de garantie longue durée comportent souvent des clauses visant à rendre les clients captifs.
+- Un chercheur anonyme connu sous le pseudonyme « bikini » a publié fin juin 2026 un dépôt GitHub baptisé « Exploitarium ».
+- On y trouve plus de 130 codes d’attaque visant des logiciels non corrigés, répartis sur 22 projets, sans qu’aucun éditeur n’ait été prévenu au préalable.
+- GitHub a depuis retiré le dépôt, mais des copies circulent déjà.
+- Pour les organisations, cette diffusion massive augmente brutalement le risque d’exploitation, et donc le risque pour les données personnelles.
 
-## [Exclusive Networks renforce sa direction financière - Fortuneo Bourse](https://bourse.fortuneo.fr/actualites/exclusive-networks-renforce-sa-direction-financiere-5714115)  
-*Source : bourse.fortuneo.fr | Publication : 2026-06-29*
+## [Une importante fuite de données chez un des principaux partenaires d'Apple lève le voile ... - BFM](https://www.bfmtv.com/tech/cybersecurite/une-importante-fuite-de-donnees-chez-un-des-principaux-partenaires-d-apple-leve-le-voile-sur-les-secrets-d-apple-et-sur-l-i-phone-18-pro-avec-plus-de-deux-mois-d-avance_AN-202606300828.html)  
+*Source : bfmtv.com | Publication : 2026-06-30*
 
-- Exclusive Networks, spécialiste mondial de la mise sur le marché de solutions de cybersécurité, annonce la nomination de Sergio Amodeo au poste de Directeur Financier Groupe, avec effet immédiat.
-- Sergio Amodeo rejoint le Comité Exécutif du Groupe et reportera à Jesper Trolle, Directeur Général d'Exclusive Networks.
-- Sergio Amodeo rejoint Exclusive Networks en provenance de Nexture, où il occupait les fonctions de Directeur Financier Groupe et membre du Conseil d'Administration.
-- Précédemment, il a exercé les fonctions de Directeur Financier Groupe chez Radisson Hospitality et TeamSystem, après avoir occupé des postes de direction financière chez Danone et Procter & Gamble.
+- Une importante fuite de données chez un des principaux partenaires d’Apple lève le voile sur les secrets d’Apple et sur l’iPhone 18 Pro, avec plus de deux mois d’avance Ce n'est pas un iPhone oublié dans un bar comme en 2010, mais c'est tout aussi embarrassant.
+- Apple fait face, depuis quelques heures, à des milliers de publications sur les réseaux sociaux montrant ce que sera l'iPhone 18 Pro, l'appareil le plus haut de gamme de son catalogue de rentrée.
+- Les images sont authentiques.
+- En tout cas, elles proviennent d'un partenaire d'Apple.
 
-## [IA : comment Le Vecteur « rend plus visible » la politique RSE des entreprises - Placéco](https://www.placeco.fr/nouvelle-aquitaine/strategie/article/ia-comment-le-vecteur-rend-plus-visible-la-politique-rse-des-entreprises-10406)  
-*Source : placeco.fr | Publication : 2026-06-29*
+## [Des cybercriminels russes ont piraté une installation de traitement de l'eau au Québec](https://www.qub.ca/article/des-cybercriminels-russes-ont-pirate-une-installation-de-traitement-de-leau-au-quebec-248860806)  
+*Source : qub.ca | Publication : 2026-06-30*
 
-- IA : comment Le Vecteur « rend plus visible » la politique RSE des entreprises - Premium Stratégie lundi 29 juin 2026 Laurent Bareille, responsable de produit ; et Mathieu Naud, fondateur du Vecteur.
-- Crédits : MBC La startup bordelaise Le Vecteur a conçu une plateforme numérique mêlant IA et RSE.
-- L’objectif ?.
-- « Faire coller les exigences de responsabilité sociétale à ce que font déjà les sociétés ».
+- Notons par ailleurs que ce n'est pas le CST qui a détecté cette intrusion, mais le groupe d'intervention en cas d'incident de cybersécurité des États-.
 
-## [Check Point intègre les modèles d'IA d'OpenAI à ses solutions de sécurité - ICTjournal](https://www.ictjournal.ch/news/2026-06-29/check-point-integre-les-modeles-dia-dopenai-a-ses-solutions-de-securite)  
-*Source : ictjournal.ch | Publication : 2026-06-29*
+## [VIDEO - Qu'est-ce que le SecNumCloud ? - Les Echos](https://www.lesechos.fr/tech-medias/hightech/video-quest-ce-que-le-secnumcloud-2240019)  
+*Source : lesechos.fr | Publication : 2026-06-30*
 
-- Check Point intègre les modèles d’IA d’OpenAI à ses solutions de sécurité Check Point élargit son partenariat avec OpenAI.
-- Grâce à cette collaboration, l’éditeur israélien de cybersécurité pourra intégrer les modèles d’intelligence artificielle d’OpenAI à ses produits afin de renforcer la détection et la prévention des cybermenaces.
-- Check Point renforce sa collaboration avec OpenAI.
-- Dans un communiqué, le spécialiste israélien de la cybersécurité indique que ce partenariat lui permettra d’intégrer les modèles d’OpenAI à ses solutions de sécurité afin de renforcer ses capacités de cyberdéfense.
+- Derrière ce label de cybersécurité porté par l'Etat se cachent des questions de souveraineté et de protection des données… mais aussi des coûts de.
 
-## [L'INSEE victime d'une cyberattaque exposant l'identité et les coordonnées de 12 800 agents](https://itsocial.fr/cybersecurite/cybersecurite-actualites/linsee-victime-dune-cyberattaque-exposant-lidentite-et-les-coordonnees-de-12-800-agents/)  
-*Source : itsocial.fr | Publication : 2026-06-29*
+## [Ingérences numériques : des étrangers qui déstabilisent la démocratie et l'économie](https://www.france24.com/fr/émissions/aux-avant-postes/20260630-ingérences-numériques-des-étrangers-qui-déstabilisent-la-démocratie-et-l-économie)  
+*Source : france24.com | Publication : 2026-06-30*
 
-- L’INSEE a révélé une attaque informatique contre son annuaire interne des agents, qui a entraîné une violation de données personnelles.
-- L’incident a touché l’identité et les coordonnées professionnelles d’environ 12 800 personnes travaillant ou ayant travaillé à l’institut.
-- Selon l’INSEE, aucune donnée sensible et aucune donnée statistique collectée auprès des entreprises ou des particuliers n’a été compromise.
-- L’Institut national de la statistique et des études économiques a détecté l’incident le 19 juin et pris des mesures immédiates pour stopper l’attaque.
-
-## [Virkkunen, vice-président exécutif, décerne des prix à des projets visant à renforcer les ...](https://digital-strategy.ec.europa.eu/fr/news/executive-vice-president-virkkunen-presents-awards-projects-boosting-digital-skills)  
-*Source : digital-strategy.ec.europa.eu | Publication : 2026-06-29*
-
-- L'événement, ouvert au public, verra également le lancement de nouvelles académies des compétences numériques dans les mondes virtuels, l'intelligence quantique et artificielle pour combler les lacunes critiques en matière de talents.
-- Doter les citoyens de compétences numériques est une composante essentielle de la décennie numérique de l’Europe, qui vise à fournir à 80 % des adultes des compétences numériques de base et à disposer d’au moins 20 millions de spécialistes des technologies de l’information et de la communication (TIC) en Europe d’ici à 2030.
-- Le dernier rapport sur l’état d’avancement de la décennie numérique, publié le 16 juin, a montré que si plus de 60 % des Européens possèdent désormais des compétences numériques de base, il reste encore beaucoup à faire pour accroître le nombre de spécialistes des TIC en Europe, en particulier les femmes dans ce domaine.
-- Les Journées européennes des compétences numériques marqueront également le lancement d’une coalition pour les compétences en matière de cybersécurité, le consortium européen pour les infrastructures numériques, afin de soutenir les travaux de l’actuelle académie des compétences en matière de cybersécurité.
-
-## [WALLIX et Inria s'associent pour l'IA en <b>cybersécurité</b> - J'aime les startups](https://www.jaimelesstartups.fr/news/wallix-et-inria-sassocient-pour-lia-en-cybersecurite/)  
-*Source : jaimelesstartups.fr | Publication : 2026-06-29*
-
-- WALLIX et Inria unissent recherche et cybersécurité pour développer une IA souveraine, ciblant identités, accès et conformité automatisée.
+- Ingérences numériques : des étrangers qui déstabilisent la démocratie et l'économie Pour afficher ce contenu YouTube, il est nécessaire d'autoriser les cookies de mesure d'audience et de publicité.
+- Une extension de votre navigateur semble bloquer le chargement du lecteur vidéo.
+- Pour pouvoir regarder ce contenu, vous devez la désactiver ou la désinstaller.
+- Publié le : Qu'elles soient politiques ou économiques, les ingérences frappent de plus en plus fort les intérêts des nations visées.
