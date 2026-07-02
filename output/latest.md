@@ -1,144 +1,147 @@
-# Résumés – 2026-07-01
+# Résumés – 2026-07-02
 
 
-## [Le directeur de la CIA compare l'IA de pointe à des &quot;armes nucléaires numériques&quot;](https://actu.orange.fr/economie/le-directeur-de-la-cia-compare-l-ia-de-pointe-a-des-quot-armes-nucleaires-numeriques-quot-CNT000002qgj79.html)  
-*Source : actu.orange.fr | Publication : 2026-06-30*
+## [Claude Code planquait un mouchard dans la date du prompt - Korben](https://korben.info/claude-code-steganographie-requetes.html)  
+*Source : korben.info | Publication : 2026-07-01*
 
-- Le directeur de la CIA compare l'IA de pointe à des "armes nucléaires numériques" © Kent NISHIMURA, AFP - Le directeur de la CIA John Ratcliffe à la Maison Blanche à Washington le 27 mai 2026 Le directeur de la CIA, John Ratcliffe, a comparé mardi les capacités des modèles d'intelligence artificielle (IA) les plus avancés à des "armes nucléaires numériques", lors d'une rare prise de parole publique à Washington.
-- "Il ne serait pas déplacé, comme nous l'avons évoqué, de comparer leurs capacités à des armes nucléaires numériques", a déclaré M. Ratcliffe, en rapportant ses échanges à ce sujet avec les conseillers du président Donald Trump.
-- Le plus haut responsable du renseignement extérieur américain assume publiquement cette analogie avec l'arme nucléaire au moment où l'administration Trump vient d'opérer une reprise en main inédite de cette technologie, en invoquant la sécurité nationale.
-- Le 12 juin, Washington a contraint Anthropic, un fleuron américain de l'IA basé à San Francisco, à couper l'accès à ses deux modèles les plus puissants, Mythos 5 et Fable 5, en lui imposant un "contrôle d'exportation".
+- Claude Code planquait un mouchard dans la date du prompt Ce qu’il faut retenir Claude Code modifiait en douce la ligne de date du system prompt via de la stéganographie Unicode, remplaçant l'apostrophe et les tirets par des caractères invisibles pour tracer les utilisateurs passant par des intermédiaires chinois.
+- - Anthropic a confirmé que ce code dormait depuis avril comme expérience pour détecter la distillation (technique où des concurrents aspirent les réponses pour entraîner leurs modèles), mais sans transparence auprès des utilisateurs.
+- - Le marqueur a été retiré dans la version 2.1.197, car la méthode manquait de transparence et se déjouait facilement en changeant de fuseau horaire ou de domaine.
+- - Résumé généré par IA Vous utilisez Claude Code tous les jours pour coder, et pendant ce temps-là l'outil d'Anthropic utilisé par des milliers de dev, joue les mouchards.
 
-## [Tech &amp; Co Business - Mardi 30 juin - BFM](https://www.bfmtv.com/economie/replay-emissions/01-business/video-tech-co-business-mardi-30-juin_VN-202606300984.html)  
-*Source : bfmtv.com | Publication : 2026-06-30*
+## [La gouvernance du secteur de la santé doit s'accélérer pour lutter contre l'utilisation non ...](https://health-isac.org/fr/La-gouvernance-des-soins-de-santé-doit-s'accélérer-pour-lutter-contre-l'utilisation-non-autorisée-de-l'IA/)  
+*Source : health-isac.org | Publication : 2026-07-01*
 
-- Tech & Co Business - Mardi 30 juin Ce mardi 30 juin, Frédéric Simottel a reçu Gérôme Billois, associé en cybersécurité et confiance numérique au sein du cabinet Wavestone, Éric Haddad, président exécutif de Numspot, Vincent Champain, président de l’Observatoire du Long Terme, patron du digital chez Framatome, Emmanuel Vignon, vice-président engineering head of AI chez Generix, et Érik Campanini, associé chez Alixio Group, dans l'émission Tech&Co Business sur BFM Business.
-- Retrouvez l'émission le samedi et réécoutez la en podcast.
-- | Durée : 57:58.
+- La gouvernance du secteur de la santé doit s'accélérer pour lutter contre l'utilisation non autorisée de l'IA Ces dix dernières années, les hôpitaux ont modernisé leur infrastructure numérique.
+- Mais face à divers obstacles techniques et réglementaires, et parfois à la résistance du personnel, l'adoption formelle de ces nouveaux outils s'est avérée difficile.
+- Par Errol Weiss, responsable de la sécurité, Santé ISAC.
+- Globalement, nous constatons un écart croissant entre la manière dont les organismes du secteur de la santé souhaitent utiliser l'IA et la manière dont cette nouvelle technologie puissante est réellement utilisée, tant à l'intérieur qu'à l'extérieur de leurs murs.
 
-## [Cyber : l'âge d'or des startups, un défi de croissance - 30/06 - BFM](https://www.bfmtv.com/economie/replay-emissions/01-business/video-cyber-l-age-d-or-des-startups-un-defi-de-croissance-30-06_VN-202606300962.html)  
-*Source : bfmtv.com | Publication : 2026-06-30*
+## [Discuter sans numéro sur WhatsApp : voici les pièges à éviter avec les noms d'utilisateurs](https://www.numerama.com/cyberguerre/2289309-discuter-sans-numero-sur-whatsapp-voici-les-pieges-a-eviter-avec-les-noms-dutilisateurs.html)  
+*Source : numerama.com | Publication : 2026-07-01*
 
-- Cyber : l’âge d’or des startups, un défi de croissance - 30/06 Ce mardi 30 juin, Gérôme Billois, associé en cybersécurité et confiance numérique au sein du cabinet Wavestone s'est penché sur le Radar des startups cybersécurité françaises 2026, dans l'émission Tech&Co Business présentée par Frédéric Simottel.
-- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.
-- | Durée : 10:58.
+- L’annonce a fait l’effet d’une petite révolution.
+- Le 29 juin 2026, Meta a confirmé que WhatsApp permettra désormais à ses plus de trois milliards d’utilisateurs d’échanger sans divulguer leur numéro de téléphone personnel, grâce à un nom d’utilisateur unique, précédé d’un « @ ».
+- Chacun peut obtenir le sien en suivant la procédure, résumée par Numerama.
+- Mais derrière cette effervescence, plusieurs experts en cybersécurité alertent déjà sur les nouveaux risques et défis que cette fonctionnalité pourrait engendrer pour les utilisateurs.
 
-## [Un film décalé pour un opérateur qui joue la carte de la transparence - CÉLESTE - Isoskèle](https://lareclame.fr/isoskele/realisations/un-film-decale-pour-un-operateur-qui-joue-la-carte-de-la-transparence)  
-*Source : lareclame.fr | Publication : 2026-06-30*
+## [Phantom squatting : quand les hallucinations de l'IA deviennent des domaines piégés](https://www.solutions-numeriques.com/phantom-squatting-quand-les-hallucinations-de-lia-deviennent-des-domaines-pieges/)  
+*Source : solutions-numeriques.com | Publication : 2026-07-01*
 
-- L'agence St Johns Isoskele dévoile la nouvelle campagne de Céleste, solutions telecoms, Cloud et cybersécurité pour les entreprises.
+- Les modèles d’IA générative inventent parfois des adresses web crédibles, mais inexistantes.
+- Des attaquants peuvent ensuite enregistrer ces domaines et les utiliser pour du phishing, de l’usurpation ou de la diffusion de malware.
+- Unit 42 nomme cette technique le phantom squatting et estime qu’elle ouvre une nouvelle surface d’attaque pour les utilisateurs, les développeurs et les agents IA.
+- Des domaines inventés, puis enregistrés Le phantom squatting repose sur un mécanisme plutôt simple.
 
-## [Tenable rejoint le programme de partenaires <b>cybersécurité</b> OpenAI Daybreak - ITRnews](https://itrnews.com/articles/210256/tenable-rejoint-le-programme-de-partenaires-cybersecurite-openai-daybreak.html)  
-*Source : itrnews.com | Publication : 2026-06-30*
+## [Anthropic relance Claude Fable 5 après un mois de suspension - Solutions-Numeriques](https://www.solutions-numeriques.com/anthropic-relance-claude-fable-5-apres-un-mois-de-suspension/)  
+*Source : solutions-numeriques.com | Publication : 2026-07-01*
 
-- Veuillez activer Javascript.
+- Le modèle d’Anthropic fait son retour, après une suspension de près de trois semaines imposée par le gouvernement américain.
+- Anthropic en profite pour détailler le renforcement de ses garde-fous de cybersécurité.
+- Le 12 juin dernier, les autorités américaines imposaient des restrictions à l’export sur Claude Fable 5 et Claude Mythos 5, deux modèles lancés seulement trois jours plus tôt.
+- Faute de moyen fiable pour vérifier la nationalité des utilisateurs en temps réel, Anthropic avait dû couper l’accès aux deux modèles pour l’ensemble de ses utilisateurs, quelle que soit leur localisation.
 
-## [Google active AI Overviews et AI Mode en France - Solutions-Numeriques](https://www.solutions-numeriques.com/google-active-ai-overviews-et-ai-mode-en-france/)  
-*Source : solutions-numeriques.com | Publication : 2026-06-30*
+## [PDSFA, la veille RGPD et <b>cybersécurité</b> qui va droit à l'essentiel - dpo partage](https://www.dpo-partage.fr/pdsfa-la-veille-rgpd-et-cybersecurite-qui-va-droit-a-lessentiel/)  
+*Source : dpo-partage.fr | Publication : 2026-07-01*
 
-- Après trois ans d’annonces reportées, Google s’apprête à déployer en France ses fonctionnalités d’intelligence artificielle générative dans son moteur de recherche.
-- Selon une information de Ouest-France confirmée par France Inter, AI Overviews et AI Mode seront lancés au plus tard le 23 septembre 2026, faisant de la France l’un des derniers pays au monde à en bénéficier, alors que la fonctionnalité tourne déjà dans plus de 120 pays depuis deux ans.
-- Un courrier pour rassurer les éditeurs Le 29 juin, Google a adressé aux éditeurs de presse français, dans lequel le groupe promet “contrôle, transparence et rémunération”, rapporte Ouest France.
-- Concrètement, chaque média pourra choisir d’apparaître ou non dans ces fonctionnalités IA, les impressions générées par l’IA seront dissociées de celles issues de la recherche classique, et les contenus affichés dans les résumés donneront droit à une rémunération au titre du droit voisin, un régime qui couvre déjà 450 éditeurs en France.
+- Pour un délégué à la protection des données ou un responsable de la sécurité des systèmes d’information, suivre l’actualité est presque un métier à part entière.
+- Délibérations de la CNIL, décisions européennes, sanctions, fuites de données, nouveaux textes réglementaires : le flux ne s’arrête jamais et le tri prend du temps.
+- C’est précisément ce besoin que comble PDSFA, un site de veille gratuit qui mérite une place dans vos favoris.
+- Une veille pensée pour les praticiens PDSFA signifie « Panorama Données & Sécurité, Flash & Agile ».
 
-## [Intrusion fait l'acquisition de VigilAigent pour renforcer son offre en <b>cybersécurité</b>](https://www.zonebourse.com/actualite-bourse/intrusion-fait-l-acquisition-de-vigilaigent-pour-renforcer-son-offre-en-cybersecurite-ce7f5fdcd88cf425)  
-*Source : zonebourse.com | Publication : 2026-06-30*
+## [Renseignement sur les menaces : des limites des échanges avec les cybercriminels](https://www.lemagit.fr/actualites/366645303/Renseignement-sur-les-menaces-des-limites-des-echanges-avec-les-cybercriminels)  
+*Source : lemagit.fr | Publication : 2026-07-01*
 
-- Intrusion fait l'acquisition de VigilAigent pour renforcer son offre en cybersécurité Publié le 30/06/2026 à 10:26 MT Newswires - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'original Partager Cet article est réservé aux membres Débloquer l'article : INSCRIVEZ-VOUS !.
-- Inscription 100% Gratuite Vous êtes déja client ?.
-- Se connecter © MT Newswires - 2026 Partager.
+- peterzayda - stock.adobe.com Renseignement sur les menaces : des limites des échanges avec les cybercriminels Un chercheur de Huntress a fourni des informations à un cybercriminel sur l'intérêt que lui porte le FBI.
+- Rien d'illégal, assure le CEO, qui y voit un « manque de discernement ».
+- Quand communiquer avec les cybercriminels va-t-il trop loin ?.
+- Où se trouve la ligne rouge pour des chercheurs qui n'obtiennent les informations les plus utiles qu'en établissant la confiance ?.
 
-## [Qu'est-ce que le SecNumCloud ? - Vidéo Dailymotion](https://www.dailymotion.com/video/xajzxt6)  
-*Source : dailymotion.com | Publication : 2026-06-30*
+## [Ils sont cinq, âgés de 16 à 22 ans, ces jeunes Français ont été interpelés après les piratages ...](https://www.bfmtv.com/tech/cybersecurite/ils-sont-cinq-ages-de-16-a-22-ans-ces-jeunes-francais-ont-ete-interpeles-apres-les-piratages-de-millions-de-fiches-de-patients-dans-une-dizaine-d-etablissements-de-sante_AV-202607010836.html)  
+*Source : bfmtv.com | Publication : 2026-07-01*
 
-- Skip to playerSkip to main contentWatch fullscreenLes EchosQu'est-ce que le SecNumCloud ?.
+- Ils sont cinq, âgés de 16 à 22 ans, ces jeunes Français ont été interpelés après les piratages de millions de fiches de patients dans une dizaine d'établissements de santé Un an après l'enquête lancée par l'office anticybercriminalité (l'Ofac) à la suite d'une "compromission d'un établissement de santé dans la Loire", son responsable a annoncé sur Linkedin (via France Info) l'arrestation de cinq français âgés de 16 à 22 ans, soupçonnés d'être les auteurs de la cyberattaque et d'appartenir au groupe de pirates "Marak".
+- Ce groupe, méconnu, s'avère pourtant particulièrement actif.
+- Selon Nicolas Guidoux, responsable de l'Ofac, on leur doit des cyberattaques d'une dizaine d'établissements de santé, d'entreprises du secteur médical et d'une messagerie utilisée par le service des douanes.
+- Une "faille humaine" exploitée pour voler des données Pour réussir leur coups, "les mis en cause exploitaient une faille humaine dans le système d'authentification des cartes professionnelles dématérialisées".
 
-## [L'armée suisse réorganise son informatique : un projet à 200 millions - 20 Minuten](https://www.20min.ch/fr/story/cybersecurite-l-armee-face-a-un-chantier-informatique-a-200-millions-103593505)  
-*Source : 20min.ch | Publication : 2026-06-30*
+## [France: cinq jeunes interpellés après le piratage de millions de dossiers de patients](https://www.aa.com.tr/fr/france/france-cinq-jeunes-interpellés-après-le-piratage-de-millions-de-dossiers-de-patients/3983642)  
+*Source : aa.com.tr | Publication : 2026-07-01*
 
-- CybersécuritéL'armée face à un chantier informatique à 200 millions L'armée suisse souhaite conserver uniquement les infrastructures critiques sous son contrôle.
-- Le Contrôle fédéral des finances a des réserves.
-- Voilà dix ans qu'une vaste opération d'espionnage a ébranlé la Suisse.
-- Des pirates informatiques s'étaient introduits dans les systèmes de RUAG, le groupe d'armement appartenant à la Confédération, et avaient exfiltré des données pendant plusieurs années.
+- Selon l'Office de lutte contre la cybercriminalité (Ofac), les suspects sont soupçonnés d'appartenir au groupe de pirates informatiques connu sous le nom de « Marak ».
 
-## [Pourquoi Managed Agents a besoin d'une infrastructure distribuée - Akamai](https://www.akamai.com/fr/blog/cloud/why-managed-agents-needs-distributed-infrastructure)  
-*Source : akamai.com | Publication : 2026-06-30*
+## [57% des organisations de santé confrontées à des deepfakes : l'IA ouvre un nouveau front ...](https://www.usine-digitale.fr/cybersecurite/57-des-organisations-de-sante-confrontees-a-des-deepfakes-lia-ouvre-un-nouveau-front-pour-les-cyberattaques.2Z2QTRT7SZHC5BWVU73VJ44YUI.html)  
+*Source : usine-digitale.fr | Publication : 2026-07-01*
 
-- Cybersécurité ; Diffusion de contenu; Voir tous les produits · Notre infrastructure · Global Services.
-- Back.
-- Back Cloud Computing Close.
-- Intelligence.
+- Le rapport, fondé sur une enquête menée auprès de 3120 responsables IT et cybersécurité dans 20 pays, dont 263 issus du secteur de la santé, montre.
 
-## [L'UE lance un consortium européen CSC-EDIC afin de renforcer les compétences des ...](https://agenceurope.eu/fr/bulletin/article/13899/39/lue-lance-un-consortium-europeen-csc-edic-afin-de-renforcer-les-competences-des-travailleurs-europeens-en-cybersecurite)  
-*Source : agenceurope.eu | Publication : 2026-06-30*
+## [Claude Sonnet 5 : Anthropic sort son nouveau modèle avec plusieurs nouveautés](https://www.linternaute.com/hightech/logiciel/10826153-claude-sonnet-5-est-disponible-un-modele-plus-sur-et-pas-cher/)  
+*Source : linternaute.com | Publication : 2026-07-01*
 
-- 30/06/2026 (Agence Europe) – L’Union européenne a lancé, mardi 30 juin, le Consortium européen d’infrastructures numériques pour les compétences en cybersécurité (CSC-EDIC), afin de renforcer les compétences essentielles en matière de cybersécurité des travailleurs européens.
-- Le CSC-EDIC, qui a déjà bénéficié d’une subvention de 3,1 millions d’euros au titre du programme Europe numérique, est établi à Athènes.
-- La Grèce, Chypre, l’Autriche, la Croatie et la Slovénie en sont membres fondateurs, tandis que la République tchèque et la Pologne y participent en qualité d’observateurs.
-- Le CSC-EDIC soutiendra notamment les travaux de l’Académie européenne des compétences en cybersécurité (EU Cyber Skills Academy), qui a déjà contribué à former plus de 900 000 professionnels de la cybersécurité.
+- Claude Sonnet 5 : Anthropic sort son nouveau modèle avec plusieurs nouveautés Claude Sonnet 5 est disponible depuis le 30 juin dernier.
+- Plus intelligent, ce nouveau modèle offre de nouvelles fonctionnalités pour les utilisateurs du forfait gratuit et pro.
+- Peu de personnes le savent, mais Claude, le modèle IA développé par les États-Unis en 2021 par deux anciens cadres d'OpenAI, comporte plusieurs modèles de langage.
+- Bien que la firme conseille de commencer par Claude Opus 4.8, jugé plus performant pour les tâches complexes, un nouveau modèle est récemment sorti pour tous les utilisateurs.
 
-## [Paritel pousse le firewall managé jusqu'aux TPE - InformatiqueNews.fr](https://www.informatiquenews.fr/paritel-fait-evoluer-son-catalogue-cyber-et-lance-une-offre-firewall-manage-de-nouvelle-generation-112191)  
-*Source : informatiquenews.fr | Publication : 2026-06-30*
+## [Fieldfisher France accueille Frédéric Sardain, en qualité d'associé, pour accélérer son ...](https://www.fieldfisher.com/fr/locations/france/insights/fieldfisher-france-accueille-frederic-sardain-en-qualite-d-associe-pour-accelerer-son-positionneme)  
+*Source : fieldfisher.com | Publication : 2026-07-01*
 
-- Avec son offre de firewall managé en cœur de réseau, Paritel veut rendre la cybersécurité plus accessible aux TPE.
-- L’opérateur s’appuie sur les technologies Fortinet pour filtrer les menaces avant leur arrivée dans le système d’information.
-- La cybersécurité des petites entreprises reste l’un des angles morts du numérique professionnel.
-- Les TPE utilisent désormais les mêmes outils SaaS, les mêmes accès cloud et les mêmes connexions permanentes que les structures plus importantes, mais sans disposer des mêmes équipes IT, ni des mêmes budgets de sécurité.
+- cybersécurité (NIS2, DORA), d'intelligence artificielle (IA Act) et d'internet des objets (CRA), tant en conseil qu'en contentieux ;; le droit des.
 
-## [Anthropic lance un modèle moins cher dans un contexte de flambée du coût de l'IA](https://www.ledevoir.com/economie/techno/991439/anthropic-lance-modele-moins-cher-contexte-flambee-cout-ia)  
-*Source : ledevoir.com | Publication : 2026-06-30*
+## [Des <b>ransomwares</b> exploitent une faille de Microsoft Defender pour pirater les ordinateurs Windows](https://www.01net.com/actualites/des-ransomwares-exploitent-une-faille-de-microsoft-defender-pour-pirater-les-ordinateurs-windows.html)  
+*Source : 01net.com | Publication : 2026-07-01*
 
-- Anthropic a publié mardi un nouveau modèle d’intelligence artificielle (IA) moins onéreux que ses produits les plus avancés mais aux performances approchantes, dans un contexte d’envolée du coût de l’IA.
-- Sonnet 5 affiche aussi une « bien moindre capacité d’effectuer des tâches dangereuses de cybersécurité que les modèles Opus », assure la start-up de San Francisco dans un document.
-- Cette affirmation s’inscrit dans le cadre d’un virage récent du gouvernement américain qui, craignant de les voir utilisés pour des cyberattaques, a contraint Anthropic à restreindre l’accès à son IA la plus puissante, Mythos 5, et à suspendre l’autre fleuron du groupe, Fable 5.
-- Ce nouveau modèle est le nouveau-né de la famille Sonnet, des interfaces rapides et traditionnellement meilleur marché, recommandées pour des applications du quotidien davantage que pour des travaux de recherche.
+- En avril dernier, un chercheur en cybersécurité a débusqué une faille dans Microsoft Defender, l’antivirus par défaut des ordinateurs Windows.
+- La faille se trouve directement dans le processus de nettoyage automatique de Defender, qui est censé éliminer les fichiers infectés dès qu’ils sont repérés.
+- Avec un document piégé, il est possible de duper l’antivirus et d’exécuter du code malveillant sur le système.
+- En conflit ouvert avec Microsoft, le chercheur, qui se fait appeler Nightmare Eclipse, a publié plusieurs méthodes d’exploitation sur Github avant que l’éditeur ne puisse proposer un correctif.
 
-## [<b>Ransomware</b> Settra : l'autre enseigne qui utilise l'IA pour analyser les données volées](https://www.lemagit.fr/actualites/366645262/Ransomware-Settra-lautre-enseigne-qui-utilise-lIA-pour-analyser-les-donnees-volees)  
-*Source : lemagit.fr | Publication : 2026-06-30*
+## [SCC va investir 100 M£ dans l'IA - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/biz-it/65041-scc-va-investir-100-m-dans-l-ia.html)  
+*Source : linformaticien.com | Publication : 2026-07-01*
 
-- Ransomware Settra : l'autre enseigne qui utilise l'IA pour analyser les données volées La toute nouvelle marque de rançongiciel Settra a suivi la voie montrée par Titan.
-- Mais elle apparaît pousser plus loin l'analyse des données volées à ses victimes.
-- Suivie depuis la mi-mai, l’enseigne Titan utilise l'intelligence artificielle pour parcourir des noms de fichiers et dossiers sélectionnés suivant des critères de recherche prédéfinis, puis pour rédiger un rapport conçu pour faire peur à la victime.
-- Ledit rapport insiste en effet sur les impacts réglementaires, juridiques et réputationnels potentiels.
+- Le projet vise à renforcer l'orientation stratégique sur 5 domaines : les solutions d'IA, les infrastructures dédiées à l'IA, la cybersécurité.
 
-## [L'essor de l'IA pousse Apple à accélérer ses mises à jour de sécurité - MacGeneration](https://www.macg.co/intelligence-artificielle/2026/06/lessor-de-lia-pousse-apple-accelerer-ses-mises-jour-de-securite-309503)  
-*Source : macg.co | Publication : 2026-06-30*
+## [Un nouvel agent chez Dataiku - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/tendances/941-ia/65040-un-nouvel-agent-chez-dataiku.html)  
+*Source : linformaticien.com | Publication : 2026-07-01*
 
-- Les progrès de l’intelligence artificielle dans le domaine de la cybersécurité poussent Apple à revoir sa politique de mise à jour.
-- La firme de Cupertino va dorénavant déployer ses patchs de sécurité de manière plus réactive.
-- Face à la capacité de l'IA à accélérer la création d'outils malveillants, Apple a pris la décision de réduire le délai entre la découverte des failles et la distribution des correctifs auprès des utilisateurs, comme elle l'a indiqué à Reuters.
-- Cette nouvelle politique est d’ores et déjà entrée en vigueur avec le déploiement d'iOS 26.5.2 et macOS 26.5.2 hier soir.
+- L'éditeur de solutions de Business Intelligence ajoute un agent de développement IA, Cobuild, pour transformer un objectif métier en projet IA.
 
-## [Exploitarium : 130 exploits 0-day publiés sur GitHub, quel risque pour vos données](https://www.dpo-partage.fr/exploitarium-130-exploits-0-day-publies-sur-github-quel-risque-pour-vos-donnees/)  
-*Source : dpo-partage.fr | Publication : 2026-06-30*
+## [<b>Cybersécurité</b> : pour Cisco, l'IA change déjà les règles du jeu - Le Monde Informatique](https://www.lemondeinformatique.fr/publi_info/lire-cybersecurite-pour-cisco-l-ia-change-deja-les-regles-du-jeu-1384.html)  
+*Source : lemondeinformatique.fr | Publication : 2026-07-01*
 
-- Un chercheur anonyme connu sous le pseudonyme « bikini » a publié fin juin 2026 un dépôt GitHub baptisé « Exploitarium ».
-- On y trouve plus de 130 codes d’attaque visant des logiciels non corrigés, répartis sur 22 projets, sans qu’aucun éditeur n’ait été prévenu au préalable.
-- GitHub a depuis retiré le dépôt, mais des copies circulent déjà.
-- Pour les organisations, cette diffusion massive augmente brutalement le risque d’exploitation, et donc le risque pour les données personnelles.
+- Pour Anthony Grieco, le constat est sans équivoque : l’intelligence artificielle marque une rupture dans le domaine de la cybersécurité.
+- Deux dynamiques sont aujourd’hui à l’œuvre.
+- D’un côté, les attaquants réduisent continuellement le délai entre la découverte d’une vulnérabilité et son exploitation.
+- De l’autre, les défenseurs disposent désormais d’outils capables d’identifier et de corriger ces vulnérabilités à une vitesse et à une échelle inédites.
 
-## [Une importante fuite de données chez un des principaux partenaires d'Apple lève le voile ... - BFM](https://www.bfmtv.com/tech/cybersecurite/une-importante-fuite-de-donnees-chez-un-des-principaux-partenaires-d-apple-leve-le-voile-sur-les-secrets-d-apple-et-sur-l-i-phone-18-pro-avec-plus-de-deux-mois-d-avance_AN-202606300828.html)  
-*Source : bfmtv.com | Publication : 2026-06-30*
+## [Enlèvements liés aux cryptomonnaies et <b>cybersécurité</b>: «Le business des données volées a ... - Slate](https://www.slate.fr/tech-internet/enlevements-lies-cryptomonnaies-cybersecurite-business-donnees-volees-depasse-trafic-drogue-hackeurs-fuites-cybercriminalite-france-cryptorapts)  
+*Source : slate.fr | Publication : 2026-07-01*
 
-- Une importante fuite de données chez un des principaux partenaires d’Apple lève le voile sur les secrets d’Apple et sur l’iPhone 18 Pro, avec plus de deux mois d’avance Ce n'est pas un iPhone oublié dans un bar comme en 2010, mais c'est tout aussi embarrassant.
-- Apple fait face, depuis quelques heures, à des milliers de publications sur les réseaux sociaux montrant ce que sera l'iPhone 18 Pro, l'appareil le plus haut de gamme de son catalogue de rentrée.
-- Les images sont authentiques.
-- En tout cas, elles proviennent d'un partenaire d'Apple.
+- Enlèvements liés aux cryptomonnaies et cybersécurité: «Le business des données volées a dépassé le trafic de drogue» [Épisode 3/3] Les fuites de données se multiplient à un rythme inédit, en touchant entreprises, administrations et particuliers.
+- Derrière ces cyberattaques, un écosystème structuré s'est imposé, des groupes de hackeurs parfois très jeunes jusqu'à des États.
+- Un phénomène devenu massif.
+- Jeudi 11 juin, l'Office anti-cybercriminalité (OFAC) annonce l'interpellation de sept personnes soupçonnées d'avoir organisé le vol et la revente de données informatiques sensibles à grande échelle.
 
-## [Des cybercriminels russes ont piraté une installation de traitement de l'eau au Québec](https://www.qub.ca/article/des-cybercriminels-russes-ont-pirate-une-installation-de-traitement-de-leau-au-quebec-248860806)  
-*Source : qub.ca | Publication : 2026-06-30*
+## [Windows 11 : après sa divulgation explosive, la faille BlueHammer exploitée par des gangs ...](https://www.clubic.com/actualite-619411-windows-11-apres-sa-divulgation-explosive-la-faille-bluehammer-exploitee-par-des-gangs-de-ransomware.html)  
+*Source : clubic.com | Publication : 2026-07-01*
 
-- Notons par ailleurs que ce n'est pas le CST qui a détecté cette intrusion, mais le groupe d'intervention en cas d'incident de cybersécurité des États-.
+- Déjà exploitée après sa publication sur GitHub, la faille BlueHammer franchit un nouveau cap.
+- D’après la CISA, cette vulnérabilité affectant Microsoft Defender est maintenant utilisée dans des campagnes de ransomware.
+- BlueHammer entre dans l’arsenal des rançongiciels La CISA n’a pas précisé quel groupe de ransomware était à l’œuvre derrière BlueHammer, ni quelles victimes avaient été visées, mais l’ajout de cette mention au catalogue KEV confirme que la faille est désormais utilisée dans des campagnes d’extorsion structurées, et plus seulement dans des attaques opportunistes.
+- Pour rappel, BlueHammer ne permet pas d’attaquer une machine Windows depuis Internet.
 
-## [VIDEO - Qu'est-ce que le SecNumCloud ? - Les Echos](https://www.lesechos.fr/tech-medias/hightech/video-quest-ce-que-le-secnumcloud-2240019)  
-*Source : lesechos.fr | Publication : 2026-06-30*
+## [Madagascar. Une nouvelle loi sur la <b>cybersécurité</b> - L'Observateur du Maroc](https://lobservateur.info/article/118936/afrique/madagascar-une-nouvelle-loi-sur-la-cybersecurite)  
+*Source : lobservateur.info | Publication : 2026-07-01*
 
-- Derrière ce label de cybersécurité porté par l'Etat se cachent des questions de souveraineté et de protection des données… mais aussi des coûts de.
+- Madagascar accélère la modernisation de son arsenal juridique en matière de cybersécurité.
+- 01 Juil 2026, 9:50 Lilia Habboul.
+- No Image.
+- Follow.
 
-## [Ingérences numériques : des étrangers qui déstabilisent la démocratie et l'économie](https://www.france24.com/fr/émissions/aux-avant-postes/20260630-ingérences-numériques-des-étrangers-qui-déstabilisent-la-démocratie-et-l-économie)  
-*Source : france24.com | Publication : 2026-06-30*
+## [« L'agent IA, c'est le bras armé de l'IA générative », Adrien Merveille, Check Point](https://www.solutions-numeriques.com/lagent-ia-cest-le-bras-arme-de-lia-generative-adrien-merveille-check-point/)  
+*Source : solutions-numeriques.com | Publication : 2026-07-01*
 
-- Ingérences numériques : des étrangers qui déstabilisent la démocratie et l'économie Pour afficher ce contenu YouTube, il est nécessaire d'autoriser les cookies de mesure d'audience et de publicité.
-- Une extension de votre navigateur semble bloquer le chargement du lecteur vidéo.
-- Pour pouvoir regarder ce contenu, vous devez la désactiver ou la désinstaller.
-- Publié le : Qu'elles soient politiques ou économiques, les ingérences frappent de plus en plus fort les intérêts des nations visées.
+- Les agents IA promettent d’automatiser des pans entiers du travail en entreprise.
+- Mais plus ils gagnent en autonomie, plus ils gagnent en accès, et donc en surface d’attaque.
+- Prompt injection, hallucinations, suppression de données : les dérives existent déjà.
+- Reste à savoir comment les entreprises peuvent tester, encadrer et sécuriser ces nouveaux collaborateurs numériques avant de leur ouvrir les portes de la production.
