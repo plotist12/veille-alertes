@@ -1,145 +1,157 @@
-# Résumés – 2026-07-04
+# Résumés – 2026-07-05
 
 
-## [iOS 27 veut bloquer les arnaqueurs en temps réel - Korben](https://korben.info/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel.html)  
-*Source : korben.info | Publication : 2026-07-03*
+## [MOHAMED LAMINE BELBACHIR, PDG D'AYRADE - Horizons](https://www.horizons.dz/2026/07/mohamed-lamine-belbachir-pdg-dayrade/)  
+*Source : horizons.dz | Publication : 2026-07-04*
 
-- iOS 27 veut bloquer les arnaqueurs en temps réel Ce qu’il faut retenir Apple dévoile Trust Insights dans iOS 27, une API qui détecte les arnaqueurs en temps réel en analysant vos schémas d'interaction, le rythme de vos gestes et le contexte, sans inspecter le contenu de vos messages ni photos.
-- - Le système fonctionne entièrement sur l'iPhone et transmet une seule information aux applications : un niveau de risque moyen ou élevé, permettant à votre banque d'imposer un délai ou une vérification supplémentaire avant de valider un virement.
-- - Trust Insights couvre cinq catégories d'actions à risque : paiements et transferts, modifications de compte, accès à ressources coûteuses, envoi de messages ou signature de documents, et autres, mais son efficacité dépend entièrement de l'intégration volontaire par les développeurs d'applications.
-- - Résumé généré par IA Le scénario est toujours le même.
+- «La question de la souveraineté est essentielle pour l’avenir technologique du pays» Mohamed Lamine Belbachir, PDG d’Ayrade, souligne que «la question de la souveraineté est essentielle pour l’avenir technologique du pays» Dans cet entretien, le PDG d’AYRADE, Mohamed Lamine Belbachir, estime que l’introduction en Bourse de son entreprise, clôturée le 30 juin dernier, a été un succès marqué par une forte mobilisation des investisseurs particuliers et des souscriptions en ligne qui ont dépassé les 1.500 depuis le lancement de notre plateforme digitale.
+- Cette opération, ouverte du 1er au 30 juin 2026 sur 20% du capital, a fait d’AYRADE la première entreprise technologique et le premier opérateur algérien de cloud computing souverain coté à la Bourse d’Alger.
+- Entretien réalisé par A. Hamiche Pouvez-vous nous présenter AYRADE, ses activités principales et sa vision dans le domaine du cloud souverain en Algérie?.
+- AYRADE est une entreprise technologique fondée en 2009, spécialisée dans l’hébergement web, les data centers, la cybersécurité et les services numériques.
 
-## [<b>Cybercriminalité</b> : le Marocain Amine Bajeddi traque les failles des organisations](https://www.wearetech.africa/fr/fils/tech-stars/cybercriminalite-le-marocain-amine-bajeddi-traque-les-failles-des-organisations)  
-*Source : wearetech.africa | Publication : 2026-07-03*
+## [Côte d'Ivoire-USA : En raison de la menace des cybercriminels ivoiriens, un adolescent ...](https://www.koaci.com/article/2026/07/04/cote-divoire/societe/cote-divoire-usa-en-raison-de-la-menace-des-cybercriminels-ivoiriens-un-adolescent-americain-de-15-ans-se-suicide-la-decision-du-procureur_198252.html)  
+*Source : koaci.com | Publication : 2026-07-04*
 
-- Protéger l'image et les données sensibles d'une organisation est devenu un impératif dans un paysage numérique de plus en plus hostile.
-- Cet entrepreneur simplifie la traque des menaces en ligne.
-- Amine Bajeddi (photo) est un expert en marketing et un entrepreneur technologique marocain.
-- Il est cofondateur et directeur général de Defendis, une start-up spécialisée dans la gestion des risques de cybersécurité externes.
+- Côte d'Ivoire-USA : En raison de la menace des cybercriminels ivoiriens, un adolescent américain de 15 ans se suicide, la décision du Procureur Voici une affaire de cybercriminalité dont la fin a été dramatique pour la victime.
+- Selon les faits rapportés, dans le courant du mois de septembre 2025, la section recherches de la gendarmerie nationale a été saisie par les Américains après le suicide d'un Américain de 15 ans.
+- Le mineur a reçu des vidéos intimes.
+- Le titulaire du compte Facebook qui a envoyé les vidéos a été repéré en Guinée.
 
-## [Mastercard investit dans un centre panafricain de <b>cybersécurité</b>, face à la hausse des menaces](https://www.wearetech.africa/fr/fils/actualites/tech/mastercard-investit-dans-un-centre-panafricain-de-cybersecurite-face-a-la-hausse-des-menaces)  
-*Source : wearetech.africa | Publication : 2026-07-03*
+## [Vous cherchez un climatiseur ? Évitez à tout prix ces modèles, ce sont des arnaques](https://www.01net.com/actualites/vous-cherchez-un-climatiseur-evitez-a-tout-prix-ces-modeles-ce-sont-des-arnaques.html)  
+*Source : 01net.com | Publication : 2026-07-04*
 
-- La transformation numérique s’accélère en Afrique, où elle est considérée comme un levier majeur de développement socio‑économique, mais elle s’accompagne de nouveaux risques.
-- Le fournisseur de solutions de paiement américain Mastercard prévoit de mettre en place un centre d’excellence en cybersécurité en Afrique.
-- Cette initiative vise à renforcer la cyberrésilience du continent face à la montée des menaces liées à l’accélération de la transformation numérique.
-- Selon un communiqué de Mastercard publié lundi 29 juin, l’entreprise précise que le centre réunira institutions financières, organisations publiques et entreprises afin de partager des renseignements, améliorer la préparation, anticiper plus tôt les menaces et renforcer durablement la résilience des systèmes.
+- La France a connu un épisode caniculaire particulièrement éprouvant.
+- Certaines régions continuent d’ailleurs d’enregistrer des températures élevées, dépassant allègrement les 30 degrés.
+- Les jours à venir s’annoncent une nouvelle fois chauds, et chacun essaie de se préparer comme il le peut.
+- Le problème : les climatiseurs et les ventilateurs sont en rupture de stock quasiment partout.
 
-## [Lancom devient une marque de Rohde &amp; Schwarz - ITforBusiness.fr](https://www.itforbusiness.fr/lancom-devient-une-marque-de-rohde-schwarz-105434)  
-*Source : itforbusiness.fr | Publication : 2026-07-03*
+## [Le piège est redoutable : comment un faux logiciel macOS vole vos données, et comment l'éviter](https://www.futura-sciences.com/tech/actualites/cybersecurite-piege-redoutable-faux-logiciel-macos-vole-vos-donnees-eviter-135908/)  
+*Source : futura-sciences.com | Publication : 2026-07-04*
 
-- ChannelScope Lancom devient une marque de Rohde & Schwarz Par Frédéric Bergonzoli, publié le 03 juillet 2026 En fusionnant Lancom Systems et Rohde & Schwarz Cybersecurity, le groupe allemand fédère réseau, chiffrement et cybersécurité sous la même entité.
-- Le channel reste au cœur du regroupement, avec une priorité affichée pour le marché français.
-- Lancom Systems et Rohde & Schwarz Cybersecurity, deux filiales du groupe bavarois Rohde & Schwarz, rapprochent leurs activités réseau, cybersécurité et chiffrement pour former Rohde & Schwarz Networks and Cybersecurity (RSNC).
-- L’union ne fait pas totalement disparaitre Lancom, dont le nom devient une marque de produits.
+- On ne le répètera jamais assez : attention à ce que vous téléchargez.
+- Et ne vous croyez pas à l'abri des virus simplement parce que vous êtes sur Mac.
+- Malgré sa réputation, macOS est régulièrement ciblé par des logiciels malveillants.
+- Des spécialistes en cybersécurité chez Jamf Threat Labs alertent sur une nouvelle menace sur macOS, qu'ils ont baptisée PamStealer.
 
-## [Lancom Systems et Rohde &amp; Schwarz Cybersecurity fusionnent - infoDSI](https://infodsi.com/articles/210316/lancom-systems-et-rohde-schwarz-cybersecurity-fusionnent.html)  
-*Source : infodsi.com | Publication : 2026-07-03*
+## [Numérique : Oligui Nguema inaugure le 1er data center gabonais - Union Sonapresse](https://www.union.sonapresse.com/fr/numerique-oligui-nguema-inaugure-le-1er-data-center-gabonais)  
+*Source : union.sonapresse.com | Publication : 2026-07-04*
 
-- Veuillez activer Javascript.
+- Le président de la République, Brice Clotaire Oligui Nguema, a inauguré hier, dans la Zone économique spéciale de Nkok, le premier data center du Gabon, infrastructure générée par ST Digital Data Center Services.
+- La cérémonie a également été marquée par la signature d'un mémorandum d'entente entre le ministère de l'Économie numérique, de la Digitalisation et de l'Innovation et ladite entreprise pour soutenir les startups gabonaises.
+- Cette double initiative vise à renforcer l'hébergement local des données, la cybersécurité et la transformation numérique du pays.
+- Conforme aux standards internationaux, car certifiée Tier III, cette infrastructure doit améliorer les capacités nationales de stockage, soutenir le cloud comput ing, accompagner les administrations et les entreprises, tout en renforçant la souveraineté numérique.
 
-## [Modifications relatives au Centre pour la <b>Cybersécurité</b> | News.belgium](https://news.belgium.be/fr/modifications-relatives-au-centre-pour-la-cybersecurite)  
-*Source : news.belgium.be | Publication : 2026-07-03*
+## [25 millions d'identifiants piratés, 140 000 PC infectés : comment une opération de police a ...](https://www.01net.com/actualites/25-millions-identifiants-pirates-140-000-pc-infectes-comment-operation-police-a-neutralise-deux-redoutables-virus.html)  
+*Source : 01net.com | Publication : 2026-07-04*
 
-- Modifications relatives au Centre pour la Cybersécurité · Bart De Wever, Premier ministre · Bernard Quintin, ministre de la Sécurité et de l'Intérieur,.
+- Mi-juin, Europol a mis un terme aux activités de SocGholish, un gang de cybercriminels spécialisé dans le déploiement de fausses alertes de mises à jour.
+- Actif depuis 2017, le gang avait piraté près de 15 000 sites WordPress en y injectant du JavaScript malveillant.
+- Surnommé le « parrain » des fausses mises à jour par Proofpoint, le groupe servait de porte d’entrée à des ransomwares majeurs, comme LockBit.
+- Dans le cadre d’une opération de police internationale, les forces de l’ordre ont désactivé 106 serveurs et sauvé les 14 971 sites compromis par SocGholish.
 
-## [Global Cyber Conference 2026 à Zurich | Événements cloudmagazin](https://www.cloudmagazin.com/fr/events/global-cyber-conference-2026-zurich/)  
-*Source : cloudmagazin.com | Publication : 2026-07-03*
+## [Une cyberattaque touche le Centre Hospitalier de Chaumont, les systèmes d'information affectés](https://frenchbreaches.com/alertes/centre-hospitalier-de-chaumont-mr5o74w1gskospfhke8)  
+*Source : frenchbreaches.com | Publication : 2026-07-04*
 
-- Note événement: La Global Cyber Conference 2026 aura lieu les 1er et 2 septembre 2026 au The Dolder Grand à Zurich.
-- Sous le thème CONVERGENCE, le format relie stratégie cybersécurité, IA et technologie quantique pour cadres dirigeants.
-- Pour les décideurs, l’événement compte car la jonction entre cybersécurité, IA et quantique devient un enjeu central de gouvernance en 2026.
-- Maîtriser risques, conformité et investissements exige de comprendre la convergence de ces champs.
+- Cyberattaque – Le Centre Hospitalier de Chaumont confirme un incident de cybersécurité affectant son système d'information Le Centre Hospitalier de Chaumont a confirmé avoir été victime d'une cyberattaque ayant affecté son système d'information.
+- Dans un communiqué publié le 2 juillet 2026, l'établissement indique avoir constaté des anomalies sur son système informatique avant d'identifier une cyberattaque.
+- Les équipes techniques ont immédiatement engagé les mesures nécessaires afin de contenir l'incident et d'assurer la continuité de la prise en charge des patients.
+- Confirmation officielle Selon le communiqué diffusé par le Centre Hospitalier de Chaumont : des anomalies ont été détectées sur le système d'information ; - une cyberattaque a été identifiée ; - les équipes techniques de l'établissement ont immédiatement pris en charge l'incident ; - une coordination a été mise en place avec le CHU Dijon Bourgogne, le Groupement Hospitalier de Territoire (GHT) et les services de l'État ; - des experts en cybersécurité ont été mobilisés afin de sécuriser et restaurer les systèmes d'information ; - une coordination territoriale a également été mise en place avec l'Agence Régionale de Santé (ARS).
 
-## [Banque africaine : 20 ans de <b>cybersécurité</b> peuvent-ils tenir trente secondes fac](https://www.sikafinance.com/marches/banque-africaine-20-ans-de-cybersecurite-peuvent-ils-tenir-trente-secondes-face-a-chatgpt-claude-copilot-_62741)  
-*Source : sikafinance.com | Publication : 2026-07-03*
+## [Une hackeuse a pris le contrôle du streaming du Mondial 2026 et a failli troller 3 milliards ... - Clubic](https://www.clubic.com/actualite-619945-une-hackeuse-a-pris-le-controle-du-streaming-du-mondial-2026-et-a-failli-troller-3-milliards-de-telespectateurs.html)  
+*Source : clubic.com | Publication : 2026-07-04*
 
-- Il y a 20 ans, un responsable de la sécurité informatique dans une grande banque a commencé à construire un système de défense solide.
-- Année après année, il a recruté des experts, installé des outils de protection, séparé les réseaux et mis toute l'infrastructure aux normes internationales.
-- Ce travail a demandé du temps, beaucoup d'efforts et des budgets importants pour protéger la banque comme une véritable forteresse numérique.
-- Aujourd'hui, cette forteresse peut s'effondrer en un instant.
+- Une hackeuse éthique a accédé au panneau de gestion du streaming de la Coupe du monde 2026 en s’inscrivant simplement comme agent FIFA.
+- Clés de flux, URLs d’ingest RTMP, contrôles start/stop : tout était là, ouvert à n’importe quel compte sans rôle.
+- Cinq jours après le coup d’envoi du Mondial, une chercheuse en sécurité connue sous le pseudonyme Bobdahacker publiait un billet de blog qui a de quoi faire froid dans le dos.
+- Le point de départ : agents.fifa.org, le portail public permettant à quiconque de demander une licence d’agent de joueurs.
 
-## [La Commission européenne proposera une capacité propre d'évaluation des modèles d'IA ...](https://agenceurope.eu/fr/bulletin/article/13902/7/)  
-*Source : agenceurope.eu | Publication : 2026-07-03*
+## [« En 2026, nous assisterons à une attaque catastrophique », des experts alertent sur la ...](https://www.lacremedugaming.fr/high-tech/en-2026-nous-assisterons-a-une-attaque-catastrophique-des-experts-alertent-sur-la-montee-en-puissance-des-nouveaux-modeles-dia-218847.html)  
+*Source : lacremedugaming.fr | Publication : 2026-07-04*
 
-- La Commission européenne devrait présenter, mardi 7 juillet, un nouveau 'Plan d'action sur l'intelligence artificielle et la cybersécurité' visant à doter l’UE d’une capacité propre d'évaluation des modèles d'intelligence artificielle, y compris sous l'angle de la cybersécurité, et à accélérer le développement des solutions européennes de cybersécurité fondées sur l'IA.
-- Cette initiative fait suite aux révélations selon lesquelles le modèle Mythos de la société Anthropic est capable de détecter des vulnérabilités logicielles dissimulées, faisant craindre son utilisation comme cyberarme, ainsi qu'à la décision des États-Unis de restreindre l'accès à ce modèle aux utilisateurs non américains.
-- « Les capacités d''IA de frontière' sont principalement développées en dehors de l'Union européenne et leur disponibilité dépend souvent de processus étrangers peu transparents.
-- La connaissance de ces capacités et l'accès à celles-ci constituent dès lors un enjeu non seulement de résilience numérique, mais aussi de souveraineté technologique européenne.
+- « En 2026, nous assisterons à une attaque catastrophique », des experts alertent sur la montée en puissance des nouveaux modèles d’IA L’intelligence artificielle progresse à un rythme qui dépasse les prévisions.
+- En quelques mois, de nouveaux modèles ont atteint des capacités inédites, notamment dans le domaine de la cybersécurité.
+- Ce bond technologique, salué pour ses opportunités, suscite aussi des inquiétudes croissantes au sein des autorités et des spécialistes.
+- Banques, institutions financières et entreprises du secteur cyber tirent désormais la sonnette d’alarme.
 
-## [Finance: Trois institutions renforcent leur coopération contre les cyberattaques](https://fr.tradingview.com/news/afp:5fb1e10a72a83:0/)  
-*Source : fr.tradingview.com | Publication : 2026-07-03*
+## [Google s'attaque à un vaste réseau de proxies résidentiels lié à NetNut - Clubic](https://www.clubic.com/actualite-619834-google-fait-tomber-un-vaste-reseau-de-proxies-residentiels-lie-a-netnut.html)  
+*Source : clubic.com | Publication : 2026-07-04*
 
-- Finance: Trois institutions renforcent leur coopération contre les cyberattaques L'agence française de cybersécurité, le régulateur des banques et des assureurs et la Banque de France ont signé vendredi un accord pour renforcer leur coopération en matière de sécurité des systèmes d'information des institutions financières.
-- "Dans un contexte où la menace cyber qui pèse sur le système financier s'intensifie", l'ANSSI, l'ACPR et la Banque de France vont "renforcer l'échange d'informations et la coopération nécessaires à l'exercice de leurs missions complémentaires dans le domaine de la sécurité des systèmes d'information", indiquent les trois institutions dans un communiqué commun.
-- "La multiplication des cyberattaques constitue aujourd'hui l'un des principaux risques systémiques pour le secteur financier.
-- Les institutions financières sont des cibles privilégiées en raison de la sensibilité et de la valeur des données qu'elles détiennent.
+- Deux millions de téléviseurs et boîtiers détournés, 316 groupes malveillants servis en une seule semaine, et au sommet de la pyramide, une entreprise bien cotée au Nasdaq.
+- Google vient de frapper NetNut, et le dossier est épais.
+- Votre téléviseur connecté mène peut-être une double vie, et pas au sens figuré : pendant que vous regardez votre série, sa connexion peut servir de relais à de parfaits inconnus.
+- C'est tout l'objet de l'opération annoncée par le Google Threat Intelligence Group, épaulé par le FBI et l'opérateur Lumen : la dégradation de l'infrastructure de NetNut, un fournisseur de proxies résidentiels dont le réseau s'appuyait sur près de 2 millions d'appareils domestiques, téléviseurs intelligents et boîtiers de streaming en tête.
 
-## [Europe : les hôteliers s'inquiètent davantage des aléas climatiques et des cyberattaques](https://www.paxnouvelles.com/nouvelles/hotel-fr/europe-les-hoteliers-sinquietent-davantage-des-aleas-climatiques-et-des-cyberattaques)  
-*Source : paxnouvelles.com | Publication : 2026-07-03*
+## [Comment protéger votre réassurance face aux <b>cybermenaces</b> et garantir la conformité à ...](https://www.newsassurancespro.com/comment-proteger-votre-reassurance-face-aux-cybermenaces-et-garantir-la-conformite-a-dora-nis-2-et-au-rgpd/01691688882)  
+*Source : newsassurancespro.com | Publication : 2026-07-04*
 
-- La cybersécurité préoccupe.
-- Le rapport souligne que les cybermenaces figurent parmi les préoccupations importantes du secteur.
-- Dans l'ensemble, 66.
+- Comment protéger votre réassurance face aux cybermenaces et garantir la conformité à DORA, NIS 2 et au RGPD Le secteur de l’assurance a toujours évolué dans un environnement de risque systémique.
+- Cependant, à l’ère de la transformation digitale, un nouveau front s’est ouvert avec une rapidité et une portée inédites : le risque cyber.
+- Plateformes de gestion de portefeuille, systèmes de tarification, archives contractuelles : l’ensemble des actifs constituant le cœur opérationnel d’une compagnie ou d’un groupe assurantiel qui gère sa réassurance est désormais accessible via des réseaux numériques, et donc exposé à des menaces qui, jusqu’à récemment, semblaient difficilement concevables.
+- Selon le World Economic Forum, les cyberattaques visant le secteur financier ont augmenté de 238 % entre 2020 et 2024, tandis que le coût moyen d’une violation de données dans le domaine financier dépasse désormais 6 millions de dollars.
 
-## [<b>Ransomwares</b> : les groupes criminels exploitent désormais Citrix Bleed pour frapper plus fort - Clubic](https://www.clubic.com/actualite-619759-ransomwares-les-groupes-criminels-exploitent-desormais-citrix-bleed-pour-frapper-plus-fort.html)  
-*Source : clubic.com | Publication : 2026-07-03*
+## [Forum InCyber 2027 : le grand rendez-vous de la <b>cybersécurité</b> à Lille - JDS](https://www.jds.fr/lille/manifestations/forum-incyber-2027-1638022_A)  
+*Source : jds.fr | Publication : 2026-07-04*
 
-- Les affiliés du rançongiciel Anubis exploitent la faille Citrix Bleed 2 pour pénétrer les réseaux d'entreprises.
-- Le groupe The Gentlemen arme une vulnérabilité zero-day logée dans un pilote pour désactiver des antivirus, et les rançongiciels Vect et TeamPCP mènent des attaques conjointes.
-- Il y a un peu plus d'un an, Citrix a révélé la faille Citrix Bleed 2, référencée CVE-2025-5777.
-- Il suffisait alors d'envoyer une requête spécialement conçue au point d'authentification /p/u/doAuthentication.do des équipements NetScaler ADC et Gateway pour exploiter une variable de connexion non initialisée et récupérer, parfois, des jetons de session actifs.
+- Du 09/03/2027 au 11/03/2027 Du 9 au 11 mars 2027, Lille accueille le Forum InCyber, l'un des plus grands rassemblements européens dédiés à la cybersécurité et à la confiance numérique.
+- Pendant trois jours, le Grand Palais de Lille devient le lieu de convergence des professionnels, experts, institutionnels et chercheurs du secteur, venus de toute l'Europe et au-delà.
+- Chaque édition réunit près de 20 000 participants autour de conférences de haut niveau, de démonstrations techniques et d'exposants spécialisés.
+- © InCyber InCyber, c'est le grand rendez-vous des professionnels de la cybersécurité Sommaire Né à l'initiative du Clusif et du CDSE, le Forum InCyber (anciennement connu sous le nom de Forum International de la Cybersécurité, ou FIC) s'est construit, au fil des années, comme une référence sur la scène de la sécurité numérique en Europe.
 
-## [Thales sécurise les documents du FED - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/65053-thales-securise-les-documents-du-fed.html)  
-*Source : linformaticien.com | Publication : 2026-07-03*
+## [Lancom Systems et Rohde &amp; Schwarz Cybersecurity fusionnent - ITRmanager](https://itrmanager.com/articles/210316/lancom-systems-et-rohde-schwarz-cybersecurity-fusionnent.html)  
+*Source : itrmanager.com | Publication : 2026-07-04*
 
-- LES DOSSIERS CYBERSECURITE.
-- CRA : la chasse aux vulnérabilités des objets ... Ransomware : les jours d'après · Cybersécurité · Thales sécurise les.
+- cybersécurité souveraines, entièrement conçues en Allemagne.
+- C'est tout le sens de cet « Engineered in Germany » qui irrigue l'histoire des deux.
 
-## [Nutanix contrôle coûts de l'IA - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/tendances/941-ia/65052-nutanix-controle-couts-de-l-ia.html)  
-*Source : linformaticien.com | Publication : 2026-07-03*
+## [Invitation aux médias - Annonce concernant l'Opération couverture cellulaire - Le Lézard](https://www.lelezard.com/communique-22286586.html)  
+*Source : lelezard.com | Publication : 2026-07-04*
 
-- L'éditeur de solutions de cloud hybride et d'hyperconvergence annonce la disponibilité générale de la solution Nutanix Agent Gateway,.
+- QUÉBEC, le 3 juill.
+- 2026 /CNW/ - La ministre de la Cybersécurité et du Numérique, Mme France-Élaine Duranceau, invite les représentantes et les.
 
-## [JAHIA pitché au DSI - Salon de la Souveraineté Numérique - IT SOCIAL](https://itsocial.fr/contenus/cas-dusages/pitch-fournisseur/jahia-pitche-au-dsi-salon-de-la-souverainete-numerique/)  
-*Source : itsocial.fr | Publication : 2026-07-03*
+## [Anatomie du phishing moderne : le clic anodin qui coûte tout - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1552155-anatomie-du-phishing-moderne-le-clic-anodin-qui-coute-tout/)  
+*Source : journaldunet.com | Publication : 2026-07-04*
 
-- Interview de Julian MAUREL CEO chez JAHIA, réalisé lors de la Salon Souveraineté Numérique.
-- 1 - Elevator Pitch Jahia est un éditeur français de CMS open source issu de la French Tech.
-- Depuis plus de 20 ans, l'entreprise développe une plateforme de gestion de contenus utilisée par de grandes administrations (France Travail, ministère des Finances) et de nombreuses banques et assurances.
-- Son positionnement repose sur la sécurité, la souveraineté des données et la capacité à gérer des environnements web complexes.
+- Anatomie du phishing moderne : le clic anodin qui coûte tout 3,8 millions d'attaques de phishing ont été recensées en 2025, un niveau record.
+- Et pourtant, ce chiffre ne raconte qu'une partie de l'histoire.
+- Ce qui a véritablement changé cette année, ce n'est pas le volume des attaques mais leur capacité à se fondre dans le décor de notre quotidien en ligne.
+- Le phishing ne ressemble plus à ce qu'on nous a appris à reconnaître.
 
-## [Le partenariat entre Jimber et Amotek apporte la <b>cybersécurité</b> à l'Amotek Stack - ITdaily](https://itdaily.fr/nouvelles/business/partenariat-jimber-et-amotek-apporte-la-cybersecurite-a-amotek-stack/)  
-*Source : itdaily.fr | Publication : 2026-07-03*
+## [Une fois de plus le département de la Sécurité intérieure des États-Unis s'est fait pirater](https://www.clubic.com/actualite-619855-une-fois-de-plus-le-departement-de-la-securite-interieure-des-etats-unis-s-est-fait-pirater.html)  
+*Source : clubic.com | Publication : 2026-07-04*
 
-- Jimber et Amotek annoncent un partenariat stratégique dans lequel Jimber apporte son expertise en cybersécurité à l’Amotek Stack.
-- Les deux entreprises belges Jimber (cybersécurité) et Amotek (IA) unissent leurs forces.
-- Alors qu’Amotek se concentre sur le développement de solutions numériques et d’applications d’IA au sein de son Amotek Stack, Jimber apporte ses connaissances en matière de sécurité réseau et de solutions de cybersécurité.
-- Selon les PDG, cette complémentarité crée une valeur ajoutée pour les deux entreprises et leurs clients.
+- Le Department of Homeland Security confirme une intrusion sur le Homeland Security Information Network (HSIN), la plateforme utilisée par les agences fédérales, locales et leurs partenaires privés pour échanger des informations sensibles.
+- L'attaque, menée par un acteur encore non identifié, s'est déroulée entre fin mai et début juin, alors que les États-Unis assurent la sécurité des rencontres de la Coupe du Monde organisées sur leur territoire.
+- Repérée par le média Nextgov puis confirmée par le DHS auprès de BleepingComputer, l'intrusion touche un système non classifié, mais jugé hautement sensible par le sénateur Mark Warner.
+- Vice-président de la commission du renseignement au Sénat, il a aussitôt réclamé des explications à l'agence.
 
-## [Le Cadre d'architecture numérique doit garantir l'interopérabilité nationale et locale](https://lecourrier.vn/le-cadre-darchitecture-numerique-doit-garantir-linteroperabilite-nationale-et-locale/1350704.html)  
-*Source : lecourrier.vn | Publication : 2026-07-03*
+## [« Embarrassant pour l'Europe » : un député qui enquêtait sur le logiciel espion Pegasus ...](https://www.presse-citron.net/embarrassant-europe-depute-enquetait-logiciel-espion-pegasus-pirate-pegasus/)  
+*Source : presse-citron.net | Publication : 2026-07-04*
 
-- >> Un programme de transformation numérique pour accompagner 200.000 PME >> La Loi sur le commerce électronique va façonner un marché numérique transparent >> La transformation numérique au Vietnam prend de l’ampleur et accélère Le chef du gouvernement a souligné que ce cadre constituait le plan directeur de la transformation numérique à l'échelle nationale.
-- Il devra garantir l'uniformité, le partage et l'interopérabilité des systèmes dans l'ensemble de l'appareil politique, du niveau central jusqu'au niveau locale, tout en assurant la connexion avec les habitants et les entreprises.
-- Il devra également rester suffisamment ouvert pour permettre des ajustements en temps voulu, tout en garantissant la cybersécurité et la sécurité des systèmes d'information.
-- Selon le Premier ministre, ce cadre revêt une importance déterminante pour le processus de transformation numérique.
+- Les experts en cybersécurité du Citizen Lab de l’Université de Toronto viennent de révéler une affaire particulièrement embarrassante pour Bruxelles.
+- Stelios Kouloglou, ancien eurodéputé et journaliste grec, a vu son iPhone personnel piraté à plusieurs reprises.
+- L’ironie est totale : l’homme a été ciblé alors qu’il siégeait activement au sein de la commission PEGA, un organe du Parlement européen créé spécialement pour enquêter sur les dérives des logiciels espions en Europe.
+- C’est la toute première fois qu’un membre de cette commission officielle est publiquement identifié comme victime.
 
-## [Paris : L'ANSSI auditionnée au Sénat sur la <b>cybersécurité</b> - Presse Agence](https://presseagence.fr/paris-cybersecurite-vincent-strubel-directeur-de-lanssi-auditionne-sur-les-enjeux-economiques/)  
-*Source : presseagence.fr | Publication : 2026-07-03*
+## [Sécurité offensive : Quand les attaquants ciblent les chercheurs. YesWeHack et Sekoia ...](https://incyber.org/article/securite-offensive-quand-les-attaquants-ciblent-les-chercheurs-yeswehack-et-sekoia-devoilent-la-campagne-malveillante-chocopocs/)  
+*Source : incyber.org | Publication : 2026-07-03*
 
-- PARIS : Cybersécurité – Vincent STRUBEL, directeur de… Partager : PARIS : Cybersécurité – Vincent STRUBEL, directeur de l’ANSSI, auditionné sur les enjeux économiques Le directeur général de l’ANSSI sera entendu le 8 juillet par la commission des affaires économiques du Sénat sur les menaces et stratégies nationales.
-- La sécurité numérique s’impose comme un pilier de la compétitivité et de la souveraineté.
-- Dans ce contexte, la commission des affaires économiques du Sénat, présidée par Dominique Estrosi Sassone, auditionnera Vincent Strubel, directeur général de l’Agence nationale de sécurité des systèmes d’information (ANSSI), le mercredi 8 juillet 2026 à 10 heures.
-- Cette audition, qui se tiendra au Palais du Luxembourg, sera retransmise en direct.
+- Sécurité offensive : Quand les attaquants ciblent les chercheurs.
+- YesWeHack et Sekoia dévoilent la campagne malveillante « ChocoPoCs » Articles du même auteur : 1 03.07.26 Cybercriminalité France : l’Ofac démantèle le gang cybercriminel Marak Lire 02.
+- 2 03.07.26 Cyber + Un membre supposé de Scattered Spider extradé vers les États-Unis Lire 02.
 
-## [Polypus assemble la souveraineté par briques - infoDSI](https://infodsi.com/articles/210307/polypus-assemble-la-souverainete-par-briques.html)  
-*Source : infodsi.com | Publication : 2026-07-03*
+## [PIIRATES poursuit une croissance &quot;saine et sereine&quot; - Écho Drôme Ardèche - Mesinfos.fr](https://mesinfos.fr/07130-saint-peray/piirates-poursuit-une-croissance-saine-et-sereine-334480.html)  
+*Source : mesinfos.fr | Publication : 2026-07-03*
 
-- Veuillez activer Javascript.
+- Chi va piano va sano.
+- Cet adage italien semble guider la stratégie de Sébastien Gourdon depuis la création de son entreprise de cybersécurité PIIRATES.
+- C'est d'abord en solo qu'il lance l'activité en 2021, le temps de tester le potentiel du marché et la viabilité du modèle.
+- L'activité se développe - tranquillement mais sûrement - et conduit Sébastien à intégrer un associé, son ami et expert en réseaux, Maxime Vacher, en janvier 2024.
 
-## [<b>Cybersécurité</b>, intelligence artificielle et souveraineté : quels sont les thèmes porteurs pour ...](https://www.lesechos.fr/patrimoine/placement/cybersecurite-intelligence-artificielle-et-souverainete-quels-sont-les-themes-porteurs-pour-les-etf-en-2026-2240695)  
-*Source : lesechos.fr | Publication : 2026-07-03*
+## [Un agent IA mène la « première » attaque par <b>ransomware</b> de bout en bout, de l'exploitation ...](https://intelligence-artificielle.developpez.com/actu/384785/Un-agent-IA-mene-la-premiere-attaque-par-ransomware-de-bout-en-bout-de-l-exploitation-d-une-faille-de-securite-a-l-extorsion-finale-de-fonds-les-chercheurs-alertent-sur-une-menace-de-securite-majeure/)  
+*Source : intelligence-artificielle.developpez.com | Publication : 2026-07-03*
 
-- Le marché des ETF européens connaît une expansion sans précédent avec 44 lancements mensuels en 2026.
-- Les ETF thématiques, comme la cybersécurité.
+- les chercheurs alertent sur une menace de sécurité majeure Les agents IA peuvent désormais combiner des techniques dexploitation connues avec un raisonnement en temps réel pour automatiser des intrusions complexes en plusieurs étapes.
+- Les experts ont découvert JadePuffer, identifié comme le premier logiciel de ransomware entièrement piloté par une IA.
+- Contrairement aux cyberattaques classiques, cet agent autonome a géré seul toutes les étapes de l'agression, de l'exploitation d'une faille de sécurité à l'extorsion finale de fonds.
+- En infiltrant des serveurs vulnérables, l'agent autonome a démontré une capacité inédite à adapter son code en temps réel afin de surmonter les obstacles techniques.
