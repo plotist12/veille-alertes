@@ -1,158 +1,151 @@
 # Résumés – 2026-07-07
 
 
-## [D'après une étude, les Deux-Sèvres figurent dans le top 10 des départements](https://www.lanouvellerepublique.fr/deux-sevres/d-apres-une-etude-les-deux-sevres-figurent-dans-le-top-10-des-departements-les-plus-sensibles-aux-risques-cyber-1783353232)  
-*Source : lanouvellerepublique.fr | Publication : 2026-07-06*
+## [La Bourse de Paris finit emportée par les doutes sur les semi-conducteurs - Orange Actu](https://actu.orange.fr/economie/la-bourse-de-paris-finit-emportee-par-les-doutes-sur-les-semi-conducteurs-CNT000002qog7U.html)  
+*Source : actu.orange.fr | Publication : 2026-07-07*
 
-- Dans une étude récemment diffusée, Abilene Academy, un organisme suisse de formation certifiante en cybersécurité et gestion des risques, a placé les Deux-Sèvres à la neuvième place des départements français « les plus sensibles » dans ce domaine.
-- Organisme suisse de formation certifiante en cybersécurité et gestion des risques, Abilene Academy a analysé les volumes de recherches sur le moteur Google liés aux arnaques, malwares, piratages et usurpations d’identité.
-- De quoi en tirer une étude, récemment publiée, qui permet d’affirmer que les territoires ruraux sont « les plus sensibles aux risques cyber ».
-- Les Deux-Sèvres figurent d’ailleurs dans le top 10 des départements français en nombre de recherches mensuelles, à la neuvième place plus précisément avec 155 « occurrences » par 10.000 habitants.
+- La Bourse de Paris finit emportée par les doutes sur les semi-conducteurs © ERIC PIERMONT, AFP - La salle de contrôle d'Euronext, société qui gère la Bourse de Paris La Bourse de Paris a terminé en petite baisse mardi, prise par les doutes croissants autour des valorisations colossales des valeurs liées à l'intelligence artificielle, emportant tous les titres liés au secteur.
+- Le CAC 40 a terminé en baisse de 0,51% à 8.436,24 points.
+- La veille, l'indice des 40 plus grandes valeurs françaises avait reculé de 0,33% à 8.479,87 points.
+- Les deux spécialistes des semi-conducteurs STMicroelectronics (-7,99% à 58,30 euros) et Soitec (-17,09% à 98,16 euros), ont perdu pied.
 
-## [Mythos : l'IA trouve 10 000 failles, l'UE alerte [2026] - Tech Insider](https://tech-insider.org/fr/cybersecurite-ia-mythos-europe-2026/)  
-*Source : tech-insider.org | Publication : 2026-07-06*
+## [Des <b>ransomwares</b> IA bientôt indétectables ? - 07/07 - BFM](https://www.bfmtv.com/economie/replay-emissions/01-business/video-des-ransomwares-ia-bientot-indetectables-07-07_VN-202607070941.html)  
+*Source : bfmtv.com | Publication : 2026-07-07*
 
-- Le 7 avril 2026, Anthropic a dévoilé Claude Mythos Preview, un modèle d’intelligence artificielle qui a identifié de manière autonome plus de 10 000 vulnérabilités de sévérité haute et critique dans les principaux systèmes d’exploitation et navigateurs de la planète.
-- Six semaines plus tard, le 19 mai 2026, un débat tendu au Parlement européen employait une expression jusque-là réservée aux thrillers : les eurodéputés y ont évoqué le risque d’un « bain de sang cyber ».
-- Entre les deux, une évidence s’est imposée à Bruxelles comme à Paris : la cybersécurité IA n’est plus un débat prospectif, mais une menace active et immédiate.
-- Cette analyse, publiée le 6 juillet 2026, décrypte le basculement en cours.
+- Des ransomwares IA bientôt indétectables ?.
+- - 07/07 Ce mardi 7 juillet, Pascal Le Digol, directeur France de WatchGuard Technologies, Benoît Grunemwald, expert en cybersécurité chez ESET France, et Gerôme Billois, associé en Cybersécurité et Confiance numérique chez Wavestone, ont examiné la possibilité que les ransomwares basés sur l'IA deviennent indétectables, le long feuilleton Mythos, le démantèlement coordonné des infrastructures cybercriminelles, ainsi que l'analyse géopolitique des menaces liées aux activités des groupes APT, dans l'émission Tech&Co Business présentée par Frédéric Simottel.
+- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.
+- | Durée : 30:08.
 
-## [Québec | Plus de 27 millions pour 17 nouvelles tours cellulaires - LaPresse.ca](https://www.lapresse.ca/affaires/economie/2026-07-06/quebec/plus-de-27-millions-pour-17-nouvelles-tours-cellulaires.php)  
-*Source : lapresse.ca | Publication : 2026-07-06*
+## [Fuite de données chez La Spedidam, une cyberattaque <b>ransomware</b> signalée - FrenchBreaches](https://frenchbreaches.com/alertes/la-spedidam-rw_VTNCbFpHbGtZVzFBZEdobFoyVnVkR3hsYldWdQ)  
+*Source : frenchbreaches.com | Publication : 2026-07-07*
 
-- Québec Plus de 27 millions pour 17 nouvelles tours cellulaires Québec allonge 27,7 millions pour améliorer la couverture cellulaire dans 10 régions.
-- L’investissement doit permettre la construction de 17 nouveaux sites cellulaires.
-- La ministre de la Cybersécurité et du Numérique et présidente du Conseil du trésor, France-Élaine Duranceau, a annoncé lundi le lancement du troisième volet d’« Opération couverture cellulaire », mise en œuvre en 2022.
-- Les régions concernées par ce nouveau volet sont les Laurentides, Lanaudière, l’Outaouais, la Mauricie, l’Estrie, le Bas-Saint-Laurent, Chaudière-Appalaches, le Centre-du-Québec, la Côte-Nord et la Gaspésie–Îles-de-la-Madeleine.
+- Revendication de cyberattaque – La Spedidam ajoutée au site de fuite du groupe ransomware The Gentlemen Le groupe de ransomware The Gentlemen a ajouté la Spedidam à sa plateforme de fuite et revendique la compromission de ses systèmes d'information.
+- Selon les éléments publiés sur le site du groupe, les cybercriminels affirment avoir compromis les systèmes de spedidam.fr, l'organisme français chargé de la gestion collective des droits voisins des artistes-interprètes.
+- Les attaquants ont publié une fiche dédiée à la victime accompagnée d'un compte à rebours avant une éventuelle publication des données revendiquées.
+- À ce stade, aucun échantillon de données ni aucun volume de fichiers exfiltrés n'ont été rendus publics.
 
-## [Les stratégies européennes en matière de compétitivité industrielle et de défense doivent ...](https://www.cor.europa.eu/fr/actualites/les-strategies-europeennes-en-matiere-de-competitivite-industrielle-et-de-defense-doivent-etre)  
-*Source : cor.europa.eu | Publication : 2026-07-06*
+## [Wall Street dans le rouge, turbulences sur les semi-conducteurs : Actualités - Orange Actu](https://actu.orange.fr/economie/wall-street-dans-le-rouge-turbulences-sur-les-semi-conducteurs-CNT000002qomDg.html)  
+*Source : actu.orange.fr | Publication : 2026-07-07*
 
-- Belgium Willy BORSUS Membre Member of the Municipal Council of the City of Marche-En-Famenne Pour Willy Borsus, rapporteur sur la loi relative à l’accélérateur industriel, « la compétitivité de l’Europe dépend aussi de la force de ses écosystèmes industriels locaux, de ses PME et de sa main-d’œuvre qualifiée.
-- » Les régions sont essentielles pour réussir la transformation industrielle et renforcer les capacités de défense de l’Europe.
-- C’est le principal message mis en évidence par les dirigeants régionaux et locaux, qui ont donné leur premier feu vert à deux projets d’avis sur la loi sur l’accélérateur industriel et la feuille de route de l’industrie de la défense.
-- Lors de la réunion de la commission de la politique économique (ECON) du 6 juillet, les membres se sont également mis d’accord sur leur position concernant la révision de la législation sur la cybersécurité et la législation sur les réseaux numériques.
+- Wall Street dans le rouge, turbulences sur les semi-conducteurs © TIMOTHY A. CLARY, AFP - Des opérateurs à la Bourse de New York le 6 juillet 2026 La Bourse de New York a terminé en recul mardi, souffrant de la mauvaise passe du secteur des semi-conducteurs, en pleine nervosité quant aux investissements colossaux pour développer l'intelligence artificielle (IA).
+- Le Dow Jones a cédé 0,25% et l'indice élargi S&P 500 a reculé de 0,45%.
+- Mais les pertes ont été plus marquées du côté du Nasdaq, l'indice rassemblant les grands noms technologiques ayant perdu 1,16%.
+- Il a notamment pâti du fort recul d'AMD (-6,51%), Micron (-4,71%) et Intel (-9,66%).
 
-## [EXCLUSIF-Selon certaines sources, l'agence américaine chargée de la <b>cybersécurité</b> ...](https://www.boursorama.com/actualite-economique/actualites-amp/exclusif-selon-certaines-sources-l-agence-americaine-chargee-de-la-cybersecurite-utiliserait-mythos-developpe-par-anthropic-pour-auditer-le-code-source-du-gouvernement-d96103ae42b0d7ec5edb5112708bab89)  
-*Source : boursorama.com | Publication : 2026-07-06*
+## [Stockage : l'IA s'invite dans la prévention des temps d'arrêt - Solutions-Numeriques](https://www.solutions-numeriques.com/stockage-lia-sinvite-dans-la-prevention-des-temps-darret/)  
+*Source : solutions-numeriques.com | Publication : 2026-07-07*
 
-- EXCLUSIF-Selon certaines sources, l'agence américaine chargée de la cybersécurité utiliserait Mythos, développé par Anthropic, pour auditer le code source du gouvernement information fournie par Reuters 06/07/2026 à 22:04 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Selon certaines sources, l'équipe de la CISA passe au crible les référentiels de code du gouvernement à la recherche de failles * Des audits ont déjà mis au jour de nombreuses vulnilités, selon deux de ces sources * La NSA aurait également utilisé Mythos malgré sa présence sur la liste noire du gouvernement par Raphael Satter L'agence américaine de cyberdéfense CISA utilise Mythos, le modèle d'IA d'Anthropic, pour auditer les logiciels gouvernementaux, ont déclaré lundi trois personnes proches du dossier, ce qui constitue un signe supplémentaire de l'engouement du gouvernement pour l'adoption des outils de cette start-up spécialisée dans l'IA, alors même que l'entreprise est en plein bras de fer avec la Maison Blanche.
-- L’Agence pour la cybersécurité et la sécurité des infrastructures (CISA) utilise Mythos pour analyser les dépôts de code du gouvernement à la recherche de bogues susceptibles d’ouvrir la porte à des espions étrangers et à des cybercriminels, ont indiqué ces sources.
-- Anthropic n’a pas répondu aux questions concernant cette initiative.
-- Un représentant de la CISA a déclaré le mois dernier qu’il vérifierait s’il y avait des informations à communiquer à ce sujet, mais n’a pas répondu aux e-mails ultérieurs.
+- Face à la complexité croissante des infrastructures hybrides, le monitoring du stockage devient plus difficile à piloter manuellement.
+- L’IA promet d’aider les équipes IT à repérer plus tôt les anomalies, anticiper les saturations et limiter les interruptions de service.
+- Un sujet central pour la continuité d’activité.
+- Le stockage reste l’un des socles les plus critiques du système d’information.
 
-## [Les ChocoPoCs mettent les défenseurs au menu des cybercriminels - Alliancy](https://alliancy.fr/les-chocopocs-mettent-les-defenseurs-au-menu-des-cybercriminels-fbb3cb80-8c95-4c53-b724-4a9fcc3c50c3)  
-*Source : alliancy.fr | Publication : 2026-07-06*
+## [Fuite de données chez Spedidam, une cyberattaque <b>ransomware</b> signalée - FrenchBreaches](https://frenchbreaches.com/alertes/spedidam-rw_VTNCbFpHbGtZVzFBZEdobFoyVnVkR3hsYldWdQ)  
+*Source : frenchbreaches.com | Publication : 2026-07-07*
 
-- vulnérabilités Les ChocoPoCs mettent les défenseurs au menu des cybercriminels Des chercheurs de YesWeHack et Sekoia documentent une campagne qui cible les équipes chargées d'analyser les nouvelles vulnérabilités.
-- L'attaque expose une faiblesse plus profonde : la chaîne d'approvisionnement de la cybersécurité elle-même.
-- Les défenseurs ont voulu croquer les nouvelles vulnérabilités au petit-déjeuner.
-- Les attaquants avaient déjà glissé des ChocoPoCs dans le bol.
+- Revendication de cyberattaque – La Spedidam ajoutée au site de fuite du groupe ransomware The Gentlemen Le groupe de ransomware The Gentlemen a ajouté la Spedidam à sa plateforme de fuite et revendique la compromission de ses systèmes d'information.
+- Selon les éléments publiés sur le site du groupe, les cybercriminels affirment avoir compromis les systèmes de spedidam.fr, l'organisme français chargé de la gestion collective des droits voisins des artistes-interprètes.
+- Les attaquants ont publié une fiche dédiée à la victime accompagnée d'un compte à rebours avant une éventuelle publication des données revendiquées.
+- À ce stade, aucun échantillon de données ni aucun volume de fichiers exfiltrés n'ont été rendus publics.
 
-## [LTM lance BlueVerse™ RightLogic afin de faire face aux risques liés à la <b>cybersécurité</b> sous ...](https://fr.finance.yahoo.com/actualites/ltm-lance-blueverse-rightlogic-afin-192400152.html)  
-*Source : fr.finance.yahoo.com | Publication : 2026-07-06*
+## [La Commission européenne lancera fin 2026 les premiers projets destinés à entraîner et ...](https://agenceurope.eu/fr/bulletin/article/13904/16/)  
+*Source : agenceurope.eu | Publication : 2026-07-07*
 
-- LTM lance BlueVerse™ RightLogic afin de faire face aux risques liés à la cybersécurité sous l'ère de l'IA Ce nouveau cadre d'évaluation et d'assurance des risques aide les entreprises à bénéficier d'une visibilité unifiée, à hiérarchiser les mesures correctives et à déployer l'IA en toute sécurité MUMBAI, Inde, July 06, 2026--(BUSINESS WIRE)--LTM, partenaire en matière de créativité d'entreprise auprès des plus grandes sociétés mondiales, a lancé BlueVerse™ RightLogic, un cadre d'évaluation de la cybersécurité et d'assurance des risques conçu pour aider les entreprises à identifier, évaluer et corriger leurs vulnérabilités informatiques à mesure qu'elles accélèrent l'adoption de l'IA.
-- L'IA peut désormais identifier et exploiter de manière autonome les vulnérabilités, tandis que les risques liés aux infrastructures, aux applications et aux chaînes d'approvisionnement ne cessent de s'étendre.
-- Le risque cyber est ainsi passé du statut de simple préoccupation technologique à celui de priorité au niveau du conseil d'administration, les entreprises peinant à maintenir une visibilité suffisante et à réagir à la vitesse des menaces émergentes.
-- BlueVerse RightLogic répond à ce besoin en offrant une vue unifiée et alignée sur l'activité de l'entreprise concernant ses expositions, et en permettant de passer d'évaluations ponctuelles et fragmentées à une gestion des risques continue et fondée sur des preuves.
+- La Commission européenne lancera, d'ici la fin de l'année, trois projets phares dans le cadre d'Horizon Europe afin de soutenir le développement, l'entraînement et les essais de systèmes d'intelligence artificielle destinés à la détection, à la réponse aux cybermenaces et aux capacités d'autoréparation.
+- Elle soutiendra également le développement de « capacités européennes souveraines en matière de cybersécurité fondée sur l'IA, y compris dans le domaine de la défense, par l'intermédiaire du Fonds européen pour la compétitivité », dans le cadre du prochain Cadre financier pluriannuel (CFP) « afin de mieux protéger les intérêts stratégiques de l'Europe et de réduire ses dépendances critiques ».
+- Ces initiatives s'inscrivent dans le plan d'action sur la cybersécurité et l'intelligence artificielle présenté par la Commission mardi 7 juillet.
+- Comme l'avait déjà indiqué Agence Europe (EUROPE 13902/7), le plan d'action prévoit une série de mesures concrètes, y compris l’établissement d’une capacité de l'Union à évaluer les modèles d'intelligence artificielle, notamment sous l'angle de la cybersécurité, avant leur mise sur le marché - une capacité qui devrait être opérationnelle en 2027.
 
-## [LTM lance BlueVerse™ RightLogic afin de faire face aux risques liés à la <b>cybersécurité</b> sous ...](https://www.businesswire.com/news/home/20260706407441/fr)  
-*Source : businesswire.com | Publication : 2026-07-06*
+## [AuthID et SynerComm concluent un partenariat de distribution en <b>cybersécurité</b>](https://www.zonebourse.com/actualite-bourse/authid-et-synercomm-concluent-un-partenariat-de-distribution-en-cybersecurite-ce7f5ed8d88af725)  
+*Source : zonebourse.com | Publication : 2026-07-07*
 
-- Le risque cyber est ainsi passé du statut de simple préoccupation technologique à celui de priorité au niveau du conseil d'administration, les.
+- AuthID et SynerComm concluent un partenariat de distribution en cybersécuritéauthID a conclu un partenariat de distribution avec SynerComm afin d'étendre la disponibilité de ses services de vérification d'identité et d'authentification biométrique auprès des.
 
-## [Anthropic lance Claude Fable 5, son modèle d'IA public le plus puissant. - Quartz](https://fr.qz.com/anthropic-claude-fable-5-mythos-sortie-publique-060926)  
-*Source : fr.qz.com | Publication : 2026-07-06*
+## [Au Quai d'Orsay, Jean-Noël Barrot recase quatre de ses proches conseillers - Orange Actu](https://actu.orange.fr/politique/au-quai-d-orsay-jean-noel-barrot-recase-quatre-de-ses-proches-conseillers-magicExpress-CNT000002qoeBZ.html)  
+*Source : actu.orange.fr | Publication : 2026-07-07*
 
-- Anthropic a lancé Claude Fable 5 mardi, une version publique de son modèle d'IA de classe Mythos que l'entreprise a réservé à un petit groupe de partenaires en cybersécurité depuis avril.
-- Plutôt qu'une architecture distincte, Fable 5 fonctionne sur la même base que Mythos 5, avec des classificateurs ajoutés qui interceptent et bloquent les sorties touchant des domaines à haut risque — cybersécurité, biologie et chimie, et les prompts qu'Anthropic identifie comme des tentatives d'extraction des capacités du modèle pour les utiliser dans des systèmes d'IA rivaux.
-- Les requêtes qui déclenchent ces classificateurs sont transmises à Claude Opus 4.8, un modèle de capacité inférieure, plutôt que d'être répondues directement par Fable 5.
-- Selon Anthropic, la transmission à Opus 4.8 est rare, la grande majorité des sessions de Fable 5 — plus de 95 %, selon les données préliminaires — étant entièrement prises en charge par Fable 5 lui-même.
+- Au Quai d’Orsay, Jean-Noël Barrot recase quatre de ses proches conseillers © EPA - Le ministre français des Affaires étrangères, Jean-Noël Barrot, quitte l'Elysée à l'issue du Conseil des ministres à Paris, en France, le 24 juin 2026.
+- Trois membres du cabinet du ministre de l’Europe et des Affaires étrangères sont promis à des postes d’ambassadeurs.
+- Sa cheffe de cabinet vise un poste de consule générale.
+- A la valse des ambassadeurs et au très classique renouvellement estival des postes diplomatiques à travers le monde s’ajoute la nécessité de récompenser les plus fidèles conseillers ministériels.
 
-## [JadePuffer est le premier <b>ransomware</b> agentique - GNT](https://www.generation-nt.com/actualites/jadepuffer-ransomware-agentique-ia-sysdig-2078170)  
-*Source : generation-nt.com | Publication : 2026-07-06*
+## [IA : face au spectre de Mythos, la BCE somme les banques d'agir « sans délai » - Les Echos](https://www.lesechos.fr/finance-marches/banque-assurances/ia-face-au-spectre-de-mythos-la-bce-somme-les-banques-dagir-sans-delai-2241202)  
+*Source : lesechos.fr | Publication : 2026-07-07*
 
-- Le TRT (Threat Research Team) de la société de cybersécurité Sysdig a publié un rapport sur ce qui est présenté comme le premier cas documenté de ransomware agentique. ".
-- Une opération d'extorsion complète menée de bout en bout par un grand modèle de langage (LLM). ".
-- Elle a exploité une vulnérabilité CVE-2025-3248 affectant Langflow, un framework open source pour créer des applications basées sur l'IA.
-- Cette faille a servi de porte d'entrée pour une campagne adaptative et entièrement automatisée.
+- La BCE demande aux dirigeants des principales banques de la zone euro d'évaluer « sans délai » l'évolution du risque cyber et de remettre un plan.
 
-## [Démantèlements de proxys résidentiels : au tour de NetNut | LeMagIT](https://www.lemagit.fr/actualites/366645539/Demantelements-de-proxys-residentiels-au-tour-de-NetNut)  
-*Source : lemagit.fr | Publication : 2026-07-06*
+## [Le tsunami de l'IA générative bouscule le monde de la Cyber Offensive | LeMagIT](https://www.lemagit.fr/actualites/366645517/Le-tsunami-de-lIA-generative-bouscule-le-monde-de-la-Cyber-Offensive)  
+*Source : lemagit.fr | Publication : 2026-07-07*
 
-- Vladimir - stock.adobe.com Démantèlements de proxys résidentiels : au tour de NetNut Le réseau de proxies résidentiels NetNut n'est plus.
-- Après SocksEscort et Ipidea, c'est le troisième qui tombe depuis le début de l'année.
-- Les proxys résidentiels exploitent des adresses IP attribuées par les fournisseurs d'accès à Internet, en détournent des appareils domestiques, tels que des routeurs ou des objets connectés.
-- Ces adresses sont recherchées par les acteurs malveillants car elles ne sont pas systématiquement référencées comme des serveurs VPN ou des hébergeurs, ce qui réduit considérablement le risque de blocage.
+- peterzayda - stock.adobe.com Le tsunami de l’IA générative bouscule le monde de la Cyber Offensive L’impact de l’IA sur la sécurité offensive, est désormais manifeste.
+- C’est une aide à de nombreux égards, mais aussi un bouleversement complet de l’écosystème du Bug Bounty.
+- La première édition des rencontres du Clusif a été l’occasion d’aborder un thème relativement nouveau, celui de l’impact de l’IA générative dans la cybersécurité offensive.
+- L’IA s’est fait une place dans les outils de détection, dans les SOC depuis quelques années.
 
-## [Crédit impôt recherche <b>cybersécurité</b> : le guide complet pour les entreprises - Challenges](https://www.challenges.fr/entreprise/credit-impot-recherche-cybersecurite-le-guide-complet-pour-les-entreprises_644742)  
-*Source : challenges.fr | Publication : 2026-07-06*
+## [Un ESP32 à quelques euros pour éviter le clavier Touch ID d'Apple - Korben](https://korben.info/tinytouch-esp32-empreinte-deverrouillage.html)  
+*Source : korben.info | Publication : 2026-07-07*
 
-- Crédit impôt recherche cybersécurité : le guide complet pour les entreprises La France est l'un des pays d'Europe les plus exposés aux cyberattaques, et les entreprises de la filière cybersécurité investissent massivement pour y répondre.
-- Ces investissements en recherche et développement ouvrent des droits au crédit d'impôt recherche (CIR), un dispositif fiscal qui permet de récupérer 30 % des dépenses de R&D éligibles.
-- Pourtant, la majorité des acteurs du secteur ne l'exploitent pas.
-- Ce guide explique pourquoi la cybersécurité est un domaine porteur de projets éligibles au CIR, quelles activités sont concernées, et comment structurer sa demande pour la sécuriser.
+- Un ESP32 à quelques euros pour éviter le clavier Touch ID d'Apple Ce qu’il faut retenir Un bidouilleur a créé un lecteur d'empreinte DIY avec un ESP32-S3 et un capteur ZW101 pour débloquer un Mac sans passer par le Magic Keyboard d'Apple, le tout pour quelques euros.
+- - Le mot de passe ne réside jamais sur la carte : elle demande le mot de passe via un échange chiffré avec clé d'appairage et nonce aléatoire, le déchiffre en RAM le temps de le taper, puis efface tout en millisecondes.
+- - Le maillon faible reste la liaison série non protégée entre capteur et ESP32, contournable en noyant l'électronique dans de l'epoxy noir, et une version émulant une carte à puce sans saisie de mot de passe est en cours.
+- - Résumé généré par IA Posez votre doigt sur un capteur et hop, votre session s'ouvre.
 
-## [Scality et Weka étendent leur partenariat - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/937-stockage/65056-scality-et-weka-etendent-leur-partenariat.html)  
-*Source : linformaticien.com | Publication : 2026-07-06*
+## [Comment l'arnaque aux fausses signalations sur Reddit et Discord permet de pirater des comptes](https://www.malwarebytes.com/fr/blog/threat-intel/2026/07/how-the-reddit-and-discord-false-report-scam-steals-accounts)  
+*Source : malwarebytes.com | Publication : 2026-07-07*
 
-- Ransomware : les jours d'après · Stockage · Scality et Weka étendent leur partenariat.
-- Détails: 6 juillet 2026.
-- Les deux entreprises élargissent leur.
+- Un inconnu vous envoie un message sur Reddit.
+- Il vous dit que quelqu'un l'a signalé et que le compte à l'origine du signalement ressemble beaucoup au vôtre.
+- Est-ce que c'était vous ?.
+- Ce n'était pas ça.
 
-## [SINEXCEL étend son écosystème européen de stockage d'énergie lors du salon Intersolar ...](https://fr.tradingview.com/news/prnewswire:2fb60659c6a4a:0/)  
-*Source : fr.tradingview.com | Publication : 2026-07-06*
+## [La CCI Lyon Métropole accélère ses investissements pour soutenir les entreprises](https://www.lyon-entreprises.com/actualites/article/cci-lyon-metropole-bilan-mi-annee-2026-projets-entreprises)  
+*Source : lyon-entreprises.com | Publication : 2026-07-07*
 
-- SINEXCEL étend son écosystème européen de stockage d'énergie lors du salon Intersolar Europe 2026, renforçant ainsi son engagement à long terme vis-à-vis de l'Europe MUNICH, 6 juillet 2026 /PRNewswire/ -- Lors du salon Intersolar Europe 2026, SINEXCEL (300693.SZ) a réaffirmé son engagement à long terme sur le marché européen en lançant son système de conversion de puissance (PCS) à grande échelle, StellaON 1250K/1575K, qui intègre des dispositifs Infineon, ainsi qu'une série de partenariats stratégiques visant à renforcer la conformité aux normes locales, les services et les capacités de réalisation de projets à travers l'Europe.
-- Ces initiatives contribuent à l'extension de l'écosystème européen de stockage d'énergie de SINEXCEL et prennent en charge l'accélération du déploiement de solutions de stockage à grande échelle.
-- À la pointe du stockage à grande échelle nouvelle génération en Europe Conçue pour le marché européen du stockage d'énergie en pleine évolution, la solution StellaON 1250K/1575K répond aux exigences croissantes du secteur en matière de résilience environnementale, d'adaptabilité au réseau et d'efficacité tout au long du cycle de vie.
-- Le PCS intègre les modules de puissance EconoDUAL™3 avancés d'Infineon, offrant un fonctionnement à pleine puissance de 55 °C, une capacité de formation de réseau, ainsi qu'un rendement de charge de 98,5 % pour les applications à grande échelle, contribuant ainsi à la transition de l'Europe vers des systèmes électriques comportant une forte part d'énergies renouvelables.
+- La CCI Lyon Métropole accélère ses investissements pour soutenir les entreprises Transmission d’entreprises, intelligence artificielle, cybersécurité, immobilier économique, formation ou encore réindustrialisation : à l’occasion de son bilan de mi-année, la CCI Lyon Métropole Saint-Étienne Roanne dévoile une feuille de route ambitieuse pour le second semestre 2026.
+- Dans un contexte économique marqué par le ralentissement de l’activité et la hausse des défaillances, l’institution consulaire entend renforcer son rôle d’investisseur et d’accélérateur de projets au service des entreprises du territoire.
+- Une CCI qui veut passer de l’accompagnement à l’investissement Le constat dressé par la CCI est celui d’une économie sous tension.
+- En Auvergne-Rhône-Alpes, les défaillances d’entreprises ont progressé de près de 8 % en 2025, tandis que le chiffre d’affaires des entreprises régionales a reculé de 2,2 %, que l’investissement a diminué de 6,2 % et que l’activité industrielle s’est contractée de 4,7 %.
 
-## [Exclusive Networks confie à Fabien Azra ses alliances technologiques en France](https://www.channelnews.fr/exclusive-networks-confie-a-fabien-azra-ses-alliances-technologiques-en-france-157681)  
-*Source : channelnews.fr | Publication : 2026-07-06*
+## [Vacances connectées : guide de survie contre les <b>cybermenaces</b> en déplacement - GNT](https://www.generation-nt.com/actualites/bitdefender-premium-security-vpn-illimite-usages-internet-vacances-2077910)  
+*Source : generation-nt.com | Publication : 2026-07-07*
 
-- Exclusive Networks France annonce la nomination de Fabien Azra au poste de Vendor Alliances Director.
-- Il aura pour mission de définir et piloter la stratégie de développement des partenariats de l’entreprise avec ses éditeurs et constructeurs stratégiques, en renforçant les alliances existantes et en identifiant de nouvelles opportunités de collaboration.
-- Cette nomination doit soutenir les ambitions de croissance et d’innovation du distributeur spécialisé dans la cybersécurité.
-- Il s’agit d’une promotion interne.
+- Avec l'été qui s'installe chaudement, les périodes de grandes migrations estivales vont débuter.
+- Que ce soit pour partir loin tout en restant connecté à ses applications et réseaux sociaux ou pour maintenir un lien avec son activité en passant au télétravail, le cadre quotidien va évoluer...et sa sécurité numérique aussi.
+- Vouloir rester connecté même en vacances ou en déplacement fait désormais partie de la vie numérique mais gare aux mauvaises surprises.
+- En sortant du cadre a priori sécurisé de l'accès internet domestique ou du bureau, on peut se retrouver exposé à différentes menaces.
 
-## [Vulnérabilités : les 14 alertes critiques du 6 juillet 2026 - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/07/06/vulnerabilites-les-14-alertes-critiques-du-6-juillet-2026/)  
-*Source : dcod.ch | Publication : 2026-07-06*
+## [Jannik Sinner bat Jan-Lennard Struff et fonce en demi-finales de Wimbledon - Tennis](https://sports.orange.fr/videos/tennis/jannik-sinner-bat-jan-lennard-struff-et-fonce-en-demi-finales-de-wimbledon-tennis-wimbledon-h-CNT000002qoksj.html)  
+*Source : sports.orange.fr | Publication : 2026-07-07*
 
-- Faits marquants de la semaine Une vulnérabilité dans « Hide My Email » d’Apple permettrait de retrouver l’adresse réelle censée être masquée, et resterait exploitable depuis plus d’un an, avec 100 % de réussite dans des tests limités.
-- - CISA confirme que des groupes de rançongiciels exploitent désormais BlueHammer, une vulnérabilité d’élévation de privilèges dans Microsoft Defender précédemment utilisée en zéro‑day, transformant un composant de sécurité en vecteur d’attaque supplémentaire.
-- - Des chercheurs observent l’exploitation d’une vulnérabilité critique dans la brique de paiement d’Oracle E-Business Suite, vulnérabilité à faible complexité touchant environ 950 instances exposées, dans un contexte d’attaques répétées contre les produits Oracle.
-- - Citrix corrige six failles dans NetScaler ADC et Gateway, dont une fuite de mémoire de type CitrixBleed liée au traitement des requêtes SAML, accompagnée de vulnérabilités provoquant déni de service et lecture de fichiers arbitraires.
+- Vidéo suivante dans 5 secondes Jannik Sinner bat Jan-Lennard Struff et fonce en demi-finales de Wimbledon - Tennis - Wimbledon (H) par L'Équipe info - Le numéro 1 mondial Jannik Sinner a logiquement battu l'Allemand Jan-Lennard Struff (7-5, 7-6 [4], 6-3), mardi en quarts de finale de Wimbledon.
+- vidéos similaires lecture autoOUINON.
 
-## [Telex : Skello lève 200 M€, La Cnil a prononcé 23 sanctions simplifiées depuis début 2026 ...](https://www.lemondeinformatique.fr/actualites/lire-telex-skello-leve-200-meteuro-la-cnil-a-prononce-23-sanctions-simplifiees-depuis-debut-2026-une-campagne-de-ransomware-pilotee-par-un-agent-ia-100662.html)  
-*Source : lemondeinformatique.fr | Publication : 2026-07-06*
+## [Quand le numérique devient un outil de prévention : l'ONUDC et ses partenaires réunissent ...](https://www.un.org/fr/information-center-dakar/quand-le-numérique-devient-un-outil-de-prévention-lonudc-et-ses-partenaires)  
+*Source : un.org | Publication : 2026-07-07*
 
-- - Skello lève 200 M€ pour sa croissance.
-- L’éditeur français spécialisé dans les logiciesl RH pour les équipes de terrain fête ses 10 ans en annonçant un tour de table de 200 M€.
-- La majorité de l’investissement est apporté par le fonds britannique Bridgepoint qui devient un actionnaire minoritaire de référence.
-- Les investisseurs historiques, Partech et XAnge, ont également participé à cette opération aux côtés des fondatrices (Quitterie Mathelin-Moreaux, directrice générale et Emmanuelle Fauchier-Magnan, directrice des opérations) et de l'équipe de direction.
+- Les 30 juin et 1er juillet 2026, l'Office des Nations Unies contre la drogue et le crime (ONUDC) et ses partenaires ont organisé, à Dakar, une retraite régionale réunissant 17 créateurs de contenu et journalistes venus de sept pays d'Afrique de l'Ouest et du Centre (Burkina Faso, Côte d'Ivoire, Guinée, Mali, Niger, Tchad, Sénégal), ainsi qu’un influenceur originaire du Congo-Brazzaville.
+- Cette activité inédite s'est tenue au Centre d'information des Nations Unies (CINU) de Dakar qui a contribué à la formation sur le plan technique.
+- Mieux comprendre les risques liés au numérique Face à l'exploitation qui se propage aussi en ligne, des créateurs de contenu d'Afrique de l'Ouest et du Centre se sont mobilisés pour faire des réseaux sociaux un outil de prévention plutôt que de recrutement des trafiquants.
+- Pendant deux jours, ils ont renforcé leurs connaissances sur les cadres juridiques internationaux relatifs à la traite des personnes et au trafic illicite de migrants, tout en explorant les liens croissants entre ces crimes, la cybercriminalité et les plateformes numériques.
 
-## [La Mêlée organise un évènement sur la <b>cybersécurité</b> et l'IA à Montpellier - ToulÉco](https://www.touleco.fr/La-Melee-organise-un-evenement-sur-la-cybersecurite-et-l-IA-a,52592)  
-*Source : touleco.fr | Publication : 2026-07-06*
+## [Plan d'action de l'UE en matière de <b>cybersécurité</b> et d'intelligence artificielle](https://digital-strategy.ec.europa.eu/fr/library/eu-action-plan-cybersecurity-and-artificial-intelligence)  
+*Source : digital-strategy.ec.europa.eu | Publication : 2026-07-07*
 
-- La Mêlée, réseau occitan des experts du numérique organise, le 9 juillet à Montpellier, une journée dédiée à la mobilisation des acteurs locaux autour des enjeux stratégiques de l’intelligence artificielle et de la cybersécurité.
-- L’événement s’articulera autour de formats variés : tables rondes, ateliers, conférences, retours d’expérience et pitchs.
-- Plus d’informations et inscriptions en ligne.
-- « Au cœur de l’IA & de la cyber : Les défis en 2026 ».
+- L'intelligence artificielle transforme rapidement le paysage de la cybersécurité.
+- L’IA peut aider à détecter les vulnérabilités, à prévenir les cyberattaques et à renforcer la protection des infrastructures critiques.
+- Dans le même temps, il peut également être exploité par des acteurs malveillants pour automatiser les attaques, identifier les faiblesses et mener des cyberopérations à une vitesse et à une échelle sans précédent.
+- S’appuyant sur le cadre juridique existant de l’UE en matière d’IA et de cybersécurité, le plan d’action définit une approche coordonnée pour aider les États membres, les entreprises et les pouvoirs publics à tirer parti des possibilités offertes par l’IA tout en s’attaquant aux nouveaux risques qu’elle crée.
 
-## [Voici JADEPUFFER, le <b>ransomware</b> qui n'a plus besoin d'humain - Numerama](https://www.numerama.com/cyberguerre/2291273-voici-jadepuffer-le-ransomware-qui-na-plus-besoin-dhumain.html)  
-*Source : numerama.com | Publication : 2026-07-06*
+## [Le régulateur LTA intensifie sa campagne de <b>cybersécurité</b> et cible les élèves et les jeunes ...](https://www.capmad.com/article/le-regulateur-lta-intensifie-sa-campagne-de-cybersecurite-et-cible-les-eleves-et-les-jeunes-internautes)  
+*Source : capmad.com | Publication : 2026-07-07*
 
-- Elle s’appelle JadePuffer, et pourrait être l’opération que la communauté cyber redoutait depuis longtemps.
-- Depuis plusieurs années déjà, l’utilisation de l’intelligence artificielle par les cybercriminels n’a plus rien d’hypothétique : aide à la génération de malwares, rédaction de phishing plus convaincants, automatisation de la reconnaissance… Les exemples s’accumulent, mais une inquiétude domine chez les chercheurs en sécurité : celle de voir un jour une attaque menée de bout en bout par un agent d’IA, sans intervention humaine à aucune étape critique.
-- Si certains prototypes ont déjà été recensés, le rapport publié le 1er juillet 2026 par les équipes de Sysdig sur l’opération JadePuffer semble marquer un nouveau palier dans cette trajectoire, documentant pour la première fois un ransomware actif dont chaque phase, de l’accès initial à l’extorsion, aurait été exécutée par un agent autonome.
-- JadePuffer, une attaque de bout en bout sans main humaine Selon les détails techniques partagés par les chercheurs, l’agent aurait obtenu un accès initial en exploitant CVE-2025-3248, une faille de sécurité dans Langflow, un logiciel open source utilisé pour créer des applications IA.
+- La Liberia Telecommunications Authority étend son Cyber Marathon aux écoles de l'intérieur du pays et s'appuie sur School Connect et un appui de.
 
-## [Données volées, systèmes rétablis: le Groupe 3R fait le point après la cyberattaque (update)](https://www.ictjournal.ch/news/2026-07-06/donnees-volees-systemes-retablis-le-groupe-3r-fait-le-point-apres-la-cyberattaque)  
-*Source : ictjournal.ch | Publication : 2026-07-06*
+## [Coupe du monde 2026 : Balogun repêché, les États-Unis éliminés : Sports - Orange](https://sports.orange.fr/videos/plus-de-sport/basket/coupe-du-monde-2026-balogun-repeche-les-etats-unis-elimines-CNT000002qnbHD.html)  
+*Source : sports.orange.fr | Publication : 2026-07-07*
 
-- Données volées, systèmes rétablis: le Groupe 3R fait le point après la cyberattaque (update) Deux mois après la cyberattaque qui a fortement perturbé ses activités, le Groupe 3R apporte de nouveaux détails sur l'incident.
-- L'exploitant du Réseau Radiologique Romand revient notamment sur les données compromises, les auteurs de l'attaque, les mesures engagées depuis 2025 et la reconstruction de son infrastructure informatique.
-- Mise à jour du 6 juillet 2026: Après avoir reconnu, dans de récentes communications, que des documents internes dérobés lors de la cyberattaque du 30 avril avaient été diffusés sur le darknet, le Groupe 3R apporte de nouvelles précisions à la rédaction sur les conséquences de l'incident.
-- Il confirme que l'attaque a conduit au vol de données administratives de l'entreprise.
+- Actu Sports Auto Météo Vidéos Sports En direct Vidéos Football Rugby Tennis Cyclisme Plus de sport Sports En direct Vidéos Football Rugby Tennis Cyclisme Plus de sport toutes les vidéos basket Coupe du monde 2026 : Balogun repêché, les États-Unis éliminés par beIN SPORTS France info signaler Vidéo suivante dans 5 secondes Coupe du monde 2026 : Balogun repêché, les États-Unis éliminés par beIN SPORTS France vidéos similaires lecture auto.
+- 08:16 Süper Lig : Galasataray se rate contre Kocaelispor 13:53 Liqui Moly Starligue : Le Paris Saint-Germain sacré champion de France en ... 00:44 Avec 37 points et 12 rebonds, Dominique Malonga entre dans l'histoire de ... 01:04 Coupe du Monde 2026 : la Corée du Sud passe devant en fin de match !.
+- 08:42 La Liga : Mikautadze en feu, Villarreal écrase Levante 01:07 Coupe du monde 2026 : Martinelli climatise le Japon et envoie le Brésil ... 01:05 Coupe du monde 2026 : Mikel Merino et l'Espagne climatisent le Portugal ... 00:31 Spurs - Wembanyama lucide après le Game 5 : “Je dois reprendre le contrôle” 01:01 Coupe du Monde 2026 : Le chef d'œuvre de Messi pour lancer l'Argentine !.
+- 01:09 Timberwolves - Gobert : ''Ça allait être dur, avec ou sans Victor'' 00:23 Coupe du monde 2026 : La composition de l'Espagne face au Cap Vert, Yamal ... 09:59 NBA : New York balaye les Cavs pour retrouver les Finals !.
