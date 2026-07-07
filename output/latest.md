@@ -1,152 +1,158 @@
-# Résumés – 2026-07-06
+# Résumés – 2026-07-07
 
 
-## [Bring! : la liste de courses partagée en temps réel | Android MT](https://android-mt.ouest-france.fr/tutoriel/liste-de-courses-avec-bring-le-petit-hack-qui-simplifie-les-achats-a-plusieurs/205788/)  
-*Source : android-mt.ouest-france.fr | Publication : 2026-07-05*
+## [D'après une étude, les Deux-Sèvres figurent dans le top 10 des départements](https://www.lanouvellerepublique.fr/deux-sevres/d-apres-une-etude-les-deux-sevres-figurent-dans-le-top-10-des-departements-les-plus-sensibles-aux-risques-cyber-1783353232)  
+*Source : lanouvellerepublique.fr | Publication : 2026-07-06*
 
-- ► En bref Liste de courses synchronisée en temps réel - Moins d’oublis et de doublons en magasin - Une organisation plus simple à plusieurs - Sur ce, nous avons un petit hack, et ça s’appelle Bring!.
-- Gratuite et disponible sur Android comme sur iOS, cette application est surtout connue pour gérer sa liste de courses.
-- Au-delà d’un simple carnet de notes, elle propose un tri automatique par rayons pour faciliter le parcours en magasin.
-- Elle permet également l’ajout de photos pour éviter les erreurs de produit.
+- Dans une étude récemment diffusée, Abilene Academy, un organisme suisse de formation certifiante en cybersécurité et gestion des risques, a placé les Deux-Sèvres à la neuvième place des départements français « les plus sensibles » dans ce domaine.
+- Organisme suisse de formation certifiante en cybersécurité et gestion des risques, Abilene Academy a analysé les volumes de recherches sur le moteur Google liés aux arnaques, malwares, piratages et usurpations d’identité.
+- De quoi en tirer une étude, récemment publiée, qui permet d’affirmer que les territoires ruraux sont « les plus sensibles aux risques cyber ».
+- Les Deux-Sèvres figurent d’ailleurs dans le top 10 des départements français en nombre de recherches mensuelles, à la neuvième place plus précisément avec 155 « occurrences » par 10.000 habitants.
 
-## [La Tunisienne Nihel Ben Youssef sacrée « Femme de l'année 2026 en <b>cybersécurité</b>](https://www.thd.tn/la-tunisienne-nihel-ben-youssef-sacree-femme-de-lannee-2026-en-cybersecurite-au-liechtenstein/)  
-*Source : thd.tn | Publication : 2026-07-05*
+## [Mythos : l'IA trouve 10 000 failles, l'UE alerte [2026] - Tech Insider](https://tech-insider.org/fr/cybersecurite-ia-mythos-europe-2026/)  
+*Source : tech-insider.org | Publication : 2026-07-06*
 
-- L’experte et universitaire tunisienne, Dr.
-- Nihel Ben Youssef, a remporté le prestigieux prix mondial « Cybersecurity Woman of the Year 2026 » dans la catégorie Bénévolat (Volunteer Category).
-- La cérémonie officielle s’est déroulée le 1er juillet 2026 à Vaduz (Liechtenstein), en présence du ministre de l’Intérieur, de l’Économie et des Sports, SE Hubert Büchel.
-- Décerne par l’organisation United Cybersecurity Alliance, ce prix récompense l’impact des femmes leaders de la sécurité informatique.
+- Le 7 avril 2026, Anthropic a dévoilé Claude Mythos Preview, un modèle d’intelligence artificielle qui a identifié de manière autonome plus de 10 000 vulnérabilités de sévérité haute et critique dans les principaux systèmes d’exploitation et navigateurs de la planète.
+- Six semaines plus tard, le 19 mai 2026, un débat tendu au Parlement européen employait une expression jusque-là réservée aux thrillers : les eurodéputés y ont évoqué le risque d’un « bain de sang cyber ».
+- Entre les deux, une évidence s’est imposée à Bruxelles comme à Paris : la cybersécurité IA n’est plus un débat prospectif, mais une menace active et immédiate.
+- Cette analyse, publiée le 6 juillet 2026, décrypte le basculement en cours.
 
-## [Alerte au faux colis: la nouvelle cyber-arnaque qui cible les Marocains - Le360](https://fr.le360.ma/societe/alerte-au-faux-colis-la-nouvelle-cyber-arnaque-qui-cible-les-marocains_OPKR6QK62JGD3PY7L6VBYISQH4/)  
-*Source : fr.le360.ma | Publication : 2026-07-05*
+## [Québec | Plus de 27 millions pour 17 nouvelles tours cellulaires - LaPresse.ca](https://www.lapresse.ca/affaires/economie/2026-07-06/quebec/plus-de-27-millions-pour-17-nouvelles-tours-cellulaires.php)  
+*Source : lapresse.ca | Publication : 2026-07-06*
 
-- Une nouvelle vague de messages électroniques et de liens frauduleux a déferlé ces derniers jours sur les téléphones et les boîtes de réception de nombreux Marocains.
-- Les victimes reçoivent des notifications prétendant qu’un colis est en attente de livraison, une ruse destinée à les attirer vers des sites internet contrefaits pour subtiliser leurs données personnelles et bancaires, indique le quotidien Assabah de ce lundi 6 juillet.
-- Pour maximiser la crédibilité de leur démarche, les escrocs profitent de l’engouement croissant pour le commerce en ligne et les services de livraison.
-- Selon Assabah, qui a examiné l’un de ces messages, la notification arbore une mention incitant à l’action immédiate et invite le destinataire à cliquer sur un lien pour mettre à jour ses informations afin de finaliser la réception.
+- Québec Plus de 27 millions pour 17 nouvelles tours cellulaires Québec allonge 27,7 millions pour améliorer la couverture cellulaire dans 10 régions.
+- L’investissement doit permettre la construction de 17 nouveaux sites cellulaires.
+- La ministre de la Cybersécurité et du Numérique et présidente du Conseil du trésor, France-Élaine Duranceau, a annoncé lundi le lancement du troisième volet d’« Opération couverture cellulaire », mise en œuvre en 2022.
+- Les régions concernées par ce nouveau volet sont les Laurentides, Lanaudière, l’Outaouais, la Mauricie, l’Estrie, le Bas-Saint-Laurent, Chaudière-Appalaches, le Centre-du-Québec, la Côte-Nord et la Gaspésie–Îles-de-la-Madeleine.
 
-## [Décret présidentiel instituant l'Université syrienne des sciences sécuritaires](https://sana.sy/fr/presidency/2316216/)  
-*Source : sana.sy | Publication : 2026-07-05*
+## [Les stratégies européennes en matière de compétitivité industrielle et de défense doivent ...](https://www.cor.europa.eu/fr/actualites/les-strategies-europeennes-en-matiere-de-competitivite-industrielle-et-de-defense-doivent-etre)  
+*Source : cor.europa.eu | Publication : 2026-07-06*
 
-- Damas, (SANA) Le président Ahmad al-Charaa a promulgué le décret n°146 de l’année 2026 portant création d’un établissement public scientifique à caractère administratif, spécialisé dans les sciences de la sécurité, appelé « Université syrienne des sciences sécuritaires ».
-- Cette institution jouit de la personnalité juridique ainsi que de l’autonomie financière et administrative.
-- Son siège principal est situé à Damas, et il est autorisé de créer des facultés, des instituts et des centres qui en dépendent à Damas et dans les autres gouvernorats.
-- Selon le décret, l’université est composée des établissements d’enseignement, de recherche et de formation suivants : Institut supérieur des sciences sécuritaires - Faculté des sciences sécuritaires - Faculté de cybersécurité - Centre d’études et de recherches sécuritaires - Institut technique des sciences sécuritaires - Institut technique de cybersécurité - am.
+- Belgium Willy BORSUS Membre Member of the Municipal Council of the City of Marche-En-Famenne Pour Willy Borsus, rapporteur sur la loi relative à l’accélérateur industriel, « la compétitivité de l’Europe dépend aussi de la force de ses écosystèmes industriels locaux, de ses PME et de sa main-d’œuvre qualifiée.
+- » Les régions sont essentielles pour réussir la transformation industrielle et renforcer les capacités de défense de l’Europe.
+- C’est le principal message mis en évidence par les dirigeants régionaux et locaux, qui ont donné leur premier feu vert à deux projets d’avis sur la loi sur l’accélérateur industriel et la feuille de route de l’industrie de la défense.
+- Lors de la réunion de la commission de la politique économique (ECON) du 6 juillet, les membres se sont également mis d’accord sur leur position concernant la révision de la législation sur la cybersécurité et la législation sur les réseaux numériques.
 
-## [« Les professionnels de santé ne savent pas toujours à qui adresser leurs patients »](https://www.liberation-champagne.fr/id816007/article/2026-07-05/les-professionnels-de-sante-ne-savent-pas-toujours-qui-adresser-leurs-patients)  
-*Source : liberation-champagne.fr | Publication : 2026-07-05*
+## [EXCLUSIF-Selon certaines sources, l'agence américaine chargée de la <b>cybersécurité</b> ...](https://www.boursorama.com/actualite-economique/actualites-amp/exclusif-selon-certaines-sources-l-agence-americaine-chargee-de-la-cybersecurite-utiliserait-mythos-developpe-par-anthropic-pour-auditer-le-code-source-du-gouvernement-d96103ae42b0d7ec5edb5112708bab89)  
+*Source : boursorama.com | Publication : 2026-07-06*
 
-- Des escape games sur le thème de la cybersécurité et de la santé mentale ont été proposés aux professionnels de santé inscrits.
+- EXCLUSIF-Selon certaines sources, l'agence américaine chargée de la cybersécurité utiliserait Mythos, développé par Anthropic, pour auditer le code source du gouvernement information fournie par Reuters 06/07/2026 à 22:04 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Selon certaines sources, l'équipe de la CISA passe au crible les référentiels de code du gouvernement à la recherche de failles * Des audits ont déjà mis au jour de nombreuses vulnilités, selon deux de ces sources * La NSA aurait également utilisé Mythos malgré sa présence sur la liste noire du gouvernement par Raphael Satter L'agence américaine de cyberdéfense CISA utilise Mythos, le modèle d'IA d'Anthropic, pour auditer les logiciels gouvernementaux, ont déclaré lundi trois personnes proches du dossier, ce qui constitue un signe supplémentaire de l'engouement du gouvernement pour l'adoption des outils de cette start-up spécialisée dans l'IA, alors même que l'entreprise est en plein bras de fer avec la Maison Blanche.
+- L’Agence pour la cybersécurité et la sécurité des infrastructures (CISA) utilise Mythos pour analyser les dépôts de code du gouvernement à la recherche de bogues susceptibles d’ouvrir la porte à des espions étrangers et à des cybercriminels, ont indiqué ces sources.
+- Anthropic n’a pas répondu aux questions concernant cette initiative.
+- Un représentant de la CISA a déclaré le mois dernier qu’il vérifierait s’il y avait des informations à communiquer à ce sujet, mais n’a pas répondu aux e-mails ultérieurs.
 
-## [SOPHIA-ANTIPOLIS : Numérique B2B - L'IA et la <b>cybersécurité</b> dominent la communication ...](https://presseagence.fr/sophia-antipolis-numerique-b2b-lia-et-la-cybersecurite-dominent-la-communication-des-entreprises/)  
-*Source : presseagence.fr | Publication : 2026-07-05*
+## [Les ChocoPoCs mettent les défenseurs au menu des cybercriminels - Alliancy](https://alliancy.fr/les-chocopocs-mettent-les-defenseurs-au-menu-des-cybercriminels-fbb3cb80-8c95-4c53-b724-4a9fcc3c50c3)  
+*Source : alliancy.fr | Publication : 2026-07-06*
 
-- SOPHIA-ANTIPOLIS : Numérique B2B – L’IA et la c… Partager : SOPHIA-ANTIPOLIS : Numérique B2B – L’IA et la cybersécurité dominent la communication des entreprises Le 3ème baromètre de l’agence MyNtic-PR révèle une communication IT B2B totalement polarisée par l’IA et la souveraineté numérique.
-- L’Intelligence Artificielle et la Cybersécurité s’imposent comme les deux piliers quasi exclusifs de la communication des entreprises technologiques en 2025-2026.
-- C’est le constat majeur de la troisième édition du baromètre des relations presse dans l’IT B2B, publiée par MyNtic-PR.
-- L’agence, basée à Sophia-Antipolis et spécialisée dans les hautes technologies, a analysé sur douze mois (avril 2025 – avril 2026) les stratégies de communication de 60 acteurs représentatifs du secteur, des startups aux grands groupes, incluant éditeurs de logiciels, ESN, opérateurs et constructeurs.
+- vulnérabilités Les ChocoPoCs mettent les défenseurs au menu des cybercriminels Des chercheurs de YesWeHack et Sekoia documentent une campagne qui cible les équipes chargées d'analyser les nouvelles vulnérabilités.
+- L'attaque expose une faiblesse plus profonde : la chaîne d'approvisionnement de la cybersécurité elle-même.
+- Les défenseurs ont voulu croquer les nouvelles vulnérabilités au petit-déjeuner.
+- Les attaquants avaient déjà glissé des ChocoPoCs dans le bol.
 
-## [Nehal Ben Youssef remporte un prestigieux prix mondial en <b>cybersécurité</b> - Tuniscope](https://www.tuniscope.com/article/435359/actualites/societe/nihel-ben-youssef223616)  
-*Source : tuniscope.com | Publication : 2026-07-05*
+## [LTM lance BlueVerse™ RightLogic afin de faire face aux risques liés à la <b>cybersécurité</b> sous ...](https://fr.finance.yahoo.com/actualites/ltm-lance-blueverse-rightlogic-afin-192400152.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-07-06*
 
-- Publié le 05-07-2026 Nehal Ben Youssef remporte un prestigieux prix mondial en cybersécurité La Tunisie célèbre une nouvelle distinction internationale avec le sacre de la Dre Nehal Ben Youssef, qui a remporté le prix « Woman of the Year 2026 in Cybersecurity – Volunteer Category », décerné chaque année par la United Cybersecurity Alliance.
-- La cérémonie de remise des prix s’est déroulée à Vaduz, capitale de la Principauté du Liechtenstein.
-- Une victoire face à des candidates américaines Nehal Ben Youssef a été désignée lauréate après avoir figuré parmi les trois finalistes de la compétition, aux côtés de deux candidates des États-Unis, à l’issue d’une évaluation menée par un jury international d’experts selon les critères définis par l’organisation.
-- Une compétition réunissant près de 5 000 candidates L’édition 2026 a rassemblé près de 5 000 candidates issues d’environ 70 pays.
+- LTM lance BlueVerse™ RightLogic afin de faire face aux risques liés à la cybersécurité sous l'ère de l'IA Ce nouveau cadre d'évaluation et d'assurance des risques aide les entreprises à bénéficier d'une visibilité unifiée, à hiérarchiser les mesures correctives et à déployer l'IA en toute sécurité MUMBAI, Inde, July 06, 2026--(BUSINESS WIRE)--LTM, partenaire en matière de créativité d'entreprise auprès des plus grandes sociétés mondiales, a lancé BlueVerse™ RightLogic, un cadre d'évaluation de la cybersécurité et d'assurance des risques conçu pour aider les entreprises à identifier, évaluer et corriger leurs vulnérabilités informatiques à mesure qu'elles accélèrent l'adoption de l'IA.
+- L'IA peut désormais identifier et exploiter de manière autonome les vulnérabilités, tandis que les risques liés aux infrastructures, aux applications et aux chaînes d'approvisionnement ne cessent de s'étendre.
+- Le risque cyber est ainsi passé du statut de simple préoccupation technologique à celui de priorité au niveau du conseil d'administration, les entreprises peinant à maintenir une visibilité suffisante et à réagir à la vitesse des menaces émergentes.
+- BlueVerse RightLogic répond à ce besoin en offrant une vue unifiée et alignée sur l'activité de l'entreprise concernant ses expositions, et en permettant de passer d'évaluations ponctuelles et fragmentées à une gestion des risques continue et fondée sur des preuves.
 
-## [IA et <b>cybersécurité</b> : les défis selon Square Management - Brief IA](https://www.briefia.fr/article/ia-et-cybersecurite-les-defis-selon-square-management)  
-*Source : briefia.fr | Publication : 2026-07-05*
+## [LTM lance BlueVerse™ RightLogic afin de faire face aux risques liés à la <b>cybersécurité</b> sous ...](https://www.businesswire.com/news/home/20260706407441/fr)  
+*Source : businesswire.com | Publication : 2026-07-06*
 
-- Tu suis la course aux modèles IA ?.
-- Chaque sortie (GPT, Claude, Gemini, Mistral…) décryptée le soir même, en 5 min.
-- Gratuit.
-- Inclus dès l'inscription : notre sélection des meilleurs guides & comparatifs IA.
+- Le risque cyber est ainsi passé du statut de simple préoccupation technologique à celui de priorité au niveau du conseil d'administration, les.
 
-## [Si vous possédez un de ces iPhone, vous êtes exposé à une faille de sécurité | SFR ACTUS](https://actus.sfr.fr/tech/news/si-vous-possedez-un-de-ces-i-phone-vous-etes-expose-a-une-faille-de-securite_AN-202607050004.html)  
-*Source : actus.sfr.fr | Publication : 2026-07-05*
+## [Anthropic lance Claude Fable 5, son modèle d'IA public le plus puissant. - Quartz](https://fr.qz.com/anthropic-claude-fable-5-mythos-sortie-publique-060926)  
+*Source : fr.qz.com | Publication : 2026-07-06*
 
-- Une nouvelle faille de sécurité découverte sur plusieurs anciens iPhone inquiète les chercheurs en cybersécurité.
-- Le problème est d'autant plus préoccupant qu'Apple ne pourra pas le corriger par une simple mise à jour logicielle.
-- On vous explique.
-- Les propriétaires d'un ancien iPhone vont devoir redoubler de vigilance.
+- Anthropic a lancé Claude Fable 5 mardi, une version publique de son modèle d'IA de classe Mythos que l'entreprise a réservé à un petit groupe de partenaires en cybersécurité depuis avril.
+- Plutôt qu'une architecture distincte, Fable 5 fonctionne sur la même base que Mythos 5, avec des classificateurs ajoutés qui interceptent et bloquent les sorties touchant des domaines à haut risque — cybersécurité, biologie et chimie, et les prompts qu'Anthropic identifie comme des tentatives d'extraction des capacités du modèle pour les utiliser dans des systèmes d'IA rivaux.
+- Les requêtes qui déclenchent ces classificateurs sont transmises à Claude Opus 4.8, un modèle de capacité inférieure, plutôt que d'être répondues directement par Fable 5.
+- Selon Anthropic, la transmission à Opus 4.8 est rare, la grande majorité des sessions de Fable 5 — plus de 95 %, selon les données préliminaires — étant entièrement prises en charge par Fable 5 lui-même.
 
-## [Pourquoi la start-up nation israélienne garde plusieurs longueurs d'avance sur la French Tech](https://www.challenges.fr/entreprise/tech-numerique/pourquoi-la-start-up-nation-israelienne-garde-plusieurs-longueurs-davance-sur-la-french-tech_644650)  
-*Source : challenges.fr | Publication : 2026-07-05*
+## [JadePuffer est le premier <b>ransomware</b> agentique - GNT](https://www.generation-nt.com/actualites/jadepuffer-ransomware-agentique-ia-sysdig-2078170)  
+*Source : generation-nt.com | Publication : 2026-07-06*
 
-- Pourquoi la start-up nation israélienne garde plusieurs longueurs d’avance sur la French Tech CHRONIQUE - Derrière les succès de la start-up nation israélienne se cache une agence publique qui finance les technologies les plus risquées et façonne l’un des écosystèmes les plus performants au monde.
-- Jamais le secteur israélien de la tech ne s’est aussi bien porté.
-- L’an dernier, les fusions-acquisitions ont dépassé 80 milliards de dollars, environ six fois le montant enregistré en 2024 et près de quatre fois le précédent record de 2017.
-- Cette performance est certes largement alimentée par deux opérations majeures dans le domaine de la cybersécurité : l’acquisition de Wiz par Google et celle de CyberArk par Palo Alto Networks, pour un total de 57 milliards de dollars.
+- Le TRT (Threat Research Team) de la société de cybersécurité Sysdig a publié un rapport sur ce qui est présenté comme le premier cas documenté de ransomware agentique. ".
+- Une opération d'extorsion complète menée de bout en bout par un grand modèle de langage (LLM). ".
+- Elle a exploité une vulnérabilité CVE-2025-3248 affectant Langflow, un framework open source pour créer des applications basées sur l'IA.
+- Cette faille a servi de porte d'entrée pour une campagne adaptative et entièrement automatisée.
 
-## [Panne des sites web de communes suisses liées à Innovative Web - La Télé](https://latele.ch/articles/les-sites-web-de-nombreuses-communes-ont-connu-une-panne)  
-*Source : latele.ch | Publication : 2026-07-05*
+## [Démantèlements de proxys résidentiels : au tour de NetNut | LeMagIT](https://www.lemagit.fr/actualites/366645539/Demantelements-de-proxys-residentiels-au-tour-de-NetNut)  
+*Source : lemagit.fr | Publication : 2026-07-06*
 
-- Panne des sites web de communes suisses liées à Innovative Web Panne de plusieurs sites web communaux Les sites Internet de nombreuses communes et villes, ainsi que de plusieurs cantons, ont été brièvement inaccessibles dimanche après-midi en raison d'une panne.
-- Des communes romandes, notamment Sion, Bulle ou Romont (FR), ont été touchées.
-- La cause reste inconnue.
-- Lors d'une tentative d'accès à ces sites web, un message indiquant un problème est apparu, précisant que la page était inaccessible ou ne pouvait pas s'afficher, a révélé une brève enquête menée par l'agence de presse Keystone-ATS.
+- Vladimir - stock.adobe.com Démantèlements de proxys résidentiels : au tour de NetNut Le réseau de proxies résidentiels NetNut n'est plus.
+- Après SocksEscort et Ipidea, c'est le troisième qui tombe depuis le début de l'année.
+- Les proxys résidentiels exploitent des adresses IP attribuées par les fournisseurs d'accès à Internet, en détournent des appareils domestiques, tels que des routeurs ou des objets connectés.
+- Ces adresses sont recherchées par les acteurs malveillants car elles ne sont pas systématiquement référencées comme des serveurs VPN ou des hébergeurs, ce qui réduit considérablement le risque de blocage.
 
-## [Décrypter le langage secret des hackers - YouTube](https://www.youtube.com/watch?v=Cfh4uuOSL3o)  
-*Source : youtube.com | Publication : 2026-07-05*
+## [Crédit impôt recherche <b>cybersécurité</b> : le guide complet pour les entreprises - Challenges](https://www.challenges.fr/entreprise/credit-impot-recherche-cybersecurite-le-guide-complet-pour-les-entreprises_644742)  
+*Source : challenges.fr | Publication : 2026-07-06*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Crédit impôt recherche cybersécurité : le guide complet pour les entreprises La France est l'un des pays d'Europe les plus exposés aux cyberattaques, et les entreprises de la filière cybersécurité investissent massivement pour y répondre.
+- Ces investissements en recherche et développement ouvrent des droits au crédit d'impôt recherche (CIR), un dispositif fiscal qui permet de récupérer 30 % des dépenses de R&D éligibles.
+- Pourtant, la majorité des acteurs du secteur ne l'exploitent pas.
+- Ce guide explique pourquoi la cybersécurité est un domaine porteur de projets éligibles au CIR, quelles activités sont concernées, et comment structurer sa demande pour la sécuriser.
 
-## [AfricaCrypt 2026 : des experts internationaux réunis à Hammamet autour de la <b>cybersécurité</b>](https://africanmanager.com/africacrypt-2026-des-experts-internationaux-reunis-a-hammamet-autour-de-la-cybersecurite/)  
-*Source : africanmanager.com | Publication : 2026-07-05*
+## [Scality et Weka étendent leur partenariat - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/937-stockage/65056-scality-et-weka-etendent-leur-partenariat.html)  
+*Source : linformaticien.com | Publication : 2026-07-06*
 
-- La 17e édition d’AfricaCrypt 2026, la conférence internationale annuelle dédiée à la cryptographie et à la cybersécurité, se déroulera à Hammamet du 8 au 10 juillet.
-- Organisé à l’initiative de l’International Association for Cryptologic Research (IACR), cet événement réunira des chercheurs, experts et universitaires venus de plusieurs pays pour débattre des enjeux actuels de la sécurité numérique.
-- Cette nouvelle édition mettra en lumière les avancées scientifiques et technologiques les plus récentes dans les domaines de la cryptographie et de la cybersécurité.
-- Les participants échangeront sur les défis posés par l’évolution rapide des technologies numériques, notamment l’émergence de l’informatique quantique, qui remet progressivement en question les systèmes cryptographiques traditionnels.
+- Ransomware : les jours d'après · Stockage · Scality et Weka étendent leur partenariat.
+- Détails: 6 juillet 2026.
+- Les deux entreprises élargissent leur.
 
-## [Lignes directes avec le FBI, fantasmes de hack back : comment Microsoft collabore ... - Numerama](https://www.numerama.com/cyberguerre/2290417-lignes-directes-avec-le-fbi-fantasmes-de-hack-back-comment-microsoft-collabore-reellement-avec-les-autorites.html)  
-*Source : numerama.com | Publication : 2026-07-05*
+## [SINEXCEL étend son écosystème européen de stockage d'énergie lors du salon Intersolar ...](https://fr.tradingview.com/news/prnewswire:2fb60659c6a4a:0/)  
+*Source : fr.tradingview.com | Publication : 2026-07-06*
 
-- Début mars 2026, Numerama visitait les locaux de la Digital Crimes Unit (DCU) de Microsoft, un bâtiment rarement accessible où filmer ou prendre des photos est largement restreint.
-- Lors de cette visite, un détail a attiré notre attention : trois box d’appel, équipés de lignes téléphoniques reliées directement à des autorités gouvernementales.
-- De quoi nous interroger sur le rôle de ces lieux, et plus largement sur le fonctionnement de ces partenariats entre géants informatique et forces de sécurité.
-- À l’image du nouveau coup de filet mené dans le cadre de l’opération Endgame fin juin 2026, les coopérations public-privé s’imposent régulièrement dans l’actualité de la lutte contre la cybercriminalité, où chaque acteur joue un rôle clairement défini.
+- SINEXCEL étend son écosystème européen de stockage d'énergie lors du salon Intersolar Europe 2026, renforçant ainsi son engagement à long terme vis-à-vis de l'Europe MUNICH, 6 juillet 2026 /PRNewswire/ -- Lors du salon Intersolar Europe 2026, SINEXCEL (300693.SZ) a réaffirmé son engagement à long terme sur le marché européen en lançant son système de conversion de puissance (PCS) à grande échelle, StellaON 1250K/1575K, qui intègre des dispositifs Infineon, ainsi qu'une série de partenariats stratégiques visant à renforcer la conformité aux normes locales, les services et les capacités de réalisation de projets à travers l'Europe.
+- Ces initiatives contribuent à l'extension de l'écosystème européen de stockage d'énergie de SINEXCEL et prennent en charge l'accélération du déploiement de solutions de stockage à grande échelle.
+- À la pointe du stockage à grande échelle nouvelle génération en Europe Conçue pour le marché européen du stockage d'énergie en pleine évolution, la solution StellaON 1250K/1575K répond aux exigences croissantes du secteur en matière de résilience environnementale, d'adaptabilité au réseau et d'efficacité tout au long du cycle de vie.
+- Le PCS intègre les modules de puissance EconoDUAL™3 avancés d'Infineon, offrant un fonctionnement à pleine puissance de 55 °C, une capacité de formation de réseau, ainsi qu'un rendement de charge de 98,5 % pour les applications à grande échelle, contribuant ainsi à la transition de l'Europe vers des systèmes électriques comportant une forte part d'énergies renouvelables.
 
-## [AfricaCrypt 2026 : des experts internationaux réunis à Hammamet autour de la <b>cybersécurité</b> - TAP](https://www.tap.info.tn/fr/Portail-Titres-de-l-actualité/20361274-africacrypt-2026)  
-*Source : tap.info.tn | Publication : 2026-07-05*
+## [Exclusive Networks confie à Fabien Azra ses alliances technologiques en France](https://www.channelnews.fr/exclusive-networks-confie-a-fabien-azra-ses-alliances-technologiques-en-france-157681)  
+*Source : channelnews.fr | Publication : 2026-07-06*
 
-- Tunis, 5 juil (TAP) - La 17e édition d'AfricaCrypt 2026, la conférence internationale annuelle dédiée à la cryptographie et à la cybersécurité , se.
+- Exclusive Networks France annonce la nomination de Fabien Azra au poste de Vendor Alliances Director.
+- Il aura pour mission de définir et piloter la stratégie de développement des partenariats de l’entreprise avec ses éditeurs et constructeurs stratégiques, en renforçant les alliances existantes et en identifiant de nouvelles opportunités de collaboration.
+- Cette nomination doit soutenir les ambitions de croissance et d’innovation du distributeur spécialisé dans la cybersécurité.
+- Il s’agit d’une promotion interne.
 
-## [La Tunisienne Nihel Ben Youssef élue « Femme de l'année 2026 en <b>cybersécurité</b>](https://www.lapresse.tn/2026/07/05/la-tunisienne-nihel-ben-youssef-elue-femme-de-lannee-2026-en-cybersecurite/)  
-*Source : lapresse.tn | Publication : 2026-07-05*
+## [Vulnérabilités : les 14 alertes critiques du 6 juillet 2026 - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/07/06/vulnerabilites-les-14-alertes-critiques-du-6-juillet-2026/)  
+*Source : dcod.ch | Publication : 2026-07-06*
 
-- La Tunisienne Nihel Ben Youssef élue « Femme de l’année 2026 en cybersécurité » La Tunisienne Nihel Ben Youssef a décroché le prestigieux prix de la « Femme de l’année 2026 en cybersécurité », dans la catégorie bénévolat.
-- Cette distinction, décernée chaque année par l’organisation United Cybersecurity Alliance, lui a été remise lors d’une cérémonie officielle à Vaduz, la capitale de la principauté du Liechtenstein.
-- Mme Ben Youssef s’est imposée face à deux autres finalistes américaines, au terme d’une évaluation rigoureuse menée par un comité d’experts internationaux selon les critères définis par les organisateurs.
-- Une compétition internationale de haut niveau L’édition 2026 a enregistré une participation record avec près de 5 000 candidates issues de quelque 70 pays, avant que la sélection ne soit réduite aux trois finalistes en phase ultime.
+- Faits marquants de la semaine Une vulnérabilité dans « Hide My Email » d’Apple permettrait de retrouver l’adresse réelle censée être masquée, et resterait exploitable depuis plus d’un an, avec 100 % de réussite dans des tests limités.
+- - CISA confirme que des groupes de rançongiciels exploitent désormais BlueHammer, une vulnérabilité d’élévation de privilèges dans Microsoft Defender précédemment utilisée en zéro‑day, transformant un composant de sécurité en vecteur d’attaque supplémentaire.
+- - Des chercheurs observent l’exploitation d’une vulnérabilité critique dans la brique de paiement d’Oracle E-Business Suite, vulnérabilité à faible complexité touchant environ 950 instances exposées, dans un contexte d’attaques répétées contre les produits Oracle.
+- - Citrix corrige six failles dans NetScaler ADC et Gateway, dont une fuite de mémoire de type CitrixBleed liée au traitement des requêtes SAML, accompagnée de vulnérabilités provoquant déni de service et lecture de fichiers arbitraires.
 
-## [Hammamet au cœur de l'innovation africaine : un sommet majeur sur l'IA et la <b>cybersécurité</b> ...](https://www.rtci.tn/article/6a4a4cb208d2abfa304155c5/hammamet-au-cœur-de-linnovation-africaine--un-sommet-majeur-sur-lia-et-la-cybersécurité-du-13-au-15-juillet)  
-*Source : rtci.tn | Publication : 2026-07-05*
+## [Telex : Skello lève 200 M€, La Cnil a prononcé 23 sanctions simplifiées depuis début 2026 ...](https://www.lemondeinformatique.fr/actualites/lire-telex-skello-leve-200-meteuro-la-cnil-a-prononce-23-sanctions-simplifiees-depuis-debut-2026-une-campagne-de-ransomware-pilotee-par-un-agent-ia-100662.html)  
+*Source : lemondeinformatique.fr | Publication : 2026-07-06*
 
-- Hammamet au cœur de l’innovation africaine : un sommet majeur sur l’IA et la cybersécurité du 13 au 15 juillet Hammamet accueillera, du 13 au 15 juillet, le Sommet africain sur l’intelligence artificielle et la cybersécurité.
-- Organisé à l’initiative du Conseil de coopération scientifique arabo-algérien, en collaboration avec les universités de Sfax, de Kairouan et d’Al-Hofra en Libye, ce sommet vise à renforcer les efforts communs pour bâtir des administrations africaines plus intelligentes, sûres et durables.
-- Partagez:.
+- - Skello lève 200 M€ pour sa croissance.
+- L’éditeur français spécialisé dans les logiciesl RH pour les équipes de terrain fête ses 10 ans en annonçant un tour de table de 200 M€.
+- La majorité de l’investissement est apporté par le fonds britannique Bridgepoint qui devient un actionnaire minoritaire de référence.
+- Les investisseurs historiques, Partech et XAnge, ont également participé à cette opération aux côtés des fondatrices (Quitterie Mathelin-Moreaux, directrice générale et Emmanuelle Fauchier-Magnan, directrice des opérations) et de l'équipe de direction.
 
-## [Souveraineté, <b>cybersécurité</b>, quantique... J'ai discuté IA avec 2 experts : voici les 7 points à retenir](https://www.presse-citron.net/souverainete-cybersecurite-quantique-discute-ia-avec-2-experts-7-points-retenir/)  
-*Source : presse-citron.net | Publication : 2026-07-05*
+## [La Mêlée organise un évènement sur la <b>cybersécurité</b> et l'IA à Montpellier - ToulÉco](https://www.touleco.fr/La-Melee-organise-un-evenement-sur-la-cybersecurite-et-l-IA-a,52592)  
+*Source : touleco.fr | Publication : 2026-07-06*
 
-- L’intelligence artificielle bouscule tout sur son passage.
-- Mais derrière les innovations grand public, c’est une véritable guerre invisible qui se joue.
-- Entre fantasmes de souveraineté et réalité du terrain, comment l’Europe et ses entreprises font-elles face aux nouvelles cybermenaces ?.
-- Nous avons pu nous entretenir avec deux experts de Square Management, cabinet de conseil en stratégie et management, particulièrement implanté auprès des grands acteurs de la banque et de l’assurance : Jules Brochard, chercheur et co-responsable technique R&D sur l’IA, et Axel Barrault, chercheur-consultant senior au Square Research Center.
+- La Mêlée, réseau occitan des experts du numérique organise, le 9 juillet à Montpellier, une journée dédiée à la mobilisation des acteurs locaux autour des enjeux stratégiques de l’intelligence artificielle et de la cybersécurité.
+- L’événement s’articulera autour de formats variés : tables rondes, ateliers, conférences, retours d’expérience et pitchs.
+- Plus d’informations et inscriptions en ligne.
+- « Au cœur de l’IA & de la cyber : Les défis en 2026 ».
 
-## [Directive NIS 2 en France : 15 000 Entités Visées [2026] - Tech Insider](https://tech-insider.org/fr/directive-nis-2-transposition-france-2026/)  
-*Source : tech-insider.org | Publication : 2026-07-05*
+## [Voici JADEPUFFER, le <b>ransomware</b> qui n'a plus besoin d'humain - Numerama](https://www.numerama.com/cyberguerre/2291273-voici-jadepuffer-le-ransomware-qui-na-plus-besoin-dhumain.html)  
+*Source : numerama.com | Publication : 2026-07-06*
 
-- Publié le 05 juillet 2026.
-- Vingt mois après l’échéance fixée par Bruxelles, la France n’a toujours pas transposé la directive NIS 2 dans son droit national.
-- Le texte censé le faire — la loi Résilience — devait être examiné en séance publique à l’Assemblée nationale en juillet 2026, mais il ne figure pas au programme de la session extraordinaire.
-- En cause : un affrontement autour du chiffrement qui oppose la Direction générale de la sécurité intérieure (DGSI) aux parlementaires.
+- Elle s’appelle JadePuffer, et pourrait être l’opération que la communauté cyber redoutait depuis longtemps.
+- Depuis plusieurs années déjà, l’utilisation de l’intelligence artificielle par les cybercriminels n’a plus rien d’hypothétique : aide à la génération de malwares, rédaction de phishing plus convaincants, automatisation de la reconnaissance… Les exemples s’accumulent, mais une inquiétude domine chez les chercheurs en sécurité : celle de voir un jour une attaque menée de bout en bout par un agent d’IA, sans intervention humaine à aucune étape critique.
+- Si certains prototypes ont déjà été recensés, le rapport publié le 1er juillet 2026 par les équipes de Sysdig sur l’opération JadePuffer semble marquer un nouveau palier dans cette trajectoire, documentant pour la première fois un ransomware actif dont chaque phase, de l’accès initial à l’extorsion, aurait été exécutée par un agent autonome.
+- JadePuffer, une attaque de bout en bout sans main humaine Selon les détails techniques partagés par les chercheurs, l’agent aurait obtenu un accès initial en exploitant CVE-2025-3248, une faille de sécurité dans Langflow, un logiciel open source utilisé pour créer des applications IA.
 
-## [Méfiez-vous des noms de domaine suspects. - Vietnam.vn](https://www.vietnam.vn/fr/than-trong-voi-nhung-ten-mien-dang-ngo)  
-*Source : vietnam.vn | Publication : 2026-07-05*
+## [Données volées, systèmes rétablis: le Groupe 3R fait le point après la cyberattaque (update)](https://www.ictjournal.ch/news/2026-07-06/donnees-volees-systemes-retablis-le-groupe-3r-fait-le-point-apres-la-cyberattaque)  
+*Source : ictjournal.ch | Publication : 2026-07-06*
 
-- Après deux semaines de compétition intense, la Coupe du Monde 2026 entre dans sa phase finale avec des matchs toujours plus palpitants.
-- Mais à mesure que le tournoi s'intensifie, les arnaques en ligne explosent.
-- Des sites de revente de billets illégaux aux plateformes de streaming en direct, en passant par de fausses adresses FIFA conçues pour voler des informations personnelles, des milliers de noms de domaine suspects sont apparus en un temps record.
-- D'après les statistiques de Kaspersky, depuis le début de la Coupe du Monde, au moins 336 faux domaines indépendants imitant les ressources officielles du tournoi ont été détectés.
+- Données volées, systèmes rétablis: le Groupe 3R fait le point après la cyberattaque (update) Deux mois après la cyberattaque qui a fortement perturbé ses activités, le Groupe 3R apporte de nouveaux détails sur l'incident.
+- L'exploitant du Réseau Radiologique Romand revient notamment sur les données compromises, les auteurs de l'attaque, les mesures engagées depuis 2025 et la reconstruction de son infrastructure informatique.
+- Mise à jour du 6 juillet 2026: Après avoir reconnu, dans de récentes communications, que des documents internes dérobés lors de la cyberattaque du 30 avril avaient été diffusés sur le darknet, le Groupe 3R apporte de nouvelles précisions à la rédaction sur les conséquences de l'incident.
+- Il confirme que l'attaque a conduit au vol de données administratives de l'entreprise.
