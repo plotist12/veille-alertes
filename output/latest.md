@@ -1,143 +1,147 @@
 # Résumés – 2026-07-10
 
 
-## [Plan <b>Cybersécurité</b>-IA de l'UE 2026 : 9 Actions, ENISA - Tech Insider](https://tech-insider.org/fr/ue-plan-action-cybersecurite-ia-2026/)  
-*Source : tech-insider.org | Publication : 2026-07-09*
+## [IA et <b>cybersécurité</b> : Tarik Fadli dans L'Info en Face - YouTube](https://www.youtube.com/watch?v=ZhzYIWB6_sA)  
+*Source : youtube.com | Publication : 2026-07-10*
 
-- Le 7 juillet 2026, la Commission européenne a présenté son plan d’action sur la cybersécurité et l’intelligence artificielle.
-- Objectif affiché : préparer les secteurs critiques du continent à une IA capable de repérer en quelques secondes une faille qu’un chercheur humain mettrait des semaines à trouver.
-- Le texte s’articule autour de trois objectifs et, selon les premières lectures du dossier par la presse spécialisée bruxelloise, neuf actions concrètes.
-- Aucun montant budgétaire global n’accompagne l’annonce.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Importations de biens au Missouri: attention aux vérifications sur la taxe d'utilisation](https://www.rcgt.com/conseils/avis-d-experts/importations-de-biens-au-missouri--attention-aux-verifications-sur-la-taxe-dutilisation/)  
-*Source : rcgt.com | Publication : 2026-07-09*
+## [IA et <b>cybersécurité</b> : Tarik Fadli dans L'Info en Face - Le Matin](https://lematin.ma/videos/ia-et-cybersecurite-tarik-fadli-dans-linfo-en-face/355275/amp)  
+*Source : lematin.ma | Publication : 2026-07-10*
 
-- Sommaire Le Missouri Department of Revenue mène actuellement une campagne de vérification ciblant des entreprises ayant importé des biens dans cet État.
-- Les avis transmis s’appuient sur des données obtenues du U.S.
-- Customs Service pour certaines marchandises entrées au Missouri sans que la taxe d’utilisation applicable ait été déclarée ou payée.
-- Plusieurs entreprises pourraient avoir reçu, ou recevoir un avis semblable au cours des prochaines semaines.
+- Matin TV Activités Royales Nation Économie Monde Société Culture Régions Emploi Enseignement Sports Automobile Chroniques Nos Spéciaux Videos IA et cybersécurité : Tarik Fadli dans L'Info en Face.
+- 10 Juillet 2026 À 20:45 Your browser doesn't support HTML5 audio Cybersécurité : l'IA, une arme au service des cyberattaques massives ?.
+- Cette question sera au cœur du débat de L'Info en Face, ce vendredi 10 juillet.
+- Pour en discuter, Rachid Hallaouy reçoit Tarik Fadli, fondateur et PDG d'Algo Consulting et président de La Marocaine des e-Services.
 
-## [La <b>cybercriminalité</b> ne s'arrête pas aux infrastructures, aux identifiants ou aux rançongiciels](https://infodsi.com/articles/210389/la-cybercriminalite-ne-sarrete-pas-aux-infrastructures-aux-identifiants-ou-aux-rancongiciels.html)  
-*Source : infodsi.com | Publication : 2026-07-09*
+## [Barracuda acquiert Evo Security pour sa gestion des accès à privilèges - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-actualites/barracuda-acquiert-evo-security-pour-sa-gestion-des-acces-a-privileges/)  
+*Source : itsocial.fr | Publication : 2026-07-10*
+
+- Barracuda Networks rachète Evo Security, un éditeur américain de gestion des identités et des accès (IAM) conçu pour les prestataires de services gérés (MSP).
+- Le fournisseur de cybersécurité intégrera les briques d’Evo à sa plateforme BarracudaONE pour y ajouter la gestion des accès à privilèges.
+- Le montant de l’opération n’a pas été communiqué.
+- Barracuda est un éditeur de plateforme de cybersécurité pour les MSP, présent sur la messagerie, le réseau, les applications et la protection des données.
+
+## [Sommet africain de l'intelligence artificielle et de la <b>cybersécurité</b> : Vers une gouvernance ...](https://www.lapresse.tn/2026/07/10/sommet-africain-de-lintelligence-artificielle-et-de-la-cybersecurite-vers-une-gouvernance-numerique-africaine/)  
+*Source : lapresse.tn | Publication : 2026-07-10*
+
+- Sommet africain de l’intelligence artificielle et de la cybersécurité : Vers une gouvernance numérique africaine Du 13 au 15 juillet 2026, Hammamet réunira experts, universitaires et décideurs africains à l’occasion du Sommet africain de l’intelligence artificielle et de la cybersécurité.
+- L’événement ambitionne de renforcer la coopération continentale autour de la gouvernance numérique, de la sécurité des infrastructures digitales et de l’innovation technologique.
+- La Presse —Face à l’accélération de la transformation numérique et à l’essor des technologies basées sur l’intelligence artificielle, la Tunisie accueillera, du 13 au 15 juillet 2026 à Hammamet, le Sommet africain de l’intelligence artificielle et de la cybersécurité.
+- Placée sous le thème «Vers une gouvernance numérique intelligente et sécurisée pour la transformation digitale des gouvernements africains », cette rencontre se veut un espace de réflexion sur les défis et les opportunités liés au développement numérique en Afrique.
+
+## [IA et <b>cybersécurité</b> : Pékin ouvre un nouveau front contre Anthropic](https://www.leconomistemaghrebin.com/2026/07/10/ia-et-cybersecurite-pekin-ouvre-un-nouveau-front-contre-anthropic/)  
+*Source : leconomistemaghrebin.com | Publication : 2026-07-10*
+
+- Les autorités chinoises de cybersécurité affirment avoir identifié un mécanisme de transmission de données dans plusieurs versions de Claude Code, l’assistant de programmation développé par la start-up américaine Anthropic.
+- Cette nouvelle controverse illustre la montée des tensions autour de la souveraineté numérique et de la gouvernance mondiale de l’intelligence artificielle.
+- Le bras de fer technologique entre la Chine et les États-Unis s’étend désormais aux assistants de programmation fondés sur l’intelligence artificielle.
+- Le ministère chinois de l’Industrie et des Technologies de l’information (MIIT), par l’intermédiaire de sa National Vulnerability Database (NVDB), a publié, le 9 juillet, un avis de sécurité affirmant que plusieurs versions de Claude Code, développé par Anthropic, contiendraient un mécanisme capable de transmettre automatiquement certaines informations relatives aux utilisateurs vers des serveurs distants.
+
+## [Tyrex annonce l'ouverture de sa filiale canadienne et renforce son partenariat stratégique ... - infoDSI](https://infodsi.com/communiques-de-presse/49025/tyrex-annonce-louverture-de-sa-filiale-canadienne-et-renforce-son-partenariat-strategique-avec-seclab)  
+*Source : infodsi.com | Publication : 2026-07-10*
 
 - Veuillez activer Javascript.
 
-## [<b>Cybersécurité</b> : la France risque une lourde sanction de l'UE après 20 mois de retard](https://www.universfreebox.com/article/595730/cybersecurite-la-france-risque-une-lourde-sanction-de-lue-apres-20-mois-de-retard)  
-*Source : universfreebox.com | Publication : 2026-07-09*
+## [Vendre la souveraineté numérique en solo : le retour de terrain de Myra Security en France](https://www.solutions-numeriques.com/vendre-la-souverainete-numerique-en-solo-le-retour-de-terrain-de-myra-security-en-france/)  
+*Source : solutions-numeriques.com | Publication : 2026-07-10*
 
-- Cybersécurité : la France risque une lourde sanction de l’UE après 20 mois de retard Le retard de la France sur la cybersécurité européenne n’est plus sans conséquence.
-- La Commission européenne a décidé de saisir la Cour de justice de l’Union européenne, ouvrant la voie à d’importantes sanctions financières tant que le texte ne sera pas adopté.
-- La Commission européenne hausse le ton contre la France.
-- Estimant que le pays accuse un important retard dans la mise en œuvre de la directive européenne NIS 2, destinée à renforcer la cybersécurité des entreprises et des administrations, Bruxelles a décidé de saisir la Cour de justice de l’Union européenne.
+- Six mois après avoir ouvert, seul, la première antenne étrangère de l’éditeur allemand Myra Security, Pascal Vétu a dû réapprendre un marché qu’il pensait connaître.
+- Entre appétit réel pour les alternatives européennes et réalités très concrètes du terrain français, son expérience éclaire ce que suppose, aujourd’hui, l’implantation d’un acteur de la cybersécurité souveraine dans l’Hexagone.
+- Depuis le 15 janvier 2026, Pascal Vétu occupe seul un bureau au Campus Cyber, à La Défense.
+- Il est le premier Country Manager que Myra Security installe hors d’Allemagne, quatorze ans après la création de l’éditeur munichois par ses deux fondateurs, toujours à sa tête et actionnaires majoritaires.
 
-## [Keysight lance la plateforme de test de <b>cybersécurité</b> APS-ONE-400 - Investing.com](https://fr.investing.com/news/company-news/keysight-lance-la-plateforme-de-test-de-cybersecurite-apsone400-93CH-3492559)  
-*Source : fr.investing.com | Publication : 2026-07-09*
+## [Chrome : Google dégaine deux mises à jour de sécurité pour colmater 27 failles - 01net.com](https://www.01net.com/actualites/chrome-google-degaine-deux-mises-jour-securite-colmater-27-failles.html)  
+*Source : 01net.com | Publication : 2026-07-10*
 
-- (NYSE:KEYS) a annoncé aujourd'hui le lancement de l'APS-ONE-400, une plateforme modulaire de test de cybersécurité réseau destinée aux fabricants.
+- Google met le paquet pour sécuriser Chrome.
+- Le 7 juillet 2026, le géant de Mountain a d’abord déployé une première mise à jour de son navigateur, sans en évoquer le contenu, référencée 150.0.7871.100/101.
+- Dès le lendemain, Google a publié une seconde mise à jour, estampillée 150.0.7871.114/115 pour Windows et macOS ainsi que 150.0.7871.114 pour Linux.
+- À lire aussi : Google Chrome corrige un défaut agaçant du copier-coller Deux failles critiques colmatées par Google Comme l’explique Google, la mise à jour colmate un total de 27 vulnérabilités identifiées dans le code de Chrome.
 
-## [Mastercard ouvre un hub cyber pour l'Afrique - INCYBER NEWS](https://incyber.org/article/mastercard-ouvre-un-hub-cyber-pour-lafrique/)  
-*Source : incyber.org | Publication : 2026-07-09*
+## [Violences intrafamiliales, infraction à l'environnement… La gendarmerie a rencontré les ...](https://www.ouest-france.fr/normandie/livarot-pays-dauge-14140/violences-intrafamiliales-infraction-a-lenvironnement-la-gendarmerie-a-rencontre-les-elus-lors-dun-conseil-municipal-a8ea0b38-7a3e-11f1-ae95-49be6b75151e)  
+*Source : ouest-france.fr | Publication : 2026-07-10*
 
-- Mastercard ouvre un hub cyber pour l’Afrique Articles du même auteur : Le dispositif prendra d’abord la forme d’un hub virtuel, opéré via des plateformes numériques connectées.
-- Mastercard annonce, pour la première année, une analyse du risque cyber pour un maximum de 50 organisations, ainsi qu’un flux de renseignement sur les menaces dédié au continent africain.
-- Ce dernier s’appuiera notamment sur Recorded Future, spécialiste américain de la threat intelligence racheté par Mastercard fin 2024.
-- Le groupe inscrit cette initiative dans un contexte de forte exposition du continent aux cyberattaques.
+- Spécialisé dans l'informatique, il a annoncé que deux personnes étaient formées à la cybersécurité à la brigade de Livarot.
+- Les infractions.
 
-## [Fuite de données chez La commune de Castries, 110 Go exfiltrés par <b>ransomware</b> - FrenchBreaches](https://frenchbreaches.com/alertes/la-commune-de-castries-rw_VkdobElHTnZiVzExYm1VZ2IyWWdRMkZ6ZEhKcFpYTkFjR0Y1Ykc5aFpBPT0)  
-*Source : frenchbreaches.com | Publication : 2026-07-09*
+## [Mise en chantier du siège du Hub régional Asie-Pacifique de lutte contre la <b>cybercriminalité</b>](https://lecourrier.vn/mise-en-chantier-du-siege-du-hub-regional-asie-pacifique-de-lutte-contre-la-cybercriminalite/1351166.html)  
+*Source : lecourrier.vn | Publication : 2026-07-10*
 
-- Revendication de cyberattaque – La commune de Castries ajoutée au site de fuite du groupe ransomware Paylod Le groupe de ransomware Paylod a ajouté la commune de Castries à sa plateforme de fuite et revendique la compromission de ses systèmes d'information.
-- Selon les éléments publiés sur le site du groupe, les cybercriminels affirment avoir compromis les systèmes de castries.fr, le site officiel de la commune située dans l'Hérault, en région Occitanie.
-- Les attaquants indiquent détenir environ 110 Go de données et ont publié une fiche dédiée à la victime sur leur plateforme de divulgation.
-- À ce stade, aucun échantillon de données ni aucune catégorie précise d'informations exfiltrées n'ont été rendus publics.
+- >> La Convention de Hanoï doit être vue comme un engagement à long terme >> Le Vietnam plaide pour une ratification mondiale de la Convention de l’ONU >> ASEAN - ONUDC : unir les efforts contre la cybercriminalité et la criminalité L'événement marque une étape importante dans la mise en œuvre de la Convention des Nations Unies contre la cybercriminalité, également connue sous le nom de Convention de Hanoï, et témoigne de l'engagement du Vietnam à renforcer la coopération internationale en faveur d'un cyberespace sûr, sécurisé, fiable et durable.
+- Lors de la cérémonie, le vice-ministre des Affaires étrangères, Lê Anh Tuân, s'est déclaré convaincu que le hub deviendra progressivement un centre régional de référence en matière de formation, de recherche et d'assistance juridique, en particulier au profit des pays en développement engagés dans la ratification et la mise en œuvre de la Convention de Hanoï.
+- Il a ajouté que le hub servira également de plateforme de partage des connaissances et de renforcement de la coopération internationale dans la lutte contre la cybercriminalité.
+- Il contribuera à renforcer les capacités des services répressifs, des autorités judiciaires et des décideurs face à des cybermenaces de plus en plus complexes.
 
-## [Keysight Technologies annonce APS-ONE-400, une plateforme modulaire de test de ...](https://ch.zonebourse.com/actualite-bourse/keysight-technologies-annonce-aps-one-400-une-plateforme-modulaire-de-test-de-cybersecurite-reseau-ce7f5ededa8bff2c)  
-*Source : ch.zonebourse.com | Publication : 2026-07-09*
+## [<b>Cybercriminalité</b> : des associations lancent un « Bouclier numérique » pour sortir les ...](https://www.stopblablacam.com/societe/1007-16451-cybercriminalite-des-associations-lancent-un-bouclier-numerique-pour-sortir-les-victimes-de-l-ombre)  
+*Source : stopblablacam.com | Publication : 2026-07-10*
 
-- Keysight Technologies, Inc. a annoncé le lancement de l&#039;APS-ONE-400, une plateforme modulaire dédiée aux tests de cybersécurité réseau.
-- Cette nouvelle solution 4x100GE améliore considérablement les performances pour le trafic des couches 4 à 7 (L4-7), le trafic chiffré et les flux de données massifs (Elephant Flows), le tout dans un système compact d&#039;une unité de rack (1 RU).
-- Elle permet aux équipementiers réseau, aux fournisseurs de services et aux opérateurs de centres de données de valider des scénarios exigeants tout en réduisant les besoins globaux en infrastructure.La plateforme de test de cybersécurité réseau modulaire Keysight APS-ONE-400 4x100GE génère un trafic L4-7 à l&#039;échelle hyperscale, du trafic chiffré TLS (Transport Layer Security), des simulations d&#039;attaques de sécurité et des Elephant Flows via un format 1RU qui minimise l&#039;occupation de l&#039;espace rack, la consommation d&#039;énergie et les besoins en refroidissement.
-- La complexité et le volume croissants des charges réseau — incluant le trafic légitime et malveillant, le trafic chiffré par cryptographie post-quantique (PQC), l&#039;accès réseau de type Zero Trust (ZTNA) et les transmissions Elephant Flow courantes dans les charges de travail liées à l&#039;intelligence artificielle et aux grands modèles de langage (LLM) —exigent que les équipementiers réseau, les fournisseurs de services et les opérateurs de centres de données valident la capacité de leurs solutions à supporter ces demandes avant leur déploiement.
+- Derrière les milliards de FCFA engloutis chaque année dans les escroqueries en ligne, il y a aussi des trajectoires brisées, des réputations détruites et des victimes qui se taisent.
+- Usurpation d’identité, cyberharcèlement, sextorsion, faux investissements, piratage de comptes, deepfakes ou clonage de voix par intelligence artificielle : au Cameroun, les formes de cybercriminalité se diversifient plus vite que les réflexes de protection.
+- C’est pour répondre à cette réalité que trois organisations de la société civile ont lancé, le 9 juillet 2026 à Yaoundé, le programme « Bouclier numérique ».
+- Porté par la Fondation Cœur de Mère, la SNK Foundation et la CyberinnoShield Foundation, basée aux États-Unis, ce dispositif entend faire de la prévention, de la sensibilisation et de l’accompagnement des victimes le premier rempart contre les violences numériques.
 
-## [L'explosion des vulnérabilités identifiées grâce à l'IA pourrait saturer les équipes cyber à ... - AEF info](https://www.aefinfo.fr/depeche/753963-lexplosion-des-vulnerabilites-identifiees-grace-a-lia-pourrait-saturer-les-equipes-cyber-a-court-terme-selon-lanssi)  
-*Source : aefinfo.fr | Publication : 2026-07-09*
+## [Ce que les RSSI demandent aux candidats à la présidentielle - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/ce-que-les-rssi-demandent-aux-candidats-a-la-presidentielle-228239)  
+*Source : silicon.fr | Publication : 2026-07-10*
 
-- La Commission européenne saisit officiellement la Cour de justice de l'Union européenne contre la France pour défaut de transposition de la directive La section cyber du parquet de Paris "a décidé de nommer un référent mineurs" pour mieux prendre en compte la jeunesse des mis en cause dans les dossiers de vols de données, déclare sa cheffe, la vice-procur Dans une note publiée mercredi 6 mai 2026, le Campus cyber appelle à relativiser les performances du modèle américain d'IA "Claude Mythos".
-- Il alerte notamment sur l'objectivité des informations rela "L’IA générative est progressivement intégrée à l’éventail d’outils et de services auxquels sont susceptibles de recourir des attaquants informatiques", relève l’Anssi, mercredi 4 février 2026.
-- Les.
+- C’est un genre d’électeurs que les candidats à la présidentielle ont rarement l’habitude de courtiser : les RSSI Le CESIN (Club des Experts de la Sécurité de l’Information et du Numérique) qui fédère plus de 1 300 d’entre eux ( RSSI, CISO, directeurs de la cybersécurité) a pourtant décidé de les interpeller directement via » une lettre ouverte » signée par son président Fabrice Bru.
+- Leur message est davantage politique que technique : la souveraineté numérique n’est plus une option, elle conditionne désormais la sécurité nationale, la compétitivité économique et la solidité même de la démocratie.
+- Une menace qui a débordé le seul terrain numérique En première ligne sur le front des cyberattaques, les RSSI alertent sur une situation critique et largement documentée.
+- Dans les hôpitaux, les collectivités, les entreprises, les administrations, les attaques se multiplient et perturbent désormais la vie quotidienne, l’économie réelle et la continuité de l’État.
 
-## [EKINOPS : Chiffre d'affaires de 30,6 M EUR au 2ème trimestre 2026 - Boursorama](https://www.boursorama.com/bourse/actualites-amp/ekinops-chiffre-d-affaires-de-30-6-m-eur-au-2eme-trimestre-2026-6917dfd6e32905e9e42385c39aa49592)  
-*Source : boursorama.com | Publication : 2026-07-09*
-
-- EKINOPS : Chiffre d'affaires de 30,6 M EUR au 2ème trimestre 2026 information fournie par Actusnews 09/07/2026 à 18:00 3 ème trimestre consécutif de croissance séquentielle (+11%) - Progression de +6% de l'activité par rapport au 2 ème trimestre 2025 -.
-- PARIS, le 9 juillet 2026 - 18h00 - EKINOPS (Euronext Paris - FR0011466069 - EKI) , fournisseur leader de solutions de réseaux optiques, de connectivité et de réseaux SASE destinées aux opérateurs de services et aux entreprises, publie son chiffre d'affaires du 2 ème trimestre 2026 (période du 1 er avril au 30 juin 2026).
-- Chiffre d'affaires du 2 ème trimestre 2026 en progression séquentielle de +11% Au 2 ème trimestre de l'exercice 2026, Ekinops a enregistré un chiffre d'affaires consolidé de 30,6 M€, son plus haut niveau d'activité trimestrielle depuis 3 ans.
-- Cette bonne performance confirme la dynamique commerciale positive engagée depuis plusieurs trimestres.
-
-## [“Les entreprises sont moins fidèles à leurs fournisseurs” : Comment l'IA, les coûts et la ...](https://www.usine-digitale.fr/cybersecurite/les-entreprises-sont-moins-fideles-a-leurs-fournisseurs-comment-lia-les-couts-et-la-souverainete-rebattent-les-cartes-des-achats-de-cybersecurite.KSQ4A2YPJ5EGZJ4XCKULEFDWZI.html)  
-*Source : usine-digitale.fr | Publication : 2026-07-09*
-
-- Pour Florie Lhuillier, responsable de la cybersécurité et vice-présidente Senior chez The Hoffman Agency, ce chiffre ne traduit pourtant pas une.
-
-## [Lightwell disponible commercialement - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/65070-lightwell-disponible-commercialement.html)  
-*Source : linformaticien.com | Publication : 2026-07-09*
-
-- Ransomware : les jours d'après · Cybersécurité · Lightwell disponible commercialement.
-- Détails: Bertrand Garé: 9 juillet 2026.
-- Le projet lancé par IBM.
-
-## [IronStream identifie les logiciels IBM z/OS - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/logiciel/65072-ironstream-identifie-les-logiciels-ibm-z-os.html)  
-*Source : linformaticien.com | Publication : 2026-07-09*
-
-- Les clients de ServiceNow peuvent désormais recenser automatiquement les logiciels mainframe et les intégrer à la ServiceNow Configuration.
-
-## [Anaplan renforce son partenariat avec Google Cloud - L'1FO Tech par L'Informaticien](https://www.linformaticien.com/magazine/cloud/65071-anaplan-renforce-son-partenariat-avec-google-cloud.html)  
-*Source : linformaticien.com | Publication : 2026-07-09*
+## [Exterro enrichit sa suite forensique avec de l'agentique - L'INFORMATICIEN &amp; L'INFO ...](https://www.linformaticien.com/magazine/cybersecurite/65075-exterro-enrichit-sa-suite-forensique-avec-de-l-agentique.html)  
+*Source : linformaticien.com | Publication : 2026-07-10*
 
 - LES DOSSIERS CYBERSECURITE.
-- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Cloud · Anaplan renforce son partenariat.
+- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Cybersécurité · Exterro enrichit sa suite.
 
-## [Service de proximité, <b>cybersécurité</b>, SFR Business… Comment Bouygues Telecom ... - Les Echos](https://www.lesechos.fr/tech-medias/hightech/service-de-proximite-cybersecurite-sfr-business-comment-bouygues-telecom-veut-construire-un-challenger-serieux-a-orange-sur-le-marche-des-entreprises-2241690)  
-*Source : lesechos.fr | Publication : 2026-07-09*
+## [<b>Cybersécurité</b> en santé : la résilience comme priorité - DSIH](https://dsih.fr/videos/44/cybersecurite-en-sante-la-resilience-comme-priorite)  
+*Source : dsih.fr | Publication : 2026-07-10*
 
-- Service de proximité, cybersécurité , SFR Business… Comment Bouygues Telecom veut construire un « challenger sérieux » à Orange sur le marché des.
+- Cybersécurité en santé : la résilience comme priorité 10 juil.
+- 2026 - 10:47, 764 incidents de cybersécurité ont été déclarés au CERT (Computer Emergency Response Team) Santé en 2025, dont plus de 400 d'origine malveillante, selon l’Observatoire des signalements d’incidents de sécurité des systèmes d’information pour les secteurs santé et médicosocial publié par l’Agence du Numérique en Santé.
+- 38 % des signalements se sont traduits par un fonctionnement en mode dégradé ou une interruption de la prise en charge des patients.
+- « Les principaux enjeux de cybersécurité dans le domaine de la santé se résument en trois priorités : la résilience, la simplification et surtout la continuité des soins », déclare Isabelle Drolc-Catrice.
 
-## [<b>Ransomware</b> : léger recul en juin pour conclure un semestre intense - LeMagIT](https://www.lemagit.fr/actualites/366645642/Ransomware-leger-recul-en-juin-pour-conclure-un-semestre-intense)  
-*Source : lemagit.fr | Publication : 2026-07-09*
+## [Le cycle de correctifs ne suffit plus à définir la <b>cybersécurité</b> - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1552559-le-cycle-de-correctifs-ne-suffit-plus-a-definir-la-cybersecurite/)  
+*Source : journaldunet.com | Publication : 2026-07-10*
 
-- Afiq Sam - stock.adobe.com Ransomware : léger recul en juin pour conclure un semestre intense L’activité observable sur le front des cyberattaques avec rançongiciel a continué son recul séquentiel en juin.
-- Mais elle reste marquée par un niveau bien supérieur à celui de 2025, sur fond d’écosystème fragmenté.
-- Pour le mois de juin 2026, nous avons compté, avec l’aide de ransomware.live, un total de 705 incidents de rançongiciel à travers le monde, marquant une légère décélération par rapport au mois précédent.
-- Ce recul mensuel de 4,3 % marque un reflux temporaire de l’activité : traditionnellement, depuis six ans, elle baisse en juin jusqu’à atteindre son taux le plus bas annuel en juillet, avec une reprise en août.
+- Le cycle de correctifs ne suffit plus à définir la cybersécurité Le patching ne suffit plus face à des menaces accélérées par l'IA.
+- Les entreprises doivent adopter une approche de cybersécurité plus proactive, fondée sur la détection et la résilience.
+- Pendant de nombreuses années, la cybersécurité s’est structurée autour d’un principe relativement simple et rassurant.
+- Les organisations identifiaient les vulnérabilités, appliquaient les correctifs mis à disposition par les éditeurs et réduisaient ainsi leur exposition aux menaces.
 
-## [L'été : haute saison des cyberattaques ! - Beaboss.fr](https://www.beaboss.fr/digital-1074/cybersecurite-2020/lete-haute-saison-des-cyberattaques-55486)  
-*Source : beaboss.fr | Publication : 2026-07-09*
+## [Secure Boot : Microsoft suspend le déploiement des nouveaux certificats sur certains PC](https://www.clubic.com/actualite-620818-secure-boot-microsoft-suspend-le-deploiement-des-nouveaux-certificats-sur-certains-pc.html)  
+*Source : clubic.com | Publication : 2026-07-10*
 
-- Ce n’est pas un hasard si les cyberattaques les plus dévastatrices surviennent régulièrement pendant les périodes estivales.
-- Les pirates informatiques ne prennent pas de vacances.
-- Ils les attendent.
-- Et ce constat, que je fais mission après mission depuis plus dix ans, repose sur une réalité simple : l’été réunit toutes les conditions d’un coup de chaud pour la sécurité des systèmes d’information.
+- Microsoft a suspendu le déploiement des nouveaux certificats Secure Boot sur certains PC Windows 11.
+- En cause, des incompatibilités de firmware susceptibles de perturber l’installation.
+- Microsoft poursuit le remplacement des anciens certificats Secure Boot, dont le premier est arrivé à expiration le 24 juin 2026.
+- Un peu plus de deux semaines après cette échéance, la migration vers les certificats de 2023 a déjà été appliquée automatiquement sur la majorité des PC compatibles via Windows Update.
 
-## [La cyber-assurance en Afrique : un marché en construction face à des risques en hausse](https://www.atlas-mag.net/fr/articles/la-cyber-assurance-en-afrique-un-marche-en-construction-face-des-risques-en-hausse)  
-*Source : atlas-mag.net | Publication : 2026-07-09*
+## [<b>Cybersécurité</b> : la commande publique au défi de la résilience - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1552433-cybersecurite-la-commande-publique-au-defi-de-la-resilience/)  
+*Source : journaldunet.com | Publication : 2026-07-10*
 
-- L’Afrique connaît une accélération de sa transformation numérique, portée par l’expansion de l’Internet mobile, l’essor des services financiers digitaux tels que le mobile banking, le mobile money et le commerce électronique.
-- La modernisation des administrations publiques pousse également à la transformation numérique de l’écosystème assurance.
-- Cette dynamique s’accompagne toutefois d’une recrudescence des cyber-risques, exposant davantage les institutions financières, les entreprises et les utilisateurs à de nouvelles formes de menace.
-- Dans ce contexte, la cyberassurance émerge progressivement comme un segment stratégique pour les assureurs africains et une nouvelle solution pour les entreprises.
+- Cybersécurité : la commande publique au défi de la résilience Face à la menace cyber, les acteurs publics doivent accélérer.
+- En facilitant l'accès à des prestations référencées, les centrales d'achat s'imposent comme un levier de performance.
+- Collectivités, hôpitaux, établissements médico-sociaux : les acteurs publics de santé sont en première ligne face aux attaques cyber qui peuvent désorganiser un service, bloquer une administration, fragiliser la confiance des usagers.
+- La multiplication des fuites de données, hameçonnages et faux ordres de virement a accéléré la prise de conscience.
 
-## [PME françaises : la <b>cybersécurité</b> change de statut, pas encore de bilan](https://www.solutions-numeriques.com/pme-francaises-la-cybersecurite-change-de-statut-pas-encore-de-bilan/)  
-*Source : solutions-numeriques.com | Publication : 2026-07-09*
+## [[SS97-STUDIO] 2026-07-10 YOUTUBE Windows](https://www.youtube.com/watch?v=ECdZf8W-hdU)  
+*Source : youtube.com | Publication : 2026-07-10*
 
-- Le budget n’est plus l’excuse.
-- La formation progresse, l’IA s’installe sous surveillance, le MDR grignote du terrain.
-- Et pourtant, 44 % des entreprises continuent d’encaisser des incidents évitables, une proportion qui frôle une sur deux dans les structures de 500 à 1 000 endpoints.
-- C’est le tableau que dresse le dernier baromètre d’ESET consacré aux PME françaises, mené auprès de 500 décideurs cyber entre février et mars 2026.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [GitHub Actions devient un canal d'injection de prompts - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/github-injection-prompt-228214)  
-*Source : silicon.fr | Publication : 2026-07-09*
+## [Une exposition interactive à Hanoï pour sensibiliser le public aux risques numériques](https://vietnam.vnanet.vn/french/print/une-exposition-interactive-a-hanoi-pour-sensibiliser-le-public-aux-risques-numeriques-456214.html)  
+*Source : vietnam.vnanet.vn | Publication : 2026-07-10*
 
-- Limitez les permissions de vos agents au strict nécessaire, a fortiori s’ils ont accès à plusieurs dépôts.
-- Là n’est pas le seul conseil que Noma Security donne aux utilisateurs des workflows agentiques GitHub.
-- Mais c’est probablement celui qui se justifie après la démonstration de l’entreprise israélienne.
-- Elle a, en l’occurrence, mis en lumière une vulnérabilité d’injection de prompt.
+- cybersécurité " propose aux habitants de la capitale ainsi qu'aux touristes une immersion au cœur des défis liés à la cybersécurité.
+- L'exposition.
+
+## [Voici pourquoi vous ne devez surtout pas zapper les mises à jour Windows : Microsoft utilise ...](https://www.journaldugeek.com/2026/07/10/mises-a-jour-windows-microsoft-ia-failles-de-securite/)  
+*Source : journaldugeek.com | Publication : 2026-07-10*
+
+- Les récentes avancées de l’intelligence artificielle ont rapidement fait évoluer la cybersécurité, puisque certains modèles sont désormais capables de découvrir de nouvelles failles de sécurité sur les logiciels.
+- Et, en tenant compte de cette évolution (l’arrivée de modèles comme Claude Mythos ou les modèles “Cyber” d’OpenAI), Microsoft a développé sa propre solution, basée sur des technologies tierces, pour renforcer la sécurité de Windows.
+- En d’autres termes, la firme ne s’appuie pas sur une seule IA pour protéger vos données.
+- Son objectif : trouver et réparer les failles en utilisant l’intelligence artificielle, avant que celles-ci ne soient découvertes et exploitées par des hackers.
