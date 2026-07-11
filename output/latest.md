@@ -1,147 +1,160 @@
-# Résumés – 2026-07-10
+# Résumés – 2026-07-11
 
 
-## [IA et <b>cybersécurité</b> : Tarik Fadli dans L'Info en Face - YouTube](https://www.youtube.com/watch?v=ZhzYIWB6_sA)  
-*Source : youtube.com | Publication : 2026-07-10*
+## [Fuite de données chez Hotel Bourse, une cyberattaque <b>ransomware</b> signalée - FrenchBreaches](https://frenchbreaches.com/alertes/hotel-bourse-rw_YUc5MFpXd3RZbTkxY25ObExtTnZiVUJzYjJOclltbDBOUT09)  
+*Source : frenchbreaches.com | Publication : 2026-07-11*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Revendication de cyberattaque – Hôtel Bourse ajouté au site de fuite du groupe ransomware LockBit 5.0 Le groupe de ransomware LockBit 5.0 a ajouté Hôtel Bourse à sa plateforme de fuite et revendique la compromission de ses systèmes d'information.
+- Selon les éléments publiés sur le site du groupe, les cybercriminels affirment avoir compromis les systèmes de hotel-bourse.com, établissement hôtelier situé à Mulhouse, dans le département du Haut-Rhin.
+- Les attaquants ont publié une fiche dédiée à la victime sur leur plateforme de divulgation et affichent un compte à rebours avant une éventuelle publication des données prétendument exfiltrées.
+- À ce stade, aucun échantillon de données ni aucune catégorie précise d'informations compromises n'ont été rendus publics.
 
-## [IA et <b>cybersécurité</b> : Tarik Fadli dans L'Info en Face - Le Matin](https://lematin.ma/videos/ia-et-cybersecurite-tarik-fadli-dans-linfo-en-face/355275/amp)  
-*Source : lematin.ma | Publication : 2026-07-10*
+## [Les délégués du Forum international sur la sécurité rejoignent l'initiative « Green Legacy](https://www.ena.et/web/fre/w/fre_9200016)  
+*Source : ena.et | Publication : 2026-07-11*
 
-- Matin TV Activités Royales Nation Économie Monde Société Culture Régions Emploi Enseignement Sports Automobile Chroniques Nos Spéciaux Videos IA et cybersécurité : Tarik Fadli dans L'Info en Face.
-- 10 Juillet 2026 À 20:45 Your browser doesn't support HTML5 audio Cybersécurité : l'IA, une arme au service des cyberattaques massives ?.
-- Cette question sera au cœur du débat de L'Info en Face, ce vendredi 10 juillet.
-- Pour en discuter, Rachid Hallaouy reçoit Tarik Fadli, fondateur et PDG d'Algo Consulting et président de La Marocaine des e-Services.
+- Les délégués du Forum international sur la sécurité rejoignent l'initiative « Green Legacy » en Éthiopie - ENA Français Les délégués du Forum international sur la sécurité rejoignent l'initiative « Green Legacy » en Éthiopie Addis Ababa le 11 juillet, 2026 (ENA) Les délégués participant au Forum parlementaire international sur le renseignement et la sécurité se sont associés à l’initiative phare éthiopienne « Green Legacy » en plantant des jeunes arbres dans l’enceinte de la Chambre des représentants du peuple.
+- Leur participation a été considérée comme une manifestation symbolique de leur engagement commun en faveur de la durabilité environnementale et de la lutte contre le changement climatique.
+- Cette cérémonie de plantation d’arbres a réuni des membres de la délégation internationale, dont Robert Pittenger, fondateur et président du Forum parlementaire sur le renseignement et la sécurité, aux côtés du président de la Chambre des représentants du peuple, Tagesse Chafo, et du vice-président, Lomi Bedo.
+- En participant à cette initiative, les délégués ont laissé une empreinte écologique durable tout en exprimant leur solidarité avec la campagne nationale menée par l’Éthiopie pour restaurer les paysages dégradés et lutter contre le changement climatique.
 
-## [Barracuda acquiert Evo Security pour sa gestion des accès à privilèges - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-actualites/barracuda-acquiert-evo-security-pour-sa-gestion-des-acces-a-privileges/)  
-*Source : itsocial.fr | Publication : 2026-07-10*
+## [Les jeunes forces sur un nouveau front - Vietnam.vn](https://www.vietnam.vn/fr/luc-luong-tre-tren-mat-tran-moi)  
+*Source : vietnam.vn | Publication : 2026-07-11*
 
-- Barracuda Networks rachète Evo Security, un éditeur américain de gestion des identités et des accès (IAM) conçu pour les prestataires de services gérés (MSP).
-- Le fournisseur de cybersécurité intégrera les briques d’Evo à sa plateforme BarracudaONE pour y ajouter la gestion des accès à privilèges.
-- Le montant de l’opération n’a pas été communiqué.
-- Barracuda est un éditeur de plateforme de cybersécurité pour les MSP, présent sur la messagerie, le réseau, les applications et la protection des données.
+- Priorité à la lutte contre la cybercriminalité.
+- L'unité PA05, relativement jeune, doit relever de nombreux défis, le domaine de la cybersécurité étant en constante évolution au gré des progrès technologiques.
+- Les criminels utilisent de multiples niveaux de sécurité, des serveurs situés à l'étranger et les preuves sont principalement des données électroniques, ce qui exige des officiers et des soldats qu'ils soient non seulement compétents dans leur domaine, mais aussi qu'ils mettent constamment à jour leurs connaissances et maîtrisent les nouvelles technologies.
+- Avec une équipe d'agents hautement qualifiés en cybersécurité, en technologies de l'information et en enquêtes sur la criminalité de haute technologie, ainsi qu'un esprit proactif d'apprentissage et de recherche, le département PA05 affirme progressivement son rôle de force centrale dans la garantie de la cybersécurité, remplissant efficacement sa mission de protection de la sécurité nationale et du développement socio-économique de la province.
 
-## [Sommet africain de l'intelligence artificielle et de la <b>cybersécurité</b> : Vers une gouvernance ...](https://www.lapresse.tn/2026/07/10/sommet-africain-de-lintelligence-artificielle-et-de-la-cybersecurite-vers-une-gouvernance-numerique-africaine/)  
-*Source : lapresse.tn | Publication : 2026-07-10*
+## [Mise en chantier du Centre de lutte contre la <b>cybercriminalité</b> pour la région Asie-Pacifique](https://vov.vn/fr-CH/actualites/mise-en-chantier-du-centre-de-lutte-contre-la-cybercriminalite-pour-la-region-asie-pacifique-2449508.vov)  
+*Source : vov.vn | Publication : 2026-07-11*
 
-- Sommet africain de l’intelligence artificielle et de la cybersécurité : Vers une gouvernance numérique africaine Du 13 au 15 juillet 2026, Hammamet réunira experts, universitaires et décideurs africains à l’occasion du Sommet africain de l’intelligence artificielle et de la cybersécurité.
-- L’événement ambitionne de renforcer la coopération continentale autour de la gouvernance numérique, de la sécurité des infrastructures digitales et de l’innovation technologique.
-- La Presse —Face à l’accélération de la transformation numérique et à l’essor des technologies basées sur l’intelligence artificielle, la Tunisie accueillera, du 13 au 15 juillet 2026 à Hammamet, le Sommet africain de l’intelligence artificielle et de la cybersécurité.
+- cybercriminalité pour l'Asie-Pacifique.
+- Facebook Share Facebook.
+- samedi, 15:23, 11/07/2026.
+- VOV5.
+
+## [Codex, GPT-5.6, ChatGPT relégué au second plan, OpenAI vise la narration face à Fable ...](https://www.carnetdebord.info/codex-gpt-5-6-chatgpt-relegue-au-second-plan-openai-vise-la-narration-face-a-fable-ce-qui-change-pour-vos-usages/)  
+*Source : carnetdebord.info | Publication : 2026-07-11*
+
+- OpenAI a dévoilé une série d’annonces mettant en avant Codex comme nouveau produit central, reléguant ChatGPT à un rôle moins visible, tandis que GPT-5.6 est présenté comme une réponse à des outils orientés narration comme Fable.
+- Le signal est clair, la priorité se déplace vers des agents plus spécialisés, capables de produire du code et des contenus structurés, avec une expérience plus proche d’un « outil métier » que d’un simple chatbot.
+- Ces informations, rapportées par MacGeneration, s’inscrivent dans un contexte où les assistants généralistes cohabitent désormais avec des produits davantage ciblés, pour le développement, l’écriture, l’audio ou la vidéo.
+- Pour le grand public, la question n’est pas seulement le nom affiché dans une interface.
+
+## [Amazon Kindle : une faille critique permet de pirater votre liseuse à distance - 01net.com](https://www.01net.com/actualites/amazon-kindle-faille-critique-permet-pirater-liseuse-distance.html)  
+*Source : 01net.com | Publication : 2026-07-11*
+
+- Un chercheur de Synacktiv, une société de cybersécurité française, a découvert une faille dans les Kindle, les fameuses liseuses vendues par Amazon.
+- En exploitant cette vulnérabilité, le chercheur est parvenu à prendre le contrôle total de la tablette à l’insu de son propriétaire.
+- Lors de la conférence LeHack 2026, Tanguy Dubroca, le chercheur à l’origine de la découverte, explique avoir voulu « comprendre comment prendre le contrôle d’un appareil fermé sans utiliser les outils de jailbreak existants ».
+- C’est de cette façon qu’il a fini par débusquer une défaillance dans le système de son Kindle Paperwhite 5 sortie en 2021.
+
+## [Monoprix, BCE, Electra : les cinq infos économiques de la semaine - JDD](https://www.lejdd.fr/economie/monoprix-bce-electra-les-cinq-infos-economiques-de-la-semaine-178743)  
+*Source : lejdd.fr | Publication : 2026-07-11*
+
+- Monoprix, BCE, Electra : les cinq infos économiques de la semaine Monoprix mise sur la beauté et la restauration, la BCE alerte sur la cybermenace, Electra veut devenir l'Android de la recharge… Voici les informations économiques à retenir cette semaine.
+- Monoprix mise sur la beauté et la restauration L’enseigne du groupe Casino lance la rénovation de tous ses magasins dans l’Hexagone cet été.
+- Le chantier devrait être achevé en 2030.
+- Le but : des lieux plus esthétiques, mieux identifiés et conçus autour de deux activités génératrices de croissance, la restauration et la beauté.
+
+## [Climatiseur miracle, NASA, complot : une nouvelle arnaque fait rage sur les réseaux sociaux](https://www.01net.com/actualites/nasa-climatiseur-miracle-complot-nouvelle-arnaque-reseaux-sociaux.html)  
+*Source : 01net.com | Publication : 2026-07-11*
+
+- Il va encore faire chaud ces prochains jours.
+- Chacun essaye de faire face à la chaleur comme il le peut.
+- Sur les réseaux sociaux, les arnaques promettant des climatiseurs sans tuyau de sortie se multiplient.
+- Les promesses ont de quoi faire rêver : des appareils vendus à quelques dizaines d’euros capables de refroidir une pièce en un temps record.
+
+## [Afrique: Sommet africain de l'intelligence artificielle et de la <b>cybersécurité</b> - allAfrica.com](https://fr.allafrica.com/stories/202607110013.html)  
+*Source : fr.allafrica.com | Publication : 2026-07-11*
+
+- Du 13 au 15 juillet 2026, Hammamet réunira experts, universitaires et décideurs africains à l'occasion du Sommet africain de l'intelligence artificielle et de la cybersécurité.
+- L'événement ambitionne de renforcer la coopération continentale autour de la gouvernance numérique, de la sécurité des infrastructures digitales et de l'innovation technologique.
+- -Face à l'accélération de la transformation numérique et à l'essor des technologies basées sur l'intelligence artificielle, la Tunisie accueillera, du 13 au 15 juillet 2026 à Hammamet, le Sommet africain de l'intelligence artificielle et de la cybersécurité.
 - Placée sous le thème «Vers une gouvernance numérique intelligente et sécurisée pour la transformation digitale des gouvernements africains », cette rencontre se veut un espace de réflexion sur les défis et les opportunités liés au développement numérique en Afrique.
 
-## [IA et <b>cybersécurité</b> : Pékin ouvre un nouveau front contre Anthropic](https://www.leconomistemaghrebin.com/2026/07/10/ia-et-cybersecurite-pekin-ouvre-un-nouveau-front-contre-anthropic/)  
-*Source : leconomistemaghrebin.com | Publication : 2026-07-10*
+## [<b>Cybersécurité</b> : La gouvernance et la responsabilité au cœur d'une lutte efficace | FratMat](https://www.fratmat.info/article/2643179/societe/cybersecurite-la-gouvernance-et-la-responsabilite-au-cur-dune-lutte-efficace)  
+*Source : fratmat.info | Publication : 2026-07-11*
 
-- Les autorités chinoises de cybersécurité affirment avoir identifié un mécanisme de transmission de données dans plusieurs versions de Claude Code, l’assistant de programmation développé par la start-up américaine Anthropic.
-- Cette nouvelle controverse illustre la montée des tensions autour de la souveraineté numérique et de la gouvernance mondiale de l’intelligence artificielle.
-- Le bras de fer technologique entre la Chine et les États-Unis s’étend désormais aux assistants de programmation fondés sur l’intelligence artificielle.
-- Le ministère chinois de l’Industrie et des Technologies de l’information (MIIT), par l’intermédiaire de sa National Vulnerability Database (NVDB), a publié, le 9 juillet, un avis de sécurité affirmant que plusieurs versions de Claude Code, développé par Anthropic, contiendraient un mécanisme capable de transmettre automatiquement certaines informations relatives aux utilisateurs vers des serveurs distants.
+- Cybersécurité : La gouvernance et la responsabilité au cœur d’une lutte efficace Au regard de l’évolution de la réglementation et des risques récurrents en matière de cybersécurité, des dirigeants d’entreprises en Côte d’Ivoire et en Afrique ont été instruits aux bonnes pratiques lors de la 21ᵉ édition d’Orange Business Live, qui s’est tenue le jeudi 09 juillet 2026 à la Rivera Golf.
+- Autour du thème : « Cybersécurité, gouvernance et responsabilité : le nouveau triangle du risque pour les entreprises » les spécialistes d’Orange et de l’Agence nationale de la sécurité des systèmes d’information de Côte d’Ivoire (Anssi) Côte d'Ivoire ont précisé que la cybersécurité, c’est 30 % de technologie et 70 % de gouvernance, de responsabilité et de culture.
+- Pour Ferdinand Tra, directeur Orange Business & Broadband et président d’Orange Cloud & cyber solution la cybersécurité n’est pas uniquement de l’informatique, car cette discipline ne compte que pour un tiers.
+- Il faut nécessairement mettre en place une bonne gouvernance tout en impliquant les personnes adéquates.
 
-## [Tyrex annonce l'ouverture de sa filiale canadienne et renforce son partenariat stratégique ... - infoDSI](https://infodsi.com/communiques-de-presse/49025/tyrex-annonce-louverture-de-sa-filiale-canadienne-et-renforce-son-partenariat-strategique-avec-seclab)  
-*Source : infodsi.com | Publication : 2026-07-10*
+## [<b>Cybersécurité</b> industrielle : le français TYREX part à la conquête de l'Amérique du Nord](https://goodtech.info/tyrex-canada-seclab-station-blanche-linux-cybersecurite/)  
+*Source : goodtech.info | Publication : 2026-07-11*
 
-- Veuillez activer Javascript.
+- L’excellence cyber française s’exporte !.
+- Le spécialiste de la décontamination USB TYREX annonce l’ouverture de sa filiale au Canada 🍁, en partenariat avec SECLAB.
+- Objectif : déployer ses stations blanches industrielles durcies sous KubianOS (Debian Linux) pour protéger les infrastructures critiques nord-américaines.
+- La protection des réseaux critiques se focalise souvent sur les barrières logicielles et le cloud.
 
-## [Vendre la souveraineté numérique en solo : le retour de terrain de Myra Security en France](https://www.solutions-numeriques.com/vendre-la-souverainete-numerique-en-solo-le-retour-de-terrain-de-myra-security-en-france/)  
-*Source : solutions-numeriques.com | Publication : 2026-07-10*
+## [Sans eux, le spectacle historique n'existerait pas : Découvrez les bénévoles de La Fresque, à Sens](https://www.lyonne.fr/sens-89100/loisirs/sans-eux-le-spectacle-historique-n-existerait-pas-decouvrez-les-benevoles-de-la-fresque-a-sens_15018561/)  
+*Source : lyonne.fr | Publication : 2026-07-11*
 
-- Six mois après avoir ouvert, seul, la première antenne étrangère de l’éditeur allemand Myra Security, Pascal Vétu a dû réapprendre un marché qu’il pensait connaître.
-- Entre appétit réel pour les alternatives européennes et réalités très concrètes du terrain français, son expérience éclaire ce que suppose, aujourd’hui, l’implantation d’un acteur de la cybersécurité souveraine dans l’Hexagone.
-- Depuis le 15 janvier 2026, Pascal Vétu occupe seul un bureau au Campus Cyber, à La Défense.
-- Il est le premier Country Manager que Myra Security installe hors d’Allemagne, quatorze ans après la création de l’éditeur munichois par ses deux fondateurs, toujours à sa tête et actionnaires majoritaires.
+- Avant chaque représentation de La Fresque, à Sens, c'est l'ébullition.
+- Dans les coulisses, 85 comédiens se préparent à entrer en scène, révisant leur texte ou les chorégraphies pour la plupart.
+- Ils sont bénévoles dans leur très grande majorité.
+- Et sont animés par une même passion, le théâtre.
 
-## [Chrome : Google dégaine deux mises à jour de sécurité pour colmater 27 failles - 01net.com](https://www.01net.com/actualites/chrome-google-degaine-deux-mises-jour-securite-colmater-27-failles.html)  
-*Source : 01net.com | Publication : 2026-07-10*
+## [Opération Endgame : Europol Saisit 326 Serveurs [2026] - Tech Insider](https://tech-insider.org/fr/operation-endgame-europol-2026/)  
+*Source : tech-insider.org | Publication : 2026-07-11*
 
-- Google met le paquet pour sécuriser Chrome.
-- Le 7 juillet 2026, le géant de Mountain a d’abord déployé une première mise à jour de son navigateur, sans en évoquer le contenu, référencée 150.0.7871.100/101.
-- Dès le lendemain, Google a publié une seconde mise à jour, estampillée 150.0.7871.114/115 pour Windows et macOS ainsi que 150.0.7871.114 pour Linux.
-- À lire aussi : Google Chrome corrige un défaut agaçant du copier-coller Deux failles critiques colmatées par Google Comme l’explique Google, la mise à jour colmate un total de 27 vulnérabilités identifiées dans le code de Chrome.
+- Le 24 juin 2026, Europol a dévoilé le résultat d’une frappe menée sur deux semaines, entre le 15 et le 19 juin, contre trois familles de logiciels malveillants qui alimentent une large part des attaques par rançongiciel en Europe.
+- Baptisée opération Endgame, cette action coordonnée s’est soldée par la saisie de 326 serveurs, 142 noms de domaine et plus de 41 millions d’euros en cryptomonnaie.
+- Neuf pays et une douzaine d’entreprises privées, dont le français Orange Cyberdefense, y ont participé.
+- Europol la décrit comme l’opération internationale la plus importante jamais menée contre les infrastructures qui alimentent l’industrie du rançongiciel.
 
-## [Violences intrafamiliales, infraction à l'environnement… La gendarmerie a rencontré les ...](https://www.ouest-france.fr/normandie/livarot-pays-dauge-14140/violences-intrafamiliales-infraction-a-lenvironnement-la-gendarmerie-a-rencontre-les-elus-lors-dun-conseil-municipal-a8ea0b38-7a3e-11f1-ae95-49be6b75151e)  
-*Source : ouest-france.fr | Publication : 2026-07-10*
+## [<b>Cybersécurité</b>: Le code QR, nouvel appât des cybercriminels | SNRT News](https://snrtnews.com/fr/article/cybersecurite-le-code-qr-nouvel-appat-des-cybercriminels-155178)  
+*Source : snrtnews.com | Publication : 2026-07-11*
 
-- Spécialisé dans l'informatique, il a annoncé que deux personnes étaient formées à la cybersécurité à la brigade de Livarot.
-- Les infractions.
+- Technologie Cybersécurité: Le code QR, nouvel appât des cybercriminels 11/07/2026 - 11:05 Halima AamirL'utilisation des QR Code ne se limite plus à faciliter l'accès aux sites électroniques ou aux services numériques.
+- Ils sont devenus une partie intégrante des détails de la vie quotidienne, que ce soit pour consulter les menus dans les restaurants, effectuer des opérations de paiement ou accéder aux réseaux Internet dans les espaces publics.
+- Cependant, cette large diffusion s'est accompagnée d'un développement des méthodes de cyberfraude, après que les pirates ont trouvé dans cette technologie un nouveau moyen d'attirer les victimes en dissimulant des liens malveillants.
+- Ces derniers visent à voler des données personnelles ou bancaires, en exploitant la confiance que de nombreux utilisateurs accordent à ces codes sans vérifier leur source ou la destination vers laquelle ils mènent.
 
-## [Mise en chantier du siège du Hub régional Asie-Pacifique de lutte contre la <b>cybercriminalité</b>](https://lecourrier.vn/mise-en-chantier-du-siege-du-hub-regional-asie-pacifique-de-lutte-contre-la-cybercriminalite/1351166.html)  
-*Source : lecourrier.vn | Publication : 2026-07-10*
+## [Cameroun/<b>Cybersécurité</b> : L'Église face aux nouveaux défis du monde numérique](https://chretiens.com/actualites/cameroun-cybersecurite-leglise-face-aux-nouveaux-defis-du-monde-numerique/2026/07/11/10/52/)  
+*Source : chretiens.com | Publication : 2026-07-11*
 
-- >> La Convention de Hanoï doit être vue comme un engagement à long terme >> Le Vietnam plaide pour une ratification mondiale de la Convention de l’ONU >> ASEAN - ONUDC : unir les efforts contre la cybercriminalité et la criminalité L'événement marque une étape importante dans la mise en œuvre de la Convention des Nations Unies contre la cybercriminalité, également connue sous le nom de Convention de Hanoï, et témoigne de l'engagement du Vietnam à renforcer la coopération internationale en faveur d'un cyberespace sûr, sécurisé, fiable et durable.
-- Lors de la cérémonie, le vice-ministre des Affaires étrangères, Lê Anh Tuân, s'est déclaré convaincu que le hub deviendra progressivement un centre régional de référence en matière de formation, de recherche et d'assistance juridique, en particulier au profit des pays en développement engagés dans la ratification et la mise en œuvre de la Convention de Hanoï.
-- Il a ajouté que le hub servira également de plateforme de partage des connaissances et de renforcement de la coopération internationale dans la lutte contre la cybercriminalité.
-- Il contribuera à renforcer les capacités des services répressifs, des autorités judiciaires et des décideurs face à des cybermenaces de plus en plus complexes.
+- Cameroun/Cybersécurité : L’Église face aux nouveaux défis du monde numérique Le 9 juillet 2026, à Yaoundé, le lancement du programme « Bouclier numérique » a mis en lumière une réalité préoccupante : la montée en puissance des violences en ligne au Cameroun.
+- Si cette initiative portée par la société civile est salutaire, elle interpelle également l’Église.
+- Comment le corps du Christ doit-il réagir face aux pièges qui déchirent des vies dans l’anonymat du web ?.
+- Une responsabilité face à la vulnérabilité Les escroqueries financières, la sextorsion et le harcèlement en ligne ne sont pas que des problèmes techniques ; ils sont des crises morales qui frappent les familles.
 
-## [<b>Cybercriminalité</b> : des associations lancent un « Bouclier numérique » pour sortir les ...](https://www.stopblablacam.com/societe/1007-16451-cybercriminalite-des-associations-lancent-un-bouclier-numerique-pour-sortir-les-victimes-de-l-ombre)  
-*Source : stopblablacam.com | Publication : 2026-07-10*
+## [Carita ciblée par <b>ransomware</b>, une fuite de données revendiquée en ligne - FrenchBreaches](https://frenchbreaches.com/alertes/carita-rw_UTJGeWFYUmhRSFJvWldkbGJuUnNaVzFsYmc9PQ)  
+*Source : frenchbreaches.com | Publication : 2026-07-11*
 
-- Derrière les milliards de FCFA engloutis chaque année dans les escroqueries en ligne, il y a aussi des trajectoires brisées, des réputations détruites et des victimes qui se taisent.
-- Usurpation d’identité, cyberharcèlement, sextorsion, faux investissements, piratage de comptes, deepfakes ou clonage de voix par intelligence artificielle : au Cameroun, les formes de cybercriminalité se diversifient plus vite que les réflexes de protection.
-- C’est pour répondre à cette réalité que trois organisations de la société civile ont lancé, le 9 juillet 2026 à Yaoundé, le programme « Bouclier numérique ».
-- Porté par la Fondation Cœur de Mère, la SNK Foundation et la CyberinnoShield Foundation, basée aux États-Unis, ce dispositif entend faire de la prévention, de la sensibilisation et de l’accompagnement des victimes le premier rempart contre les violences numériques.
+- Revendication de cyberattaque – Carita ajoutée au site de fuite du groupe ransomware The Gentleman Le groupe de ransomware The Gentleman a ajouté Carita à sa plateforme de fuite et revendique la compromission de ses systèmes d'information.
+- Selon les éléments publiés sur le site du groupe, les cybercriminels affirment avoir compromis les systèmes de Carita, maison française de soins de luxe et de cosmétique haut de gamme fondée en 1945 et appartenant aujourd'hui à la division Luxe de L'Oréal.
+- Les attaquants indiquent détenir des données issues des systèmes de l'entreprise et ont publié une fiche dédiée à la victime sur leur plateforme de divulgation.
+- À ce stade, aucun échantillon de données ni aucune catégorie précise d'informations exfiltrées n'ont été rendus publics.
 
-## [Ce que les RSSI demandent aux candidats à la présidentielle - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/ce-que-les-rssi-demandent-aux-candidats-a-la-presidentielle-228239)  
-*Source : silicon.fr | Publication : 2026-07-10*
+## [Fuite de données chez hotel-bourse.com, une cyberattaque <b>ransomware</b> signalée - FrenchBreaches](https://frenchbreaches.com/alertes/hotel-bourse-com-rw_YUc5MFpXd3RZbTkxY25ObExtTnZiVUJzYjJOclltbDBOUT09)  
+*Source : frenchbreaches.com | Publication : 2026-07-11*
 
-- C’est un genre d’électeurs que les candidats à la présidentielle ont rarement l’habitude de courtiser : les RSSI Le CESIN (Club des Experts de la Sécurité de l’Information et du Numérique) qui fédère plus de 1 300 d’entre eux ( RSSI, CISO, directeurs de la cybersécurité) a pourtant décidé de les interpeller directement via » une lettre ouverte » signée par son président Fabrice Bru.
-- Leur message est davantage politique que technique : la souveraineté numérique n’est plus une option, elle conditionne désormais la sécurité nationale, la compétitivité économique et la solidité même de la démocratie.
-- Une menace qui a débordé le seul terrain numérique En première ligne sur le front des cyberattaques, les RSSI alertent sur une situation critique et largement documentée.
-- Dans les hôpitaux, les collectivités, les entreprises, les administrations, les attaques se multiplient et perturbent désormais la vie quotidienne, l’économie réelle et la continuité de l’État.
+- Revendication de cyberattaque – Hôtel Bourse ajouté au site de fuite du groupe ransomware LockBit 5.0 Le groupe de ransomware LockBit 5.0 a ajouté Hôtel Bourse à sa plateforme de fuite et revendique la compromission de ses systèmes d'information.
+- Selon les éléments publiés sur le site du groupe, les cybercriminels affirment avoir compromis les systèmes de hotel-bourse.com, établissement hôtelier situé à Mulhouse, dans le département du Haut-Rhin.
+- Les attaquants ont publié une fiche dédiée à la victime sur leur plateforme de divulgation et affichent un compte à rebours avant une éventuelle publication des données prétendument exfiltrées.
+- À ce stade, aucun échantillon de données ni aucune catégorie précise d'informations compromises n'ont été rendus publics.
 
-## [Exterro enrichit sa suite forensique avec de l'agentique - L'INFORMATICIEN &amp; L'INFO ...](https://www.linformaticien.com/magazine/cybersecurite/65075-exterro-enrichit-sa-suite-forensique-avec-de-l-agentique.html)  
-*Source : linformaticien.com | Publication : 2026-07-10*
+## [Mur du patch : l'avertissement de l'ANSSI face aux vulnérabilités découvertes par l'IA](https://www.dpo-partage.fr/mur-du-patch-lavertissement-de-lanssi-face-aux-vulnerabilites-decouvertes-par-lia/)  
+*Source : dpo-partage.fr | Publication : 2026-07-11*
 
-- LES DOSSIERS CYBERSECURITE.
-- CRA : la chasse aux vulnérabilités des ... Ransomware : les jours d'après · Cybersécurité · Exterro enrichit sa suite.
+- Auditionné le mercredi 8 juillet 2026 par la commission des affaires économiques du Sénat, Vincent Strubel, directeur général de l’ANSSI, a livré un avertissement sans détour : « Ça va secouer pendant les trois prochaines années au moins ».
+- En cause, le « mur du patch », cette vague de vulnérabilités découvertes par l’intelligence artificielle qui menace de saturer les équipes chargées de la sécurité des systèmes d’information.
+- Les responsables de traitement et leurs DPO sont directement concernés.
+- L’IA découvre les failles plus vite qu’elles ne se corrigent Pour le directeur général de l’agence, la découverte de failles inédites grâce aux modèles d’IA est fondamentalement une bonne nouvelle : chaque vulnérabilité identifiée peut être corrigée avant d’être exploitée.
 
-## [<b>Cybersécurité</b> en santé : la résilience comme priorité - DSIH](https://dsih.fr/videos/44/cybersecurite-en-sante-la-resilience-comme-priorite)  
-*Source : dsih.fr | Publication : 2026-07-10*
+## [Le PI-SF est essentiel au renforcement de la gouvernance et de la coopération ...](https://www.ena.et/web/fre/w/fre_9195560)  
+*Source : ena.et | Publication : 2026-07-11*
 
-- Cybersécurité en santé : la résilience comme priorité 10 juil.
-- 2026 - 10:47, 764 incidents de cybersécurité ont été déclarés au CERT (Computer Emergency Response Team) Santé en 2025, dont plus de 400 d'origine malveillante, selon l’Observatoire des signalements d’incidents de sécurité des systèmes d’information pour les secteurs santé et médicosocial publié par l’Agence du Numérique en Santé.
-- 38 % des signalements se sont traduits par un fonctionnement en mode dégradé ou une interruption de la prise en charge des patients.
-- « Les principaux enjeux de cybersécurité dans le domaine de la santé se résument en trois priorités : la résilience, la simplification et surtout la continuité des soins », déclare Isabelle Drolc-Catrice.
+- Le PI-SF est essentiel au renforcement de la gouvernance et de la coopération internationale en matière de sécurité : le président de l'Assemblée nationale - ENA Français Le PI-SF est essentiel au renforcement de la gouvernance et de la coopération internationale en matière de sécurité : le président de l'Assemblée nationale Addis Ababa le 10 juillet, 2026 (ENA) Le président de la Chambre des représentants du peuple (HPR), Tagesse Chaffo, a déclaré que le Forum parlementaire sur le renseignement et la sécurité, qui se tient actuellement à Addis-Abeba pendant deux jours, arrive à point nommé et revêt une importance cruciale pour le renforcement de la gouvernance démocratique, de la responsabilité et de la coopération internationale en matière de sécurité.
+- Des parlementaires, des responsables des services de renseignement, des experts en cybersécurité et des décideurs politiques de 36 pays se sont réunis à Addis-Abeba à l’occasion du Forum parlementaire sur le renseignement et la sécurité (PI-SF).
+- Le Forum parlementaire sur le renseignement et la sécurité organise régulièrement des rencontres destinées aux parlementaires et aux responsables gouvernementaux du monde entier afin qu’ils puissent bénéficier de l’expertise d’éminents spécialistes dans des domaines tels que la lutte contre le financement du terrorisme, la cybersécurité, les investissements étrangers prédateurs, le partage de renseignements, la 5G, l’intelligence artificielle et d’autres sujets pertinents.
+- Lors de l’ouverture du forum, le président de la Chambre des représentants, M. Tagesse, a souligné une évolution dans la manière dont le renseignement et la sécurité sont gérés à l’échelle mondiale : on s’éloigne des modèles qui considèrent le renseignement comme une fonction exclusivement exécutive pour s’orienter vers des systèmes qui reconnaissent le rôle des représentants élus, la confiance du public, la responsabilité, la légitimité démocratique et une gouvernance efficace en matière de sécurité.
 
-## [Le cycle de correctifs ne suffit plus à définir la <b>cybersécurité</b> - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1552559-le-cycle-de-correctifs-ne-suffit-plus-a-definir-la-cybersecurite/)  
-*Source : journaldunet.com | Publication : 2026-07-10*
+## [Voitures chinoises made in Europe, <b>cybersécurité</b> et Groenland : les signaux faibles de la ...](https://www.lesechos.fr/monde/enjeux-internationaux/voitures-chinoises-made-in-europe-cybersecurite-et-groenland-les-signaux-faibles-de-la-geopolitique-2241945)  
+*Source : lesechos.fr | Publication : 2026-07-11*
 
-- Le cycle de correctifs ne suffit plus à définir la cybersécurité Le patching ne suffit plus face à des menaces accélérées par l'IA.
-- Les entreprises doivent adopter une approche de cybersécurité plus proactive, fondée sur la détection et la résilience.
-- Pendant de nombreuses années, la cybersécurité s’est structurée autour d’un principe relativement simple et rassurant.
-- Les organisations identifiaient les vulnérabilités, appliquaient les correctifs mis à disposition par les éditeurs et réduisaient ainsi leur exposition aux menaces.
-
-## [Secure Boot : Microsoft suspend le déploiement des nouveaux certificats sur certains PC](https://www.clubic.com/actualite-620818-secure-boot-microsoft-suspend-le-deploiement-des-nouveaux-certificats-sur-certains-pc.html)  
-*Source : clubic.com | Publication : 2026-07-10*
-
-- Microsoft a suspendu le déploiement des nouveaux certificats Secure Boot sur certains PC Windows 11.
-- En cause, des incompatibilités de firmware susceptibles de perturber l’installation.
-- Microsoft poursuit le remplacement des anciens certificats Secure Boot, dont le premier est arrivé à expiration le 24 juin 2026.
-- Un peu plus de deux semaines après cette échéance, la migration vers les certificats de 2023 a déjà été appliquée automatiquement sur la majorité des PC compatibles via Windows Update.
-
-## [<b>Cybersécurité</b> : la commande publique au défi de la résilience - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1552433-cybersecurite-la-commande-publique-au-defi-de-la-resilience/)  
-*Source : journaldunet.com | Publication : 2026-07-10*
-
-- Cybersécurité : la commande publique au défi de la résilience Face à la menace cyber, les acteurs publics doivent accélérer.
-- En facilitant l'accès à des prestations référencées, les centrales d'achat s'imposent comme un levier de performance.
-- Collectivités, hôpitaux, établissements médico-sociaux : les acteurs publics de santé sont en première ligne face aux attaques cyber qui peuvent désorganiser un service, bloquer une administration, fragiliser la confiance des usagers.
-- La multiplication des fuites de données, hameçonnages et faux ordres de virement a accéléré la prise de conscience.
-
-## [[SS97-STUDIO] 2026-07-10 YOUTUBE Windows](https://www.youtube.com/watch?v=ECdZf8W-hdU)  
-*Source : youtube.com | Publication : 2026-07-10*
-
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
-
-## [Une exposition interactive à Hanoï pour sensibiliser le public aux risques numériques](https://vietnam.vnanet.vn/french/print/une-exposition-interactive-a-hanoi-pour-sensibiliser-le-public-aux-risques-numeriques-456214.html)  
-*Source : vietnam.vnanet.vn | Publication : 2026-07-10*
-
-- cybersécurité " propose aux habitants de la capitale ainsi qu'aux touristes une immersion au cœur des défis liés à la cybersécurité.
-- L'exposition.
-
-## [Voici pourquoi vous ne devez surtout pas zapper les mises à jour Windows : Microsoft utilise ...](https://www.journaldugeek.com/2026/07/10/mises-a-jour-windows-microsoft-ia-failles-de-securite/)  
-*Source : journaldugeek.com | Publication : 2026-07-10*
-
-- Les récentes avancées de l’intelligence artificielle ont rapidement fait évoluer la cybersécurité, puisque certains modèles sont désormais capables de découvrir de nouvelles failles de sécurité sur les logiciels.
-- Et, en tenant compte de cette évolution (l’arrivée de modèles comme Claude Mythos ou les modèles “Cyber” d’OpenAI), Microsoft a développé sa propre solution, basée sur des technologies tierces, pour renforcer la sécurité de Windows.
-- En d’autres termes, la firme ne s’appuie pas sur une seule IA pour protéger vos données.
-- Son objectif : trouver et réparer les failles en utilisant l’intelligence artificielle, avant que celles-ci ne soient découvertes et exploitées par des hackers.
+- Le Groenland, à nouveau menacé ?.
+- A l'autre bout de l'Europe, la Finlande s'inquiète des menaces de cybersécurité liées à l'intelligence artificielle.
