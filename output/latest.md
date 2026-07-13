@@ -1,150 +1,151 @@
-# Résumés – 2026-07-12
+# Résumés – 2026-07-13
 
 
-## [<b>Cybersécurité</b> : les 11 actualités majeures du 12 juillet 2026](https://dcod.ch/2026/07/12/cybersecurite-les-11-actualites-majeures-du-12-juillet-2026/)  
-*Source : dcod.ch | Publication : 2026-07-12*
+## [Fakher Zaïbi : la demande en compétences numériques s'accélère, l'IA et la <b>cybersécurité</b> ...](https://www.lapresse.tn/2026/07/13/fakher-zaibi-la-demande-en-competences-numeriques-saccelere-lia-et-la-cybersecurite-en-tete-des-profils-recherches/)  
+*Source : lapresse.tn | Publication : 2026-07-13*
 
-- Faits marquants de la semaine Le Parlement européen échoue à réunir la majorité qualifiée nécessaire pour enterrer le dispositif temporaire « Chat Control », rouvrant la voie à la réintroduction d’un cadre permettant aux plateformes de scanner les messages pour détecter des contenus pédocriminels hors communications chiffrées de bout en bout, potentiellement jusqu’en 2028.
-- - Des analyses de Citizen Lab révèlent l’infection par Pegasus de l’iPhone d’un ancien eurodéputé en plein travaux de la commission PEGA, poussant des organisations de défense des libertés à exiger une enquête de la direction générale en charge des technologies et une mise en œuvre transparente des recommandations de régulation du spyware.
-- - La Commission européenne accuse Meta de ne pas avoir suffisamment réduit les risques que les fonctionnalités d’autoplay vidéo et de défilement infini de Facebook et Instagram font peser sur la santé physique et mentale des utilisateurs, en favorisant des usages jugés compulsifs.
-- - Un chercheur signale à un journaliste que des mots de passe en grand nombre se trouvent exposés dans un dépôt GitHub public, mis en ligne par un employé d’un sous-traitant de l’agence américaine de cybersécurité CISA, révélant un incident de sécurité lié à la gestion des identifiants.
+- Fakher Zaïbi : la demande en compétences numériques s’accélère, l’IA et la cybersécurité en tête des profils recherchés Le secteur des technologies de l’information et de la communication (TIC) poursuit sa montée en puissance en Tunisie.
+- Représentant plus de 3 % du PIB, et plus de 11 % en intégrant les télécommunications, il fait face à une demande croissante en compétences numériques.
+- Une étude récente met toutefois en lumière un décalage entre les formations dispensées et les besoins réels des entreprises, a précisé le directeur général de l’Observatoire national de l’emploi et des compétences, relevant du ministère de l’Emploi et de la Formation professionnelle.
+- Le secteur des technologies de l’information et de la communication contribue à plus de 3 % du produit intérieur brut (PIB), une part qui dépasse 11 % lorsque les activités de télécommunications sont également prises en compte, c’est ce qu’a déclaré le directeur général de l’Observatoire national de l’emploi et des compétences, relevant du ministère de l’Emploi et de la Formation professionnelle, Fakher Zaïbi.
 
-## [<b>Cybersécurité</b> : le nouveau défi des rédactions togolaises - Icilome](https://icilome.com/2026/07/cybersecurite-le-nouveau-defi-des-redactions-togolaises/)  
-*Source : icilome.com | Publication : 2026-07-12*
+## [L'UE ajoute VKontakte à sa liste de sanctions pour <b>cybercriminalité</b> Par Investing.com](https://fr.investing.com/news/world-news/lue-ajoute-vkontakte-a-sa-liste-de-sanctions-pour-cybercriminalite-93CH-3496137)  
+*Source : fr.investing.com | Publication : 2026-07-13*
 
-- À l’heure où les rédactions s’appuient de plus en plus sur les outils numériques, la cybersécurité s’impose désormais comme un enjeu majeur pour les professionnels des médias.
-- Piratage de comptes, vol de données, usurpation d’identité, deepfakes, campagnes de désinformation… les cybermenaces se multiplient et exposent les journalistes à des risques qui peuvent compromettre aussi bien leur travail que la protection de leurs sources.
-- C’est dans cette perspective que l’Agence Nationale de la Cybersécurité (ANCy), en collaboration avec Cyber Defense Africa (CDA) et avec l’appui de l’Observatoire Togolais des Médias (OTM), a réuni du 7 au 9 juillet à Kpalimé une quarantaine de professionnels des médias venus renforcer leurs compétences en cybersécurité et en hygiène numérique.
-- Durant trois jours, les échanges ont porté sur les bonnes pratiques permettant de mieux sécuriser les comptes de messagerie et les réseaux sociaux, protéger les données sensibles, renforcer la gestion des mots de passe grâce à l’authentification multifacteur, sécuriser les smartphones et les postes de travail, tout en adoptant des mécanismes efficaces de sauvegarde des informations.
+- Investing.com -- L'Union européenne a élargi lundi ses sanctions contre la Russie pour inclure des individus et des entités liés à la cybercriminalité.
 
-## [Marraine de 46 enfants orphelins et défavorisés de Ca Mau - Vietnam.vn](https://www.vietnam.vn/fr/me-do-dau-cua-46-tre-mo-coi-kho-khan-o-ca-mau)  
-*Source : vietnam.vn | Publication : 2026-07-12*
+## [Le Québec et le Luxembourg unissent leurs forces en <b>cybersécurité</b> - Le Lézard](https://www.lelezard.com/communique-22295319.html)  
+*Source : lelezard.com | Publication : 2026-07-13*
 
-- Dans leur petite maison au toit de chaume, construite sur un terrain emprunté à des proches, Quynh et Nhu étudiaient avec application.
-- Dès qu'elles aperçurent leur marraine An, elles posèrent aussitôt leurs stylos et coururent l'embrasser.
-- Nhu Quynh et Quynh Nhu sont des sœurs jumelles ; elles vivent actuellement avec leur mère, leur père étant décédé des suites du Covid-19.
-- Touchée par la détresse des enfants, Mme Thanh An devint leur marraine.
+- La ministre de la Cybersécurité et du Numérique et présidente du Conseil du trésor, Mme France-Élaine Duranceau, et M. Pascal Steichen,.
 
-## [Bruxelles présente un plan de <b>cybersécurité</b> de l'IA dans un contexte de dépendance aux ...](https://www.observatoiredeleurope.com/bruxelles-presente-un-plan-de-cybersecurite-de-lia-dans-un-contexte-de-dependance-aux-modeles-americains_a91010.html)  
-*Source : observatoiredeleurope.com | Publication : 2026-07-12*
+## [Le Québec et le Luxembourg unissent leurs forces en <b>cybersécurité</b> - Les Affaires](https://www.lesaffaires.com/communique-de-presse/le-quebec-et-le-luxembourg-unissent-leurs-forces-en-cybersecurite/)  
+*Source : lesaffaires.com | Publication : 2026-07-13*
 
-- L’UE dévoile un plan d’action pour la cybersécurité de l’IA, mais propose principalement des recommandations alors que Bruxelles s’appuie sur un accès négocié aux modèles d’IA américains comme Mythos d’Anthropic, révélant ainsi sa dépendance technologique.
-- La Commission européenne a présenté son plan pour lutter contre les risques de cybersécurité posés par l’IA de pointe, mais Bruxelles n’a pas grand-chose à offrir au-delà de recommandations et d’une tentative de négocier un accès anticipé avec les sociétés américaines d’IA.
-- L’intelligence artificielle redéfinit le paysage des cybermenaces, permettant aux acteurs malveillants de mener des opérations moins coûteuses, plus évolutives et plus sophistiquées.
-- Dans ce que les critiques considèrent comme un réflexe typique de l’UE consistant à générer de la paperasse plutôt qu’à résoudre des problèmes complexes, la Commission a produit un plan d’action – une mosaïque d’outils réglementaires existants et de nouvelles initiatives assemblés dans une réponse soi-disant cohérente.
+- Le QuÃ©bec et le Luxembourg unissent leurs forces en cybersÃ©curitÃ© Cision|PubliÃ© il y a 12 minutes | Mis Ã jour il y a 30 secondesQUÃBEC et LUXEMBOURG, le 13 juill.
+- 2026 /CNW/ – La ministre de la CybersÃ©curitÃ© et du NumÃ©rique et prÃ©sidente du Conseil du trÃ©sor, MmeÂ France-Ãlaine Duranceau, et M.Â Pascal Steichen, Directeur exÃ©cutif de la Luxembourg House of Cybersecurity, annoncent la signature d’une entente de collaboration entre le ministÃ¨re de la CybersÃ©curitÃ© et du NumÃ©rique (MCN) et la Luxembourg House of Cybersecurity (LHC).
+- L’entente prÃ©voit la rÃ©utilisation et la contribution conjointe Ã des solutions dÃ©veloppÃ©es par la LHC, notamment pour le partage de renseignements sur les menaces au moyen de la plateforme MISP, l’identification des vulnÃ©rabilitÃ©s dans le cadre de l’initiative GCVE.eu ainsi que la dÃ©tection et la surveillance du Web clandestin.
+- Pour sa part, le MCN partagera Â«Â RaoulÂ Â», un outil d’intelligence artificielle dÃ©veloppÃ© au sein du ministÃ¨re, qui permet notamment de repÃ©rer rapidement des vulnÃ©rabilitÃ©s et de dÃ©tecter des erreurs dans le code informatique des sites gouvernementaux.
 
-## [Anthropic, OpenAI et Google face à la réalité de l'Internet moderne - Brief IA](https://www.briefia.fr/article/anthropic-openai-et-google-face-a-la-realite-de-l-internet-moderne)  
-*Source : briefia.fr | Publication : 2026-07-12*
+## [Thales : signature d'un contrat de modernisation du trafic aérien de Mongolie](https://bourse.fortuneo.fr/actualites-amp/thales-signature-d-un-contrat-de-modernisation-du-trafic-aerien-de-mongolie-5501296)  
+*Source : bourse.fortuneo.fr | Publication : 2026-07-13*
 
-- Tu suis la course aux modèles IA ?.
-- Chaque sortie (GPT, Claude, Gemini, Mistral…) décryptée le soir même, en 5 min.
-- Gratuit.
-- Inclus dès l'inscription : notre sélection des meilleurs guides & comparatifs IA.
+- Thales annonce l'attribution d'un contrat majeur par le Centre national de l'aviation civile (NCAC) de Mongolie pour la modernisation des infrastructures de gestion du trafic aérien du pays, marquant une étape majeure dans le développement d'aviation.
+- Ce programme soutiendra le déploiement d'une double architecture de centre de contrôle régional (ACC) de nouvelle génération en Mongolie.
+- Cet accord s'appuie sur la dynamique de la relation entre la France et la Mongolie, mise en évidence en 2025 à l'occasion du 60e anniversaire de l'établissement des relations diplomatiques entre les deux pays, reflétant l'approfondissement de leur coopération bilatérale et l'implication coordonnée des principaux acteurs institutionnels, financiers et universitaires français en soutien aux ambitions stratégiques de la Mongolie.
+- Dans le cadre de ce contrat, Thales fournira les systèmes avancés d'automatisation du contrôle aérien pour les deux centres, en modernisant l'ACC existant à Oulan-Bator et en équipant le nouvel ACC qui sera établi à Sainshand.
 
-## [Identifier les arnaques en ligne grâce à l'exposition « Mur de la <b>cybersécurité</b> ». - Vietnam.vn](https://www.vietnam.vn/fr/nhan-dien-bay-lua-dao-truc-tuyen-qua-trien-lam-buc-tuong-an-ninh-mang)  
-*Source : vietnam.vn | Publication : 2026-07-12*
+## [Sud Messin. THD, <b>cybersécurité</b> et services : les communes jouent la coopération](https://www.republicain-lorrain.fr/politique/2026/07/13/thd-cybersecurite-et-services-les-communes-jouent-la-cooperation)  
+*Source : republicain-lorrain.fr | Publication : 2026-07-13*
 
-- L'exposition s'inscrit dans le cadre du gala « Patrie paisible » et des célébrations du 80e anniversaire de la Journée traditionnelle des Forces de sécurité populaire (12 juillet 1946 – 12 juillet 2026).
-- Après son succès à Da Nang et à Hô Chi Minh -Ville, le programme se poursuit à Hanoï, offrant un espace d'expérience visuelle immersif au cœur de la zone piétonne de Ho Guom.
-- Dans un contexte de transformation numérique rapide, les services en ligne et les réseaux sociaux sont devenus indispensables, tandis que les escroqueries en ligne évoluent constamment, adoptant des méthodes toujours plus sophistiquées et difficiles à détecter.
-- Savoir identifier et prévenir les escroqueries est donc devenu une nécessité pour chaque citoyen afin de se protéger dans l'espace numérique.
+- Sud Messin THD, cybersécurité et services : les communes jouent la coopération A la suite des élections municipales de mars, de nouveaux élus désignés par leur commune siègent au sein de la commission en charge du Très haut débit (THD), des usages du numérique et de l’appui aux communes de la Communauté de communes du Sud Messin.
+- Ils représentent Ancerville, Cheminot, Chérisey, Liéhon, Luppy, Moncheux, Orny, Pommérieux, Rémilly, Secourt, Solgne et Verny.
+- Jean-Marc Remy, 5e vice-président du Sud Messin, chargé du très haut débit, des usages du numérique et de l’appui aux communes, a réuni les membres de la commission afin de présenter.
 
-## [<b>Cybersécurité</b>: Ozoos, société de Waterloo, se développe grâce à son nouvel outil Veezo](https://www.lavenir.net/regions/brabantwallon/waterloo/2026/07/12/cybersecurite-ozoos-societe-de-waterloo-se-developpe-grace-a-son-nouvel-outil-veezo-O37U7UCWBRF6NEXWN3M5FIPIEI/)  
-*Source : lavenir.net | Publication : 2026-07-12*
+## [<b>Cybersécurité</b>: Microsoft et le CICR créent un drapeau numérique - Bilan](https://www.bilan.ch/story/cicr-microsoft-aide-a-creer-un-drapeau-numerique-de-protection-841180175223)  
+*Source : bilan.ch | Publication : 2026-07-13*
 
-- Cybersécurité: Ozoos, société de Waterloo, se développe grâce à son nouvel outil Veezo Experte en cybersécurité, la société waterlootoise Ozoos connaît un développement rapide ces derniers mois grâce "Veezo" Publié le 12-07-2026 à 14h36 - Mis à jour le 12-07-2026 à 14h38 - Experte en cybersécurité, la société waterlootoise Ozoos connaît un développement rapide ces derniers mois grâce à "Veezo", un service automatisé de réduction du risque informatique.
-- Depuis sa création en 2014 par Tanguy Derriks de Tervuren, Ozoos se consacre entièrement à la cybersécurité, que ce soit pour des PME, de grandes sociétés ou les pouvoirs publics.
-- Elle propose une gamme complète de services couvrant l'audit, la guidance et la gouvernance en sécurité informatique….
+- Rencontre avec Natasha Crampton La Chief Responsible AI Officer de Microsoft dÃ©taille le partenariat avec le CICR pour crÃ©er un standard ouvert protÃ©geant les infrastructures humanitaires en ligne.
+- En 2022, une cyberattaque avait compromis 515â000 dossiers du CICR.
+- En marge du AI for Good Summit 2026, qui sâest tenu Ã GenÃ¨ve du 7 au 10 juillet, Natasha Crampton, Chief Responsible AI Officer de Microsoft, est intervenue au CERN aux cÃ´tÃ©s du CICR pour Ã©voquer le partenariat entre les deux institutions autour du Â«Digital Emblem ProjectÂ».
+- Jâai eu lâoccasion de lâinterviewer.
 
-## [Les 20 meilleures entreprises dans la configuration de réseau mondial et la gestion du ...](https://www.sphericalinsights.com/fr/blogs/top-20-companies-in-global-network-configuration-and-change-management-market-2026-2035-spherical-insights-analysis)  
-*Source : sphericalinsights.com | Publication : 2026-07-12*
+## [Thales va moderniser les infrastructures de gestion du trafic aérien en Mongolie](https://bourse.fortuneo.fr/actualites-amp/thales-va-moderniser-les-infrastructures-de-gestion-du-trafic-aerien-en-mongolie-5730974)  
+*Source : bourse.fortuneo.fr | Publication : 2026-07-13*
 
-- Cisco Systems est un leader mondial dans les solutions de réseautage et de cybersécurité , offrant des technologies de configuration de réseau et de.
+- (Zonebourse.com) - Le groupe français fournira de nouveaux systèmes de contrôle aérien afin de renforcer la résilience, la capacité et la cybersécurité de l'espace aérien mongol.
+- Thales annonce avoir remporté un contrat majeur auprès du Centre national de l'aviation civile de Mongolie pour moderniser les infrastructures de gestion du trafic aérien du pays.
+- Le groupe déploiera une double architecture de centre de contrôle régional, avec la modernisation du site d'Oulan-Bator et l'équipement d'un nouveau centre à Sainshand.
+- Le projet vise à améliorer la résilience opérationnelle, la capacité de l'espace aérien, la cybersécurité des infrastructures critiques et le développement des compétences locales.
 
-## [Faux paiement Wero : cette arnaque par SMS peut vider votre compte bancaire - 01net.com](https://www.01net.com/actualites/faux-paiement-wero-cette-arnaque-par-sms-peut-vider-votre-compte-bancaire.html)  
-*Source : 01net.com | Publication : 2026-07-12*
+## [La question de l'expansion de la coopération en matière de défense entre l'Azerbaïdjan et ...](https://azertag.az/fr/xeber/la_question_de_lexpansion_de_la_cooperation_en_matiere_de_defense_entre_l_039azerbaidjan_et_le_belarus_abordee-4316933)  
+*Source : azertag.az | Publication : 2026-07-13*
 
-- Cette arnaque se développe particulièrement sur les plateformes de revente en ligne, comme Marketplace (Facebook) et Vinted, mais elle peut aussi être appliquée à n’importe quel produit ou service vendu en ligne.
-- En envoyant un simple SMS, l’arnaqueur fait croire à la victime qu’elle doit accepter un virement Wero.
-- Ce SMS renvoie en réalité vers un formulaire frauduleux.
-- Voici comment repérer cette arnaque.
+- cybersécurité.
+- 10.07.2026 [10:43].
+- Bakou accueille une réunion d'experts militaires azerbaïdjanais et serbes en cybersécurité · Des militaires.
 
-## [117 appels d'offres en 2026, 84 attendus en 2027, Iter dope la sous-traitance, ces exigences ...](https://www.carnetdebord.info/117-appels-doffres-en-2026-84-attendus-en-2027-iter-dope-la-sous-traitance-ces-exigences-strictes-surprennent-les-pme/)  
-*Source : carnetdebord.info | Publication : 2026-07-12*
+## [25 ans et chef d'entreprise : le parcours de Camille, franchisée Biocold Process dans l'Essonne](https://www.toute-la-franchise.com/interview-25-ans-chef-entreprise-parcours-camille-franchisee-biocold-process-essonne)  
+*Source : toute-la-franchise.com | Publication : 2026-07-13*
 
-- Le projet de réacteur à fusion nucléaire Iter, installé à Saint-Paul-lez-Durance (Bouches-du-Rhône), maintient un rythme d’achats élevé.
-- Selon des données relayées par L’Usine Nouvelle, 117 appels d’offres sont publiés en 2026, et 84 sont attendus en 2027.
-- Derrière ces chiffres, un effet concret pour des PME et ETI de la sous-traitance, sollicitées sur des lots techniques, des services d’ingénierie et des prestations de chantier, dans un cadre où les exigences de qualité, de traçabilité et de sûreté restent déterminantes.
-- Sommaires Iter structure 117 appels d’offres en 2026 pour alimenter le tissu industriel La volumétrie annoncée, 117 appels d’offres en 2026, traduit une mécanique d’achats devenue régulière sur un programme industriel long.
+- 25 ans et chef d'entreprise : le parcours de Camille, franchisée Biocold Process dans l'Essonne À 25 ans, Camille a rejoint Biocol Process pour allier autonomie et engagement durable.
+- Formée en cybersécurité et relations internationales, elle œuvre en Essonne pour faire connaître un procédé innovant qui régule l’humidité sans électricité, au service des commerçants.
+- Interview de Camille, Franchisée Biocold Process Pouvez-vous vous présenter et nous parler de votre parcours avant de rejoindre Biocol Process ?.
+- Je m’appelle Camille, j’ai 25 ans.
 
-## [Les 20 principales entreprises de la sécurité des réseaux mondiaux - Spherical Insights](https://www.sphericalinsights.com/fr/blogs/top-20-companies-in-global-network-security-firewall-market-2026-2035-expert-view-by-spherical-insights)  
-*Source : sphericalinsights.com | Publication : 2026-07-12*
+## [Cyberattaques : l'Europe, le Royaume-Uni et les États-Unis accusent Moscou | LeMagIT](https://www.lemagit.fr/actualites/366645852/Cyberattaques-lEurope-le-Royaume-Uni-et-les-Etats-Unis-accusent-Moscou)  
+*Source : lemagit.fr | Publication : 2026-07-13*
 
-- cybersécurité et de sécurité des infrastructures (CISA), la stratégie de cybersécurité de l'Union européenne et les cadres nationaux de.
+- Julia Shepeleva - stock.adobe.co Cyberattaques : l’Europe, le Royaume-Uni et les États-Unis accusent Moscou L’UE et le Royaume-Uni sanctionnent des agents présumés du FSB et des cybercriminels russes après des cyberattaques d’espionnage, notamment.
+- Paris et Berlin convoquent les ambassadeurs de Russie.
+- Ce lundi 13 juillet au matin, Jean-Noël Barrot, ministre des Affaires étrangères, a annoncé la convocation de l’ambassadeur de Russie en France, après avoir dénoncé, sur BFMTV-RMC « une vaste campagne cyber aux buts de sabotage et d’espionnage » pilotée depuis Moscou, et ayant visé « une dizaine de pays européens ».
+- Ce n’est pas une action isolée : son homologue allemand, Johann Wadephul, vient d’en faire autant.
 
-## [Suspension des réseaux sociaux : les limites des VPN gratuits face au piratage(expert) -](https://gabonactu.com/blog/2026/07/12/suspension-des-reseaux-sociaux-les-limites-des-vpn-gratuits-face-au-piratageexpert/)  
-*Source : gabonactu.com | Publication : 2026-07-12*
+## [<b>Cybersécurité</b> : s'inspirer des meilleurs pour renforcer la résilience numérique](https://www.bonn.de/pressemitteilungen/juli-2026/cybersicherheit-von-den-besten-lernen-fuer-mehr-digitale-resilienz.php?loc=fr)  
+*Source : bonn.de | Publication : 2026-07-13*
 
-- Le recours massif aux VPN depuis la suspension des réseaux sociaux au Gabon n’offre pas la sécurité espérée.
-- Qemal Affagnon, expert en cybersécurité de l’ONG Internet Sans Frontières, a expliqué dans un entretien exclusif à Gabonactu.com que les VPN, notamment les versions gratuites, ne protègent ni contre le piratage informatique, ni contre les logiciels malveillants ou les virus.
-- Il appelle les internautes à faire preuve de vigilance face à ces outils dont l’utilisation a fortement augmenté depuis la décision de la Haute Autorité de la Communication (HAC).
-- Selon Qemal Affagnon, de nombreux internautes surestiment les capacités des VPN.
+- La cybersécurité est l'un des principaux défis de notre époque.
+- Les institutions publiques, les entreprises et les citoyens dépendent des infrastructures numériques dans pratiquement tous les domaines de la vie et du travail.
+- Parallèlement, le nombre et la complexité des cyberattaques ne cessent d'augmenter à l'échelle mondiale.
+- La protection des données, des infrastructures critiques et des services numériques est donc une condition essentielle à la stabilité économique, à la confiance de la société et à la capacité d’action de l’administration et des institutions.
 
-## [À côté de la plaque, ces hackers chinois laissent leur propre serveur grand ouvert pendant ...](https://www.numerama.com/cyberguerre/2294119-a-cote-de-la-plaque-ces-hackers-chinois-laissent-leur-propre-serveur-grand-ouvert-pendant-trois-semaines.html)  
-*Source : numerama.com | Publication : 2026-07-12*
+## [Une « vaste » cyberattaque russe frappe l'Europe, la France annonce une contre-attaque](https://www.01net.com/actualites/vaste-cyberattaque-russe-frappe-europe-france-annonce-contre-attaque.html)  
+*Source : 01net.com | Publication : 2026-07-13*
 
-- C’est une négligence presque comique au regard du reste.
-- Une équipe capable de construire des scanners automatisés et de déployer des webshells à plusieurs couches d’obfuscation a laissé un simple serveur Python tourner en accès libre pendant 22 jours.
-- De quoi permettre aux chercheurs de Ctrl-Alt-Intel et SOCRadar de reconstituer, presque en temps réel, l’intégralité de la campagne.
-- Dans leurs analyses distinctes, publiées respectivement le 22 juin et le 9 juillet 2026, les équipes de recherche en cybersécurité pointent la même erreur basique : l’opérateur a lancé un serveur web Python pour déplacer des fichiers, et l’a laissé actif sans la moindre authentification.
+- La France révèle qu’une cyberattaque russe vise de nombreux pays européens.
+- Sur le plateau de BFM TV, le ministre des Affaires étrangères, Jean-Noël Barrot, indique qu’une « vaste campagne cyber aux buts de sabotage et d’espionnage » a été menée par la Russie dans « une dizaine de pays européens ».
+- Dix nations d’Europe ont été visées ces derniers jours.
+- La France fait partie des pays touchés.
 
-## [&quot;Si la <b>cybercriminalité</b> était un pays, elle serait la troisième économie mondiale&quot;: comment le ...](https://www.facebook.com/BFMBusiness/posts/si-la-cybercriminalité-était-un-pays-elle-serait-la-troisième-économie-mondiale-/1477142024460008/)  
-*Source : facebook.com | Publication : 2026-07-12*
+## [Cyberassurance : l'IA impose une réaction ultra-rapide - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/07/13/cyberassurance-ia-reaction-ultra-rapide/)  
+*Source : dcod.ch | Publication : 2026-07-13*
 
-- "Si la cybercriminalité était un pays, elle serait la troisième économie mondiale": comment le crime numérique s'est industrialisé au point de.
+- TL;DR : L’essentiel L’émergence de modèles d’intelligence artificielle avancés, développés par OpenAI ou Anthropic, permet d’automatiser l’identification et l’exploitation des failles logicielles, des tâches autrefois réservées à des experts humains hautement qualifiés.
+- - Les assureurs délaissent les listes de contrôle statiques comme la double authentification pour se concentrer sur la capacité des organisations à détecter, isoler et corriger rapidement les vulnérabilités du système d’information.
+- - Un rapport publié par un courtier en cyberassurance souligne que l’accélération des cybermenaces par l’intelligence artificielle augmente considérablement le risque d’événements systémiques touchant simultanément de nombreuses entreprises assurées à travers le monde.
+- - Selon une étude mondiale de Munich Re, près de 90% des dirigeants d’entreprises estiment que leur organisation ne dispose pas d’une protection adéquate contre des cyberattaques de plus en plus automatisées.
 
-## [La société indienne Tata Consultancy Services prévoit de recruter jusqu'à 8 900 ingénieurs ...](https://www.boursorama.com/bourse/actualites-amp/la-societe-indienne-tata-consultancy-services-prevoit-de-recruter-jusqu-a-8-900-ingenieurs-specialises-dans-le-deploiement-de-l-ia-et-cherche-a-realiser-des-acquisitions-dans-ce-domaine-3b963fc267d291d18fc13d32675d6e28)  
-*Source : boursorama.com | Publication : 2026-07-12*
+## [Cyberattaques russes : Londres, Bruxelles et Paris durcissent la riposte - Les Echos](https://www.lesechos.fr/monde/europe/cyberattaques-russes-londres-bruxelles-et-paris-durcissent-la-riposte-2242110)  
+*Source : lesechos.fr | Publication : 2026-07-13*
 
-- La société indienne Tata Consultancy Services prévoit de recruter jusqu'à 8 900 ingénieurs spécialisés dans le déploiement de l'IA et cherche à réaliser des acquisitions dans ce domaine information fournie par Reuters 12/07/2026 à 10:30 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Selon le directeur général Krithivasan, le groupe FDE représenterait entre 1 % et 1,5 % des collaborateurs * TCS étudie actuellement des acquisitions dans les domaines de l’IA, de la sécurité des données et de la cybersécurité * La croissance trimestrielle annualisée du chiffre d’affaires lié à l’IA a ralenti, passant de 28 % à 13 % par Sai Ishwarbharath B et Haripriya Suresh Tata Consultancy Services TCS.NS met en place une équipe pouvant compter jusqu’à 8 900 ingénieurs déployés sur le terrain et recherche des opportunités d’acquisition dans le domaine de l’IA, pariant que l’intelligence artificielle créera de nouvelles opportunités commerciales plutôt que de nuire à l’externalisation, ont déclaré deux dirigeants de TCS à Reuters.
-- Cette stratégie voit le jour alors que les investisseurs craignent que l’IA ne vienne perturber le secteur indien des services informatiques, évalué à 315 milliards de dollars, en réduisant la demande d’équipes d’ingénieurs, en raccourcissant les délais des projets et en faisant baisser les prix, les clients cherchant à tirer parti des gains de productivité.
-- « Nous veillerions à ce que 1 % à 1,5 % de nos collaborateurs puissent être ce que l’on appelle des FDE », a déclaré le directeur général K. Krithivasan lors d’une interview.
-- TCS TCS.NS est la plus grande entreprise indienne de services logiciels.
+- Cybersécurité TransportsDéfenseEDFRussieParis.
+- LesEchos-offrePremiumEntreprises.png.
+- Testez l'offre Premium Entreprises !.
+- Profitez d'un essai gratuit.
 
-## [&quot;Si la <b>cybercriminalité</b> était un pays, elle serait la troisième économie mondiale&quot;: comment le ...](https://www.bfmtv.com/tech/cybersecurite/si-la-cybercriminalite-etait-un-pays-elle-serait-la-troisieme-economie-mondiale-comment-le-crime-numerique-s-est-industrialise-au-point-de-siphonner-des-centaines-de-milliards-a-l-economie-mondiale_AN-202607120041.html)  
-*Source : bfmtv.com | Publication : 2026-07-12*
+## [La transposition de NIS 2 reportée à nouveau - L'INFORMATICIEN &amp; L'INFO CYBER ...](https://www.linformaticien.com/magazine/cybersecurite/65079-la-transposition-de-nis-2-reportee-a-nouveau.html)  
+*Source : linformaticien.com | Publication : 2026-07-13*
 
-- "Si la cybercriminalité était un pays, elle serait la troisième économie mondiale": comment le crime numérique s’est industrialisé au point de siphonner des centaines de milliards à l’économie mondiale Voici la troisième puissance mondiale.
-- Ce n’est ni l’Inde, ni le Japon, ni même la France.
-- C’est une nation sans territoire: le cybercrime.
-- "Si la cybercriminalité était un pays, elle serait la troisième économie mondiale", derrière les États-Unis et la Chine, relate l'un des principaux réassureurs mondiaux Munich Re.
+- Initialement prévue lors de la session parlementaire extraordinaire de ce mois, le texte de la transposition n'est pas dans les ordres du jour et.
 
-## [Plan d'action <b>cybersécurité</b> et IA : l'UE souhaite se protéger](https://dcod.ch/2026/07/12/plan-d-action-cybersecurite-ia-ue/)  
-*Source : dcod.ch | Publication : 2026-07-12*
+## [[Portrait] Sami Maghnaoui, le jeune “hacker” marocain qui a séduit Google - TelQuel](https://mobile.telquel.ma/2026/07/13/portrait-sami-maghnaoui-le-jeune-hacker-marocain-qui-a-seduit-google_1998732)  
+*Source : mobile.telquel.ma | Publication : 2026-07-13*
 
-- TL;DR : L’essentiel L’Union européenne encadrera strictement l’usage de l’intelligence artificielle avancée dès août 2026 grâce à la mise en œuvre de sa réglementation sur l’IA, ciblant en priorité l’atténuation des risques systémiques.
-- - Une capacité européenne d’évaluation des modèles, axée sur la cybersécurité, sera opérationnelle d’ici 2027 afin d’auditer de manière transparente et indépendante les technologies de pointe avant leur mise sur le marché.
-- - Pour faire face aux menaces automatisées, le plan modernise la gestion des vulnérabilités en ciblant en priorité la sécurisation et la correction rapide des briques logicielles libres critiques utilisées par les infrastructures de l’Union.
-- - L’Europe mobilisera d’importants financements publics et privés pour développer ses propres capacités d’intelligence artificielle souveraines et former ses professionnels de la sécurité aux compétences défensives requises.
+- Tout commence par une fascination d’enfant pour l’ordinateur.
+- “Quand j’avais trois ans, j’appuyais sur les touches et je voyais que quelque chose se passait”, se confie Sami Maghnaoui, 18 ans, lors d’un entretien accordé à TelQuel.
+- Le déclic technique, lui, arrive à 14 ans : il construit des jeux sur Roblox, la célèbre plateforme de création vidéo-ludique et apprend le langage Lua.
+- Il bascule ensuite vers Python, qu’il trouve “assez facile”, puis vers l’automatisation, les scripts et, enfin, la cybersécurité.
 
-## [Comment l'IA influence-t-elle l'avenir de la sécurité en ligne ? - Infos-IT](https://infos-it.fr/tech/9789/comment-lia-influence-t-elle-lavenir-de-la-securite-en-ligne/)  
-*Source : infos-it.fr | Publication : 2026-07-12*
+## [Mongolie : Thales modernise les centres de contrôle aérien d'Oulan‑Bator et Sainshand](https://actu-aero.fr/2026/07/13/mongolie-thales-modernise-les-centres-de-controle-aerien-doulan-bator-et-sainshand/)  
+*Source : actu-aero.fr | Publication : 2026-07-13*
 
-- Les cyberattaques augmentent à un rythme jamais observé auparavant.
-- Rien qu’au premier semestre 2026, les autorités françaises ont enregistre une hausse significative des incidents de sécurité visant aussi bien les entreprises que les particuliers.
-- Face à cette escalade préoccupante des cyberattaques, les méthodes traditionnelles de protection, qui reposent sur des approches statiques et réactives, montrent clairement leurs limites dans un paysage numérique en constante mutation.
-- Les pare-feu traditionnels et les antivirus reposant sur des signatures connues ne parviennent plus à contrer des menaces en constante évolution.
+- La Mongolie a confié à Thales un vaste programme de modernisation de son infrastructure de gestion du trafic aérien.
+- Le Centre national de l’aviation civile (NCAC) a attribué au groupe français un contrat structurant qui prévoit la mise en place d’une double architecture de centres de contrôle régional (ACC), combinant la modernisation du centre d’Oulan‑Bator et la création d’un nouvel ACC à Sainshand.
+- L’objectif est de renforcer la robustesse du système de contrôle aérien mongol en améliorant sa continuité de service, en augmentant la capacité de gestion du trafic et en consolidant la protection cyber des infrastructures, dans un contexte de croissance du trafic et d’exigences de sûreté toujours plus élevées.
+- Une modernisation profonde des centres de contrôle aérien Le programme repose sur le déploiement de systèmes d’automatisation du contrôle aérien de nouvelle génération.
 
-## [Lutte contre la cyberfraude : les grandes banques espagnoles font front commun](https://www.lesechos.fr/finance-marches/banque-assurances/lutte-contre-la-cyberfraude-les-grandes-banques-espagnoles-font-front-commun-2241966)  
-*Source : lesechos.fr | Publication : 2026-07-11*
+## [L'Union européenne impose des sanctions contre la Russie pour violations des droits de l ...](https://www.zonebourse.com/actualite-bourse/l-union-europeenne-impose-des-sanctions-contre-la-russie-pour-violations-des-droits-de-l-homme-et-cy-ce7f5edcd98cf126)  
+*Source : zonebourse.com | Publication : 2026-07-13*
 
-- Les banques espagnoles s'allient pour la cybersécurité.
-- Les trois poids lourds du secteur, Santander, CaixaBank et BBVA, ont inauguré FrauDfense,.
+- L&#039;Union européenne a élargi lundi ses sanctions contre la Russie pour inclure des individus et des entités responsables de cybercriminalité et de violations des droits de l&#039;homme, citant notamment le réseau social populaire VKontakte.
+- * VKontakte et sa filiale Communication Platform LLC ont été ajoutés à la liste pour leur rôle dans le développement et la gestion de l&#039;application MaxApp pour les smartphones russes, sous la supervision du Service fédéral de sécurité (FSB).
+- * L&#039;application est préinstallée sur tous les appareils mobiles vendus en Russie.
+- * Les pays de l&#039;UE ont déclaré que MaxApp était utilisée pour la répression des détracteurs de la guerre menée par la Russie contre l&#039;Ukraine et des personnes publiant d&#039;autres contenus interdits par les autorités.
 
-## [<b>Cybersécurité</b> locale : l'écart entre priorité et action – ZATAZ.COM](https://www.zataz.com/cybersecurite-locale-lecart-entre-priorite-et-action/)  
-*Source : zataz.com | Publication : 2026-07-11*
+## [Russie et <b>cybercriminalité</b> : ce qu'il faut savoir sur Turla, l'outil attribué au FSB russe](https://www.boursorama.com/actualite-economique/actualites/russie-et-cybercriminalite-ce-qu-il-faut-savoir-sur-turla-l-outil-attribue-au-fsb-russe-179066617cf611bc5910130bc3391664)  
+*Source : boursorama.com | Publication : 2026-07-13*
 
-- En 2026, la cybersécurité domine les priorités informatiques locales.
-- Pourtant, seule une collectivité sur trois possède une stratégie écrite, testée et pilotée.
-- La cybersécurité devient le premier chantier informatique de 61 % des collectivités locales pour 2026, selon le baromètre Quorum–Konica Minolta publié en novembre 2025.
-- Cette priorité masque toutefois un retard structurel : 33 % seulement disposent d’une stratégie formalisée.
+- Le ministère des Armées, à Paris.
+- ( AFP / THOMAS SAMSON ) Parmi ses faits d'armes identifiés contre la France, Turla a notamment compromis certains comptes de messageries du ministère des Armées.
+- Un groupe d'attaquants "mondialement connu", et redouté.
+- Parmi les activités cybercriminelles attribuées à la Russie par les Européens figurent celles de Turla, un outil utilisé par le FSB pour de l'espionnage au long cours de services gouvernementaux plutôt que des opérations spectaculaires et brutales.
