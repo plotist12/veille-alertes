@@ -1,151 +1,150 @@
-# Résumés – 2026-07-13
+# Résumés – 2026-07-14
 
 
-## [Fakher Zaïbi : la demande en compétences numériques s'accélère, l'IA et la <b>cybersécurité</b> ...](https://www.lapresse.tn/2026/07/13/fakher-zaibi-la-demande-en-competences-numeriques-saccelere-lia-et-la-cybersecurite-en-tete-des-profils-recherches/)  
-*Source : lapresse.tn | Publication : 2026-07-13*
+## [Les États-Unis vont mettre en place un groupe de coordination sur l'IA et la <b>cybersécurité</b> ...](https://www.boursorama.com/bourse/actualites/les-etats-unis-vont-mettre-en-place-un-groupe-de-coordination-sur-l-ia-et-la-cybersecurite-annonce-la-maison-blanche-1b46e951f861babd83b3a5bc86d3b50c)  
+*Source : boursorama.com | Publication : 2026-07-14*
 
-- Fakher Zaïbi : la demande en compétences numériques s’accélère, l’IA et la cybersécurité en tête des profils recherchés Le secteur des technologies de l’information et de la communication (TIC) poursuit sa montée en puissance en Tunisie.
-- Représentant plus de 3 % du PIB, et plus de 11 % en intégrant les télécommunications, il fait face à une demande croissante en compétences numériques.
-- Une étude récente met toutefois en lumière un décalage entre les formations dispensées et les besoins réels des entreprises, a précisé le directeur général de l’Observatoire national de l’emploi et des compétences, relevant du ministère de l’Emploi et de la Formation professionnelle.
-- Le secteur des technologies de l’information et de la communication contribue à plus de 3 % du produit intérieur brut (PIB), une part qui dépasse 11 % lorsque les activités de télécommunications sont également prises en compte, c’est ce qu’a déclaré le directeur général de l’Observatoire national de l’emploi et des compétences, relevant du ministère de l’Emploi et de la Formation professionnelle, Fakher Zaïbi.
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Ajoute un commentaire du directeur de la cybersécurité de la Maison Blanche, des détails sur le groupe, le contexte des entreprises et du secteur, paragraphes 2-3 et 5) par Courtney Rozen Les États-Unis vont officiellement réunir des développeurs d’IA et des prestataires de services essentiels afin de partager des informations sur les vulnérabilités en matière de cybersécurité identifiées par des systèmes d’IA avancés et de coordonner les réponses, selon un communiqué de la Maison Blanche, donnant ainsi suite au décret présidentiel signé en juin par le président américain Donald Trump.
+- Des entreprises telles qu’Anthropic et OpenAI ont mis sur le marché de puissants systèmes d’IA capables d’identifier à grande échelle les vulnérabilités des logiciels et des infrastructures.
+- Les responsables américains craignent que des acteurs malveillants ne s’en servent pour exploiter les failles des systèmes logiciels qui sous-tendent les services critiques — notamment ceux des institutions financières, des hôpitaux et des réseaux énergétiques — dont dépendent les Américains.
+- L’administration Trump a mis en place un groupe de coordination entre les principaux développeurs d’IA et les fournisseurs de services essentiels afin qu’ils puissent partager des informations sur les vulnérabilités qu’ils ont découvertes dans leurs logiciels et éviter ainsi les doublons.
 
-## [L'UE ajoute VKontakte à sa liste de sanctions pour <b>cybercriminalité</b> Par Investing.com](https://fr.investing.com/news/world-news/lue-ajoute-vkontakte-a-sa-liste-de-sanctions-pour-cybercriminalite-93CH-3496137)  
-*Source : fr.investing.com | Publication : 2026-07-13*
+## [Les États-Unis vont mettre en place un groupe de coordination sur l'IA et la <b>cybersécurité</b> ...](https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N43G2KN:0/)  
+*Source : fr.tradingview.com | Publication : 2026-07-14*
 
-- Investing.com -- L'Union européenne a élargi lundi ses sanctions contre la Russie pour inclure des individus et des entités liés à la cybercriminalité.
+- Actualités/Reuters/Les États-Unis vont mettre en place un groupe de coordination sur l'IA et la cybersécurité, annonce la Maison BlancheLes États-Unis vont mettre en place un groupe de coordination sur l'IA et la cybersécurité, annonce la Maison BlancheRefinitivDémarrez un essai gratuit pour lire cette actualitéEssai gratuit de 30 joursPlus de nouvelles provenant de Reuters.
 
-## [Le Québec et le Luxembourg unissent leurs forces en <b>cybersécurité</b> - Le Lézard](https://www.lelezard.com/communique-22295319.html)  
-*Source : lelezard.com | Publication : 2026-07-13*
+## [Le titre CrowdStrike approche son record : 3 raisons d'un retournement imminent](https://fr.tradingview.com/news/invezz:a86ae2018b858:0/)  
+*Source : fr.tradingview.com | Publication : 2026-07-14*
 
-- La ministre de la Cybersécurité et du Numérique et présidente du Conseil du trésor, Mme France-Élaine Duranceau, et M. Pascal Steichen,.
+- Le titre CrowdStrike approche son record : 3 raisons d’un retournement imminent L'action CrowdStrike a poursuivi son récent rally aujourd'hui, July 14, et se rapproche lentement de son plus haut historique de $209.55.
+- Elle a bondi de 80% au cours des six derniers mois, portant sa valorisation à plus de $212 milliards.
+- CRWD et d'autres grandes entreprises de cybersécurité comme Fortinet, SentinelOne et Palo Alto Networks ont également flambé.
+- La thèse générale est que la montée des agents d'IA entraînera une demande accrue en dépenses de cybersécurité.
 
-## [Le Québec et le Luxembourg unissent leurs forces en <b>cybersécurité</b> - Les Affaires](https://www.lesaffaires.com/communique-de-presse/le-quebec-et-le-luxembourg-unissent-leurs-forces-en-cybersecurite/)  
-*Source : lesaffaires.com | Publication : 2026-07-13*
+## [Chassé-croisé de l'été : ces erreurs fréquentes qui siphonnent Android Auto sur la route des ...](https://www.zdnet.fr/pratique/chasse-croise-de-lete-ces-erreurs-frequentes-qui-siphonnent-android-auto-sur-la-route-des-vacances-498100.htm)  
+*Source : zdnet.fr | Publication : 2026-07-14*
 
-- Le QuÃ©bec et le Luxembourg unissent leurs forces en cybersÃ©curitÃ© Cision|PubliÃ© il y a 12 minutes | Mis Ã jour il y a 30 secondesQUÃBEC et LUXEMBOURG, le 13 juill.
-- 2026 /CNW/ – La ministre de la CybersÃ©curitÃ© et du NumÃ©rique et prÃ©sidente du Conseil du trÃ©sor, MmeÂ France-Ãlaine Duranceau, et M.Â Pascal Steichen, Directeur exÃ©cutif de la Luxembourg House of Cybersecurity, annoncent la signature d’une entente de collaboration entre le ministÃ¨re de la CybersÃ©curitÃ© et du NumÃ©rique (MCN) et la Luxembourg House of Cybersecurity (LHC).
-- L’entente prÃ©voit la rÃ©utilisation et la contribution conjointe Ã des solutions dÃ©veloppÃ©es par la LHC, notamment pour le partage de renseignements sur les menaces au moyen de la plateforme MISP, l’identification des vulnÃ©rabilitÃ©s dans le cadre de l’initiative GCVE.eu ainsi que la dÃ©tection et la surveillance du Web clandestin.
-- Pour sa part, le MCN partagera Â«Â RaoulÂ Â», un outil d’intelligence artificielle dÃ©veloppÃ© au sein du ministÃ¨re, qui permet notamment de repÃ©rer rapidement des vulnÃ©rabilitÃ©s et de dÃ©tecter des erreurs dans le code informatique des sites gouvernementaux.
+- Ça y est, les grands départs sont là.
+- Et votre smartphone sera le copilote officiel de votre voyage.
+- Mais entre les coupures de navigation et les surchauffes de batterie, Android Auto peut parfois vous faire perdre patience.
+- Heureusement, ces dysfonctionnements sont souvent liés à de mauvaises habitudes faciles à corriger.
 
-## [Thales : signature d'un contrat de modernisation du trafic aérien de Mongolie](https://bourse.fortuneo.fr/actualites-amp/thales-signature-d-un-contrat-de-modernisation-du-trafic-aerien-de-mongolie-5501296)  
-*Source : bourse.fortuneo.fr | Publication : 2026-07-13*
+## [Les États-Unis lancent un groupe de coordination sur l'IA et la <b>cybersécurité</b>, selon la ...](https://ch.zonebourse.com/actualite-bourse/les-etats-unis-lancent-un-groupe-de-coordination-sur-l-ia-et-la-cybersecurite-selon-la-maison-blanc-ce7f5edddd8bf32d)  
+*Source : ch.zonebourse.com | Publication : 2026-07-14*
 
-- Thales annonce l'attribution d'un contrat majeur par le Centre national de l'aviation civile (NCAC) de Mongolie pour la modernisation des infrastructures de gestion du trafic aérien du pays, marquant une étape majeure dans le développement d'aviation.
-- Ce programme soutiendra le déploiement d'une double architecture de centre de contrôle régional (ACC) de nouvelle génération en Mongolie.
-- Cet accord s'appuie sur la dynamique de la relation entre la France et la Mongolie, mise en évidence en 2025 à l'occasion du 60e anniversaire de l'établissement des relations diplomatiques entre les deux pays, reflétant l'approfondissement de leur coopération bilatérale et l'implication coordonnée des principaux acteurs institutionnels, financiers et universitaires français en soutien aux ambitions stratégiques de la Mongolie.
-- Dans le cadre de ce contrat, Thales fournira les systèmes avancés d'automatisation du contrôle aérien pour les deux centres, en modernisant l'ACC existant à Oulan-Bator et en équipant le nouvel ACC qui sera établi à Sainshand.
+- Les États-Unis vont officiellement réunir les développeurs d&#039;intelligence artificielle (IA) et les prestataires de services essentiels afin de partager des informations sur les vulnérabilités de cybersécurité identifiées par les systèmes d&#039;IA avancés et de coordonner les réponses, selon un communiqué de la Maison-Blanche.
+- Cette initiative concrétise un décret du président américain Donald Trump datant de juin.Des entreprises telles qu&#039;Anthropic et OpenAI ont mis sur le marché des systèmes d&#039;IA puissants, capables d&#039;identifier à grande échelle des failles dans les logiciels et les infrastructures.
+- Les autorités américaines craignent que des acteurs malveillants ne les utilisent pour exploiter les faiblesses des systèmes informatiques qui soutiennent les services critiques — notamment ceux des institutions financières, des hôpitaux et des réseaux énergétiques — dont dépendent les Américains.L&#039;administration Trump a mis en place un groupe de coordination entre les principaux développeurs d&#039;IA et les fournisseurs de services essentiels afin qu&#039;ils puissent partager les informations relatives aux vulnérabilités découvertes dans leurs logiciels et éviter les doublons.
+- Ce dispositif inclut les développeurs de modèles d&#039;IA en &quot;open-source&quot; (code source ouvert), a précisé Sean Cairncross, directeur de la cybersécurité à la Maison-Blanche.
 
-## [Sud Messin. THD, <b>cybersécurité</b> et services : les communes jouent la coopération](https://www.republicain-lorrain.fr/politique/2026/07/13/thd-cybersecurite-et-services-les-communes-jouent-la-cooperation)  
-*Source : republicain-lorrain.fr | Publication : 2026-07-13*
+## [Les États-Unis lancent un groupe de coordination sur l'IA et la <b>cybersécurité</b>, selon la ...](https://www.zonebourse.com/actualite-bourse/les-etats-unis-lancent-un-groupe-de-coordination-sur-l-ia-et-la-cybersecurite-selon-la-maison-blanc-ce7f5edddd8bf32d)  
+*Source : zonebourse.com | Publication : 2026-07-14*
 
-- Sud Messin THD, cybersécurité et services : les communes jouent la coopération A la suite des élections municipales de mars, de nouveaux élus désignés par leur commune siègent au sein de la commission en charge du Très haut débit (THD), des usages du numérique et de l’appui aux communes de la Communauté de communes du Sud Messin.
-- Ils représentent Ancerville, Cheminot, Chérisey, Liéhon, Luppy, Moncheux, Orny, Pommérieux, Rémilly, Secourt, Solgne et Verny.
-- Jean-Marc Remy, 5e vice-président du Sud Messin, chargé du très haut débit, des usages du numérique et de l’appui aux communes, a réuni les membres de la commission afin de présenter.
+- Les États-Unis vont officiellement réunir les développeurs d&#039;intelligence artificielle (IA) et les prestataires de services essentiels afin de partager des informations sur les vulnérabilités de cybersécurité identifiées par les systèmes d&#039;IA avancés et de coordonner les réponses, selon un communiqué de la Maison-Blanche.
+- Cette initiative concrétise un décret du président américain Donald Trump datant de juin.Des entreprises telles qu&#039;Anthropic et OpenAI ont mis sur le marché des systèmes d&#039;IA puissants, capables d&#039;identifier à grande échelle des failles dans les logiciels et les infrastructures.
+- Les autorités américaines craignent que des acteurs malveillants ne les utilisent pour exploiter les faiblesses des systèmes informatiques qui soutiennent les services critiques — notamment ceux des institutions financières, des hôpitaux et des réseaux énergétiques — dont dépendent les Américains.L&#039;administration Trump a mis en place un groupe de coordination entre les principaux développeurs d&#039;IA et les fournisseurs de services essentiels afin qu&#039;ils puissent partager les informations relatives aux vulnérabilités découvertes dans leurs logiciels et éviter les doublons.
+- Ce dispositif inclut les développeurs de modèles d&#039;IA en &quot;open-source&quot; (code source ouvert), a précisé Sean Cairncross, directeur de la cybersécurité à la Maison-Blanche.
 
-## [<b>Cybersécurité</b>: Microsoft et le CICR créent un drapeau numérique - Bilan](https://www.bilan.ch/story/cicr-microsoft-aide-a-creer-un-drapeau-numerique-de-protection-841180175223)  
-*Source : bilan.ch | Publication : 2026-07-13*
+## [France-Élaine Duranceau annonce une entente avec l'Alberta pour accélérer le ... - Newswire.ca](https://www.newswire.ca/fr/news-releases/france-elaine-duranceau-annonce-une-entente-avec-l-alberta-pour-accelerer-le-deploiement-de-l-intelligence-artificielle-au-sein-de-l-etat-833042560.html)  
+*Source : newswire.ca | Publication : 2026-07-14*
 
-- Rencontre avec Natasha Crampton La Chief Responsible AI Officer de Microsoft dÃ©taille le partenariat avec le CICR pour crÃ©er un standard ouvert protÃ©geant les infrastructures humanitaires en ligne.
-- En 2022, une cyberattaque avait compromis 515â000 dossiers du CICR.
-- En marge du AI for Good Summit 2026, qui sâest tenu Ã GenÃ¨ve du 7 au 10 juillet, Natasha Crampton, Chief Responsible AI Officer de Microsoft, est intervenue au CERN aux cÃ´tÃ©s du CICR pour Ã©voquer le partenariat entre les deux institutions autour du Â«Digital Emblem ProjectÂ».
-- Jâai eu lâoccasion de lâinterviewer.
+- France-Élaine Duranceau annonce une entente avec l'Alberta pour accélérer le déploiement de l'intelligence artificielle au sein de l'État Nouvelles fournies par Cabinet du ministre de la Cybersécurité et du Numérique14 juil, 2026, 16:11 ET QUÉBEC, le 14 juill.
+- 2026 /CNW/ -- Le gouvernement du Québec franchit une nouvelle étape pour moderniser l'État grâce à l'intelligence artificielle.
+- La ministre de la Cybersécurité et du Numérique, Mme France-Élaine Duranceau, annonce la signature d'une entente de coopération opérationnelle en intelligence artificielle (IA) avec M. Nate Glubish, ministre des Technologies et de l'Innovation de l'Alberta.
+- D'une durée de 5 ans et sans engagement financier, cette entente vise à accélérer le déploiement de l'IA dans l'administration publique.
 
-## [Thales va moderniser les infrastructures de gestion du trafic aérien en Mongolie](https://bourse.fortuneo.fr/actualites-amp/thales-va-moderniser-les-infrastructures-de-gestion-du-trafic-aerien-en-mongolie-5730974)  
-*Source : bourse.fortuneo.fr | Publication : 2026-07-13*
+## [Rapport annuel consolidé 2025 de l'ENISA : l'Europe s'unit - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/07/14/rapport-annuel-consolide-2025-enisa/)  
+*Source : dcod.ch | Publication : 2026-07-14*
 
-- (Zonebourse.com) - Le groupe français fournira de nouveaux systèmes de contrôle aérien afin de renforcer la résilience, la capacité et la cybersécurité de l'espace aérien mongol.
-- Thales annonce avoir remporté un contrat majeur auprès du Centre national de l'aviation civile de Mongolie pour moderniser les infrastructures de gestion du trafic aérien du pays.
-- Le groupe déploiera une double architecture de centre de contrôle régional, avec la modernisation du site d'Oulan-Bator et l'équipement d'un nouveau centre à Sainshand.
-- Le projet vise à améliorer la résilience opérationnelle, la capacité de l'espace aérien, la cybersécurité des infrastructures critiques et le développement des compétences locales.
+- TL;DR : L’essentiel Le déploiement opérationnel de la base de données européenne centralise les informations techniques validées sur les vulnérabilités critiques.
+- Cet outil commun accélère la correction des failles logicielles à l’échelle du marché unique.
+- - La gestion de la réserve de cybersécurité de l’Union européenne est confiée à l’agence pour mobiliser en urgence des prestataires privés audités.
+- Ce bouclier opérationnel soutient directement les infrastructures paralysées par des attaques d’envergure.
 
-## [La question de l'expansion de la coopération en matière de défense entre l'Azerbaïdjan et ...](https://azertag.az/fr/xeber/la_question_de_lexpansion_de_la_cooperation_en_matiere_de_defense_entre_l_039azerbaidjan_et_le_belarus_abordee-4316933)  
-*Source : azertag.az | Publication : 2026-07-13*
+## [Anthropic plaide pour la coopération sur les modèles d'IA en cyberdéfense et ... - Agence Europe](https://agenceurope.eu/fr/bulletin/article/13909/20/)  
+*Source : agenceurope.eu | Publication : 2026-07-14*
 
-- cybersécurité.
-- 10.07.2026 [10:43].
-- Bakou accueille une réunion d'experts militaires azerbaïdjanais et serbes en cybersécurité · Des militaires.
+- Donny Greenberg, expert en entraînement des modèles d’intelligence artificielle chez Anthropic, a salué le dialogue « constructif » engagé avec la Commission européenne et l’Agence de l’Union européenne pour la cybersécurité (ENISA) concernant l’accès à son modèle d’IA de frontière, Mythos et a plaidé en faveur d’une coopération mondiale pour faire face aux risques de cybersécurité liés à ces modèles, estimant qu’ aucune organisation ni aucun pays ne peut les relever seul.
+- « Notre objectif est de permettre à ces modèles d’éliminer les risques de cyberattaques visant toutes les infrastructures critiques : les infrastructures financières, physiques, civiques et numériques », a-t-il déclaré, mardi14 juillet, lors d’un échange au sein de la commission du marché intérieur et de la protection des consommateurs (IMCO) du Parlement européen, laissant par ailleurs sans réponse la plupart des questions des députés européens.
+- Les députés européens lui ont demandé si l’entreprise estimait que l’Union européenne devait développer ses propres alternatives et si Anthropic pourrait aider l’Europe à concevoir ses propres modèles.
+- Ils ont également demandé qui, en dernier ressort, contrôlait le 'kill switch' permettant de désactiver les modèles - le gouvernement américain ou l’entreprise ?.
 
-## [25 ans et chef d'entreprise : le parcours de Camille, franchisée Biocold Process dans l'Essonne](https://www.toute-la-franchise.com/interview-25-ans-chef-entreprise-parcours-camille-franchisee-biocold-process-essonne)  
-*Source : toute-la-franchise.com | Publication : 2026-07-13*
+## [L'intelligence artificielle de pointe dans le secteur de la santé : gestion de la chaîne d ...](https://health-isac.org/fr/L'intelligence-artificielle-de-pointe-dans-le-secteur-de-la-santé-gère-les-risques-liés-à-la-chaîne-d'approvisionnement-et-aux-fournisseurs/)  
+*Source : health-isac.org | Publication : 2026-07-14*
 
-- 25 ans et chef d'entreprise : le parcours de Camille, franchisée Biocold Process dans l'Essonne À 25 ans, Camille a rejoint Biocol Process pour allier autonomie et engagement durable.
-- Formée en cybersécurité et relations internationales, elle œuvre en Essonne pour faire connaître un procédé innovant qui régule l’humidité sans électricité, au service des commerçants.
-- Interview de Camille, Franchisée Biocold Process Pouvez-vous vous présenter et nous parler de votre parcours avant de rejoindre Biocol Process ?.
-- Je m’appelle Camille, j’ai 25 ans.
+- L'intelligence artificielle de pointe dans le secteur de la santé : gestion de la chaîne d'approvisionnement et des risques liés aux fournisseurs Les modèles d'IA de pointe transforment la cybersécurité.
+- Ces nouveaux modèles de langage à grande échelle (LLM) peuvent détecter les vulnérabilités à un rythme inédit, mettant ainsi en péril les systèmes et les données.
+- Face à ces nouveaux modèles, les organismes du secteur de la santé doivent s'adapter.
+- Les principes fondamentaux de la cybersécurité restent les mêmes, mais tout s'accélère.
 
-## [Cyberattaques : l'Europe, le Royaume-Uni et les États-Unis accusent Moscou | LeMagIT](https://www.lemagit.fr/actualites/366645852/Cyberattaques-lEurope-le-Royaume-Uni-et-les-Etats-Unis-accusent-Moscou)  
-*Source : lemagit.fr | Publication : 2026-07-13*
+## [<b>Cybersécurité</b>, un cadre renforcé en préparation - SenePlus](https://www.seneplus.com/article/cybersecurite-un-cadre-renforce-en-preparation)  
+*Source : seneplus.com | Publication : 2026-07-14*
 
-- Julia Shepeleva - stock.adobe.co Cyberattaques : l’Europe, le Royaume-Uni et les États-Unis accusent Moscou L’UE et le Royaume-Uni sanctionnent des agents présumés du FSB et des cybercriminels russes après des cyberattaques d’espionnage, notamment.
-- Paris et Berlin convoquent les ambassadeurs de Russie.
-- Ce lundi 13 juillet au matin, Jean-Noël Barrot, ministre des Affaires étrangères, a annoncé la convocation de l’ambassadeur de Russie en France, après avoir dénoncé, sur BFMTV-RMC « une vaste campagne cyber aux buts de sabotage et d’espionnage » pilotée depuis Moscou, et ayant visé « une dizaine de pays européens ».
-- Ce n’est pas une action isolée : son homologue allemand, Johann Wadephul, vient d’en faire autant.
+- contre les cybermenaces.
+- Selon la RTS qui relaie l'information, une réunion de concertation était présidée, à ce sujet, par le ministre des.
 
-## [<b>Cybersécurité</b> : s'inspirer des meilleurs pour renforcer la résilience numérique](https://www.bonn.de/pressemitteilungen/juli-2026/cybersicherheit-von-den-besten-lernen-fuer-mehr-digitale-resilienz.php?loc=fr)  
-*Source : bonn.de | Publication : 2026-07-13*
+## [<b>Cybersécurité</b> : avec Atlas, faites de vos équipes un bouclier opérationnel - Livestorm](https://app.livestorm.co/opco-atlas/cybersecurite-avec-atlas-faites-de-vos-equipes-un-bouclier-operationnel)  
+*Source : app.livestorm.co | Publication : 2026-07-14*
 
-- La cybersécurité est l'un des principaux défis de notre époque.
-- Les institutions publiques, les entreprises et les citoyens dépendent des infrastructures numériques dans pratiquement tous les domaines de la vie et du travail.
-- Parallèlement, le nombre et la complexité des cyberattaques ne cessent d'augmenter à l'échelle mondiale.
-- La protection des données, des infrastructures critiques et des services numériques est donc une condition essentielle à la stabilité économique, à la confiance de la société et à la capacité d’action de l’administration et des institutions.
+- À propos de cet événement Face à la multiplication des cybermenaces, la meilleure protection reste une équipe sensibilisée et formée aux bons réflexes.
+- À travers ce webinaire, Atlas vous présente les solutions concrètes pour développer les compétences de vos collaborateurs, instaurer une véritable culture de la cybersécurité et mobiliser les dispositifs de formation et de financement adaptés à votre entreprise.
+- 📅 Le jeudi 17 septembre 🕐 De 14h00 à 15h00 🎯 Au programme Faites le point sur : Un temps d'échange avec nos experts est prévu pour répondre à vos questions.
+- 🎤 Les intervenants Atlas est l’opérateur de compétences des entreprises et salariés des services financiers et du conseil.
 
-## [Une « vaste » cyberattaque russe frappe l'Europe, la France annonce une contre-attaque](https://www.01net.com/actualites/vaste-cyberattaque-russe-frappe-europe-france-annonce-contre-attaque.html)  
-*Source : 01net.com | Publication : 2026-07-13*
+## [Infrastructures souveraines : le retour de la Tech européenne - Techerati](https://www.techerati.com/fr/hub-actualités/le-retour-de-la-tech-europeenne-vers-une-nouvelle-generation-dinfrastructures-souveraines/)  
+*Source : techerati.com | Publication : 2026-07-14*
 
-- La France révèle qu’une cyberattaque russe vise de nombreux pays européens.
-- Sur le plateau de BFM TV, le ministre des Affaires étrangères, Jean-Noël Barrot, indique qu’une « vaste campagne cyber aux buts de sabotage et d’espionnage » a été menée par la Russie dans « une dizaine de pays européens ».
-- Dix nations d’Europe ont été visées ces derniers jours.
-- La France fait partie des pays touchés.
+- Le retour de la Tech européenne Vers une nouvelle génération d’infrastructures souveraines Écrit par Eric Le Ven il y a 7 heures Longtemps, la souveraineté numérique européenne a ressemblé à un concept utile pour ouvrir des conférences, mais rarement décisif dans les appels d’offres.
+- Ce temps-là est révolu.
+- Avec l’IA générative, la dépendance au cloud, la multiplication des cyberattaques et la pression réglementaire, la question n’est plus idéologique, elle est devenue opérationnelle.
+- Qui héberge les données ?.
 
-## [Cyberassurance : l'IA impose une réaction ultra-rapide - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/07/13/cyberassurance-ia-reaction-ultra-rapide/)  
-*Source : dcod.ch | Publication : 2026-07-13*
+## [Plex ou Jellyfin : lequel choisir pour gérer votre médiathèque personnelle ? | Android MT](https://android-mt.ouest-france.fr/tutoriel/plex-ou-jellyfin-lequel-choisir-pour-gerer-votre-mediatheque-personnelle/207926/)  
+*Source : android-mt.ouest-france.fr | Publication : 2026-07-14*
 
-- TL;DR : L’essentiel L’émergence de modèles d’intelligence artificielle avancés, développés par OpenAI ou Anthropic, permet d’automatiser l’identification et l’exploitation des failles logicielles, des tâches autrefois réservées à des experts humains hautement qualifiés.
-- - Les assureurs délaissent les listes de contrôle statiques comme la double authentification pour se concentrer sur la capacité des organisations à détecter, isoler et corriger rapidement les vulnérabilités du système d’information.
-- - Un rapport publié par un courtier en cyberassurance souligne que l’accélération des cybermenaces par l’intelligence artificielle augmente considérablement le risque d’événements systémiques touchant simultanément de nombreuses entreprises assurées à travers le monde.
-- - Selon une étude mondiale de Munich Re, près de 90% des dirigeants d’entreprises estiment que leur organisation ne dispose pas d’une protection adéquate contre des cyberattaques de plus en plus automatisées.
+- En bref Plex a triplé son abonnement à vie, passant à 680 €.
+- - Jellyfin est gratuit, open source et très personnalisable.
+- - L’accès à distance et la TV en direct restent complexes sur Jellyfin.
+- - Pourquoi Plex agace de plus en plus ses utilisateurs fidèles Pendant longtemps, Plex a représenté la solution idéale pour transformer une collection de films et de séries stockée sur un ordinateur en véritable service de diffusion à la demande, accessible depuis n’importe quel écran.
 
-## [Cyberattaques russes : Londres, Bruxelles et Paris durcissent la riposte - Les Echos](https://www.lesechos.fr/monde/europe/cyberattaques-russes-londres-bruxelles-et-paris-durcissent-la-riposte-2242110)  
-*Source : lesechos.fr | Publication : 2026-07-13*
+## [Préparer les ressources humaines pour l'ère quantique - Le Courrier du VietNam](https://lecourrier.vn/preparer-les-ressources-humaines-pour-lere-quantique/1351369.html)  
+*Source : lecourrier.vn | Publication : 2026-07-14*
 
-- Cybersécurité TransportsDéfenseEDFRussieParis.
-- LesEchos-offrePremiumEntreprises.png.
-- Testez l'offre Premium Entreprises !.
-- Profitez d'un essai gratuit.
+- >> Trois propositions pour le développement progressif des capacités quantiques nationales au Vietnam >> Le Vietnam accélère son positionnement dans les technologies quantiques >> Le Vietnam mise sur les ressources humaines STEM pour accélérer son essor technologique Au Vietnam, les technologies quantiques et la cybersécurité figurent désormais parmi les dix technologies stratégiques nationales.
+- Elles sont considérées comme un levier essentiel pour renforcer l’autonomie technologique du pays et améliorer sa compétitivité dans une économie mondiale fondée sur l’innovation.
+- En tant que principal pôle scientifique, technologique et d’innovation du pays, Hô Chi Minh-Ville s’emploie à construire les bases nécessaires pour entrer dans cette nouvelle ère.
+- La priorité est clairement accordée au développement des ressources humaines, considéré comme la condition indispensable pour exploiter pleinement le potentiel des technologies quantiques dans les années à venir.
 
-## [La transposition de NIS 2 reportée à nouveau - L'INFORMATICIEN &amp; L'INFO CYBER ...](https://www.linformaticien.com/magazine/cybersecurite/65079-la-transposition-de-nis-2-reportee-a-nouveau.html)  
-*Source : linformaticien.com | Publication : 2026-07-13*
+## [Impact de NordVPN sur la batterie : rapport de West Coast Labs](https://nordvpn.com/fr/blog/vpn-mobile-impact-batterie-rapport-wcl/)  
+*Source : nordvpn.com | Publication : 2026-07-14*
 
-- Initialement prévue lors de la session parlementaire extraordinaire de ce mois, le texte de la transposition n'est pas dans les ordres du jour et.
+- Elle aide les lecteurs à naviguer dans l'univers de la cybersécurité.
+- Glossaire de cybersécurité Centre de Cybersécurité Responsabilité Sociale.
 
-## [[Portrait] Sami Maghnaoui, le jeune “hacker” marocain qui a séduit Google - TelQuel](https://mobile.telquel.ma/2026/07/13/portrait-sami-maghnaoui-le-jeune-hacker-marocain-qui-a-seduit-google_1998732)  
-*Source : mobile.telquel.ma | Publication : 2026-07-13*
+## [DataExpert acquiert la société danoise Ado Security pour son expansion européenne](https://itdaily.fr/nouvelles/business/dataexpert-ado-security/)  
+*Source : itdaily.fr | Publication : 2026-07-14*
 
-- Tout commence par une fascination d’enfant pour l’ordinateur.
-- “Quand j’avais trois ans, j’appuyais sur les touches et je voyais que quelque chose se passait”, se confie Sami Maghnaoui, 18 ans, lors d’un entretien accordé à TelQuel.
-- Le déclic technique, lui, arrive à 14 ans : il construit des jeux sur Roblox, la célèbre plateforme de création vidéo-ludique et apprend le langage Lua.
-- Il bascule ensuite vers Python, qu’il trouve “assez facile”, puis vers l’automatisation, les scripts et, enfin, la cybersécurité.
+- DataExpert Group acquiert la société Ado Security, basée à Copenhague.
+- Avec cette acquisition, l’entreprise de cybersécurité néerlandaise souhaite renforcer sa position de fournisseur de services de cybersécurité de bout en bout en Europe.
+- La société néerlandaise DataExpert rachète Ado Security, une entreprise de sécurité dont le siège social se situe à Copenhague.
+- Avec cette acquisition, DataExpert souhaite combiner sa propre expertise en informatique légale et réponse aux incidents, threat intelligence, governance, risk & compliance et cyber-enquête avec les capacités d’Ado Security.
 
-## [Mongolie : Thales modernise les centres de contrôle aérien d'Oulan‑Bator et Sainshand](https://actu-aero.fr/2026/07/13/mongolie-thales-modernise-les-centres-de-controle-aerien-doulan-bator-et-sainshand/)  
-*Source : actu-aero.fr | Publication : 2026-07-13*
+## [Barclays : IBM signale une priorité accordée à la <b>cybersécurité</b> - Investing.com](https://fr.investing.com/news/analyst-ratings/barclays--ibm-signale-une-priorite-accordee-a-la-cybersecurite-93CH-3498169)  
+*Source : fr.investing.com | Publication : 2026-07-14*
 
-- La Mongolie a confié à Thales un vaste programme de modernisation de son infrastructure de gestion du trafic aérien.
-- Le Centre national de l’aviation civile (NCAC) a attribué au groupe français un contrat structurant qui prévoit la mise en place d’une double architecture de centres de contrôle régional (ACC), combinant la modernisation du centre d’Oulan‑Bator et la création d’un nouvel ACC à Sainshand.
-- L’objectif est de renforcer la robustesse du système de contrôle aérien mongol en améliorant sa continuité de service, en augmentant la capacité de gestion du trafic et en consolidant la protection cyber des infrastructures, dans un contexte de croissance du trafic et d’exigences de sûreté toujours plus élevées.
-- Une modernisation profonde des centres de contrôle aérien Le programme repose sur le déploiement de systèmes d’automatisation du contrôle aérien de nouvelle génération.
+- Investing.com - Barclays indique que la récente mise à jour commerciale d'IBM suggère que les clients privilégient les dépenses en cybersécurité.
 
-## [L'Union européenne impose des sanctions contre la Russie pour violations des droits de l ...](https://www.zonebourse.com/actualite-bourse/l-union-europeenne-impose-des-sanctions-contre-la-russie-pour-violations-des-droits-de-l-homme-et-cy-ce7f5edcd98cf126)  
-*Source : zonebourse.com | Publication : 2026-07-13*
+## [Les ministres azerbaïdjanais et slovaque de l'Intérieur signent un mémorandum d'accord ...](https://azertag.az/fr/xeber/les_ministres_azerbaidjanais_et_slovaque_de_l_039interieur_signent_un_memorandum_daccord_sur_la_cooperation-4319253)  
+*Source : azertag.az | Publication : 2026-07-14*
 
-- L&#039;Union européenne a élargi lundi ses sanctions contre la Russie pour inclure des individus et des entités responsables de cybercriminalité et de violations des droits de l&#039;homme, citant notamment le réseau social populaire VKontakte.
-- * VKontakte et sa filiale Communication Platform LLC ont été ajoutés à la liste pour leur rôle dans le développement et la gestion de l&#039;application MaxApp pour les smartphones russes, sous la supervision du Service fédéral de sécurité (FSB).
-- * L&#039;application est préinstallée sur tous les appareils mobiles vendus en Russie.
-- * Les pays de l&#039;UE ont déclaré que MaxApp était utilisée pour la répression des détracteurs de la guerre menée par la Russie contre l&#039;Ukraine et des personnes publiant d&#039;autres contenus interdits par les autorités.
+- cybercriminalité.
+- Matúš Šutaj-Eštok a exprimé sa gratitude pour l'accueil chaleureux, ajoutant que son pays était intéressé par l'expansion de la.
 
-## [Russie et <b>cybercriminalité</b> : ce qu'il faut savoir sur Turla, l'outil attribué au FSB russe](https://www.boursorama.com/actualite-economique/actualites/russie-et-cybercriminalite-ce-qu-il-faut-savoir-sur-turla-l-outil-attribue-au-fsb-russe-179066617cf611bc5910130bc3391664)  
-*Source : boursorama.com | Publication : 2026-07-13*
+## [<b>Cybersécurité</b> et intelligence artificielle : la difficile riposte européenne - ZDNET](https://www.zdnet.fr/actualites/cybersecurite-et-intelligence-artificielle-la-difficile-riposte-europeenne-498554.htm)  
+*Source : zdnet.fr | Publication : 2026-07-14*
 
-- Le ministère des Armées, à Paris.
-- ( AFP / THOMAS SAMSON ) Parmi ses faits d'armes identifiés contre la France, Turla a notamment compromis certains comptes de messageries du ministère des Armées.
-- Un groupe d'attaquants "mondialement connu", et redouté.
-- Parmi les activités cybercriminelles attribuées à la Russie par les Européens figurent celles de Turla, un outil utilisé par le FSB pour de l'espionnage au long cours de services gouvernementaux plutôt que des opérations spectaculaires et brutales.
+- Après le psychodrame autour de Mythos 5, ce modèle de l’éditeur américain d’IA Anthropic dont le lancement restreint puis la fermeture aux non-américains avait créé un véritable séisme géopolitique, la Commission européenne tente de riposter.
+- Bruxelles vient en effet de présenter son plan d’action en matière de cybersécurité et d’intelligence artificielle.
+- Un document touffu de quinze pages à la fois décevant, une sorte de catalogue de bonnes intentions, mais aussi sans surprise.
+- Difficile en effet de reprocher aux institutions européennes d’arriver en quelques semaines à inverser un rapport de force défavorable.
