@@ -1,154 +1,151 @@
-# Résumés – 2026-07-16
+# Résumés – 2026-07-17
 
 
-## [Les actions Coca-Cola reculent après une cyberattaque contre fairlife - Yahoo Finance](https://fr.finance.yahoo.com/actualites/actions-coca-cola-reculent-après-210937189.html)  
-*Source : fr.finance.yahoo.com | Publication : 2026-07-16*
+## [Clover Health annonce un incident de <b>cybersécurité</b> ayant affecté trois comptes d'employés](https://ch.zonebourse.com/actualite-bourse/clover-health-annonce-un-incident-de-cybersecurite-ayant-affecte-trois-comptes-d-employes-ce7f51dadd8ef02c)  
+*Source : ch.zonebourse.com | Publication : 2026-07-17*
 
-- Investing.com - Coca-Cola (NYSE:KO) a vu ses actions chuter de 1% lors des échanges après-bourse jeudi, après que le géant des boissons a révélé une attaque par ransomware ayant temporairement paralysé la production américaine de sa filiale laitière fairlife.
-- La société a confirmé qu'un tiers a obtenu un accès non autorisé au réseau de fairlife, compromettant directement les systèmes liés à la production.
-- En conséquence, Coca-Cola a été contraint de suspendre l'ensemble des opérations de fabrication de fairlife aux États-Unis.
-- Dès la détection de la violation, Coca-Cola a immédiatement déclenché ses protocoles de réponse aux incidents et de continuité des activités.
+- Clover Health annonce un incident de cybersécurité ayant affecté trois comptes d'employésClover Health Investments a déclaré vendredi avoir identifié un incident de cybersécurité au cours duquel un acteur malveillant a accédé à trois comptes d'employés non cadres via une.
 
-## [Responsable de la sécurité des systèmes d'information de l'Arizona à Cyber Live Arizona - Quartz](https://fr.qz.com/ariz-ciso-cyber-live-arizona-investissement-cyber-norme-pour-ltat)  
-*Source : fr.qz.com | Publication : 2026-07-16*
+## [Fourthline et Veridas fusionnent - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/65098-fourthline-et-veridas-fusionnent.html)  
+*Source : linformaticien.com | Publication : 2026-07-17*
 
-- Ryan Murray, CISO de l'Arizona, au Cyber Live Arizona - l'investissement dans la cybersécurité est « énorme » pour l'État.
-- Rejoignez plus de 500 000 lecteurs qui commencent leur journée avec Quartz.
-- En vous abonnant, vous acceptez nos Conditions d'utilisation et notre Politique de confidentialité.
+- Ransomware : les jours d'après · Cybersécurité · Fourthline et Veridas fusionnent.
+- Détails: Bertrand Garé: 17 juillet 2026.
+- L'éditeur de solutions de.
 
-## [UEMOA/<b>Cybersécurité</b> : « Si nous ne coopérons pas, une petite attaque dans un pays peut ...](https://lefaso.net/spip.php?article147895)  
-*Source : lefaso.net | Publication : 2026-07-16*
+## [Nouvelles attaques DDoS : pourquoi les RSSI veulent en faire un sujet de gouvernance ...](https://alliancy.fr/nouvelles-attaques-ddos-pourquoi-les-rssi-veulent-en-faire-un-sujet-de-gouvernance-plutot-que-de-reseau-b17598cc-fd1e-4e88-a8be-effe05adef6b)  
+*Source : alliancy.fr | Publication : 2026-07-17*
 
-- UEMOA/Cybersécurité : « Si nous ne coopérons pas, une petite attaque dans un pays peut devenir un incident majeur pour toute la sous-région », Alassane Kafando La IVᵉ édition du Salon international des professionnels de l’économie numérique de l’Union économique et monétaire ouest-africaine (SIPEN-UEMOA), tenue les 14 et 15 juillet 2026 à Ouagadougou autour du thème : « Refonder l’économie numérique au sein de l’UEMOA : intelligence artificielle, FinTech et finance inclusive », a été riche en activités diverses, avec en bonne place ces sessions de communication animées par des avertis du numérique et des infrastructures technologiques.
-- Ainsi, la journée de mercredi 15 juillet a été marquée par un panel de haut niveau animé par des experts venus de plusieurs pays.
-- « Gouvernance, confiance numérique et souveraineté financière » ; c’est le thème qui a fait l’objet de ce grand panel.
-- Pour animer cette communication modérée par la présidente de la Commission de l’informatique et des libertés (CIL), Dr Halguièta Nassa, les experts Adolphe Kaboré, ingénieur en télécommunications et réseaux, directeur de l’économie numérique par intérim à la commission de l’UEMOA ; Charles Millogo, ingénieur en télécommunications, haut cadre du numérique panafricain avec des expériences à travers une vingtaine de pays d’Afrique de l’Ouest et du Centre, actuel responsable du financement de l’économie numérique dans l’espace UEMOA à la BOAD ; Hervé Moundouho Cissp (Côte d’Ivoire), expert en cybersécurité, Account Manager chez Kaspersky ; Alassane Kafando, ingénieur en cybersécurité, en télécommunications et souveraineté numérique chez Telecel Faso, et Bernard Abaloutou Bialabna (Togo), expert en protection de données à caractère personnel, chef de service sécurité de l’instance en charge de la protection des données à caractère personnel du Togo.
+- Risques cyber Nouvelles attaques DDoS : pourquoi les RSSI veulent en faire un sujet de gouvernance plutôt que de réseau Comment faire évoluer la protection DDoS d'un sujet technique vers un véritable levier de continuité d'activité ?.
+- C'est la question qui a réuni, chez Alliancy, un peu plus d'une dizaine de responsables cybersécurité issus de secteurs régulés.
+- Début juillet, Alliancy organisait dans ses locaux une rencontre pour alimenter ses travaux menés sur la transformation des attaques par déni de service.
+- Animée par Djilali Kies, Ecosystem Advisor Alliancy, cette session, en partenariat avec IMS Networks, a permis aux participants de confronter leurs retours d’expérience et leurs pratiques, quels que soient les niveaux de maturité des organisations représentées.
 
-## [Côte d'Ivoire / <b>Cybersécurité</b> et PI-SPI : les grands défis de la microfinance à - Sika Finance](https://www.sikafinance.com/marches/cote-divoire-cybersecurite-et-pi-spi-les-grands-defis-de-la-microfinance-a-lere-du-tout-numerique_63026)  
-*Source : sikafinance.com | Publication : 2026-07-16*
+## [Une faille des aspirateurs Shark expose les plans de milliers de logements sur internet](https://www.generation-nt.com/actualites/aspirateur-robot-shark-faille-securite-donnees-personnelles-cybersecurite-2078824)  
+*Source : generation-nt.com | Publication : 2026-07-17*
 
-- À mesure que la révolution numérique transforme le monde des entreprises, les institutions de microfinance, appelées Systèmes financiers décentralisés (SFD), sont confrontées à des difficultés nouvelles en matière de cybersécurité, de protection des données personnelles et de conformité réglementaire.
-- En effet, l'intégration des technologies financières expose les SFD à une cybercriminalité en pleine mutation.
-- Selon un rapport d'Interpol, la cybercriminalité représente désormais plus de 30 % de toutes les infractions recensées en Afrique de l'Ouest.
-- Les escroqueries en ligne, les vols de données et les fraudes aux faux ordres de virement constituent les menaces les plus fréquentes.
+- Le monde de la domotique est de nouveau secoué par un scandale de sécurité.
+- Après les cas de DJI et Ecovacs, c'est au tour de la marque Shark de se retrouver sous le feu des projecteurs.
+- Un chercheur en cybersécurité, connu sous le pseudonyme tokay0, a mis en lumière une vulnérabilité d'une ampleur considérable qui affecte potentiellement plus de 670 000 appareils.
+- Le problème ne réside pas dans un code malveillant complexe, mais dans une simple erreur de configuration aux conséquences désastreuses.
 
-## [Trois techniques permettant de rendre un EDR complètement aveugle sous Windows ... - Clubic](https://www.clubic.com/actualite-621649-trois-techniques-permettant-de-rendre-un-edr-completement-aveugle-sous-windows-detectees-les-experts-lancent-l-alerte.html)  
-*Source : clubic.com | Publication : 2026-07-16*
+## [IA fantôme en entreprise, entre risque cyber et apprentissage non encadré - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/ia-fantome-en-entreprise-entre-risque-cyber-et-apprentissage-non-encadre/)  
+*Source : itsocial.fr | Publication : 2026-07-17*
 
-- Une faille Windows jusque-là ignorée permet de rendre aveugles antivirus et EDR sans exploiter la moindre vulnérabilité logicielle.
-- Bitdefender Labs détaille trois techniques de contournement basées sur les bind links, comparables selon eux aux attaques BYOVD prisées des ransomwares.
-- Baptisées « File-Binding », « Process-Binding » et « Silo-Binding », trois méthodes s'appuient sur une fonctionnalité légitime de virtualisation du système de fichiers, normalement au service des applications du Store, de Windows Sandbox et des conteneurs, pour rendre des solutions EDE aveugle sous Windows.
-- Un cybercriminel qui dispose des droits administrateur peut ainsi faire croire à un logiciel de sécurité qu'il inspecte un fichier parfaitement sain, alors qu'un tout autre code s'exécute en fond.
+- L’IA fantôme, l’usage d’outils d’intelligence artificielle non validés par la direction informatique, s’installe dans les entreprises françaises et européennes.
+- Plusieurs études récentes la désignent comme le premier risque humain du moment, portée par des salariés qui adoptent l’IA plus vite que leur organisation ne l’encadre.
+- Une autre lecture des mêmes chiffres montre pourtant un apprentissage de terrain, symptôme d’un déficit d’outils et de formation davantage que d’une intention cachée.
+- Près de deux salariés sur trois utilisent des outils d’IA non autorisés dans le cadre de leur travail.
 
-## [Exercice de <b>cybersécurité</b> et de réponse aux incidents 2026 - Vietnam.vn](https://www.vietnam.vn/fr/dien-tap-thuc-chien-an-ninh-mang-va-ung-cuu-su-co-nam-2026)  
-*Source : vietnam.vn | Publication : 2026-07-16*
+## [NestAI entraîne des modèles d'IA pour la défense européenne - Nordic Defence Sector](https://nordicdefencesector.com/fr/article/nestai-trains-ai-models-for-europes-defence)  
+*Source : nordicdefencesector.com | Publication : 2026-07-17*
 
-- - Le 16 juillet, le Comité populaire La province de Lang Son organise un exercice grandeur nature de cybersécurité et de réponse aux incidents en 2026.
-- Ce programme est coordonné et soutenu par le Département de la cybersécurité et de la prévention de la criminalité de haute technologie ( Ministère de la Sécurité publique ) et le Centre vietnamien de réponse aux urgences cybernétiques (VNCERT).
-- Étaient présents au programme : M. Doan Thanh Son, vice-président du Comité populaire provincial ; le colonel Vu Thanh Tung, membre du Comité permanent du Parti provincial, secrétaire du Comité du Parti, directeur de la police provinciale et chef du comité d'organisation de l'exercice ; le colonel Nguyen Duc Dung, chef du Département de la protection de la sécurité du système de réseau national, Bureau de prévention et de contrôle de la cybersécurité et de la criminalité de haute technologie (A05), ministère de la Sécurité publique ; et des dirigeants de plusieurs départements et agences provinciaux.
-- Dans son discours d'ouverture, le vice-président du Comité populaire de la province de Lang Son a souligné : Dans le contexte d'une forte transformation numérique, outre les avantages apportés par la technologie, les risques de cyberattaques, de vol de comptes, de fuites de données, de falsification d'informations, de fraude en ligne et autres violations de la sécurité de l'information deviennent de plus en plus complexes, affectant les opérations des agences, des unités et des entreprises.
+- La société finlandaise de technologie de défense NestAI commence à entraîner ses propres modèles d'intelligence artificielle pour le champ de bataille.
+- Les forces armées de Finlande et d'Estonie deviendront les premiers utilisateurs pilotes de ces modèles, développés pour l'autonomie des systèmes sans pilote et pour le commandement des forces.
+- « Il n'existe pas d'intelligence artificielle générale qui fonctionne toujours dans tous les environnements.
+- Il n'existe pas non plus de modèle unique qui résout tous les problèmes ; cela exige un développement continu », déclare Peter Sarlin, fondateur et président du conseil d'administration de NestAI, au journal des Forces de défense finlandaises (Puolustusvoimat) Ruotuväki.
 
-## [Lexpert : Devant les risques liés à l'IA, les pratiques classiques de <b>cybersécurité</b> ne suffisent plus](https://www.nortonrosefulbright.com/fr-ca/nouvelles/b8ad80c3/lexpert-devant-les-risques-lies-a-l-ia-les-pratiques-classiques-de-cybersecurite-ne-suffisent-plus)  
-*Source : nortonrosefulbright.com | Publication : 2026-07-16*
+## [Avec Perception, Microsoft préparerait un concurrent moins cher à Claude Mythos - Next.ink](https://next.ink/brief-article/avec-perception-microsoft-preparerait-un-concurrent-moins-cher-a-claude-mythos/)  
+*Source : next.ink | Publication : 2026-07-17*
 
-- Lexpert : Devant les risques liés à l’IA, les pratiques classiques de cybersécurité ne suffisent plus Canada | Couverture médiatique | juillet 2026 Dans un contexte de menaces en mutation sous l’effet des cyberattaques assistées par l’IA, les conseils d’administration et les conseillers juridiques doivent relever un nouveau défi : le délai d’intervention est passé de quelques jours à quelques secondes.
-- Les entreprises doivent cerner ces risques en constante évolution, comprendre leur incidence potentielle et agir sans attendre, prévient Imran Ahmad, chef canadien, Technologies et cochef canadien, Cybersécurité et confidentialité des données chez Norton Rose Fulbright.
-- Pour y arriver, elles doivent d’abord élaborer, tester et adapter un nouveau cadre de gouvernance conçu pour la réalité commerciale d’aujourd’hui.
-- Lisez l’article complet (en anglais seulement) : When AI meets cyber: a wake-up call for Canadian boards.
+- Avec Perception, Microsoft préparerait un concurrent moins cher à Claude Mythos 3 min IA et algorithmes.
+- Depuis mai, Microsoft s’agite dans le domaine de la cybersécurité.
+- Mi-mai, l’entreprise a ainsi présenté son système MDASH, pour « Microsoft Security multi-model agentic scanning harness ».
+- Il s’agit d’un réseau d’une centaine d’agents travaillant à partir d’un mix de modèles pour débusquer les failles de sécurité dans le code.
 
-## [Fuite de données chez Vignobles Toutigeac, une attaque <b>ransomware</b> revendiquée](https://frenchbreaches.com/alertes/vignobles-toutigeac-rw_Vm1sbmJtOWliR1Z6SUZSdmRYUnBaMlZoWTBCMGFHVm5aVzUwYkdWdFpXND0)  
-*Source : frenchbreaches.com | Publication : 2026-07-16*
+## [<b>Ransomware</b> : du webshell au chiffrement, le parcours de Spirals | LeMagIT](https://www.lemagit.fr/actualites/366645982/Ransomware-du-webshell-au-chiffrement-le-parcours-de-Spirals)  
+*Source : lemagit.fr | Publication : 2026-07-17*
 
-- Revendication de cyberattaque – Vignobles Toutigeac ajouté au site de fuite du groupe ransomware TheGentleman Le groupe de ransomware TheGentleman a ajouté Vignobles Toutigeac à sa plateforme de fuite et revendique la compromission des systèmes d'information du domaine viticole situé en Gironde, au cœur des appellations Bordeaux et Entre-Deux-Mers.
-- Selon les éléments publiés sur le site du groupe, les cybercriminels affirment avoir compromis les systèmes de l'exploitation et annoncent la publication prochaine de données prétendument exfiltrées.
-- Une fiche dédiée à la victime a été mise en ligne sur le site de fuite du groupe, accompagnée d'un compte à rebours précédant une éventuelle divulgation publique des données.
-- Au moment de l'observation, le site affichait un délai d'environ 9 jours avant la publication présumée des données.
+- Ransomware : du webshell au chiffrement, le parcours de Spirals Spirals est un rançongiciel sophistiqué, développé en Rust, déployé lors d'une attaque à double extorsion contre une société de services informatiques en Asie du Sud.
+- Son site vitrine n'a pas encore été localisé.
+- Tout a commencé par la compromission d'un serveur IIS exposé à Internet.
+- C'est ainsi que l'accès initial a pu être établir.
 
-## [L'Europe dénonce l'espionnage du FSB et s'apprête à affaiblir le chiffrement qui l'en protège](https://itsocial.fr/cybersecurite/cybersecurite-articles/leurope-denonce-lespionnage-du-fsb-et-sapprete-a-affaiblir-le-chiffrement-qui-len-protege/)  
-*Source : itsocial.fr | Publication : 2026-07-16*
+## [<b>Cybersécurité</b> : le Maroc est-il prêt face aux nouvelles menaces - Lebrief.ma](https://www.lebrief.ma/cybersecurite-le-maroc-est-il-pret-face-aux-nouvelles-menaces-100160306/)  
+*Source : lebrief.ma | Publication : 2026-07-17*
 
-- La France et l'Union européenne ont attribué au 16e Centre du FSB russe le mode opératoire d'attaque Turla, employé depuis des années pour espionner les ministères, la défense et la diplomatie françaises.
-- Au même moment, la dérogation dite Chat Control, qui imposerait un balayage des messageries avant chiffrement, revient devant le Parlement européen.
-- L'Europe dénonce ainsi l'espionnage d'État tout en s'apprêtant à fragiliser le chiffrement qui l'en protège.
-- La contradiction est stratégique avant d'être morale, et elle profite d'abord à l'adversaire qu'elle vient de nommer.
+- Cybersécurité : le Maroc est-il prêt face aux nouvelles menaces ?.
+- Affiche de l'AUSIMètre 2026 © LeBrief.
+- La cybersécurité n’est plus un sujet réservé aux directions informatiques.
+- Elle est désormais devenue une question de gouvernance, de souveraineté et de compétitivité.
 
-## [Des centaines de milliers d'aspirateurs robots exposent le plan de votre maison sur Internet](https://www.01net.com/actualites/des-centaines-de-milliers-daspirateurs-robots-exposent-le-plan-de-votre-maison-sur-internet.html)  
-*Source : 01net.com | Publication : 2026-07-16*
+## [Polymarket : la France bloque l'accès au site de paris d'actualité depuis son territoire](https://www.ouest-france.fr/high-tech/polymarket-la-france-bloque-lacces-au-site-de-paris-dactualite-depuis-son-territoire-be865444-81df-11f1-ae6f-a09f3d00f0f8)  
+*Source : ouest-france.fr | Publication : 2026-07-17*
 
-- Il y a quelque chose d’un peu décourageant à voir les aspirateurs robots s’imposer, mois après mois, comme le maillon faible de la maison connectée.
-- La série est maintenant bien documentée : Ecovacs en 2024 (des chercheurs avaient pris le contrôle de micros et caméras à distance), le DJI Romo en février (un développeur avait, en voulant bidouiller son appareil avec une manette PS5, espionné 7 000 logements dans 24 pays), et maintenant la marque Shark.
-- Un chercheur en sécurité a démontré qu’en s’emparant du certificat d’un seul aspirateur, il est possible de prendre la main sur n’importe quel autre appareil Shark de la même zone géographique.
-- Caméra embarquée, plan du logement cartographié session après session, mot de passe WiFi en clair : tout devient accessible.
+- cybercriminalité du parquet de Paris, confiée à l'Office anti- cybercriminalité.
+- Le 6 juillet, des parieurs se sont enrichis en voyant couler des.
 
-## [FOREX-Cours à 15h30 | AGENCE DE PRESSE YONHAP](https://fr.yna.co.kr/view/AFR20260716001900884)  
-*Source : fr.yna.co.kr | Publication : 2026-07-16*
+## [La France bloque l'accès au site de paris sur l'actualité Polymarket - TV5MONDE Info](https://information.tv5monde.com/economie/la-france-bloque-lacces-au-site-de-paris-sur-lactualite-polymarket-2830579?amp)  
+*Source : information.tv5monde.com | Publication : 2026-07-17*
 
-- FOREX-Cours à 15h30 Actualités 16.07.2026 à 15h32 Taux de change du dollar : 1.480,4 wons, en baisse par rapport au taux de 1.484,7 wons de la séance précédente à 15h30.
-- Mots clés de l’actualité Un spectacle de lecture d'un roman de Han Kang illumine le Palais des Papes d'Avignon - Réunion de haut niveau entre la Corée du Nord et la Chine pour discuter des moyens d'approfondir les liens - (LEAD) La Corée du Sud lancera une IA souveraine cette année pour améliorer la cybersécurité - Mine de Sado : l'Unesco recommande au Japon de mieux refléter le travail forcé des Coréens - Les dirigeants militaires de Séoul, Tokyo et Washington réaffirment leur volonté de coopérer face aux menaces nord-coréennes -.
+- La France bloque l'accès au site de paris sur l'actualité Polymarket Les autorités françaises ont décidé vendredi de bloquer l'accès au site américain de paris sur l'actualité Polymarket, sur lequel les transactions financières depuis la France étaient déjà interdites depuis novembre 2024, assimilant les informations accessibles à de la publicité pour une activité illégale.
+- S'il leur était impossible de parier, les internautes français avaient jusqu'ici encore accès à la page d'accueil qui affichait "en temps réel et de manière dynamique les cotes associées aux différents évènements susceptibles de faire l'objet de paris", selon le communiqué.
+- L'Autorité nationale des Jeux (ANJ), régulateur du secteur des jeux et paris en France, considère que cela peut être assimilé à de la publicité pour une activité non autorisée sur le territoire et a annoncé vendredi la fermeture de l'accès.
+- Polymarket est une plateforme de "marché de prédiction" où l'on peut parier sur des évènements quels qu'ils soient, des matchs de football mais aussi des élections présidentielles, des conflits internationaux et même le retour de Jésus.
 
-## [Un nouveau <b>ransomware</b> « Spirals » contourne Windows Defender et paralyse un réseau ... - Clickx](https://www.clickx.be/fr/actualites/199771/un-nouveau-ransomware-baptise-spirals-contourne-windows-defender-et-paralyse-un-reseau-en-une-seule-journee/)  
-*Source : clickx.be | Publication : 2026-07-16*
+## [CELESTE finalise le changement de son actionnariat - L'1FO Tech par L'Informaticien](https://www.linformaticien.com/magazine/biz-it/65096-celeste-finalise-le-changement-de-son-actionnariat.html)  
+*Source : linformaticien.com | Publication : 2026-07-17*
 
-- Un nouveau ransomware baptisé « Spirals » montre à quelle vitesse une cyberattaque peut se dérouler aujourd'hui.
-- C'est ce qu'ont constaté les.
+- Annoncée le 14 janvier 2026, CELESTE, opérateur fibre, cloud et cybersécurité dédié aux entreprises, finalise l'évolution de son actionnariat avec.
 
-## [Réunion de haut niveau entre la Corée du Nord et la Chine pour discuter des moyens d ...](https://fr.yna.co.kr/view/MYH20260716012800884?section=video/videos)  
-*Source : fr.yna.co.kr | Publication : 2026-07-16*
+## [<b>Cybersécurité</b>: des pirates menacent une fondation genevoise - Blick](https://www.blick.ch/fr/suisse/romande/rancon-reclamee-les-pirates-dune-fondation-genevoise-de-formation-menacent-de-publier-des-informations-personnelles-tres-sensibles-id22116293.html)  
+*Source : blick.ch | Publication : 2026-07-17*
 
-- Réunion de haut niveau entre la Corée du Nord et la Chine pour discuter des moyens d'approfondir les liens 16.07.2026 à 15h17 replay time00:39 SEOUL, 16 juil.
-- -- Le secrétaire du Comité central du Parti du travail de la Corée du Nord, Jo Yong-won, s'est entretenu avec Wang Huning, le président de la Conférence consultative politique du peuple chinois (CCPPC), actuellement en visite à Pyongyang à la tête d'une délégation à l'occasion du 65e anniversaire de la signature du Traité d'amitié, de coopération et d'assistance mutuelle entre la Corée du Nord et la Chine, a rapporté ce jeudi l'Agence centrale de presse nord-coréenne (KCNA).
-- Au cours de leur réunion qui s'est tenue hier au Hall de l'Assemblée à Pyongyang, ils ont discuté des moyens de renforcer les échanges et la coopération entre les deux pays.
-- «La situation politique internationale actuelle, en mutation rapide, exige que les deux pays renforcent davantage leur unité militante, leur soutien et leur solidarité et continuent à intensifier et développer leurs relations d'amitié et de coopération en se basant sur l'esprit fondamental du Traité d'amitié, de coopération et d'assistance mutuelle entre la RPDC (République populaire démocratique de Corée et la Chine», a déclaré Jo.
+- Le piratage de l’Ifage, fondation genevoise de formation des adultes, prend une ampleur inquiétante.
+- Selon la «Tribune de Genève», le groupe de cybercriminels DragonForce affirme avoir dérobé 850 gigaoctets de données à la fondation genevoise de formation des adultes.
+- Sur son site du dark web, il affiche le logo de l’institution et un compte à rebours de cinq jours avant une possible publication des fichiers.
+- L’attaque remonte au 11 et 12 avril et avait été détectée le lendemain.
 
-## [Pegasus : la France a-t-elle envisagé d'acquérir le logiciel espion israélien alors que des ...](https://www.sudouest.fr/economie/cybersecurite/pegasus-la-france-a-t-elle-envisage-d-acquerir-le-logiciel-espion-israelien-alors-que-des-ministres-avaient-ete-cibles-29953640.php)  
-*Source : sudouest.fr | Publication : 2026-07-16*
+## [Conversation sur la <b>cybersécurité</b> | Paperjam News](https://paperjam.lu/article/conversation-sur-la-cybersecurite)  
+*Source : paperjam.lu | Publication : 2026-07-17*
 
-- De nouvelles révélations du consortium Forbidden Stories indiquent que l’État français a étudié l’achat du logiciel Pegasus entre 2019 et 2020, alors même que des membres du gouvernement étaient ciblés Cinq ans après le scandale Pegasus, de nouvelles enquêtes publiées jeudi par le consortium Forbidden Stories relancent l’affaire en révélant que la France avait étudié l’acquisition du logiciel espion israélien au moment même où des ministres auraient été ciblés.
+- Selon un rapport publié par l'entreprise de cybersécurité eSentire, le coût mondial de la cybercriminalité devrait atteindre 10 500 milliards de dollars (environ 9 600 milliards d'euros) en 2025.
+- À cela s'ajoute le coût moyen d'une violation de données, estimé à 4,35 millions de dollars (près de 4 millions d'euros).
+- Dans ce contexte, le secteur financier est plus que jamais appelé à renforcer ses approches en matière de cybersécurité.
+- Le dernier épisode du podcast NextGen Finance de l'ALFI réunit Koen Maris, Advisory Partner et Cybersecurity Leader chez PwC Luxembourg, et David Morgan, Information Security Officer chez Talan Luxembourg.
 
-## [Étude : l'identité, vecteur dominant des cyberattaques - LeMagIT](https://www.lemagit.fr/actualites/366646012/Etude-lidentite-vecteur-dominant-des-cyberattaques)  
-*Source : lemagit.fr | Publication : 2026-07-16*
+## [Nouvelles attaques DDoS : pourquoi les RSSI veulent en faire un sujet de gouvernance ...](https://www.alliancy.fr/nouvelles-attaques-ddos-pourquoi-les-rssi-veulent-en-faire-un-sujet-de-gouvernance-plutot-que-de-reseau-b17598cc-fd1e-4e88-a8be-effe05adef6b)  
+*Source : alliancy.fr | Publication : 2026-07-17*
 
-- Celt Studio - stock.adobe.com Étude : l'identité, vecteur dominant des cyberattaques Selon l'édition 2026 de l'étude de Sophos sur l'état de la menace des rançongiciels, l'identité supplante les vulnérabilités.
-- Les failles organisationnelles demeurent le point de bascule des attaques.
-- Sophos a interrogé 2 158 responsables informatique et cybersécurité dans 17 pays.
-- Selon eux, l'exploitation des vulnérabilités, qui constituaient la cause principale des cyberattaques au cours des trois années précédentes, ont cédé la place aux vecteurs basés sur l'identité.
+- Risques cyber Nouvelles attaques DDoS : pourquoi les RSSI veulent en faire un sujet de gouvernance plutôt que de réseau Comment faire évoluer la protection DDoS d'un sujet technique vers un véritable levier de continuité d'activité ?.
+- C'est la question qui a réuni, chez Alliancy, un peu plus d'une dizaine de responsables cybersécurité issus de secteurs régulés.
+- Début juillet, Alliancy organisait dans ses locaux une rencontre pour alimenter ses travaux menés sur la transformation des attaques par déni de service.
+- Animée par Djilali Kies, Ecosystem Advisor Alliancy, cette session, en partenariat avec IMS Networks, a permis aux participants de confronter leurs retours d’expérience et leurs pratiques, quels que soient les niveaux de maturité des organisations représentées.
 
-## [Deux « Scattered Spider » britanniques condamnés à de la prison - LeMagIT](https://www.lemagit.fr/actualites/366645938/Deux-Scattered-Spider-britanniques-condamnes-a-de-la-prison)  
-*Source : lemagit.fr | Publication : 2026-07-16*
+## [Ifage: des pirates réclament une rançon après le vol de données - Tribune de Genève](https://www.tdg.ch/ifage-des-pirates-reclament-une-rancon-apres-le-vol-de-donnees-517727310501)  
+*Source : tdg.ch | Publication : 2026-07-17*
 
-- Ekaterina Pokrovsky - stock.adob Deux « Scattered Spider » britanniques condamnés à de la prison Owen Flowers et Thalha Jubair, les hackers derrière la cyberattaque de 2024 contre la régie des transports en commun de Londres, ont été condamnés à cinq ans de prison au Woolwich Crown Court.
-- Deux membres du collectif de hackers Scattered Spider, Owen Flowers et Thalha Jubair, âgés respectivement de 18 et 20 ans, ont été condamnés à cinq ans et six mois de prison au Woolwich Crown Court à Londres pour leur implication dans la cyberattaque de 2024 contre la régie des transports en communs de Londres, Transport for London (TfL).
-- L'attaque contre les systèmes de TfL a débuté par une ingénierie sociale ciblant le service d'assistance de l'organisation, un mode opératoire signature de Scattered Spider.
-- Bien qu'elle n'ait pas interrompu les réseaux de métro ou de bus de Londres, elle a provoqué de graves perturbations des services techniques, tels que les comptes de paiement Oyster des clients et les API tierces.
+- Abo CybersÃ©curitÃ© Ã GenÃ¨ve Trois mois aprÃ¨s une intrusion au sein de la fondation, des hackers affirment dÃ©tenir un imposant volume de donnÃ©es, quâils menacent de publier.
+- En bref: Des pirates rÃ©clament une ranÃ§on Ã lâIfage aprÃ¨s avoir volÃ© 850Â gigaoctets de donnÃ©es.
+- - Un compte Ã rebours de cinq jours presse la fondation genevoise de formation des adultes Ã payer.
+- - Les donnÃ©es dÃ©robÃ©es pourraient contenir des informations personnelles trÃ¨s sensibles.
 
-## [OXFORD : <b>Cybersécurité</b> - Sophos lance Fusion, sa réponse unifiée aux menaces pilotées par l'IA](https://presseagence.fr/oxford-cybersecurite-sophos-lance-fusion-sa-reponse-unifiee-aux-menaces-pilotees-par-lia/)  
-*Source : presseagence.fr | Publication : 2026-07-16*
+## [après l'X, Laura Chaubard met le cap sur Sopra Steria, acteur majeur de la tech européenne](https://www.usinenouvelle.com/eco-social/formation/ecoles/elle-pilotera-les-activites-liees-au-renseignement-et-a-la-cybersecurite-apres-lx-laura-chaubard-met-le-cap-sur-sopra-steria-acteur-majeur-de-la-tech-europeenne.HRRO52FHSZCUDDGF5VBEJI5WD4.html)  
+*Source : usinenouvelle.com | Publication : 2026-07-17*
 
-- OXFORD : Cybersécurité – Sophos lance Fusion, sa répo… Partager : OXFORD : Cybersécurité – Sophos lance Fusion, sa réponse unifiée aux menaces pilotées par l’IA Sophos lance Fusion, un système de cyberdéfense unifié et piloté par l’IA, pour contrer la vitesse et la complexité des cyberattaques modernes.
-- OXFORD (Royaume-Uni) – L’acteur mondial de la cybersécurité Sophos a annoncé ce jeudi 16 juillet 2026 le lancement de Sophos Fusion, un système de cyberdéfense présenté comme le plus complet du marché, nativement conçu pour l’ère de l’intelligence artificielle.
-- Cette nouvelle architecture vise à orchestrer une réponse coordonnée et automatisée face à des menaces dont la rapidité et la sophistication sont démultipliées par l’IA.
-- Dans un contexte où les attaques peuvent se propager en quelques heures seulement, Sophos Fusion unifie les opérations de sécurité, les terminaux, le réseau, les identités, la messagerie et le cloud au sein d’une plateforme unique et ouverte.
+- Elle pilotera les activités liées au renseignement et à la cybersécurité ... cybersécurité ou encore les applications spatiales.
+- Le secteur est.
 
-## [Disney réclamait 16 millions d'euros à ce technicien du site pirate Uptobox, la justice ... - Clubic](https://www.clubic.com/actualite-621454-disney-reclamait-16-millions-d-euros-a-ce-technicien-du-site-pirate-uptobox-la-justice-francaise-donne-son-verdict.html)  
-*Source : clubic.com | Publication : 2026-07-16*
+## [Pourquoi le smishing (phishing par SMS) affiche un taux de réussite jusqu'à 5 fois supérieur ...](https://www.futura-sciences.com/tech/questions-reponses/cybersecurite-smishing-phishing-sms-affiche-taux-reussite-jusqua-5-fois-superieur-phishing-e-mail-25661/)  
+*Source : futura-sciences.com | Publication : 2026-07-17*
 
-- Disney réclamait 16 millions d'euros à un technicien accusé d'être codirigeant de fait d'Uptobox, plateforme de piratage tristement célèbre.
-- La cour d'appel de Paris a tranché le 2 juillet 2026, en revoyant la note.
-- Au fil des années, la plateforme de stockage et de streaming de fichiers Uptobox s'était imposée comme l'un des repaires favoris des amateurs de séries et de films piratés en France.
-- Excédé de voir son catalogue circuler illégalement sur ce service, The Walt Disney Company a cherché à en faire payer l'un des piliers techniques, allant jusqu'à faire geler ses comptes bancaires.
+- Reconnaissance vocale contournée, faux conseillers bancaires, appels silencieux : voici comment l'intelligence artificielle permet aujourd'hui de fabriquer une voix humaine crédible en quelques secondes, et pourquoi les dispositifs d'authentification vocale des banques peinent à s'en protéger.
+- Lire la suite Si le phishing par e-mail reste la menace la plus connue du grand public, ce n'est par pour autant la plus efficace.
+- Les campagnes de smishing affichent des taux de clic compris entre 8,9 % et 14,5 %, contre environ 2 % pour l'e-mail selon les données 2026 les plus récentes, soit un écart pouvant atteindre 5 à 7 fois en faveur du SMS.
+- Ce format, longtemps perçu comme secondaire face à l'e-mail, est aujourd'hui responsable de près de 35 % de l'ensemble des attaques de phishing, avec une progression de 40 % sur un an.
 
-## [Le Canada signe la Convention des Nations Unies contre la <b>cybercriminalité</b>](https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/07/le-canada-signe-la-convention-des-nations-unies-contre-la-cybercriminalite.html)  
-*Source : canada.ca | Publication : 2026-07-16*
+## [Antivirus Norton 360 Deluxe, suite complète à prix réduit - Clubic](https://www.clubic.com/bons-plans-620734-jusqu-a--63-de-remise-qu-attendez-vous-pour-choisir-cet-antivirus.html)  
+*Source : clubic.com | Publication : 2026-07-17*
 
-- Le Canada signe la Convention des Nations Unies contre la cybercriminalité Communiqué de presse Le 16 juillet 2026 - Ottawa (Ontario) - Affaires mondiales Canada La ministre des Affaires étrangères, l’honorable Anita Anand, le ministre de la Sécurité publique, l’honorable Gary Anandasangaree, et le ministre de la Justice et procureur général du Canada et ministre responsable de l’Agence de promotion économique du Canada atlantique, l’honorable Sean Fraser, ont annoncé aujourd’hui que le Canada avait signé la Convention des Nations Unies contre la cybercriminalité intitulée « Renforcement de la coopération internationale pour la lutte contre certaines infractions commises au moyen de systèmes d’information et de communication et pour la communication de preuves sous forme électronique d’infractions graves ».
-- La signature de cette convention par le Canada témoigne de son engagement à collaborer avec ses alliés et partenaires pour lutter contre la criminalité transnationale, qui menace la prospérité économique et la sécurité des Canadiens et de leurs entreprises.
-- Ce traité historique fournit un fondement juridique à la coopération internationale dans la lutte contre la cybercriminalité.
-- Il représente une avancée significative pour aider les pays du monde entier à protéger leurs populations contre les cybercriminels et à apporter un soutien aux victimes.
+- Avec l’un des meilleurs antivirus du marché pour vous aider au quotidien, vous vous placez entre de bonnes mains en compagnie de Norton pour cet été.
+- Sa suite de cybersécurité Norton 360 Deluxe vous permet de compter sur une solution complète pour vous accompagner vers un monde numérique plus sûr.
+- Cela, aussi bien pour les petits que les plus grands, avec des fonctionnalités adaptées sur les ordinateurs, les smartphones, et les tablettes.
+- Et comme une bonne nouvelle ne vient jamais seule, vous pouvez faire de belles économies grâce à cette réduction en cours, calculée sur le prix de renouvellement.
 
-## [Les entreprises suisses adoptent l'intelligence artificielle - investir.ch](https://www.investir.ch/2026/07/les-entreprises-suisses-adoptent-lintelligence-artificielle/)  
-*Source : investir.ch | Publication : 2026-07-16*
+## [Coca-Cola interrompt la production de Fairlife aux États-Unis après une attaque par <b>ransomware</b>.](https://fr.qz.com/coca-cola-fairlife-attaque-ransomware-arrt-production-071726)  
+*Source : fr.qz.com | Publication : 2026-07-17*
 
-- Une nouvelle étude de l’Abilene Academy révèle que, dans le canton suisse le moins préparé en matière de cybersécurité, on recense près de six postes vacants dans l’IA pour chaque poste dédié à la cybersécurité.
-- Cette situation suscite des inquiétudes : les organisations étendent rapidement leur empreinte numérique sans investir suffisamment dans les dispositifs de sécurité indispensables à leur protection.
-- Ces résultats interviennent alors que, selon Deloitte, 53% des dirigeants suisses ont déjà intégré l’IA dans leurs processus de travail.
-- Pour mener cette étude, les experts en conformité et cybersécurité d’Abilene Academy ont analysé les offres d’emploi publiées sur Glassdoor dans les domaines de l’intelligence artificielle et de la cybersécurité, couvrant 13 cantons suisses.
+- L'attaque a donné à un tiers non autorisé l'accès aux systèmes liés à la production de Fairlife ; les opérations canadiennes ne sont pas affectées.
+- La société a déclaré avoir détecté l'accès non autorisé et activé les protocoles de réponse aux incidents et de continuité des activités.
+- Coca-Cola travaille avec des conseillers externes et des experts en cybersécurité et a informé les autorités, a-t-elle indiqué.
+- L'ampleur et l'impact complets de l'attaque sont encore en cours d'investigation.
