@@ -1,151 +1,150 @@
-# Résumés – 2026-07-17
+# Résumés – 2026-07-18
 
 
-## [Clover Health annonce un incident de <b>cybersécurité</b> ayant affecté trois comptes d'employés](https://ch.zonebourse.com/actualite-bourse/clover-health-annonce-un-incident-de-cybersecurite-ayant-affecte-trois-comptes-d-employes-ce7f51dadd8ef02c)  
-*Source : ch.zonebourse.com | Publication : 2026-07-17*
+## [Marchés publics pour le Centre pour la <b>cybersécurité</b> | News.belgium](https://news.belgium.be/fr/marches-publics-pour-le-centre-pour-la-cybersecurite)  
+*Source : news.belgium.be | Publication : 2026-07-18*
 
-- Clover Health annonce un incident de cybersécurité ayant affecté trois comptes d'employésClover Health Investments a déclaré vendredi avoir identifié un incident de cybersécurité au cours duquel un acteur malveillant a accédé à trois comptes d'employés non cadres via une.
+- sur les cybermenaces sont partagés vers les opérateurs Network and Information Security (NIS) essentiels et importants.
+- Le marché en cours.
 
-## [Fourthline et Veridas fusionnent - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/65098-fourthline-et-veridas-fusionnent.html)  
-*Source : linformaticien.com | Publication : 2026-07-17*
+## [VINCI propose pour All for One : l'intégration réseau rencontre la SAP Cloud](https://www.cloudmagazin.com/fr/2026/07/18/vinci-propose-des-solutions-pour-le-reseau-all-for-one/)  
+*Source : cloudmagazin.com | Publication : 2026-07-18*
 
-- Ransomware : les jours d'après · Cybersécurité · Fourthline et Veridas fusionnent.
-- Détails: Bertrand Garé: 17 juillet 2026.
-- L'éditeur de solutions de.
+- VINCI propose pour All for One : l’intégration réseau rencontre la SAP Cloud VINCI Energies va racheter All for One et intégrera la solution SAP Cloud à l’infrastructure d’Axians.
+- VINCI Energies va reprendre All for One et regroupe ainsi l’un des plus grands prestataires SAP du Mittelstand allemand avec la marque ICT Axians.
+- Pour les architectes Cloud, cela crée un fournisseur qui s’étend de la fibre optique jusqu’à la S/4HANA Cloud.
+- La véritable question est de savoir si une chaîne d’approvisionnement continue vaut le prix de la nouvelle dépendance.
 
-## [Nouvelles attaques DDoS : pourquoi les RSSI veulent en faire un sujet de gouvernance ...](https://alliancy.fr/nouvelles-attaques-ddos-pourquoi-les-rssi-veulent-en-faire-un-sujet-de-gouvernance-plutot-que-de-reseau-b17598cc-fd1e-4e88-a8be-effe05adef6b)  
-*Source : alliancy.fr | Publication : 2026-07-17*
+## [Grâce à Gemini, Google scrute le dark web pour anticiper les <b>cybermenaces</b> avant les attaques](https://www.science-et-vie.com/technos-et-futur/grace-a-gemini-google-scrute-le-dark-web-pour-anticiper-les-cybermenaces-avant-les-attaques-233155.html)  
+*Source : science-et-vie.com | Publication : 2026-07-18*
 
-- Risques cyber Nouvelles attaques DDoS : pourquoi les RSSI veulent en faire un sujet de gouvernance plutôt que de réseau Comment faire évoluer la protection DDoS d'un sujet technique vers un véritable levier de continuité d'activité ?.
-- C'est la question qui a réuni, chez Alliancy, un peu plus d'une dizaine de responsables cybersécurité issus de secteurs régulés.
-- Début juillet, Alliancy organisait dans ses locaux une rencontre pour alimenter ses travaux menés sur la transformation des attaques par déni de service.
-- Animée par Djilali Kies, Ecosystem Advisor Alliancy, cette session, en partenariat avec IMS Networks, a permis aux participants de confronter leurs retours d’expérience et leurs pratiques, quels que soient les niveaux de maturité des organisations représentées.
+- Grâce à Gemini, Google scrute le dark web pour anticiper les cybermenaces avant les attaques Avec l'IA Gemini, Google explore le dark web pour détecter les menaces avant qu'elles ne frappent les entreprises.
+- [Article initialement publié le 31 mars 2026] Google surveille le dark web à une échelle jusqu'ici inédite.
+- Présenté à la conférence RSAC 2026 de San Francisco, le nouveau service de renseignement sur les menaces du géant américain repose sur Gemini, son modèle d'intelligence artificielle le plus avancé.
+- Intégré à Google Threat Intelligence, il analyse en continu les forums et marchés clandestins du dark web.
 
-## [Une faille des aspirateurs Shark expose les plans de milliers de logements sur internet](https://www.generation-nt.com/actualites/aspirateur-robot-shark-faille-securite-donnees-personnelles-cybersecurite-2078824)  
-*Source : generation-nt.com | Publication : 2026-07-17*
+## [Le Kenya enquête sur un incident de <b>cybersécurité</b> ciblant le site internet de la présidence](https://www.zonebourse.com/actualite-bourse/le-kenya-enquete-sur-un-incident-de-cybersecurite-ciblant-le-site-internet-de-la-presidence-ce7f51dadf8df620)  
+*Source : zonebourse.com | Publication : 2026-07-18*
 
-- Le monde de la domotique est de nouveau secoué par un scandale de sécurité.
-- Après les cas de DJI et Ecovacs, c'est au tour de la marque Shark de se retrouver sous le feu des projecteurs.
-- Un chercheur en cybersécurité, connu sous le pseudonyme tokay0, a mis en lumière une vulnérabilité d'une ampleur considérable qui affecte potentiellement plus de 670 000 appareils.
-- Le problème ne réside pas dans un code malveillant complexe, mais dans une simple erreur de configuration aux conséquences désastreuses.
+- Le ministère kényan de l'Information, des Communications et de l'Économie numérique a annoncé samedi l'ouverture d'une enquête suite à un incident de cybersécurité ayant affecté le site officiel de la présidence.
+- Le ministère a précisé qu'aucune preuve d'accès non autorisé à des données sensibles ou de perte d'informations n'avait été établie à ce stade.
+- Selon le ministère, l'incident a été détecté par l'Autorité des technologies de l'information et de la communication (ICT Authority) du gouvernement.
+- Celle-ci a immédiatement activé les protocoles de réponse en matière de cybersécurité et a temporairement restreint l'accès au site présidentiel afin de circonscrire le problème et de permettre la réalisation d'investigations médico-légales.
 
-## [IA fantôme en entreprise, entre risque cyber et apprentissage non encadré - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/ia-fantome-en-entreprise-entre-risque-cyber-et-apprentissage-non-encadre/)  
-*Source : itsocial.fr | Publication : 2026-07-17*
+## [IBM Prévoit un Deuxième Trimestre Faible tandis que les Dépenses en IA Se Déplacent ... - Binance](https://www.binance.com/fr/square/post/346118106210130)  
+*Source : binance.com | Publication : 2026-07-18*
 
-- L’IA fantôme, l’usage d’outils d’intelligence artificielle non validés par la direction informatique, s’installe dans les entreprises françaises et européennes.
-- Plusieurs études récentes la désignent comme le premier risque humain du moment, portée par des salariés qui adoptent l’IA plus vite que leur organisation ne l’encadre.
-- Une autre lecture des mêmes chiffres montre pourtant un apprentissage de terrain, symptôme d’un déficit d’outils et de formation davantage que d’une intention cachée.
-- Près de deux salariés sur trois utilisent des outils d’IA non autorisés dans le cadre de leur travail.
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
 
-## [NestAI entraîne des modèles d'IA pour la défense européenne - Nordic Defence Sector](https://nordicdefencesector.com/fr/article/nestai-trains-ai-models-for-europes-defence)  
-*Source : nordicdefencesector.com | Publication : 2026-07-17*
+## [Le FBI a arrêté un homme pour avoir vidé des portefeuilles crypto via des jeux Steam](https://www.clubic.com/actualite-621880-fbi-un-homme-arrete-pour-avoir-vide-des-portefeuilles-crypto-via-des-jeux-steam.html)  
+*Source : clubic.com | Publication : 2026-07-18*
 
-- La société finlandaise de technologie de défense NestAI commence à entraîner ses propres modèles d'intelligence artificielle pour le champ de bataille.
-- Les forces armées de Finlande et d'Estonie deviendront les premiers utilisateurs pilotes de ces modèles, développés pour l'autonomie des systèmes sans pilote et pour le commandement des forces.
-- « Il n'existe pas d'intelligence artificielle générale qui fonctionne toujours dans tous les environnements.
-- Il n'existe pas non plus de modèle unique qui résout tous les problèmes ; cela exige un développement continu », déclare Peter Sarlin, fondateur et président du conseil d'administration de NestAI, au journal des Forces de défense finlandaises (Puolustusvoimat) Ruotuväki.
+- Le FBI a arrêté Zyaire Wilkins, étudiant de 21 ans en Floride, mardi.
+- Les procureurs l’accusent d’avoir publié sur Steam plusieurs jeux vidéo truffés de malwares entre 2024 et 2026, qui ont infecté environ 8 000 victimes et vidé près d’une centaine de portefeuilles cryptos, pour un préjudice estimé à 192 000 euros.
+- Jusqu’à tout récemment, Zyaire Wilkins vivait et poursuivait ses études en Floride.
+- Mais le FBI l’a interpellé le 14 juillet et le lendemain, les procureurs fédéraux l’ont inculpé, avec plusieurs complices non identifiés, pour piratage informatique.
 
-## [Avec Perception, Microsoft préparerait un concurrent moins cher à Claude Mythos - Next.ink](https://next.ink/brief-article/avec-perception-microsoft-preparerait-un-concurrent-moins-cher-a-claude-mythos/)  
-*Source : next.ink | Publication : 2026-07-17*
+## [Kenya : le site officiel de la présidence piraté, des hackers réclament une rançon en Bitcoin](https://www.aa.com.tr/fr/afrique/kenya-le-site-officiel-de-la-présidence-piraté-des-hackers-réclament-une-rancon-en-bitcoin/4002284)  
+*Source : aa.com.tr | Publication : 2026-07-18*
 
-- Avec Perception, Microsoft préparerait un concurrent moins cher à Claude Mythos 3 min IA et algorithmes.
-- Depuis mai, Microsoft s’agite dans le domaine de la cybersécurité.
-- Mi-mai, l’entreprise a ainsi présenté son système MDASH, pour « Microsoft Security multi-model agentic scanning harness ».
-- Il s’agit d’un réseau d’une centaine d’agents travaillant à partir d’un mix de modèles pour débusquer les failles de sécurité dans le code.
+- Le gouvernement affirme que les équipes de cybersécurité enquêtent après le piratage temporaire du portail de la présidence.
 
-## [<b>Ransomware</b> : du webshell au chiffrement, le parcours de Spirals | LeMagIT](https://www.lemagit.fr/actualites/366645982/Ransomware-du-webshell-au-chiffrement-le-parcours-de-Spirals)  
-*Source : lemagit.fr | Publication : 2026-07-17*
+## [<b>Cybersécurité</b> au Maroc: la maturité des entreprises a grimpé de 49% à 56% en un an | le360.ma](https://fr.le360.ma/economie/cybersecurite-au-maroc-la-maturite-des-entreprises-a-grimpe-de-49-a-56-en-un-an_2TQTBFANCZFKLBKOLXXEGIEQM4/)  
+*Source : fr.le360.ma | Publication : 2026-07-18*
 
-- Ransomware : du webshell au chiffrement, le parcours de Spirals Spirals est un rançongiciel sophistiqué, développé en Rust, déployé lors d'une attaque à double extorsion contre une société de services informatiques en Asie du Sud.
-- Son site vitrine n'a pas encore été localisé.
-- Tout a commencé par la compromission d'un serveur IIS exposé à Internet.
-- C'est ainsi que l'accès initial a pu être établir.
+- La cybersécurité n’est plus une fonction purement technique dans les entreprises marocaines.
+- Elle devient un enjeu de gouvernance, de continuité de l’activité et de compétitivité.
+- C’est le principal enseignement de l’AUSIMètre 2026, une étude menée par l’AUSIM (l’Association des utilisateurs des systèmes d’information au Maroc) en partenariat avec PwC auprès de 62 organisations, entre le 4 janvier et le 31 mars 2026.
+- Selon le rapport, l’indice global de maturité cyber du Maroc est passé de 49% en 2025 à 56% en 2026, soit une progression de 14%.
 
-## [<b>Cybersécurité</b> : le Maroc est-il prêt face aux nouvelles menaces - Lebrief.ma](https://www.lebrief.ma/cybersecurite-le-maroc-est-il-pret-face-aux-nouvelles-menaces-100160306/)  
-*Source : lebrief.ma | Publication : 2026-07-17*
+## [Budget revu à la hausse, Casablanca-Settat relance la quête de l'architecte de son système ...](https://ledesk.ma/enoff/budget-revu-a-la-hausse-casablanca-settat-relance-la-quete-de-larchitecte-de-son-systeme-dinformation/)  
+*Source : ledesk.ma | Publication : 2026-07-18*
 
-- Cybersécurité : le Maroc est-il prêt face aux nouvelles menaces ?.
-- Affiche de l'AUSIMètre 2026 © LeBrief.
-- La cybersécurité n’est plus un sujet réservé aux directions informatiques.
-- Elle est désormais devenue une question de gouvernance, de souveraineté et de compétitivité.
+- Régions Budget revu à la hausse, Casablanca-Settat relance la quête de l’architecte de son système d’information Le Wali da Casablanca-Settat, Mohamed Mhidia, et le président de la région, Abdellatif Maâzouz.
+- (Crédit : MAP) La Région Casablanca-Settat remet sur les rails son projet de système d’information régional intégré.
+- Déjà mis en jeu à l’automne 2025 sans parvenir à son terme, le chantier fait l’objet d’une nouvelle consultation, assortie cette fois d’un budget revu à la hausse et d’un périmètre fonctionnel sensiblement élargi.
+- Abonnez-vous pour continuer la lecture à partir de 40 dh par mois (facturé annuellement) Choisir une offreLe Desk a été le premier à révéler Choisir une offre Déjà abonné ?.
 
-## [Polymarket : la France bloque l'accès au site de paris d'actualité depuis son territoire](https://www.ouest-france.fr/high-tech/polymarket-la-france-bloque-lacces-au-site-de-paris-dactualite-depuis-son-territoire-be865444-81df-11f1-ae6f-a09f3d00f0f8)  
-*Source : ouest-france.fr | Publication : 2026-07-17*
+## [Développer le marché des actifs tokenisés de manière sûre et encadrée](https://lecourrier.vn/developper-le-marche-des-actifs-tokenises-de-maniere-sure-et-encadree/1351635.html)  
+*Source : lecourrier.vn | Publication : 2026-07-18*
 
-- cybercriminalité du parquet de Paris, confiée à l'Office anti- cybercriminalité.
-- Le 6 juillet, des parieurs se sont enrichis en voyant couler des.
+- >> Le Vietnam voit dans les actifs numériques un nouveau moteur de croissance >> Garantir l’intégrité des données et la souveraineté nationale des actifs numériques Le Vietnam n'entend pas développer le marché des actifs tokenisés à tout prix, mais privilégie une approche sûre et encadrée, fondée sur un cadre juridique solide, un renforcement des capacités de gestion et la mise en place d'infrastructures adaptées afin de saisir les opportunités offertes par les flux mondiaux de capitaux numériques.
+- Tel est le message mis en avant par Bùi Hoàng Hai, vice-président de la Commission d'État des valeurs mobilières (SSC), lors de l'ouverture, le 18 juillet à Hanoï, du premier Vietnam RWA Summit 2026, consacré à la tokenisation des actifs réels (Real World Assets - RWA).
+- Placée sous le thème "La tokenisation des actifs réels : des solutions pour saisir les opportunités d'un marché de plusieurs milliards de dollars", cette conférence est organisée par l'Association vietnamienne de la blockchain et des actifs numériques (VBA), en coopération avec l'Association nationale de cybersécurité (NCA) et l'Association vietnamienne de l'immobilier (VNREA), sous le patronage scientifique de la Commission d'État des valeurs mobilières.
+- L'événement vise à instaurer une plateforme de dialogue entre les pouvoirs publics et les acteurs du marché, à renforcer les liens au sein de l'écosystème, à accélérer l'élaboration du cadre juridique, à attirer les investissements internationaux et à faire progressivement du Vietnam un pôle régional de la tokenisation des actifs réels pour la période 2026-2030.
 
-## [La France bloque l'accès au site de paris sur l'actualité Polymarket - TV5MONDE Info](https://information.tv5monde.com/economie/la-france-bloque-lacces-au-site-de-paris-sur-lactualite-polymarket-2830579?amp)  
-*Source : information.tv5monde.com | Publication : 2026-07-17*
+## [Fuite de données chez Armara, une attaque <b>ransomware</b> revendiquée - FrenchBreaches](https://frenchbreaches.com/alertes/armara-rw_UVhKdFlYSmhRSEZwYkdsdQ)  
+*Source : frenchbreaches.com | Publication : 2026-07-18*
 
-- La France bloque l'accès au site de paris sur l'actualité Polymarket Les autorités françaises ont décidé vendredi de bloquer l'accès au site américain de paris sur l'actualité Polymarket, sur lequel les transactions financières depuis la France étaient déjà interdites depuis novembre 2024, assimilant les informations accessibles à de la publicité pour une activité illégale.
-- S'il leur était impossible de parier, les internautes français avaient jusqu'ici encore accès à la page d'accueil qui affichait "en temps réel et de manière dynamique les cotes associées aux différents évènements susceptibles de faire l'objet de paris", selon le communiqué.
-- L'Autorité nationale des Jeux (ANJ), régulateur du secteur des jeux et paris en France, considère que cela peut être assimilé à de la publicité pour une activité non autorisée sur le territoire et a annoncé vendredi la fermeture de l'accès.
-- Polymarket est une plateforme de "marché de prédiction" où l'on peut parier sur des évènements quels qu'ils soient, des matchs de football mais aussi des élections présidentielles, des conflits internationaux et même le retour de Jésus.
+- Revendication de cyberattaque : Armara ajouté au site de fuite du groupe ransomware Qilin Le groupe de ransomware Qilin a ajouté Armara à sa plateforme de fuite et revendique une cyberattaque visant l'entreprise.
+- Selon les éléments visibles sur le site du groupe, une fiche dédiée à Armara a été publiée le 18 juillet 2026.
+- L'organisation y est catégorisée dans le secteur « Grocery Retail », correspondant au commerce de détail alimentaire.
+- À ce stade, la publication observée ne présente aucun échantillon de données et ne fournit aucune information détaillée sur la nature ou le volume d'éventuelles données prétendument exfiltrées.
 
-## [CELESTE finalise le changement de son actionnariat - L'1FO Tech par L'Informaticien](https://www.linformaticien.com/magazine/biz-it/65096-celeste-finalise-le-changement-de-son-actionnariat.html)  
-*Source : linformaticien.com | Publication : 2026-07-17*
+## [Polymarket : le site de jeu d'argent définitivement bloqué en France, voici pourquoi](https://www.phonandroid.com/polymarket-le-site-de-jeu-dargent-definitivement-bloque-en-france-voici-pourquoi.html)  
+*Source : phonandroid.com | Publication : 2026-07-18*
 
-- Annoncée le 14 janvier 2026, CELESTE, opérateur fibre, cloud et cybersécurité dédié aux entreprises, finalise l'évolution de son actionnariat avec.
+- Polymarket : le site de jeu d’argent définitivement bloqué en France, voici pourquoi Jouer vos économies sur le site Polymarket, c’est terminé.
+- L’Autorité nationale des jeux (ANJ) vient en effet d’ordonner le blocage du site de jeux d’argent.
+- Et les fournisseurs d’accès à Internet n’ont pas le choix.
+- En 2026, les jeux d’argent ne se déroulent plus uniquement dans les casinos luxueux de Las Vegas.
 
-## [<b>Cybersécurité</b>: des pirates menacent une fondation genevoise - Blick](https://www.blick.ch/fr/suisse/romande/rancon-reclamee-les-pirates-dune-fondation-genevoise-de-formation-menacent-de-publier-des-informations-personnelles-tres-sensibles-id22116293.html)  
-*Source : blick.ch | Publication : 2026-07-17*
+## [Cyberattaque russe France : Turla accusé, 12 pays [2026] - Tech Insider](https://tech-insider.org/fr/cyberattaque-russe-turla-france-2026/)  
+*Source : tech-insider.org | Publication : 2026-07-18*
 
-- Le piratage de l’Ifage, fondation genevoise de formation des adultes, prend une ampleur inquiétante.
-- Selon la «Tribune de Genève», le groupe de cybercriminels DragonForce affirme avoir dérobé 850 gigaoctets de données à la fondation genevoise de formation des adultes.
-- Sur son site du dark web, il affiche le logo de l’institution et un compte à rebours de cinq jours avant une possible publication des fichiers.
-- L’attaque remonte au 11 et 12 avril et avait été détectée le lendemain.
+- Publié le 18 juillet 2026.
+- Le 13 juillet 2026, la France a changé de ton face à Moscou.
+- Le ministre de l’Europe et des Affaires étrangères, Jean-Noël Barrot, a annoncé sur BFMTV-RMC que Paris allait convoquer l’ambassadeur de Russie et sanctionner neuf individus et quatre entités liés à une vaste campagne de cyberespionnage et de sabotage.
+- Selon les informations rapportées par Free Malaysia Today et Caliber.Az, cette opération viserait une douzaine de pays européens, dont la France et la Pologne, et serait pilotée par le FSB, le service de sécurité intérieure russe, via son unité d’élite connue sous le nom de Turla.
 
-## [Conversation sur la <b>cybersécurité</b> | Paperjam News](https://paperjam.lu/article/conversation-sur-la-cybersecurite)  
-*Source : paperjam.lu | Publication : 2026-07-17*
+## [Notaires : le Ministère Public et la CDG s'allient dans le digital - EcoActu.ma](https://ecoactu.ma/notaires-le-ministere-public-et-la-cdg-sallient-dans-le-digital/)  
+*Source : ecoactu.ma | Publication : 2026-07-18*
 
-- Selon un rapport publié par l'entreprise de cybersécurité eSentire, le coût mondial de la cybercriminalité devrait atteindre 10 500 milliards de dollars (environ 9 600 milliards d'euros) en 2025.
-- À cela s'ajoute le coût moyen d'une violation de données, estimé à 4,35 millions de dollars (près de 4 millions d'euros).
-- Dans ce contexte, le secteur financier est plus que jamais appelé à renforcer ses approches en matière de cybersécurité.
-- Le dernier épisode du podcast NextGen Finance de l'ALFI réunit Koen Maris, Advisory Partner et Cybersecurity Leader chez PwC Luxembourg, et David Morgan, Information Security Officer chez Talan Luxembourg.
+- Notaires : le Ministère Public et la CDG s’allient dans le digital Le siège de la Présidence du Ministère Public à Rabat a abrité, ce vendredi 17 juillet 2026, la cérémonie de signature d’un protocole d’accord entre la Présidence du Ministère Public et la Caisse de Dépôt et de Gestion, portant sur la digitalisation des notifications réglementaires relatives aux Notaires, conformément aux dispositions du décret d’application de l’article 33 de la loi n° 32.09 relative à l’organisation de la profession notariale.
+- La signature de ce protocole a été présidée par Hicham Balaoui, Procureur Général du Roi près la Cour de cassation, Président du Ministère Public, et Monsieur Khalid Safir, Directeur Général de la Caisse de Dépôt et de Gestion.
+- Ce protocole vise à instaurer un cadre de référence pour la coopération et la coordination entre les deux institutions.
+- Ce protocole permet d’organiser l’échange de données numériques et des notifications émises par la Caisse de Dépôt et de Gestion, relatives aux cas de non-conformité relevés dans le cadre des opérations de règlement réalisées par les notaires, conformément aux dispositions du décret d’application sus-cité.
 
-## [Nouvelles attaques DDoS : pourquoi les RSSI veulent en faire un sujet de gouvernance ...](https://www.alliancy.fr/nouvelles-attaques-ddos-pourquoi-les-rssi-veulent-en-faire-un-sujet-de-gouvernance-plutot-que-de-reseau-b17598cc-fd1e-4e88-a8be-effe05adef6b)  
-*Source : alliancy.fr | Publication : 2026-07-17*
+## [Wisekey: le groupe genevois veut transférer son siège juridique à l'étranger - 24 Heures](https://www.24heures.ch/wisekey-le-groupe-genevois-veut-transferer-son-siege-juridique-a-letranger-635207270974)  
+*Source : 24heures.ch | Publication : 2026-07-18*
 
-- Risques cyber Nouvelles attaques DDoS : pourquoi les RSSI veulent en faire un sujet de gouvernance plutôt que de réseau Comment faire évoluer la protection DDoS d'un sujet technique vers un véritable levier de continuité d'activité ?.
-- C'est la question qui a réuni, chez Alliancy, un peu plus d'une dizaine de responsables cybersécurité issus de secteurs régulés.
-- Début juillet, Alliancy organisait dans ses locaux une rencontre pour alimenter ses travaux menés sur la transformation des attaques par déni de service.
-- Animée par Djilali Kies, Ecosystem Advisor Alliancy, cette session, en partenariat avec IMS Networks, a permis aux participants de confronter leurs retours d’expérience et leurs pratiques, quels que soient les niveaux de maturité des organisations représentées.
+- SpÃ©cialiste de la cybersÃ©curitÃ© Lâentreprise entend Ã©galement fusionner avec sa filiale WISeKey BVI, cette derniÃ¨re devenant la maison mÃ¨re.
+- LâopÃ©ration vise notamment un meilleur accÃ¨s aux marchÃ©s internationaux.
+- Le spÃ©cialiste genevois de la cybersÃ©curitÃ© WISeKey a dÃ©posÃ© un document dâenregistrement auprÃ¨s de lâautoritÃ© amÃ©ricaine Securities and Exchange Commission (SEC).
+- Cette dÃ©marche vise Ã transfÃ©rer son siÃ¨ge juridique de la Suisse vers les Ã®les Vierges britanniques.
 
-## [Ifage: des pirates réclament une rançon après le vol de données - Tribune de Genève](https://www.tdg.ch/ifage-des-pirates-reclament-une-rancon-apres-le-vol-de-donnees-517727310501)  
-*Source : tdg.ch | Publication : 2026-07-17*
+## [Le Sénégal prépare un dispositif renforcé pour protéger ses infrastructures critiques](https://www.socialnetlink.org/2026/07/18/le-senegal-prepare-un-dispositif-renforce-pour-proteger-ses-infrastructures-critiques/)  
+*Source : socialnetlink.org | Publication : 2026-07-18*
 
-- Abo CybersÃ©curitÃ© Ã GenÃ¨ve Trois mois aprÃ¨s une intrusion au sein de la fondation, des hackers affirment dÃ©tenir un imposant volume de donnÃ©es, quâils menacent de publier.
-- En bref: Des pirates rÃ©clament une ranÃ§on Ã lâIfage aprÃ¨s avoir volÃ© 850Â gigaoctets de donnÃ©es.
-- - Un compte Ã rebours de cinq jours presse la fondation genevoise de formation des adultes Ã payer.
-- - Les donnÃ©es dÃ©robÃ©es pourraient contenir des informations personnelles trÃ¨s sensibles.
+- Le Sénégal continue de renforcer son dispositif de cybersécurité face à la recrudescence mondiale des cyberattaques et aux risques qu’elles font peser sur les services essentiels.
+- Le ministre des Télécommunications et du Numérique a présidé cette semaine, une réunion de concertation sur la sécurité des systèmes d’information des infrastructures critiques, une étape importante dans la préparation du futur cadre légal destiné à renforcer la protection des secteurs stratégiques du pays.
+- Autour de la table étaient assis des représentants des administrations publiques, des opérateurs privés et des structures qui exploitent des infrastructures indispensables au fonctionnement de l’État.
+- Cette rencontre avait pour but de préparer les divers acteurs aux nouvelles exigences qui accompagneront la mise en application de la future loi sur la protection des infrastructures critiques.
 
-## [après l'X, Laura Chaubard met le cap sur Sopra Steria, acteur majeur de la tech européenne](https://www.usinenouvelle.com/eco-social/formation/ecoles/elle-pilotera-les-activites-liees-au-renseignement-et-a-la-cybersecurite-apres-lx-laura-chaubard-met-le-cap-sur-sopra-steria-acteur-majeur-de-la-tech-europeenne.HRRO52FHSZCUDDGF5VBEJI5WD4.html)  
-*Source : usinenouvelle.com | Publication : 2026-07-17*
+## [Les 25 meilleures entreprises du marché des services gérés par Data Center](https://www.sphericalinsights.com/fr/blogs/world-s-top-25-companies-in-data-center-managed-services-market-2025-industry-intelligence-report-by-spherical-insights-2026-2035)  
+*Source : sphericalinsights.com | Publication : 2026-07-18*
 
-- Elle pilotera les activités liées au renseignement et à la cybersécurité ... cybersécurité ou encore les applications spatiales.
-- Le secteur est.
+- cybersécurité , l'augmentation de la charge de travail en matière d'intelligence artificielle et l'augmentation de la demande en infrastructures.
 
-## [Pourquoi le smishing (phishing par SMS) affiche un taux de réussite jusqu'à 5 fois supérieur ...](https://www.futura-sciences.com/tech/questions-reponses/cybersecurite-smishing-phishing-sms-affiche-taux-reussite-jusqua-5-fois-superieur-phishing-e-mail-25661/)  
-*Source : futura-sciences.com | Publication : 2026-07-17*
+## [Les 20 meilleures entreprises de solutions mondiales de protection des données et de ...](https://www.sphericalinsights.com/fr/blogs/top-20-companies-in-global-data-protection-and-recovery-solutions-market-statistics-report-till-2035)  
+*Source : sphericalinsights.com | Publication : 2026-07-18*
 
-- Reconnaissance vocale contournée, faux conseillers bancaires, appels silencieux : voici comment l'intelligence artificielle permet aujourd'hui de fabriquer une voix humaine crédible en quelques secondes, et pourquoi les dispositifs d'authentification vocale des banques peinent à s'en protéger.
-- Lire la suite Si le phishing par e-mail reste la menace la plus connue du grand public, ce n'est par pour autant la plus efficace.
-- Les campagnes de smishing affichent des taux de clic compris entre 8,9 % et 14,5 %, contre environ 2 % pour l'e-mail selon les données 2026 les plus récentes, soit un écart pouvant atteindre 5 à 7 fois en faveur du SMS.
-- Ce format, longtemps perçu comme secondaire face à l'e-mail, est aujourd'hui responsable de près de 35 % de l'ensemble des attaques de phishing, avec une progression de 40 % sur un an.
+- Alors que les entreprises privilégient la cybersécurité et que leurs entreprises gèrent le marché des solutions de protection et de récupération des.
 
-## [Antivirus Norton 360 Deluxe, suite complète à prix réduit - Clubic](https://www.clubic.com/bons-plans-620734-jusqu-a--63-de-remise-qu-attendez-vous-pour-choisir-cet-antivirus.html)  
-*Source : clubic.com | Publication : 2026-07-17*
+## [Sécurité des infrastructures numériques : le Sénégal parie sur une coopération public-privé](https://www.agenceecofin.com/actualites-numerique/1707-140296-securite-des-infrastructures-numeriques-le-senegal-parie-sur-une-cooperation-public-prive)  
+*Source : agenceecofin.com | Publication : 2026-07-18*
 
-- Avec l’un des meilleurs antivirus du marché pour vous aider au quotidien, vous vous placez entre de bonnes mains en compagnie de Norton pour cet été.
-- Sa suite de cybersécurité Norton 360 Deluxe vous permet de compter sur une solution complète pour vous accompagner vers un monde numérique plus sûr.
-- Cela, aussi bien pour les petits que les plus grands, avec des fonctionnalités adaptées sur les ordinateurs, les smartphones, et les tablettes.
-- Et comme une bonne nouvelle ne vient jamais seule, vous pouvez faire de belles économies grâce à cette réduction en cours, calculée sur le prix de renouvellement.
+- (Agence Ecofin) - Les pays africains misent sur le numérique pour accélérer leur développement socio‑économique.
+- Cependant, l’Union internationale des télécommunications (UIT) rappelle que ces ambitions exigent des investissements massifs en cybersécurité.
+- Les autorités privilégient une coopération renforcée entre les acteurs publics et privés pour consolider la sécurité des infrastructures numériques critiques nationales.
+- L’initiative vise à garantir la résilience des systèmes essentiels au fonctionnement du pays face à la montée des cybermenaces.
 
-## [Coca-Cola interrompt la production de Fairlife aux États-Unis après une attaque par <b>ransomware</b>.](https://fr.qz.com/coca-cola-fairlife-attaque-ransomware-arrt-production-071726)  
-*Source : fr.qz.com | Publication : 2026-07-17*
+## [Wisekey va fusionner avec sa filiale BVI et transférer son siège - La Télé](https://latele.ch/articles/wisekey-va-fusionner-avec-wisekey-bvi-et-transferer-son-siege)  
+*Source : latele.ch | Publication : 2026-07-18*
 
-- L'attaque a donné à un tiers non autorisé l'accès aux systèmes liés à la production de Fairlife ; les opérations canadiennes ne sont pas affectées.
-- La société a déclaré avoir détecté l'accès non autorisé et activé les protocoles de réponse aux incidents et de continuité des activités.
-- Coca-Cola travaille avec des conseillers externes et des experts en cybersécurité et a informé les autorités, a-t-elle indiqué.
-- L'ampleur et l'impact complets de l'attaque sont encore en cours d'investigation.
+- Wisekey va fusionner avec sa filiale BVI et transférer son siège Cybersécurité - GE Le spécialiste genevois de la cybersécurité Wisekey a déposé un document d'enregistrement auprès de l'autorité américaine Securities and Exchange Commission (SEC).
+- Cette démarche vise à transférer son siège juridique de la Suisse vers les Iles Vierges britanniques.
+- Wisekey va en outre fusionner avec sa filiale Wisekey BVI qui deviendra la maison-mère du groupe, a annoncé l'entreprise vendredi soir.
+- L'opération est soumise à plusieurs conditions, dont l'accord des actionnaires, l'entrée en force du document par la SEC et les autorisations de cotation du Nasdaq et de SIX Swiss Exchange.
