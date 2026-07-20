@@ -1,150 +1,151 @@
-# Résumés – 2026-07-19
+# Résumés – 2026-07-20
 
 
-## [Criminalité financière: le Maroc muscle sa riposte face à des cyber-escroqueries dopées par l'IA](https://fr.le360.ma/economie/criminalite-financiere-le-maroc-muscle-sa-riposte-face-a-des-cyber-escroqueries-dopees-par-lia_DZQYGMZOLFB4TJ4HLJM5QL4KVU/)  
-*Source : fr.le360.ma | Publication : 2026-07-19*
+## [Le CICR adopte l'emblème numérique ADEM contre les cyberattaques](https://dcod.ch/2026/07/20/le-cicr-adopte-adem/)  
+*Source : dcod.ch | Publication : 2026-07-20*
 
-- Face à une criminalité financière transnationale en pleine mutation, la menace des escroqueries est devenue globale et interconnectée.
-- Selon le rapport 2026 d’Interpol, les fraudes dopées à l’intelligence artificielle s’avèrent désormais quatre fois et demie plus rentables que les méthodes traditionnelles.
-- Elles se trouvent désormais au cœur de la polycriminalité, croisant la criminalité organisée, la traite d’êtres humains et le cybercrime.
-- Dans ce contexte où les réseaux criminels collaborent étroitement avec des spécialistes du blanchiment d’argent et où certains groupes terroristes en Afrique exploitent les arnaques aux cryptomonnaies pour se financer, les dispositifs de sécurité uniquement technologiques se révèlent insuffisants, écrit le quotidien L’Economiste dans son édition du lundi 20 juillet.
+- TL;DR : L’essentiel En 2022, une cyberattaque d’envergure a compromis les serveurs du CICR, exposant les données sensibles de plus de 515 000 personnes vulnérables à travers le monde, révélant la fragilité numérique des réseaux d’aide humanitaire.
+- - Face à cette menace, l’EPFZ et le CICR ont conçu une signature cryptographique baptisée ADEM pour signaler automatiquement aux programmes d’assaut l’immunité juridique des systèmes médicaux et de secours avant tout impact destructeur.
+- - L’Alliance atlantique a testé l’efficacité opérationnelle de ce prototype en Estonie lors d’exercices militaires offensifs, prouvant sa capacité à s’intégrer dans la planification cybernétique des forces armées modernes.
+- - L’adoption planétaire de cette technologie exige une mise à jour diplomatique des Conventions de Genève pour encadrer son usage et pénaliser sévèrement toute utilisation frauduleuse par des entités combattantes.
 
-## [Priorité à la formation et à l'attraction de jeunes talents en <b>cybersécurité</b> - journal Lao Dong](https://fr.laodong.vn/thoi-su/uu-tien-dao-tao-thu-hut-tai-nang-tre-ve-an-ninh-mang-1737517.ldo)  
-*Source : fr.laodong.vn | Publication : 2026-07-19*
+## [<b>Cybersécurité</b> à l'heure du quantique : la course contre la montre - Le Dauphiné Libéré](https://www.ledauphine.com/videos/cybersecurite-a-l-heure-du-quantique-la-course-contre-la-montre-3vp0squ?playlist=ql5fu5)  
+*Source : ledauphine.com | Publication : 2026-07-20*
 
-- Priorité à la formation et à l'attraction de jeunes talents en cybersécurité La loi sur la cybersécurité donne la priorité à la formation et au développement de forces de protection de la cybersécurité de haute qualité; à la découverte de jeunes talents à sélectionner et à utiliser dans ce domaine.
-- À partir du début du mois de juillet 2026, la loi sur la cybersécurité entre officiellement en vigueur.
-- Cette loi réglemente la cybersécurité, la protection de la cybersécurité; les droits, obligations et responsabilités des agences, organisations et individus concernés.
-- Cette loi stipule que l'État forme et développe des ressources humaines pour la protection de la cybersécurité, en assurant la quantité et la qualité, en répondant aux exigences de la capacité de protection de la cybersécurité nationale.
+- Cybersécurité à l'heure du quantique : la course contre la montre Une conférence avec Mikael Carmona (CEA-LETI), Karine Bannelier (Université Grenoble Alpes), Carlos Moreira (SEALSQ & ICAlps) et Amine Baba Aissa (Numerama) sur tech&fest.
+- Le plus grand festival tech et innovation des territoires, imaginé par Le Dauphiné Libéré et produit par EBRA Events, s'est tenu les 4 & 5 février 2026 à Alpexpo Grenoble.
 
-## [Alerte <b>cybercriminalité</b> : La Gendarmerie et la Police traquent de nouveaux procédés d'escroquerie](https://just-infodz.com/alerte-cybercriminalite-gendarmerie-police-arnaque-edahabia/)  
-*Source : just-infodz.com | Publication : 2026-07-19*
+## [Renforcer la cyberintervention pour une connectivité mondiale - KPMG International](https://kpmg.com/ca/fr/insights/2026/07/strengthening-cyber-response-for-global-connectivity.html)  
+*Source : kpmg.com | Publication : 2026-07-20*
 
-- Attention aux faux profils officiels !.
-- La Gendarmerie nationale et la DGSN lancent une alerte maximale face à une recrudescence d’arnaques en ligne.
-- Des cybercriminels usurpent l’identité des forces de l’ordre pour vider les comptes des citoyens.
-- Une vague de cyberattaques ciblées en Algérie Les cybercriminels redoublent d’ingéniosité et s’attaquent désormais à la confiance des citoyens envers les institutions publiques.
+- Client Fournisseur mondial de services de télécommunications Secteur Télécommunications Objectif principal Contenir les menaces et protéger l’intégrité des données Technologies Intervention en cas d’incident, analyses judiciaires, chasse aux menaces, SOC/GIES AGIR pour révéler les cybermenaces Une cyberintrusion de longue durée a exposé un fournisseur mondial de services de télécommunications exerçant ses activités dans plusieurs régions à un risque très important.
+- En effet, des pirates se déplaçaient incognito dans les systèmes et les régions; l’organisation devait donc agir rapidement pour contenir la menace, protéger les données sensibles des abonnés et rétablir la confiance dans son environnement de sécurité.
+- Voici comment KPMG a aidé l’organisation à renforcer son intervention et à établir des bases plus sophistiquées en matière de cybersécurité.
+- Plus de 30 pays connectés A coordonné une intervention dans un réseau mondial de télécommunications Visibilité accrue des menaces A renforcé la surveillance afin de détecter plus rapidement les activités cachées Meilleure cyberrésilience A amélioré les systèmes et l’état de préparation aux menaces futures Accélération des analyses judiciaires A simplifié les analyses pour une prise de décisions plus rapide Parcours de transformation du client Avant - Pendant - Après - Intervenir dans le cadre d’une cyberattaque mondiale sophistiquée Un fournisseur mondial de services de télécommunications exerçant ses activités dans plus de 30 pays a été la cible d’un important incident de cybersécurité impliquant un groupe de menaces persistantes sophistiquées.
 
-## [Les angles morts de la <b>cybersécurité</b> pour les entreprises à l'ère de l'IA. - Vietnam.vn](https://www.vietnam.vn/fr/diem-mu-an-ninh-mang-cua-doanh-nghiep-thoi-dai-ai)  
-*Source : vietnam.vn | Publication : 2026-07-19*
+## [Attention si vous utilisez 7-Zip : une faille permet de prendre le contrôle de votre ordinateur](https://www.01net.com/actualites/attention-7-zip-faille-prendre-controle-ordinateur.html)  
+*Source : 01net.com | Publication : 2026-07-20*
 
-- L'entreprise a mis 241 jours à découvrir qu'elle avait été attaquée.
-- Les cyberattaques actuelles ne se limitent plus à un seul point, mais se propagent à l'ensemble de l'infrastructure numérique, des applications et réseaux aux terminaux et environnements cloud.
-- Parallèlement, de nombreuses entreprises utilisent encore des outils de sécurité disparates et souffrent d'une pénurie de personnel hautement spécialisé en cybersécurité.
-- De ce fait, les organisations peuvent recevoir des alertes ponctuelles sans percevoir la chaîne d'attaques complète.
+- Une faille de sécurité majeure a été découverte dans le logiciel 7-Zip.
+- Après avoir incité la victime à télécharger et à extraire une archive spécialement conçue, un malfaiteur peut exploiter cette faille afin d’exécuter du code arbitraire à distance.
+- Au final, la victime peut se retrouver avec un logiciel malveillant sur son ordinateur.
+- Heureusement, une mise à jour a été déployée, mais elle n’a pas été appliquée automatiquement.
 
-## [WALLIX annonce de solides résultats pour le premier semestre 2026 malgré les difficultés du marché](https://www.webdisclosure.com/article/wallix-epa-allix-wallix-annonce-de-solides-resultats-pour-le-premier-semestre-2026-malgre-les-difficultes-du-marche-qfoC6GbOoRa)  
-*Source : webdisclosure.com | Publication : 2026-07-19*
+## [Rapport d'analyse comparative des RSSI de Health-ISAC 2026](https://health-isac.org/fr/2026-health-isac-ciso-benchmarking-report/)  
+*Source : health-isac.org | Publication : 2026-07-20*
 
-- on WALLIX (EPA:ALLIX) WALLIX annonce de solides résultats pour le premier semestre 2026 malgré les difficultés du marché WALLIX, société européenne de développement de solutions de cybersécurité basée à Paris, a annoncé une hausse de 19,4 % de son chiffre d'affaires mensuel récurrent (MRR) pour le premier semestre 2026, atteignant 2,8 millions d'euros.
-- Son chiffre d'affaires global sur la période a progressé de 14,2 %, s'établissant à 20,6 millions d'euros, dont 81 % proviennent des revenus récurrents.
-- L'entreprise confirme ses objectifs pour 2026, misant sur une forte croissance des abonnements, un résultat d'exploitation positif et un flux de trésorerie disponible important.
-- Cette forte croissance s'explique par l'arrivée de nouveaux clients clés, les exigences réglementaires et les progrès en matière de souveraineté numérique et d'intelligence artificielle.
+- Position et perspectives des responsables de la sécurité du secteur de la santé Lisez le document récemment achevé Rapport d'analyse comparative des RSSI de Health-ISAC — le premier rapport d'analyse comparative jamais publié par Health-ISAC.
+- Ce rapport reflète l'expérience et les contributions collectives de la communauté — 76 RSSI ont participé à l'enquête, représentant les fournisseurs, les payeurs, l'industrie pharmaceutique, les dispositifs médicaux et les opérations mondiales.
+- Première partie : Défis et menaces Les organismes du secteur de la santé évoluent dans un environnement de menaces particulièrement critique : les cyberattaques peuvent retarder les soins, mettre en danger la sécurité des patients et saper la confiance dans l'institution.
+- Principaux risques en matière de cybersécurité - Menaces émergentes dans le secteur de la santé - Ce qui empêche les RSSI de dormir la nuit - Initiatives prioritaires : 12 à 24 prochains mois - Deuxième partie : Le rôle du RSSI Les RSSI du secteur de la santé évoluent dans l'un des environnements de sécurité les plus exigeants : ils doivent concilier la continuité des soins, la complexité réglementaire et la prolifération technologique.
 
-## [Kenya : la présidence victime d'une cyberattaque, Nairobi confirme un incident - LSi Africa](https://www.lsi-africa.com/fr/actualite-africaine/kenya-site-presidence-piratage-rancon.html)  
-*Source : lsi-africa.com | Publication : 2026-07-19*
+## [Indicateur de santé du secteur de la santé ISAC - 2e trimestre 2026 - Health-ISAC](https://health-isac.org/fr/Santé-ISAC-Secteur-de-la-santé-Rythme-cardiaque-T2-2026/)  
+*Source : health-isac.org | Publication : 2026-07-20*
 
-- Kenya : la présidence victime d’une cyberattaque, Nairobi confirme un incident Le site internet de la présidence kényane a été hacké, les pirates informatiques ayant procédé à une demande de rançon samedi, ont indiqué plusieurs médias kényans, Nairobi reconnaissant de son côté un «incident» l'ayant forcé à fermer temporairement ce site.
-- Plusieurs ministères kényans avaient déjà été victimes d'attaques informatiques en novembre dernier.
-- Sécurité - Selon plusieurs médias kényans, des messages critiques adressés au chef de l'État William Ruto sont apparus samedi sur la page de garde du site de la présidence, assortis d'une demande de rançon de 5 bitcoins (environ 280.000 euros), les pirates menaçant de diffuser des informations non précisées si leurs exigences n'étaient pas satisfaites.
-- «Par mesure de précaution, l'accès au site web de la présidence a été temporairement restreint afin de faciliter les opérations de confinement, d'analyse forensique et de restauration», a indiqué dans un communiqué le ministre de l'Information William Kabogo Gitau, qui a évoqué la «détection d'un incident», sans toutefois mentionner d'acte de piraterie informatique.
+- Santé-ISAC Health Sector Heartbeat – T2 2026 Le rythme cardiaque du secteur de la santé au deuxième trimestre (T2) 2026 de Health-ISAC Ce rapport trimestriel présente des observations sur les ransomwares, les tendances en matière de cybercriminalité et les publications malveillantes sur les forums susceptibles d'affecter les organismes du secteur de la santé.
+- Ce document vise à assurer une veille stratégique, et Health-ISAC recommande à ses membres affiliés aux entreprises victimes ou potentiellement concernées de prendre les mesures appropriées pour sécuriser leurs infrastructures critiques.
+- Ce rapport comprend : Attaques de rançongiciels dans le secteur de la santé - Tendances des alertes ciblées - Activité des forums underground - Profil de l'acteur menaçant : World Leaks - Stratégies d'atténuation - Ressources et actualités connexes - La cybersécurité dans le secteur de la santé est toujours liée aux personnes.
+- - Rapport d'analyse comparative des RSSI de Health-ISAC 2026 - Analyses des interventions en cas d'incident en juin - Le nouveau cadre de cybersécurité des infrastructures critiques propose des options aux gouvernements et aux conseils régionaux.
 
-## [<b>Cybercriminalité</b> : La Gendarmerie nationale et la DGSN mettent en garde contre des ...](https://lapatrienews.dz/cybercriminalite-la-gendarmerie-nationale-et-la-dgsn-mettent-en-garde-contre-des-tentatives-descroquerie-electronique/)  
-*Source : lapatrienews.dz | Publication : 2026-07-19*
+## [Seules 35% des organisations maîtrisent leur souveraineté numérique au Maroc - YouTube](https://www.youtube.com/shorts/obwFSYyj0uY)  
+*Source : youtube.com | Publication : 2026-07-20*
 
-- Loader Please wait while your request is being verified.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Trois nouvelles tendances façonnent le développement mondial de l'IA - journal Lao Dong](https://fr.laodong.vn/cong-nghe/ba-xu-huong-moi-dinh-hinh-su-phat-trien-ai-toan-cau-1737250.ldo)  
-*Source : fr.laodong.vn | Publication : 2026-07-19*
+## [<b>Cybersécurité</b> : Seules 35% des organisations maîtrisent leur souveraineté numérique au Maroc](https://lematin.ma/videos/35-des-organisations-maitrisent-leur-souverainete-numerique-au-maroc/357001/amp)  
+*Source : lematin.ma | Publication : 2026-07-20*
 
-- Trois nouvelles tendances façonnent le développement mondial de l'IA Un rapport publié à la Conférence mondiale sur l'IA 2026 à Shanghai (Chine) montre que le développement de l'IA mondiale entre dans une nouvelle phase.
-- Selon Xinhua, le rapport Global AI Innovation Index 2026 a été publié lors de la Conférence mondiale sur l'IA 2026 et du Sommet mondial sur l'administration de l'IA à Shanghai.
-- Le rapport, compilé par l'Institut chinois d'information scientifique et technique en collaboration avec l'Université de Pékin, évalue l'innovation et le développement de l'IA dans 46 pays.
-- Les résultats montrent que l'IA mondiale connaît trois grandes tendances.
+- Matin TV Activités Royales Nation Économie Monde Société Culture Régions Emploi Enseignement Sports Automobile Chroniques Nos Spéciaux Videos Cybersécurité : Seules 35% des organisations maîtrisent leur souveraineté numérique au Maroc mohamed Sellam 20 Juillet 2026 À 18:56 Your browser doesn't support HTML5 audio L'AUSIMètre 2026 montre une progression de la maturité en cybersécurité des organisations marocaines, mais met en évidence des faiblesses persistantes en matière de souveraineté numérique.
+- L'indice global de maturité atteint 56%, contre 49% un an auparavant, grâce au renforcement de la gouvernance et des investissements.
+- Articles similaires Vacances d'été : Comment mieux gérer le temps d'écran des enfants Vague de chaleur : Les bons réflexes pour limiter les risques pour la santé Offshoring : Le Maroc dans le top 20 mondial de la préparation à l’IA Copyright Groupe le Matin © 2026.
 
-## [<b>Cybersécurité</b>, désinformation, IA verte : quelle coopération entre la Chine et l'Europe ... - Facebook](https://www.facebook.com/CGTNFrancais/videos/cybersécurité-désinformation-ia-verte-quelle-coopération-entre-la-chine-et-leuro/1332040905578091/)  
-*Source : facebook.com | Publication : 2026-07-19*
+## [HugginFace montre comment les garde-fous des LLM nuisent à leur utilité | LeMagIT](https://www.lemagit.fr/actualites/366646073/HugginFace-montre-comment-les-garde-fous-des-LLM-nuisent-a-leur-utilite)  
+*Source : lemagit.fr | Publication : 2026-07-20*
 
-- Cybersécurité , désinformation, IA verte : quelle coopération entre la Chine et l'Europe ?.
-- Entretien de Shanhui Zhang, présentatrice de CGTN.
+- Priya - stock.adobe.com HugginFace montre comment les garde-fous des LLM nuisent à leur utilité Les garde-fous des LLM, conçus pour la sécurité, peuvent paradoxalement entraver l'efficacité cognitive et l'analyse en temps de crise, jusqu'à entamer sévèrement l'utilisé des modèles concernés.
+- HuggingFace a été victime d'un incident de cybersécurité en début de semaine dernière.
+- Un épisode éclairant à plus d'un égard.
+- L'intrusion a débuté dans le pipeline de traitement des données, où un jeu de données malveillant a exploité deux chemins d'exécution de code.
 
-## [1.000, batteries solaires près de Clermont-Ferrand, stocker l'électricité des panneaux le soir ...](https://www.carnetdebord.info/1-000-batteries-solaires-pres-de-clermont-ferrand-stocker-lelectricite-des-panneaux-le-soir-ce-qui-change-pour-les-foyers/)  
-*Source : carnetdebord.info | Publication : 2026-07-19*
+## [Exclusive Networks crée une Global AWS Business Unit - ChannelBiz |](https://www.channelbiz.fr/2026/07/20/exclusive-networks-cree-une-global-aws-business-unit-pour-accelerer-ladoption-dun-cloud-securise-via-le-channel/amp/)  
+*Source : channelbiz.fr | Publication : 2026-07-20*
 
-- Près de Clermont-Ferrand, un entrepreneur local parie sur une idée simple, rendre le stockage d’énergie accessible à plus de foyers grâce à des batteries solaires annoncées à 1.000 euros.
-- L’objectif, permettre à chacun de conserver une partie de l’électricité produite par ses panneaux, puis de la consommer le soir ou lors d’une coupure.
-- Dans un contexte où les factures restent un sujet sensible et où l’autoconsommation progresse, ce positionnement à prix serré cherche à lever un frein classique, le coût d’entrée des systèmes de batteries domestiques.
-- Le projet s’inscrit dans la montée en puissance du solaire résidentiel, porté par la baisse du prix des panneaux et par l’envie d’arbitrer soi-même entre consommation, vente du surplus et protection contre les aléas du réseau.
+- Exclusive Networks annonce une étape majeure dans le renforcement de ses capacités AWS à l’échelle mondiale.
+- Le distributeur regroupe ses expertises cloud AWS, ses services Marketplace AWS et ses services professionnels au sein d’un cadre mondial unique et coordonné.
+- L’objectif est clair : aider ses partenaires et éditeurs à saisir les opportunités à l’intersection de l’adoption du cloud et de la cybersécurité.
+- Pour piloter cette expansion, Exclusive Networks crée une Global AWS Business Unit, placée sous la direction de Haroon Iqbal.
 
-## [<b>Cybersécurité</b> : La maturité des business à 56% en 2026 - L'Economiste](https://www.leconomiste.com/cybersecurite-la-maturite-des-business-a-56-en-2026/)  
-*Source : leconomiste.com | Publication : 2026-07-19*
+## [Airbus : commande de 6 A350 et de 2 contrats d'hélicoptères - La Télé](https://latele.ch/articles/une-commande-d-a350-et-deux-d-helicopteres-pour-airbus)  
+*Source : latele.ch | Publication : 2026-07-20*
 
-- Cybersécurité : La maturité des business à 56% en 2026.
-- Par Layane EL MASSAOUDI | Edition N°: Le 20/07/2026.
-- Les organisations marocaines ont marqué.
+- Airbus : commande de 6 A350 et de 2 contrats d'hélicoptères Une commande de six A350 pour Airbus Airbus a annoncé lundi une commande de six avions A350 et deux commandes d'hélicoptères, à l'occasion de l'ouverture du salon aéronautique de Farnborough, au Royaume-Uni.
+- Les six A350-1000 sont destinés à une compagnie saoudienne qui a effectué son vol inaugural en juin, Riyadh Air.
+- Ils s'ajoutent à une commande de 25 autres appareils annoncée en 2025, qui pouvait monter jusqu'à 50 unités.
+- "L'A350-1000 jouera un rôle important pour soutenir les objectifs du plan Vision 2030 de l'Arabie saoudite, et contribuer au positionnement du royaume comme grande plaque tournante du transport aérien international", s'est félicité un dirigeant de la partie commerciale du groupe, Benoît de Saint-Exupéry, cité dans un communiqué.
 
-## [TikTok sort du bannissement fédéral - 24matins](https://www.24matins.fr/tiktok-sort-du-bannissement-federal-1417428)  
-*Source : 24matins.fr | Publication : 2026-07-19*
+## [Souveraineté numérique : l'Europe peut-elle reprendre le contrôle - it social](https://itsocial.fr/cybersecurite/cybersecurite-cas-dusages/souverainete-numerique-leurope-peut-elle-reprendre-le-controle-salon-souverainete-numerique/)  
+*Source : itsocial.fr | Publication : 2026-07-20*
 
-- En bref TikTok est de nouveau autorisé sur les appareils du gouvernement américain.
-- - La décision repose sur une nouvelle structure américaine séparée de ByteDance.
-- - Les agences gardent le droit de maintenir leurs propres restrictions.
-- - Les agents fédéraux américains peuvent de nouveau télécharger TikTok sur des appareils fournis par l’Etat.
+- Interview - Directeur Général Adjoint - BPCE SOLUTIONS INFORMATIQUES -Cherkaoui NOUAMANE LA DÉPENDANCE1 - Notre dépendance technologique est-elle matérielle ou d'abord culturelle ?.
+- Notre dépendance est à la fois matérielle et cognitive.
+- Après plusieurs décennies de délocalisations, l'Europe dépend d'acteurs étrangers pour ses infrastructures critiques (data centers, puces, cloud) mais aussi pour les modèles d'intelligence artificielle, qui influencent nos usages et notre manière d'appréhender l'information.
+- Retrouver notre souveraineté passe par la réinternalisation des compétences, des technologies et des capacités industrielles.
 
-## [<b>Cybersécurité</b> : seules 35 % des organisations maîtrisent les enjeux de souveraineté ...](https://lematin.ma/economie/cybersecurite-au-maroc-la-souverainete-numerique-reste-fragile/356679/amp)  
-*Source : lematin.ma | Publication : 2026-07-19*
+## [NordVPN, votre <b>cybersécurité</b> au quotidien pour 3,37 €/mois - Ouest-France](https://www.ouest-france.fr/shopping/high-tech/vpn/nordvpn-votre-cybersecurite-au-quotidien-pour-3-37-euros-mois-05d30856-81c7-11f1-8650-d79ccbde952a)  
+*Source : ouest-france.fr | Publication : 2026-07-20*
 
-- Matin TV Activités Royales Nation Économie Monde Société Culture Régions Emploi Enseignement Sports Automobile Chroniques Nos Spéciaux Économie Cybersécurité : seules 35 % des organisations maîtrisent les enjeux de souveraineté numérique au Maroc (enquête) La cybersécurité gagne du terrain dans les organisations marocaines, mais la souveraineté numérique reste leur principal point faible.
-- Selon l'AUSIMètre 2026, le baromètre annuel de la cybersécurité au Maroc, seules 35 % des organisations maîtrisent réellement cet enjeu stratégique.
-- L'étude met également en lumière une forte dépendance au cloud, une pénurie persistante de talents et une gouvernance encore insuffisante de l'intelligence artificielle.
-- Saloua Islah 19 Juillet 2026 À 11:26 Your browser doesn't support HTML5 audio La cybersécurité poursuit sa montée en puissance au sein des organisations marocaines, mais un maillon reste particulièrement fragile : la souveraineté numérique.
+- La sécurité au quotidien en ligne est pratiquement impossible sans VPN.
+- Bien que certaines manipulations limitent l'exposition, le VPN permet.
 
-## [<b>Cybersécurité</b> : seules 35 % des organisations maîtrisent les enjeux de souveraineté ...](https://lematin.ma/economie/cybersecurite-au-maroc-la-souverainete-numerique-reste-fragile/356679)  
-*Source : lematin.ma | Publication : 2026-07-19*
+## [Android : une faille critique de Gemini permet d'envoyer des messages sans déverrouiller l'écran](https://www.01net.com/actualites/android-faille-critique-gemini-permet-envoyer-messages-sans-deverrouiller-ecran.html)  
+*Source : 01net.com | Publication : 2026-07-20*
 
-- La cybersécurité poursuit sa montée en puissance au sein des organisations marocaines, mais un maillon reste particulièrement fragile : la souveraineté numérique.
-- C'est l'un des principaux constats de l'AUSIMètre 2026, le baromètre annuel de la cybersécurité au Maroc réalisé par l'Association des utilisateurs des systèmes d'information au Maroc (AUSIM) en partenariat avec PwC.
-- L'étude révèle que seules 35 % des organisations disposent d'un niveau de maturité satisfaisant sur cette dimension, soit le score le plus faible parmi les sept piliers évalués.
-- Cette progression contraste toutefois avec les résultats enregistrés en matière de souveraineté numérique.
+- Depuis le mois de mai, une faille de sécurité touche les smartphones équipés d’Android 16 sur lesquels Gemini est accessible depuis l’écran de verrouillage.
+- Une personne mal intentionnée peut ainsi envoyer des SMS ou des messages WhatsApp à votre insu.
+- Google a reconnu l’existence de cette faille de sécurité et déploie actuellement un correctif pour colmater la brèche.
+- Une faille à ne pas prendre à la légère En temps normal, si quelqu’un tente d’envoyer un SMS via l’IA depuis l’écran verrouillé, Gemini demande d’ouvrir l’application concernée.
 
-## [<b>Cybersécurité</b> &amp; IA : Odile Duthil, présidente du Clusif, alerte sur le fait que les entreprises ...](https://investir.lesechos.fr/marches-indices/opinions/cybersecurite-ia-odile-duthil-presidente-du-clusif-alerte-sur-le-fait-que-les-entreprises-entrent-dans-une-zone-de-turbulence-2243036)  
-*Source : investir.lesechos.fr | Publication : 2026-07-19*
+## [<b>Cybersécurité</b> et finance illicite : Le Nigeria et le Royaume-Uni scellent un pac](https://www.sikafinance.com/marches/cybersecurite-et-finance-illicite-le-nigeria-et-le-royaume-uni-scellent-un-pacte-de-cooperation-technologique_63090)  
+*Source : sikafinance.com | Publication : 2026-07-20*
 
-- Dans ce contexte, il est important à la fois d'encadrer les risques liés à l'usage des intelligences artificielles, la cybersécurité pour l'IA,.
+- Un pacte technologique vient d'être scellé entre le Nigeria et le Royaume-Uni pour faire front commun face aux défis complexes du monde numérique.
+- Ces accords se traduisent concrètement par une alliance défensive et technique axée sur la neutralisation des cyberattaques, le renforcement des infrastructures numériques et la traque des flux financiers occultes.
+- Cette coopération d'envergure procède directement du Quatrième dialogue sur le partenariat en matière de sécurité et de défense (SDP) dont le communiqué officiel a été publié le 17 juillet 2026.
+- Les fondations de cette alliance renouvelée ont été posées lors de rencontres de haut niveau tenues les 23 et 24 juin 2026 à Abuja, au sein du Bureau du conseiller à la sécurité nationale du gouvernement fédéral du Nigeria.
 
-## [Les 20 principales entreprises Marché mondial de la dotation en TI - Spherical Insights](https://www.sphericalinsights.com/fr/blogs/top-20-companies-global-it-staffing-market-in-2026-2035-spherical-insights-analysis)  
-*Source : sphericalinsights.com | Publication : 2026-07-19*
+## [Cyan AG étend sa solution de <b>cybersécurité</b> aux filiales de MásOrange en Espagne](https://www.zonebourse.com/actualite-bourse/cyan-ag-etend-sa-solution-de-cybersecurite-aux-filiales-de-m-sorange-en-espagne-ce7f51dbda81f726)  
+*Source : zonebourse.com | Publication : 2026-07-20*
 
-- cybersécurité et l'intelligence artificielle, l'adoption croissante de modèles de recrutement fondés sur des contrats et des projets et l.
+- cyan AG a annoncé l&#039;extension de sa solution de cybersécurité « Ciber Protección », actuellement déployée par Orange Espagne, à trois filiales supplémentaires de MásOrange : Euskaltel, R et Telecable.
+- Ce déploiement cible les clients B2B (Business-to-Business) et les petites et moyennes entreprises (PME), avec un accent particulier sur le nord de l&#039;Espagne.
+- Cette initiative s&#039;appuie sur la forte dynamique commerciale de « Ciber Protección » chez Orange Espagne et vise à reproduire ce succès au sein des autres entités de MásOrange.Cette solution de cybersécurité complète est conçue pour protéger les connexions internet et les terminaux des entreprises contre les menaces numériques, telles que le phishing (hameçonnage), qui demeure la cybermenace la plus importante pour les sociétés en Espagne.
+- Avec cette expansion, MásOrange renforce son portefeuille de services de cybersécurité destinés aux entreprises en proposant une solution intégrée et simple d&#039;utilisation, qui améliore la résilience numérique sans ajouter de complexité pour ses clients.
 
-## [« Votre carte va être débitée de 1 000 € », n'appelez surtout pas ce numéro de téléphone, c ...](https://www.01net.com/actualites/arnaque-carte-etre-debitee-1-000-e-nappelez-surtout-pas-numero-telephone.html)  
-*Source : 01net.com | Publication : 2026-07-19*
+## [Quand les caméras de surveillance deviennent des outils d'espionnage militaire](https://moncarnet.com/2026/07/20/quand-les-cameras-de-surveillance-deviennent-des-outils-despionnage-militaire/)  
+*Source : moncarnet.com | Publication : 2026-07-20*
 
-- Certains arnaqueurs se font passer pour le service client de géants du e-commerce et alertent leurs victimes à propos d’un prétendu paiement de 1 000 euros détecté sur leur compte.
-- Contrairement aux campagnes d’hameçonnage classiques, aucun formulaire frauduleux n’est proposé.
-- Les victimes sont simplement invitées à appeler un numéro de téléphone pour annuler le soi-disant paiement en cours.
-- Il s’agit en réalité du numéro des arnaqueurs Cette arnaque vous pousse à appeler les arnaqueurs Sur les réseaux sociaux, les signalements concernant une nouvelle arnaque se multiplient.
+- Les caméras de surveillance connectées ne servent plus uniquement à protéger des bâtiments ou à surveiller la circulation.
+- Lorsqu’elles sont mal sécurisées, elles peuvent être détournées par des États pour observer les conséquences d’une attaque, suivre des déplacements militaires ou recueillir des renseignements sur des infrastructures stratégiques.
+- Depuis le début de la guerre entre Israël et l’Iran, des groupes liés à Téhéran auraient réussi à prendre le contrôle d’au moins 50 caméras de sécurité en Israël, selon la Direction nationale israélienne de la cybersécurité.
+- Les autorités ignorent combien de temps les pirates ont pu accéder aux images avant que les intrusions soient détectées.
 
-## [L'UE oblige Google à partager les données Android et de recherche avec les assistants d'IA ...](https://www.unite.ai/fr/eu-compels-google-to-share-android-and-search-data-with-rival-ai-assistants/)  
-*Source : unite.ai | Publication : 2026-07-19*
+## [Lionel Chmilewsky, directeur général d'Ekinops : « Dans la <b>cybersécurité</b>, l'un de nos ... - Investir](https://investir.lesechos.fr/marches-indices/opinions/lionel-chmilewsky-directeur-general-dekinops-dans-la-cybersecurite-lun-de-nos-principaux-differenciateurs-repose-sur-un-binome-bien-rode-depuis-des-annees-entre-lia-et-les-humains-2243297)  
+*Source : investir.lesechos.fr | Publication : 2026-07-20*
 
-- Réglementation L’UE oblige Google à partager les données Android et de recherche avec les assistants d’IA concurrents Ajouter Unite.AI à vos sources préférées sur GoogleGoogle doit donner aux assistants d’IA et aux moteurs de recherche concurrents le même accès à Android et à Google Search qu’il réserve à ses propres produits, selon deux décisions contraignantes que la Commission européenne a adoptées le 16 juillet 2026.
-- Les décisions ciblent les deux plateformes qui ancrent l’activité de Google en Europe, et elles offrent aux concurrents un niveau d’accès à ses systèmes et à ses données que les régulateurs disent qu’ils n’ont jamais eu.
-- Les décisions précisent comment Google doit se conformer au règlement sur les marchés numériques, la loi de l’UE de 2022 qui exige que les plateformes « gardiennes » dominantes offrent aux concurrents le même accès à leurs fonctionnalités et à leurs données qu’elles accordent à leurs propres services.
-- Ce sont des décisions de spécification – des mesures contraignantes qui définissent, fonction par fonction, à quoi ressemble la conformité, plutôt qu’une pénalité financière.
+- Lionel Chmilewsky, directeur général d'Ekinops : « Dans la cybersécurité , l'un de nos principaux différenciateurs repose sur un binôme bien rodé.
 
-## [700 escrocs, 20 centres d'appels : ce réseau criminel a fait des dizaines de milliers de victimes](https://www.01net.com/actualites/700-escrocs-20-centres-appels-reseau-criminel-dizaines-milliers-victimes.html)  
-*Source : 01net.com | Publication : 2026-07-19*
+## [Synology ActiveProtect DP7400 vu par les pros… La restauration en mode objet renoue ... - ZDNET](https://www.zdnet.fr/cybersecurite/synology-activeprotect-dp7400-vu-par-les-pros-la-restauration-en-mode-objet-renoue-avec-la-granularite-497783.htm)  
+*Source : zdnet.fr | Publication : 2026-07-20*
 
-- La police néerlandaise vient de démanteler une organisation criminelle internationale spécialisée dans l’arnaque aux faux investissements.
-- Le réseau a été neutralisé dans le cadre d’une opération d’envergure, intitulée « Operation Sunflower ».
-- Elle a mobilisé les polices néerlandaise et belge pendant près de quatre ans.
-- Selon les forces de l’ordre des Pays-Bas, l’organisation fonctionnait comme une véritable entreprise, avec une vingtaine de centres d’appels répartis dans plusieurs pays.
+- Pour optimiser l'espace de stockage, le DP7400 consolide plusieurs fichiers en une seule image et s'appuie sur une déduplication globale à la source, ne transmettant que les données non dupliquées.
+- Au-delà de cette optimisation côté sauvegarde, c'est sur le terrain de la restauration que Stéphane Micard, responsable infrastructure informatique chez Reworld Media, a relevé la caractéristique la plus marquante du test : la possibilité d'aller chercher un document précis au sein d'une sauvegarde, sans devoir restaurer l'intégralité d'une machine.
+- Une approche en mode objet, héritée d'une autre époque « C'est du mode objet », résume Stéphane Micard, qui y voit un écho à des outils plus anciens du marché de la sauvegarde : « Pour revenir à mon expérience passée, j'ai connu des modes de sauvegarde qui fonctionnaient ainsi à une époque où les volumétries étaient bien plus restreintes, mais surtout où les unités de stockage coûtaient beaucoup plus cher.
+- Il y avait un vrai souci d'optimisation, avec une déduplication au niveau du fichier ou de l'objet.
 
-## [Nouveaux défis en matière de lutte contre le blanchiment d'argent et de <b>cybersécurité</b> sur le ...](https://www.vietnam.vn/fr/thach-thuc-moi-ve-phong-chong-rua-tien-va-an-ninh-mang-trong-thi-truong-tai-san-ma-hoa)  
-*Source : vietnam.vn | Publication : 2026-07-19*
+## [Après le bac : quelles études pour les métiers de demain ? - Le Matin](https://lematin.ma/enseignement/apres-le-bac-quelles-etudes-pour-les-metiers-de-demain/356968/amp)  
+*Source : lematin.ma | Publication : 2026-07-20*
 
-- Les données montrent que le Vietnam figure parmi les pays affichant la plus grande valeur de transactions sur la blockchain, estimée à environ 220 à 230 milliards de dollars sur la période allant de juillet 2024 à juin 2025, soit une moyenne de plus de 600 millions de dollars par jour (selon des rapports compilés citant Chainalysis).
-- Méthodes et tactiques utilisées pour exploiter les actifs cryptographiques afin de commettre des crimes.
-- Au Vietnam, de nombreux groupes privés spécialisés dans l'achat, la vente et l'échange de cryptomonnaies existent sur les réseaux sociaux, comptant des dizaines de milliers de membres.
-- Ces derniers publient des informations sur leurs besoins en cryptomonnaies.
+- Matin TV Activités Royales Nation Économie Monde Société Culture Régions Emploi Enseignement Sports Automobile Chroniques Nos Spéciaux Enseignement Après le bac : quelles études pour les métiers de demain ?.
+- Intelligence artificielle, transition énergétique, industrie 4.0, cybersécurité, santé, data… Le marché de l’emploi marocain connaît de profondes mutations qui redéfinissent les compétences recherchées par les entreprises.
+- Dans ce contexte, choisir ses études après le baccalauréat ne consiste plus seulement à décrocher un diplôme, mais à construire un parcours capable d’évoluer avec les métiers de demain.
+- À travers les analyses d’acteurs de l’enseignement supérieur et d’experts du recrutement, ce dossier décrypte les secteurs les plus porteurs, les nouvelles attentes des employeurs et les clés d’une orientation réussie.
