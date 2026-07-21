@@ -1,151 +1,146 @@
-# Résumés – 2026-07-20
+# Résumés – 2026-07-21
 
 
-## [Le CICR adopte l'emblème numérique ADEM contre les cyberattaques](https://dcod.ch/2026/07/20/le-cicr-adopte-adem/)  
-*Source : dcod.ch | Publication : 2026-07-20*
+## [Un éditeur de logiciels utilisé par 2 000 hôpitaux américains victime d'une fuite de données](https://incyber.org/article/editeur-logiciels-utilise-par-2-000-hopitaux-americains-victime-fuite-donnees/)  
+*Source : incyber.org | Publication : 2026-07-21*
 
-- TL;DR : L’essentiel En 2022, une cyberattaque d’envergure a compromis les serveurs du CICR, exposant les données sensibles de plus de 515 000 personnes vulnérables à travers le monde, révélant la fragilité numérique des réseaux d’aide humanitaire.
-- - Face à cette menace, l’EPFZ et le CICR ont conçu une signature cryptographique baptisée ADEM pour signaler automatiquement aux programmes d’assaut l’immunité juridique des systèmes médicaux et de secours avant tout impact destructeur.
-- - L’Alliance atlantique a testé l’efficacité opérationnelle de ce prototype en Estonie lors d’exercices militaires offensifs, prouvant sa capacité à s’intégrer dans la planification cybernétique des forces armées modernes.
-- - L’adoption planétaire de cette technologie exige une mise à jour diplomatique des Conventions de Genève pour encadrer son usage et pénaliser sévèrement toute utilisation frauduleuse par des entités combattantes.
+- Accueil Cybercriminalité Un éditeur de logiciels utilisé par 2 000 hôpitaux américains victime d’une fuite de données Un éditeur de logiciels utilisé par 2 000 hôpitaux américains victime d’une fuite de données Écrit par La Rédaction 21.07.26 Cybercriminalité 01 MIN Un éditeur de logiciels utilisé par 2 000 hôpitaux américains victime d’une fuite de données Lien copié !.
+- Partager Cybercriminalité 19.07.26 Cybercriminalité Prochain article Piratage de Transport for London : cinq ans et demi de prison pour deux membres de Scattered Spider Lire 02 MIN Cybercriminalité 17.07.26 Cybercriminalité Prochain article La Finlande émet un avis de recherche visant le responsable du piratage de Vastaamo Lire 02 MIN Cybercriminalité 16.07.26 Cybercriminalité Prochain article The Gentlemen : quand le ransomware-as-a-service devient une industrie Lire 06 MIN Cybercriminalité 14.07.26 Cybercriminalité Prochain article Un opérateur du rançongiciel Ryuk plaide coupable aux États-Unis Lire 02 MIN Les attaquants auraient dérobé des informations personnelles concernant des employés, des clients et des partenaires de Craneware.
+- Craneware, un éditeur britannique de logiciels médicaux, a informé ses investisseurs, le 20 juillet 2026, qu’il avait détecté un accès non autorisé à « une partie de son environnement de données ».
+- L’entreprise fournit des solutions de facturation, de tarification et de gestion pharmaceutique à environ 2 000 hôpitaux américains ainsi qu’à 10 000 cliniques et pharmacies du pays.Les attaquants ont dérobé un important volume de données, parmi lesquelles figurent des informations concernant les employés, les clients et les partenaires de l’éditeur.
 
-## [<b>Cybersécurité</b> à l'heure du quantique : la course contre la montre - Le Dauphiné Libéré](https://www.ledauphine.com/videos/cybersecurite-a-l-heure-du-quantique-la-course-contre-la-montre-3vp0squ?playlist=ql5fu5)  
-*Source : ledauphine.com | Publication : 2026-07-20*
+## [Les Pays-Bas choisissent ESET pour renforcer leur <b>cybersécurité</b> - infoDSI](https://infodsi.com/articles/210521/les-pays-bas-choisissent-eset-pour-renforcer-leur-cybersecurite.html)  
+*Source : infodsi.com | Publication : 2026-07-21*
 
-- Cybersécurité à l'heure du quantique : la course contre la montre Une conférence avec Mikael Carmona (CEA-LETI), Karine Bannelier (Université Grenoble Alpes), Carlos Moreira (SEALSQ & ICAlps) et Amine Baba Aissa (Numerama) sur tech&fest.
-- Le plus grand festival tech et innovation des territoires, imaginé par Le Dauphiné Libéré et produit par EBRA Events, s'est tenu les 4 & 5 février 2026 à Alpexpo Grenoble.
+- Veuillez activer Javascript.
 
-## [Renforcer la cyberintervention pour une connectivité mondiale - KPMG International](https://kpmg.com/ca/fr/insights/2026/07/strengthening-cyber-response-for-global-connectivity.html)  
-*Source : kpmg.com | Publication : 2026-07-20*
+## [IA agentique et RGPD : ce que la note de la CNIL et du CIANum vous invite à vérifier dès maintenant](https://www.solutions-numeriques.com/ia-agentique-et-rgpd-ce-que-la-note-de-la-cnil-et-du-cianum-vous-invite-a-verifier-des-maintenant/)  
+*Source : solutions-numeriques.com | Publication : 2026-07-21*
 
-- Client Fournisseur mondial de services de télécommunications Secteur Télécommunications Objectif principal Contenir les menaces et protéger l’intégrité des données Technologies Intervention en cas d’incident, analyses judiciaires, chasse aux menaces, SOC/GIES AGIR pour révéler les cybermenaces Une cyberintrusion de longue durée a exposé un fournisseur mondial de services de télécommunications exerçant ses activités dans plusieurs régions à un risque très important.
-- En effet, des pirates se déplaçaient incognito dans les systèmes et les régions; l’organisation devait donc agir rapidement pour contenir la menace, protéger les données sensibles des abonnés et rétablir la confiance dans son environnement de sécurité.
-- Voici comment KPMG a aidé l’organisation à renforcer son intervention et à établir des bases plus sophistiquées en matière de cybersécurité.
-- Plus de 30 pays connectés A coordonné une intervention dans un réseau mondial de télécommunications Visibilité accrue des menaces A renforcé la surveillance afin de détecter plus rapidement les activités cachées Meilleure cyberrésilience A amélioré les systèmes et l’état de préparation aux menaces futures Accélération des analyses judiciaires A simplifié les analyses pour une prise de décisions plus rapide Parcours de transformation du client Avant - Pendant - Après - Intervenir dans le cadre d’une cyberattaque mondiale sophistiquée Un fournisseur mondial de services de télécommunications exerçant ses activités dans plus de 30 pays a été la cible d’un important incident de cybersécurité impliquant un groupe de menaces persistantes sophistiquées.
+- La CNIL et le Conseil de l’IA et du Numérique viennent de publier une note exploratoire sur les enjeux que pose l’IA agentique pour la protection des données personnelles.
+- Le document ne fixe ni doctrine ni obligation nouvelle, mais il pose des jalons utiles pour qui pilote ou s’apprête à déployer des agents capables d’agir de façon autonome sur plusieurs services.
+- Voici ce qu’il faut en retenir, et comment le traduire en points de vigilance concrets.
+- Un changement d’échelle, pas seulement un nouvel outil La note part d’un constat simple : avec l’IA agentique, on ne parle plus seulement de génération de contenu, mais de systèmes capables d’accéder à de multiples sources de données et d’agir directement sur leur environnement à la place de l’utilisateur.
 
-## [Attention si vous utilisez 7-Zip : une faille permet de prendre le contrôle de votre ordinateur](https://www.01net.com/actualites/attention-7-zip-faille-prendre-controle-ordinateur.html)  
-*Source : 01net.com | Publication : 2026-07-20*
+## [Les valorisations élevées de la <b>cybersécurité</b> imposent la prudence avant les résultats ...](https://ch.zonebourse.com/actualite-bourse/les-valorisations-elevees-de-la-cybersecurite-imposent-la-prudence-avant-les-resultats-selon-morgan-ce7f51d8dc8ef222)  
+*Source : ch.zonebourse.com | Publication : 2026-07-21*
 
-- Une faille de sécurité majeure a été découverte dans le logiciel 7-Zip.
-- Après avoir incité la victime à télécharger et à extraire une archive spécialement conçue, un malfaiteur peut exploiter cette faille afin d’exécuter du code arbitraire à distance.
-- Au final, la victime peut se retrouver avec un logiciel malveillant sur son ordinateur.
-- Heureusement, une mise à jour a été déployée, mais elle n’a pas été appliquée automatiquement.
+- Les valorisations élevées de la cybersécurité imposent la prudence avant les résultats, selon Morgan StanleyLes valorisations élevées des actions du secteur de la cybersécurité justifient la prudence avant la publication des prochains résultats trimestriels, en particulier pour certains acteurs de.
 
-## [Rapport d'analyse comparative des RSSI de Health-ISAC 2026](https://health-isac.org/fr/2026-health-isac-ciso-benchmarking-report/)  
-*Source : health-isac.org | Publication : 2026-07-20*
+## [OmniXOAR : une solution de <b>cybersécurité</b> - La Liberté](https://www.la-liberte.ca/2026/07/21/omnixoar-une-solution-de-cybersecurite/)  
+*Source : la-liberte.ca | Publication : 2026-07-21*
 
-- Position et perspectives des responsables de la sécurité du secteur de la santé Lisez le document récemment achevé Rapport d'analyse comparative des RSSI de Health-ISAC — le premier rapport d'analyse comparative jamais publié par Health-ISAC.
-- Ce rapport reflète l'expérience et les contributions collectives de la communauté — 76 RSSI ont participé à l'enquête, représentant les fournisseurs, les payeurs, l'industrie pharmaceutique, les dispositifs médicaux et les opérations mondiales.
-- Première partie : Défis et menaces Les organismes du secteur de la santé évoluent dans un environnement de menaces particulièrement critique : les cyberattaques peuvent retarder les soins, mettre en danger la sécurité des patients et saper la confiance dans l'institution.
-- Principaux risques en matière de cybersécurité - Menaces émergentes dans le secteur de la santé - Ce qui empêche les RSSI de dormir la nuit - Initiatives prioritaires : 12 à 24 prochains mois - Deuxième partie : Le rôle du RSSI Les RSSI du secteur de la santé évoluent dans l'un des environnements de sécurité les plus exigeants : ils doivent concilier la continuité des soins, la complexité réglementaire et la prolifération technologique.
+- Opérant à partir d’un appareil de la taille d’un dictionnaire de poche, il s’agit d’un programme basé sur l’intelligence artificielle (IA) capable de se protéger et de se reconstruire en cas de menaces ou de dysfonctionnements, et donc de protéger les appareils auxquels il est connecté.
+- Il fonctionne comme une petite entreprise : son noyau auto-résilient, composé d’une équipe de trois éléments – l’un chargé des spécifications (ou d’écrire les requis), un autre chargé du codage et un auditeur – analyse en permanence les vulnérabilités ou anomalies potentielles, élabore des solutions pour y remédier, puis les met en œuvre de manière autonome.
+- « Les agents ne se parlent pas entre eux, dit Bertrand Milot, président-fondateur de la firme de cybersécurité Bradley & Rollins et expert en intelligence artificielle.
+- Il y a des contrôles déterministes que j’ai décidés entre chaque agent.
 
-## [Indicateur de santé du secteur de la santé ISAC - 2e trimestre 2026 - Health-ISAC](https://health-isac.org/fr/Santé-ISAC-Secteur-de-la-santé-Rythme-cardiaque-T2-2026/)  
-*Source : health-isac.org | Publication : 2026-07-20*
+## [Souveraineté numérique, la France multiplie les gestes institutionnels et de terrain](https://itsocial.fr/cybersecurite/cybersecurite-articles/souverainete-numerique-la-france-multiplie-les-gestes-institutionnels-et-de-terrain/)  
+*Source : itsocial.fr | Publication : 2026-07-21*
 
-- Santé-ISAC Health Sector Heartbeat – T2 2026 Le rythme cardiaque du secteur de la santé au deuxième trimestre (T2) 2026 de Health-ISAC Ce rapport trimestriel présente des observations sur les ransomwares, les tendances en matière de cybercriminalité et les publications malveillantes sur les forums susceptibles d'affecter les organismes du secteur de la santé.
-- Ce document vise à assurer une veille stratégique, et Health-ISAC recommande à ses membres affiliés aux entreprises victimes ou potentiellement concernées de prendre les mesures appropriées pour sécuriser leurs infrastructures critiques.
-- Ce rapport comprend : Attaques de rançongiciels dans le secteur de la santé - Tendances des alertes ciblées - Activité des forums underground - Profil de l'acteur menaçant : World Leaks - Stratégies d'atténuation - Ressources et actualités connexes - La cybersécurité dans le secteur de la santé est toujours liée aux personnes.
-- - Rapport d'analyse comparative des RSSI de Health-ISAC 2026 - Analyses des interventions en cas d'incident en juin - Le nouveau cadre de cybersécurité des infrastructures critiques propose des options aux gouvernements et aux conseils régionaux.
+- Trois semaines de juillet ont vu se multiplier les gestes de souveraineté numérique en France, du rapport parlementaire chiffrant la dépendance aux acteurs américains à l’initiative Cyber 2027 d’Hexatrust et du Forum Incyber, en passant par la signature Scaleway chez Airbus et la bascule du CNRS hors des outils Microsoft.
+- Un même épisode, la coupure d’accès aux modèles Anthropic imposée fin juin par le gouvernement américain, revient dans plusieurs de ces dossiers comme la preuve que la dépendance a un prix concret.
+- Les acteurs qui la citent n’agissent pourtant pas pour les mêmes raisons ni au même rythme, et rien n’indique qu’ils se coordonnent.
+- Entre le 7 et le 20 juillet 2026, le paysage français de la souveraineté numérique a changé de rythme.
 
-## [Seules 35% des organisations maîtrisent leur souveraineté numérique au Maroc - YouTube](https://www.youtube.com/shorts/obwFSYyj0uY)  
-*Source : youtube.com | Publication : 2026-07-20*
+## [Microsoft livre un Patch Tuesday record de 622 CVE, dont deux failles déjà exploitées](https://itsocial.fr/cybersecurite/cybersecurite-actualites/microsoft-livre-un-patch-tuesday-record-de-622-cve-dont-deux-failles-deja-exploitees/)  
+*Source : itsocial.fr | Publication : 2026-07-21*
+
+- Le cycle de correctifs mensuel de juillet 2026 de Microsoft comble 622 vulnérabilités en une seule livraison, un volume que l'éditeur de cybersécurité CrowdStrike chiffre à cinq fois celui de mai.
+- Deux failles déjà exploitées touchent Active Directory Federation Services et SharePoint Server, tandis qu'une troisième, qui affecte le chiffrement de disque BitLocker, reste sans correctif malgré sa divulgation publique.
+- Sur les 622 vulnérabilités corrigées, 255 relèvent d'une élévation de privilèges, soit 41 % du lot, 166 d'une exécution de code à distance, soit 27 %, et 109 d'une divulgation d'informations, soit 18 %.
+- Windows concentre l'essentiel des correctifs avec 413 entrées, suivi des mises à jour de sécurité étendues avec 335 entrées et de la suite Office avec 95 entrées, les mêmes failles pouvant toucher plusieurs produits à la fois.
+
+## [Cette fonction du téléphone activée en permanence chez beaucoup d'utilisateurs peut vous ...](https://www.lacremedugaming.fr/high-tech/cette-fonction-du-telephone-activee-en-permanence-chez-beaucoup-dutilisateurs-peut-vous-mettre-en-danger-220520.html)  
+*Source : lacremedugaming.fr | Publication : 2026-07-21*
+
+- Cette fonction du téléphone activée en permanence chez beaucoup d’utilisateurs peut vous mettre en danger Vous quittez la maison, vous rangez votre smartphone dans la poche et vous n’y pensez plus.
+- En coulisses pourtant, une fonction continue d’émettre des signaux autour de vous, sans que vous ayez ouvert la moindre application.
+- Cette fonction, c’est le Wi-Fi du smartphone, souvent laissé activé en permanence avec la connexion automatique aux réseaux publics.
+- Ces dernières semaines, des experts en cybersécurité et l’autorité allemande BSI rappellent qu’il s’agit d’un vrai risque pour vos données et votre vie privée, alors qu’un simple réglage limite fortement le problème.
+
+## [IA, <b>cybersécurité</b>, santé... les filières qui dessinent le Maroc de demain - Le Matin](https://lematin.ma/enseignement/ia-cybersecurite-sante-les-filieres-qui-dessinent-le-maroc-de-demain/357211/amp)  
+*Source : lematin.ma | Publication : 2026-07-21*
+
+- Enseignement Nezha Maachi 21 Juillet 2026.
+- Après le bac : quelles études pour les métiers de demain ?.
+- Intelligence artificielle, transition énergétique, industrie 4.0, cybersécurité, santé, data… Le marché de l’emploi marocain connaît de profondes mutations qui redéfinissent les compétences recherchées par les entreprises.
+- Dans ce contexte, choisir ses études après le baccalauréat ne consiste plus seulement à décrocher un diplôme, mais à construire un parcours capable d’évoluer avec les métiers de demain.
+
+## [La Financière d'Orion (finorion) ciblée par <b>ransomware</b>, une fuite de données revendiquée en ligne](https://frenchbreaches.com/alertes/la-financi-re-d-orion-finorion-rw_VEdFZ1JtbHVZVzVqYWNPb2NtVWdaQ2RQY21sdmJpQW9abWx1YjNKcGIyNHBRRzV2ZG1FPQ)  
+*Source : frenchbreaches.com | Publication : 2026-07-21*
+
+- Since 2009, we have been helping to create a privileged relationship between wealth professionals and their clients.
+- The wealth of our experience allows us to deploy innovative, coherent financial engineering levers that are perfectly tailored to your aspirations and objectives - Nova have 20GB of clients documents data and company finance informations, for example convestion ERES.pdf, secrets is here, Contact us for more details, Nova Provide tree and samples from stolen data to the company when its get in touch with support department.
+- Si cet article vous a plu, n’hésitez pas à nous suivre sur X pour plus de contenus exclusifs.
+
+## [Une enquête ouverte après un piratage informatique visant le Rassemblement national](https://www.lemonde.fr/pixels/article/2026/07/21/une-enquete-ouverte-apres-un-piratage-informatique-visant-le-rassemblement-national_6729000_4408996.html)  
+*Source : lemonde.fr | Publication : 2026-07-21*
+
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
+
+## [Mailinblack intègre MCA Technology à son réseau de distribution - ChannelBiz |](https://www.channelbiz.fr/2026/07/21/mailinblack-integre-mca-technology-a-son-reseau-de-distribution/amp/)  
+*Source : channelbiz.fr | Publication : 2026-07-21*
+
+- Mailinblack annonce l’intégration de MCA Technology à son réseau de distribution officiel.
+- Ce grossiste à valeur ajoutée spécialisé dans les infrastructures IT apporte à l’éditeur marseillais un réseau de plus de 3 000 revendeurs, intégrateurs et partenaires corporate répartis sur l’ensemble du territoire national.
+- Une addition significative pour Mailinblack, qui poursuit méthodiquement la construction de son écosystème indirect.
+- MCA Technology propose plus de 10 000 références dans les domaines de la cybersécurité, du stockage et de la protection des données.
+
+## [Togo–Luxembourg : trois accords de 78,55 M€ pour l'environnement, le développement et ...](https://www.capmad.com/article/togoluxembourg-trois-accords-de-7855-m-pour-lenvironnement-le-developpement-et-la-cybersecurite)  
+*Source : capmad.com | Publication : 2026-07-21*
+
+- Le ministre togolais des Affaires étrangères, de l'Intégration régionale et des Togolais de l'extérieur, Robert Dussey, et le Vice‑Premier ministre, ministre des Affaires étrangères et du Commerce extérieur du Grand‑Duché de Luxembourg, Xavier Bettel, ont signé trois accords de coopération pour un montant total de 78,55 millions d'euros, destinés à financer le programme environnemental INCLURE, le Programme indicatif de coopération (PIC) Togo‑Luxembourg 2026‑2031 et le programme de cybersécurité TogoCyber+.
+- Les trois instruments, paraphés en présence de la ministre togolaise de l'Efficacité du Service public et de la Transformation numérique, Cina Lawson, structurent à la fois l'appui budgétaire luxembourgeois au Togo, la montée en puissance d'un portefeuille climat‑biodiversité autour d'INCLURE et la sécurisation des infrastructures numériques stratégiques via TogoCyber+.
+- Selon la diplomatie togolaise, INCLURE – Initiative pour la croissance locale, l'utilisation des ressources et l'équilibre des écosystèmes protégés – doit soutenir des projets territoriaux conciliant création de richesses et protection des aires sensibles, tandis que le PIC fixe le cadre stratégique et financier de la coopération bilatérale, et que TogoCyber+ cible le renforcement des capacités nationales en cybersécurité.
+- Les autorités précisent que l'enveloppe de 78,55 millions d'euros couvre la période du PIC et s'inscrit dans la trajectoire d'un partenariat engagé depuis l'Accord général de coopération de septembre 2024, en consolidant le positionnement du Togo comme hub réformateur en Afrique de l'Ouest.
+
+## [Le Centre Hospitalier de Métropole Savoie capitalise sur sa plateforme IAM - LeMagIT](https://www.lemagit.fr/etude/Le-Centre-Hospitalier-de-Metropole-Savoie-capitalise-sur-sa-plateforme-IAM)  
+*Source : lemagit.fr | Publication : 2026-07-21*
+
+- Le Centre Hospitalier de Métropole Savoie capitalise sur sa plateforme IAM Déployé comme un outil de productivité pour mieux gérer les accès physiques et logiques au nouvel hôpital de Chambéry, l’IAM a été l’occasion de structurer l’ensemble des processus liés aux identités.
+- Créé en 2015 par la fusion des hôpitaux d'Aix-les-Bains et de Chambéry, le Centre Hospitalier de Métropole Savoie (CHMS) est l'établissement support du groupe hospitalier du territoire Savoie-Belley.
+- Avec 5 076 salariés, dont 37 agents à la DSI, il a fait le choix, il y a une dizaine d’années, de se doter d’un IAM pour gérer les identités des agents et de toutes les personnes amenées à accéder aux locaux de ses différents établissements.
+- L’une des particularités de ce projet est d’avoir été initié pour répondre non pas à une volonté de renforcer la sécurité des accès utilisateurs, mais bien d’améliorer la gestion du cycle de vie des identités : « lorsque le projet a été initié, l’IAM n'était pas encore une priorité cybersécurité comme aujourd’hui », résume William Elmidoro, Responsable des systèmes d’information du CHMS.
+
+## [Le Rassemblement national visé par un piratage informatique, le parti annonce qu'il va porter plainte](https://www.ouest-france.fr/politique/rassemblement-national/le-rassemblement-national-vise-par-un-piratage-informatique-le-parti-annonce-quil-va-porter-plainte-6f070a68-84e5-11f1-94d8-e478b94a49e4)  
+*Source : ouest-france.fr | Publication : 2026-07-21*
+
+- cybercriminalité , a indiqué le parquet de Paris à « Ouest-France ».
+- Une enquête a été ouverte et confiée à la brigade de lutte contre la.
+
+## [Challenge Inspire | Anas Chanaa : l'entrepreneur qui révolutionne la <b>cybersécurité</b> avec l'IA](https://www.youtube.com/watch?v=Ww0JWTwH-Rg)  
+*Source : youtube.com | Publication : 2026-07-21*
 
 - About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [<b>Cybersécurité</b> : Seules 35% des organisations maîtrisent leur souveraineté numérique au Maroc](https://lematin.ma/videos/35-des-organisations-maitrisent-leur-souverainete-numerique-au-maroc/357001/amp)  
-*Source : lematin.ma | Publication : 2026-07-20*
+## [Le Rassemblement national victime d'une cyberattaque, « une exposition massive de données](https://www.sudouest.fr/economie/cybersecurite/le-rassemblement-national-victime-d-une-cyberattaque-une-exposition-massive-de-donnees-ecartee-30014756.php)  
+*Source : sudouest.fr | Publication : 2026-07-21*
 
-- Matin TV Activités Royales Nation Économie Monde Société Culture Régions Emploi Enseignement Sports Automobile Chroniques Nos Spéciaux Videos Cybersécurité : Seules 35% des organisations maîtrisent leur souveraineté numérique au Maroc mohamed Sellam 20 Juillet 2026 À 18:56 Your browser doesn't support HTML5 audio L'AUSIMètre 2026 montre une progression de la maturité en cybersécurité des organisations marocaines, mais met en évidence des faiblesses persistantes en matière de souveraineté numérique.
-- L'indice global de maturité atteint 56%, contre 49% un an auparavant, grâce au renforcement de la gouvernance et des investissements.
-- Articles similaires Vacances d'été : Comment mieux gérer le temps d'écran des enfants Vague de chaleur : Les bons réflexes pour limiter les risques pour la santé Offshoring : Le Maroc dans le top 20 mondial de la préparation à l’IA Copyright Groupe le Matin © 2026.
+- Le parti d’extrême dénonce une intrusion malveillante visant le compte d’un seul candidat aux élections municipales, écartant une exposition massive de données.
+- Le compte X de Marine Le Pen a également été piraté Le Rassemblement national a dénoncé mardi une « tentative d’intrusion malveillante » du compte de l’un de ses candidats aux dernières élections municipales, écartant « une exposition massive de données » du parti qui va porter plainte.
 
-## [HugginFace montre comment les garde-fous des LLM nuisent à leur utilité | LeMagIT](https://www.lemagit.fr/actualites/366646073/HugginFace-montre-comment-les-garde-fous-des-LLM-nuisent-a-leur-utilite)  
-*Source : lemagit.fr | Publication : 2026-07-20*
+## [Google met à jour ses modèles Gemini allégés, mais le modèle phare est toujours en retard](https://www.boursorama.com/bourse/actualites-amp/google-met-a-jour-ses-modeles-gemini-alleges-mais-le-modele-phare-est-toujours-en-retard-a572ec1f51c0c66ecf5044b2ab086220)  
+*Source : boursorama.com | Publication : 2026-07-21*
 
-- Priya - stock.adobe.com HugginFace montre comment les garde-fous des LLM nuisent à leur utilité Les garde-fous des LLM, conçus pour la sécurité, peuvent paradoxalement entraver l'efficacité cognitive et l'analyse en temps de crise, jusqu'à entamer sévèrement l'utilisé des modèles concernés.
-- HuggingFace a été victime d'un incident de cybersécurité en début de semaine dernière.
-- Un épisode éclairant à plus d'un égard.
-- L'intrusion a débuté dans le pipeline de traitement des données, où un jeu de données malveillant a exploité deux chemins d'exécution de code.
+- Google met à jour ses modèles Gemini allégés, mais le modèle phare est toujours en retard information fournie par Reuters 21/07/2026 à 17:00 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Google indique que Gemini 3.5 Pro est actuellement testé auprès de partenaires et sera bientôt disponible * Parmi les nouvelles versions, on trouve Gemini 3.6 Flash, Gemini 3.5 Flash-Lite et Gemini 3.5 Flash Cyber * Google indique que l'entraînement de Gemini 4 a commencé par Kenrick Cai Google, filiale d’Alphabet GOOGL.O , a annoncé mardi le lancement de trois versions plus abordables de son modèle d’IA Gemini, sans toutefois donner de nouvelles informations sur le calendrier de sortie du modèle phare « Pro », dont le lancement a déjà été repoussé de plusieurs semaines.
+- La nouvelle gamme de modèles comprend Gemini 3.6 Flash et Gemini 3.5 Flash-Lite, des versions mises à jour de ses offres allégées , conçues pour des cas d’utilisation ne nécessitant pas les technologies les plus de pointe.
+- Google a également dévoilé une nouvelle variante allégée, Gemini 3.5 Flash Cyber, spécialement adaptée aux applications de cybersécurité.
+- Mais tous les regards sont tournés vers le lancement de Gemini 3.5 Pro, la version haut de gamme du modèle, que Wall Street attend comme un indicateur permettant de déterminer si le laboratoire d’IA DeepMind de Google est capable de rivaliser avec Anthropic et OpenAI.
 
-## [Exclusive Networks crée une Global AWS Business Unit - ChannelBiz |](https://www.channelbiz.fr/2026/07/20/exclusive-networks-cree-une-global-aws-business-unit-pour-accelerer-ladoption-dun-cloud-securise-via-le-channel/amp/)  
-*Source : channelbiz.fr | Publication : 2026-07-20*
+## [Programme de notification du CRA - ANSSI](https://cyber.gouv.fr/reglementation/cybersecurite-des-produits/cyber-resilience-act/programme-de-notification-du-cra/)  
+*Source : cyber.gouv.fr | Publication : 2026-07-21*
 
-- Exclusive Networks annonce une étape majeure dans le renforcement de ses capacités AWS à l’échelle mondiale.
-- Le distributeur regroupe ses expertises cloud AWS, ses services Marketplace AWS et ses services professionnels au sein d’un cadre mondial unique et coordonné.
-- L’objectif est clair : aider ses partenaires et éditeurs à saisir les opportunités à l’intersection de l’adoption du cloud et de la cybersécurité.
-- Pour piloter cette expansion, Exclusive Networks crée une Global AWS Business Unit, placée sous la direction de Haroon Iqbal.
+- Programme de notification du CRA A compter du 11 décembre 2027, tous les produits comportant des éléments numériques placés sur le marché européen devront satisfaire aux exigences essentielles définies dans le CRA.
+- Dans certains cas, notamment pour les catégories de produits importants de classe II et critiques définies à l’Annexe III du CRA, la démonstration de la conformité aux exigences essentielles doit être basée sur une évaluation indépendante réalisée par un organisme notifié (ON).
+- Pour être notifié, un organisme d'évaluation de la conformité (OEC) doit en faire la demande auprès de l'ANSSI qui, en tant qu’autorité notifiante, est en charge d’évaluer, de notifier et de contrôler les organismes d’évaluation de la conformité exerçant dans le cadre du CRA.
+- L’ANSSI notifiera les organismes sur la base de leur accréditation obtenue auprès du COFRAC, selon le standard ISO/IEC 17065 pour l’évaluation selon le module B et sur le standard ISO/IEC 17021 pour l’évaluation selon le module H.
 
-## [Airbus : commande de 6 A350 et de 2 contrats d'hélicoptères - La Télé](https://latele.ch/articles/une-commande-d-a350-et-deux-d-helicopteres-pour-airbus)  
-*Source : latele.ch | Publication : 2026-07-20*
+## [Accord cadre aux Pays-Bas pour ESET - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/924-republique-numerique/65108-accord-cadre-aux-pays-bas-pour-eset.html)  
+*Source : linformaticien.com | Publication : 2026-07-21*
 
-- Airbus : commande de 6 A350 et de 2 contrats d'hélicoptères Une commande de six A350 pour Airbus Airbus a annoncé lundi une commande de six avions A350 et deux commandes d'hélicoptères, à l'occasion de l'ouverture du salon aéronautique de Farnborough, au Royaume-Uni.
-- Les six A350-1000 sont destinés à une compagnie saoudienne qui a effectué son vol inaugural en juin, Riyadh Air.
-- Ils s'ajoutent à une commande de 25 autres appareils annoncée en 2025, qui pouvait monter jusqu'à 50 unités.
-- "L'A350-1000 jouera un rôle important pour soutenir les objectifs du plan Vision 2030 de l'Arabie saoudite, et contribuer au positionnement du royaume comme grande plaque tournante du transport aérien international", s'est félicité un dirigeant de la partie commerciale du groupe, Benoît de Saint-Exupéry, cité dans un communiqué.
-
-## [Souveraineté numérique : l'Europe peut-elle reprendre le contrôle - it social](https://itsocial.fr/cybersecurite/cybersecurite-cas-dusages/souverainete-numerique-leurope-peut-elle-reprendre-le-controle-salon-souverainete-numerique/)  
-*Source : itsocial.fr | Publication : 2026-07-20*
-
-- Interview - Directeur Général Adjoint - BPCE SOLUTIONS INFORMATIQUES -Cherkaoui NOUAMANE LA DÉPENDANCE1 - Notre dépendance technologique est-elle matérielle ou d'abord culturelle ?.
-- Notre dépendance est à la fois matérielle et cognitive.
-- Après plusieurs décennies de délocalisations, l'Europe dépend d'acteurs étrangers pour ses infrastructures critiques (data centers, puces, cloud) mais aussi pour les modèles d'intelligence artificielle, qui influencent nos usages et notre manière d'appréhender l'information.
-- Retrouver notre souveraineté passe par la réinternalisation des compétences, des technologies et des capacités industrielles.
-
-## [NordVPN, votre <b>cybersécurité</b> au quotidien pour 3,37 €/mois - Ouest-France](https://www.ouest-france.fr/shopping/high-tech/vpn/nordvpn-votre-cybersecurite-au-quotidien-pour-3-37-euros-mois-05d30856-81c7-11f1-8650-d79ccbde952a)  
-*Source : ouest-france.fr | Publication : 2026-07-20*
-
-- La sécurité au quotidien en ligne est pratiquement impossible sans VPN.
-- Bien que certaines manipulations limitent l'exposition, le VPN permet.
-
-## [Android : une faille critique de Gemini permet d'envoyer des messages sans déverrouiller l'écran](https://www.01net.com/actualites/android-faille-critique-gemini-permet-envoyer-messages-sans-deverrouiller-ecran.html)  
-*Source : 01net.com | Publication : 2026-07-20*
-
-- Depuis le mois de mai, une faille de sécurité touche les smartphones équipés d’Android 16 sur lesquels Gemini est accessible depuis l’écran de verrouillage.
-- Une personne mal intentionnée peut ainsi envoyer des SMS ou des messages WhatsApp à votre insu.
-- Google a reconnu l’existence de cette faille de sécurité et déploie actuellement un correctif pour colmater la brèche.
-- Une faille à ne pas prendre à la légère En temps normal, si quelqu’un tente d’envoyer un SMS via l’IA depuis l’écran verrouillé, Gemini demande d’ouvrir l’application concernée.
-
-## [<b>Cybersécurité</b> et finance illicite : Le Nigeria et le Royaume-Uni scellent un pac](https://www.sikafinance.com/marches/cybersecurite-et-finance-illicite-le-nigeria-et-le-royaume-uni-scellent-un-pacte-de-cooperation-technologique_63090)  
-*Source : sikafinance.com | Publication : 2026-07-20*
-
-- Un pacte technologique vient d'être scellé entre le Nigeria et le Royaume-Uni pour faire front commun face aux défis complexes du monde numérique.
-- Ces accords se traduisent concrètement par une alliance défensive et technique axée sur la neutralisation des cyberattaques, le renforcement des infrastructures numériques et la traque des flux financiers occultes.
-- Cette coopération d'envergure procède directement du Quatrième dialogue sur le partenariat en matière de sécurité et de défense (SDP) dont le communiqué officiel a été publié le 17 juillet 2026.
-- Les fondations de cette alliance renouvelée ont été posées lors de rencontres de haut niveau tenues les 23 et 24 juin 2026 à Abuja, au sein du Bureau du conseiller à la sécurité nationale du gouvernement fédéral du Nigeria.
-
-## [Cyan AG étend sa solution de <b>cybersécurité</b> aux filiales de MásOrange en Espagne](https://www.zonebourse.com/actualite-bourse/cyan-ag-etend-sa-solution-de-cybersecurite-aux-filiales-de-m-sorange-en-espagne-ce7f51dbda81f726)  
-*Source : zonebourse.com | Publication : 2026-07-20*
-
-- cyan AG a annoncé l&#039;extension de sa solution de cybersécurité « Ciber Protección », actuellement déployée par Orange Espagne, à trois filiales supplémentaires de MásOrange : Euskaltel, R et Telecable.
-- Ce déploiement cible les clients B2B (Business-to-Business) et les petites et moyennes entreprises (PME), avec un accent particulier sur le nord de l&#039;Espagne.
-- Cette initiative s&#039;appuie sur la forte dynamique commerciale de « Ciber Protección » chez Orange Espagne et vise à reproduire ce succès au sein des autres entités de MásOrange.Cette solution de cybersécurité complète est conçue pour protéger les connexions internet et les terminaux des entreprises contre les menaces numériques, telles que le phishing (hameçonnage), qui demeure la cybermenace la plus importante pour les sociétés en Espagne.
-- Avec cette expansion, MásOrange renforce son portefeuille de services de cybersécurité destinés aux entreprises en proposant une solution intégrée et simple d&#039;utilisation, qui améliore la résilience numérique sans ajouter de complexité pour ses clients.
-
-## [Quand les caméras de surveillance deviennent des outils d'espionnage militaire](https://moncarnet.com/2026/07/20/quand-les-cameras-de-surveillance-deviennent-des-outils-despionnage-militaire/)  
-*Source : moncarnet.com | Publication : 2026-07-20*
-
-- Les caméras de surveillance connectées ne servent plus uniquement à protéger des bâtiments ou à surveiller la circulation.
-- Lorsqu’elles sont mal sécurisées, elles peuvent être détournées par des États pour observer les conséquences d’une attaque, suivre des déplacements militaires ou recueillir des renseignements sur des infrastructures stratégiques.
-- Depuis le début de la guerre entre Israël et l’Iran, des groupes liés à Téhéran auraient réussi à prendre le contrôle d’au moins 50 caméras de sécurité en Israël, selon la Direction nationale israélienne de la cybersécurité.
-- Les autorités ignorent combien de temps les pirates ont pu accéder aux images avant que les intrusions soient détectées.
-
-## [Lionel Chmilewsky, directeur général d'Ekinops : « Dans la <b>cybersécurité</b>, l'un de nos ... - Investir](https://investir.lesechos.fr/marches-indices/opinions/lionel-chmilewsky-directeur-general-dekinops-dans-la-cybersecurite-lun-de-nos-principaux-differenciateurs-repose-sur-un-binome-bien-rode-depuis-des-annees-entre-lia-et-les-humains-2243297)  
-*Source : investir.lesechos.fr | Publication : 2026-07-20*
-
-- Lionel Chmilewsky, directeur général d'Ekinops : « Dans la cybersécurité , l'un de nos principaux différenciateurs repose sur un binôme bien rodé.
-
-## [Synology ActiveProtect DP7400 vu par les pros… La restauration en mode objet renoue ... - ZDNET](https://www.zdnet.fr/cybersecurite/synology-activeprotect-dp7400-vu-par-les-pros-la-restauration-en-mode-objet-renoue-avec-la-granularite-497783.htm)  
-*Source : zdnet.fr | Publication : 2026-07-20*
-
-- Pour optimiser l'espace de stockage, le DP7400 consolide plusieurs fichiers en une seule image et s'appuie sur une déduplication globale à la source, ne transmettant que les données non dupliquées.
-- Au-delà de cette optimisation côté sauvegarde, c'est sur le terrain de la restauration que Stéphane Micard, responsable infrastructure informatique chez Reworld Media, a relevé la caractéristique la plus marquante du test : la possibilité d'aller chercher un document précis au sein d'une sauvegarde, sans devoir restaurer l'intégralité d'une machine.
-- Une approche en mode objet, héritée d'une autre époque « C'est du mode objet », résume Stéphane Micard, qui y voit un écho à des outils plus anciens du marché de la sauvegarde : « Pour revenir à mon expérience passée, j'ai connu des modes de sauvegarde qui fonctionnaient ainsi à une époque où les volumétries étaient bien plus restreintes, mais surtout où les unités de stockage coûtaient beaucoup plus cher.
-- Il y avait un vrai souci d'optimisation, avec une déduplication au niveau du fichier ou de l'objet.
-
-## [Après le bac : quelles études pour les métiers de demain ? - Le Matin](https://lematin.ma/enseignement/apres-le-bac-quelles-etudes-pour-les-metiers-de-demain/356968/amp)  
-*Source : lematin.ma | Publication : 2026-07-20*
-
-- Matin TV Activités Royales Nation Économie Monde Société Culture Régions Emploi Enseignement Sports Automobile Chroniques Nos Spéciaux Enseignement Après le bac : quelles études pour les métiers de demain ?.
-- Intelligence artificielle, transition énergétique, industrie 4.0, cybersécurité, santé, data… Le marché de l’emploi marocain connaît de profondes mutations qui redéfinissent les compétences recherchées par les entreprises.
-- Dans ce contexte, choisir ses études après le baccalauréat ne consiste plus seulement à décrocher un diplôme, mais à construire un parcours capable d’évoluer avec les métiers de demain.
-- À travers les analyses d’acteurs de l’enseignement supérieur et d’experts du recrutement, ce dossier décrypte les secteurs les plus porteurs, les nouvelles attentes des employeurs et les clés d’une orientation réussie.
+- Cet accord permet aux organismes publics d'accéder aux solutions de cybersécurité d'ESET selon des conditions négociées en amont.
+- Il s'inscrit dans la.
