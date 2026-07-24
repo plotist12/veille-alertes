@@ -1,149 +1,156 @@
-# Résumés – 2026-07-22
+# Résumés – 2026-07-24
 
 
-## [Rockwell Automation renforce la <b>cybersécurité</b> OT de Luminus - Mesures.com](https://www.mesures.com/automatisme/supervision/rockwell-automation-renforce-la-cybersecurite-ot-de-luminus/)  
-*Source : mesures.com | Publication : 2026-07-22*
+## [Complexité du paysage des acteurs de la <b>cybersécurité</b> pour les communes - Sénat](https://www.senat.fr/questions/base/2026/qSEQ260709605.html)  
+*Source : senat.fr | Publication : 2026-07-23*
 
-- Afin de renforcer la résilience de ses infrastructures industrielles, Luminus déploie la plateforme SecureOT de Rockwell Automation, dédiée à la visibilité des actifs OT et à la gestion des cyber-risques.
-- La plate-forme SecureOT de Rockwell Automation a été retenue par le producteur et fournisseur d’énergie belge Luminus pour renforcer la cybersécurité de ses infrastructures industrielles.
-- Ce déploiement doit permettre d’améliorer la visibilité sur les actifs OT, d’identifier les vulnérabilités et de hiérarchiser les risques dans un environnement de production associant centrales thermiques, hydrauliques, éoliennes et systèmes de stockage par batteries.
-- Conçue pour les environnements industriels, SecureOT offre une gestion centralisée des actifs, des vulnérabilités et des risques, tout en s’appuyant sur une approche indépendante des fournisseurs.
+- Question de M. BONHOMME François (Tarn-et-Garonne - Les Républicains-A) publiée le 23/07/2026 M. François Bonhomme appelle l'attention de Mme la ministre déléguée auprès du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique, chargée de l'intelligence artificielle et du numérique sur la complexité croissante pour les communes, en particulier pour les plus petites d'entre elles, liée à la multiplication des acteurs institutionnels intervenant en matière de cybersécurité.
+- En effet, les communes doivent composer avec une pluralité d'interlocuteurs aux missions distinctes : l'agence nationale de la sécurité des systèmes d'information (ANSSI), la commission nationale de l'informatique et des libertés (CNIL), le dispositif cybermalveillance.gouv.fr, les établissements publics de coopération intercommunale (EPCI) et syndicats informatiques mutualisés, les centres de gestion, ainsi que, le cas échéant, leurs prestataires informatiques et assureurs.
+- À ce sujet, le conseil supérieur du numérique et de la poste (CSNP) a recommandé que la responsabilité de désignation des collectivités locales soumises à la directive NIS2 soit centralisée au niveau de l'ANSSI.
+- La stratégie nationale de cybersécurité 2026-2030, présentée le 29 janvier 2026, annonce la création d'un guichet unique s'appuyant sur le dispositif 17Cyber et un futur portail « Mes services cyber ».
 
-## [Le Vietnam propose cinq domaines prioritaires de la coopération ASEAN - Japon](https://lecourrier.vn/le-vietnam-propose-cinq-domaines-prioritaires-de-la-cooperation-asean-japon/1351905.html)  
-*Source : lecourrier.vn | Publication : 2026-07-22*
+## [AlerteCyber : Failles de sécurité critiques dans WordPress - Cybermalveillance.gouv](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/alertecyber-failles-de-securite-critiques-dans-wordpress-202607)  
+*Source : cybermalveillance.gouv.fr | Publication : 2026-07-23*
 
-- >> Renforcement des échanges théoriques et politiques entre le PCV et le PLD du Japon >> Approfondir le Partenariat stratégique global entre le Vietnam et le Japon >> Le Vietnam considère le Japon comme un partenaire stratégique de premier plan Coprésidant avec son homologue japonais Motegi Toshimitsu la 17e réunion des ministres des Affaires étrangères Mékong-Japon, le chef de la diplomatie vietnamienne a souligné que la coopération Mékong - Japon devait continuer à s’adapter, à se renouveler et à apporter des avantages concrets aux populations et aux entreprises.
-- Les deux ministres ont affirmé qu’après près de 20 ans, la coopération Mékong-Japon est devenue un mécanisme important pour promouvoir la connectivité, le développement durable et relever les défis transfrontaliers dans la sous-région.
-- Parallèlement, cette coopération, de concert avec les mécanismes dirigés par l’ASEAN, contribue à l’édification d’une région Asie-Pacifique et océan Indien pacifique, stable, résiliente et prospère.
-- Ils ont souligné que, dans le contexte des nombreux changements, des nouvelles opportunités de coopération et des défis interdépendants auxquels la région est confrontée, la coopération Mékong-Japon doit continuer de se renouveler pour s’adapter à la situation et mieux répondre aux besoins d’un espace de développement élargi pour les pays de la sous-région du Mékong et le Japon.
+- \n\n \n\n \n \n \n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n\n \n \n \n\n \n\n \n\n \n \n \n \n \n\n \n \n Failles de sécurité critiques dans WordPress\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n\n \n \n\n \n \n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n Date de l’alerte : 23/07/2026\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n Risques\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n \nEspionnage, vol, voire destruction de vos données suite à la prise de contrôle à distance de vos équipements concernés.\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n Description\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n \nDeux failles de sécurité critiques ont été corrigées dans WordPress.\n \n \n \nL’exploitation combinée de ces vulnérabilités par une personne malveillante peut lui permettre la prise de contrôle à distance des équipements concernés et l’espionnage, le vol, voire la destruction, d’informations.\n \n \n \n \nDes cybercriminels pourraient très prochainement exploiter ces failles pour conduire des attaques massives contre les systèmes vulnérables.\n \n \n \nWordPress a publié des mises à jour qui corrigent ces vulnérabilités et protègent de leur exploitation.\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n \n Systèmes concernés\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n \n \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t WordPress versions 6.8.x, versions antérieures à 6.8.6\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t WordPress versions 6.9.x, versions antérieures à 6.9.5\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t WordPress versions 7.1.x, versions antérieures à 7.1 beta2\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t WordPress versions 7.x, versions antérieures à 7.0.2\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n \n \n Mesures à prendre\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n \nMettre à jour au plus vite les équipements et logiciels concernés avec les correctifs de sécurité mis à disposition par l’éditeur.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\nSi cela n’est pas possible, il est recommandé de bloquer l’accès non authentifié à l’API REST de WordPress.\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n Procédure\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \nSe référer au bulletin de sécurité de l’éditeur pour obtenir les correctifs :\n\n\nhttps://wordpress.org/news/2026/07/wordpress-7-0-2-release/ \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n Besoin\n d’assistance\n ?\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n\n \n \n \n \n \nVous pouvez trouver sur Cybermalveillance.gouv.fr des prestataires de proximité susceptibles de vous apporter leur soutien dans la mise en œuvre de ces mesures : ici.\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n \n Références\n \n\n \n \n \n \n \n ANSSI / CERT-FR :\n \n https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-007/\n \n \n \n \n \n \n \n CVE-2026-60137 :\n \n https://www.cve.org/CVERecord?id=CVE-2026-60137\n \n \n \n \n \n \n CVE-2026-63030 (alias WP2Shell) :\n \n https://wp2shell.com/\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n Aller plus loin avec Cybermalveillance.gouv.fr :\n Pourquoi et comment bien gérer ses mises à jour ?\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n.
 
-## [Un « cyberincident sans précédent » : OpenAI reconnaît que ses agents d'IA ont piraté, de ...](https://www.lemonde.fr/pixels/article/2026/07/22/openai-fait-etat-d-un-piratage-sans-precedent-d-une-plateforme-par-ses-agents-d-ia_6730004_4408996.html)  
-*Source : lemonde.fr | Publication : 2026-07-22*
+## [Évaluation de maturité Cyber Resilience Act (CRA) pour PME - DCOD | Cybersécurité](https://dcod.ch/outils/evaluation-maturite-cra-pme/)  
+*Source : dcod.ch | Publication : 2026-07-23*
 
-- JavaScript is disabled in your browser.
-- Please enable JavaScript to proceed.
-- A required part of this site couldn’t load.
-- This may be due to a browser extension, network issues, or browser settings.
+- Le Cyber Resilience Act (CRA) impose aux fabricants de produits numériques de nouvelles obligations de cybersécurité — et la plupart des PME concernées ne savent pas où elles en sont.
+- Cette évaluation reprend fidèlement le modèle officiel de maturité de l’ENISA, l’agence de l’Union européenne pour la cybersécurité, traduit en français par DCOD : 25 questions réparties sur 5 domaines (gouvernance, gestion des risques, vulnérabilités, cycle de vie produit, compétences).
+- Répondez à votre rythme et obtenez immédiatement votre score de maturité, votre positionnement (Basique / Intermédiaire / Avancé) et une checklist d’actions concrètes pour progresser.
+- Chargement du questionnaire.
 
-## [Le PDG de Palo Alto Networks qualifie le piratage OpenAI-Hugging Face de « niveau supérieur »](https://fr.finance.yahoo.com/actualites/pdg-palo-alto-networks-qualifie-191623083.html)  
-*Source : fr.finance.yahoo.com | Publication : 2026-07-22*
+## [Le Sommet de l'Asie de l'Est souligne la coopération face aux enjeux stratégiques](https://lecourrier.vn/le-sommet-de-lasie-de-lest-souligne-la-cooperation-face-aux-enjeux-strategiques/1351976.html)  
+*Source : lecourrier.vn | Publication : 2026-07-23*
 
-- Investing.com - Les modèles d'IA pré-lancement d'OpenAI se sont échappés de manière autonome d'un environnement de test isolé (sandbox) et ont pénétré l'infrastructure de production de Hugging Face, générant plus de 17.000 événements d'attaque avant d'être détectés — un incident que le PDG de Palo Alto Networks, Nikesh Arora, a qualifié de nouvelle catégorie de cybermenace.
-- Palo Alto Networks (NASDAQ : PANW), dont l'action s'échangeait autour de 338$ mercredi et affiche une hausse d'environ 86% depuis le début de l'année, est le principal bénéficiaire boursier de l'anxiété croissante autour des cyberattaques pilotées par l'IA.
-- William Blair l'a désigné comme son premier choix dans le secteur de la cybersécurité à la suite de cette intrusion.
-- OpenAI a révélé le 21/07 que deux de ses modèles — GPT-5.6 Sol et un modèle pré-lancement plus puissant dont le nom n'a pas été divulgué — ont exploité une vulnérabilité zero-day dans un proxy de cache de registre de paquets hébergé en interne pour s'échapper de leur environnement de test isolé et accéder à l'internet ouvert.
+- >> AMM-59 : Hanoï et Washington réaffirment leur volonté de renforcer leurs relations >> Le Vietnam incite à renforcer la connectivité et la résilience dans la coopération ASEAN+3 >> Le Vietnam propose de promouvoir des liens ASEAN - UE substantiels et durables Prenant la parole, Lê Hoài Trung a souligné que le rôle central de l'ASEAN avait permis de réunir les dirigeants de l'EAS autour d'un dialogue franc sur les grandes questions stratégiques, favorisant la gestion des différends, le renforcement de la confiance mutuelle et la recherche d'intérêts communs.
+- Afin de renforcer l'efficacité et la pertinence de l'EAS, il a proposé que les pays membres accordent la priorité à une coopération plus étroite dans des domaines ayant des retombées directes pour les populations, notamment l'énergie, la transformation numérique, la cybersécurité, la lutte contre la criminalité transnationale, la cybercriminalité et les escroqueries en ligne.
+- Abordant les questions de paix et de sécurité, le ministre vietnamien a insisté sur l'importance de préserver la paix, la stabilité et le respect du droit international ainsi que des normes de conduite communes dans toutes les régions du monde, y compris en Mer Orientale.
+- Il a salué les efforts de la présidence philippine de l'ASEAN pour assurer des consultations et une coordination régulières entre les États membres afin d'adopter des positions communes face aux situations d'urgence et aux crises.
 
-## [Le rôle de l'IA chinoise dans la neutralisation d'un agent OpenAI malveillant met en ...](https://www.boursorama.com/actualite-economique/actualites-amp/le-role-de-l-ia-chinoise-dans-la-neutralisation-d-un-agent-openai-malveillant-met-en-evidence-le-cout-des-mesures-de-protection-americaines-5121d857aa5abd8eff5a50ee19795984)  
-*Source : boursorama.com | Publication : 2026-07-22*
+## [La Puce à l'Oreille : la <b>cybersécurité</b> se heurte à l'IA | Zonebourse](https://www.zonebourse.com/actualite-bourse/la-puce-a-l-oreille-la-cybersecurite-se-heurte-a-l-ia-ce7f51dede80f42c)  
+*Source : zonebourse.com | Publication : 2026-07-23*
 
-- Le rôle de l'IA chinoise dans la neutralisation d'un agent OpenAI malveillant met en évidence le coût des mesures de protection américaines information fournie par Reuters 22/07/2026 à 20:13 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Mises à jour pour ajouter un commentaire d'OpenAI) par Aditya Soni et Jaspreet Singh Le recours par une start-up new-yorkaise à un modèle d’IA chinois pour maîtriser un agent malveillant développé à l’aide de la technologie d’OpenAI attise les craintes que les restrictions empêchant les entreprises américaines spécialisées dans l’IA de mener des activités de cybersécurité ne poussent les clients vers leurs concurrents basés à Pékin.
-- La start-up concernée, Hugging Face, a déclaré avoir eu recours la semaine dernière au modèle open source GLM-5.2 de Zhipu AI pour analyser les données issues du piratage, après que les principaux modèles d’IA américains ont refusé cette tâche, incapables de faire la distinction entre un défenseur et un attaquant.
-- Bien que la faille ait été causée par un agent autonome qui a échappé au confinement, elle a mis en évidence à quel point les entreprises américaines confrontées à des cyberattaques basées sur l’IA peuvent être limitées par les laboratoires d’IA américains qui, soit restreignent l’accès à leurs modèles les plus avancés, soit les conçoivent pour qu’ils refusent les tâches liées au piratage pour des raisons de sécurité.
-- Par exemple, le modèle avancé Claude Fable 5 d’Anthropic redirige les requêtes en matière de cybersécurité vers un modèle plus ancien, tandis que le GPT-5.6 Sol d’OpenAI intègre des protections conçues pour bloquer les tâches liées à la cybersécurité.
+- Pendant des années, les entreprises ont concentré leurs efforts sur la lutte contre les virus, les ransomwares et les campagnes de phishing.
+- L&#039;arrivée de l&#039;intelligence artificielle générative a profondément changé la donne.
+- Les cybercriminels s&#039;appuient désormais sur ces outils pour automatiser et améliorer leurs attaques, tandis que les défenseurs exploitent les mêmes technologies pour tenter de garder une longueur d&#039;avance.
+- Ce basculement marque un véritable changement de paradigme dans la cybersécurité.Des attaques plus rapides, des défenses à réinventerJusqu&#039;à récemment, lancer une cyberattaque nécessitait du temps, des compétences techniques et une préparation importante.
 
-## [Le piratage d'une fiduciaire vaudoise expose sur le dark web 100 000 dossiers de clients ...](https://www.letemps.ch/suisse/vaud/le-piratage-d-une-fiduciaire-vaudoise-expose-sur-le-dark-web-100-000-dossiers-de-clients-dont-celui-d-un-conseiller-d-etat)  
-*Source : letemps.ch | Publication : 2026-07-22*
+## [Adobe corrige en urgence une faille permettant de détourner son extension Chrome pour ... - Clubic](https://www.clubic.com/actualite-622480-adobe-corrige-en-urgence-une-faille-qui-permettait-de-detourner-son-extension-chrome-pour-lire-vos-conversations-whatsapp.html)  
+*Source : clubic.com | Publication : 2026-07-23*
 
-- Voilà une crise estivale dont tout le monde se serait bien passé.
-- Début juillet, le groupe d’extorsion numérique BravoX, connu pour ses attaques par logiciel de rançon (ransomware), annonçait sur son site clandestin avoir piraté une fiduciaire basée à Yverdon-les-Bains (l’identité de l’entreprise est connue de la rédaction).
-- Le 18 juillet, quelque 220 Go de données y ont été publiées, soit plus de 100 000 dossiers.
-- En début de semaine, le site affichait déjà près de 250 téléchargements, rapporte un spécialiste du dark web.
+- Une faille dans l’extension Adobe Acrobat pour Chrome permettait à un site malveillant d’accéder à des informations et des messages de sessions WhatsApp Web.
+- Adobe a corrigé le problème, et aucune trace d’exploitation active n’a été relevée.
+- Le danger ne venait pas de la messagerie, mais de l’extension chargée d’y ouvrir les PDF.
+- Des chercheurs de Guardio ont découvert qu’un site malveillant pouvait détourner les privilèges d’Adobe Acrobat pour Chrome afin de lire le contenu chargé dans WhatsApp Web, sans mot de passe ni interaction supplémentaire.
 
-## [« Une théorie devenue… réalité » : comment deux modèles d'IA ont hacké leur créateur ...](https://www.leparisien.fr/high-tech/une-theorie-devenue-realite-comment-deux-modeles-dia-ont-hacke-leur-createur-recit-dune-angoissante-premiere-22-07-2026-XMDZ2FY3NRHZ3E2FLTGY7KNWI4.php)  
-*Source : leparisien.fr | Publication : 2026-07-22*
+## [Football féminin : le Maroc remporte le tournoi U17 de l'UNAF - APAnews](https://fr.apanews.net/news/football-feminin-le-maroc-remporte-le-tournoi-u17-de-lunaf/)  
+*Source : fr.apanews.net | Publication : 2026-07-23*
 
-- IA avaient réussi à s'échapper de leurs laboratoires de test dans le cadre d'un exercice de cybersécurité.
-- REUTERS/Dado Ruvic.
-- Lire dans l'app.
-- Offrir.
+- La Fédération royale marocaine de football (FRMF) a annoncé, mercredi sur son site officiel, le sacre de la sélection nationale féminine des moins de 17 ans au Tournoi de l’Union nord-africaine de football (UNAF), organisé en Tunisie du 16 au 22 juillet 2026.
+- La sélection marocaine féminine des moins de 17 ans a remporté le Tournoi de l’Union nord-africaine de football (UNAF) après sa victoire 4-0 face à la Tunisie, pays hôte, lors de la troisième et dernière journée disputée au stade Ariana, a annoncé la Fédération royale marocaine de football (FRMF) dans un communiqué.
+- Les Lioncelles de l’Atlas ont terminé en tête du classement avec sept points, totalisant deux victoires et un match nul.
+- La Tunisie s’est classée deuxième avec six points, devant le Botswana (quatre points), tandis que la Libye a bouclé le tournoi sans inscrire le moindre point, a précisé la FRMF.
 
-## [Accertify et Liminal publient la première étude empirique démontrant l'efficacité de la ...](https://fr.finance.yahoo.com/actualites/accertify-liminal-publient-première-étude-170600995.html)  
-*Source : fr.finance.yahoo.com | Publication : 2026-07-22*
+## [Cl0p revient avec une nouvelle campagne d'exploitation de vulnérabilité - LeMagIT](https://www.lemagit.fr/actualites/366646201/Cl0p-revient-avec-une-nouvelle-campagne-dexploitation-de-vulnerabilite)  
+*Source : lemagit.fr | Publication : 2026-07-23*
 
-- Accertify et Liminal publient la première étude empirique démontrant l’efficacité de la convergence entre la lutte contre la fraude et la cybersécurité, et expliquant comment la mettre en œuvre correctement Une nouvelle étude menée auprès de 250 cadres supérieurs identifie quatre comportements organisationnels associés à un avantage de performance 3,4 fois supérieur à celui des organisations cloisonnées ITASCA, Illinois, July 22, 2026--(BUSINESS WIRE)--Accertify, l'un des principaux fournisseurs de solutions décisionnelles en matière de fraude, dont la plateforme Predictive Yes permet aux commerçants d'accueillir davantage de bons clients, de générer plus de chiffre d'affaires et de stimuler leur croissance, a publié aujourd'hui The Convergence Dividend: Quantifying What Fraud-Cyber Convergence Actually Delivers, une étude exclusive et historique menée en partenariat avec Liminal.
-- Cette étude, menée auprès de 250 responsables de la fraude, des risques et de la sécurité (niveau directeur et supérieur) dans les secteurs du commerce de détail/e-commerce, du voyage, de la restauration/QSR, du divertissement et des médias, et des places de marché, constitue la première preuve empirique à grande échelle que la convergence fraude-cybersécurité produit de meilleurs résultats commerciaux, et la première à identifier les comportements spécifiques qui distinguent les organisations les plus performantes des autres.
-- Si la convergence entre la lutte contre la fraude et la cybersécurité est reconnue comme une priorité par la quasi-totalité (94 %) des personnes interrogées, l'étude a révélé que de nombreuses organisations ne disposent pas d'un cadre clair pour la mettre en œuvre efficacement.
-- Afin d'identifier les pratiques associées aux meilleurs résultats, Accertify et Liminal ont analysé les comportements organisationnels à l'aune d'un indicateur de performance appelé « Precise Yes », visant à mesurer la précision avec laquelle un commerçant répond « oui » à ses clients, définie comme le montant en dollars approuvé pour chaque dollar de rétrofacturation liée à la fraude.
+- Andrey Popov - stock.adobe.com Cl0p revient avec une nouvelle campagne d'exploitation de vulnérabilité Le groupe Cl0p est de retour avec une nouvelle campagne d'exploitation en masse de vulnérabilité critique.
+- Cette fois-ci, la CVE-2026-12569 est à l'honneur et, avec elle, les données de PLM.
+- Le groupe Cl0p est prêt pour une nouvelle campagne.
+- Comme certains l'auront relevé, il a changé ses adresses e-mail de contact.
 
-## [Proofpoint révèle l'existence du malware-as-a-service Cruciferra - ChannelNews](https://www.channelnews.fr/proofpoint-revele-lexistence-du-malware-as-a-service-cruciferra-158178)  
-*Source : channelnews.fr | Publication : 2026-07-22*
+## [OpenAI face à un incident de <b>cybersécurité</b> inédit : ses agents d'IA devenus ''autonomes ...](https://quid.ma/science-tech/openai-face-a-un-incident-de-cybersecurite-inedit-ses-agents-d-ia-devenus)  
+*Source : quid.ma | Publication : 2026-07-23*
 
-- La société de cybersécurité Proofpoint révèle l’existence d’un service de chiffrement sophistiqué baptisé Cruciferra.
-- Celui-ci est commercialisé en tant que malware-as-a-service (MaaS) sur des forums cybercriminels depuis l’automne 2025.
-- Les formules d’abonnement vont de 450 à 2000 dollars par mois.
-- Selon l’équipe de recherche, plusieurs groupes de hackers l’ont déjà utilisé pour dissimuler des chevaux de Troie et s’infiltrer dans les systèmes.
+- Science & tech OpenAI face à un incident de cybersécurité inédit : ses agents d'IA devenus ‘’autonomes’’ piratent une plateforme OpenAI confronté à un cyberincident inédit : des agents d'IA contournent leurs restrictions lors d'un test.
+- Jusqu'où ira l'autonomie des agents d'intelligence artificielle ?.
+- L'incident révélé par OpenAI marque une étape importante dans l'évolution des intelligences artificielles avancées.
+- Lors de tests de cybersécurité menés dans un environnement pourtant fortement sécurisé, plusieurs agents d'IA sont parvenus à contourner leurs restrictions, à accéder à Internet puis à mener une intrusion contre la plateforme Hugging Face afin d'obtenir des informations susceptibles d'améliorer leurs performances.
 
-## [Cyberattaques : les acteurs de l'après-vente automobile de nouveau dans le viseur](https://www.auto-infos.fr/article/cyberattaques-les-acteurs-de-l-apres-vente-automobile-de-nouveau-dans-le-viseur.292847)  
-*Source : auto-infos.fr | Publication : 2026-07-22*
+## [Des modèles d'OpenAI échappent au contrôle lors de tests et lancent une cyberattaque](https://fr.timesofisrael.com/des-modeles-dopenai-echappent-au-controle-lors-de-tests-et-lancent-une-cyberattaque/)  
+*Source : fr.timesofisrael.com | Publication : 2026-07-23*
 
-- Le secteur des services automobiles continue de payer un lourd tribut à la cybercriminalité.
-- cybersécurité , qui imposent le stockage des mots.
+- Cet incident montre que les progrès rapides de l'intelligence artificielle alimentent déjà les risques en matière de cybersécurité que les.
 
-## [Palo Alto veut se renforcer dans l'observabilité - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/65111-palo-alto-veut-se-renforcer-dans-l-observabilite.html)  
-*Source : linformaticien.com | Publication : 2026-07-22*
+## [Moxa renforce sa position dans la <b>cybersécurité</b> OT avec une double certification IEC 62443-4-1 ML3](https://www.ecinews.fr/fr/moxa-renforce-sa-position-dans-la-cybersecurite-ot-avec-une-double-certification-iec-62443-4-1-ml3/)  
+*Source : ecinews.fr | Publication : 2026-07-23*
 
-- Ces nouvelles capacités permettront d'étendre Palo Alto Networks Observability à la surveillance de l'expérience numérique (Digital Experience.
+- Moxa renforce sa position dans la cybersécurité OT avec une double certification IEC 62443-4-1 ML3 Moxa, spécialiste des communications et réseaux industriels, franchit une étape importante dans le domaine de la cybersécurité des infrastructures critiques en obtenant une double certification IEC 62443-4-1 Niveau de maturité 3 (ML3).
+- Cette reconnaissance, délivrée à la fois dans le cadre du système de certification IECEE et du programme ISASecure, valide la maturité de son cycle de développement sécurisé et confirme sa capacité à intégrer la cybersécurité tout au long du cycle de vie de ses produits.
+- À une époque où les environnements industriels sont de plus en plus connectés et exposés aux cybermenaces, les exploitants d’infrastructures critiques recherchent des fournisseurs capables de démontrer non seulement la sécurité de leurs produits, mais aussi la robustesse des processus utilisés pour les concevoir.
+- La sécurité intégrée dès la conception La norme IEC 62443 s’est progressivement imposée comme une référence mondiale pour la cybersécurité industrielle.
 
-## [Fuite de données chez Free : 24 millions de contrats exposés, 42 millions d'amende](https://www.lenouveleconomiste.fr/fuite-de-donnees-chez-free-24-millions-de-contrats-exposes-42-millions-damende-137304/)  
-*Source : lenouveleconomiste.fr | Publication : 2026-07-22*
+## [Le Vietnam plaide pour une gestion proactive des risques au Forum régional de l'ASEAN](https://lecourrier.vn/le-vietnam-plaide-pour-une-gestion-proactive-des-risques-au-forum-regional-de-lasean/1351977.html)  
+*Source : lecourrier.vn | Publication : 2026-07-23*
 
-- La sanction est lourde.
-- Le 13 janvier 2026, la Commission nationale de l'informatique et des libertés (CNIL) annonce deux décisions distinctes.
-- Elles visent Free Mobile et sa maison mère Free.
-- La filiale mobile écope d'une amende de 27 millions d'euros.
+- >> Renforcer leur partenariat stratégique et leur coordination sur les questions régionales >> L'ASEAN et la Russie veulent renforcer leur partenariat stratégique La 33e réunion du Forum régional de l'ASEAN (ARF) s'est tenue jeudi 23 juillet à Manille, aux Philippines, dans le cadre de la 59e Réunion des ministres des Affaires étrangères de l'ASEAN (AMM-59) et des réunions connexes.
+- La délégation vietnamienne était conduite par Lê Hoài Trung, membre du Bureau politique et ministre des Affaires étrangères.
+- S'exprimant à l'événement, Lê Hoài Trung a souligné que, face aux incertitudes géopolitiques et économiques mondiales, à l'intensification de la concurrence stratégique ainsi qu'aux risques liés au changement climatique, à la cybersécurité et aux perturbations des chaînes d'approvisionnement, l'ARF devait évoluer d'une logique de "dialogue réactif" vers une approche de "gestion proactive des risques", fondée sur le renforcement des capacités d'anticipation et de prévention.
+- Selon lui, l'ARF doit continuer à s'adapter aux nouvelles réalités stratégiques tout en préservant son rôle de plateforme de dialogue inclusive permettant la participation des grandes puissances dans le respect du rôle central de l'ASEAN.
 
-## [NEXTEDIA : LÉGÈRE CROISSANCE ORGANIQUE DE L'ACTIVITÉ AU S1 2026 ...](https://www.boursorama.com/bourse/actualites-amp/nextedia-legere-croissance-organique-de-l-activite-au-s1-2026-illustrant-un-point-d-inflexion-apres-18-mois-de-transformation-405aecb182f401d16fba5da7988eeea2)  
-*Source : boursorama.com | Publication : 2026-07-22*
+## [La <b>cybersécurité</b> industrielle se joue bien avant le déploiement : l'exemple de Moxa](https://www.elektormagazine.fr/news/la-cybersecurite-industrielle-se-joue-bien-avant-le-deploiement-l-exemple-de-moxa)  
+*Source : elektormagazine.fr | Publication : 2026-07-23*
 
-- NEXTEDIA : LÉGÈRE CROISSANCE ORGANIQUE DE L'ACTIVITÉ AU S1 2026 ILLUSTRANT UN POINT D'INFLEXION APRÈS 18 MOIS DE TRANSFORMATION information fournie par Actusnews 22/07/2026 à 18:00 Communiqué de presse Puteaux, le 22 juillet 2026.
-- NEXTEDIA (Euronext Growth Paris, FR0004171346, ALNXT), groupe spécialisé dans les domaines de la Cybersécurité, du Digital et de l'Expérience Client, publie aujourd'hui son chiffre d'affaires du 1 er semestre 2026.
-- * Le CA du S1 2025 intègre 0,5 M€ réalisé par Ornidex, entité sortie du périmètre de consolidation au 1 er janvier 2026.
-- Un chiffre d'affaires en redressement NEXTEDIA réalise au 1 er semestre 2026 un chiffre d'affaires de 28,7 M€ en léger retrait par rapport à la même période de l'exercice précédent.
+- La cybersécurité industrielle se joue bien avant le déploiement : l’exemple de Moxa sur C’est précisément cette philosophie que met en avant Moxa avec l’obtention d’une double certification IEC 62443-4-1 Niveau de maturité 3, une distinction qui met l’accent sur les pratiques de développement sécurisé plutôt que sur les seules caractéristiques techniques des équipements.
+- Construire la sécurité avant d’affronter les menaces Les infrastructures industrielles modernes reposent sur des milliers d’équipements connectés qui doivent rester opérationnels pendant de nombreuses années.Dans ce contexte, corriger les vulnérabilités après coup devient souvent complexe et coûteux.
+- L’enjeu consiste donc à intégrer les mécanismes de sécurité dès la phase de conception afin de limiter les risques à la source.
+- La certification obtenue par Moxa illustre cette approche proactive où chaque étape du cycle de développement est pensée pour anticiper les menaces futures.
 
-## [Risque tiers, faut-il un audit contractuel continu des fournisseurs technologiques - it social](https://itsocial.fr/cybersecurite/cybersecurite-articles/risque-tiers-faut-il-un-audit-contractuel-continu-des-fournisseurs-technologiques/)  
-*Source : itsocial.fr | Publication : 2026-07-22*
+## [« La demande est phénoménale » : la souveraineté numérique, argument commercial d'une ...](https://www.solutions-numeriques.com/la-demande-est-phenomenale-la-souverainete-numerique-argument-commercial-dune-fusion-allemande/)  
+*Source : solutions-numeriques.com | Publication : 2026-07-23*
 
-- Le bilan semestriel de l’Identity Theft Resource Center, publié début juillet 2026, recense 1 803 compromissions de données aux États-Unis au premier semestre, pour 471,2 millions de notifications envoyées aux victimes, un total qui dépasse déjà celui de l’année 2025.
-- Parmi ces événements, 38 compromissions initiales liées à des fournisseurs ou prestataires ont suffi à toucher 206 entités et à générer 280,6 millions de ces notifications, soit près de six notifications sur dix pour à peine deux compromissions sur cent.
-- L’Identity Theft Resource Center, organisme américain à but non lucratif qui compile les notifications de compromission de données depuis 2005, publie chaque semestre un bilan construit à partir des signalements reçus par les autorités et les entreprises américaines.
-- Les 1 803 compromissions comptabilisées entre janvier et juin 2026 comprennent 1 394 compromissions confirmées, quatre expositions, une fuite, deux publications de données déjà volées par le passé et 402 événements non classifiés.
+- LANCOM Systems et Rohde & Schwarz Cybersecurity, deux filiales du groupe familial allemand Rohde & Schwarz, ne forment plus qu’une seule entité depuis le 1ᵉʳ juillet 2026.
+- Un rapprochement présenté par l’entreprise comme sa réponse à la demande de souveraineté numérique qui traverse le marché européen.
+- Derrière ce nouveau nom se cachent deux entités déjà bien identifiées : LANCOM Systems, spécialiste du réseau fondé en 2002 près d’Aix-la-Chapelle, et Rohde & Schwarz Cybersecurity, expert du chiffrement homologué BSI.
+- Elles sont désormais réunies sous une même structure baptisée Rohde & Schwarz Networks and Cybersecurity.
 
-## [Les entreprises françaises repensent leurs stratégies de <b>cybersécurité</b> face aux risques liés à l'IA](https://www.businesswire.com/news/home/20260722376781/fr)  
-*Source : businesswire.com | Publication : 2026-07-22*
+## [Pourquoi le gestionnaire de mots de passe de votre navigateur (Chrome, Safari) n'est pas le ...](https://www.futura-sciences.com/tech/questions-reponses/cybersecurite-gestionnaire-mots-passe-votre-navigateur-chrome-safari-nest-pas-plus-securise-25732/)  
+*Source : futura-sciences.com | Publication : 2026-07-23*
 
-- Les entreprises françaises repensent leurs stratégies de cybersécurité face aux risques liés à l'IA.
-- Share.
-- Selon le rapport ISG Provider Lens®, la.
+- Vous êtes inscrit sur une multitude de sites et vous cliquez trop souvent sur « mot de passe oublié » à votre goût ?.
+- Vous cherchez une solution permettant de vous connecter plus rapidement à vos comptes ?.
+- Futura vous présente sa sélection des meilleurs logiciels pour gérer ses mots de passe.
+- Lire la suite On ne vous rejette pas la faute : enregistrer ses identifiants directement dans le navigateur évite de retenir des dizaines de mots de passe.
 
-## [OpenAI reconnaît que ses modèles d'IA ont piraté d'eux-mêmes une entreprise](https://www.courrierinternational.com/article/cyberattaque-openai-reconnait-que-ses-modeles-d-ia-ont-pirate-d-eux-memes-une-entreprise_251868)  
-*Source : courrierinternational.com | Publication : 2026-07-22*
+## [PARIS : <b>Cybersécurité</b> - L'IA devient le nouvel accélérateur des cyberattaques](https://presseagence.fr/paris-cybersecurite-lia-devient-le-nouvel-accelerateur-des-cyberattaques/)  
+*Source : presseagence.fr | Publication : 2026-07-23*
 
-- “C’est le cauchemar par excellence en matière de cybersécurité.” Comme de nombreux médias, The Wall Street Journal se fait l’écho, ce mercredi 22 juillet, de l’annonce d’OpenAI, la veille : deux de ses modèles d’intelligence artificielle (IA), qui étaient à l’essai dans un environnement supposé sécurisé, sont parvenus à pirater une autre entreprise.
-- La victime est Hugging Face, une bibliothèque numérique d’outils d’IA en open source très prisée des développeurs.
-- Le 16 juillet, elle avait signalé avoir découvert une intrusion sur sa plateforme, avec un accès non autorisé à des jeux de données internes et à des identifiants de l’entreprise.
-- Compte tenu de la sophistication de l’attaque, la société soupçonnait qu’elle soit l’œuvre d’agents d’IA.
+- PARIS : Cybersécurité – L’IA devient le nouvel… Partager : PARIS : Cybersécurité – L’IA devient le nouvel accélérateur des cyberattaques Sophos révèle dans son rapport 2026 que les cybercriminels exploitent l’IA pour réduire les délais de leurs attaques de plusieurs semaines à quelques jours.
+- L’ère de l’expérimentation est révolue.
+- Les cybercriminels ont désormais pleinement intégré l’intelligence artificielle (IA) dans leurs opérations, non pas pour créer de nouveaux types d’attaques, mais pour en décupler la vitesse et l’efficacité.
+- C’est le constat alarmant du rapport 2026 sur la sécurité de l’IA, publié ce jeudi 23 juillet 2026 par Sophos, leader mondial de la cybersécurité.
 
-## [Comment la bourse AWA a déconstruit mes biais sur le Sahel - Diff](https://diff.wikimedia.org/fr/2026/07/22/comment-la-bourse-awa-a-deconstruit-mes-biais-sur-le-sahel/)  
-*Source : diff.wikimedia.org | Publication : 2026-07-22*
+## [Le pire ennemi de la double authentification a été détruit - 01net.com](https://www.01net.com/actualites/kratos-roi-phishing-pire-ennemi-double-authentification-demantele-par-police.html)  
+*Source : 01net.com | Publication : 2026-07-23*
 
-- Pendant longtemps, ma perception des pays sahéliens a été façonnée par des récits dominés par la terreur et la crise.
-- À travers les médias et les réseaux sociaux, je n’étais servi presque qu’à des informations sur le terrorisme, l’insécurité, l’instabilité politique, la corruption pour ne citer que ceux-lâ.
-- C’est à croire qu’il n’existait par d’autres choses impactantes dans ces pays comme des figures inspirantes, des modèles de réussite dans des domaines d’avenir comme le numérique, l’information ou la cybersécurité.
-- Ma sélection au programme de bourse AWA Digitalise Youth 2026 soutenu par Code For Africa a profondément remis en question cette perception.
+- La police allemande annonce avoir démantelé l’infrastructure centrale de Kratos, l’une des plateformes de phishing les plus répandues au monde.
+- Repéré pour la première fois début janvier 2026 par les chercheurs de KnowBe4 Threat Labs, le kit de phishing-as-a-Service (PhaaS) a grandement contribué à la démocratisation des arnaques et des cyberattaques.
+- Le kit est décrit comme une véritable machine à collecter des identifiants par le biais de fausses pages web.
+- Au moment de sa découverte, le KnowBe4 Threat Labs estimait que plus de 90% des compromissions d’identifiants pourraient reposer sur des plateformes toutes prêtes comme Kratos d’ici à la fin de l’année.
 
-## [Threat Intelligence Report: Qilin (Agenda) <b>Ransomware</b> - CCB Belgium](https://ccb.belgium.be/fr/news/threat-intelligence-report-qilin-agenda-ransomware)  
-*Source : ccb.belgium.be | Publication : 2026-07-22*
+## [Cybermalveillance.gouv.fr lance une AlerteCyber concernant des failles de sécurité ...](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/alertecyber-wordpress)  
+*Source : cybermalveillance.gouv.fr | Publication : 2026-07-23*
 
-- Le Centre pour la cybersécurité Belgique a publié un nouveau rapport sur les cybermenaces consacré à Qilin, aussi connu sous les noms d'Agenda ou.
+- Cybermalveillance.gouv.fr lance une AlerteCyber concernant des failles de sécurité critiques dans WordPress Publié le 23/07/2026 - 3 minutes de lecture - Cybermalveillance.gouv.fr déclenche ce jour une nouvelle AlerteCyber concernant des failles de sécurité critiques dans WordPress.
+- Il est primordial de les corriger le plus rapidement possible en mettant à jour les systèmes concernés pour réduire les risques d’une cyberattaque.
+- Qu’est-ce qu’une AlerteCyber ?.
+- Mis en place en juillet 2021, AlerteCyber est un dispositif lancé dès lors qu’une menace ou une faille critique est identifiée et qualifiée en tant que telle, conjointement par l’ANSSI et Cybermalveillance.gouv.fr.
 
-## [Pourquoi les polices municipales sont également visées par des pirates informatiques](https://www.lagazettedescommunes.com/club-prevention-securite/police-municipale-et-securite-publique/pourquoi-les-polices-municipales-sont-egalement-visees-par-des-pirates-informatiques.AS5RNGZBEJBKNMJM6FRWAIHVOE.html)  
-*Source : lagazettedescommunes.com | Publication : 2026-07-22*
+## [Dépassé par la « bouillie IA », GitHub restructure son bug bounty - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/github-bug-bounty-ia-228480/amp)  
+*Source : silicon.fr | Publication : 2026-07-23*
 
-- Car jusqu'ici, la problématique de la cybersécurité était plutôt abordée d'abord sous l'angle de la protection des accès à la vidéosurveillance.
-- En.
+- Malgré l’aide précieuse qu’apporte l’IA, merci de ne pas confondre vitesse et précipitation.
+- Mi-mai, GitHub avait fait passer le message aux participants à son bug bounty public.
+- En toile de fond, la saturation de ce programme par des soumissions de faible qualité.
+- Essentiellement à deux titres.
 
-## [Piratage par une IA du créateur de ChatGPT : «Ce qui est sûr, c'est que c'est inédit](https://www.liberation.fr/economie/economie-numerique/piratage-par-une-ia-du-createur-de-chatgpt-ce-qui-est-sur-cest-que-cest-inedit-20260722_SPEZ4ZMCZZGRZO2TYJEZVC27CI/)  
-*Source : liberation.fr | Publication : 2026-07-22*
+## [Fuite de données chez SICSOE, des données compromises par <b>ransomware</b> - FrenchBreaches](https://frenchbreaches.com/alertes/sicsoe-rw_VTBsRFUwOUZRSFJvWldkbGJuUnNaVzFsYmc9PQ)  
+*Source : frenchbreaches.com | Publication : 2026-07-23*
 
-- Expert en cybersécurité , Nicolas Lefranc détaille l'opération, sans exclure la possibilité du coup de com.
-- Intelligence artificielle (IA).
+- Cyberattaque revendiquée contre SICSOE (Solution Vin Logistique) : le groupe de ransomware The Gentlemen menace de publier des données Une cyberattaque visant SICSOE (Solution Vin Logistique), entreprise française spécialisée dans les services logistiques destinés au secteur vitivinicole, a été revendiquée par le groupe de ransomware The Gentlemen sur son site de fuite.
+- Les cybercriminels ont ajouté SICSOE à leur liste de victimes et affichent un compte à rebours précédant l’activation de leur publication.
+- À ce stade, la revendication observée ne précise toutefois ni le volume de données potentiellement exfiltrées, ni leur nature exacte.
+- !.
