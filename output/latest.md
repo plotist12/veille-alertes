@@ -1,156 +1,149 @@
-# Résumés – 2026-07-24
+# Résumés – 2026-07-25
 
 
-## [Complexité du paysage des acteurs de la <b>cybersécurité</b> pour les communes - Sénat](https://www.senat.fr/questions/base/2026/qSEQ260709605.html)  
-*Source : senat.fr | Publication : 2026-07-23*
+## [CyberSud+ facilite la participation de ses pays partenaires à l'exercice interrégional de ...](https://www.coe.int/fr/web/cybercrime/-/cybersouth-supports-partner-countries-to-participate-in-the-2026-itu-inter-regional-cyberdrill-for-africa-and-the-arab-states)  
+*Source : coe.int | Publication : 2026-07-24*
 
-- Question de M. BONHOMME François (Tarn-et-Garonne - Les Républicains-A) publiée le 23/07/2026 M. François Bonhomme appelle l'attention de Mme la ministre déléguée auprès du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique, chargée de l'intelligence artificielle et du numérique sur la complexité croissante pour les communes, en particulier pour les plus petites d'entre elles, liée à la multiplication des acteurs institutionnels intervenant en matière de cybersécurité.
-- En effet, les communes doivent composer avec une pluralité d'interlocuteurs aux missions distinctes : l'agence nationale de la sécurité des systèmes d'information (ANSSI), la commission nationale de l'informatique et des libertés (CNIL), le dispositif cybermalveillance.gouv.fr, les établissements publics de coopération intercommunale (EPCI) et syndicats informatiques mutualisés, les centres de gestion, ainsi que, le cas échéant, leurs prestataires informatiques et assureurs.
-- À ce sujet, le conseil supérieur du numérique et de la poste (CSNP) a recommandé que la responsabilité de désignation des collectivités locales soumises à la directive NIS2 soit centralisée au niveau de l'ANSSI.
-- La stratégie nationale de cybersécurité 2026-2030, présentée le 29 janvier 2026, annonce la création d'un guichet unique s'appuyant sur le dispositif 17Cyber et un futur portail « Mes services cyber ».
+- Cet exercice de cybersécurité a offert aux experts TIC et de la cybersécurité une tribune pour discuter et définir des orientations et des plans.
 
-## [AlerteCyber : Failles de sécurité critiques dans WordPress - Cybermalveillance.gouv](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/alertecyber-failles-de-securite-critiques-dans-wordpress-202607)  
-*Source : cybermalveillance.gouv.fr | Publication : 2026-07-23*
+## [Un(e) Chargé(e) de mission <b>cybersécurité</b> - COMMUNAUTE DE COMMUNES DE L ERNEE](https://choisirleservicepublic.gouv.fr/offre-emploi/une-chargee-de-mission-cybersecurite---communaute-de-communes-de-l-ernee-reference-O053260723002284/)  
+*Source : choisirleservicepublic.gouv.fr | Publication : 2026-07-24*
 
-- \n\n \n\n \n \n \n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n\n \n \n \n\n \n\n \n\n \n \n \n \n \n\n \n \n Failles de sécurité critiques dans WordPress\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n\n \n \n\n \n \n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n Date de l’alerte : 23/07/2026\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n Risques\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n \nEspionnage, vol, voire destruction de vos données suite à la prise de contrôle à distance de vos équipements concernés.\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n Description\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n \nDeux failles de sécurité critiques ont été corrigées dans WordPress.\n \n \n \nL’exploitation combinée de ces vulnérabilités par une personne malveillante peut lui permettre la prise de contrôle à distance des équipements concernés et l’espionnage, le vol, voire la destruction, d’informations.\n \n \n \n \nDes cybercriminels pourraient très prochainement exploiter ces failles pour conduire des attaques massives contre les systèmes vulnérables.\n \n \n \nWordPress a publié des mises à jour qui corrigent ces vulnérabilités et protègent de leur exploitation.\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n \n Systèmes concernés\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n \n \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t WordPress versions 6.8.x, versions antérieures à 6.8.6\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t WordPress versions 6.9.x, versions antérieures à 6.9.5\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t WordPress versions 7.1.x, versions antérieures à 7.1 beta2\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t WordPress versions 7.x, versions antérieures à 7.0.2\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n \n \n Mesures à prendre\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n \nMettre à jour au plus vite les équipements et logiciels concernés avec les correctifs de sécurité mis à disposition par l’éditeur.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\nSi cela n’est pas possible, il est recommandé de bloquer l’accès non authentifié à l’API REST de WordPress.\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n Procédure\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \nSe référer au bulletin de sécurité de l’éditeur pour obtenir les correctifs :\n\n\nhttps://wordpress.org/news/2026/07/wordpress-7-0-2-release/ \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n Besoin\n d’assistance\n ?\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n\n \n \n \n \n \nVous pouvez trouver sur Cybermalveillance.gouv.fr des prestataires de proximité susceptibles de vous apporter leur soutien dans la mise en œuvre de ces mesures : ici.\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n \n Références\n \n\n \n \n \n \n \n ANSSI / CERT-FR :\n \n https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-007/\n \n \n \n \n \n \n \n CVE-2026-60137 :\n \n https://www.cve.org/CVERecord?id=CVE-2026-60137\n \n \n \n \n \n \n CVE-2026-63030 (alias WP2Shell) :\n \n https://wp2shell.com/\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n Aller plus loin avec Cybermalveillance.gouv.fr :\n Pourquoi et comment bien gérer ses mises à jour ?\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n.
+- Un(e) Chargé(e) de mission cybersécurité - COMMUNAUTE DE COMMUNES DE L ERNEE Référence : O053260723002284 Fonction publique : Fonction publique Territoriale - Employeur : Etablissements publics de coopération intercommunale - Localisation : Ernée - Partager la page Veuillez pour partager sur Facebook, Twitter et LinkedIn.
+- Nature de l’emploi Emploi ouvert aux titulaires et aux contractuels - Expérience souhaitée Non renseigné - Rémunération Fourchette indicative pour les contractuels Non renseignée Fourchette indicative pour les fonctionnaires Non renseignée - Catégorie Catégorie B (profession intermédiaire) - Management Non - Télétravail possible Oui - Vos missions en quelques mots Un Chargé de mission cybersécurité – Temps complet Vos missions : Au sein d’un service composé de 4 agents, et sous l’autorité du Responsable du Pôle Systèmes d’Information, vous aurez la charge de produire et de consolider, sur une durée d’un an, les livrables essentiels permettant de renforcer la sécurité du système d’information et la continuité du service public.
+- À ce titre, vous êtes notamment chargé de : - La cartographie su système d’information o Mettre à jour la cartographie réseau ; o Identifier les flux critiques o Documenter les dépendances entre applications, sites, services et prestataires ; o Proposer une méthode de maintien à jour de la cartographie - Analyse de risques cyber o Identifier les risques prioritaires ; o Qualifier les impacts possibles sur les services informatique ; o Formaliser les constats et les écarts ; o Préparer les éléments d’arbitrage pour le responsable SI ; - Plan d’actions correctives o Construire un plan d’actions cyber priorisé ; o Suivre l’avancement des corrections ; o Relancer les acteurs concernés ; o Produire un tableau de bord simple de suivi.
+- - Gestion de crise cyber o Formaliser l’annuaire de crise ; o Définir les rôles et responsabilités ; o Préparer un schéma d’alerte ; o Rédiger des procédures réflexes et participer à l’organisation d’un exercice de crise et retour d’expérience.
 
-## [Évaluation de maturité Cyber Resilience Act (CRA) pour PME - DCOD | Cybersécurité](https://dcod.ch/outils/evaluation-maturite-cra-pme/)  
-*Source : dcod.ch | Publication : 2026-07-23*
+## [Piratage de Tchap : 73 467 Comptes Exposés [2026] - Tech Insider](https://tech-insider.org/fr/tchap-piratage-donnees-2026/)  
+*Source : tech-insider.org | Publication : 2026-07-24*
 
-- Le Cyber Resilience Act (CRA) impose aux fabricants de produits numériques de nouvelles obligations de cybersécurité — et la plupart des PME concernées ne savent pas où elles en sont.
-- Cette évaluation reprend fidèlement le modèle officiel de maturité de l’ENISA, l’agence de l’Union européenne pour la cybersécurité, traduit en français par DCOD : 25 questions réparties sur 5 domaines (gouvernance, gestion des risques, vulnérabilités, cycle de vie produit, compétences).
-- Répondez à votre rythme et obtenez immédiatement votre score de maturité, votre positionnement (Basique / Intermédiaire / Avancé) et une checklist d’actions concrètes pour progresser.
-- Chargement du questionnaire.
+- La messagerie chiffrée de l’État français, Tchap, a été compromise début juin 2026.
+- Un pirate se faisant appeler « misere » a détourné un compte pour parcourir des centaines de salons publics, revendiquant l’accès à plus de 643 000 messages et près de 60 000 fichiers.
+- La Direction interministérielle du numérique (DINUM) a confirmé l’incident le 8 juin, en précisant que les échanges chiffrés de bout en bout n’avaient pas été touchés.
+- Six semaines plus tard, l’affaire s’inscrit dans un tableau plus large : la CERT-UE a recensé, le même mois, une vague de ciblage visant des institutions publiques dans au moins cinq pays européens.
 
-## [Le Sommet de l'Asie de l'Est souligne la coopération face aux enjeux stratégiques](https://lecourrier.vn/le-sommet-de-lasie-de-lest-souligne-la-cooperation-face-aux-enjeux-strategiques/1351976.html)  
-*Source : lecourrier.vn | Publication : 2026-07-23*
+## [La nouvelle IA d'Anthropic présentée comme moins dangereuse pour la <b>cybersécurité</b>](https://ici.radio-canada.ca/nouvelle/2271424/anthropic-nouvelle-ia-moins-dangereuse-cybersecurite)  
+*Source : ici.radio-canada.ca | Publication : 2026-07-24*
 
-- >> AMM-59 : Hanoï et Washington réaffirment leur volonté de renforcer leurs relations >> Le Vietnam incite à renforcer la connectivité et la résilience dans la coopération ASEAN+3 >> Le Vietnam propose de promouvoir des liens ASEAN - UE substantiels et durables Prenant la parole, Lê Hoài Trung a souligné que le rôle central de l'ASEAN avait permis de réunir les dirigeants de l'EAS autour d'un dialogue franc sur les grandes questions stratégiques, favorisant la gestion des différends, le renforcement de la confiance mutuelle et la recherche d'intérêts communs.
-- Afin de renforcer l'efficacité et la pertinence de l'EAS, il a proposé que les pays membres accordent la priorité à une coopération plus étroite dans des domaines ayant des retombées directes pour les populations, notamment l'énergie, la transformation numérique, la cybersécurité, la lutte contre la criminalité transnationale, la cybercriminalité et les escroqueries en ligne.
-- Abordant les questions de paix et de sécurité, le ministre vietnamien a insisté sur l'importance de préserver la paix, la stabilité et le respect du droit international ainsi que des normes de conduite communes dans toutes les régions du monde, y compris en Mer Orientale.
-- Il a salué les efforts de la présidence philippine de l'ASEAN pour assurer des consultations et une coordination régulières entre les États membres afin d'adopter des positions communes face aux situations d'urgence et aux crises.
+- La nouvelle IA d’Anthropic présentée comme moins dangereuse pour la cybersécurité L'entreprise américaine Anthropic, spécialisée dans l'intelligence artificielle (IA), a été fondée en 2021 par d'anciens membres d'OpenAI.
+- Photo : Getty Images / RICCARDO MILANI Anthropic a mis en ligne vendredi un nouveau modèle d'intelligence artificielle (IA), Claude Opus 5, présenté comme moins susceptible de dérives et plus difficile à détourner pour des attaques informatiques.
+- Dans la famille Claude, Opus 5 succède à Opus 4.8, sorti fin mai.
+- Depuis, Anthropic a également commercialisé Fable 5, modèle d'un nouveau genre.
 
-## [La Puce à l'Oreille : la <b>cybersécurité</b> se heurte à l'IA | Zonebourse](https://www.zonebourse.com/actualite-bourse/la-puce-a-l-oreille-la-cybersecurite-se-heurte-a-l-ia-ce7f51dede80f42c)  
-*Source : zonebourse.com | Publication : 2026-07-23*
+## [Gouvernail des données de Blakes : Été 2026 | Blake, Cassels &amp; Graydon LLP - JDSupra](https://www.jdsupra.com/legalnews/gouvernail-des-donnees-de-blakes-ete-5825045/)  
+*Source : jdsupra.com | Publication : 2026-07-24*
 
-- Pendant des années, les entreprises ont concentré leurs efforts sur la lutte contre les virus, les ransomwares et les campagnes de phishing.
-- L&#039;arrivée de l&#039;intelligence artificielle générative a profondément changé la donne.
-- Les cybercriminels s&#039;appuient désormais sur ces outils pour automatiser et améliorer leurs attaques, tandis que les défenseurs exploitent les mêmes technologies pour tenter de garder une longueur d&#039;avance.
-- Ce basculement marque un véritable changement de paradigme dans la cybersécurité.Des attaques plus rapides, des défenses à réinventerJusqu&#039;à récemment, lancer une cyberattaque nécessitait du temps, des compétences techniques et une préparation importante.
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
 
-## [Adobe corrige en urgence une faille permettant de détourner son extension Chrome pour ... - Clubic](https://www.clubic.com/actualite-622480-adobe-corrige-en-urgence-une-faille-qui-permettait-de-detourner-son-extension-chrome-pour-lire-vos-conversations-whatsapp.html)  
-*Source : clubic.com | Publication : 2026-07-23*
+## [Un rapport d'analyse comparative révèle que les RSSI du secteur de la santé privilégient la ...](https://health-isac.org/fr/Un-rapport-d'analyse-comparative-révèle-que-les-responsables-des-systèmes-d'information-du-secteur-de-la-santé-privilégient-la-résilience-de-la-gestion-des-identités-et-des-accès-face-à-l'accélération-des-menaces-liées-à-l'IA./)  
+*Source : health-isac.org | Publication : 2026-07-24*
 
-- Une faille dans l’extension Adobe Acrobat pour Chrome permettait à un site malveillant d’accéder à des informations et des messages de sessions WhatsApp Web.
-- Adobe a corrigé le problème, et aucune trace d’exploitation active n’a été relevée.
-- Le danger ne venait pas de la messagerie, mais de l’extension chargée d’y ouvrir les PDF.
-- Des chercheurs de Guardio ont découvert qu’un site malveillant pouvait détourner les privilèges d’Adobe Acrobat pour Chrome afin de lire le contenu chargé dans WhatsApp Web, sans mot de passe ni interaction supplémentaire.
+- Un rapport d'analyse comparative révèle que les RSSI du secteur de la santé privilégient la gestion des identités et des accès (IAM) et la résilience face à l'accélération des menaces liées à l'IA.
+- Un nouveau rapport d'analyse comparative de Health-ISAC révèle que les responsables de la sécurité des systèmes d'information (RSSI) du secteur de la santé évoluent dans un environnement de menaces de plus en plus complexe, où les cyberattaques peuvent perturber les soins cliniques, compromettre la sécurité des patients et éroder la confiance envers les établissements de santé.
+- Ce premier rapport d'analyse comparative des RSSI, publié par l'organisation, s'appuie sur les réponses à un sondage mené auprès de 76 RSSI représentant des prestataires de soins de santé, des organismes payeurs, des entreprises pharmaceutiques, des fabricants de dispositifs médicaux et des opérations internationales.
+- Il offre un aperçu des priorités en matière de cybersécurité, des responsabilités de leadership, des budgets, des défis liés aux effectifs, de l'adoption de cadres de référence et du rôle croissant de l'intelligence artificielle (IA) dans le secteur.
 
-## [Football féminin : le Maroc remporte le tournoi U17 de l'UNAF - APAnews](https://fr.apanews.net/news/football-feminin-le-maroc-remporte-le-tournoi-u17-de-lunaf/)  
-*Source : fr.apanews.net | Publication : 2026-07-23*
+## [Impact des chasseurs de Pokémon chromatiques sur le secteur de la santé et stratégies d ...](https://health-isac.org/fr/L'impact-des-chasseurs-de-Pokémons-brillants-sur-le-secteur-de-la-santé-et-les-stratégies-d'atténuation-recommandées/)  
+*Source : health-isac.org | Publication : 2026-07-24*
 
-- La Fédération royale marocaine de football (FRMF) a annoncé, mercredi sur son site officiel, le sacre de la sélection nationale féminine des moins de 17 ans au Tournoi de l’Union nord-africaine de football (UNAF), organisé en Tunisie du 16 au 22 juillet 2026.
-- La sélection marocaine féminine des moins de 17 ans a remporté le Tournoi de l’Union nord-africaine de football (UNAF) après sa victoire 4-0 face à la Tunisie, pays hôte, lors de la troisième et dernière journée disputée au stade Ariana, a annoncé la Fédération royale marocaine de football (FRMF) dans un communiqué.
-- Les Lioncelles de l’Atlas ont terminé en tête du classement avec sept points, totalisant deux victoires et un match nul.
-- La Tunisie s’est classée deuxième avec six points, devant le Botswana (quatre points), tandis que la Libye a bouclé le tournoi sans inscrire le moindre point, a précisé la FRMF.
+- Impact des chasseurs de Pokémon chromatiques sur le secteur de la santé et stratégies d'atténuation recommandées Les organismes du secteur de la santé sont confrontés à une recrudescence des attaques réussies menées par le groupe de cybercriminels ShinyHunters.
+- Ce groupe semble privilégier l'usurpation d'identité et l'accès aux solutions SaaS plutôt que le déploiement de rançongiciels classiques.
+- Le mode opératoire décrit dans les rapports d'incidents récents suit une chaîne répétable : vishing (ingénierie sociale par la voix) → réinitialisation du service d'assistance/de l'authentification multifacteur ou réinscription de l'appareil → prise de contrôle du compte SSO Microsoft Entra (ou Okta/Google) → infiltration des plateformes SaaS connectées → exfiltration rapide des données à des fins d'extorsion.
+- Même lorsque les victimes témoignent d'un impact opérationnel limité, cette technique reste un enseignement clé en matière de défense.
 
-## [Cl0p revient avec une nouvelle campagne d'exploitation de vulnérabilité - LeMagIT](https://www.lemagit.fr/actualites/366646201/Cl0p-revient-avec-une-nouvelle-campagne-dexploitation-de-vulnerabilite)  
-*Source : lemagit.fr | Publication : 2026-07-23*
+## [L'ENISA publie des lignes directrices sur les marchés publics pour la <b>cybersécurité</b> à ...](https://agenceurope.eu/fr/bulletin/article/13916/5/lenisa-publie-des-lignes-directrices-sur-les-marches-publics-pour-la-cybersecurite-a-destination-des-hopitaux-et-des-prestataires-de-soins-de-sante)  
+*Source : agenceurope.eu | Publication : 2026-07-24*
 
-- Andrey Popov - stock.adobe.com Cl0p revient avec une nouvelle campagne d'exploitation de vulnérabilité Le groupe Cl0p est de retour avec une nouvelle campagne d'exploitation en masse de vulnérabilité critique.
-- Cette fois-ci, la CVE-2026-12569 est à l'honneur et, avec elle, les données de PLM.
-- Le groupe Cl0p est prêt pour une nouvelle campagne.
-- Comme certains l'auront relevé, il a changé ses adresses e-mail de contact.
+- L'Agence de l'Union européenne pour la cybersécurité (ENISA) a publié, mercredi 22 juillet, des lignes directrices relatives à la passation de marchés publics en matière de cybersécurité destinées aux hôpitaux et aux prestataires de soins de santé.
+- Ces lignes directrices couvrent l'ensemble des phases de la procédure d'achat : planification, sélection des fournisseurs et gestion des contrats.
+- Elles définissent des exigences en matière de cybersécurité, précisent les informations que les fournisseurs doivent communiquer et sont étroitement alignées sur les principaux cadres réglementaires européens, notamment la directive NIS2, les règlements relatifs aux dispositifs médicaux, le règlement général sur la protection des données (RGPD) et le règlement sur l'Espace européen des données de santé (EHDS).
+- Afin d'illustrer l'application concrète, l'ENISA présente trois cas d'usage hypothétiques : l'acquisition de dispositifs médicaux, l'achat de services de cloud computing et l'acquisition d'un système de dossier médical électronique (Electronic Health Record – EHR) prêt à l'emploi par un médecin généraliste.
 
-## [OpenAI face à un incident de <b>cybersécurité</b> inédit : ses agents d'IA devenus ''autonomes ...](https://quid.ma/science-tech/openai-face-a-un-incident-de-cybersecurite-inedit-ses-agents-d-ia-devenus)  
-*Source : quid.ma | Publication : 2026-07-23*
+## [Anthropic lance Opus 5, un modèle d'IA plus abordable et mieux sécurisé - AMP - Boursorama](https://www.boursorama.com/bourse/actualites-amp/anthropic-lance-opus-5-un-modele-d-ia-plus-abordable-et-mieux-securise-ca2bdbef0360785069a750f5d7365190)  
+*Source : boursorama.com | Publication : 2026-07-24*
 
-- Science & tech OpenAI face à un incident de cybersécurité inédit : ses agents d'IA devenus ‘’autonomes’’ piratent une plateforme OpenAI confronté à un cyberincident inédit : des agents d'IA contournent leurs restrictions lors d'un test.
-- Jusqu'où ira l'autonomie des agents d'intelligence artificielle ?.
-- L'incident révélé par OpenAI marque une étape importante dans l'évolution des intelligences artificielles avancées.
-- Lors de tests de cybersécurité menés dans un environnement pourtant fortement sécurisé, plusieurs agents d'IA sont parvenus à contourner leurs restrictions, à accéder à Internet puis à mener une intrusion contre la plateforme Hugging Face afin d'obtenir des informations susceptibles d'améliorer leurs performances.
+- Anthropic lance Opus 5, un modèle d'IA plus abordable et mieux sécurisé information fournie par Zonebourse 24/07/2026 à 19:45 Anthropic a présenté Opus 5, un nouveau modèle d'intelligence artificielle offrant des performances proches de Fable 5 pour un coût réduit de moitié.
+- L'entreprise met en avant son efficacité pour les usages professionnels courants, tout en soulignant des garanties renforcées en matière de sécurité.
+- Anthropic présente Opus 5 comme une évolution plus performante que l'Opus 4.8 lancé en mai, destinée notamment aux tâches de bureau et au développement informatique.
+- Selon Dianne Penn, responsable produit, cette nouvelle génération illustre le rythme soutenu de développement de l'entreprise, avec pour objectif de rendre une intelligence de pointe plus accessible tout en maintenant un bon niveau de performances.
 
-## [Des modèles d'OpenAI échappent au contrôle lors de tests et lancent une cyberattaque](https://fr.timesofisrael.com/des-modeles-dopenai-echappent-au-controle-lors-de-tests-et-lancent-une-cyberattaque/)  
-*Source : fr.timesofisrael.com | Publication : 2026-07-23*
+## [<b>Cybercriminalité</b> : les 15 opérations et arrestations du 24 juillet 2026 - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/07/24/cybercriminalite-les-15-operations-et-arrestations-du-24-juillet-2026/)  
+*Source : dcod.ch | Publication : 2026-07-24*
 
-- Cet incident montre que les progrès rapides de l'intelligence artificielle alimentent déjà les risques en matière de cybersécurité que les.
+- Faits marquants de la semaine La police espagnole a démantelé une organisation de cybercriminalité et de blanchiment ayant généré 140 millions d’euros via des fraudes à l’investissement et des attaques de compromission d’e-mails professionnels (BEC, usurpation de messagerie d’entreprise).
+- - Aux États-Unis, un acte d’accusation de 2024, désormais rendu public, vise trois ressortissants russes et deux hébergeurs web « bulletproof », accusés d’avoir aidé des hackers et profité de cyberattaques ayant rapporté 62 millions de dollars.
+- - Près de deux ans après une cyberattaque ayant perturbé les services en ligne de Transport for London et exposé des données clients, deux membres du groupe Scattered Spider ont été condamnés à 5,6 ans de prison.
+- - À l’approche de la finale de la FIFA World Cup à New York, une vaste opération anti-piratage a conduit à la saisie de plus d’un millier de noms de domaine de streaming illégal, dont près de 400 ciblés dès le 26 juin.
 
-## [Moxa renforce sa position dans la <b>cybersécurité</b> OT avec une double certification IEC 62443-4-1 ML3](https://www.ecinews.fr/fr/moxa-renforce-sa-position-dans-la-cybersecurite-ot-avec-une-double-certification-iec-62443-4-1-ml3/)  
-*Source : ecinews.fr | Publication : 2026-07-23*
+## [Anthropic sort une nouvelle intelligence artificielle, présentée comme moins dangereuse ...](https://www.lefigaro.fr/secteur/high-tech/anthropic-sort-une-nouvelle-intelligence-artificielle-presentee-comme-moins-dangereuse-pour-la-cybersecurite-20260724)  
+*Source : lefigaro.fr | Publication : 2026-07-24*
 
-- Moxa renforce sa position dans la cybersécurité OT avec une double certification IEC 62443-4-1 ML3 Moxa, spécialiste des communications et réseaux industriels, franchit une étape importante dans le domaine de la cybersécurité des infrastructures critiques en obtenant une double certification IEC 62443-4-1 Niveau de maturité 3 (ML3).
-- Cette reconnaissance, délivrée à la fois dans le cadre du système de certification IECEE et du programme ISASecure, valide la maturité de son cycle de développement sécurisé et confirme sa capacité à intégrer la cybersécurité tout au long du cycle de vie de ses produits.
-- À une époque où les environnements industriels sont de plus en plus connectés et exposés aux cybermenaces, les exploitants d’infrastructures critiques recherchent des fournisseurs capables de démontrer non seulement la sécurité de leurs produits, mais aussi la robustesse des processus utilisés pour les concevoir.
-- La sécurité intégrée dès la conception La norme IEC 62443 s’est progressivement imposée comme une référence mondiale pour la cybersécurité industrielle.
+- Anthropic sort Claude Opus 5, un modèle d’IA présenté comme moins dangereux pour la cybersécurité Selon Anthropic, Opus 5 «s’approche des capacités de Fable 5 dans de nombreux domaines, pour la moitié du prix», selon un communiqué.
+- Passer la publicité Passer la publicitéAnthropic a mis en ligne vendredi un nouveau modèle d'intelligence artificielle (IA), Claude Opus 5, présenté comme moins susceptible de dérives et plus difficile à détourner pour des attaques informatiques.
+- Dans la famille Claude, Opus 5 succède à Opus 4.8, sorti fin mai.
+- Depuis, Anthropic a également commercialisé Fable 5, modèle d'un nouveau genre.
 
-## [Le Vietnam plaide pour une gestion proactive des risques au Forum régional de l'ASEAN](https://lecourrier.vn/le-vietnam-plaide-pour-une-gestion-proactive-des-risques-au-forum-regional-de-lasean/1351977.html)  
-*Source : lecourrier.vn | Publication : 2026-07-23*
+## [Cisco soutient une start-up israélienne de <b>cyber-sécurité</b> dirigée par une experte d'origine iranienne](https://fr.timesofisrael.com/cisco-soutient-une-start-up-israelienne-de-cyber-securite-dirigee-par-une-experte-dorigine-iranienne/)  
+*Source : fr.timesofisrael.com | Publication : 2026-07-24*
 
-- >> Renforcer leur partenariat stratégique et leur coordination sur les questions régionales >> L'ASEAN et la Russie veulent renforcer leur partenariat stratégique La 33e réunion du Forum régional de l'ASEAN (ARF) s'est tenue jeudi 23 juillet à Manille, aux Philippines, dans le cadre de la 59e Réunion des ministres des Affaires étrangères de l'ASEAN (AMM-59) et des réunions connexes.
-- La délégation vietnamienne était conduite par Lê Hoài Trung, membre du Bureau politique et ministre des Affaires étrangères.
-- S'exprimant à l'événement, Lê Hoài Trung a souligné que, face aux incertitudes géopolitiques et économiques mondiales, à l'intensification de la concurrence stratégique ainsi qu'aux risques liés au changement climatique, à la cybersécurité et aux perturbations des chaînes d'approvisionnement, l'ARF devait évoluer d'une logique de "dialogue réactif" vers une approche de "gestion proactive des risques", fondée sur le renforcement des capacités d'anticipation et de prévention.
-- Selon lui, l'ARF doit continuer à s'adapter aux nouvelles réalités stratégiques tout en préservant son rôle de plateforme de dialogue inclusive permettant la participation des grandes puissances dans le respect du rôle central de l'ASEAN.
+- Zafran Security développe des logiciels destinés à détecter et à atténuer les cybermenaces en harmonisant les outils de sécurité existants,.
 
-## [La <b>cybersécurité</b> industrielle se joue bien avant le déploiement : l'exemple de Moxa](https://www.elektormagazine.fr/news/la-cybersecurite-industrielle-se-joue-bien-avant-le-deploiement-l-exemple-de-moxa)  
-*Source : elektormagazine.fr | Publication : 2026-07-23*
+## [Anthropic sort une nouvelle IA, présentée comme moins dangereuse pour la <b>cybersécurité</b>](https://www.journaldemontreal.com/2026/07/24/anthropic-sort-une-nouvelle-ia-presentee-comme-moins-dangereuse-pour-la-cybersecurite)  
+*Source : journaldemontreal.com | Publication : 2026-07-24*
 
-- La cybersécurité industrielle se joue bien avant le déploiement : l’exemple de Moxa sur C’est précisément cette philosophie que met en avant Moxa avec l’obtention d’une double certification IEC 62443-4-1 Niveau de maturité 3, une distinction qui met l’accent sur les pratiques de développement sécurisé plutôt que sur les seules caractéristiques techniques des équipements.
-- Construire la sécurité avant d’affronter les menaces Les infrastructures industrielles modernes reposent sur des milliers d’équipements connectés qui doivent rester opérationnels pendant de nombreuses années.Dans ce contexte, corriger les vulnérabilités après coup devient souvent complexe et coûteux.
-- L’enjeu consiste donc à intégrer les mécanismes de sécurité dès la phase de conception afin de limiter les risques à la source.
-- La certification obtenue par Moxa illustre cette approche proactive où chaque étape du cycle de développement est pensée pour anticiper les menaces futures.
+- Anthropic a mis en ligne vendredi un nouveau modèle d'IA, Claude Opus 5, présenté comme plus difficile à détourner pour des attaques.
 
-## [« La demande est phénoménale » : la souveraineté numérique, argument commercial d'une ...](https://www.solutions-numeriques.com/la-demande-est-phenomenale-la-souverainete-numerique-argument-commercial-dune-fusion-allemande/)  
-*Source : solutions-numeriques.com | Publication : 2026-07-23*
+## [Cyberhebdo du 24 juillet 2026 : le plus gros pétrolier de Colombie dans la tourmente](https://www.lemagit.fr/actualites/366646011/Cyberhebdo-du-24-juillet-2026-le-plus-gros-petrolier-de-Colombie-dans-la-tourmente)  
+*Source : lemagit.fr | Publication : 2026-07-24*
 
-- LANCOM Systems et Rohde & Schwarz Cybersecurity, deux filiales du groupe familial allemand Rohde & Schwarz, ne forment plus qu’une seule entité depuis le 1ᵉʳ juillet 2026.
-- Un rapprochement présenté par l’entreprise comme sa réponse à la demande de souveraineté numérique qui traverse le marché européen.
-- Derrière ce nouveau nom se cachent deux entités déjà bien identifiées : LANCOM Systems, spécialiste du réseau fondé en 2002 près d’Aix-la-Chapelle, et Rohde & Schwarz Cybersecurity, expert du chiffrement homologué BSI.
-- Elles sont désormais réunies sous une même structure baptisée Rohde & Schwarz Networks and Cybersecurity.
+- Andrei Merkulov - stock.adobe.co Cyberhebdo du 24 juillet 2026 : le plus gros pétrolier de Colombie dans la tourmente Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.
+- Bienvenue dans la Cyberhebdo.
+- Cette semaine, le niveau d’activité des menaces numériques est resté particulièrement élevé.
+- Notre revue de presse a compilé un total de 16 cyberattaques, rapportées dans les médias internationaux, couvrant une large palette de pays et incluant le Royaume-Uni (GBR), les États-Unis (USA), l’Allemagne (DEU), l’Afrique du Sud (ZAF), la Suisse (LUX), Taïwan (TWN), le Portugal (PRT), Hong Kong (HKG), les Pays-Bas (NLD), la Colombie (COL), la Roumanie (ROU), la Croatie (CRI) et la Finlande (FIN).
 
-## [Pourquoi le gestionnaire de mots de passe de votre navigateur (Chrome, Safari) n'est pas le ...](https://www.futura-sciences.com/tech/questions-reponses/cybersecurite-gestionnaire-mots-passe-votre-navigateur-chrome-safari-nest-pas-plus-securise-25732/)  
-*Source : futura-sciences.com | Publication : 2026-07-23*
+## [Anthropic sort une nouvelle IA, présentée comme moins dangereuse pour la <b>cybersécurité</b>](https://www.qub.ca/article/anthropic-sort-une-nouvelle-ia-presentee-comme-moins-dangereuse-pour-la-cybersecurite-639112439)  
+*Source : qub.ca | Publication : 2026-07-24*
 
-- Vous êtes inscrit sur une multitude de sites et vous cliquez trop souvent sur « mot de passe oublié » à votre goût ?.
-- Vous cherchez une solution permettant de vous connecter plus rapidement à vos comptes ?.
-- Futura vous présente sa sélection des meilleurs logiciels pour gérer ses mots de passe.
-- Lire la suite On ne vous rejette pas la faute : enregistrer ses identifiants directement dans le navigateur évite de retenir des dizaines de mots de passe.
+- Anthropic a mis en ligne vendredi un nouveau modèle d’intelligence artificielle (IA), Claude Opus 5, présenté comme moins susceptible de dérives et plus difficile à détourner pour des attaques informatiques.
+- • À lire aussi : La consommation d’électricité des centres de données pourrait quadrupler d’ici 2035 • À lire aussi : Dans quelle proportion la musique sur Deezer est-elle d’origine IA ?.
+- Plus de la moitié !.
+- Dans la famille Claude, Opus 5 succède à Opus 4.8, sorti fin mai.
 
-## [PARIS : <b>Cybersécurité</b> - L'IA devient le nouvel accélérateur des cyberattaques](https://presseagence.fr/paris-cybersecurite-lia-devient-le-nouvel-accelerateur-des-cyberattaques/)  
-*Source : presseagence.fr | Publication : 2026-07-23*
+## [Anthropic sort une nouvelle IA, présentée comme moins dangereuse pour la <b>cybersécurité</b>](https://www.noovo.info/nouvelles/technologie/article/anthropic-sort-une-nouvelle-ia-presentee-comme-moins-dangereuse-pour-la-cybersecurite/)  
+*Source : noovo.info | Publication : 2026-07-24*
 
-- PARIS : Cybersécurité – L’IA devient le nouvel… Partager : PARIS : Cybersécurité – L’IA devient le nouvel accélérateur des cyberattaques Sophos révèle dans son rapport 2026 que les cybercriminels exploitent l’IA pour réduire les délais de leurs attaques de plusieurs semaines à quelques jours.
-- L’ère de l’expérimentation est révolue.
-- Les cybercriminels ont désormais pleinement intégré l’intelligence artificielle (IA) dans leurs opérations, non pas pour créer de nouveaux types d’attaques, mais pour en décupler la vitesse et l’efficacité.
-- C’est le constat alarmant du rapport 2026 sur la sécurité de l’IA, publié ce jeudi 23 juillet 2026 par Sophos, leader mondial de la cybersécurité.
+- Anthropic a mis en ligne vendredi un nouveau modèle d’intelligence artificielle (IA), Claude Opus 5, présenté comme moins susceptible de dérives et plus difficile à détourner pour des attaques informatiques.
+- Dans la famille Claude, Opus 5 succède à Opus 4.8, sorti fin mai.
+- Depuis, Anthropic a également commercialisé Fable 5, modèle d’un nouveau genre.
+- Fable 5 est une version sous contraintes de Mythos 5, considéré comme l’IA la plus puissante d’Anthropic et uniquement diffusée à quelques sociétés et organisations à des fins de sécurisation d’internet.
 
-## [Le pire ennemi de la double authentification a été détruit - 01net.com](https://www.01net.com/actualites/kratos-roi-phishing-pire-ennemi-double-authentification-demantele-par-police.html)  
-*Source : 01net.com | Publication : 2026-07-23*
+## [Anthropic sort une nouvelle IA, présentée comme moins dangereuse pour la <b>cybersécurité</b>](https://www.tvanouvelles.ca/2026/07/24/anthropic-sort-une-nouvelle-ia-presentee-comme-moins-dangereuse-pour-la-cybersecurite)  
+*Source : tvanouvelles.ca | Publication : 2026-07-24*
 
-- La police allemande annonce avoir démantelé l’infrastructure centrale de Kratos, l’une des plateformes de phishing les plus répandues au monde.
-- Repéré pour la première fois début janvier 2026 par les chercheurs de KnowBe4 Threat Labs, le kit de phishing-as-a-Service (PhaaS) a grandement contribué à la démocratisation des arnaques et des cyberattaques.
-- Le kit est décrit comme une véritable machine à collecter des identifiants par le biais de fausses pages web.
-- Au moment de sa découverte, le KnowBe4 Threat Labs estimait que plus de 90% des compromissions d’identifiants pourraient reposer sur des plateformes toutes prêtes comme Kratos d’ici à la fin de l’année.
+- Anthropic souligne également avoir « intentionnellement évité d'entraîner Opus 5 à des tâches de cybersécurité », même si l'amélioration générale.
 
-## [Cybermalveillance.gouv.fr lance une AlerteCyber concernant des failles de sécurité ...](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/alertecyber-wordpress)  
-*Source : cybermalveillance.gouv.fr | Publication : 2026-07-23*
+## [Ouahbi prépare une arsenal juridique pour lutter contre les fake news - TelQuel](https://telquel.ma/instant-t/2026/07/24/ouahbi-prepare-une-arsenal-juridique-pour-lutter-contre-les-fake-news_2000657/)  
+*Source : telquel.ma | Publication : 2026-07-24*
 
-- Cybermalveillance.gouv.fr lance une AlerteCyber concernant des failles de sécurité critiques dans WordPress Publié le 23/07/2026 - 3 minutes de lecture - Cybermalveillance.gouv.fr déclenche ce jour une nouvelle AlerteCyber concernant des failles de sécurité critiques dans WordPress.
-- Il est primordial de les corriger le plus rapidement possible en mettant à jour les systèmes concernés pour réduire les risques d’une cyberattaque.
-- Qu’est-ce qu’une AlerteCyber ?.
-- Mis en place en juillet 2021, AlerteCyber est un dispositif lancé dès lors qu’une menace ou une faille critique est identifiée et qualifiée en tant que telle, conjointement par l’ANSSI et Cybermalveillance.gouv.fr.
+- Parmi ces mesures figure l’introduction de dispositions spécifiques relatives aux fausses informations, définissant les éléments matériels et intentionnels de cette infraction, ainsi que les circonstances aggravantes, notamment lorsque la diffusion de fausses informations entraîne une atteinte à l’ordre public, provoque la panique au sein de la population ou perturbe le fonctionnement normal des institutions.
+- Dans sa réponse à une question parlementaire sur la « lutte pénale contre les fausses informations », dont TelQuel Arabi détient une copie, Ouahbi a expliqué que ces réformes visent également à remédier aux difficultés pratiques résultant de la multiplicité et de la dispersion des textes juridiques applicables aux infractions commises à l’aide des technologies modernes, ainsi qu’aux chevauchements entre les différentes dispositions légales.
+- Le ministre a ajouté que la législation marocaine réprime déjà la diffusion de fausses ou de fausses nouvelles, en particulier lorsqu’elle est réalisée au moyen des technologies modernes ou des systèmes d’information et de communication.
+- Il a rappelé que la loi n° 88.13 relative à la presse et à l’édition incrimine les comportements commis par le biais de moyens audiovisuels, électroniques ou de tout autre support utilisé pour diffuser de fausses informations ou inciter à la commission de certains crimes et délits.
 
-## [Dépassé par la « bouillie IA », GitHub restructure son bug bounty - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/github-bug-bounty-ia-228480/amp)  
-*Source : silicon.fr | Publication : 2026-07-23*
+## [Remplacer les mots de passe par votre visage: Google teste la connexion via un selfie vidéo ... - BFM](https://www.bfmtv.com/tech/cybersecurite/remplacer-les-mots-de-passe-par-votre-visage-google-teste-la-connexion-via-un-selfie-video-pour-securiser-l-acces-a-votre-compte_AV-202607240447.html)  
+*Source : bfmtv.com | Publication : 2026-07-24*
 
-- Malgré l’aide précieuse qu’apporte l’IA, merci de ne pas confondre vitesse et précipitation.
-- Mi-mai, GitHub avait fait passer le message aux participants à son bug bounty public.
-- En toile de fond, la saturation de ce programme par des soumissions de faible qualité.
-- Essentiellement à deux titres.
+- Remplacer les mots de passe par votre visage: Google teste la connexion via un selfie vidéo pour sécuriser l’accès à votre compte Depuis l'introduction des clés d'accès, les passkeys, en anglais, le mot de passe n'était déjà plus trop le dernier rempart de notre sécurité en ligne.
+- Il pourrait bien le devenir encore moins.
+- Désormais, il pourrait suffire d'un regard dans la caméra d'un smartphone ou d'un PC, et de quelques mouvements de tête pour convaincre Google que vous êtes bien vous.
+- Jeudi 23 juillet, le géant américain a annoncé l'arrivée d'une nouvelle méthode de connexion à ses comptes: la vidéo selfie.
 
-## [Fuite de données chez SICSOE, des données compromises par <b>ransomware</b> - FrenchBreaches](https://frenchbreaches.com/alertes/sicsoe-rw_VTBsRFUwOUZRSFJvWldkbGJuUnNaVzFsYmc9PQ)  
-*Source : frenchbreaches.com | Publication : 2026-07-23*
+## [EvilTokens : quand le phishing n'a plus besoin de votre mot de passe - WeLiveSecurity](https://www.welivesecurity.com/fr/cybercriminalite/eviltokens-quand-le-phishing-na-plus-besoin-de-votre-mot-de-passe/)  
+*Source : welivesecurity.com | Publication : 2026-07-24*
 
-- Cyberattaque revendiquée contre SICSOE (Solution Vin Logistique) : le groupe de ransomware The Gentlemen menace de publier des données Une cyberattaque visant SICSOE (Solution Vin Logistique), entreprise française spécialisée dans les services logistiques destinés au secteur vitivinicole, a été revendiquée par le groupe de ransomware The Gentlemen sur son site de fuite.
-- Les cybercriminels ont ajouté SICSOE à leur liste de victimes et affichent un compte à rebours précédant l’activation de leur publication.
-- À ce stade, la revendication observée ne précise toutefois ni le volume de données potentiellement exfiltrées, ni leur nature exacte.
-- !.
+- On nous répète depuis des mois que les emails de phishing bourrés de fautes d'orthographe et de designs approximatifs appartiennent au passé, grâce à l’essor de l’IA qui rend le faux plus vrai que vrai.
+- EvilTokens apporte une démonstration un peu différente, mais tout aussi éloquente, du chemin parcouru par cet artisanat criminel.
+- EvilTokens est un kit de Phishing-as-a-Service (que l’on appelle aussi PhaaS – en somme il s’agit de kit d’arnaque prêt à l’emploi proposé sur le dark web aux criminels) conçu pour compromettre les comptes Microsoft 365 en exploitant le flux « device authorization grant » d'OAuth 2.0.
+- Les attaques qui s'appuient sur ce kit relèvent du device code phishing : elles contournent le besoin de répliques convaincantes de pages de connexion sur lesquelles les victimes saisiraient leur mot de passe.
