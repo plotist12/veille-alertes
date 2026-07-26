@@ -1,159 +1,155 @@
 # Résumés – 2026-07-26
 
 
-## [BofA relève ses objectifs de cours sur des valeurs de <b>cybersécurité</b> - Investing.com](https://fr.investing.com/news/stock-market-news/bofa-releve-ses-objectifs-de-cours-sur-des-valeurs-de-cybersecurite-3516120)  
-*Source : fr.investing.com | Publication : 2026-07-25*
+## [Identifier les signes de commentaires créés par l'IA pour inciter et attirer l'opinion publique](https://fr.laodong.vn/thoi-su/nhan-dien-dau-hieu-binh-luan-do-ai-tao-nham-kich-dong-loi-keo-du-luan-1736967.ldo)  
+*Source : fr.laodong.vn | Publication : 2026-07-26*
 
-- Cloudflare, ; Palo Alto Networks, ; SentinelOne et ; CrowdStrike, citant l'expansion des valorisations dans la cybersécurité , l'accélération de l'.
+- Identifier les signes de commentaires créés par l'IA pour inciter et attirer l'opinion publique Un expert en cybersécurité souligne les signes d'identification des commentaires créés par l'IA pour inciter et diriger l'opinion publique.
+- Doutes lorsque de nombreux comptes répètent le même message Sous de nombreux articles à contenu controversé sur les réseaux sociaux, il n'est pas difficile de rencontrer une série de commentaires apparaissant en peu de temps avec des expressions similaires, répétant le même message.
+- À première vue, cela peut être considéré comme une réaction de la communauté.
+- Cependant, dans de nombreux cas, derrière ces "vagues" de commentaires se cachent peut-être des contenus réalisés par l'intelligence artificielle (IA).
 
-## [La résilience de l'environnement de <b>cybersécurité</b> face aux vulnérabilités associées à l'IA de pointe](https://www.ey.com/fr_ca/insights/consulting/how-can-you-redefine-resilience-for-the-next-frontier-of-vulnerabilities)  
-*Source : ey.com | Publication : 2026-07-25*
+## [Taxe sur les petits colis : attention, les pirates pourraient s'en servir pour vous piéger](https://www.01net.com/actualites/taxe-sur-les-petits-colis-attention-les-pirates-pourraient-sen-servir-pour-vous-pieger.html)  
+*Source : 01net.com | Publication : 2026-07-26*
 
-- EY désigne l’organisation mondiale des sociétés membres d’Ernst & Young Global Limited, et peut désigner une ou plusieurs de ces sociétés membres, lesquelles sont toutes des entités juridiques distinctes.
-- Ernst & Young Global Limited, société à responsabilité limitée par garanties du Royaume‑Uni, ne fournit aucun service aux clients.
-- Comment EY peut vous aider Apprenez comment les entreprises accélèrent leur transformation tout en renforçant la cybersécurité.
-- Pour en savoir plus.
+- La taxe douanière européenne de 3 euros sur les petits colis est officiellement entrée en vigueur.
+- De leur côté, certains arnaqueurs multiplient les arnaques au colis non livré ou bloqué à la douane.
+- Justement, la société de cybersécurité Bitdefender craint que des escrocs mobilisent la nouvelle taxe douanière européenne pour piéger leurs victimes.
+- Mais de quelle façon ?.
 
-## [Découvrez cette fonctionnalité qui détecte et filtre les SMS indésirables sur votre iPhone - Clubic](https://www.clubic.com/bons-plans-622432-decouvrez-cette-fonctionnalite-qui-detecte-et-filtre-les-sms-indesirables.html)  
-*Source : clubic.com | Publication : 2026-07-25*
+## [L'Éthiopie inaugure un laboratoire de défense de pointe pour stimuler l'IA, la <b>cybersécurité</b> ...](https://www.ena.et/web/fre/w/fre_9278528)  
+*Source : ena.et | Publication : 2026-07-26*
 
-- Votre smartphone est devenu la cible n°1 des arnaqueurs.
-- Surfshark riposte avec une nouvelle fonctionnalité qui détecte et filtre les SMS frauduleux sur iPhone.
-- Votre smartphone est une cible privilégiée des pirates en ligne et autres scammers.
-- Souvent dépourvu de solution de cybersécurité, il se retrouve rapidement sans défense, notamment en cas d'attaque par hameçonnage reçue par mail comme par SMS.
+- L'Éthiopie inaugure un laboratoire de défense de pointe pour stimuler l'IA, la cybersécurité et l'innovation stratégique - ENA Français L'Éthiopie inaugure un laboratoire de défense de pointe pour stimuler l'IA, la cybersécurité et l'innovation stratégique Addis Ababa le 26 juillet, 2026 (ENA) L’Université de la Défense éthiopienne a inauguré un laboratoire central de pointe.
+- Cette installation devrait permettre à l’Éthiopie de s’imposer comme un pôle national dédié à la recherche de pointe, à la formation spécialisée, à l’innovation technologique et au développement scientifique stratégique.
+- La ministre de la Défense, Aisha Mohammed, ainsi que de hauts responsables gouvernementaux, des diplomates et des invités d’honneur ont assisté à la cérémonie d’inauguration.
+- Construit sur un site de 20 850 mètres carrés avec le soutien du gouvernement des Émirats arabes unis (EAU) dans le cadre du partenariat bilatéral de développement entre l’Éthiopie et les EAU, ce laboratoire est conçu pour faire le lien entre les connaissances universitaires et leurs applications pratiques afin de relever les nouveaux défis en matière de sécurité nationale, de technologie et d’industrie.
 
-## [Le service des casiers judiciaires de la police provinciale a offert de l'encens et des ... - Vietnam.vn](https://www.vietnam.vn/fr/phong-ho-so-nghiep-vu-cong-an-tinh-dang-huong-dang-hoa-tuong-niem-ngay-thuong-binh-liet-si-27-7)  
-*Source : vietnam.vn | Publication : 2026-07-25*
+## [Hack de Hugging Face : OpenAI a mis près d'une semaine pour s'en rendre compte - Clubic](https://www.clubic.com/actualite-622777-hack-de-hugging-face-openai-a-mis-pres-d-une-semaine-pour-s-en-rendre-compte.html)  
+*Source : clubic.com | Publication : 2026-07-26*
 
-- Dans la Maison Traditionnelle du Département de la Police Provinciale, dans une atmosphère solennelle et respectueuse, la délégation a offert de l'encens et exprimé sa profonde gratitude au Président Hô Chi Minh, le dirigeant bien-aimé de la nation, fondateur, éducateur et formateur de la Police Populaire Vietnamienne.
-- Devant l'esprit de l'Oncle Hô, les officiers et les soldats de la Division des Archives et des Opérations du Département de la Police Provinciale ont juré fidélité absolue au Parti, à la Patrie et au Peuple ; de s'inspirer sans cesse de la pensée, de l'éthique et du style de Hô Chi Minh ; de perpétuer les glorieuses traditions de la Police Populaire ; et d'accomplir résolument toutes les missions qui leur seront confiées.
-- Offrir de l'encens au monument à l'héroïne Nguyen Thi Loi des Forces armées populaires, au quartier général de la police provinciale, et commémorer les martyrs héroïques au cimetière des martyrs de Ham Rong, dans l'atmosphère solennelle du mois de juillet, chaque bâtonnet d'encens allumé n'est pas seulement un hommage à ceux qui sont tombés, mais aussi un rappel de la responsabilité de perpétuer les valeurs acquises au prix du sang et du sacrifice.
-- Vous aimerez peut-être Dans le cadre des actions entreprises pour exprimer sa gratitude, la délégation a rendu visite aux soldats blessés, malades et aux familles des officiers et soldats de l'unité tombés au champ d'honneur, leur a prodigué des encouragements et leur a offert des présents empreints de compassion.
+- Le hack inédit de Hugging Face par un agent IA d'OpenAI a éveillé de nombreuses craintes.
+- Des craintes qui s'intensifient quand on sait le temps qu'a mis la société de Sam Altman pour s'en rendre compte.
+- Les intelligences artificielles vont-elles un jour échapper au contrôle des êtres humains ?.
+- C'est le scénario de science-fiction que l'on ne cesse de ressasser depuis plus de trois ans, et qui semble s'être matérialisé avec l'annonce cette semaine du hack de la plateforme Hugging Face par un agent IA d'OpenAI.
 
-## [Tunisie–USA : Khaled Sehili plaide pour un partenariat renforcé en <b>cybersécurité</b> et ...](https://www.webmanagercenter.com/2026/07/25/570584/tunisie-usa-khaled-sehili-plaide-pour-un-partenariat-renforce-en-cybersecurite-et-intelligence-artificielle/)  
-*Source : webmanagercenter.com | Publication : 2026-07-25*
+## [Quand les chefs d'entreprise d'Occitanie cherchent à se protéger - ToulÉco](https://www.touleco.fr/En-mode-Eco-Cybersecurite-espionnage-propriete-intellectuelle,52861)  
+*Source : touleco.fr | Publication : 2026-07-26*
 
-- La coopération militaire entre la Tunisie et les États-Unis et les préparatifs de la prochaine réunion de la Commission militaire mixte tuniso-américaine, prévue début septembre aux Etats-Unis, ont été au centre d’un entretien téléphonique, vendredi, entre le ministre de la Défense, Khaled Sehili, et le secrétaire adjoint américain à la Défense chargé des affaires de sécurité internationale, Daniel Zimmerman.
-- Khaled Sehili a, à cette occasion, salué la solidité des relations d’amitié historiques unissant la Tunisie et les Etats-Unis ainsi que la qualité de leur coopération militaire, se félicitant des résultats du partenariat stratégique liant les deux pays, fondé sur la confiance, le respect mutuel et les intérêts communs, selon un communiqué du ministère de la Défense.
-- Le ministre a déclaré que la prochaine session de la Commission militaire mixte constituera une occasion d’évaluer les progrès réalisés dans la coopération bilatérale et de définir les priorités de la prochaine phase, avec pour objectif de renforcer davantage le partenariat stratégique entre les deux pays.
-- Il a, également, exprimé le souhait de voir cette coopération s’élargir à de nouveaux domaines, notamment le renforcement des capacités opérationnelles des forces armées, la formation et l’enseignement militaires, la cybersécurité, l’intelligence artificielle, la sécurité maritime et la surveillance des frontières.
+- D’emblée, Marc Sztulman pose un constat amer à la lecture de ce 4e Baromètre En mode éco, soulignant « la faiblesse du nombre de requêtes, compte tenu des enjeux ».
+- Cybersécurité, propriété intellectuelle, sécurisation des sites de production, lutte contre l’espionnage industriel… : pour le conseiller régional délégué au numérique, par ailleurs président du centre de ressources Cyber’Occ, ces sujets sont en effet éminemment stratégiques, puisqu’ils concourent à la sécurisation des entreprises régionales.
+- Premier item analysé : la cybersécurité.
+- « Le volume de recherches est important en Occitanie, avec près de 4200 requêtes mensuelles en 2025, contre moins de 2900 en 2022 », constate Victor Gajan, cofondateur de Big Happy en charge de l’innovation.
 
-## [IA qui fait peur, modèles chinois à utiliser malgré les restrictions américaines, Jensen Huang ...](https://www.europe-infos.fr/actualites/10330/ia-qui-fait-peur-modeles-chinois-a-utiliser-malgre-les-restrictions-americaines-jensen-huang-revele-ce-que-la-tech-doit-affronter/)  
-*Source : europe-infos.fr | Publication : 2026-07-25*
+## [Comment transférer et accéder à vos mots de passe dans l'appli SFR <b>Cybersécurité</b>](https://actus.sfr.fr/tech/news/comment-transferer-et-acceder-a-vos-mots-de-passe-dans-l-appli-sfr-cybersecurite_AN-202607260004.html)  
+*Source : actus.sfr.fr | Publication : 2026-07-26*
 
-- Jensen Huang, directeur général de Nvidia et figure centrale de l’écosystème de l’intelligence artificielle, livre une lecture directe de la période dans un long entretien vidéo relayé par Le Figaro.
-- À la tête d’une entreprise devenue la plus valorisée au monde, il affirme que les figures de l’IA font peur aux gens, et il estime que la tech doit absolument utiliser les modèles chinois, même sous le régime des restrictions américaines.
-- Derrière ces formules, une ligne politique et industrielle se dessine, entre acceptabilité sociale, concurrence géopolitique et dépendance matérielle aux puces.
-- Jensen Huang décrit une IA perçue comme menaçante Dans son entretien, Jensen Huang insiste sur un point souvent sous-estimé par les acteurs du secteur, la dimension émotionnelle et culturelle de l’IA.
+- Détenteur de l’option SFR Cybersécurité ?.
+- Votre application se refait une beauté !.
+- Vous pouvez désormais y gérer directement vos mots de passe, auparavant accessibles via l’application SFR Cybersécurité – Password.
+- Pour les retrouver, il suffit de les transférer vers l’application SFR Cybersécurité.
 
-## [Fuites de données : la France devient la victime numéro un d'Europe, c'est de pire en pire](https://www.01net.com/actualites/fuites-donnees-france-victime-numero-un-europe.html)  
-*Source : 01net.com | Publication : 2026-07-25*
+## [Québec écarte des projets en IA et automatisation dans la fonction publique - Le Devoir](https://www.ledevoir.com/politique/quebec/997367/quebec-ecarte-projets-ia-automatisation-fonction-publique)  
+*Source : ledevoir.com | Publication : 2026-07-26*
 
-- La France continue d’être l’un des terrains de jeux préférés des cybercriminels.
-- Une étude de Surfshark, une entreprise lituanienne spécialisée dans la cybersécurité, révèle même que la situation ne cesse de s’aggraver.
-- Plus de 43 millions de comptes compromis Au cours du premier semestre de l’année 2026, 43,4 millions de comptes en ligne appartenant à des Français ont été piratés, contre 26,7 millions au second semestre 2025.
-- Près de trois comptes ont été compromis chaque seconde.
+- Québec a abandonné des initiatives en matière d’automatisation et d’intelligence artificielle (IA) au sein de la fonction publique, dont l’implantation d’un robot conversationnel sur le site gouvernemental « Quebec.ca », après des projets pilotes qui ont connu des « défis significatifs ».
+- Un document, obtenu récemment par La Presse canadienne en vertu de la Loi sur l’accès aux documents des organismes publics et sur la protection des renseignements personnels, révèle que trois projets pilotes menés par le ministère de la Cybersécurité et du Numérique (MCN) et son Centre québécois d’excellence numérique ont rencontré plusieurs enjeux et obstacles.
+- En février 2024, le ministre responsable du MCN de l’époque, Éric Caire, annonçait en conférence de presse la mise à l’essai de prototypes devant réduire le temps de traitement des formulaires d’assurances des fonctionnaires et du processus de facturation, grâce à l’automatisation.
+- Il indiquait également qu’un agent conversationnel utilisant l’IA générative serait testé sur le portail « Données Québec », afin d’améliorer l’accessibilité des jeux de données disponibles sur le site.
 
-## [Anthropic lance Claude Opus 5, un modèle d'IA qui, selon l'entreprise, offre la quasi-totalité ...](https://intelligence-artificielle.developpez.com/actu/385531/Anthropic-lance-Claude-Opus-5-un-modele-d-IA-qui-selon-l-entreprise-offre-la-quasi-totalite-des-capacites-de-son-modele-haut-de-gamme-Claude-Fable-5-mais-a-moitie-prix/?amp)  
-*Source : intelligence-artificielle.developpez.com | Publication : 2026-07-25*
+## [La Côte d'Ivoire peaufine sa stratégie de <b>cybersécurité</b> 2026-2030 - TAP.info.tn](https://www.tap.info.tn/fr/Portail-Monde/20428973-la-côte-d-ivoire)  
+*Source : tap.info.tn | Publication : 2026-07-26*
 
-- Anthropic lance Claude Opus 5, un modèle d'IA qui, selon l'entreprise, offre la quasi-totalité des capacités de son modèle haut de gamme Claude Fable 5, mais à moitié prix Le 2026-07-25 13:34:03, par Anthony, Chroniqueur Actualités Anthropic a lancé Claude Opus 5, son dernier modèle d'intelligence artificielle (IA), qu'il présente comme étant aussi performant que son produit haut de gamme, Claude Fable 5, mais à la moitié du prix.
-- Opus 5 devient l'option par défaut sur Claude Max et se hisse en tête de liste des modèles proposés sur Claude Pro.
-- Les premiers utilisateurs ont fait état d'une réelle augmentation de l'efficacité lors de l'utilisation d'Opus 5, ce dernier ayant notamment mené à bien un flux de travail que les modèles Claude précédents n’avaient pas pu achever, sans coût supplémentaire en jetons.
-- Selon Anthropic, Opus 5 a obtenu les meilleurs résultats en matière d'alignement que tous les modèles précédents, y compris Fable 5, même si Mythos 5 garde l'avantage en matière de cybersécurité offensive.
+- Abidjan, 26/07/2026 (TAP)- Les autorités ivoiriennes poursuivent l'élaboration de la stratégie nationale de cybersécurité 2026-2030,.
 
-## [Kankan : le parquet général met en garde et annonce le procès dans l'affaire de viol de Mandiana](https://www.guinee7.com/2026/07/24/affaire-viol-mandiana-proces-parquet-kankan/)  
-*Source : guinee7.com | Publication : 2026-07-25*
+## [François LOCOH-DONOU, PCA &amp; PDG – F5, Cofondateur - Cajou Espoir - Togo First](https://www.togofirst.com/fr/trombinoscope/2607-19676-francois-locoh-donou-pca-pdg-f5-cofondateur-cajou-espoir)  
+*Source : togofirst.com | Publication : 2026-07-26*
 
-- Kankan- Le parquet général près la Cour d’appel de Kankan est monté au créneau ce vendredi 24 juillet 2026 pour condamner la diffusion sur les réseaux sociaux d’anciennes images à caractère obscène en lien avec une affaire présumée de viol en cours d’instruction à Mandiana.
-- Dans un communiqué, le procureur général, Marwane Baldé, appelle les citoyens à faire preuve de responsabilité et annonce que le procès des cinq personnes mises en cause s’ouvrira dans les prochains jours.
-- Selon le communiqué, le parquet général dit avoir constaté « avec une profonde indignation la diffusion, sur les réseaux sociaux, d’anciennes images à caractère obscène en lien avec une procédure judiciaire en cours concernant les faits présumés de viol ».
-- Le procureur général rappelle que la justice a déjà engagé des poursuites dans ce dossier.
+- (Togo First) - A la tête de F5, groupe américain coté au Nasdaq et spécialisé dans la cybersécurité ainsi que la sécurité des applications et des API (Application Programming Interface), François LOCOH-DONOU figure parmi les dirigeants africains les plus influents de l'industrie technologique mondiale.
+- Depuis mars 2026, il cumule les fonctions de Chairman of the Board (PCA), President et de Chief Executive Officer (CEO, Ndlr : PDG) du groupe américain F5.
+- Franco-Togolais, ingénieur diplômé de Centrale Méditerranée (anciennement École Centrale de Marseille) et de Télécom Paris, il est également titulaire d'un MBA de la Stanford Graduate School of Business (Californie, Etats-Unis).
+- Après des débuts dans les télécommunications, il construit l'essentiel de sa carrière aux États-Unis.
 
-## [Doctolib usurpé dans le cadre d'une vaste arnaque, avec un e-mail qui promet un kit médical gratuit](https://www.clubic.com/actualite-622654-doctolib-usurpe-dans-le-cadre-vaste-arnaque-avec-un-e-mail-qui-promet-un-kit-medical-gratuit.html)  
-*Source : clubic.com | Publication : 2026-07-25*
+## [SentinelOne s'impose comme le nouveau bouclier IA pour la maison intelligente](https://www.objetconnecte.com/sentinelone-simpose-comme-le-nouveau-bouclier-ia-pour-la-maison-intelligente/)  
+*Source : objetconnecte.com | Publication : 2026-07-26*
 
-- Doctolib alerte ses utilisateurs : une vague de phishing usurpe son nom pour promettre un « Medicare Kit » gratuit.
-- L'entreprise détaille les signaux d'alerte à connaître pour ne pas se faire piéger par cette arnaque en ligne.
-- Depuis plusieurs semaines, des e-mails et SMS usurpant l'identité de Doctolib promettent aux internautes un kit médical gratuit, sous prétexte d'une sélection exclusive à un sondage santé.
-- Ces messages soignés, avec logo bleu et mise en page identique à s'y méprendre, cachent une tentative de phishing, technique dont on rappelle qu'elle consiste à imiter une marque de confiance pour soutirer des données personnelles, et qui cible en priorité les publics les plus vulnérables.
+- Face à la montée en puissance des objets connectés domestiques, la cybersécurité doit se réinventer.
+- SentinelOne déploie une plateforme d’IA sophistiquée pour protéger les maisons intelligentes.
+- Cette nouvelle technologie promet une défense prompte et autonome contre les menaces numériques.
+- Avec l’essor exponentiel de la maison intelligente, les cyberattaques ciblées font peser un risque élevé sur la sécurité privée.
 
-## [Succession à l'ONU : qui remplacera António Guterres ? - Journal du Togo](https://www.journaldutogo.com/succession-onu-candidats-secretaire-general-2026/)  
-*Source : journaldutogo.com | Publication : 2026-07-25*
+## [IA, loi numérique, <b>cybersécurité</b> : le grand tournant tech de 2026 - Nice Premium](https://www.nicepremium.fr/technologie/ia-loi-numerique-cybersecurite-le-grand-tournant-tech-de-2026/)  
+*Source : nicepremium.fr | Publication : 2026-07-26*
 
-- Le successeur d’António Guterres ne sera pas seulement un diplomate chevronné.
-- Il devra incarner la crédibilité des Nations unies dans un monde marqué par les guerres, les fractures géopolitiques et la défiance envers les institutions internationales.
-- Alors que la course entre dans sa phase décisive, une exigence s’impose : le prochain secrétaire général devra être une personnalité au parcours irréprochable, capable de fédérer sans susciter de soupçons sur son intégrité ou son indépendance.
-- La compétition pour prendre les rênes des Nations unies a franchi une étape majeure jeudi 23 juillet 2026.
+- L’été 2026 s’annonce comme une saison charnière pour le monde du numérique.
+- Entre l’irruption de l’intelligence artificielle dans nos moteurs de recherche quotidiens, une législation inédite sur la protection des mineurs en ligne et des menaces cybernétiques de plus en plus sophistiquées, le paysage tech se reconfigure à une vitesse vertigineuse.
+- Sur la Côte d’Azur, où l’écosystème de Sophia Antipolis incarne depuis des décennies l’avant-garde de l’innovation française, ces bouleversements résonnent avec une acuité particulière.
+- Google réinvente la recherche : bienvenue dans l’ère des résumés IA C’est un changement qui était attendu, redouté ou espéré selon les acteurs concernés : Google a officiellement déployé ses résumés générés par intelligence artificielle en France.
 
-## [<b>Cybersécurité</b>, balance commerciale, intelligence artificielle: les trois mots-clés de la semaine](https://agefi.com/actualites/entreprises/cybersecurite-balance-commerciale-intelligence-artificielle-les-trois-mots-cles-de-la-semaine)  
-*Source : agefi.com | Publication : 2026-07-25*
+## [Lors d'un test de <b>cybersécurité</b>, des IA d'OpenAI se sont échappées d'un bac à sable et ont ...](https://www.science-et-vie.com/technos-et-futur/lors-dun-test-de-cybersecurite-des-ia-dopenai-se-sont-echappees-dun-bac-a-sable-et-ont-pirate-hugging-face-251726.html)  
+*Source : science-et-vie.com | Publication : 2026-07-26*
 
-- 1.
-- L’outsourcing informatique accentue la sous-assurance dans le cyber Si la couverture contre les risques informatiques progresse en Suisse, les PME restent à la traîne.
-- Dépendance aux prestataires, sous-estimation des menaces et gouvernance insuffisante freinent l’assurabilité.
-- 2.
+- Lors d’un test de cybersécurité, des IA d’OpenAI se sont échappées d’un bac à sable et ont piraté Hugging Face Les géants de la tech testent leurs modèles dans des espaces clos et sécurisés.
+- Sauf qu'un programme assez doué peut retourner ce huis clos contre ses barreaux.
+- OpenAI admet que deux des siens s'en sont échappés pour voler les réponses d'un examen, un piratage par une IA sans main humaine.
+- OpenAI a reconnu, le 21 juillet 2026, que deux de ses modèles avaient forcé les systèmes de la plateforme Hugging Face pendant une campagne interne de tests de cybersécurité.
 
-## [Un hacker russe se sert de Gemini pour piloter son botnet à sa place - 01net.com](https://www.01net.com/actualites/hacker-russe-sert-gemini-piloter-botnet-place.html)  
-*Source : 01net.com | Publication : 2026-07-25*
+## [Transformation numérique : pourquoi les entreprises marocaines peinent encore à accélérer](https://lematin.ma/economie/numerique-pourquoi-les-entreprises-marocaines-peinent-encore-a-accelerer/358014/amp)  
+*Source : lematin.ma | Publication : 2026-07-26*
 
-- Les chercheurs de Trend Micro ont découvert qu’un pirate russe s’est massivement servi de Gemini, l’IA générative de Google, dans le cadre d’une cyberattaque.
-- Le pirate, qui se fait appeler « bandcampro » sur le dark web, a utilisé le chatbot pour piloter à distance un petit botnet.
-- Ce botnet était composé d’au moins huit ordinateurs appartenant à une clinique dentaire.
-- Dans le cadre de leurs investigations, les chercheurs ont mis la main sur plus de 200 journaux de sessions Gemini, couvrant la période du 19 mars au 21 avril 2026.
+- Économie Moncef Ben Hayoun 26 Juillet 2026.
+- Cybersécurité : les entreprises marocaines gagnent en maturité, mais les nouveaux risques s'intensifient PwC au Maroc et l'Association des Utilisateurs des Systèmes d'Information au Maroc (AUSIM) ont dévoilé les résultats de la troisième édition de l'AUSIMètre, leur baromètre annuel de la cybersécurité au Maroc.
+- Réalisée auprès de 62 grandes entreprises et PME, l'étude met en évidence une progression du niveau de maturité cyber des organisations marocaines, tout en révélant des vulnérabilités persistantes face aux grandes ruptures technologiques de 2026.
 
-## [Un &quot;cyberincident sans précédent&quot; : ce que l'on sait de la cyberattaque menée de leur ... - franceinfo](https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-cyberincident-sans-precedent-ce-que-l-on-sait-de-la-cyberattaque-menee-de-leur-propre-initiative-par-les-modeles-d-openai_8120441.html)  
-*Source : franceinfo.fr | Publication : 2026-07-25*
+## [La Côte d'Ivoire active son Infrastructure à clés publiques nationale - Africtelegraph](https://africtelegraph.com/blog/la-cote-divoire-active-son-infrastructure-a-cles-publiques-nationale/)  
+*Source : africtelegraph.com | Publication : 2026-07-26*
 
-- Un "cyberincident sans précédent" : ce que l'on sait de la cyberattaque menée de leur propre initiative par les modèles d'OpenAI Le créateur de ChatGPT a annoncé mardi que ses modèles d'intelligence artificielle avancés s'étaient emballés lors de tests de sécurité : ils sont parvenus à exploiter des failles pour accéder à internet et pirater la plateforme Hugging Face.
-- Un incident digne d'un scénario de science-fiction.
-- Le créateur de ChatGPT, OpenAI, a admis, mardi 21 juillet, que ses modèles d'intelligence artificielle s'étaient emballés lors de tests de sécurité, piratant de leur propre initiative une bibliothèque de programmes IA.
-- L'entreprise basée à San Francisco a évoqué un "cyberincident sans précédent" et annoncé une enquête conjointe avec la populaire plateforme Hugging Face.
+- La cybersécurité en Côte d’Ivoire franchit une étape structurante.
+- Les autorités ivoiriennes ont officialisé la mise en service de l’Infrastructure à clés publiques (ICP), dispositif national chargé d’émettre et de gérer les certificats électroniques qui authentifient identités, transactions et échanges dématérialisés.
+- Dans le même mouvement, Abidjan a lancé les travaux de sa nouvelle stratégie nationale de cybersécurité, qui couvrira la période 2026-2030 et succédera au cadre en vigueur depuis plusieurs années.
+- Le déploiement d’une ICP souveraine répond à un impératif technique et politique.
 
-## [Incident OpenAI: L'IA est-elle devenue trop puissante pour être contrôlée? - Libe.ma](https://libe.ma/⚠️2255-slider/)  
-*Source : libe.ma | Publication : 2026-07-25*
+## [Fuite de données chez Brazer Ingenierie, une attaque <b>ransomware</b> revendiquée - FrenchBreaches](https://frenchbreaches.com/alertes/brazer-ingenierie-rw_UW5KaGVtVnlJRWx1WjJWdWFXVnlhV1ZBWVhKamRYTnRaV1JwWVE9PQ)  
+*Source : frenchbreaches.com | Publication : 2026-07-26*
 
-- La cyberattaque perpétrée de manière autonome par des modèles d’intelligence artificielle (IA) d’OpenAI initialement confinés pose la question du contrôle de l’IA la plus avancée, désormais capable d’échapper à ses concepteurs.
-- Ce devait être un test d’OpenAI, dans un espace fermé, pour évaluer les aptitudes de son IA la plus performante, GPT-5.6 Sol, et son successeur non encore commercialisé, comme la start-up américaine en effectue régulièrement.
-- Mais missionnés pour trouver des vulnérabilités informatiques, sans garde-fous, les modèles sont parvenus à rejoindre internet et à prendre d’assaut la plateforme Hugging Face, bibliothèque de programmes IA.
-- « Cela suggère que nous ne savons pas comment contrôler de façon fiable ces modèles, ou leur faire faire ce que nous voulons », estime Jeffrey Ladish, directeur de Palisade Research, organisation indépendante d’évaluation des nouveaux modèles d’IA en matière de cybersécurité.
+- Fuite de données chez Brazer Ingenierie, une attaque ransomware revendiquée victime d'une fuite de données revendiquée.
 
-## [Fondazione Piemonte Innova et Confindustria Piemonte : protocole d'accord élargi sur la ...](https://www.firstonline.info/fr/fondazione-piemonte-innova-e-confindustria-piemonte-ampliato-il-protocollo-dintesa-con-cybersecurity-e-ia/)  
-*Source : firstonline.info | Publication : 2026-07-25*
+## [Pourquoi le hightech israélien ne s'effondre pas? Le VRAI secret de l'Etat Hébreu?](https://israelvalley.com/2026/07/26/pourquoi-le-hightech-israelien-ne-seffondre-pas-le-vrai-secret-de-letat-hebreu/)  
+*Source : israelvalley.com | Publication : 2026-07-26*
 
-- Fondation Piemonte Innova et Confindustria Piemonte ont renouvelé et élargi leur protocole d'entente jusqu'à ce que 31 Décembre 2030L’innovation numérique, le transfert de technologie, l’intelligence artificielle et la cybersécurité sont les domaines prioritaires pour lesquels nous entendons développer un soutien et un accompagnement aux PME dans leurs processus de transformation numérique, afin d’accroître leur innovation, leur compétitivité et leur résilience.
-- Le nouveau protocole confère un rôle stratégique à Pôle d'innovation numérique Piémont et Vallée d'AosteCe dispositif servira de point de référence pour les activités d'évaluation numérique visant à améliorer l'offre de services aux entreprises, notamment en matière de renforcement et de reconversion des compétences numériques.
-- La Confindustria Piemonte et la Fondazione Piemonte Innova entendent également collaborer sur des appels à propositions régionaux, nationaux et européens (Horizon Europe, Programme Europe numérique, fonds des Chambres de commerce) portant sur l'innovation, l'intelligence artificielle, l'informatique quantique, les infrastructures numériques et l'attraction des investissements.
-- « La Fondazione Piemonte Innova représente un puissant moteur pour les entreprises piémontaises, mais aussi un partenaire solide avec lequel elles peuvent planifier leur développement technologique.
+- Le secteur de la high-tech en Israël ne s’effondre pas malgré les crises et les guerres successives grâce à la force de son écosystème d’innovation, à l’essor des technologies de défense (Defense Tech) et au soutien constant des investisseurs et fonds étrangers axés sur la valeur technologique pure.
+- Le vrai secret d’Israël?.
+- La diaspora juive et israélienne joue un rôle crucial de soutien financier, matériel et diplomatique pour Israël, notamment en temps de crise.
+- Environ 630 000 citoyens nés ou de nationalité israélienne vivent à l’étranger.
 
-## [Quand l'IA s'échappe : le piratage autonome devient réalité en 2026](https://www.mediaterranee.com/2452026-quand-lia-sechappe-le-piratage-autonome-devient-realite-en-2026.html)  
-*Source : mediaterranee.com | Publication : 2026-07-25*
+## [La <b>cybersécurité</b> est devenue un défi économique majeur pour l'Australie. - Vietnam.vn](https://www.vietnam.vn/fr/an-ninh-mang-tro-thanh-thach-thuc-kinh-te-lon-cua-australia)  
+*Source : vietnam.vn | Publication : 2026-07-26*
 
-- Quand l'IA s'échappe : le piratage autonome devient réalité en 2026 Un tournant dans l'histoire de la cybersécurité s'est produit en juillet 2026 : pour la première fois, un agent d'intelligence artificielle autonome a réussi à s'échapper de son environnement de test contrôlé, à accéder à Internet et à mener une cyberattaque de bout en bout contre la plateforme Hugging Face.
-- Cet incident, qualifié de "sans précédent" par OpenAI, confirme les pires craintes des experts : l'IA progresse désormais plus vite que notre capacité à la contrôler.
-- L'incident OpenAI : quand l'IA devient pirate autonome Ce devait être un simple test de sécurité dans un espace fermé.
-- OpenAI évaluait les capacités de ses modèles les plus avancés, GPT-5.6 Sol et son successeur non encore commercialisé, en leur confiant une mission : trouver des vulnérabilités informatiques.
+- La cyberattaque contre Origin Energy, l'une des plus grandes entreprises australiennes d'électricité et de gaz, annoncée fin juillet 2026, tire encore plus la sonnette d'alarme quant au niveau croissant des menaces de cybersécurité qui pèsent sur les entreprises du pays.
+- Ces dernières années, non seulement le secteur de l'énergie, mais aussi les secteurs de la santé, de la finance, des télécommunications et du commerce de détail ont été la cible répétée de pirates informatiques, ce qui montre que la cybersécurité devient l'un des principaux risques pour les opérations commerciales et la stabilité économique.
+- Origin Energy a déclaré que des pirates informatiques avaient accédé illégalement à une partie des données clients de l'entreprise, notamment les noms, adresses, dates de naissance, numéros de téléphone et certaines informations relatives aux comptes bancaires et aux cartes de paiement.
+- L'entreprise coopère désormais avec le Centre australien de cybersécurité (ACSC), la police fédérale australienne (AFP) et le Bureau du commissaire à l'information (OAIC) afin d'enquêter sur l'ampleur de l'incident.
 
-## [Security.txt en Suisse : seulement 1 commune sur 3 en dispose, les cantons font mieux](https://dcod.ch/2026/07/25/security-txt-en-suisse/)  
-*Source : dcod.ch | Publication : 2026-07-25*
+## [Allemagne renforce la <b>cybersécurité</b> et laide aux mères en deux mille vingt-sept - Foro3D](https://foro3d.com/fr/2026/julio/alemania-refuerza-ciberseguridad-y-ayuda-a-madres-en-2027.html)  
+*Source : foro3d.com | Publication : 2026-07-26*
 
-- Points clés security.txt (RFC 9116) est un fichier standardisé qui indique publiquement un contact et une procédure pour signaler une vulnérabilité.
-- - DCOD a analysé les 2110 communes et les 26 cantons suisses pour mesurer son adoption.
-- - 727 communes sur 2110 (34%) publient un security.txt valide ; 39% ont au moins tenté la démarche.
-- - Les cantons font mieux : 12 sur 26 (46%) ont un fichier valide, 62% en ont publié un sous une forme ou une autre.
+- Le gouvernement allemand a approuvé une nouvelle stratégie de cybersécurité pour protéger l'administration fédérale contre l'espionnage et les cyberattaques, dans un contexte de sécurité sans précédent.
+- Parallèlement, il augmentera l'aide annuelle aux femmes enceintes en difficulté de 92 à 101 millions d'euros en 2027.
+- Les citoyens obtiendront davantage de protection des données personnelles et un soutien économique accru pour les mères vulnérables, renforçant ainsi la sécurité numérique et le soutien social.
+- Chiffrement quantique et pare-feux prédictifs pour sécuriser les données 🛡️ La stratégie déploie des mesures techniques telles que le chiffrement post-quantique pour protéger les communications gouvernementales contre les futurs ordinateurs quantiques.
 
-## [Documents de voyage piratés après cyberattaque : que doit faire l'entreprise](https://kohenavocats.fr/2026/07/25/documents-voyage-pirates-cyberattaque-entreprise-recours/)  
-*Source : kohenavocats.fr | Publication : 2026-07-25*
+## [BofA relève ses objectifs de cours sur des valeurs de <b>cybersécurité</b> - Yahoo Finance](https://fr.finance.yahoo.com/actualites/bofa-relève-objectifs-cours-valeurs-232723059.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-07-25*
 
-- La multiplication des cyberattaques contre des acteurs du tourisme et des plateformes de services place les entreprises devant un risque concret : des documents de voyage, comptes professionnels, justificatifs de déplacement, adresses de facturation ou données de passeport peuvent se retrouver exposés alors même que le déplacement était organisé pour les besoins de l’activité.
-- L’actualité récente a remis ce sujet au premier plan, avec des fuites touchant des comptes liés au voyage et une pression accrue des pouvoirs publics sur la cybersécurité.
-- Le Gouvernement rappelle d’ailleurs, dans son plan de cybersécurité, que le début de l’année 2026 a été marqué par une forte intensité de vols de données, y compris dans des services utilisés au quotidien par les organisations.
-- Pour une société, la question ne se limite pas à savoir si le pirate a commis une infraction.
+- Investing.com - Bank of America a relevé ses objectifs de cours pour Cloudflare, Palo Alto Networks, SentinelOne et CrowdStrike, citant l'expansion des valorisations dans la cybersécurité, l'accélération de l'adoption de l'intelligence artificielle et des perspectives de croissance à long terme plus solides.
+- Le courtier s'attend à ce que chaque entreprise maintienne une croissance de son chiffre d'affaires d'environ 20% ou plus.
+- L'IA accroît les volumes de données, élargit les surfaces d'attaque et complexifie les systèmes de sécurité, ce qui soutient des dépenses durables dans l'ensemble du secteur.
+- Les plateformes leaders pourraient bénéficier de la demande croissante en matière de protection ainsi que de la valeur grandissante de leurs données, de leurs outils d'automatisation et de leurs capacités basées sur l'IA.
 
-## [Notepad++ une nouvelle fois détourné pour installer des malwares à l'insu des victimes](https://www.clubic.com/actualite-622597-notepad-une-nouvelle-fois-detourne-pour-installer-des-malwares-a-l-insu-des-victimes.html)  
-*Source : clubic.com | Publication : 2026-07-25*
+## [Les experts en sécurité disent qu'OpenAI a dépassé sa propre limite de risque critique](https://www.unite.ai/fr/safety-experts-say-openai-crossed-its-own-critical-risk-line/)  
+*Source : unite.ai | Publication : 2026-07-25*
 
-- Des pirates diffusent une archive piégée contenant une version légitime de Notepad++ et un faux plugin chargé de déployer plusieurs malwares sur Windows.
-- Ni le logiciel officiel ni sa chaîne de distribution n’ont été compromis.
-- Une version légitime de Notepad++ transformée en relais pour déployer des malwares D’après les éléments communiqués par le CERT-UA, l’organisme ukrainien chargé de la réponse aux incidents informatiques, UAC-0099 diffuse une archive ZIP contenant un script VBS présenté comme un document PDF.
-- Une fois exécuté, ce script récupère un second fichier compressé, baptisé Evernote.zip, puis en installe le contenu dans un dossier au nom aléatoire.
+- Cybersécurité Les experts en sécurité disent qu’OpenAI a dépassé sa propre limite de risque critique Ajouter Unite.AI à vos sources préférées sur GoogleLes spécialistes de la politique d’IA externes à OpenAI affirment que les modèles d’OpenAI qui ont échappé à un bac à sable de test et ont violé Hugging Face ce mois-ci semblent avoir atteint le niveau de danger le plus élevé défini dans la politique de sécurité d’OpenAI : le niveau auquel l’entreprise s’est engagée par écrit à arrêter le développement d’un modèle jusqu’à ce qu’elle puisse construire des contrôles pour correspondre.
+- Lorsqu’on leur a demandé directement si les modèles répondaient à cette norme, OpenAI n’a pas répondu.
+- L’affirmation est vérifiable, car le seuil et la conséquence qui y est attachée sont publiés.
+- Ce qui n’a pas été publié, c’est une détermination par OpenAI sur le fait que le seuil a été franchi.
