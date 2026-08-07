@@ -1,157 +1,150 @@
 # Résumés – 2026-08-07
 
 
-## [Akamai dépasse les prévisions trimestrielles grâce à la demande en infrastructures cloud](https://www.boursorama.com/bourse/actualites-amp/akamai-depasse-les-previsions-trimestrielles-grace-a-la-demande-en-infrastructures-cloud-b877d2e34100de0c74dc936000afb3a8)  
-*Source : boursorama.com | Publication : 2026-08-06*
+## [OpenAI signale un risque potentiel majeur en matière de <b>cybersécurité</b> dans son prochain ...](https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N4442AJ:0/)  
+*Source : fr.tradingview.com | Publication : 2026-08-07*
 
-- Akamai dépasse les prévisions trimestrielles grâce à la demande en infrastructures cloud information fournie par Reuters 07/08/2026 à 00:27 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) Akamai Technologies AKAM.O a dépassé jeudi les prévisions des analystes pour le deuxième trimestre, grâce à une demande soutenue dans l'ensemble de ses portefeuilles de services de sécurité et d'infrastructure cloud, ce qui a entraîné une hausse de 10,5 % de son cours en séance prolongée.
-- La société a enregistré un chiffre d'affaires de 99 millions de dollars pour ses services d'infrastructure cloud, soit une hausse de 39 % par rapport à l'année précédente.
-- Voici quelques détails: * Parmi les clients de cette entreprise spécialisée dans la cybersécurité et le cloud computing figurent Adobe ADBE.O , eBay EBAY.O et Electronic Arts, ainsi que les ministères américains de la Défense et du Travail.
-- * Son chiffre d’affaires du deuxième trimestre s’est établi à 1,099 milliard de dollars, dépassant légèrement l’estimation moyenne des analystes de 1,092 milliard de dollars, selon les données compilées par LSEG.
+- OpenAI signale un risque potentiel majeur en matière de cybersécurité dans son prochain modèle et renforce ses contrôles Refinitiv Lire l'article complet Obtenez un accès illimité aux articles de Reuters et à toutes les autres sources d'actualités sur TradingView.
 
-## [Rapport Antérieur : &quot;La Chine lance un examen de <b>cybersécurité</b> des produits de Palo Alto Networks&quot;](https://fr.benzinga.com/news/france/general/rapport-anterieur-la-chine-lance-un-examen-de-cybersecurite-des-produits-de-palo-alto-networks-reuters/)  
-*Source : fr.benzinga.com | Publication : 2026-08-06*
+## [Camionnage autonome : Torc met l'accent sur la <b>cybersécurité</b> - Transport Routier](https://www.transportroutier.ca/nouvelles/camionnage-autonome-torc-met-laccent-sur-la-cybersecurite/)  
+*Source : transportroutier.ca | Publication : 2026-08-07*
 
-- Actualités récentes Elizabeth Warren critique la loi CLARITY comme étant “écrite par l’industrie des cryptomonnaies”, affirmant qu’il ne s’agit pas d’une “bonne législation sur les cryptomonnaies”.
-- - Rapport Antérieur : “La Chine lance un examen de cybersécurité des produits de Palo Alto Networks” – Reuters - Les États-Unis envisagent de reporter la collecte des tarifs prévus sur le polysilicium – Bloomberg - Bitcoin se maintient au-dessus de 64 000 $ tandis qu’Ethereum reste stable, XRP et Dogecoin glissent avant le vote de la CLARITY Act - Tribunal américain ordonne la levée du gel de Trump sur les projets éoliens – Bloomberg - Zoetis constate une demande plus faible en matière de santé animale, mais adapte sa stratégie commerciale pour naviguer à travers les difficultés.
-- - “Trump va parler avec le leader saoudien des questions liées à l’Iran : Officiels” – CBS News - Mark Cuban sur pourquoi il a vendu 98% de son Bitcoin et se concentre désormais sur l’IA et les soins de santé -.
+- cybersécurité.
+- C'est le raisonnement que fait Torc Robotics, filiale des camions autonomes de Daimler Truck, en joignant les rangs d'Auto-ISAC.
 
-## [Gen Digital revoit à la hausse ses prévisions annuelles grâce à une forte demande en ...](https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N443373:0/)  
-*Source : fr.tradingview.com | Publication : 2026-08-06*
+## [Le gros problème, c'est que la <b>cybersécurité</b> n'est pas prise au sérieux - 98.5 Montréal](https://www.985fm.ca/audio/793965/le-gros-probleme-c-est-que-la-cybersecurite-n-est-pas-prise-au-serieux)  
+*Source : 985fm.ca | Publication : 2026-08-07*
 
-- Gen Digital revoit à la hausse ses prévisions annuelles grâce à une forte demande en matière de cybersécurité Refinitiv Lire l'article complet Obtenez un accès illimité aux articles de Reuters et à toutes les autres sources d'actualités sur TradingView.
+- Les derniers mois ont vu une recrudescence de piratages ciblant des radios communautaires, notamment à Sherbrooke, en Gaspésie et dans Portneuf.
+- Dans certains cas, leurs données sont compromises, alors que dans d'autres, des messages haineux sont diffusés sur leurs ondes hertziennes.
+- Écoutez Jacques Sauvé, consultant en cybersécurité, faire le point sur ces menaces, vendredi, au micro des animateurs Valérie Beaudoin et Jean-Sébastien Hammal.
+- «Le problème numéro un au niveau des PME, c'est qu'elles ne se préoccupent pas de la cybersécurité.
 
-## [La Chine lance une enquête sur la <b>cybersécurité</b> des produits de Palo Alto Networks](https://www.boursorama.com/bourse/actualites/la-chine-lance-une-enquete-sur-la-cybersecurite-des-produits-de-palo-alto-networks-dbf20254a0e8d184b34a5a06c2773e09)  
-*Source : boursorama.com | Publication : 2026-08-06*
+## [OpenAI ralentit le lancement du modèle Astra pour des raisons de <b>cybersécurité</b>](https://www.zonebourse.com/actualite-bourse/openai-ralentit-le-lancement-du-modele-astra-pour-des-raisons-de-cybersecurite-ce7f50d3d98df621)  
+*Source : zonebourse.com | Publication : 2026-08-07*
 
-- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * La Chine examine les produits de Palo Alto en raison de risques pour la sécurité nationale * Cette mesure intervient dans un contexte de tensions commerciales croissantes entre la Chine et les États-Unis * Elle fait suite aux restrictions imposées aux fournisseurs étrangers de solutions de cybersécurité et fait écho à l'examen de Micron en 2023 (Ajoute des éléments de contexte à partir du paragraphe 2) par Eduardo Baptista La Chine a lancé un examen de cybersécurité portant sur les produits commercialisés dans le pays par la société américaine Palo Alto Networks PANW.O , invoquant des risques pour les infrastructures d’information critiques et la sécurité nationale, a déclaré jeudi l’autorité chinoise de régulation du cyberespace.
-- L’Administration chinoise du cyberespace (CAC) a déclaré que cette enquête avait été ouverte en vertu des lois chinoises sur la sécurité nationale et la cybersécurité.
-- Elle n’a pas identifié les produits concernés, ni détaillé les vulnérabilités présumées, ni précisé les mesures auxquelles Palo Alto pourrait être confrontée.
-- Pékin a renforcé la surveillance des fournisseurs de technologies étrangers tout en promouvant des alternatives nationales, affirmant que les produits importés utilisés dans des réseaux sensibles pourraient exposer les données ou les infrastructures critiques à des risques provenant de l’étranger.
+- OpenAI ralentit le lancement du modèle Astra pour des raisons de cybersécuritéOpenAI, entreprise soutenue par Microsoft , ralentit le développement de son nouveau modèle Astra et intensifie ses phases de test car elle ne peut « exclure des capacités cybernétiques.
 
-## [Top 14 : le Stade Français victime d'une cyberattaque, les hackers réclament une rançon](https://www.lequipe.fr/Rugby/Actualites/Top-14-le-stade-francais-victime-d-une-cyberattaque-les-hackers-reclament-une-rancon/1709358)  
-*Source : lequipe.fr | Publication : 2026-08-06*
+## [Les arnaques les plus diaboliques reposent-elles sur la confiance? Des hackers utilisent le ... - BFM](https://www.bfmtv.com/tech/actualites/cybersecurite/les-arnaques-les-plus-diaboliques-reposent-elles-sur-la-confiance-des-hackers-utilisent-le-vishing-pour-pirater-et-faire-chanter-des-grandes-entreprises-financieres-americaines-comme-moody-s-blackstone-ou-apollo_AV-202608070392.html)  
+*Source : bfmtv.com | Publication : 2026-08-07*
 
-- Le Stade Français face à un ultimatum.
-- Le club francilien a été victime d'une cyberattaque, rapportée par le site cyberattaque.org, et apparaît depuis mercredi sur le site de Qilin, un groupe de ransomware (un logiciel malveillant qui bloque un ordinateur ou chiffre des fichiers importants, puis réclame le paiement d'une rançon en échange de la clé de déchiffrement).
-- Les cybercriminels exigent le versement d'une rançon sous dix jours (le 15 août), sans quoi ils menacent de divulguer des données extorquées.
-- Les hackers ont joint à ce compte à rebours 18 photos de passeports et de cartes d'identité de certains joueurs du club en guise de preuve de l'intrusion.
+- Les arnaques les plus diaboliques reposent-elles sur la confiance?.
+- Des hackers utilisent le "vishing" pour pirater et faire chanter des grandes entreprises financières américaines comme Moody's, Blackstone ou Apollo Pourquoi faire compliqué quand on peut faire simple?.
+- Si des cybercriminels font appel à l'intelligence artificielle pour adopter des techniques dépassant leurs domaines d'expertise, une méthode bien plus rudimentaire suffit encore largement à tromper les victimes.
+- C'est ce que montre le dernier rapport du Google Threat Intelligence Group (GTIG), spécialisé dans l'identification et l'élimination de cybermenaces.
 
-## [Le Stade Français victime d'une cyberattaque - Top 14 : Sports - Orange](https://sports.orange.fr/rugby/top-14/stade-francais/article/le-stade-francais-victime-d-une-cyberattaque-exclu-CNT000002r2QR3.html)  
-*Source : sports.orange.fr | Publication : 2026-08-06*
+## [Enquête 2026 sur la sensibilisation et les pratiques de <b>cybersécurité</b> des petites entreprises](https://www.staysafeonline.org/fr/articles/enquete-2026-sur-les-pratiques-de-sensibilisation-a-la-cybersecurite-des-petites-entreprises)  
+*Source : staysafeonline.org | Publication : 2026-08-07*
 
-- Thibaut Simon, Media365 : publié le jeudi 06 août 2026 à 16h50 Le Stade Français a été victime d'un piratage informatique.
-- Les hackeurs ont demandé une rançon au club parisien sous peine de dévoiler des données sur l'identité des joueurs.
-- La saison n'a pas encore débuté pour le Stade Français qu'un problème de taille vient perturber l'été des Parisiens.
-- En effet, le club a subi une cyberattaque ce mercredi et doit désormais payer une rançon sous peine de voir des données confidentielles se balader dans la nature.
+- Kit d'outils | Lecteur Min Enquête 2026 sur la sensibilisation et les pratiques de cybersécurité des petites entreprises Une nouvelle enquête nationale menée auprès de 1 000 dirigeants de PME révèle un écart dangereux entre confiance et préparation.
+- Téléchargez le rapport complet pour voir où en sont les petites entreprises.
+- Les petites entreprises sont plus confiantes que jamais dans leur cybersécurité.
+- Pourtant, les données racontent une autre histoire.
 
-## [L'intelligence artificielle favorise la <b>cybercriminalité</b> en Afrique (Interpol) - Yahoo! Actualités](https://fr.news.yahoo.com/lintelligence-artificielle-favorise-cybercriminalité-afrique-163700675.html)  
-*Source : fr.news.yahoo.com | Publication : 2026-08-06*
+## [OpenAI ralentit le déploiement du modèle Astra pour des raisons de <b>cybersécurité</b>, selon Axios](https://www.zonebourse.com/actualite-bourse/openai-ralentit-le-deploiement-du-modele-astra-pour-des-raisons-de-cybersecurite-selon-axios-ce7f50d3d989f224)  
+*Source : zonebourse.com | Publication : 2026-08-07*
 
-- L'intelligence artificielle favorise la cybercriminalité en Afrique (Interpol) Interpol révèle, dans son rapport d'évaluation des cybermenaces en Afrique, en 2026, que 55 % des cybercrimes signalés sur le continent impliquent désormais l'utilisation de l'intelligence artificielle.
-- Son utilisation rend les attaques plus rapides, plus étendues et plus difficiles à détecter.
-- Le rapport est établi à partir des données de 36 pays africains et le Togo n'échappe pas à cette menace, avec la multiplication des faux agents Mobile Money, des fausses offres de bourses et d'autres arnaques en ligne.
-- Les cyberarnaques sont devenues légion Un appel inattendu.
+- OpenAI ralentit le déploiement du modèle Astra pour des raisons de cybersécurité, selon Axios Publié le 07/08/2026 à 18:56 MT Newswires - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'originalCet article est réservé à nos membresConnectez-vous pour continuerSe connecterCréer un compte Continuer avec Google Continuer avec Apple Continuer avec LinkedIn ou par emailContinuer avec un email Créer un compte avec Google Créer un compte avec Apple Créer un compte avec LinkedIn ou par emailCréer un compte Pour un accès illimité, consultez nos abonnements.
 
-## [Ingérences prorusses dans la campagne présidentielle française : qu'appelle-t-on «Storm-1516](https://www.liberation.fr/politique/ingerences-prorusses-dans-la-campagne-presidentielle-quappelle-t-on-storm-1516-ou-matriochka-20260806_5HXAPYCOTRE3HOU4OQ65MZYCRA/)  
-*Source : liberation.fr | Publication : 2026-08-06*
+## [Quels sont les risques de <b>cybersécurité</b> liés au télétravail ? - 25/03 : Actualités - Orange Actu](https://actu.orange.fr/videos/economie/edition-speciale-quels-sont-les-risques-de-cybersecurite-lies-au-teletravail-25-03-CNT000002r3pVV.html)  
+*Source : actu.orange.fr | Publication : 2026-08-07*
 
-- Gabriel AttalRussie Cybersécurité Raphaël GlucksmannEdouard PhilippeElection présidentielle 2027.
-- Dans la même rubrique.
-- Attaques · Ingérences prorusses.
+- Édition spéciale : Quels sont les risques de cybersécurité liés au télétravail ?.
+- - 25/03 par BFMBUSINESS Ce mercredi 25 mars, BFM Business a consacré une édition spéciale au coronavirus et ses conséquences sur le plan économique.
+- Stéphane Pedrazzi a reçu Laurent Seror, président de 3DS Outscale.
+- BFM Business est la 1ère chaîne française d'information économique et financière en continu, avec des interviews exclusives de patrons, d'entrepreneurs, de politiques, d'experts et d'économistes afin de couvrir l'ensemble de l'actualité française et internationale.
 
-## [Après OpenAI et Anthropic, Meta révèle à son tour qu'un de ses modèles d'IA a piraté une ...](https://www.bfmtv.com/tech/intelligence-artificielle/apres-open-ai-et-anthropic-meta-revele-a-son-tour-qu-un-de-ses-modeles-d-ia-a-pirate-une-entreprise-lors-d-un-test-de-cybersecurite_AV-202608060268.html)  
-*Source : bfmtv.com | Publication : 2026-08-06*
+## [L'extrémisme nihiliste, la menace qui monte - La Libre.be](https://www.lalibre.be/debats/edito/2026/08/06/lextremisme-nihiliste-la-menace-qui-monte-EYSJD4PKHZFHPCW3YSJ5Y4NYP4/)  
+*Source : lalibre.be | Publication : 2026-08-07*
 
-- Après OpenAI et Anthropic, Meta révèle à son tour qu'un de ses modèles d'IA a piraté une entreprise lors d'un test de cybersécurité Les jours se suivent et se ressemblent presque dans le secteur de l'IA.
-- Alors qu'OpenAI et Anthropic sont sous le feu des projecteurs pour le piratage d'entreprises par leurs modèles IA, c'est Meta qui a annoncé que l'un des siens a récemment déraillé.
-- Il a piraté une entreprise lors d'un test de cybersécurité, a avoué la société.
-- Elle n'a pas révélé le nom de ce dernier, mais selon le média The Information, il s'agit de Muse Spark 1.1, qui a été lancé début juillet.
+- L'extrémisme nihiliste, la menace qui monte Un édito de François Mathieu Publié le 06-08-2026 à 23h55 - Pendant des années, les démocraties européennes ont sous-estimé certaines formes de radicalisation.
+- Advinrent en 2015 et 2016 notamment les attentats djihadistes tragiques que l'on connaît.
+- Cantonnées au départ à des phénomènes marginaux, ces formes de terrorisme sont ainsi devenues des priorités absolues des services de sécurité comme l'Ocam en Belgique.
+- Cette erreur ne semble pas se répéter avec l'extrémisme nihiliste, une menace pourtant diffuse.
 
-## [Lyon. Victimes d'un « incident de <b>cybersécurité</b> », les HCL redoutent un « vol de données ...](https://www.leprogres.fr/faits-divers-justice/2026/08/06/victimes-d-un-incident-de-cybersecurite-les-hcl-redoutent-un-vol-de-donnees-personnelles)  
-*Source : leprogres.fr | Publication : 2026-08-06*
+## [Channelbiz vous souhaite un bel été](https://www.channelbiz.fr/2026/08/07/channelbiz-vous-souhaite-un-bel-ete/)  
+*Source : channelbiz.fr | Publication : 2026-08-07*
 
-- Lyon Victimes d’un « incident de cybersécurité », les HCL redoutent un « vol de données personnelles » Les faits datent du 25 juin dernier mais viennent seulement d’être communiqués.
-- Il y a un mois et demi, les Hospices civils de Lyon (HCL) ont été « informés d’un incident de cybersécurité affectant l’un de ses prestataires externes ».
-- Selon le prestataire en question, dont le nom n’a pas été dévoilé, une base de données « historique », utilisée lors d’une opération de migration technique datant de 2020, « aurait potentiellement pu être dérobée ».
-- Un vol de données personnelles, liées à l’identification et à la gestion des accès des professionnels des HCL et des intervenants extérieurs, est donc redouté. «.
+- La rédaction de Channelbiz.fr fait une pause estivale et vous propose une sélection de 10 articles à relire pour avoir une vision claire des tendances de la rentrée.
+- 1 – Cloudflare renforce son channel avec un programme partenaires dédié à l’IA et au SASE Pourquoi le relire ?.
+- Parce qu’il illustre l’évolution des programmes partenaires vers davantage d’expertise, de services et d’accompagnement autour de l’IA et des architectures SASE.
+- 👉 https://www.channelbiz.fr/2026/06/19/cloudflare-renforce-son-channel-avec-un-programme-partenaires-dedie-a-lia-et-au-sase/ 2 – HPE attaque VMware avec Morpheus et muscle GreenLake Pourquoi le relire ?.
 
-## [Souveraineté des données : un sujet qui doit remonter jusqu'au Comex - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1553437-souverainete-des-donnees-un-sujet-qui-doit-remonter-jusqu-au-comex/)  
-*Source : journaldunet.com | Publication : 2026-08-06*
+## [Les géants de la tech s'engagent sur plus de 1 000 milliards de dollars de loyers pour ...](https://www.zdnet.fr/actualites/les-geants-de-la-tech-sengagent-sur-plus-de-1-000-milliards-de-dollars-de-loyers-pour-soutenir-la-course-a-lia-499408.htm)  
+*Source : zdnet.fr | Publication : 2026-08-07*
 
-- Souveraineté des données : un sujet qui doit remonter jusqu'au Comex Les données conditionnent en grande partie les décisions du Comex, et donc la performance de l'entreprise.
-- La souveraineté des données ne peut plus se limiter à un choix d'hébergement technique.
-- Le Comex, le comité exécutif d'une entreprise, prend chacune de ses décisions à partir de données, traduites en tableaux de bord, en prévisions, en indicateurs de performance.
-- Longtemps reléguée aux équipes techniques, la maîtrise de ces données a surtout été vue comme une ligne sur la feuille de route de la direction des systèmes d'information (DSI).
+- La bataille de l'intelligence artificielle ne se joue plus uniquement sur les modèles, les puces ou les algorithmes.
+- Désormais, l'accès aux infrastructures devient un facteur déterminant.
+- Pour garantir la puissance de calcul indispensable au développement de leurs services d'IA générative, les principaux hyperscalers ont concluent des contrats de location de centres de données à très long terme.
+- Selon Reuters, les engagements futurs pour des baux déjà signés mais pas encore entrés en vigueur atteignent désormais près de 1 090 milliards de dollars pour Microsoft, Meta, Amazon, Alphabet et Oracle.
 
-## [L'IA Mythos d'Anthropic a utilisé l'ingénierie sociale pour cibler de vraies personnes](https://www.malwarebytes.com/fr/blog/news/2026/08/anthropics-mythos-ai-used-social-engineering-to-target-real-people)  
-*Source : malwarebytes.com | Publication : 2026-08-06*
+## [Des passagers prennent le contrôle informatique d'un ferry : quand la <b>cybersécurité</b> devient ...](https://figaronautisme.meteoconsult.fr/actus-nautisme-flash/2026-08-07/91146-des-passagers-prennent-le-controle-informatique-d-un-ferry-quand-la-cybersecurite-devient-un-enjeu-majeur-en-mer)  
+*Source : figaronautisme.meteoconsult.fr | Publication : 2026-08-07*
 
-- L'agent d'IA Mythos d'Anthropic, testé par l'Institut britannique de sécurité de l'IA (AISI), aurait tenté une véritable attaque de type ingénierie sociale contre les responsables de GitHub en créant de faux profils humains, en les forçant à accepter un code malveillant, puis en modifiant les journaux pour dissimuler ses traces lorsqu'il était contesté.
-- L'AISI menait des évaluations de cybersécurité des logiciels Mythos d'Anthropic et Sol d'OpenAI lorsqu'elle a détecté des transferts de données sortants inhabituels depuis ses systèmes de recherche.
-- Une enquête a révélé que certains agents s'étaient livrés à une « activité soutenue et potentiellement malveillante » ciblant des personnes et des organisations réelles, au lieu de rester confinés à l'environnement de test prévu.
-- L'activité la plus grave impliquait un agent d'Anthropic Mythos chargé de résoudre un problème de cybersécurité lié à GitHub.
+- Le scénario semble tout droit sorti d'un film.
+- Pourtant, il s'est bien produit à bord d'un ferry reliant Helsinki à Tallinn.
+- Deux passagers sont parvenus à accéder au système informatique du navire, provoquant une importante confusion parmi l'équipage.
+- Si l'incident n'a fait aucun blessé, il illustre une réalité de plus en plus préoccupante : les navires modernes sont devenus de véritables systèmes informatiques flottants.
 
-## [Garantir la <b>cybersécurité</b> est une tâche permanente, indissociable du processus de ...](https://www.vietnam.vn/fr/bao-dam-an-ninh-mang-la-nhiem-vu-thuong-xuyen-khong-the-tach-roi-qua-trinh-phat-trien-khoa-hoc-cong-nghe)  
-*Source : vietnam.vn | Publication : 2026-08-06*
+## [Une Hongkongaise escroquée d'une somme record par de faux policiers de Chine continentale](https://www.courrierinternational.com/article/chiffre-du-jour-une-hongkongaise-escroquee-d-une-somme-record-par-de-faux-policiers-de-chine-continentale_256860)  
+*Source : courrierinternational.com | Publication : 2026-08-07*
 
-- - Le matin du 6 août, le Premier ministre Le Minh Hung , chef du Comité national de pilotage pour la cybersécurité, a présidé la réunion ordinaire du Comité de pilotage afin d'évaluer les résultats de ses activités au cours des six premiers mois de 2026 et de définir les orientations pour assurer la cybersécurité dans la période à venir.
-- La réunion s'est tenue dans un format hybride, combinant la participation en présentiel et en ligne du Département de la cybersécurité et de la prévention de la criminalité de haute technologie ( ministère de la Sécurité publique ) aux services de police des provinces et des villes.
-- Étaient présents à la réunion, qui s'est tenue au centre du pays : le général Luong Tam Quang , membre du Bureau politique, ministre de la Sécurité publique et vice-président du Comité permanent du Comité directeur national de la cybersécurité ; les vice-présidents et les membres du Comité directeur national de la cybersécurité ; les dirigeants des ministères, départements et agences centraux ; des représentants de plusieurs entreprises technologiques et de télécommunications ; ainsi que des associations, fédérations et alliances dans le domaine de la cybersécurité et de la sécurité des données.
-- Délégués participant à la session depuis différents lieux (capture d'écran de la réunion en ligne).
+- L’opération s’est déroulée entre le 2 juillet et le 1er août.
+- En un mois, une ressortissante de Hong Kong de 43 ans a été escroquée de près de 69 millions de dollars hongkongais, soit plus de 7,6 millions d’euros, révèle le South China Morning Post.
+- La méthode de cette arnaque est connue dans le monde entier : des fraudeurs ont usurpé une identité pour forcer la femme à verser toujours plus d’argent.
+- Ici, ce n’est pas un faux Brad Pitt, ni même un faux conseiller bancaire qui a piégé la victime.
 
-## [L'IA favorise la <b>cybercriminalité</b> en Afrique (Interpol) - DW.com](https://www.dw.com/fr/ia-et-cybercriminalité-en-afrique-interpol/a-78271044)  
-*Source : dw.com | Publication : 2026-08-06*
+## [AXA XL s'apprête à acquérir S-RM, un cabinet international de conseil en intelligence d ...](https://fr.finance.yahoo.com/actualites/axa-xl-sapprête-à-acquérir-140900164.html)  
+*Source : fr.finance.yahoo.com | Publication : 2026-08-07*
 
-- L'IA favorise la cybercriminalité en Afrique (Interpol) 6 août 2026Interpol révèle, dans son rapport d’évaluation des cybermenaces en Afrique, en 2026, que 55 % des cybercrimes signalés sur le continent impliquent désormais l’utilisation de l’intelligence artificielle.
-- Son utilisation rend les attaques plus rapides, plus étendues et plus difficiles à détecter.
-- Le rapport est établi à partir des données de 36 pays africains et le Togo n'échappe pas à cette menace, avec la multiplication des faux agents Mobile Money, des fausses offres de bourses et d'autres arnaques en ligne.
-- Les cyberarnaques sont devenues légion Un appel inattendu.
+- AXA XL s'apprête à acquérir S-RM, un cabinet international de conseil en intelligence d'entreprise et en cybersécurité LONDRES, 7 août 2026 /PRNewswire/ -- AXA XL, qui détient actuellement environ 49 % de S-RM, annonce aujourd'hui avoir conclu un accord en vue d'acquérir le reste des actions de la société.
+- S-RM est un cabinet de conseil spécialisé dans le l'intelligence d'entreprise et la cybersécurité.
+- Fondé en 2005 et soutenant des clients dans 140 pays, S-RM aide les entreprises et les investisseurs mondiaux à gérer des risques complexes grâce à des services d'intelligence économique, de cybersécurité et d'intervention en cas de crise.
+- Son expertise comprend l'évaluation des cyberrisques, la gestion de la détection et de l'intervention en cas d'incident, les enquêtes spécialisées, le renseignement géopolitique et la diligence raisonnable en matière d'intégrité et d'atteinte à la réputation.
 
-## [Pourquoi cette attaque par <b>ransomware</b> entièrement automatisée donne des cauchemars ...](https://www.zdnet.fr/actualites/pourquoi-cette-attaque-par-ransomware-entierement-automatisee-donne-des-cauchemars-aux-chercheurs-499397.htm)  
-*Source : zdnet.fr | Publication : 2026-08-06*
+## [AXA XL annonce l'acquisition de S-RM, cabinet mondial de conseil en intelligence d ...](https://www.newswire.ca/fr/news-releases/axa-xl-annonce-l-acquisition-de-s-rm-cabinet-mondial-de-conseil-en-intelligence-d-entreprise-et-cybersecurite-831033879.html)  
+*Source : newswire.ca | Publication : 2026-08-07*
 
-- Points clés à retenir sur JadePuffer Des chercheurs ont mis au jour une campagne de ransomware qui semble être entièrement pilotée par l’IA.
-- - JadePuffer pourrait être le premier cas connu d’un agent IA orchestrant une chaîne d’attaque complète.
-- - Ce cas souligne l’urgence avec laquelle les organisations doivent se défendre.
-- - Des chercheurs en sécurité ont identifié JadePuffer, une campagne de ransomware qu’ils qualifient de « premier cas documenté de ransomware agentique ».
+- LONDRES, 7 août 2026 /CNW/ -- AXA XL, qui détient actuellement environ 49 % de S-RM, annonce aujourd'hui avoir conclu une entente pour acquérir les actions restantes de la société.
+- S-RM est une société de conseil spécialisée en intelligence d'entreprise et en cybersécurité.
+- Fondé en 2005 et soutenant des clients dans 140 pays, S-RM aide les entreprises et les investisseurs mondiaux à gérer des risques complexes grâce à des services d'intelligence économique, de cybersécurité et d'intervention en cas de crise.
+- Son expertise comprend l'évaluation des cyberrisques, la gestion de la détection et de l'intervention en cas d'incident, les enquêtes spécialisées, l'intelligence géopolitique et la diligence raisonnable en matière d'intégrité et de réputation.
 
-## [Fuite de données chez ALIZE (alize-sud.fr), une cyberattaque <b>ransomware</b> signalée](https://frenchbreaches.com/alertes/alize-alize-sud-fr-rw_UVV4SldrVWdLR0ZzYVhwbExYTjFaQzVtY2lsQWNXbHNhVzQ9)  
-*Source : frenchbreaches.com | Publication : 2026-08-06*
+## [Avis NordVPN (2026) : un VPN et des outils de <b>cybersécurité</b> - Le Point](https://www.lepoint.fr/services/avis-nordvpn-2026-un-vpn-et-des-outils-de-cybersecurite-TMIJHTZUYJFEHEMDDRZB4JO3QU/)  
+*Source : lepoint.fr | Publication : 2026-08-07*
 
-- Cyberattaque revendiquée contre ALIZE-SUD : le groupe Qilin affirme avoir compromis les systèmes de l'entreprise Une publication apparue sur le site de fuite du groupe de ransomware Qilin revendique le piratage de ALIZE-SUD (alize-sud.fr).
-- Les cybercriminels affirment avoir compromis les systèmes de l'entreprise et ont commencé à publier une partie des données présentées comme issues de son système d'information.
-- Les éléments diffusés montrent notamment une arborescence de fichiers techniques, laissant penser que les attaquants auraient eu accès à des documents internes et à des logiciels utilisés par l'entreprise.
-- À ce stade, aucun élément public ne permet de vérifier indépendamment l'authenticité des données revendiquées, leur origine exacte ou les circonstances techniques de la compromission.
+- Avis NordVPN (2026) : un VPN et des outils de cybersécurité.
+- NordVPN en 2026 : rapide, sécurisé (antivirus et protection).
+- Découvrez notre test.
 
-## [Nécessité de renforcer la coordination en matière de <b>cybersécurité</b> - Le Courrier du VietNam](https://lecourrier.vn/necessite-de-renforcer-la-coordination-en-matiere-de-cybersecurite/1352897.html)  
-*Source : lecourrier.vn | Publication : 2026-08-06*
+## [Levi Strauss révèle une faille de <b>cybersécurité</b> dans un contexte de vague d'attaques généralisée](https://www.boursorama.com/bourse/actualites/levi-strauss-revele-une-faille-de-cybersecurite-dans-un-contexte-de-vague-d-attaques-generalisee-8597832aae7ac6a77d8f472ff29f5fee)  
+*Source : boursorama.com | Publication : 2026-08-07*
 
-- >> L’IA et la cybersécurité, nouveaux axes de coopération franco-vietnamienne >> La foi à l’ère numérique : le défi de la cybersécurité >> Le Premier ministre appelle à placer l'humain au cœur de la protection numérique >> La question de la confiance représente un défi majeur de la cybersécurité moderne La réunion s'est tenue au siège du Département de la cybersécurité et de la lutte contre la criminalité utilisant les hautes technologies (ministère de la Police), avec une connexion en ligne vers les sous-comités de cybersécurité des 34 localités du pays.
-- Le Premier ministre a estimé qu'au cours du premier semestre 2026, les efforts visant à garantir la cybersécurité nationale avaient obtenu des résultats importants et complets.
-- Il a salué les contributions des ministères, des secteurs, des autorités locales, des forces spécialisées, des entreprises, des associations professionnelles et des experts, qui ont contribué à préserver la stabilité politique, l'ordre public ; à favoriser la transformation numérique et à renforcer la confiance numérique nationale.
-- Il a toutefois reconnu plusieurs insuffisances, notamment une prise de conscience encore insuffisante des enjeux de cybersécurité.
+- ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) Levi Strauss LEVI.N a révélé vendredi un incident de cybersécurité survenu récemment, au cours duquel un tiers non autorisé a accédé aux systèmes de l'entreprise par le biais d'une attaque d'ingénierie sociale visant trois employés.
+- Le fabricant de vêtements rejoint ainsi une liste de plus en plus longue de grandes entreprises à travers le monde qui sont confrontées à une recrudescence des cyberattaques et des incidents liés aux ransomwares, lesquels visent à voler des données sensibles et à perturber leurs activités.
+- Voici quelques détails supplémentaires: * Levi Strauss a indiqué dans un communiqué réglementaire avoir mis en place des mesures de confinement et ouvert une enquête, dont les conclusions préliminaires ont révélé que certaines informations de l’entreprise avaient été consultées et extraites.
+- * L’incident n’a pas perturbé les activités de l’entreprise et celle-ci ne s’attend pas à ce qu’il ait un impact significatif sur ses opérations ou ses résultats financiers, a-t-elle précisé.
 
-## [<b>Cybersécurité</b>, frontières, prévention des conflits : le volet sécuritaire du budget 2027 au Tchad](https://www.alwihdainfo.com/cybersecurite-frontieres-prevention-des-conflits-le-volet-securitaire-du-budget-2027-au-tchad/)  
-*Source : alwihdainfo.com | Publication : 2026-08-06*
+## [Faux documents et général fantôme : l'incroyable manipulation d'un ex-député roumain](https://actu.orange.fr/monde/faux-documents-et-general-fantome-l-incroyable-manipulation-d-un-ex-depute-roumain-magicExpress-CNT000002r5M9t.html)  
+*Source : actu.orange.fr | Publication : 2026-08-07*
 
-- Cybersécurité, frontières, prévention des conflits : le volet sécuritaire du budget 2027 au Tchad La défense nationale, la préservation de l'intégrité territoriale et la sécurité des personnes et des biens demeurent, selon la lettre circulaire du chef de l'État adressée au gouvernement, des « fonctions essentielles de l'État ».
-- Le budget 2027 devra renforcer les capacités de prévention, d'anticipation, de renseignement, de surveillance, de contrôle et d'intervention des forces compétentes, dans le respect de la loi et des libertés publiques.
-- Le texte demande que la sécurité soit appréhendée « de manière intégrée » dans les espaces terrestres, aériens, fluviaux, lacustres et numériques, avec une attention particulière portée à la sécurisation des frontières, des villes, des zones rurales et des infrastructures critiques, ainsi qu'au renforcement de la cybersécurité et de la souveraineté numérique.
-- Sur le volet prévention, les ministères concernés sont invités à privilégier la médiation locale, les dispositifs d'alerte précoce, la gestion concertée des ressources naturelles et pastorales, la coopération transfrontalière, ainsi que la coordination entre défense, sécurité, protection civile, administration territoriale et justice.
+- Faux documents et général fantôme : l'incroyable manipulation d’un ex-député roumain © Capture d'écran - Sur TikTok, cet ex-élu social-démocrate condamné pour corruption insinuait l'existence de réseaux occultes au sein des services roumains.
+- Secret-défense.
+- Cristian Rizea a inventé de toutes pièces un personnage pour discréditer le renseignement roumain sur TikTok.
+- Certains experts y voient une manœuvre du Kremlin.
 
-## [<b>Cybersécurité</b> : la SEEG révèle avoir perdu près de 95 % de ses infrastructures informatiques](https://gabonmediatime.com/cybersecurite-la-seeg-revele-avoir-perdu-pres-de-95-de-ses-infrastructures-informatiques/)  
-*Source : gabonmediatime.com | Publication : 2026-08-06*
+## [Grandes tendances en transformation numérique dans les administrations publiques](https://www.quebec.ca/gouvernement/numerique/transformation-numerique-services-publics/grandes-tendances-transformation-numerique-administrations-publiques)  
+*Source : quebec.ca | Publication : 2026-08-07*
 
-- Cybersécurité : la SEEG révèle avoir perdu près de 95 % de ses infrastructures informatiques La Société d’énergie et d’eau du Gabon (SEEG) a finalement levé un coin du voile sur l’incident informatique qui a fortement perturbé ses services depuis la mi-juin 2026.
-- Dans une note de presse datée du 4 août et parvenue à Gabon Media Time, l’entreprise indique avoir été victime d’un « acte de sabotage » ayant provoqué « l’effondrement de près de 95 % de ses infrastructures et systèmes informatiques ».
-- Près de deux mois après l’incident, la société assure que ses principaux services numériques sont progressivement rétablis et que son environnement informatique est désormais sécurisé.
-- L’ampleur de l’incident apparaît considérable.
+- Transformation numérique des services publics Grandes tendances en transformation numérique dans les administrations publiques La transformation numérique des administrations publiques progresse rapidement.
+- Cette évolution est soutenue par plusieurs leviers, notamment l’intelligence artificielle (IA), l’infonuagique et la valorisation des données.
+- Ensemble, ils contribuent à améliorer la performance des organisations, la qualité des services et la capacité d’adaptation de l’État.
+- Le ministère de la Cybersécurité et du Numérique (MCN) réalise une veille continue pour suivre l’évolution des pratiques, des technologies et des enjeux qui influencent cette transformation.
 
-## [La question de la confiance représente un défi majeur de la <b>cybersécurité</b> moderne](https://lecourrier.vn/la-question-de-la-confiance-represente-un-defi-majeur-de-la-cybersecurite-moderne/1352896.html)  
-*Source : lecourrier.vn | Publication : 2026-08-06*
+## [Données volées, plainte déposée : ce que l'on sait de la cyberattaque au Stade Français](https://actu.fr/sports/rugby/top-14/donnees-volees-plainte-deposee-ce-que-l-on-sait-de-la-cyberattaque-au-stade-francais_64637756.html)  
+*Source : actu.fr | Publication : 2026-08-07*
 
-- >> La foi à l’ère numérique : le défi de la cybersécurité >> Le Premier ministre appelle à placer l'humain au cœur de la protection numérique Placé sous le thème "No Human" (Sans humain), l’événement a exploré l’évolution des relations entre l’humain et l’intelligence artificielle (IA) au sein des systèmes de sécurité numérique.
-- Cette manifestation a servi de forum communautaire où chercheurs et experts ont partagé des études pratiques, examiné les tendances émergentes et débattu de solutions face aux défis de la cybersécurité.
-- Lors de l’événement, le président de la VSEC, Truong Duc Luong, a souligné qu’il s’agissait de la deuxième édition de BSides à Hanoï, un événement qui continue de susciter un vif intérêt au sein de la communauté de la cybersécurité.
-- BSides Hanoï 2026 a été conçu comme une plateforme reliant la communauté vietnamienne de la cybersécurité aux réseaux internationaux, favorisant le partage des connaissances et contribuant au développement durable de l’écosystème de la cybersécurité.
+- Le Stade Français a confirmé, ce jeudi 06 août, avoir été victime d’une cyberattaque ayant touché une partie de son système d’informations.
+- Si le club parisien assure que ses activités se poursuivent normalement, le média spécialisé Cyberattaque.org indique que les auteurs de l’attaque revendiquent déjà « la détention de documents particulièrement sensibles ».
+- À lire aussi Le Stade Français a activé une cellule de gestion de crise Face à cette cyberattaque le Stade Français précise avoir très vite réagi en activant une cellule de gestion de crise avec l’appui d’experts indépendants en cybersécurité.
+- Les systèmes concernés ont été sécurisés puis restaurés à partir de sauvegardes saines.
