@@ -1,147 +1,147 @@
-# Résumés – 2026-10-04
+# Résumés – 2026-10-05
 
 
-## [Session 2026/2027 de la Formation professionnelle : <b>Cybersécurité</b>, IA et énergies ...](https://www.elmoudjahid.dz/fr/actualite/session-2026-2027-de-la-formation-professionnelle-cybersecurite-ia-et-energies-renouvelables-font-leur-entree-259711)  
-*Source : elmoudjahid.dz | Publication : 2026-10-03*
+## [Une faille notée 10 sur 10 piège les gendarmes français de la <b>cybersécurité</b>, Trump impose](https://www.numerama.com/cyberguerre/2345879-une-faille-notee-10-sur-10-piege-les-gendarmes-francais-de-la-cybersecurite-trump-impose-super-intelligence-et-fait-flamber-les-si-un-moteur-de-recherche-expose-les-donnees-de-marine.html)  
+*Source : numerama.com | Publication : 2026-10-04*
 
-- nombre de spécialités techniques, en plus des formations liées à la cybersécurité , à l'intelligence artificielle et aux énergies renouvelables.
+- Elle a permis aux hackers de piéger les gendarmes de la cybersécurité en France : c’est quoi la faille Metabase ?.
+- L’ANSSI et la Dinum ont été victimes d’une faille critique de Metabase, exploitée massivement depuis août, affectant 118 comptes utilisateurs de l’agence.
+- - La faille, notée 10 sur l’échelle CVSS, permettait une exploitation via une injection SQL dans la fonction de réinitialisation du mot de passe, sans nécessiter d’identifiants.
+- - Les attaques ont touché neuf instances de ministères et exposé des données administratives et personnelles, bien que certaines informations soient jugées publiques par l’ANSSI.
 
-## [Bayonne s'engage pour sensibiliser aux enjeux de <b>cybersécurité</b>](https://www.bayonne.fr/information-transversale/actualites/bayonne-sengage-pour-sensibiliser-aux-enjeux-de-cybersecurite-73072)  
-*Source : bayonne.fr | Publication : 2026-10-03*
+## [Salon TechSolutions les 14 &amp; 15 Octobre 2026 - ITRnews](https://itrnews.com/articles/211158/salon-techsolutions-les-14-15-octobre-2026.html)  
+*Source : itrnews.com | Publication : 2026-10-04*
 
-- Pour mieux comprendre les cybermenaces tout en s'amusant, des ateliers de sensibilisation sont proposés dans le cadre du Cybermois.
-- Jeu de plateau :.
+- Veuillez activer Javascript.
 
-## [Cyberattaque contre la Région Hauts-de-France : les RIB de 700 000 Français compromis](https://www.01net.com/actualites/cyberattaque-region-hauts-de-france-donnees-personnelles-rib.html)  
-*Source : 01net.com | Publication : 2026-10-03*
+## [Thales : de nouvelles solutions de <b>cybersécurité</b> augmentées par l'IA - Boursier.com](https://www.boursier.com/actions/actualites/news/thales-de-nouvelles-solutions-de-cybersecurite-augmentees-par-l-ia-995175.html)  
+*Source : boursier.com | Publication : 2026-10-04*
 
-- Une nouvelle fuite de données secoue la France.
-- Ce samedi 3 octobre, la Région Hauts-de-France a révélé à l’AFP avoir été touchée par une cyberattaque d’envergure.
-- Deux prestataires, Atexo et Docaposte, ont été pris pour cible.
-- Selon la collectivité, l’attaque a abouti à « un accès non autorisé à des données personnelles traitées pour son compte ».
+- Le Thales Cyber Summit a rassemblé les meilleurs experts en cybersécurité et présenté l'ensemble des innovations du groupe dans ce domaine.
 
-## [<b>Cybersécurité</b> : la région Hauts-de-France victime d'une large fuite de données personnelles](https://www.cnews.fr/vie-numerique/2026-10-03/cybersecurite-la-region-hauts-de-france-victime-dune-large-fuite-de)  
-*Source : cnews.fr | Publication : 2026-10-03*
+## [Cyberattaque : 700 000 personnes potentiellement touchées, des RIB pourraient être concernés](https://www.femmeactuelle.fr/actu/news-actu/cyberattaque-700-000-personnes-potentiellement-touchees-des-rib-pourraient-etre-concernes-2212122)  
+*Source : femmeactuelle.fr | Publication : 2026-10-04*
 
-- La région Hauts-de-France a été la cible d'une cyberattaque ce samedi 3 octobre, compromettant la sécurité des données personnelles de plusieurs individus, même si l'ampleur de la fuite n'a pas été précisée.
-- Les piratages se poursuivent.
-- Après ceux du fisc et de l'Éducation nationale, c'est au tour de la région des Hauts-de-France d'être victime d'une cyberattaque.
-- Des informations personnelles ainsi que «potentiellement des RIB ont été dérobées ce samedi 3 octobre, indique la région à l'AFP.
+- Une nouvelle fuite de données personnelles de grande ampleur ?.
+- Samedi 3 octobre 2026, la région Hauts-de-France a annoncé que deux de ses prestataires, Atexo et Docaposte, avaient été victimes d'une cyberattaque.
+- Celle-ci a permis un "accès non autorisé à des données personnelles traitées pour son compte", a indiqué la collectivité, selon les informations rapportées par Le Parisien ce dimanche 4 octobre.
+- Les premières investigations ont permis d'identifier plusieurs types d'informations susceptibles d'avoir été compromises.
 
-## [La région Hauts-de-France victime d'une importante fuite de données personnelles après ...](https://www.sudouest.fr/economie/cybersecurite/la-region-hauts-de-france-victime-d-une-importante-fuite-de-donnees-personnelles-apres-une-cyberattaque-30904170.php)  
-*Source : sudouest.fr | Publication : 2026-10-03*
+## [<b>Cybersécurité</b> : l'IA ne crée pas les failles, elle les déterre : Actualités - Orange Actu](https://actu.orange.fr/monde/cybersecurite-l-ia-ne-cree-pas-les-failles-elle-les-deterre-magicExpress-CNT000002sjvbn.html)  
+*Source : actu.orange.fr | Publication : 2026-10-04*
 
-- La région Hauts-de-France a été touchée par une cyberattaque ciblant deux de ses prestataires, entraînant la compromission de données personnelles et potentiellement de RIB La Région Hauts-de-France a indiqué samedi avoir été victime d’une cyberattaque qui a mené à la diffusion d’informations personnelles ainsi que « potentiellement des RIB », sans pouvoir en détailler l’ampleur, un site spécialisé évoquant plus de 700 000 personnes touchées.
-- La collectivité a précisé « que deux de ses prestataires, Atexo et Docaposte, ont été victimes d’une cyberattaque ayant permis un accès non autorisé à des données personnelles traitées pour son compte ».
+- Cybersécurité : l'IA ne crée pas les failles, elle les déterre © picture alliance / Consolidated News Photos - Sam Altman (OpenAI) et Mark Zuckerberg (Meta) au dîner servi à la Maison-Blanche en l'honneur de Xi Jinping, le 24 septembre 2026.
+- Tech.
+- Les grands modèles d'intelligence artificielle nous ouvrent les yeux sur les failles qui dorment dans nos systèmes informatiques, détaille notre chroniqueur.
+- La productivité des ingénieurs de Mozilla au printemps dernier laisse coi.
 
-## [Google lance Gemini 4 Argon, détails après le 1er octobre - Brief IA](https://www.briefia.fr/article/google-lance-gemini-4-argon-details-apres-le-1er-octobre)  
-*Source : briefia.fr | Publication : 2026-10-03*
+## [Le fléau cyber prend de l'ampleur et deux scénarios se distinguent : c'est quoi le LLM-jacking](https://www.numerama.com/cyberguerre/2345263-le-fleau-cyber-prend-de-lampleur-et-deux-scenarios-se-distinguent-cest-quoi-le-llm-jacking.html)  
+*Source : numerama.com | Publication : 2026-10-04*
 
-- Tu suis la course aux modèles IA ?.
-- Chaque sortie (GPT, Claude, Gemini, Mistral…) décryptée le soir même, en 5 min.
-- Gratuit.
-- Inclus dès l'inscription : notre sélection des meilleurs guides & comparatifs IA.
+- C’est une pratique qui offre aux hackers un accès bon marché aux modèles les plus coûteux du secteur.
+- Le 26 septembre, John Hultquist, analyste en chef du Google Threat Intelligence Group, a alerté, dans un entretien au Financial Times, sur la recrudescence du LLM-jacking.
+- Si la menace n’est pas nouvelle, l’expert explique observer une forte hausse du phénomène en 2026.
+- Selon le Financial Times, l’accès illicite à l’IA devient l’une des marchandises les plus recherchées de l’économie souterraine, convoitée aussi bien par des cybercriminels isolés que par des groupes APT, ces équipes de pirates aguerris souvent liées à des États.
 
-## [<b>Cybersécurité</b> : la région Hauts-de-France victime d'une large fuite de données personnelles](https://www.aisnenouvelle.fr/id749720/article/2026-10-03/cybersecurite-la-region-hauts-de-france-victime-dune-large-fuite-de-donnees)  
-*Source : aisnenouvelle.fr | Publication : 2026-10-03*
+## [Des milliers de stagiaires rejoignent les établissements et de nouvelles spécialités ouvertes](https://www.aps.dz/fr/algerie/education-et-technologie/muty7tfe-des-milliers-de-stagiaires-rejoignent-les-etablissements-et-de-nouvelles-specialites-ouvertes)  
+*Source : aps.dz | Publication : 2026-10-04*
 
-- La région Hauts-de-France a indiqué, samedi 3 octobre 2026, avoir été victime d'une cyberattaque qui a mené à la diffusion d'informations.
+- Site en maintenance Nous améliorons votre expérience Notre équipe travaille activement pour vous offrir un service optimisé.
+- Merci de votre patience.
+- Copyright © 2026 Algérie Presse Service - Tous droits réservés Nous améliorons votre expérience Notre équipe travaille activement pour vous offrir un service optimisé.
+- Merci de votre patience.
 
-## [<b>Cybersécurité</b> : la région Hauts-de-France victime d'une large fuite de données personnelles](https://abonne.lunion.fr/id831662/article/2026-10-03/cybersecurite-la-region-hauts-de-france-victime-dune-large-fuite-de-donnees)  
-*Source : abonne.lunion.fr | Publication : 2026-10-03*
+## [L'État du Qatar participe à la 36ᵉ réunion des ministres de la Justice des États membres du ...](https://qna.org.qa/fr-FR/News-Area/News/2026-10/4/letat-du-qatar-participe-a-la-36ᵉ-reunion-des-ministres-de-la-justice-des-etats-membres-du-conseil-de-cooperation-du-golfe)  
+*Source : qna.org.qa | Publication : 2026-10-04*
 
-- L'identité, l'adresse mail et potentiellement le RIB de plus de 700 000 personnes pourraient avoir fuité.
-- Alors qu'une plainte a été déposée,.
+- L’État du Qatar participe à la 36ᵉ réunion des ministres de la Justice des États membres du Conseil de coopération du Golfe Manama, le 4 octobre /QNA/ L’État du Qatar a participé à la 36ᵉ réunion de Leurs Excellences les ministres de la Justice des États membres du Conseil de coopération du Golfe, tenue aujourd’hui à Manama, capitale du Royaume de Bahreïn.
+- La délégation de l’État du Qatar était conduite par Son Excellence M. Ibrahim bin Ali Al Mohannadi, ministre de la Justice et ministre d’État aux Affaires du Conseil des ministres.
+- La réunion a porté sur plusieurs questions visant à renforcer la coopération judiciaire, juridique et législative entre les États membres, notamment la politique de consolidation de la coopération entre leurs ministères de la Justice, le projet de règles unifiées relatives à la lutte contre la cybercriminalité, ainsi qu’un ensemble d’initiatives liées à l’action juridique et judiciaire conjointe des pays du Golfe.
 
-## [<b>Cybersécurité</b>: la région Hauts-de-France victime d'une large fuite de données personnelles](https://www.notretemps.com/depeches/cybersecurite-la-region-hauts-de-france-victime-d-une-large-fuite-de-donnees-personnelles-139402)  
-*Source : notretemps.com | Publication : 2026-10-03*
+## [Comment une faille logicielle a entraîné des fuites de données de l'Etat, touchant jusqu'à l ...](https://www.liberation.fr/checknews/comment-une-faille-logicielle-a-entraine-des-fuites-de-donnees-de-letat-touchant-jusqua-lagence-de-cybersecurite-20261004_QKGW47ZOFJE2XA54VDLN3EXCJ4/)  
+*Source : liberation.fr | Publication : 2026-10-04*
 
-- Cybersécurité: la région Hauts-de-France victime d'une large fuite de données personnelles La région Hauts-de-France a indiqué samedi à l'AFP avoir été victime d'une cyberattaque qui a mené à la diffusion d'informations personnelles ainsi que "potentiellement des RIB", sans pouvoir en détailler l'ampleur, un site spécialisé évoquant plus de 700.000 personnes touchées.
-- La région a indiqué à l'AFP "que deux de ses prestataires, Atexo et Docaposte, ont été victimes d'une cyberattaque ayant permis un accès non autorisé à des données personnelles traitées pour son compte".
-- Les premières investigations ont établi que "des noms, prénoms, adresses électroniques, ainsi que potentiellement des RIB et d'autres données d'identification figurent parmi les données susceptibles d'avoir été compromises", a-t-elle détaillé, sans être en mesure d'indiquer à ce stade "le nombre exact de personnes concernées", ou encore "si d'autres catégories de données ont également été accessibles ou extraites".
-- Selon le site spécialisé FrenchBreaches, un utilisateur aurait revendiqué l'attaque en ligne et indiqué détenir les données personnelles de plus de 700.000 personnes, sans que ce chiffre ne puisse être vérifié.
+- Comment une faille logicielle a entraîné des fuites de données de l'Etat, touchant jusqu'à l'agence de cybersécurité.
+- Réservé aux abonnés.
+- Dévoilée et.
 
-## [VIDÉO. Vols, trafics, cryptomonnaie : immersion avec les gendarmes de la ... - France 3 Régions](https://france3-regions.franceinfo.fr/hauts-de-france/somme/amiens/video-vols-trafics-cryptomonnaie-immersion-avec-les-gendarmes-de-la-section-de-recherches-specialises-en-cybercriminalite-3427089.html)  
-*Source : france3-regions.franceinfo.fr | Publication : 2026-10-03*
+## [À Crac'h, un atelier thématique pour sensibiliser à la <b>cybersécurité</b> - Le Télégramme](https://www.letelegramme.fr/morbihan/crach-56950/a-crach-un-atelier-thematique-pour-sensibiliser-a-la-cybersecurite-7130518.php)  
+*Source : letelegramme.fr | Publication : 2026-10-04*
 
-- durée de la vidéo : 00h02mn27s À l’ère du numérique, la criminalité a développé ses réseaux sur la toile.
-- Pour rester au contact, la section de recherche a formé des profils plus connectés : des cyberenquêteurs.
-- Objectif : adapter les techniques d'investigation à l'environnement 2.0.
-- • ©France Télévisions VIDÉO.
+- Le premier atelier thématique sur la cybersécurité a rassemblé une trentaine de personnes attentives, qui ont posé beaucoup de questions.
+- Samedi matin.
 
-## [Après 1000 cyberattaques, un pirate de 16 ans a été arrêté : il était à la tête du gang KillSec](https://www.01net.com/actualites/apres-1000-cyberattaques-pirate-16-ans-arrete-tete-gang-killsec.html)  
-*Source : 01net.com | Publication : 2026-10-03*
+## [Cyberattaque chez Groupe Euroditel : 616.3 Go de données dérobés par un... - FrenchBreaches](https://frenchbreaches.com/alertes/groupe-euroditel-rw_WlhWeWIyUnBkR1ZzTG1OdmJVQnJjbmxpYVhRPQ)  
+*Source : frenchbreaches.com | Publication : 2026-10-04*
 
-- Un adolescent de 16 ans était à la tête d’un redoutable gang de pirates.
-- La police européenne vient de démanteler KillSec, un gang de hackers spécialisé dans l’extorsion de données et les attaques par ransomware.
-- Selon Europol, le chef présumé de toute l’organisation n’a que 16 ans. «.
-- Le 30 septembre 2026, les forces de l’ordre ont pris le contrôle du site de fuite de KillSec, sécurisant au moins 110 téraoctets de données contre tout nouvel accès non autorisé », annonce Europol.
+- Cyberattaque en France : Euroditel revendiqué victime du ransomware Krybit, 616 Go de données annoncés Le groupe français Euroditel, spécialisé dans les télécommunications et l’intégration de systèmes informatiques, aurait été victime d’une importante cyberattaque.
+- Le groupe de ransomware Krybit revendique l’opération et affirme avoir compromis l’infrastructure de l’entreprise.
+- Près de 616 Go de données revendiqués Selon les informations publiées par les cybercriminels, environ 615,98 Go de données auraient été récupérés lors de l’attaque.
+- Krybit va plus loin et affirme avoir obtenu un accès aux réseaux administrés par Euroditel.
 
-## [Ingénieur le jour, hacker la nuit : la police arrête un jeune pirate suite à plusieurs fuites de données](https://www.01net.com/actualites/shinyhunters-suspect-arrete-pays-bas-soupconne-meurtres.html)  
-*Source : 01net.com | Publication : 2026-10-03*
+## [<b>Ransomware</b> Warlock : des failles SharePoint encore exploitées contre des infrastructures publiques](https://android-mt.ouest-france.fr/news/ransomware-warlock-des-failles-sharepoint-encore-exploitees-contre-des-infrastructures-publiques/224265/)  
+*Source : android-mt.ouest-france.fr | Publication : 2026-10-04*
 
-- L’étau se resserre autour du gang ShinyHunters.
-- La police néerlandaise a annoncé l’arrestation d’un pirate de 24 ans qui résidait à Amsterdam.
-- Interpellé le 15 septembre 2026, le jeune homme reste en détention provisoire jusqu’à nouvel ordre.
-- En marge de l’arrestation, du matériel informatique a été saisi par les forces de l’ordre.
+- En bref Warlock a touché au moins quatre organisations en deux mois - Les cibles sont situées dans des pays hispanophones et lusophones - Le groupe exploite des failles SharePoint, anciennes et nouvelles - Un acteur malveillant suspecté d’avoir des liens avec la Chine, connu sous le nom de Warlock, continue d’exploiter des failles de Microsoft SharePoint pour s’introduire dans des réseaux, couper les outils de sécurité, puis lâcher un ransomware.
+- L’unité de cybersécurité Symantec et Carbon Black, propriété de Broadcom, a observé cette activité toucher des infrastructures critiques, des organismes publics et des établissements d’enseignement.
+- Des cibles en Europe, en Afrique et en Amérique latine Selon Symantec, le groupe, aussi suivi sous les noms Gold Salem, Longlegs ou Storm-2603, a frappé au moins quatre organisations en deux mois : deux opérateurs d’infrastructures critiques (une entreprise de distribution d’eau et un opérateur télécoms), un organisme gouvernemental régional et une université.
+- Les victimes se trouvaient dans des pays hispanophones et lusophones, répartis entre l’Europe, l’Afrique et l’Amérique latine.
 
-## [L'Académie navale promeut « l'alphabétisation numérique pour tous » et applique l'IA dans l ...](https://www.vietnam.vn/fr/hoc-vien-hai-quan-day-manh-binh-dan-hoc-vu-so-va-ung-dung-ai-trong-hoc-tap)  
-*Source : vietnam.vn | Publication : 2026-10-03*
+## [<b>Cybersécurité</b> : l'IA ne crée pas les failles, elle les déterre - L'Express](https://www.lexpress.fr/economie/high-tech/cybersecurite-lia-ne-cree-pas-les-failles-elle-les-deterre-6LFXVUYPWVAK3JPJKYOED7K6T4/)  
+*Source : lexpress.fr | Publication : 2026-10-04*
 
-- Les étudiants s'exercent à l'exploration de données au Centre de ressources pédagogiques.
-- Le matin du 3 octobre, à Khanh Hoa, l'Académie navale a organisé une conférence de formation sur la sécurité de l'information, la cybersécurité, la transformation numérique et la culture numérique pour les cadets de la promotion 2026.
-- Le programme vise à doter les futurs officiers d'une pensée moderne et de compétences technologiques pratiques.
+- La productivité des ingénieurs de Mozilla au printemps dernier laisse coi.
+- D'ordinaire, les équipes livrent en moyenne entre 20 et 30 correctifs de sécurité par mois pour le navigateur Firefox que leur fondation gère.
+- En avril, elles en ont sorti pas moins de 423.
+- Le navigateur n’a pas significativement changé.
 
-## [Usurpation d'identité numérique, chantage et <b>cybercriminalité</b> : un individu arrêté à Zac ...](https://lesoleil.sn/justice/usurpation-didentite-numerique-chantage-et-cybercriminalite-un-individu-arrete-a-zac-mbao-six-victimes-identifiees/)  
-*Source : lesoleil.sn | Publication : 2026-10-03*
+## [Une faille du logiciel Metabase expose 118 comptes de l'ANSSI, l'agence française de ...](https://barlamane.com/fr/une-faille-du-logiciel-metabase-expose-118-comptes-de-lanssi-lagence-francaise-de-cybersecurite-et-deux-plates-formes-de-la-dinum/)  
+*Source : barlamane.com | Publication : 2026-10-04*
 
-- Le Commissariat d’arrondissement de la Zac de Mbao a procédé à l’interpellation d’un individu pour usurpation d’identité numérique, collecte illicite de données à caractère personnel, détention d’images contraires aux bonnes mœurs, menaces de diffusion de vidéos obscènes et chantage à caractère sexuel.
-- Selon la police, le mis en cause a été placé en garde à vue le 1ᵉʳ octobre 2026, à la suite de la plainte d’une victime.
-- Cette dernière avait fait la connaissance, sur Internet, d’un profil utilisant la photo d’une femme présentée sous le nom d’Angela.
-- Après plusieurs échanges, elle avait transmis des vidéos intimes à la personne en échange de la promesse de recevoir 500 000 FCFA.
+- L'agence de cybersécurité range les données dérobées à la DINUM parmi les informations «déjà publiques».
+- L'ANSSI a appliqué les correctifs sur ses.
 
-## [LDLC victime d'un piratage, des données personnelles de clients ont pu être consultées](https://www.clubic.com/actualite-632404-ldlc-victime-d-un-piratage-des-donnees-personnelles-de-clients-ont-pu-etre-consultees.html)  
-*Source : clubic.com | Publication : 2026-10-03*
+## [<b>Cybersécurité</b> : l'EMSI confronte 665 étudiants à une simulation de crise grandeur nature](https://www.leconomiste.com/flash-infos/cybersecurite-lemsi-confronte-665-etudiants-a-une-simulation-de-crise-grandeur-nature/)  
+*Source : leconomiste.com | Publication : 2026-10-04*
 
-- Le e-commerçant français LDLC a été victime d'une cyberattaque qui a permis un accès non autorisé à l'un de ses systèmes.
-- Les noms, coordonnées et informations de compte de clients ont pu être consultés, mais pas les données bancaires, assure l'entreprise.
-- Ce n'est pas le genre de courrier électronique qu'on espère trouver entre deux promos sur les cartes graphiques, toujours est-il que LDLC informe actuellement une partie de ses clients qu'un incident de sécurité a permis à des cybercriminels d'accéder à l'un de ses systèmes d'information, avec à la clé la consultation possible de leurs données personnelles.
-- Figurent ainsi les noms, adresses, téléphones ou encore date d'inscription figurent parmi les informations exposées, tandis que les mots de passe et moyens de paiement seraient restés hors d'atteinte, fort heureusement.
+- L'EMSI organise, du 23 au 25 septembre 2026, un exercice immersif consacré à la gestion des crises cyber, en partenariat avec Cybersup,.
 
-## [Plus de 400.000 nouveaux stagiaires rejoindront dimanche les établissements de formation ...](https://www.aps.dz/fr/algerie/education-et-technologie/mur7m4io-plus-de-400-000-nouveaux-stagiaires-rejoindront-dimanche-les-etablissements-de-formation-professionnelle)  
-*Source : aps.dz | Publication : 2026-10-03*
+## [Portes ouvertes des jardins partagés toulousains](https://toulouse7.com/2026/10/04/portes-ouvertes-des-jardins-partages-toulousains/)  
+*Source : toulouse7.com | Publication : 2026-10-04*
 
-- Plus de 400.000 nouveaux stagiaires rejoindront dimanche les établissements de formation professionnelle vendredi 02 octobre 2026 18:01 ALGER - Plus de 400.000 stagiaires et apprentis rejoindront dimanche les instituts d'enseignement et de formation professionnels à travers le territoire national, dans le cadre de la rentrée de la formation professionnelle de la session d'octobre 2026, marquée par l'introduction de 23 nouvelles spécialités couvrant des secteurs vitaux tels que les énergies renouvelables et la cybersécurité, a-t-on appris auprès du ministère de la Formation et de l'Enseignement professionnels.
-- Articles connexes.
+- Les jardins partagés ouvrent leurs portes aux Toulousains en ce début d’automne.
+- Au programme : ateliers, démonstrations, conseils, animations pour en savoir plus sur le fonctionnement de ces terres cultivées par les habitants dans le respect de l’environnement, propices à des moments de convivialité.
+- Tous les jardins partagés disposent de terres cultivables sur des terrains appartenant à la Collectivité qui accompagne les habitants pour développer ces îlots de nature et favoriser le lien social.
+- 32 jardins partagés existent aujourd’hui à Toulouse.
 
-## [Yves Le Floch, dir. développement de la <b>cybersécurité</b> de Sogeti dans Good Morning Business](https://actu.orange.fr/videos/economie/yves-le-floch-dir-developpement-de-la-cybersecurite-de-sogeti-dans-good-morning-business-19-juin-CNT000002shXBa.html?pid=)  
-*Source : actu.orange.fr | Publication : 2026-10-03*
+## [Le Portugal occupe la 19e place en Europe en termes d'exposition à la <b>cybercriminalité</b>](https://www.theportugalnews.com/fr/nouvelles/2026-10-04/le-portugal-occupe-la-19e-place-en-europe-en-termes-dexposition-a-la-cybercriminalite/1095902)  
+*Source : theportugalnews.com | Publication : 2026-10-04*
 
-- Yves Le Floch, dir.
-- développement de la cybersécurité de Sogeti dans Good Morning Business - 19 juin par BFMBUSINESS Le 19 juin, Yves Le Floch, directeur développement de la cybersécurité de Sogeti a été interviewé par Stéphane Soumier dans Good Morning Business, sur BFM Business.
-- Vidéo suivante dans 5 secondes Autres vidéos Les commentaires ne sont plus disponibles sur les articles Orange.fr.
-- Cliquez ici pour en savoir plus Fermeture des commentaires Chères lectrices, chers lecteurs, Vos avis sont précieux pour faire vivre l'actualité sur Orange.fr.
+- Parmi les pays européens, le Portugal s'est classé 19e en termes de fréquence à laquelle les clients ont été touchés par des cyberattaques au cours du premier semestre 2026.
+- Dans sa septième édition, le rapport souligne le rôle croissant de l’intelligence artificielle dans le paysage de la cybersécurité, celle-ci étant utilisée tant par les attaquants que par les équipes de sécurité pour accélérer les processus et opérer à grande échelle.
+- Intentions des utilisateurs Pour les cybercriminels, cette technologie permet de découvrir des vulnérabilités, d’analyser des informations et d’adapter leurs attaques plus rapidement.
+- De leur côté, les équipes de sécurité utilisent l’IA pour identifier et enquêter sur les menaces, ainsi que pour y répondre plus efficacement.
 
-## [Hans Anders stoppe la vente des Ray-Ban Meta aux Pays-Bas et en Belgique](https://pasqualepillitteri.it/fr/news/20237/hans-anders-stoppe-vente-ray-ban-meta)  
-*Source : pasqualepillitteri.it | Publication : 2026-10-03*
+## [Des pirates nord-coréens se servent du réseau Ethereum pour lancer des cyberattaques](https://www.01net.com/actualites/pirates-nord-coreens-cachent-ordres-ethereum-hashhiding.html)  
+*Source : 01net.com | Publication : 2026-10-04*
 
-- Hans Anders stoppe la vente des Ray-Ban Meta aux Pays-Bas et en Belgique Hans Anders suspend les Ray-Ban Meta aux Pays-Bas et en Belgique pour des raisons de vie privée, alors que Meta a jusqu'au 13 octobre pour répondre.
-- 1.Pourquoi Hans Anders a-t-il cessé de vendre les Ray-Ban Meta ?.
-- - 2.Le régulateur néerlandais et les vidéos de la plage de Zandvoort - 3.La motion sur les « gluurbrillen » et l'ultimatum à Meta du 13 octobre - 4.Que répond Meta sur la lumière qui clignote - 5.Et en France ?.
-- - 6.Questions fréquentes (FAQ) - 7.Conclusions - 8.Notez cet article - 9.Articles Connexes - 10.Recherchez-vous un Ingénieur Logiciel?.
+- Fin du mois de septembre 2026, les chercheurs de Ransom-ISAC ont mis au jour une nouvelle astuce de la campagne de piratage XCTDH, attribuée à la Corée du Nord.
+- Les attaquants glissent désormais l’adresse de leur serveur dans des transferts de cryptomonnaie, directement sur la blockchain Ethereum.
+- Les chercheurs ne cachent pas leur admiration face à l’ingéniosité du dispositif.
+- Ils y voient « un haut niveau de créativité et une grande ingéniosité de la part de l’opérateur nord-coréen », et même « une utilisation délibérée et mature des infrastructures blockchain publiques ».
 
-## [Meta et OpenAI dévoilent Jolly et dots, les mascottes de leurs agents IA - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/20243/meta-openai-mascottes-agents-ia-jolly-dots)  
-*Source : pasqualepillitteri.it | Publication : 2026-10-03*
+## [<b>Cybersécurité</b>: pourquoi la France a-t-elle autant tardé pour renforcer sa protection? | LCP](https://lcp.fr/actualites/cybersecurite-pourquoi-la-france-a-t-elle-autant-tarde-pour-renforcer-sa-protection?amp)  
+*Source : lcp.fr | Publication : 2026-10-04*
 
-- Meta et OpenAI dévoilent Jolly et dots, les mascottes de leurs agents IA Meta et OpenAI donnent des mascottes à leurs agents IA, Jolly et les dots, pour rassurer ceux qui leur confient leur messagerie et leur carte bancaire.
-- 1.Qui sont Jolly et les dots - 2.Pourquoi les agents IA ont-ils une mascotte ?.
-- - 3.Le précédent de Clippy - 4.Jolly et dots face à face - 5.Le visage tendre et les vrais problèmes - 6.Fairplay et l'iconographie enfantine - 7.Ce qui change pour les lecteurs en France - 8.Questions fréquentes (FAQ) - 9.Conclusions - 10.Notez cet article - 11.Articles Connexes - 12.Recherchez-vous un Ingénieur Logiciel?.
-- - Meta et OpenAI ont donné à leurs agents IA un visage de peluche en l'espace de trois semaines.
+- Cybersécurité: pourquoi la France a-t-elle autant tardé pour renforcer sa protection?.
+- Quasiment deux ans après sa présentation en Conseil des ministres, le projet de loi sur le renforcement de la cybersécurité n'a toujours pas été définitivement adopté par le Parlement.
+- En raison, notamment, de désaccords autour du chiffrement, qui ont retardé l'examen du texte à l'Assemblée nationale.
+- C'est un retard qui vaut à la France d'être poursuivie devant la Cour de justice de l’Union européenne.
 
-## [<b>Cybercriminalité</b> à ZAC Mbao : 230 vidéos obscènes découvertes dans le téléphone d'un suspect](https://www.lactuacho.com/cybercriminalite-a-zac-mbao-230-videos-obscenes-decouvertes-dans-le-telephone-dun-suspect/)  
-*Source : lactuacho.com | Publication : 2026-10-03*
+## [Les cybercriminels utilisent un langage secret qui a été inventé dans les goulags de Staline](https://www.slate.fr/culture/cybercriminel-langage-secret-goulag-staline-internet-argot-russie?amp)  
+*Source : slate.fr | Publication : 2026-10-04*
 
-- Le Commissariat d’arrondissement de ZAC Mbao a placé en garde à vue, le 1er octobre 2026, un individu soupçonné d’usurpation d’identité numérique, de collecte illicite de données personnelles et de chantage à caractère sexuel.
-- L’exploitation de son téléphone a permis d’identifier plusieurs victimes et de découvrir de nombreux fichiers à caractère obscène.
-- Une affaire de cybercriminalité présumée est en cours d’investigation à ZAC Mbao.
-- Le Commissariat d’arrondissement de la localité a procédé, le 1er octobre 2026, au placement en garde à vue d’un individu visé pour plusieurs faits, notamment l’usurpation d’identité numérique, la collecte illicite de données à caractère personnel, la détention d’images contraires aux bonnes mœurs, les menaces de diffusion de vidéos obscènes et le chantage à caractère sexuel.
+- Quand est-ce que tu te cacherais dans une framboise?.
+- Pourquoi tu ne veux pas être un six?.
+- Et qu'est-ce que ça veut dire d'aller à l'akademiya?.
+- Vous n'y comprenez rien?.
