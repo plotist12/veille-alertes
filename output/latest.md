@@ -1,147 +1,152 @@
-# Résumés – 2026-10-05
+# Résumés – 2026-10-06
 
 
-## [Une faille notée 10 sur 10 piège les gendarmes français de la <b>cybersécurité</b>, Trump impose](https://www.numerama.com/cyberguerre/2345879-une-faille-notee-10-sur-10-piege-les-gendarmes-francais-de-la-cybersecurite-trump-impose-super-intelligence-et-fait-flamber-les-si-un-moteur-de-recherche-expose-les-donnees-de-marine.html)  
-*Source : numerama.com | Publication : 2026-10-04*
+## [Le nouvel obstacle majeur dans l'approvisionnement en dispositifs médicaux ? La <b>cybersécurité</b>](https://health-isac.org/fr/Le-nouvel-élément-décisif-dans-l'approvisionnement-en-dispositifs-médicaux :-la-cybersécurité/)  
+*Source : health-isac.org | Publication : 2026-10-06*
 
-- Elle a permis aux hackers de piéger les gendarmes de la cybersécurité en France : c’est quoi la faille Metabase ?.
-- L’ANSSI et la Dinum ont été victimes d’une faille critique de Metabase, exploitée massivement depuis août, affectant 118 comptes utilisateurs de l’agence.
-- - La faille, notée 10 sur l’échelle CVSS, permettait une exploitation via une injection SQL dans la fonction de réinitialisation du mot de passe, sans nécessiter d’identifiants.
-- - Les attaques ont touché neuf instances de ministères et exposé des données administratives et personnelles, bien que certaines informations soient jugées publiques par l’ANSSI.
+- Le nouvel obstacle majeur dans l'approvisionnement en dispositifs médicaux ?.
+- La cybersécurité Tout appareil connecté peut être exploité.
+- Face à ce constat, nous devons veiller à ce que, lorsqu'une vulnérabilité apparaît inévitablement, un plan d'action soit prévu et que toutes les personnes concernées sachent quelle est la marche à suivre.
+- Phil Englert est le vice-président de la sécurité des dispositifs médicaux chez Health-ISAC.
 
-## [Salon TechSolutions les 14 &amp; 15 Octobre 2026 - ITRnews](https://itrnews.com/articles/211158/salon-techsolutions-les-14-15-octobre-2026.html)  
-*Source : itrnews.com | Publication : 2026-10-04*
+## [Nomination de Christophe Canguilhem au Poste de CEO - Stormshield](https://www.stormshield.com/fr/actus/nomination-christophe-canguilhem-ceo/)  
+*Source : stormshield.com | Publication : 2026-10-05*
 
-- Veuillez activer Javascript.
+- Stormshield annonce l’arrivée de Christophe Canguilhem qui succèdera à Pierre-Yves Hentzen au poste de Président et CEO de Stormshield à compter du 1er janvier 2027.
+- Afin d’assurer une transmission fluide et ordonnée, une phase de transition de trois mois sera effectuée, elle permettra à Christophe Canguilhem de travailler aux côtés de Pierre-Yves Hentzen, actuel Président de Stormshield, avant sa prise de fonction effective au 1er janvier 2027.
+- À cette date, Pierre-Yves Hentzen prendra de nouvelles fonctions au sein du groupe Airbus, dans le cadre des ambitions de développement des activités de cybersécurité.
+- Christophe Canguilhem, un nouveau Président pour accompagner la prochaine phase de développement de Stormshield Ingénieur diplômé de l’ISAE-SUPAERO, Christophe Canguilhem dispose de 25 ans d’expérience dans l’industrie aéronautique et de défense.
 
-## [Thales : de nouvelles solutions de <b>cybersécurité</b> augmentées par l'IA - Boursier.com](https://www.boursier.com/actions/actualites/news/thales-de-nouvelles-solutions-de-cybersecurite-augmentees-par-l-ia-995175.html)  
-*Source : boursier.com | Publication : 2026-10-04*
+## [Mois de la <b>cybersécurité</b> | Université Laval](https://www.ulaval.ca/calendrier-ulaval/mois-de-la-cybersecurite)  
+*Source : ulaval.ca | Publication : 2026-10-05*
 
-- Le Thales Cyber Summit a rassemblé les meilleurs experts en cybersécurité et présenté l'ensemble des innovations du groupe dans ce domaine.
+- Mois de la cybersécurité Du 5 au 30 octobre 2026 - En ligne - Courriels frauduleux, messages textes trompeurs, hypertrucages: les menaces ciblent souvent les personnes avant les systèmes.
+- En octobre, développez vos réflexes de vigilance et voyez comment quelques gestes simples peuvent contribuer à protéger les personnes, les données et les services qui soutiennent la mission de l'Université.
+- Diverses activités et ressources seront proposées tout au long du Mois, dont deux webinaires interactifs: 20 octobre, de 12h à 13h Renforcez vos cyberréflexes!.
+- Grâce à des exemples concrets et à des mises en situation, découvrez comment reconnaître les signaux d'alerte, éviter les pièges les plus courants et adopter les bons réflexes en cas de situation suspecte.
 
-## [Cyberattaque : 700 000 personnes potentiellement touchées, des RIB pourraient être concernés](https://www.femmeactuelle.fr/actu/news-actu/cyberattaque-700-000-personnes-potentiellement-touchees-des-rib-pourraient-etre-concernes-2212122)  
-*Source : femmeactuelle.fr | Publication : 2026-10-04*
+## [Grille des salaires marketing, digital et tech en 2027 : les postes les mieux rémunérés en France](https://www.blogdumoderateur.com/grille-salaires-marketing-digital-tech-2027-postes-mieux-remuneres-france/)  
+*Source : blogdumoderateur.com | Publication : 2026-10-05*
 
-- Une nouvelle fuite de données personnelles de grande ampleur ?.
-- Samedi 3 octobre 2026, la région Hauts-de-France a annoncé que deux de ses prestataires, Atexo et Docaposte, avaient été victimes d'une cyberattaque.
-- Celle-ci a permis un "accès non autorisé à des données personnelles traitées pour son compte", a indiqué la collectivité, selon les informations rapportées par Le Parisien ce dimanche 4 octobre.
-- Les premières investigations ont permis d'identifier plusieurs types d'informations susceptibles d'avoir été compromises.
+- Grille des salaires marketing, digital et tech en 2027 : les postes les mieux rémunérés en France Le cabinet Robert Half dévoile ses projections de salaires à l’embauche pour 2027.
+- Tour d’horizon des grilles attendues et des compétences qui devraient peser dans les négociations.
+- Les experts en cybersécurité et en IA devraient rester parmi les profils les plus recherchés l’an prochain.
+- C’est l’un des enseignements du Guide des salaires 2027 publié par le cabinet de recrutement Robert Half, qui détaille les rémunérations dans les métiers de l’IT, du digital et du marketing en France.
 
-## [<b>Cybersécurité</b> : l'IA ne crée pas les failles, elle les déterre : Actualités - Orange Actu](https://actu.orange.fr/monde/cybersecurite-l-ia-ne-cree-pas-les-failles-elle-les-deterre-magicExpress-CNT000002sjvbn.html)  
-*Source : actu.orange.fr | Publication : 2026-10-04*
+## [KERING Stage en Cyber Threat Intelligence (Stratégique)](https://www.kering.com/fr/talent/offres-d-emploi/europe/kering-stage-en-cyber-threat-intelligence-strategique/)  
+*Source : kering.com | Publication : 2026-10-05*
 
-- Cybersécurité : l'IA ne crée pas les failles, elle les déterre © picture alliance / Consolidated News Photos - Sam Altman (OpenAI) et Mark Zuckerberg (Meta) au dîner servi à la Maison-Blanche en l'honneur de Xi Jinping, le 24 septembre 2026.
-- Tech.
-- Les grands modèles d'intelligence artificielle nous ouvrent les yeux sur les failles qui dorment dans nos systèmes informatiques, détaille notre chroniqueur.
-- La productivité des ingénieurs de Mozilla au printemps dernier laisse coi.
+- 0 résultat pour "" 05/10/2026 Au sein de l’équipe CERT en charge des activités "Detect & React" vous participerez activement au renforcement des activités de Cyber Threat Intelligence (CTI) et au développement du CERT dans un groupe international.
+- Vous serez plongé(e) au cœur du fonctionnement d’une équipe de cybersécurité, en participant à la vie quotidienne d’une équipe de réponse à incident.
+- Nous sommes actuellement à la recherche d’un(e) stagiaire en Cyber Threat Intelligence (Stratégique) pour intégrer le pôle CTI de l’équipe CERT.
+- Votre opportunité Ce stage permet d’intégrer le pôle Cyber Threat Intelligence du CERT d’un grand groupe de luxe.
 
-## [Le fléau cyber prend de l'ampleur et deux scénarios se distinguent : c'est quoi le LLM-jacking](https://www.numerama.com/cyberguerre/2345263-le-fleau-cyber-prend-de-lampleur-et-deux-scenarios-se-distinguent-cest-quoi-le-llm-jacking.html)  
-*Source : numerama.com | Publication : 2026-10-04*
+## [Octobre, mois de la <b>cybersécurité</b> - CHIP FM](https://chipfm.com/octobre-mois-de-la-cybersecurite)  
+*Source : chipfm.com | Publication : 2026-10-05*
 
-- C’est une pratique qui offre aux hackers un accès bon marché aux modèles les plus coûteux du secteur.
-- Le 26 septembre, John Hultquist, analyste en chef du Google Threat Intelligence Group, a alerté, dans un entretien au Financial Times, sur la recrudescence du LLM-jacking.
-- Si la menace n’est pas nouvelle, l’expert explique observer une forte hausse du phénomène en 2026.
-- Selon le Financial Times, l’accès illicite à l’IA devient l’une des marchandises les plus recherchées de l’économie souterraine, convoitée aussi bien par des cybercriminels isolés que par des groupes APT, ces équipes de pirates aguerris souvent liées à des États.
+- Octobre, mois de la cybersécurité Octobre, mois de la cybersécurité Octobre est le Mois de la sensibilisation à la cybersécurité.
+- C’est l’occasion parfaite de prendre quelques minutes pour faire le point sur nos habitudes en ligne.
+- De nos jours, nos téléphones, nos ordinateurs et nos comptes en ligne contiennent énormément d’informations personnelles.
+- Et les fraudeurs sont constamment à la recherche de nouvelles façons de nous piéger.
 
-## [Des milliers de stagiaires rejoignent les établissements et de nouvelles spécialités ouvertes](https://www.aps.dz/fr/algerie/education-et-technologie/muty7tfe-des-milliers-de-stagiaires-rejoignent-les-etablissements-et-de-nouvelles-specialites-ouvertes)  
-*Source : aps.dz | Publication : 2026-10-04*
+## [Stanislas de Goriainoff, CTO Sewan : « Pourquoi les PME ne peuvent plus gérer seules leur ...](https://www.zdnet.fr/tribune/stanislas-de-goriainoff-cto-sewan-pourquoi-les-pme-ne-peuvent-plus-gerer-seules-leur-cybersecurite-504758.htm)  
+*Source : zdnet.fr | Publication : 2026-10-05*
 
-- Site en maintenance Nous améliorons votre expérience Notre équipe travaille activement pour vous offrir un service optimisé.
-- Merci de votre patience.
-- Copyright © 2026 Algérie Presse Service - Tous droits réservés Nous améliorons votre expérience Notre équipe travaille activement pour vous offrir un service optimisé.
-- Merci de votre patience.
+- Une PME industrielle dont la chaîne de production est à l'arrêt ou un cabinet comptable privé d'accès aux dossiers de ses clients… Dans ces exemples, le problème n'est pas une simple panne informatique : c'est l'entreprise elle-même qui cesse de fonctionner.
+- C'est sans doute le plus grand paradoxe de la transformation numérique.
+- Jamais les TPE et PME n'ont autant dépendu de leurs outils informatiques, et pourtant beaucoup continuent de considérer la cybersécurité comme un sujet technique, secondaire ou réservé aux grandes entreprises.
+- Cette perception est désormais dépassée.
 
-## [L'État du Qatar participe à la 36ᵉ réunion des ministres de la Justice des États membres du ...](https://qna.org.qa/fr-FR/News-Area/News/2026-10/4/letat-du-qatar-participe-a-la-36ᵉ-reunion-des-ministres-de-la-justice-des-etats-membres-du-conseil-de-cooperation-du-golfe)  
-*Source : qna.org.qa | Publication : 2026-10-04*
+## [L'Agence nationale de <b>cybersécurité</b> organise la 5ᵉ édition de la Conférence qatarie sur la ...](https://qna.org.qa/fr-FR/News-Area/News/2026-10/5/lagence-nationale-de-cybersecurite-organise-la-5ᵉ-edition-de-la-conference-qatarie-sur-la-gouvernance-et-lassurance-en-matiere-de-cybersecurite)  
+*Source : qna.org.qa | Publication : 2026-10-05*
 
-- L’État du Qatar participe à la 36ᵉ réunion des ministres de la Justice des États membres du Conseil de coopération du Golfe Manama, le 4 octobre /QNA/ L’État du Qatar a participé à la 36ᵉ réunion de Leurs Excellences les ministres de la Justice des États membres du Conseil de coopération du Golfe, tenue aujourd’hui à Manama, capitale du Royaume de Bahreïn.
-- La délégation de l’État du Qatar était conduite par Son Excellence M. Ibrahim bin Ali Al Mohannadi, ministre de la Justice et ministre d’État aux Affaires du Conseil des ministres.
-- La réunion a porté sur plusieurs questions visant à renforcer la coopération judiciaire, juridique et législative entre les États membres, notamment la politique de consolidation de la coopération entre leurs ministères de la Justice, le projet de règles unifiées relatives à la lutte contre la cybercriminalité, ainsi qu’un ensemble d’initiatives liées à l’action juridique et judiciaire conjointe des pays du Golfe.
+- L’Agence nationale de cybersécurité organise la 5ᵉ édition de la Conférence qatarie sur la gouvernance et l’assurance en matière de cybersécurité Doha, le 5 octobre /QNA/ Sous le patronage de Son Excellence Cheikh Mohammed bin Abdulrahman bin Jassim Al Thani, Premier ministre et ministre des Affaires étrangères, l’Agence nationale de cybersécurité a organisé aujourd’hui la 5ᵉ édition de la Conférence qatarie sur la gouvernance et l’assurance en cybersécurité, placée sous le thème « Sécuriser l’avenir numérique à l’ère de la convergence ».
+- Les travaux de la conférence se sont déroulés en présence de Son Excellence M. Mohammed bin Ali Al Mannai, ministre des Communications et des Technologies de l’information, de Son Excellence l’ingénieur Abdulrahman bin Ali Al Farahid Al Malki, président de l’Agence nationale de cybersécurité, ainsi que de plusieurs hauts responsables et représentants d’organismes gouvernementaux et d’entreprises privées du pays.
+- La conférence a été marquée par le lancement du cadre national de gestion des risques cybernétiques et du cadre institutionnel de gestion des risques cybernétiques, ainsi que par l’annonce de plusieurs initiatives qualitatives reflétant une orientation stratégique visant à renforcer la cybersécurité.
+- Dans son allocution d’ouverture, Son Excellence le président de l’Agence nationale de cybersécurité a souligné que la sécurisation de l’avenir numérique constitue désormais une responsabilité stratégique qui va au-delà de la simple protection des systèmes, pour englober la préservation de la confiance, de la continuité et de la capacité d’adaptation.
 
-## [Comment une faille logicielle a entraîné des fuites de données de l'Etat, touchant jusqu'à l ...](https://www.liberation.fr/checknews/comment-une-faille-logicielle-a-entraine-des-fuites-de-donnees-de-letat-touchant-jusqua-lagence-de-cybersecurite-20261004_QKGW47ZOFJE2XA54VDLN3EXCJ4/)  
-*Source : liberation.fr | Publication : 2026-10-04*
+## [Submergé par l'IA, Google prend une décision radicale en matière de <b>cybersécurité</b>](https://www.01net.com/actualites/submerge-ia-google-suspend-programme-recompenses-failles-open-source.html)  
+*Source : 01net.com | Publication : 2026-10-05*
 
-- Comment une faille logicielle a entraîné des fuites de données de l'Etat, touchant jusqu'à l'agence de cybersécurité.
-- Réservé aux abonnés.
-- Dévoilée et.
+- Le 1er octobre 2026, Google a mis en pause son programme de récompenses dédié aux failles dans les logiciels open source, l’OSS VRP.
+- Le géant de Mountain View pointe du doigt une explosion des rapports de vulnérabilités générés automatiquement par l’intelligence artificielle.
+- Google souligne que la grande majorité des rapports ne vaut rien.
+- 📢 PSA for open-source bug hunters We are temporarily no longer accepting OSS VRP product vulnerability submissions.
 
-## [À Crac'h, un atelier thématique pour sensibiliser à la <b>cybersécurité</b> - Le Télégramme](https://www.letelegramme.fr/morbihan/crach-56950/a-crach-un-atelier-thematique-pour-sensibiliser-a-la-cybersecurite-7130518.php)  
-*Source : letelegramme.fr | Publication : 2026-10-04*
+## [Une semaine dans le domaine de la sécurité (28 septembre - 4 octobre) - Malwarebytes](https://www.malwarebytes.com/fr/blog/news/2026/10/a-week-in-security-september-28-october-4-2)  
+*Source : malwarebytes.com | Publication : 2026-10-05*
 
-- Le premier atelier thématique sur la cybersécurité a rassemblé une trentaine de personnes attentives, qui ont posé beaucoup de questions.
-- Samedi matin.
+- La semaine dernière Malwarebytes Labs : Des sites frauduleux comme xStocks, Pendle et d'autres appâtent les utilisateurs de cryptomonnaies avec des votes récompensés.
+- - L'IA fantôme expliquée : le raccourci professionnel qui pourrait révéler les secrets de votre entreprise - Des courriels d'hameçonnage mobiles gratuits et convaincants apparaissent après une fuite de données - Malwarebytes Remporte un autre prix de Meilleur Produit lors de tests indépendants - Une faille de sécurité au Pentagone expose les numéros de sécurité sociale et les dossiers militaires de millions de personnes.
+- - Selon un rapport, l'IA de DraftKings inciterait les parieurs perdants à miser davantage.
+- - Hackers Voler des dossiers d'ordonnances de protection et de placement familial auprès des tribunaux de l'Arizona - L'application de votre voiture pourrait révéler aux géants du numérique votre identité et vos déplacements.
 
-## [Cyberattaque chez Groupe Euroditel : 616.3 Go de données dérobés par un... - FrenchBreaches](https://frenchbreaches.com/alertes/groupe-euroditel-rw_WlhWeWIyUnBkR1ZzTG1OdmJVQnJjbmxpYVhRPQ)  
-*Source : frenchbreaches.com | Publication : 2026-10-04*
+## [Gigantesque fuite de données personnelles au Danemark, un incident “très grave”](https://www.courrierinternational.com/article/cybersecurite-gigantesque-fuite-de-donnees-personnelles-au-danemark-un-incident-tres-grave_276157)  
+*Source : courrierinternational.com | Publication : 2026-10-05*
 
-- Cyberattaque en France : Euroditel revendiqué victime du ransomware Krybit, 616 Go de données annoncés Le groupe français Euroditel, spécialisé dans les télécommunications et l’intégration de systèmes informatiques, aurait été victime d’une importante cyberattaque.
-- Le groupe de ransomware Krybit revendique l’opération et affirme avoir compromis l’infrastructure de l’entreprise.
-- Près de 616 Go de données revendiqués Selon les informations publiées par les cybercriminels, environ 615,98 Go de données auraient été récupérés lors de l’attaque.
-- Krybit va plus loin et affirme avoir obtenu un accès aux réseaux administrés par Euroditel.
+- L’alerte générale a été donnée lundi 5 octobre au petit matin.
+- Des données personnelles de 8,8 millions de Danois ont fuité du système central d’enregistrement de la population du royaume, géré par le ministère de la Science, de l’Enseignement supérieur et des Affaires numériques.
+- Se retrouvent ainsi dans la nature des millions de numéros CPR (l’équivalent des numéros de Sécurité sociale), d’adresses postales et numériques, de coordonnées téléphoniques, etc. “Il s’agit d’un incident extrêmement grave”, a admis la ministre en exercice, Christina Egelund, dans un communiqué cité lundi par de nombreux médias, dont le site de la radio publique DR.
+- Sont concernées la majeure partie des 11 millions de personnes enregistrées dans le système, y compris de nombreux Danois morts ainsi que d’autres domiciliés à l’étranger.
 
-## [<b>Ransomware</b> Warlock : des failles SharePoint encore exploitées contre des infrastructures publiques](https://android-mt.ouest-france.fr/news/ransomware-warlock-des-failles-sharepoint-encore-exploitees-contre-des-infrastructures-publiques/224265/)  
-*Source : android-mt.ouest-france.fr | Publication : 2026-10-04*
+## [Fleuret AI réalise une levée de fonds - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/biz-it/957-levees-de-fonds/65336-fleuret-ai-realise-une-levee-de-fonds.html)  
+*Source : linformaticien.com | Publication : 2026-10-05*
 
-- En bref Warlock a touché au moins quatre organisations en deux mois - Les cibles sont situées dans des pays hispanophones et lusophones - Le groupe exploite des failles SharePoint, anciennes et nouvelles - Un acteur malveillant suspecté d’avoir des liens avec la Chine, connu sous le nom de Warlock, continue d’exploiter des failles de Microsoft SharePoint pour s’introduire dans des réseaux, couper les outils de sécurité, puis lâcher un ransomware.
-- L’unité de cybersécurité Symantec et Carbon Black, propriété de Broadcom, a observé cette activité toucher des infrastructures critiques, des organismes publics et des établissements d’enseignement.
-- Des cibles en Europe, en Afrique et en Amérique latine Selon Symantec, le groupe, aussi suivi sous les noms Gold Salem, Longlegs ou Storm-2603, a frappé au moins quatre organisations en deux mois : deux opérateurs d’infrastructures critiques (une entreprise de distribution d’eau et un opérateur télécoms), un organisme gouvernemental régional et une université.
-- Les victimes se trouvaient dans des pays hispanophones et lusophones, répartis entre l’Europe, l’Afrique et l’Amérique latine.
+- L'opération a été menée par par RAISE Ventures, aux côtés de Auriga Cyber Ventures, Wind, Better Angle et de business angels de référence dans l'.
 
-## [<b>Cybersécurité</b> : l'IA ne crée pas les failles, elle les déterre - L'Express](https://www.lexpress.fr/economie/high-tech/cybersecurite-lia-ne-cree-pas-les-failles-elle-les-deterre-6LFXVUYPWVAK3JPJKYOED7K6T4/)  
-*Source : lexpress.fr | Publication : 2026-10-04*
+## [NIS2 : ce qu'il faut attendre du projet de loi examiné - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/nis2-ce-quil-faut-attendre-du-projet-de-loi-examine-a-lassemblee-nationale-229520)  
+*Source : silicon.fr | Publication : 2026-10-05*
 
-- La productivité des ingénieurs de Mozilla au printemps dernier laisse coi.
-- D'ordinaire, les équipes livrent en moyenne entre 20 et 30 correctifs de sécurité par mois pour le navigateur Firefox que leur fondation gère.
-- En avril, elles en ont sorti pas moins de 423.
-- Le navigateur n’a pas significativement changé.
+- La France va-t-elle enfin transposée la directive européenne NIS2, deux ans après la date initialement prévue dans le calendrier de la Commission Européenne.
+- Bruxelles avait, en effet, fixé l’échéance de transposition dans les droits nationaux au 17 octobre 2024.
+- Attendu à l’ordre du jour de la session parlementaire extraordinaire de juillet, le Projet de loi relatif à « la résilience des infrastructures critiques et au renforcement de la cybersécurité » qui porte la transposition de NIS 2 , c’est finalement en séance publique que le projet de loi n° 1112, relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité, sera examiné Le projet de loi ne se limite pas à NIS2.
+- Il transpose également trois directives européennes adoptées en 2022 : la directive REC sur la résilience des entités critiques, NIS2 sur la cybersécurité et la directive associée au règlement DORA pour la résilience opérationnelle numérique du secteur financier.
 
-## [Une faille du logiciel Metabase expose 118 comptes de l'ANSSI, l'agence française de ...](https://barlamane.com/fr/une-faille-du-logiciel-metabase-expose-118-comptes-de-lanssi-lagence-francaise-de-cybersecurite-et-deux-plates-formes-de-la-dinum/)  
-*Source : barlamane.com | Publication : 2026-10-04*
+## [<b>Cybersécurité</b> : les épineuses questions du projet de loi « résilience » - Les Echos](https://www.lesechos.fr/tech-medias/hightech/cybersecurite-les-epineuses-questions-du-projet-de-loi-resilience-2255192)  
+*Source : lesechos.fr | Publication : 2026-10-05*
 
-- L'agence de cybersécurité range les données dérobées à la DINUM parmi les informations «déjà publiques».
-- L'ANSSI a appliqué les correctifs sur ses.
+- Le projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité , déposé le 15 octobre 2024 par le.
 
-## [<b>Cybersécurité</b> : l'EMSI confronte 665 étudiants à une simulation de crise grandeur nature](https://www.leconomiste.com/flash-infos/cybersecurite-lemsi-confronte-665-etudiants-a-une-simulation-de-crise-grandeur-nature/)  
-*Source : leconomiste.com | Publication : 2026-10-04*
+## [Fuite de données IFAPME : 700.000 Belges exposés - RTL Info](https://www.rtl.be/actu/belgique/societe/cest-mieux-de-raccrocher-les-donnees-de-plus-de-700000-wallons-exposees-sur-le/2026-10-05/article/802284)  
+*Source : rtl.be | Publication : 2026-10-05*
 
-- L'EMSI organise, du 23 au 25 septembre 2026, un exercice immersif consacré à la gestion des crises cyber, en partenariat avec Cybersup,.
+- Partager: Les données personnelles de plus de 700.000 personnes se retrouvent gratuitement accessibles sur le dark web.
+- Elles proviennent de l’IFAPME, l’Institut wallon de formation en alternance et des indépendants et petites et moyennes entreprises, victime d’un piratage informatique en février dernier.
+- Face à cette fuite, le Centre pour la cybersécurité Belgique appelle à la prudence.
+- Son directeur, Miguel De Bruycker, s’inquiète notamment de l’évolution rapide des techniques utilisées par les cybercriminels : « Je dois être honnête, je suis quand même un tout petit peu inquiet.
 
-## [Portes ouvertes des jardins partagés toulousains](https://toulouse7.com/2026/10/04/portes-ouvertes-des-jardins-partages-toulousains/)  
-*Source : toulouse7.com | Publication : 2026-10-04*
+## [SMART CAPITAL - La <b>cybersécurité</b>, nouvelle priorité ? - Vidéo Dailymotion](https://www.dailymotion.com/video/xbif64a)  
+*Source : dailymotion.com | Publication : 2026-10-05*
 
-- Les jardins partagés ouvrent leurs portes aux Toulousains en ce début d’automne.
-- Au programme : ateliers, démonstrations, conseils, animations pour en savoir plus sur le fonctionnement de ces terres cultivées par les habitants dans le respect de l’environnement, propices à des moments de convivialité.
-- Tous les jardins partagés disposent de terres cultivables sur des terrains appartenant à la Collectivité qui accompagne les habitants pour développer ces îlots de nature et favoriser le lien social.
-- 32 jardins partagés existent aujourd’hui à Toulouse.
+- Skip to player Skip to main content Watch fullscreen.
+- SMART CAPITAL - La cybersécurité, nouvelle priorité ?.
 
-## [Le Portugal occupe la 19e place en Europe en termes d'exposition à la <b>cybercriminalité</b>](https://www.theportugalnews.com/fr/nouvelles/2026-10-04/le-portugal-occupe-la-19e-place-en-europe-en-termes-dexposition-a-la-cybercriminalite/1095902)  
-*Source : theportugalnews.com | Publication : 2026-10-04*
+## [SMART CAPITAL - La <b>cybersécurité</b>, nouvelle priorité ?](https://www.bsmart.fr/video/35131-smart-capital-06-octobre-2026)  
+*Source : bsmart.fr | Publication : 2026-10-05*
 
-- Parmi les pays européens, le Portugal s'est classé 19e en termes de fréquence à laquelle les clients ont été touchés par des cyberattaques au cours du premier semestre 2026.
-- Dans sa septième édition, le rapport souligne le rôle croissant de l’intelligence artificielle dans le paysage de la cybersécurité, celle-ci étant utilisée tant par les attaquants que par les équipes de sécurité pour accélérer les processus et opérer à grande échelle.
-- Intentions des utilisateurs Pour les cybercriminels, cette technologie permet de découvrir des vulnérabilités, d’analyser des informations et d’adapter leurs attaques plus rapidement.
-- De leur côté, les équipes de sécurité utilisent l’IA pour identifier et enquêter sur les menaces, ainsi que pour y répondre plus efficacement.
+- La cybersécurité, nouvelle priorité ?.
+- Mardi 6 octobre 2026, retrouvez Nathalie Malicet (Expert-Comptable et CAC, ANEXIS) et Sylvain Lefeuvre (Directeur général adjoint, Board of Cyber) dans SMART CAPITAL, une émission présentée par Fabrice Cousté et Arnaud Dumourier.
 
-## [Des pirates nord-coréens se servent du réseau Ethereum pour lancer des cyberattaques](https://www.01net.com/actualites/pirates-nord-coreens-cachent-ordres-ethereum-hashhiding.html)  
-*Source : 01net.com | Publication : 2026-10-04*
+## [Scattered Lapsus$ Hunters : Rey arrêté en Jordanie - LeMagIT](https://www.lemagit.fr/news/366651656/Scattered-Lapsus-Hunters-Rey-arrete-en-Jordanie)  
+*Source : lemagit.fr | Publication : 2026-10-05*
 
-- Fin du mois de septembre 2026, les chercheurs de Ransom-ISAC ont mis au jour une nouvelle astuce de la campagne de piratage XCTDH, attribuée à la Corée du Nord.
-- Les attaquants glissent désormais l’adresse de leur serveur dans des transferts de cryptomonnaie, directement sur la blockchain Ethereum.
-- Les chercheurs ne cachent pas leur admiration face à l’ingéniosité du dispositif.
-- Ils y voient « un haut niveau de créativité et une grande ingéniosité de la part de l’opérateur nord-coréen », et même « une utilisation délibérée et mature des infrastructures blockchain publiques ».
+- zef art - stock.adobe.com Scattered Lapsus$ Hunters : Rey arrêté en Jordanie Reuters vient de révéler l’arrestation, en Jordanie, de celui qui se cachait derrière le pseudonyme Rey.
+- Ancien du groupe de ransomware Hellcat, il emmenait un groupe cherchant à s’attribuer la marque des ShinyHunters.
+- Coup de tonnerre ce samedi 3 octobre : en fin d’après-midi, nos confrères de Reuters font une révélation tonitruante.
+- Saif al-Din Khader a été interpellé en Jordanie, son pays d’origine et de résidence.
 
-## [<b>Cybersécurité</b>: pourquoi la France a-t-elle autant tardé pour renforcer sa protection? | LCP](https://lcp.fr/actualites/cybersecurite-pourquoi-la-france-a-t-elle-autant-tarde-pour-renforcer-sa-protection?amp)  
-*Source : lcp.fr | Publication : 2026-10-04*
+## [Le ministère de la Police et l'Université Concordia renforcent leur coopération](https://lecourrier.vn/le-ministere-de-la-police-et-luniversite-concordia-renforcent-leur-cooperation-technologique/1356759.html)  
+*Source : lecourrier.vn | Publication : 2026-10-05*
 
-- Cybersécurité: pourquoi la France a-t-elle autant tardé pour renforcer sa protection?.
-- Quasiment deux ans après sa présentation en Conseil des ministres, le projet de loi sur le renforcement de la cybersécurité n'a toujours pas été définitivement adopté par le Parlement.
-- En raison, notamment, de désaccords autour du chiffrement, qui ont retardé l'examen du texte à l'Assemblée nationale.
-- C'est un retard qui vaut à la France d'être poursuivie devant la Cour de justice de l’Union européenne.
+- >> Le dirigeant Tô Lâm reçoit le recteur de l’Université Concordia >> Vietnam - Canada : transformer le nouveau partenariat stratégique en projets concrets >> Vietnam - Canada : de nouvelles perspectives de coopération scientifique Le général Luong Tam Quang, membre du Bureau politique et ministre de la Police, a reçu lundi 5 octobre à Hanoï le Professeur Graham Carr, recteur et vice-chancelier de l'Université Concordia (Canada), pour discuter du développement de la coopération bilatérale dans les domaines technologiques de pointe.
+- Saluant la visite de la délégation canadienne, le ministre Luong Tam Quang a exprimé sa haute appréciation pour les résultats de la récente mission officielle d’une haute délégation vietnamienne au Canada en septembre dernier, félicitant notamment l'Université Concordia pour la signature d'un protocole d'accord avec le ministère vietnamien de l'Éducation et de la Formation.
+- Le ministre Luong Tam Quang a souligné que l’Université Concordia disposait d’expertises dans des domaines tels que l’intelligence artificielle (IA), la cybersécurité, la gouvernance des données, l’Internet des objets (IoT), les technologies numériques et les systèmes intelligents, ainsi que d’une expérience dans la formation de ressources humaines hautement qualifiées et de cadres dirigeants.
+- Ces domaines revêtent une importance croissante pour la sécurité et l’ordre publics dans le contexte de la transformation numérique et du développement rapide des sciences et technologies.
 
-## [Les cybercriminels utilisent un langage secret qui a été inventé dans les goulags de Staline](https://www.slate.fr/culture/cybercriminel-langage-secret-goulag-staline-internet-argot-russie?amp)  
-*Source : slate.fr | Publication : 2026-10-04*
+## [Construire un environnement numérique transparent, responsable et résilient - CORDIS](https://cordis.europa.eu/article/id/467856-building-a-digital-environment-that-is-transparent-accountable-and-resilient/fr)  
+*Source : cordis.europa.eu | Publication : 2026-10-05*
 
-- Quand est-ce que tu te cacherais dans une framboise?.
-- Pourquoi tu ne veux pas être un six?.
-- Et qu'est-ce que ça veut dire d'aller à l'akademiya?.
-- Vous n'y comprenez rien?.
+- Construire un environnement numérique transparent, responsable et résilient Les nouvelles réglementations européennes en matière de cybersécurité créent des difficultés importantes pour les développeurs technologiques et les organisations, soumis à une pression croissante pour comprendre et mettre en œuvre de nouvelles exigences.
+- Le projet CCAT(s’ouvre dans une nouvelle fenêtre) s’attaque à ce problème en adaptant quatre outils open source qui permettent une évaluation continue de la cybersécurité des produits et services numériques.
+- Une seule évaluation ne suffit pas En Europe, le développement des produits TIC progresse plus vite que la mise en œuvre du règlement européen sur la cybersécurité(s’ouvre dans une nouvelle fenêtre) et du règlement sur la cyberrésilience(s’ouvre dans une nouvelle fenêtre).
+- Le fait que de nombreux produits précédemment certifiés dans le cadre de dispositifs de certification de sécurité existants continuent d’être reconfigurés, intégrés dans des systèmes plus vastes et exposés à des vulnérabilités nouvellement découvertes met une chose en évidence: une certification ponctuelle ne suffit pas.
