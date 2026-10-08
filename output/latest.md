@@ -1,150 +1,154 @@
-# Résumés – 2026-10-07
+# Résumés – 2026-10-08
 
 
-## [L'IA au centre des nouvelles <b>cybermenaces</b> - 06/10 - BFM](https://www.bfmtv.com/economie/replay-emissions/01-business/video-l-ia-au-centre-des-nouvelles-cybermenaces-06-10_VN-202610060977.html)  
-*Source : bfmtv.com | Publication : 2026-10-06*
+## [Top 10 des fournisseurs de services de sécurité managés (MSSP) en 2024](https://www.enterprisenetworkingplanet.com/security/top-10-des-fournisseurs-de-services-de-securite-manages-mssp-pour-2024/)  
+*Source : enterprisenetworkingplanet.com | Publication : 2026-10-08*
 
-- L'IA au centre des nouvelles cybermenaces - 06/10 Ce mardi 6 octobre, Michel Juvin, ecosystem advisor chez Alliancy, Benoit Grunemwald, expert en Cybersécurité chez ESET, et Gérôme Billois, associé en cybersécurité et confiance numérique au sein du cabinet Wavestone, sont revenus sur les nouvelles menaces liées à l'IA, le changement de mentalité des entreprises et la lutte contre l'explosion des fuites de données, dans l'émission Tech&Co Business présentée par Frédéric Simottel.
-- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.
-- | Durée : 25:02.
+- Accenture: Idéal pour la cybersécurité et les services MSSP à l'échelle mondiale.
+- SecureWorks: Idéal pour le renseignement proactif sur les menaces et.
 
-## [<b>Cybersécurité</b> : l'IA change les règles du jeu - 06/10 - BFM](https://www.bfmtv.com/economie/replay-emissions/01-business/video-cybersecurite-l-ia-change-les-regles-du-jeu-06-10_VN-202610060956.html)  
-*Source : bfmtv.com | Publication : 2026-10-06*
+## [Sandrine Tarnaud, DG France de Palo Alto Networks, analyse les difficultés de la défense cyber](https://www.usine-digitale.fr/cybersecurite/trop-doutils-dans-les-grandes-entreprises-trop-peu-dans-les-petites-sandrine-tarnaud-dg-france-de-palo-alto-networks-analyse-les-difficultes-de-la-defense-cyber.UWTIHSTR5RGLPD5J2WDAFQCHUA.html)  
+*Source : usine-digitale.fr | Publication : 2026-10-07*
 
-- Cybersécurité : l’IA change les règles du jeu - 06/10 Ce mardi 6 octobre, Renaud Bidou, directeur système d'ingénierie Benelux et Europe du Sud chez Fortinet et Abdel Regragui, responsable solutions, cybersécurité et résilience EMEA chez Dell, se sont penchés sur l’IA qui change les règles du jeu en cybersécurité, dans l'émission Tech&Co Business présentée par Frédéric Simottel.
-- Tech&Co Business est à voir ou écouter le mardi sur BFM Business.
-- | Durée : 16:38.
+- Multiplier les outils cyber permet-il vraiment de mieux se protéger ?.
+- À l'occasion des Assises de la sécurité à Monaco, L'Usine Digitale a échangé.
 
-## [Pourquoi les attaques basées sur l'identité deviennent une <b>cybermenace</b> de premier plan](https://www.crisis24.com/fr/articles/pourquoi-les-attaques-basees-sur-lidentite-deviennent-une-cybermenace-de-premier-plan)  
-*Source : crisis24.com | Publication : 2026-10-06*
+## [<b>Cybersécurité</b> : ce que l'IA change pour nos réflexes - Sécurité de l'information](https://www.usherbrooke.ca/securite-info/nouvelles/details/59433)  
+*Source : usherbrooke.ca | Publication : 2026-10-07*
 
-- Analyse Pourquoi les attaques basées sur l’identité deviennent une cybermenace de premier plan.
-- / 2 mins de lecture Les attaquants changent de cible.
-- Plutôt que d’investir du temps et des ressources dans l’exploitation des vulnérabilités des réseaux, les acteurs malveillants ont de plus en plus recours aux attaques basées sur l’identité, car compromettre des utilisateurs de confiance, des sessions, des appareils et des identités machine est souvent plus rapide, plus facile et moins visible que de contourner les défenses réseau.
-- Cette évolution est importante, car des identités compromises peuvent donner aux attaquants un accès direct aux paiements, aux données clients, aux portails fournisseurs, aux systèmes de production et aux processus soumis à des exigences réglementaires.
+- Point de vue d’expert Cybersécurité : ce que l’IA change pour nos réflexes Les menaces de demain sont au cœur des travaux de l’expert en cybersécurité post-quantique Marc Frappier.
+- Mais déjà, aux yeux du directeur scientifique du Pôle d’expertises en cybersécurité Intact de l’UdeS, l’intelligence artificielle (IA) représente un enjeu bien réel pour les organisations.
+- De plus en plus performante pour repérer les vulnérabilités des systèmes et concevoir des attaques informatiques, elle change la donne… et appelle à la vigilance.
+- Professeur au Département d’informatique de la Faculté des sciences, Marc Frappier dirige également la Chaire de recherche en cybersécurité post-quantique. «.
 
-## [ITW-<b>Cybersécurité</b>, norme NIS 2 et résilience SI | REX VIF (Agoravif 2026) - YouTube](https://www.youtube.com/watch?v=OaTatfIvju8)  
-*Source : youtube.com | Publication : 2026-10-06*
+## [Telecom Nancy collecte des objets connectés pour former ses futurs experts en <b>cybersécurité</b>](https://www.lasemaine.fr/enseignement-formation/telecom-nancy-collecte-des-objets-connectes-pour-former-ses-futurs-experts-en-cybersecurite/)  
+*Source : lasemaine.fr | Publication : 2026-10-07*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Une caméra, une montre connectée, un drone ou encore un assistant vocal oublié dans un placard peuvent trouver une nouvelle utilité.
+- Telecom Nancy (université de Lorraine) lance une collecte d’objets connectés, récents ou non, afin de compléter les équipements de son centre d’entraînement à la cybersécurité.
+- Les appareils doivent être fonctionnels et, dans l’idéal, être accompagnés de leur alimentation, chargeur, câbles et accessoires.
+- Des objets pour tester les failles Les équipements récupérés viendront compléter ceux utilisés par les élèves ingénieurs dans le cadre de leur formation. «.
 
-## [Zscaler &amp; TRM Labs Partner on <b>Ransomware</b> Intel | ThreatLabz](https://www.zscaler.com/fr/blogs/partner/trm-labs-and-zscaler-threatlabz-join-forces-track-cybercrime-and-nation-state)  
-*Source : zscaler.com | Publication : 2026-10-06*
+## [Productivité et <b>cybersécurité</b> : un nouveau parcours pour les entreprises du Bas-Saint-Laurent](https://www.cegep-matane.qc.ca/nouvelles/productivite-et-cybersecurite-un-nouveau-parcours-pour-les-entreprises-du-bas-saint-laurent/)  
+*Source : cegep-matane.qc.ca | Publication : 2026-10-07*
 
-- Blog Zscaler Recevez les dernières mises à jour du blog de Zscaler dans votre boîte de réception TRM Labs and Zscaler ThreatLabz Join Forces to Track Cybercrime and Nation-State Blockchain Activity Key takeaways TRM Labs and Zscaler ThreatLabz are partnering to combine leading threat intelligence with advanced blockchain investigations, enabling technical analysis and threat actor attribution to be correlated with the flow of cryptocurrency funds.
-- - Ransomware is a key focus area of the partnership, enabling continuous tracking of threat actors across rebrands and shifting aliases.
-- - The collaboration will produce co-authored research, briefings, and insights for the wider security community.
-- - Zscaler ThreatLabz and TRM Labs are partnering to combine leading cyber threat intelligence with advanced onchain analysis.
+- La Chambre de commerce et d’industrie de La Matanie (CCIM) et Groupe Collegia s’unissent pour lancer Productivité et cybersécurité, un parcours de formation novateur destiné aux PME, aux coopératives et aux organismes à but non lucratif de la Matanie et du Bas-Saint-Laurent qui souhaitent intégrer l’intelligence artificielle (IA) de façon concrète, sécuritaire et durable.
+- Ce projet a été rendu possible grâce à la participation financière du gouvernement du Québec par l’entremise du Fonds de développement et de reconnaissance des compétences de la main-d’œuvre.
+- Conçu spécifiquement pour répondre aux réalités des organisations de la région, ce parcours vise à démystifier l’intelligence artificielle et à accompagner les entreprises dans l’identification et la mise en œuvre d’applications à forte valeur ajoutée.
+- En combinant formation pratique, cybersécurité, conformité à la Loi 25 et accompagnement sur le terrain, les personnes participantes pourront passer de l’expérimentation à une adoption structurée de l’IA, générant des retombées mesurables pour leur organisation.
 
-## [La loi NIS2 encore reportée, nouveau camouflet pour la <b>cybersécurité</b> en France ! - Clubic](https://www.clubic.com/actualite-632920-la-loi-nis2-encore-reportee-nouveau-camouflet-pour-la-cybersecurite-en-france.html)  
-*Source : clubic.com | Publication : 2026-10-06*
+## [<b>Cybercriminalité</b>: la plateforme de photos intimes volées à 17'000 femmes fermée](https://www.24heures.ch/cybercriminalite-la-plateforme-de-photos-intimes-volees-a-17000-femmes-fermee-140616023603)  
+*Source : 24heures.ch | Publication : 2026-10-07*
 
-- Prévu ce mercredi à l'Assemblée nationale, l'examen du projet de loi Résilience, qui transpose la directive NIS2, est une nouvelle fois reporté.
-- La France a près de deux ans de retard sur cette réforme majeure de la cybersécurité.
-- Le report de la loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité, censée transposer la directive NIS2 en droit français, ajoute un chapitre de plus à un dossier qui semble ne jamais vouloir se refermer.
-- Attendu les 7 et 9 octobre à l'Assemblée nationale, le texte qui doit renforcer la sécurité informatique de quelque 15 000 entités dans le pays, repart en salle d'attente, coincé entre un ordre du jour surchargé et une bataille feutrée autour du chiffrement.
+- Traque numÃ©rique franco-amÃ©ricaine NudeLeakTeens vendait des images intimes volÃ©es de plus de 17â000 victimes, dont des mineures.
+- Les enquÃªteurs ont saisi 700â000 euros en cryptomonnaies chez les deux administrateurs prÃ©sumÃ©s.
+- ExtorquÃ©es, piratÃ©es sur les rÃ©seaux sociaux ou Ã©changÃ©es entre prÃ©dateurs: la justice a frappÃ© un coup en France et aux Ãtats-Unis contre le trafic dâimages intimes volÃ©es, en fermant la plateforme NudeLeakTeens, qui aurait fait plus de 17â000 victimes dans le monde, dont des mineures.
+- AnnoncÃ©e de maniÃ¨re synchronisÃ©e des deux cÃ´tÃ©s de lâAtlantique, lâopÃ©ration a notamment conduit Ã lâarrestation mardi dans le nord de la France des deux administrateurs prÃ©sumÃ©s de la plateforme, deux frÃ¨res Ã¢gÃ©s de 21 et 25Â ans, a prÃ©cisÃ© le parquet de Paris dans un communiquÃ©.
 
-## [Désormais reconnu comme un des plus importants rendez-vous cinématographiques ...](https://fr.yna.co.kr/view/MYH20261006011600884?section=video/videos)  
-*Source : fr.yna.co.kr | Publication : 2026-10-06*
+## [<b>Cybersécurité</b> | Un guide canadien contre les <b>cybermenaces</b> - LaPresse.ca](https://www.lapresse.ca/affaires/portfolio/2026-10-07/cybersecurite/un-guide-canadien-contre-les-cybermenaces.php)  
+*Source : lapresse.ca | Publication : 2026-10-07*
 
-- Désormais reconnu comme un des plus importants rendez-vous cinématographiques mondiaux, le BIFF s'ouvre aujourd'hui 06.10.2026 à 15h06 replay time00:41 BUSAN, 06 oct.
-- -- La 31e édition du Festival international du film de Busan (BIFF) débute ce mardi ses 10 jours de programmation, alors que l'événement vient d'intégrer le club très fermé des événements cinématographiques reconnus par la Fédération internationale des associations des producteurs de films (FIAPF) pour leur impact au niveau mondial.
-- Jusqu'au 15 octobre, les spectateurs pourront découvrir dans la deuxième plus grande ville de Corée du Sud 247 films originaires de 59 pays, ce qui fait de cette sélection la plus conséquente depuis 2019, selon les organisateurs.
-- Sur ce total, 95 films seront présentés en première mondiale.
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
 
-## [dSpace intègre de manière transparente les tests de <b>cybersécurité</b> dans la validation SIL et HIL](https://www.mesures.com/informatique-industrielle/dspace-integre-de-maniere-transparente-les-tests-de-cybersecurite-dans-la-validation-sil-et-hil/)  
-*Source : mesures.com | Publication : 2026-10-06*
+## [<b>Cybersécurité</b> : Ariovis installe un pôle technique à Bordeaux Euratlantique](https://www.bougerabordeaux.com/actu/news/cybersecurite-ariovis-pole-technique-bordeaux-euratlantique/)  
+*Source : bougerabordeaux.com | Publication : 2026-10-07*
 
-- Cet article vous à plu ?.
-- Faites le savoir Dans la même rubrique Lecture offerte Le 05/10/2026 à 15:59 par Sophie Eremian Schneider Electric met la main sur PTC Schneider Electric et PTC Inc. ont annoncé aujourd'hui avoir signé un accord définitif aux termes duquel Schneider Electric acquerra PTC… Lecture offerte Le 02/10/2026 à 8:43 par Camille Paschal Isycod réunit robotique et IA lors d'une journée technique Le 8 octobre 2026, Isycod, intégrateur certifié (CSI) d’Universal Robots, consacrera une journée technique à la robotique collaborative et à… Lecture offerte Le 25/09/2026 à 18:56 par Sophie Eremian Lecteur de codes multifonction Le lecteur de codes 1D/2D stationnaire CleverReader détecte les codes avec fiabilité et permet une configuration flexible.
-- Son intégration simple… Lecture offerte Le 25/09/2026 à 8:41 par Camille Paschal IA : Comsol sort sa nouvelle version de Comsol Multiphysics Comsol, spécialiste dans le domaine des logiciels de modélisation et de simulation, a annoncé la sortie prochaine de Comsol Multiphysics….
+- Bordeaux accueille un nouveau pôle de cybersécurité.
+- Ariovis, entreprise créée en région parisienne en 2024, installe à Euratlantique une équipe de conseil et d’intégration spécialisée dans la gestion des identités et des accès numériques.
+- Son objectif : accompagner des organisations du Sud-Ouest tout en travaillant sur des projets nationaux.
+- La société compte une quinzaine de collaborateurs ; l’effectif de sa future équipe bordelaise n’est pas encore précisé.
 
-## [Permanences et atelier <b>cybersécurité</b> à Witry - Actualité illiwap de Mairie de Berru](https://station.illiwap.com/fr/public/51052/actu/permanences-et-atelier-cybersecurite-a-witry)  
-*Source : station.illiwap.com | Publication : 2026-10-06*
+## [54 millions de comptes Airbnb, Uber et PayPal en vente sur le darknet - Korben](https://korben.info/54-millions-de-comptes-airbnb-uber-et-paypal-en-vente-sur-le-darknet.html)  
+*Source : korben.info | Publication : 2026-10-07*
 
-- Permanences et atelier cybersécurité à Witry Bonjour à toutes et tous, France Service organise deux autres journées d'animations à la mairie de Witry-lès-Reims.
-- Rendez-vous lundi 12 octobre au matin pour une animation autour de la cybersécurité, et le jeudi 15 octobre après-midi pour une rencontre avec un responsable de la sécurité sociale pour répondre à vos questions.
-- Inscriptions ouvertes jusqu'au jeudi 8 octobre à 11H, ne tardez pas !.
-- Bonne semaine, Le secrétariat France Service organise deux autres journées d'animations à la mairie de Witry-lès-Reims.
+- 54 millions de comptes Airbnb, Uber et PayPal en vente sur le darknet Ce qu’il faut retenir Résumé généré par IA Un pirate surnommé Marx propose 54 millions d'enregistrements liés à Airbnb, PayPal, Uber, Booking.com et Google sur un forum du darknet, sans prix public et volumes invérifiables.
+- - Les chercheurs de Cybernews pensent qu'il s'agit d'une seule intrusion chez un prestataire d'envoi de SMS, et non cinq piratages distincts comme annoncé.
+- - Marx affirme avoir un accès toujours actif permettant d'intercepter les codes d'authentification à deux facteurs, mais le vendeur n'a aucune réputation et les numéros examinés sont tous indiens ou omanais.
+- - Un pirate qui se fait appeler Marx propose depuis quelques jours, sur un forum criminel du darknet (cette partie d'internet accessible uniquement avec des outils d'anonymisation), un lot de 54 millions d'enregistrements présentés comme liés à Airbnb, PayPal, Uber, Booking.com et Google.
 
-## [<b>Cybersécurité</b> : l'examen du projet de loi « résilience » à nouveau repoussé, malgré l ...](https://www.lefigaro.fr/economie/cybersecurite-l-examen-du-projet-de-loi-resilience-a-nouveau-repousse-malgre-l-augmentation-de-la-menace-20261006)  
-*Source : lefigaro.fr | Publication : 2026-10-06*
+## [351 M$ en pertes: l'explosion de la fraude au Canada - 98.5 Montréal](https://www.985fm.ca/audio/807290/351-m-en-pertes-l-explosion-de-la-fraude-au-canada)  
+*Source : 985fm.ca | Publication : 2026-10-07*
 
-- Cybersécurité : l’examen du projet de loi « résilience » à nouveau repoussé, malgré l’augmentation de la menace DÉCRYPTAGE - Deux ans après avoir été déposé, l’examen de ce texte crucial pour la sécurité d’organisations critiques, privées et publiques, a une nouvelle fois été repoussé à l’Assemblée nationale.
-- Il a été voté au sénat début 2025.
-- Passer la publicitéLa loi sera-t-elle un jour promulguée ?.
-- Ce 17 octobre 2026, la France aura exactement deux ans de retard sur la date limite fixée par Bruxelles pour transposer plusieurs directives liées à la cyberdéfense, dont la très attendue NIS2.
+- Depuis janvier 2026, les pertes financières attribuées à la fraude au pays ont dépassé les 350 millions de dollars.
+- Ce montant ne représenterait que 10 % de l'ensemble des fraudes, puisqu'elles ne sont pas toutes rapportées à la police.
+- À l'occasion du mois de la sensibilisation à la cybersécurité, Benoît Dupont met en garde contre la sophistication croissante des fraudeurs, désormais propulsée par l'intelligence artificielle.
+- Comment la population peut-elle éviter de tomber dans le panneau?.
 
-## [Présentation de Mistral Large 4](https://mistral.ai/fr/news/mistral-large-4/)  
-*Source : mistral.ai | Publication : 2026-10-06*
+## [Offre d'emploi Responsable de la Gestion des Risques Informatiques - Groupe BNP Paribas](https://group.bnpparibas/emploi-carriere/offre-emploi/responsable-de-la-gestion-des-risques-informatiques)  
+*Source : group.bnpparibas | Publication : 2026-10-07*
 
-- Le Chonk Aujourd'hui, nous lançons une préversion publique de Mistral Large 4.
-- Officieusement ML4, très officiellement : le Chonk.
-- ML4 repousse les limites de la performance des modèles à poids ouverts.
-- Vous pouvez dès aujourd'hui essayer l'API de préversion sur Mistral Studio.
+- Aider les équipes IT & cybersécurité à élaborer des plans d'action de remédiation associés aux risques documentés (Risk Card), les consigner dans le.
 
-## [<b>Cybersécurité</b>: Asos ouvre une enquête après l'envoi d'une notification non autorisée à ses clients](https://fr.tradingview.com/news/afp:6677f47a256ea:0/)  
-*Source : fr.tradingview.com | Publication : 2026-10-06*
+## [Malgré l'explosion des cyberattaques et un vote au Sénat début 2025, la loi &quot;résilience&quot;, qui ...](https://www.bfmtv.com/tech/cybersecurite/malgre-l-explosion-des-cyberattaques-et-un-vote-au-senat-debut-2025-la-loi-resilience-qui-porte-sur-le-renforcement-de-la-cybersecurite-et-des-infrastructures-critiques-voit-son-examen-de-nouveau-reporte-a-l-assemblee-nationale_AV-202610070820.html)  
+*Source : bfmtv.com | Publication : 2026-10-07*
 
-- Cybersécurité: Asos ouvre une enquête après l'envoi d'une notification non autorisée à ses clients Le vendeur britannique de vêtements en ligne Asos a annoncé mardi avoir ouvert une enquête après la diffusion, à son insu, d'une notification à ses clients affirmant que l'entreprise avait été piratée et menaçant de divulguer leurs données personnelles.
-- L'enquête porte "sur une activité non autorisée impliquant des plateformes tierces que nous utilisons pour communiquer avec nos clients", précise l'entreprise dans un communiqué.
-- La notification a été envoyée mardi "aux alentours de 10 heures", ajoute Asos, qui assure avoir "immédiatement pris des mesures pour restreindre l'accès à ces plateformes de notification".
-- Selon des captures d'écran publiées sur X, relayées par des médias britanniques, le message a été reçu sur téléphone via l'application.
+- Malgré l'explosion des cyberattaques et un vote au Sénat début 2025, la loi "résilience", qui porte sur le renforcement de la cybersécurité et des infrastructures critiques, voit son examen de nouveau reporté à l'Assemblée nationale Adoptée au sein de l'Union européenne en 2022, la directive NIS2 doit permettre d'harmoniser les normes en matière de cybersécurité entre les administrations publiques et les entreprises privées des 27 pays-membres.
+- Mais problème: si sa transposition au niveau français a été votée début 2025 au Sénat, elle attend toujours son examen à l'Assemblée nationale, faute de temps parlementaire disponible.
+- Une situation qui risque encore de durer.
+- Car si un espoir avait commencé à s'entrevoir parmi les spécialistes cyber, celui-ci est désormais douché: un nouveau report de la loi, dite "résilience", a finalement été acté.
 
-## [« Ceux qui fixent les normes façonnent les marchés de demain » : l'UE refond son système ...](https://www.lesechos.fr/monde/europe/ceux-qui-fixent-les-normes-faconnent-les-marches-de-demain-lue-refond-son-systeme-de-normalisation-pour-damer-le-pion-a-la-chine-et-aux-etats-unis-2255404)  
-*Source : lesechos.fr | Publication : 2026-10-06*
+## [Une vague de cyberattaques frappe les entreprises au Japon et en Corée du Sud](https://www.courrierinternational.com/article/piratage-une-vague-de-cyberattaques-frappe-les-entreprises-au-japon-et-en-coree-du-sud_276650)  
+*Source : courrierinternational.com | Publication : 2026-10-07*
 
-- cybersécurité ou les technologies propres, dicte le marché face aux Etats-Unis et à la Chine.
-- (Photo Robin Utrecht/Action/Sipa).
-- Par Fabienne.
+- Une “série de cyberattaques majeures” frappe des entreprises en Corée du Sud et au Japon depuis quelques semaines, rapporte Nikkei Asia, laissant craindre un piratage dopé à l’intelligence artificielle (IA).
+- Des “millions de dossiers clients sont exposés”.
+- “Ces piratages montrent la montée des cybermenaces pour les entreprises asiatiques, qui sont de plus en plus souvent exposées à des attaques par rançongiciel”, poursuit le média économique japonais.
+- Les experts soupçonnent le recours à l’IA générative, qui permet “d’automatiser certaines opérations et de cibler les victimes à plus large échelle”.
 
-## [La <b>cybersécurité</b> face aux nouvelles menaces : Françoise Marmot intervient aux Assises ...](https://www.lejdc.fr/nevers-58000/faits-divers/la-cybersecurite-face-aux-nouvelles-menaces-francoise-marmot-intervient-aux-assises-nationales-de-lethique-et-du-numerique-a-nevers_15059051/)  
-*Source : lejdc.fr | Publication : 2026-10-06*
+## [Airbus remporte un contrat en <b>cybersécurité</b> avec les armées françaises](https://www.vie-economique.com/actualites/airbus-remporte-un-contrat-en-cybersecurite-avec-les-armees-francaises/)  
+*Source : vie-economique.com | Publication : 2026-10-07*
 
-- Françoise Marmot travaille à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) où elle est déléguée à la sécurité numérique pour la Bourgogne-Franche-Comté.
-- Elle nous explique les enjeux de la cybersécurité et le rôle de l’ANSSI.
-- Qu’entend-on par cybersécurité ?.
-- La définition du CyberDico, document rédigé par l’ANSSI, est la suivante : Cybersécurité : état recherché pour un système d’information lui permettant de résister à des événements issus du cyberespace susceptibles de compromettre la disponibilité, l’intégrité ou la confidentialité des données stockées, traitées ou transmises et des services connexes que ces systèmes offrent ou qu’ils rendent accessibles.
+- La direction générale de l’armement (DGA) vient de confier Airbus Cybersecurity SAS le contrat Paracom.
+- Ce dernier porte sur la fourniture de passerelles de cybersécurité pour les réseaux du ministère des Armées et des Anciens combattants.
+- Il couvre également le maintien en condition opérationnelle de ces passerelles pour une durée totale de 25 ans.
+- Ces passerelles vont permettr… Airbus remporte un contrat en cybersécurité avec les armées françaises D’une durée de 25 ans, ce contrat Paracom porte sur la fourniture de passerelles de sécurité pour les réseaux du ministère des Armées et des Anciens combattants.
 
-## [<b>Cybercriminalité</b> : pour Johanna Brousse, «l'ordinateur est devenu une arme - Le Pèlerin](https://www.lepelerin.com/france/technologie/cybercriminalite-pour-johanna-brousse-lordinateur-est-devenu-une-arme-16171)  
-*Source : lepelerin.com | Publication : 2026-10-06*
+## [Quai n°8 - Johanna Brousse | LCP - Assemblée nationale](https://lcp.fr/programmes/quai-ndeg8/johanna-brousse-441587)  
+*Source : lcp.fr | Publication : 2026-10-07*
 
-- Cybercriminalité : pour la vice-procureure Johanna Brousse, «l’ordinateur est devenu une arme» Cet article est paru dans le magazine Le Pèlerin Abonnez-vous La lecture de cet article est réservé aux abonnés Se connecter Face aux cybercriminels, Johanna Brousse est en première ligne.
-- Dans Cybercombattante, la vice-procureure raconte les coulisses de cette lutte et sonne l’alerte, car le numérique est désormais un socle commun à toutes les formes de criminalité.
-- Les données de 678 000 usagers du site des impôts ont été piratées cet été.
-- Quel est le risque pour les victimes ?.
+- Aller au contenu principal Menu recherche mobile Recherche Direct En direct Recherche Écrit le - Tout - 7 jours 1 an Plus d'un an Menu Menu sitemap Actualités Dossiers Loi intégrale contre les violences sexuelles et sexistes Budget 2027 Présidentielle 2027 Tous les dossiers Replays Documentaires Émissions A-Z Questions au gouvernement Podcasts Guide Programme La chaîne Qui sommes-nous ?.
+- La gouvernance Une chaîne, une équipe LCP en chiffres Contenus et programmes de LCP Regarder LCP | Chaînes et fréquences Tous les présentateurs Rejoignez-nous Marchés publics et Mises en concurrence Prix photo politique Espace Presse Accueil presse Communiqués de presse Vidéothèque Temps forts Dossiers de presse Phototélé Fil d'Ariane Accueil - Émissions A-Z - Quai n°8 - Johanna Brousse Back to top Video Url La vidéo de ce programme n'est pas disponible La vidéo de ce programme sera bientôt disponible Image Quai n°8 - Johanna Brousse.
+- duration 26 minutes Cécile Ollivier reçoit Johanna Brousse, magistrate, vice-procureur au parquet de Paris et chef de la section de lutte contre la cybercriminalité.
+- À l'origine de la mise en examen de Pavel Dourov, patron de Telegram, et de celle d'Elon Musk, à la tête de X, la magistrate constate des tentatives de cyberattaques et d'ingérences étrangères quotidiennes.
 
-## [La demande reste stable pour ServiceNow, la <b>cybersécurité</b> pourrait doper la croissance, selon UBS](https://www.zonebourse.com/actualite-bourse/la-demande-reste-stable-pour-servicenow-la-cybersecurite-pourrait-doper-la-croissance-selon-ubs-ce785dd9da89f72d)  
-*Source : zonebourse.com | Publication : 2026-10-06*
+## [Assises de la <b>cybersécurité</b> à Monaco : quelles menaces pour quelles réponses ? - Nice-Matin](https://www.nicematin.com/societe/securite/assises-de-la-cybersecurite-a-monaco-quelles-menaces-pour-quelles-reponses-10736040)  
+*Source : nicematin.com | Publication : 2026-10-07*
 
-- La demande reste stable pour ServiceNow, la cybersécurité pourrait doper la croissance, selon UBSServiceNow fait état d’une demande stable à en amélioration avant la publication de ses résultats du T3, tandis que l’intérêt pour l’intelligence artificielle progresse et que ses.
+- Assises de la cybersécurité à Monaco : quelles menaces pour quelles réponses ?.
+- La 26e édition des Assises de la cybersécurité s’est ouverte ce mercredi 7 octobre à Monaco, au Grimaldi Forum.
+- Et en la matière, tous les voyants ne sont pas au vert. «.
+- Winter is coming », prévenait l’an dernier Vincent Strubel, directeur de l’Agence nationale de la sécurité des systèmes d’information (ANSSI), lors de la 25e édition des Assises de la cybersécurité à Monaco.
 
-## [<b>Ransomware</b> Qilin : arrestation d'un membre clé au Japon - LeMagIT](https://www.lemagit.fr/actualites/366651358/Ransomware-Qilin-arrestation-dun-membre-cle-au-Japon)  
-*Source : lemagit.fr | Publication : 2026-10-06*
+## [Nous avons un problème d'exécution de règles de sécurité de base », Vincent Strubel (ANSSI)](https://www.latribune.fr/article/tech/informatique/51913622875227/vague-de-cyberattaques-nous-avons-un-probleme-dexecution-de-regles-de-securite-de-base-vincent-strubel-anssi)  
+*Source : latribune.fr | Publication : 2026-10-07*
 
-- LeMagIT Ransomware Qilin : arrestation d’un membre clé au Japon Un ressortissant russe de 28 ans, suspecté d’être au cœur de la galaxie Qilin a été interpellé au Japon il y a quelques mois.
-- Il a été extradé vers l’Allemagne il y a quelques jours.
-- Les autorités japonaises ont arrêté, en mai, un ressortissant russe âgé de 28 ans, présenté comme l’un des membres centraux de l’enseigne de rançongiciel Qilin.
-- Il a été extradé vers l’Allemagne le 2 octobre.
+- Vague de cyberattaques : « Nous avons un problème d'exécution de règles de sécurité de base », Vincent Strubel (ANSSI) Ce contenu est réservé aux abonnés La Tribune Vincent Strubel, directeur général de l'ANSSI.
+- Patrick Gaillardin Ce contenu est réservé aux abonnés La Tribune Vincent Strubel, directeur général de l'ANSSI.
+- Patrick Gaillardin Face à une vague d’attaques d’une ampleur inédite contre les institutions publiques, la mise à niveau des défenses numériques de l'État accumule les retards.
+- Près de deux ans après l’échéance européenne, la France n’a toujours pas achevé la transposition de la directive européenne NIS 2, dont l’examen à l’Assemblée nationale vient à nouveau d’être repoussé, laissant encore en suspens l'application des mesures de cybersécurité cruciales.
 
-## [<b>Cybersécurité</b> : et si le dark web devenait votre allié ? - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1555831-cybersecurite-et-si-le-dark-web-devenait-votre-allie/)  
-*Source : journaldunet.com | Publication : 2026-10-06*
+## [La <b>cybersécurité</b>, un incontournable de la défense - Les Affaires](https://www.lesaffaires.com/dossiers/filiere-defense-sinserer-dans-les-chaines-dapprovisionnement/la-cybersecurite-un-incontournable-de-la-defense/)  
+*Source : lesaffaires.com | Publication : 2026-10-07*
 
-- Cybersécurité : et si le dark web devenait votre allié ?.
-- Les cyberattaques se succèdent.
-- Les grandes institutions et entreprises n'y échappent pas.
-- Et si ces attaques pouvaient être évitées ?.
+- La cybersÃ©curitÃ©, un incontournable de la dÃ©fense Emmanuel Martinez|Ãdition d'octobre 2026Karim Ganame, fondateur de la firme de cybersÃ©curitÃ© StreamScan, spÃ©cialisÃ©e dans lâaccompa- gnement des entreprises dâici et des Ãtats-Unis vers lâobtention de leurs certifications de sÃ©curitÃ© (Photo: courtoisie) Pour que la chaÃ®ne soit forte, aucun maillon ne peut Ãªtre faible.
+- Câest pourquoi les entreprises qui dÃ©sirent sâengager dans lâindustrie de la dÃ©fense doivent atteindre des normes Ã©levÃ©es en matiÃ¨re de cybersÃ©curitÃ© afin dâÃ©viter, entre autres, que des donnÃ©es sensibles ne tombent entre des mains malveillantes.
+- Au Canada, le gouvernement fÃ©dÃ©ral a lancÃ© en avril dernier le niveau 1 du Programme canadien de certification en cybersÃ©curitÃ© (PCCC), requis pour certains contrats de dÃ©fense.
+- Pour obtenir la certification, les entreprises doivent rÃ©pondre Ã 13 critÃ¨res sous forme dâautoÃ©valuation qui touche notamment le contrÃ´le de lâaccÃ¨s aux systÃ¨mes informatiques, lâidentification et lâauthentification de ceux qui utilisent les systÃ¨mes, la destruction du stockage informatique mis hors service, la protection physique des Ã©quipements et des donnÃ©es, le recours Ã des rÃ©seaux de communication sÃ©curisÃ©s et des protections contre les cybermenaces.
 
-## [L'effrayant rapport de l'ANSSI sur les solutions numériques du secteur de la santé - ITforBusiness.fr](https://www.itforbusiness.fr/rapport-anssi-cybersecurite-sante-editeurs-108174)  
-*Source : itforbusiness.fr | Publication : 2026-10-06*
+## [<b>Ransomware</b> Qilin : un Russe arrêté au Japon et extradé vers l'Allemagne - Génération NT](https://www.generation-nt.com/actualites/ransomware-qilin-arrestation-japon-extradition-allemagne-2082388)  
+*Source : generation-nt.com | Publication : 2026-10-07*
 
-- Secu L’effrayant rapport de l’ANSSI sur les solutions numériques du secteur de la santé Par Laurent Delattre, publié le 06 octobre 2026 Le paysage numérique de la santé décrit par le dernier rapport de l’ANSSI et de l’ANS n’est pas beau à voir : correctifs attendus parfois pendant des années, secrets librement exposés, contrôles d’accès défaillants… Les autorités en profitent pour rappeler aux éditeurs du secteur que le Cyber Resilience Act donne désormais du poids à leurs recommandations.
-- C’est ce que l’on appelle un diagnostic sans appel.
-- Et trois chiffres tombent comme un couperet tout en donnant une mesure de l’ampleur du problème : 82 %, 74 %, 90 %.
-- Parmi les établissements de santé interrogés, 82 % ont eu connaissance de vulnérabilités sur leur système durant les douze derniers mois, 74 % ont été confrontés à des éditeurs lents ou réticents à les corriger et 90 % ne disposent d’aucun canal formalisé pour les leur signaler.
+- Une collaboration entre les forces de l'ordre japonaises et allemandes a abouti à une arrestation dans le monde de la cybercriminalité.
+- Suspecté d'être un membre clé du groupe de ransomware Qilin, un ressortissant russe de 28 ans a été appréhendé au Japon en mai dernier, avant d'être extradé vers l'Allemagne en ce début du mois d'octobre.
+- Qui est le suspect et de quoi est-il accusé ?.
+- L'homme arrêté est soupçonné d'être un pilier technique du groupe Qilin, responsable de la programmation et de la conception des systèmes utilisés pour les attaques par ransomware.
 
-## [Après deux ans de retard, la France traîne encore des pieds pour adopter NIS 2, tandis que ...](https://www.usine-digitale.fr/cybersecurite/apres-deux-ans-de-retard-la-france-traine-encore-des-pieds-pour-adopter-nis-2-tandis-que-les-organisations-encaissent-les-cyberattaques.4JTKOLUKGVGELGYAKMO52JLKGY.html)  
-*Source : usine-digitale.fr | Publication : 2026-10-06*
+## [Le numéro de téléphone de Sébastien Lecornu exposé en ligne: ses données personnelles ...](https://www.bfmtv.com/tech/cybersecurite/le-numero-de-telephone-de-sebastien-lecornu-expose-en-ligne-ses-donnees-personnelles-ont-ete-compromises-lors-du-hack-du-site-le-slip-francais-en-2024_AV-202610070644.html)  
+*Source : bfmtv.com | Publication : 2026-10-07*
 
-- cybersécurité - qui transpose NIS 2 - devait enfin entrer dans l'hémicycle.
-- Le 5 octobre, le média spécialisé dans la vie politique française et.
+- Le numéro de téléphone de Sébastien Lecornu exposé en ligne: ses données personnelles ont été compromises lors du hack du site Le Slip Français en 2024 Le Premier ministre Sébastien Lecornu est un amateur de produits français, et cette fuite de données dont il a été victime en est finalement la plus belle preuve.
+- Selon Le Canard Enchaîné, son numéro de téléphone personnel fait partie des données qui ont été dérobées après qu'une cyberattaque a touché l'infrastructure de Le Slip Français, un fabricant de sous-vêtements "made in France".
+- Cette attaque remonte néanmoins à plusieurs années, au 15 avril 2024 précisément.
+- À l’époque, ce sont environ 1,5 million de données, dont les mails, d'environ 696.000 clients, présents et passés, qui se sont retrouvées ainsi exposées, dont celles de Sébastien Lecornu donc.
