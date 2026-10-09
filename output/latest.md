@@ -1,154 +1,151 @@
-# Résumés – 2026-10-08
+# Résumés – 2026-10-09
 
 
-## [Top 10 des fournisseurs de services de sécurité managés (MSSP) en 2024](https://www.enterprisenetworkingplanet.com/security/top-10-des-fournisseurs-de-services-de-securite-manages-mssp-pour-2024/)  
-*Source : enterprisenetworkingplanet.com | Publication : 2026-10-08*
+## [Un rapport d'experts européen appelle à des restrictions pour les fournisseurs à haut risque ...](https://tecsol-quotidien.fr/un-rapport-dexperts-europeen-appelle-a-des-restrictions-pour-les-fournisseurs-a-haut-risque-dans-le-secteur-solaire-pv/)  
+*Source : tecsol-quotidien.fr | Publication : 2026-10-08*
 
-- Accenture: Idéal pour la cybersécurité et les services MSSP à l'échelle mondiale.
-- SecureWorks: Idéal pour le renseignement proactif sur les menaces et.
+- Un nouveau rapport d’experts du Groupe d’experts sur les énergies intelligentes (SEEG) de la Commission européenne appelle à des exigences de cybersécurité plus strictes pour le solaire photovoltaïque, y compris des restrictions sur l’utilisation des fournisseurs à haut risque.
+- Analyse !.
+- Le rapport, « Recommandations pour traiter les risques de cybersécurité dans la production photovoltaïque », a été élaboré par des experts du secteur de l’électricité, de l’industrie solaire, des régulateurs, des organisations de cybersécurité et du monde académique.
+- Il aborde les risques croissants de cybersécurité liés au déploiement croissant de systèmes photovoltaïques numériquement connectés en Europe.
 
-## [Sandrine Tarnaud, DG France de Palo Alto Networks, analyse les difficultés de la défense cyber](https://www.usine-digitale.fr/cybersecurite/trop-doutils-dans-les-grandes-entreprises-trop-peu-dans-les-petites-sandrine-tarnaud-dg-france-de-palo-alto-networks-analyse-les-difficultes-de-la-defense-cyber.UWTIHSTR5RGLPD5J2WDAFQCHUA.html)  
-*Source : usine-digitale.fr | Publication : 2026-10-07*
+## [Deloitte et le musée du Louvre célèbrent 20 ans de partenariat et le renouvellent pour 3 ans](https://www.deloitte.com/fr/fr/about/press-room/deloitte-et-le-musee-du-louvre-celebrent-20-ans-de-partenariat-et-le-renouvellent-pour-3-ans.html)  
+*Source : deloitte.com | Publication : 2026-10-08*
 
-- Multiplier les outils cyber permet-il vraiment de mieux se protéger ?.
-- À l'occasion des Assises de la sécurité à Monaco, L'Usine Digitale a échangé.
+- Depuis 2006, Deloitte accompagne le Louvre dans sa mission de transmission et de partage des savoirs, en soutenant ses grandes expositions.
+- En vingt ans de collaboration, les deux partenaires ont construit une relation solide et durable, fondée sur des valeurs partagées : favoriser l'accès à la culture pour tous, soutenir l'éducation et promouvoir l'inclusion.
+- Le renouvellement du mécénat de Deloitte pour 3 ans ouvre aujourd’hui un nouveau chapitre de ce partenariat.
+- Depuis 20 ans, le Louvre fait partie de notre histoire.
 
-## [<b>Cybersécurité</b> : ce que l'IA change pour nos réflexes - Sécurité de l'information](https://www.usherbrooke.ca/securite-info/nouvelles/details/59433)  
-*Source : usherbrooke.ca | Publication : 2026-10-07*
+## [&quot;Ils sont en première ligne&quot; : à Châteauroux, l'hôpital mise sur des jeux pour former ses ...](https://www.lanouvellerepublique.fr/chateauroux/ils-sont-en-premiere-ligne-a-chateauroux-l-hopital-mise-sur-des-jeux-pour-former-ses-soignants-a-la-cybersecurite-1791473258)  
+*Source : lanouvellerepublique.fr | Publication : 2026-10-08*
 
-- Point de vue d’expert Cybersécurité : ce que l’IA change pour nos réflexes Les menaces de demain sont au cœur des travaux de l’expert en cybersécurité post-quantique Marc Frappier.
-- Mais déjà, aux yeux du directeur scientifique du Pôle d’expertises en cybersécurité Intact de l’UdeS, l’intelligence artificielle (IA) représente un enjeu bien réel pour les organisations.
-- De plus en plus performante pour repérer les vulnérabilités des systèmes et concevoir des attaques informatiques, elle change la donne… et appelle à la vigilance.
-- Professeur au Département d’informatique de la Faculté des sciences, Marc Frappier dirige également la Chaire de recherche en cybersécurité post-quantique. «.
+- « Ils sont en première ligne » : à Châteauroux, l’hôpital mise sur des jeux pour former ses soignants à la cybersécurité AbonnésCet article est réservé aux abonnés numériques.
+- Santé - Indre - AbonnésCet article est réservé aux abonnés numériques. «.
+- Au quotidien, beaucoup d’hôpitaux sont attaqués, et les soignants sont en première ligne.
+- On cherche à inculquer les bonnes pratiques et à sensibiliser sur l’importance des données des patients », explique Sandrine Daudon, responsable de la sécurité des systèmes d’information au sein du centre hospitalier Châteauroux - Le Blanc.
 
-## [Telecom Nancy collecte des objets connectés pour former ses futurs experts en <b>cybersécurité</b>](https://www.lasemaine.fr/enseignement-formation/telecom-nancy-collecte-des-objets-connectes-pour-former-ses-futurs-experts-en-cybersecurite/)  
-*Source : lasemaine.fr | Publication : 2026-10-07*
+## [Anthropic ouvre davantage l'accès à Claude Mythos, une IA aussi puissante que redoutée](https://siecledigital.fr/2026/10/08/anthropic-ouvre-davantage-lacces-a-claude-mythos-une-ia-aussi-puissante-que-redoutee/)  
+*Source : siecledigital.fr | Publication : 2026-10-08*
 
-- Une caméra, une montre connectée, un drone ou encore un assistant vocal oublié dans un placard peuvent trouver une nouvelle utilité.
-- Telecom Nancy (université de Lorraine) lance une collecte d’objets connectés, récents ou non, afin de compléter les équipements de son centre d’entraînement à la cybersécurité.
-- Les appareils doivent être fonctionnels et, dans l’idéal, être accompagnés de leur alimentation, chargeur, câbles et accessoires.
-- Des objets pour tester les failles Les équipements récupérés viendront compléter ceux utilisés par les élèves ingénieurs dans le cadre de leur formation. «.
+- Anthropic a décidé d’élargir l’accès à ses modèles les plus performants pour la cybersécurité.
+- Les professionnels vérifiés grâce au Cyber Verification Program pourront en profiter.
+- Entre avril et juillet 2026, le groupe annonce que près de 129 000 failles ont été identifiées.
+- Ce déploiement comporte un risque, car ces modèles peuvent également favoriser les attaques informatiques.
 
-## [Productivité et <b>cybersécurité</b> : un nouveau parcours pour les entreprises du Bas-Saint-Laurent](https://www.cegep-matane.qc.ca/nouvelles/productivite-et-cybersecurite-un-nouveau-parcours-pour-les-entreprises-du-bas-saint-laurent/)  
-*Source : cegep-matane.qc.ca | Publication : 2026-10-07*
+## [Facturée 3 euros de plus à l'hôpital pour lutter contre les hackers - Midi Libre](https://www.midilibre.fr/2026/10/08/facturee-3-euros-de-plus-a-lhopital-pour-lutter-contre-les-hackers-letonnante-ligne-sur-ses-factures-scandalise-une-patiente-13591518.php)  
+*Source : midilibre.fr | Publication : 2026-10-08*
 
-- La Chambre de commerce et d’industrie de La Matanie (CCIM) et Groupe Collegia s’unissent pour lancer Productivité et cybersécurité, un parcours de formation novateur destiné aux PME, aux coopératives et aux organismes à but non lucratif de la Matanie et du Bas-Saint-Laurent qui souhaitent intégrer l’intelligence artificielle (IA) de façon concrète, sécuritaire et durable.
-- Ce projet a été rendu possible grâce à la participation financière du gouvernement du Québec par l’entremise du Fonds de développement et de reconnaissance des compétences de la main-d’œuvre.
-- Conçu spécifiquement pour répondre aux réalités des organisations de la région, ce parcours vise à démystifier l’intelligence artificielle et à accompagner les entreprises dans l’identification et la mise en œuvre d’applications à forte valeur ajoutée.
-- En combinant formation pratique, cybersécurité, conformité à la Loi 25 et accompagnement sur le terrain, les personnes participantes pourront passer de l’expérimentation à une adoption structurée de l’IA, générant des retombées mesurables pour leur organisation.
+- Facturée 3 euros de plus à l’hôpital pour lutter contre les hackers : l’étonnante ligne sur ses factures scandalise une patiente Une Belge s’est indignée auprès de la presse après avoir été facturée de 3 euros à plusieurs reprises au titre de la protection contre la cybercriminalité.
+- Un supplément à l’intérêt un peu flou, a-t-elle jugé.
+- Anaïs est amère.
+- Cette Belge a dû payer plusieurs fois 3 euros lors d’un passage à l’hôpital.
 
-## [<b>Cybercriminalité</b>: la plateforme de photos intimes volées à 17'000 femmes fermée](https://www.24heures.ch/cybercriminalite-la-plateforme-de-photos-intimes-volees-a-17000-femmes-fermee-140616023603)  
-*Source : 24heures.ch | Publication : 2026-10-07*
+## [<b>Cybersécurité</b> et IA : Anthropic étend son Cyber Verification Program - LeMagIT](https://www.lemagit.fr/actualites/366652007/Cybersecurite-et-IA-Anthropic-etend-son-Cyber-Verification-Program)  
+*Source : lemagit.fr | Publication : 2026-10-08*
 
-- Traque numÃ©rique franco-amÃ©ricaine NudeLeakTeens vendait des images intimes volÃ©es de plus de 17â000 victimes, dont des mineures.
-- Les enquÃªteurs ont saisi 700â000 euros en cryptomonnaies chez les deux administrateurs prÃ©sumÃ©s.
-- ExtorquÃ©es, piratÃ©es sur les rÃ©seaux sociaux ou Ã©changÃ©es entre prÃ©dateurs: la justice a frappÃ© un coup en France et aux Ãtats-Unis contre le trafic dâimages intimes volÃ©es, en fermant la plateforme NudeLeakTeens, qui aurait fait plus de 17â000 victimes dans le monde, dont des mineures.
-- AnnoncÃ©e de maniÃ¨re synchronisÃ©e des deux cÃ´tÃ©s de lâAtlantique, lâopÃ©ration a notamment conduit Ã lâarrestation mardi dans le nord de la France des deux administrateurs prÃ©sumÃ©s de la plateforme, deux frÃ¨res Ã¢gÃ©s de 21 et 25Â ans, a prÃ©cisÃ© le parquet de Paris dans un communiquÃ©.
+- kasinv - stock.adobe.com Cybersécurité et IA : Anthropic étend son Cyber Verification Program Anthropic ouvre un peu plus les vannes de son Cyber Verification Program.
+- Les spécialistes de la cybersécurité troquent une surveillance accrue de leurs activités contre l’accès aux grands modèles de langage Claude sans leurs filtres.
+- Un moyen d’améliorer le niveau de défense général contre les cyberattaquants, assure le fournisseur.
+- En sus du lancement de Claude Haiku 5.5, Anthropic étend son programme de vérification cyber (Cyber Verification Program ou CVP).
 
-## [<b>Cybersécurité</b> | Un guide canadien contre les <b>cybermenaces</b> - LaPresse.ca](https://www.lapresse.ca/affaires/portfolio/2026-10-07/cybersecurite/un-guide-canadien-contre-les-cybermenaces.php)  
-*Source : lapresse.ca | Publication : 2026-10-07*
+## [<b>Cybersécurité</b>, une urgence absolue même pour les PME - l'Opinion](https://www.lopinion.fr/economie/cybersecurite-une-urgence-absolue-meme-pour-les-pme)  
+*Source : lopinion.fr | Publication : 2026-10-08*
+
+- Cybersécurité, une urgence absolue même pour les PME La menace cyber plane sur tous les acteurs économiques et touche 39 % des TPE et PME françaises.
+- - L'État va débattre d’une loi pour étendre les obligations de sécurité de 500 à près de 15 000 structures.
+- - En 2025, plus de 5 000 collectivités et administrations ont déjà sollicité la plateforme d’aide publique.
+- - Les cyberattaques ne sont pas l’apanage des très grandes entreprises ou des ministères régaliens.
+
+## [Wepoint | <b>Cybersécurité</b> : les prochaines révolutions technologiques à surveiller](https://www.lapresse.ca/xtra/2026-10-08/wepoint/cybersecurite-les-prochaines-revolutions-technologiques-a-surveiller.php)  
+*Source : lapresse.ca | Publication : 2026-10-08*
+
+- Wepoint Cybersécurité : les prochaines révolutions technologiques à surveiller Qu’est-ce qu’un XTRA?.
+- XTRA est une section qui regroupe des contenus promotionnels produits par ou pour des annonceurs.
+- Les journalistes et photographes de La Presse n’ont pas collaboré à ce contenu promotionnel.
+- Une menace accélérée par l’IA L’intelligence artificielle transforme déjà la façon dont les cyberattaques sont préparées et menées.
+
+## [Adresse, téléphone, adresse mail, données de santé... Les données personnelles de 8 ...](https://actu.orange.fr/france/adresse-telephone-adresse-mail-donnees-de-sante-les-donnees-personnelles-de-8-francais-sur-10-sont-a-vendre-sur-le-darknet-magic-CNT000002sqobB.html)  
+*Source : actu.orange.fr | Publication : 2026-10-08*
+
+- Adresse, téléphone, adresse mail, données de santé.
+- Les données personnelles de 8 Français sur 10 sont à vendre sur le darknet © Pexels - Adresse, téléphone, adresse mail, données de santé.
+- Les données personnelles de 8 Français sur 10 sont à vendre sur le darknet La France est un des pays les plus ciblés par les cyberattaques.
+- Ainsi, près de 80 % des Français auraient des données à vendre sur le darknet, a fait savoir BFMTV.
+
+## [Le ministère de la <b>Cybersécurité</b> et du Numérique dépose son Plan d'action à l'égard des ...](https://www.quebec.ca/nouvelles/actualites/details/le-ministere-de-la-cybersecurite-et-du-numerique-depose-son-plan-daction-a-legard-des-personnes-handicapees-2026-2029-72626)  
+*Source : quebec.ca | Publication : 2026-10-08*
 
 - JavaScript is disabled In order to continue, we need to verify that you're not a robot.
 - This requires JavaScript.
 - Enable JavaScript and then reload the page.
 
-## [<b>Cybersécurité</b> : Ariovis installe un pôle technique à Bordeaux Euratlantique](https://www.bougerabordeaux.com/actu/news/cybersecurite-ariovis-pole-technique-bordeaux-euratlantique/)  
-*Source : bougerabordeaux.com | Publication : 2026-10-07*
+## [Soirée portes ouvertes 10 Mars 2027 - Ecole de Guerre Economique](https://www.ege.fr/evenements/soiree-portes-ouvertes-10-mars-2027)  
+*Source : ege.fr | Publication : 2026-10-08*
 
-- Bordeaux accueille un nouveau pôle de cybersécurité.
-- Ariovis, entreprise créée en région parisienne en 2024, installe à Euratlantique une équipe de conseil et d’intégration spécialisée dans la gestion des identités et des accès numériques.
-- Son objectif : accompagner des organisations du Sud-Ouest tout en travaillant sur des projets nationaux.
-- La société compte une quinzaine de collaborateurs ; l’effectif de sa future équipe bordelaise n’est pas encore précisé.
+- Les parcours d'excellence SIE (Stratégie et Intelligence Economique) et M1 RensIE (Renseignement et Intelligence Économique), les étudiants en alternance M1 RIE et RSIC, les promotions exécutives MSIE (Management Stratégique et Intelligence Economique), MACYB (Management de la Cybersécurité et Gouvernance des Systèmes d’Information), SIJ (Stratégie et Intelligence Juridique), MSIJ (Management Stratégique et Intelligence Juridique) et MARS (Management des Risques et Gestion de la Sûreté Globale), nos Formations Certifiantes, le corps professoral et le réseau des anciens AEGE sont heureux de vous convier à la Soirée Portes Ouvertes "Métiers et débouchés en Intelligence Economique, Risques, Sûreté, Renseignement et Cybersécurité" le : 10 Mars 2027 à 19:00 Echange avec les étudiants, avec la direction de l’école, présentation des spécialisations, métiers et débouchés, réseau des anciens, parcours d'une promotion entière… Pour participer à une porte ouverte, merci de bien vouloir vous inscrire gratuitement en ligne.
 
-## [54 millions de comptes Airbnb, Uber et PayPal en vente sur le darknet - Korben](https://korben.info/54-millions-de-comptes-airbnb-uber-et-paypal-en-vente-sur-le-darknet.html)  
-*Source : korben.info | Publication : 2026-10-07*
+## [<b>Cybersécurité</b> | Quatre chiffres pour comprendre les cyberattaques - LaPresse.ca](https://www.lapresse.ca/affaires/portfolio/2026-10-08/cybersecurite/quatre-chiffres-pour-comprendre-les-cyberattaques.php)  
+*Source : lapresse.ca | Publication : 2026-10-08*
 
-- 54 millions de comptes Airbnb, Uber et PayPal en vente sur le darknet Ce qu’il faut retenir Résumé généré par IA Un pirate surnommé Marx propose 54 millions d'enregistrements liés à Airbnb, PayPal, Uber, Booking.com et Google sur un forum du darknet, sans prix public et volumes invérifiables.
-- - Les chercheurs de Cybernews pensent qu'il s'agit d'une seule intrusion chez un prestataire d'envoi de SMS, et non cinq piratages distincts comme annoncé.
-- - Marx affirme avoir un accès toujours actif permettant d'intercepter les codes d'authentification à deux facteurs, mais le vendeur n'a aucune réputation et les numéros examinés sont tous indiens ou omanais.
-- - Un pirate qui se fait appeler Marx propose depuis quelques jours, sur un forum criminel du darknet (cette partie d'internet accessible uniquement avec des outils d'anonymisation), un lot de 54 millions d'enregistrements présentés comme liés à Airbnb, PayPal, Uber, Booking.com et Google.
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
 
-## [351 M$ en pertes: l'explosion de la fraude au Canada - 98.5 Montréal](https://www.985fm.ca/audio/807290/351-m-en-pertes-l-explosion-de-la-fraude-au-canada)  
-*Source : 985fm.ca | Publication : 2026-10-07*
+## [Fuite de données : le plus grand CHU de France (et d'Europe) a été piraté - 01net.com](https://www.01net.com/actualites/fuite-donnees-plus-grand-chu-france-europe-ete-pirate.html)  
+*Source : 01net.com | Publication : 2026-10-08*
 
-- Depuis janvier 2026, les pertes financières attribuées à la fraude au pays ont dépassé les 350 millions de dollars.
-- Ce montant ne représenterait que 10 % de l'ensemble des fraudes, puisqu'elles ne sont pas toutes rapportées à la police.
-- À l'occasion du mois de la sensibilisation à la cybersécurité, Benoît Dupont met en garde contre la sophistication croissante des fraudeurs, désormais propulsée par l'intelligence artificielle.
-- Comment la population peut-elle éviter de tomber dans le panneau?.
+- L’Assistance publique – Hôpitaux de Paris annonce avoir enregistré un vol des données.
+- Dans un communiqué, le principal centre hospitalier universitaire d’Europe indique avoir été « informé le 24 septembre 2026 de la vente, sur un forum cybercriminel, de données issues d’un logiciel de gestion des repas ».
+- La direction des services numériques (DSN) de l’établissement a alors ouvert une enquête. «.
+- En lien avec ses partenaires et les autorités compétentes », elle a vérifié les informations des cybercriminels.
 
-## [Offre d'emploi Responsable de la Gestion des Risques Informatiques - Groupe BNP Paribas](https://group.bnpparibas/emploi-carriere/offre-emploi/responsable-de-la-gestion-des-risques-informatiques)  
-*Source : group.bnpparibas | Publication : 2026-10-07*
+## [Prix EY de l'Entrepreneur de l'Année : l'Ouest récompense l'industrie, la tech et la création](https://bigmedia.bpifrance.fr/nos-actualites/prix-ey-de-lentrepreneur-de-lannee-louest-recompense-lindustrie-la-tech-et-la-creation)  
+*Source : bigmedia.bpifrance.fr | Publication : 2026-10-08*
 
-- Aider les équipes IT & cybersécurité à élaborer des plans d'action de remédiation associés aux risques documentés (Risk Card), les consigner dans le.
+- Sept trajectoires distinguées au Prix EY de l'Entrepreneur de l'Année Île-de-France 2026 Le 09/09/2026 2 min Le programme mondial du Prix EY de l'Entrepreneur de l'Année a mis à l'honneur, à Paris, sept parcours entrepreneuriaux de la région Île-de-France.
+- Une nouvelle promotion de dirigeants et de dirigeantes qui incarne la diversité de l'écosystème entrepreneurial francilien.
 
-## [Malgré l'explosion des cyberattaques et un vote au Sénat début 2025, la loi &quot;résilience&quot;, qui ...](https://www.bfmtv.com/tech/cybersecurite/malgre-l-explosion-des-cyberattaques-et-un-vote-au-senat-debut-2025-la-loi-resilience-qui-porte-sur-le-renforcement-de-la-cybersecurite-et-des-infrastructures-critiques-voit-son-examen-de-nouveau-reporte-a-l-assemblee-nationale_AV-202610070820.html)  
-*Source : bfmtv.com | Publication : 2026-10-07*
+## [JULES retient les solutions <b>cybersécurité</b> d'Ekinops pour moderniser sa sécurité web](https://www.abcbourse.com/marches/jules-retient-les-solutions-cybersecurite-dekinops-pour-moderniser-sa-securite_703926)  
+*Source : abcbourse.com | Publication : 2026-10-08*
 
-- Malgré l'explosion des cyberattaques et un vote au Sénat début 2025, la loi "résilience", qui porte sur le renforcement de la cybersécurité et des infrastructures critiques, voit son examen de nouveau reporté à l'Assemblée nationale Adoptée au sein de l'Union européenne en 2022, la directive NIS2 doit permettre d'harmoniser les normes en matière de cybersécurité entre les administrations publiques et les entreprises privées des 27 pays-membres.
-- Mais problème: si sa transposition au niveau français a été votée début 2025 au Sénat, elle attend toujours son examen à l'Assemblée nationale, faute de temps parlementaire disponible.
-- Une situation qui risque encore de durer.
-- Car si un espoir avait commencé à s'entrevoir parmi les spécialistes cyber, celui-ci est désormais douché: un nouveau report de la loi, dite "résilience", a finalement été acté.
+- (ABC Bourse) - JULES, enseigne française de prêt-à-porter masculin, a choisi les solutions de cybersécurité d’Ekinops pour moderniser sa sécurité web et accompagner l’évolution de ses usages numériques.
+- L’objectif affiché est d’améliorer la visibilité sur les usages Internet, de simplifier le pilotage des politiques de sécurité et de sécuriser les accès web au siège comme dans les magasins, sans dégrader l’expérience utilisateur.
+- Selon le communiqué, JULES, basée à Roubaix, compte 2 800 salariés et s’appuie sur un réseau de plus de 350 boutiques.
+- L’entreprise recherchait une solution de remplacement apportant davantage de visibilité sur les usages Internet, facilitant la gestion des politiques de filtrage et renforçant la protection des collaborateurs contre les risques web.
 
-## [Une vague de cyberattaques frappe les entreprises au Japon et en Corée du Sud](https://www.courrierinternational.com/article/piratage-une-vague-de-cyberattaques-frappe-les-entreprises-au-japon-et-en-coree-du-sud_276650)  
-*Source : courrierinternational.com | Publication : 2026-10-07*
+## [EKINOPS : JULES choisit les solutions de <b>cybersécurité</b> d'Ekinops pour renforcer sa sécurité ...](https://www.boursorama.com/bourse/actualites/ekinops-jules-choisit-les-solutions-de-cybersecurite-d-ekinops-pour-renforcer-sa-securite-web-et-accompagner-l-evolution-de-ses-usages-numeriques-63a9f3e19d62aab7d722cc9f07e37abc)  
+*Source : boursorama.com | Publication : 2026-10-08*
 
-- Une “série de cyberattaques majeures” frappe des entreprises en Corée du Sud et au Japon depuis quelques semaines, rapporte Nikkei Asia, laissant craindre un piratage dopé à l’intelligence artificielle (IA).
-- Des “millions de dossiers clients sont exposés”.
-- “Ces piratages montrent la montée des cybermenaces pour les entreprises asiatiques, qui sont de plus en plus souvent exposées à des attaques par rançongiciel”, poursuit le média économique japonais.
-- Les experts soupçonnent le recours à l’IA générative, qui permet “d’automatiser certaines opérations et de cibler les victimes à plus large échelle”.
+- L'enseigne française de prêt-à-porter JULES, s'appuie sur les solutions d'Ekinops pour améliorer la visibilité de ses usages Internet, simplifier la gestion des politiques de sécurité et sécuriser les accès web de son siège, comme de ses magasins.
+- PARIS, le 08 octobre 2026 – EKINOPS (Euronext Paris - FR0011466069 - EKI), fournisseur leader de solutions de réseaux optiques, de connectivité et de réseaux SASE destinées aux opérateurs de services et aux entreprises, annonce que JULES, enseigne française de prêt-à-porter, disposant de plus de 350 boutiques sur le territoire, et détenu par l'Association Familiale Mulliez, a retenu ses solutions pour moderniser sa sécurité web et mieux accompagner l'évolution de ses usages numériques.
+- Basée à Roubaix et comptant 2 800 salariés, JULES recherchait une solution de remplacement capable d'apporter davantage de visibilité sur les usages Internet, de faciliter le pilotage des politiques de filtrage, et de renforcer la protection des collaborateurs contre les risques web, sans dégrader l'expérience utilisateur.
+- Une solution française, simple à intégrer et adaptée aux usages SaaS, cloud et nomades JULES a sélectionné la solution de cybersécurité d'Ekinops (Olfeo au moment du choix), en raison de ses performances, sa simplicité d'intégration dans le système d'information existant, sa reprise facilitée des règles de filtrage, la qualité de la catégorisation des sites, et la disponibilité de tableaux de bord lisibles permettant un suivi plus efficace des usages, des blocages et des risques.
 
-## [Airbus remporte un contrat en <b>cybersécurité</b> avec les armées françaises](https://www.vie-economique.com/actualites/airbus-remporte-un-contrat-en-cybersecurite-avec-les-armees-francaises/)  
-*Source : vie-economique.com | Publication : 2026-10-07*
+## [JULES choisit les solutions de <b>cybersécurité</b> d'Ekinops pour renforcer sa sécurité web et ...](https://www.actusnews.com/fr/ekinops/cp/2026/10/08/jules-choisit-les-solutions-de-cybersecurite-d_ekinops-pour-renforcer-sa-securite-web-et-accompagner-l_evolution-de-ses-usages)  
+*Source : actusnews.com | Publication : 2026-10-08*
 
-- La direction générale de l’armement (DGA) vient de confier Airbus Cybersecurity SAS le contrat Paracom.
-- Ce dernier porte sur la fourniture de passerelles de cybersécurité pour les réseaux du ministère des Armées et des Anciens combattants.
-- Il couvre également le maintien en condition opérationnelle de ces passerelles pour une durée totale de 25 ans.
-- Ces passerelles vont permettr… Airbus remporte un contrat en cybersécurité avec les armées françaises D’une durée de 25 ans, ce contrat Paracom porte sur la fourniture de passerelles de sécurité pour les réseaux du ministère des Armées et des Anciens combattants.
+- JULES a sélectionné la solution de cybersécurité d'Ekinops (Olfeo au moment du choix), en raison de ses performances, sa simplicité d'intégration dans.
 
-## [Quai n°8 - Johanna Brousse | LCP - Assemblée nationale](https://lcp.fr/programmes/quai-ndeg8/johanna-brousse-441587)  
-*Source : lcp.fr | Publication : 2026-10-07*
+## [La Ville paralysée par une cyberattaque : les services de Saint-Pierre-des-Corps à l'arrêt](https://www.lanouvellerepublique.fr/indre-et-loire/commune/saint-pierre-des-corps/la-ville-paralysee-par-une-cyberattaque-les-services-de-saint-pierre-des-corps-a-l-arret-1791472108)  
+*Source : lanouvellerepublique.fr | Publication : 2026-10-08*
 
-- Aller au contenu principal Menu recherche mobile Recherche Direct En direct Recherche Écrit le - Tout - 7 jours 1 an Plus d'un an Menu Menu sitemap Actualités Dossiers Loi intégrale contre les violences sexuelles et sexistes Budget 2027 Présidentielle 2027 Tous les dossiers Replays Documentaires Émissions A-Z Questions au gouvernement Podcasts Guide Programme La chaîne Qui sommes-nous ?.
-- La gouvernance Une chaîne, une équipe LCP en chiffres Contenus et programmes de LCP Regarder LCP | Chaînes et fréquences Tous les présentateurs Rejoignez-nous Marchés publics et Mises en concurrence Prix photo politique Espace Presse Accueil presse Communiqués de presse Vidéothèque Temps forts Dossiers de presse Phototélé Fil d'Ariane Accueil - Émissions A-Z - Quai n°8 - Johanna Brousse Back to top Video Url La vidéo de ce programme n'est pas disponible La vidéo de ce programme sera bientôt disponible Image Quai n°8 - Johanna Brousse.
-- duration 26 minutes Cécile Ollivier reçoit Johanna Brousse, magistrate, vice-procureur au parquet de Paris et chef de la section de lutte contre la cybercriminalité.
-- À l'origine de la mise en examen de Pavel Dourov, patron de Telegram, et de celle d'Elon Musk, à la tête de X, la magistrate constate des tentatives de cyberattaques et d'ingérences étrangères quotidiennes.
+- La Ville paralysée par une cyberattaque : les services de Saint-Pierre-des-Corps à l’arrêt Sécurité - Saint-Pierre-des-Corps - Une nouvelle cyberattaque frappe en Indre-et-Loire.
+- Après la Maison du souvenir de Maillé en septembre dernier, ou encore le pôle de santé Léonard-de-Vinci et le Département d’Indre-et-Loire en 2022, c’est cette fois la Ville de Saint-Pierre-des-Corps qui annonce subir une attaque informatique ce jeudi 8 octobre 2026.
+- Selon l’information diffusée par la Ville, la cyberattaque a entraîné « le blocage de l’ensemble de son système téléphonique et partiellement de son système informatique ».
+- Le réseau téléphonique reste pour le moment indisponible. «.
 
-## [Assises de la <b>cybersécurité</b> à Monaco : quelles menaces pour quelles réponses ? - Nice-Matin](https://www.nicematin.com/societe/securite/assises-de-la-cybersecurite-a-monaco-quelles-menaces-pour-quelles-reponses-10736040)  
-*Source : nicematin.com | Publication : 2026-10-07*
+## [Maroc : Israël Inaugure Pour La Première Fois Un Pavillon Au Salon Aéronautique De Marrakech](https://www.i24news.tv/fr/actu/israel/diplomatie-defense/artc-maroc-israel-inaugure-pour-la-premiere-fois-un-pavillon-au-salon-aeronautique-de-marrakech)  
+*Source : i24news.tv | Publication : 2026-10-08*
 
-- Assises de la cybersécurité à Monaco : quelles menaces pour quelles réponses ?.
-- La 26e édition des Assises de la cybersécurité s’est ouverte ce mercredi 7 octobre à Monaco, au Grimaldi Forum.
-- Et en la matière, tous les voyants ne sont pas au vert. «.
-- Winter is coming », prévenait l’an dernier Vincent Strubel, directeur de l’Agence nationale de la sécurité des systèmes d’information (ANSSI), lors de la 25e édition des Assises de la cybersécurité à Monaco.
+- i24NEWS - Israël - Diplomatie Israélienne - Maroc : Israël inaugure pour la première fois un pavillon au salon aéronautique de Marrakech - Maroc : Israël inaugure pour la première fois un pavillon au salon aéronautique de Marrakech Les principaux groupes israéliens de défense y présentent leurs capacités dans les domaines aérien, terrestre, naval et spatial, ainsi que dans le renseignement et la cybersécurité Israël a inauguré jeudi son premier pavillon national au Marrakech Airshow, au Maroc, marquant une nouvelle étape dans la coopération militaire entre les deux pays depuis la normalisation de leurs relations diplomatiques en 2020.
+- Il s'agit de la première participation officielle israélienne à ce salon international de l'aéronautique et de la défense depuis la signature des accords d'Abraham.
+- Selon le ministère israélien de la Défense, une délégation de huit entreprises du secteur, conduite par la Direction de la coopération internationale en matière de défense (SIBAT), présente à Marrakech plusieurs technologies militaires israéliennes éprouvées en conditions de combat.
+- https://x.com/i/web/status/2108171944797573226 Ce post ne peut être affiché car les cookies pour les réseaux sociaux sont désactivés.
 
-## [Nous avons un problème d'exécution de règles de sécurité de base », Vincent Strubel (ANSSI)](https://www.latribune.fr/article/tech/informatique/51913622875227/vague-de-cyberattaques-nous-avons-un-probleme-dexecution-de-regles-de-securite-de-base-vincent-strubel-anssi)  
-*Source : latribune.fr | Publication : 2026-10-07*
+## [<b>Cybersécurité</b> | Une cyberattaque sans demande de rançon - LaPresse.ca](https://www.lapresse.ca/affaires/portfolio/2026-10-08/cybersecurite/une-cyberattaque-sans-demande-de-rancon.php)  
+*Source : lapresse.ca | Publication : 2026-10-08*
 
-- Vague de cyberattaques : « Nous avons un problème d'exécution de règles de sécurité de base », Vincent Strubel (ANSSI) Ce contenu est réservé aux abonnés La Tribune Vincent Strubel, directeur général de l'ANSSI.
-- Patrick Gaillardin Ce contenu est réservé aux abonnés La Tribune Vincent Strubel, directeur général de l'ANSSI.
-- Patrick Gaillardin Face à une vague d’attaques d’une ampleur inédite contre les institutions publiques, la mise à niveau des défenses numériques de l'État accumule les retards.
-- Près de deux ans après l’échéance européenne, la France n’a toujours pas achevé la transposition de la directive européenne NIS 2, dont l’examen à l’Assemblée nationale vient à nouveau d’être repoussé, laissant encore en suspens l'application des mesures de cybersécurité cruciales.
-
-## [La <b>cybersécurité</b>, un incontournable de la défense - Les Affaires](https://www.lesaffaires.com/dossiers/filiere-defense-sinserer-dans-les-chaines-dapprovisionnement/la-cybersecurite-un-incontournable-de-la-defense/)  
-*Source : lesaffaires.com | Publication : 2026-10-07*
-
-- La cybersÃ©curitÃ©, un incontournable de la dÃ©fense Emmanuel Martinez|Ãdition d'octobre 2026Karim Ganame, fondateur de la firme de cybersÃ©curitÃ© StreamScan, spÃ©cialisÃ©e dans lâaccompa- gnement des entreprises dâici et des Ãtats-Unis vers lâobtention de leurs certifications de sÃ©curitÃ© (Photo: courtoisie) Pour que la chaÃ®ne soit forte, aucun maillon ne peut Ãªtre faible.
-- Câest pourquoi les entreprises qui dÃ©sirent sâengager dans lâindustrie de la dÃ©fense doivent atteindre des normes Ã©levÃ©es en matiÃ¨re de cybersÃ©curitÃ© afin dâÃ©viter, entre autres, que des donnÃ©es sensibles ne tombent entre des mains malveillantes.
-- Au Canada, le gouvernement fÃ©dÃ©ral a lancÃ© en avril dernier le niveau 1 du Programme canadien de certification en cybersÃ©curitÃ© (PCCC), requis pour certains contrats de dÃ©fense.
-- Pour obtenir la certification, les entreprises doivent rÃ©pondre Ã 13 critÃ¨res sous forme dâautoÃ©valuation qui touche notamment le contrÃ´le de lâaccÃ¨s aux systÃ¨mes informatiques, lâidentification et lâauthentification de ceux qui utilisent les systÃ¨mes, la destruction du stockage informatique mis hors service, la protection physique des Ã©quipements et des donnÃ©es, le recours Ã des rÃ©seaux de communication sÃ©curisÃ©s et des protections contre les cybermenaces.
-
-## [<b>Ransomware</b> Qilin : un Russe arrêté au Japon et extradé vers l'Allemagne - Génération NT](https://www.generation-nt.com/actualites/ransomware-qilin-arrestation-japon-extradition-allemagne-2082388)  
-*Source : generation-nt.com | Publication : 2026-10-07*
-
-- Une collaboration entre les forces de l'ordre japonaises et allemandes a abouti à une arrestation dans le monde de la cybercriminalité.
-- Suspecté d'être un membre clé du groupe de ransomware Qilin, un ressortissant russe de 28 ans a été appréhendé au Japon en mai dernier, avant d'être extradé vers l'Allemagne en ce début du mois d'octobre.
-- Qui est le suspect et de quoi est-il accusé ?.
-- L'homme arrêté est soupçonné d'être un pilier technique du groupe Qilin, responsable de la programmation et de la conception des systèmes utilisés pour les attaques par ransomware.
-
-## [Le numéro de téléphone de Sébastien Lecornu exposé en ligne: ses données personnelles ...](https://www.bfmtv.com/tech/cybersecurite/le-numero-de-telephone-de-sebastien-lecornu-expose-en-ligne-ses-donnees-personnelles-ont-ete-compromises-lors-du-hack-du-site-le-slip-francais-en-2024_AV-202610070644.html)  
-*Source : bfmtv.com | Publication : 2026-10-07*
-
-- Le numéro de téléphone de Sébastien Lecornu exposé en ligne: ses données personnelles ont été compromises lors du hack du site Le Slip Français en 2024 Le Premier ministre Sébastien Lecornu est un amateur de produits français, et cette fuite de données dont il a été victime en est finalement la plus belle preuve.
-- Selon Le Canard Enchaîné, son numéro de téléphone personnel fait partie des données qui ont été dérobées après qu'une cyberattaque a touché l'infrastructure de Le Slip Français, un fabricant de sous-vêtements "made in France".
-- Cette attaque remonte néanmoins à plusieurs années, au 15 avril 2024 précisément.
-- À l’époque, ce sont environ 1,5 million de données, dont les mails, d'environ 696.000 clients, présents et passés, qui se sont retrouvées ainsi exposées, dont celles de Sébastien Lecornu donc.
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
