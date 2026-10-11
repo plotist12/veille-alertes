@@ -1,152 +1,153 @@
-# Résumés – 2026-10-10
+# Résumés – 2026-10-11
 
 
-## [Primaire sociale-démocrate : le vote prolongé jusqu'à dimanche soir - Orange Actu](https://actu.orange.fr/politique/primaire-sociale-democrate-le-vote-prolonge-jusqu-a-dimanche-soir-CNT000002suy2o.html)  
-*Source : actu.orange.fr | Publication : 2026-10-09*
+## [Fuite de données : le dispositif d'aide aux vacances des Caisses d'allocations familiales ...](https://www.sudouest.fr/economie/cybersecurite/fuite-de-donnees-le-dispositif-d-aide-aux-vacances-des-caisses-d-allocations-familiales-victime-d-une-cyberattaque-une-cellule-de-crise-activee-31013005.php)  
+*Source : sudouest.fr | Publication : 2026-10-10*
 
-- Primaire sociale-démocrate : le vote prolongé jusqu'à dimanche soir Le vote du premier tour de la primaire sociale-démocrate, cible vendredi d'une cyberattaque, est prolongé jusqu'à dimanche 18H00 à cause d'un fort ralentissement des votes.
-- Quelque 140.000 électeurs doivent choisir leur candidat à la présidentielle parmi cinq prétendants, dont le favori, l'eurodéputé de Place publique Raphaël Glucksmann, et son challenger, le patron du PS Olivier Faure.
-- L'ex-candidate à la présidentielle de 2007 Ségolène Royal, le député socialiste Jérôme Guedj et le député de La Gauche républicaine et socialiste (GRS) Emmanuel Maurel, sont également en lice.
-- Le vote, qui se fait uniquement par voie électronique, a débuté à 08H00 vendredi, mais a été aussitôt perturbé par une cyberattaque, créant un "afflux massif et fictif de connexions", qui a considérablement ralenti le processus, sans l'interrompre.
+- Un incident de cybersécurité a visé la plateforme Vacaf, entraînant une fuite de données des bénéficiaires alors qu’un pirate revendique le vol de plus d’un million de dossiers Un « incident de cybersécurité » a touché ce vendredi 9 octobre 2026 le dispositif Vacaf d’aide aux vacances des Caisses d’allocations familiales, avec « une fuite concernant les données des bénéficiaires », a indiqué samedi la Caisse nationale des allocations familiales (Cnaf) sans donner de chiffres. «.
+- Hier soir [vendredi, NDLR] une fuite concernant les données des bénéficiaires de ce dispositif a été signalée », indique la Cnaf dans un communiqué.
 
-## [<b>Cybercriminalité</b> : une plateforme de revente de données volées démantelée - La Croix](https://www.la-croix.com/societe/cybercriminalite-une-plateforme-de-revente-de-donnees-volees-demantelee-20261009)  
-*Source : la-croix.com | Publication : 2026-10-09*
+## [Pare-chocs : samedi 10 octobre 2026 - RCI](https://rci.fm/martinique/emission/Pare-chocs/Pare-chocs-samedi-10-octobre-2026)  
+*Source : rci.fm | Publication : 2026-10-10*
 
-- Une importante plateforme de revente de données volées, ou look up, a été démantelée et mise hors ligne et ses trois administrateurs présumés interpellés, une opération présentée par les enquêteurs comme une première de cette ampleur en France, a-t-on appris vendredi 9 octobre auprès du parquet.
-- Initialement connu sous le nom de Reacher, puis renommé Stryxx, ce site « revendiquait 730 millions de lignes de données indexées et plus de 3 millions de requêtes réalisées », a précisé le patron de l’Office français anticriminalité (Ofac), Nicolas Guidoux, dans un post LinkedIn.
-- Le site avait été créé en mars 2026 et une enquête avait été ouverte le 15 mai par la section spécialisée dans la lutte contre la cybercriminalité du parquet de Paris, a-t-il précisé. «.
-- Cette plateforme proposait, via différentes formules d’abonnement ou l’achat de crédits, trois modes de recherche, ainsi qu’une fonction multicritères », a décrit Nicolas Guidoux.
+- Aller au contenu principal RCI toute l'actualité de la caraïbe Choisir votre île Guadeloupe Martinique Ecouter le direct Les autres radios RCI Martinique RCI Guadeloupe NRJ Martinique Bel Radio Martinique.
+- RCI Compas RCI Kassav RCI Zouk RCI Dancehall RCI Tradition RCI Live Infos Caraïbes Culture Economie Education Environnement Faits divers Informations pratiques Insolite Justice People Politique Risques naturels Santé Social Société Sport Toutes les infos Obsèques Avis d'obsèques Remerciements Avis de messe Communiqués Evènements Tour des Yoles Tour cycliste Tour cycliste Vakans O Péyi Vakans O Péyi Tour cycliste Martinique Vakans O Péyi Guadeloupe Vakans O Péyi Martinique Replays Guide malin Les Pépites Annonces légales Annonces légales Tour Cycliste.
+- Changer d'île Guadeloupe Martinique Accueil Infos Caraïbes Culture Economie Education Environnement Faits divers Informations pratiques Insolite Justice People Politique Risques naturels Santé Social Société Sport Obsèques Avis d'obsèques Remerciements Avis de messe Communiqués Evènements Tour des Yoles Tour Cycliste Guadeloupe Tour Cycliste Martinique Vakans O Péyi Vakans O Péyi Tour cycliste Martinique Vakans O Péyi Guadeloupe Vakans O Péyi Martinique Replays Guide malin Les pépites Annonces légales Accueil Replays Pare-chocs Pare-chocs : samedi 10 octobre 2026 Jean Marc Wollscheid 10/10/2026 Pare-chocs Pare-chocs : samedi 10 octobre 2026 Chaque samedi, Jean Marc Wollscheid et ses chroniqueurs reçoivent des invités pour décrypter l’actualité automobile : essais de véhicules, nouvelles lois et bons plans.
+- Partager : Retrouvez tous les replays Pare-chocs : samedi 3 octobre 2026 Jean Marc Wollscheid 03/10/2026 Pare-chocs : dimanche 27 septembre 2026 Jean Marc Wollscheid 27/09/2026 Pare-chocs : samedi 26 septembre 2026 Jean Marc Wollscheid 26/09/2026 Pare-chocs : samedi 19 septembre 2026 Jean Marc Wollscheid 19/09/2026 Pare-chocs : samedi 12 septembre 2026.
 
-## [Ces jeunes sans antécédents poursuivis après les violences contre la police - Valeurs actuelles](https://www.valeursactuelles.com/clubvaleurs/regions/ile-de-france/paris/na/societe/etudiant-en-droit-futur-militaire-lyceen-en-cybersecurite-ces-jeunes-sans-antecedents-poursuivis-apres-les-violences-contre-la-police)  
-*Source : valeursactuelles.com | Publication : 2026-10-09*
+## [Comment fonctionnent les « look up », ces moteurs de recherche de données volées](https://fr.news.yahoo.com/sport/fonctionnent-look-up-moteurs-recherche-163122051.html)  
+*Source : fr.news.yahoo.com | Publication : 2026-10-10*
 
-- Jeudi 8 octobre, 13h30.
-- À la 23e chambre du tribunal correctionnel de Paris, le ballet des comparutions immédiates suit son cours habituel.
-- Les bancs de la salle d’audience sont garnis d’étudiants en sortie scolaire et de lycéens qui profitent du temps libre laissé par le blocage de leur établissement.
-- Deux hommes de nationalité algérienne, âgés d’une trentaine d’années, comparaissent après leur interpellation pour le vol à l’arraché, avec violences, du collier d’une femme.
+- Comment fonctionnent les « look up », ces moteurs de recherche de données volées ?.
+- CYBERSECURITE - Les autorités alertent sur ces sites clandestins alimentés par des bases issues de cyberattaques qui se sont récemment multipliés Après l'interpellation de trois personnes et la fermeture d'un premier site d'agrégation de fuites de données personnelles en France, les autorités alertent sur ces moteurs de recherche clandestins alimentés par des bases issues de cyberattaques qui se sont récemment multipliés.
+- Communément appelés « look up », ces sites ne sont « pas une nouveauté », explique Damien Bancal, qui anime le blog spécialisé en cybersécurité Zataz. «.
+- Le tout premier que j'ai pu voir, c'était il y a 15 ans », ajoute-t-il.
 
-## [<b>Cybercriminalité</b> : une plateforme de revente de données volées démantelée - Sud Ouest](https://www.sudouest.fr/economie/cybersecurite/cybercriminalite-une-plateforme-de-revente-de-donnees-volees-demantelee-31002182.php)  
-*Source : sudouest.fr | Publication : 2026-10-09*
+## [<b>Cybersécurité</b> : «Hack the campus» : quand les étudiants passent à l'offensive - lexpress.mu](https://lexpress.mu/s/hack-the-campus-quand-les-etudiants-passent-a-loffensive-563456)  
+*Source : lexpress.mu | Publication : 2026-10-10*
 
-- Initialement connu sous le nom de Reacher, puis renommé Stryxx, ce site permettait de trouver plusieurs millions de données personnelles volées Une importante plateforme de revente de données volées, ou look up, a été démantelée et mise hors ligne et ses trois administrateurs présumés interpellés, une opération présentée par les enquêteurs comme une première de cette ampleur en France, a-t-on appris auprès du parquet.
-- Initialement connu sous le nom de Reacher, puis renommé Stryxx, ce site « revendiquait 730 millions de lignes de données indexées et plus de 3 millions de requêtes réalisées », a précisé le patron de l’Office français anti-criminalité (Ofac), Nicolas Guidoux, dans un post LinkedIn.
+- Publicité Cybersécurité «Hack the campus» : quand les étudiants passent à l’offensive Par Partager cet article Cybersécurité «Hack the campus» : quand les étudiants passent à l’offensive Le temps d’une journée, le campus de Middlesex University Mauritius, à Flic-en-Flac, s’est transformé en véritable terrain d’affrontement numérique.
+- Le vendredi 2 octobre, plus de 70 étudiants issus de plusieurs établissements d’enseignement supérieur du pays ont participé à la première édition de Hack the campus, une compétition interuniversitaire de cybersécurité organisée sous le format Capture the flag.
+- Répartis en 25 équipes, les participants ont dû faire preuve de logique, de rapidité et, surtout, d’un solide esprit d’équipe pour venir à bout de scénarios de difficulté croissante.
+- Étudiants de l’Université de Maurice, de l’University of Technology Mauritius, de VIT-Mauritius, de Polytechnics Mauritius et de Middlesex University Mauritius se sont ainsi retrouvés autour d’un même défi : «Think.
 
-## [Fuite de données chez Mabris : une attaque <b>ransomware</b> revendiquée en ligne](https://frenchbreaches.com/r/iVGMu1)  
-*Source : frenchbreaches.com | Publication : 2026-10-09*
+## [Un simple lien pouvait suffire à pirater votre compte Telegram : une faille majeure découverte](https://frenchbreaches.com/blog/un-simple-lien-pouvait-suffire-a-pirater-votre-compte-telegram-une-faille-majeure-decouverte)  
+*Source : frenchbreaches.com | Publication : 2026-10-10*
 
-- Fuite de données chez Mabris : une attaque ransomware revendiquée en ligne Données exposées : Thegentlemen.
-- Incident signalé le 9 octobre 2026.
+- Un simple lien pouvait suffire à pirater votre compte Telegram : une faille majeure découverte Cliquer sur un lien pouvait suffire à perdre le contrôle de son compte Telegram.
+- Le chercheur en cybersécurité BeakSec a révélé une faille dans la version pour ordinateur de la messagerie, permettant à un pirate de récupérer des fichiers personnels et, dans certaines conditions, de prendre possession d'un compte sans connaître son mot de passe.
+- Cette vulnérabilité, identifiée sous la référence CVE-2026-107181, concernait Telegram Desktop, l'application utilisée sur ordinateur.
+- Elle a été corrigée avec la version 7.2.9, publiée le 17 septembre 2026.
 
-## [Cyberattaque sur l'iPhone : le malware DarkSword est de retour sous une nouvelle forme](https://www.01net.com/actualites/cyberattaque-sur-liphone-le-malware-darksword-est-de-retour-sous-une-nouvelle-forme.html)  
-*Source : 01net.com | Publication : 2026-10-09*
+## [Traqué depuis des mois, un cadre présumé du <b>ransomware</b> Qilin arrêté pendant ses ...](https://www.clubic.com/actualite-633544-traque-depuis-des-mois-un-cadre-presume-du-ransomware-qilin-arrete-pendant-ses-vacances-au-japon.html)  
+*Source : clubic.com | Publication : 2026-10-10*
 
-- En mars 2026, le monde apprenait l’existence de DarkSword, un outil de piratage d’iPhone qui peut tout voler à l’intérieur.
-- Depuis, il fait régulièrement parler de lui, notamment après s’être retrouvé en ligne, disponible pour tout le monde.
-- Cette fois-ci, c’est une nouvelle version qui fait parler d’elle.
-- P7 DarkSword, une nouvelle version encore plus perfectionnée La société de cybersécurité mobile iVerify a publié ce 8 octobre un rapport sur P7, une variante de DarkSword qu’elle dit avoir découverte.
+- Un Russe de 28 ans, soupçonné d'occuper un rôle important au sein du groupe de ransomware Qilin, a été arrêté au Japon puis extradé vers l'Allemagne.
+- Une interpellation rendue possible par plusieurs mois d'infiltration policière.
+- Il pensait partir en vacances au Japon, mais son séjour a été écourté.
+- En mai dernier, un ressortissant russe de 28 ans a été interpellé dans un hôtel d’Osaka, à la demande de la justice allemande.
 
-## [Mois de la sensibilisation à la <b>cybersécurité</b>: adopter les bons réflexes à l'ère de l'IA - UdeMnouvelles](https://nouvelles.umontreal.ca/annonce/2026/10/13/mois-de-la-sensibilisation-a-la-cybersecurite-adopter-les-bons-reflexes-a-l-ere-de-l-ia)  
-*Source : nouvelles.umontreal.ca | Publication : 2026-10-09*
+## [L'écosystème israélien de la <b>cybersécurité</b> confirme sa position dominante. - IsraelValley](https://israelvalley.com/2026/10/10/lecosysteme-israelien-de-la-cybersecurite-confirme-sa-position-dominante/)  
+*Source : israelvalley.com | Publication : 2026-10-10*
 
-- Mois de la sensibilisation à la cybersécurité: adopter les bons réflexes à l’ère de l'IA Chaque automne, l’Université de Montréal participe au Mois de la sensibilisation à la cybersécurité.
-- Sur le thème «Ma vie numérique, ma responsabilité: adoptons les bons réflexes à l’ère de l’IA», la campagne 2026 convie la communauté de l’UdeM à redoubler de vigilance pour contribuer à la sécurité de notre environnement numérique.
-- Avec l’essor de l’intelligence artificielle (IA), les cybermenaces se multiplient et se complexifient.
-- L’IA facilite notamment la création de contenus trompeurs de plus en plus difficiles à détecter, accentuant les risques de désinformation, d’hypertrucage (deepfake), de fraude et d’hameçonnage (phishing).
+- L’écosystème israélien de la cybersécurité confirme sa position dominante.
+- Entre le 1er juillet et le 30 septembre 2026, au moins 26 startups israéliennes du secteur ont bouclé des tours de table publiquement annoncés pour un total d’au moins 2,425 milliards de dollars, d’après les données compilées par CTech.
+- Un chiffre d’autant plus marquant qu’il représente près de la moitié des 5,26 milliards de dollars levés par l’ensemble des startups cyber dans le monde sur la même période.
+- Et le total israélien est probablement sous-estimé : deux autres entreprises fondées par des Israéliens, Above et Zafran, soutenues respectivement par CrowdStrike et Cisco, ont également levé des fonds au cours du trimestre, sans en dévoiler le montant.
 
-## [Galaxia Transinne : vers un centre de référence wallon en <b>cybersécurité</b> - TV Lux](https://www.tvlux.be/actu/info/economie/galaxia-transinne-vers-un-centre-de-reference-wallon-en-cybersecurite_52721)  
-*Source : tvlux.be | Publication : 2026-10-09*
+## [730 millions de données volées : la police fait tomber Reacher, le moteur de recherche ...](https://www.01net.com/actualites/730-millions-donnees-volees-police-fait-tomber-reacher-moteur-recherche-pirate-3-ados.html)  
+*Source : 01net.com | Publication : 2026-10-10*
 
-- Le site de Galaxia Transinne (Libin) est appelé à devenir le pôle de référence wallon en matière de cybersécurité et de s'étendre en une "Wallonie Cyber Valley", selon un communiqué du ministre wallon en charge de l'Économie, Pierre-Yves Jeholet (MR), qui annonce près de 14 millions d'euros débloqués pour développer ce projet.
-- Un "cyber range" ou simulateur d'attaques informatiques, un laboratoire de cryptographie quantique et un simulateur de crise cyber sont présentés comme les bases d'un campus d'excellence, unique en Wallonie.
-- Des développements qui seront centrés sur le zoning Galaxia, à Transinne.
-- Là où la dynamique a déjà été lancée, notamment par Idélux et l'ESA, l'agence spatiale européenne.
+- Un nouveau site pirate vient de tomber en France.
+- Ce mardi 6 octobre, l’Office anti-cybercriminalité (OFAC) a interpellé trois administrateurs présumés de Reacher, qui a été rebaptisé Stryx au début de l’été.
+- Pour rappel, un lookup est un moteur de recherche qui recense et revend des données personnelles issues de fuites et de piratages.
+- Trois mineurs de 17 ans à l’origine du site Les trois suspects sont des mineurs de 17 ans, jusqu’ici inconnus de la justice.
 
-## [Nouvelle arrestation dans la sphère des Shiny Hunters | LeMagIT](https://www.lemagit.fr/actualites/366652042/Nouvelle-arrestation-dans-la-sphere-des-Shiny-Hunters)  
-*Source : lemagit.fr | Publication : 2026-10-09*
+## [Données volées lors de cyberattaques : la justice fait fermer un site, trois mineurs interpellés](https://www.ouest-france.fr/societe/cyberattaque/donnees-volees-lors-de-cyberattaques-la-justice-fait-fermer-un-site-trois-mineurs-interpelles-a42190f4-c3fd-11f1-bba2-d026901fbfe4)  
+*Source : ouest-france.fr | Publication : 2026-10-10*
 
-- John Gomez - stock.adobe.com Nouvelle arrestation dans la sphère des Shiny Hunters Le FBI vient d'arrêter, en Pennsylvanie, un ressortant canadien suspecté d'avoir participé au vol de données du FBI.
-- Son identité n'a pas été précisée, laissant ouverte une question : s'agit-il de « Shiny » ?.
-- Près d'une semaine, jour pour jour, après la révélation de l'arrestation de Saif al-Din Khader, aussi connu sous le pseudonyme Rey, nos confrères du New York Times en annoncent une autre : celle d'un ressortissant canadien, en Pennsylvanie.
-- Selon nos confrères, ce nouvel individu est soupçonné d'être impliqué dans l'attaque d'un portail RH du FBI.
+- Et cette semaine, ça a fini par payer.
+- L'Office anti- cybercriminalité (Ofac) de la police judiciaire a déclenché, mardi 6 octobre 2026, une opération.
 
-## [<b>Cybercriminalité</b> : une plateforme de revente de données volées démantelée - Notre Temps](https://www.notretemps.com/depeches/cybercriminalite-une-plateforme-de-revente-de-donnees-volees-demantelee-139638)  
-*Source : notretemps.com | Publication : 2026-10-09*
+## [Comment fonctionnent les &quot;look up&quot;, ces sites qui revendent vos données personnelles volées - Actu](https://actu.fr/societe/comment-fonctionnent-les-look-up-ces-sites-qui-revendent-vos-donnees-personnelles-volees_64907495.html)  
+*Source : actu.fr | Publication : 2026-10-10*
 
-- Cybercriminalité : une plateforme de revente de données volées démantelée Une importante plateforme de revente de données volées, ou look up, a été démantelée et mise hors ligne et ses trois administrateurs présumés interpellés, une opération présentée par les enquêteurs comme une première de cette ampleur en France, a-t-on appris auprès du parquet.
-- Initialement connu sous le nom de Reacher, puis renommé Stryxx, ce site "revendiquait 730 millions de lignes de données indexées et plus de 3 millions de requêtes réalisées", a précisé le patron de l'Office français anti-criminalité (Ofac), Nicolas Guidoux, dans un post LinkedIn.
-- Le site avait été créé en mars 2026 et une enquête avait été ouverte le 15 mai par la section spécialisée dans la lutte contre la cybercriminalité du parquet de Paris, a-t-il précisé.
-- "Cette plateforme proposait, via différentes formules d'abonnement ou l'achat de crédits, trois modes de recherche, ainsi qu'une fonction multi-critères", a décrit M. Guidoux.
+- Après l’interpellation de trois personnes et la fermeture d’un premier site d’agrégation de fuites de données personnelles en France, les autorités alertent sur ces moteurs de recherche clandestins alimentés par des bases issues de cyberattaques et qui se sont récemment multipliés.
+- De quoi s’agit-il ?.
+- À lire aussi Comment fonctionnent ces sites ?.
+- Communément appelés « look up », ces sites ne sont « pas une nouveauté », explique Damien Bancal, qui anime le blog spécialisé en cybersécurité Zataz. «.
 
-## [Un nouveau consortium de cloud de confiance - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/biz-it/65355-un-nouveau-consortium-de-cloud-de-confiance.html)  
-*Source : linformaticien.com | Publication : 2026-10-09*
+## [La Chine exhorte les Etats-Unis à bâtir une relation caractérisée par la paix, la stabilité et le ...](http://french.peopledaily.com.cn/Chine/n3/2026/1010/c31354-20506731.html)  
+*Source : french.peopledaily.com.cn | Publication : 2026-10-10*
 
-- Cloud Temple, Vates, Thales, Bull, et le CEA ont été sélectionné dans l'appel à projets « Renforcement de l'offre de services cloud » opéré par.
+- Plus - La Chine exhorte les Etats-Unis à bâtir une relation caractérisée par la paix, la stabilité et le respect mutuel en matière de cybersécurité La Chine exhorte les Etats-Unis à bâtir une relation caractérisée par la paix, la stabilité et le respect mutuel en matière de cybersécurité, a déclaré vendredi Mao Ning, porte-parole du ministère chinois des Affaires étrangères.
+- Mme Mao a fait ces remarques lors d'un point presse régulier, en réponse à une question relative aux déclarations du Département de la Justice des Etats-Unis concernant les soi-disant activités de piratage informatique menées depuis la Chine.
+- "La Chine s'oppose fermement aux activités de piratage informatique et les combat dans le respect de la loi.
+- La Chine s'oppose également fermement à la diffusion de fausses informations et au tapage à des fins politiques", a affirmé Mme Mao.
 
-## [Bretagne : un gros contrat avec l'enseigne de vêtements Jules pour ce groupe de Lannion ...](https://actu.fr/bretagne/lannion_22113/bretagne-un-gros-contrat-avec-lenseigne-de-vetements-jules-pour-ce-groupe-de-lannion-on-vous-explique_64903395.html)  
-*Source : actu.fr | Publication : 2026-10-09*
+## [<b>CYBERCRIMINALITÉ</b> : LA POLICE NATIONALE ALERTE SUR UNE VASTE CAMPAGNE D ...](https://www.rts.sn/actualite/detail/a-la-une/cybercriminalite-la-police-nationale-alerte-sur-une-vaste-campagne-darnaques-ciblant-les-comptes-mobile-money)  
+*Source : rts.sn | Publication : 2026-10-10*
 
-- C’est une belle reconnaissance de l’expertise d’Ekinops, basée à Lannion (Côtes-d’Armor).
-- Pour ses 350 magasins répartis principalement en France, en Belgique et à l’international, l’enseigne française de prêt-à-porter masculin Jules a choisi de recourir à ses solutions.
-- Pour cette branche de l’Association Familiale Mulliez (AFM), l’enjeu est de renforcer sa sécurité web et de faire évoluer ses usages numériques.
-- L’ensemble des sites concerné « L’enseigne Jules s’appuie sur les solutions d’Ekinops pour améliorer la visibilité de ses usages Internet, simplifier la gestion des politiques de sécurité et sécuriser les accès web de son siège, comme de ses magasins », détaille Ekinops dans un communiqué.
+- La Police nationale met en garde contre une vaste campagne d’escroquerie visant les utilisateurs de services financiers mobiles.
+- Des individus malveillants utilisent des applications frauduleuses et des liens trompeurs pour voler les codes secrets des utilisateurs et accéder à leurs comptes Mobile Money.
+- Selon la Police nationale, une fois ces informations récupérées, les fraudeurs prennent le contrôle des comptes des victimes pour effectuer des transferts d’argent illicites directement depuis leurs téléphones.
+- Face à cette menace, la Police nationale appelle la population à la plus grande vigilance.
 
-## [&quot;Aucune nouvelle version ne sera rendue publique&quot;: le développeur d'un outil chinois de ... - BFM](https://www.bfmtv.com/tech/cybersecurite/aucune-nouvelle-version-ne-sera-rendue-publique-le-developpeur-d-un-outil-chinois-de-securite-ferme-son-code-source-apres-qu-il-a-ete-detourne-pour-mener-des-cyberattaques_AD-202610090512.html)  
-*Source : bfmtv.com | Publication : 2026-10-09*
+## [Google teste Carbon pour Gemini 4, Argon en approche - Brief IA](https://www.briefia.fr/article/google-teste-carbon-pour-gemini-4-argon-en-approche)  
+*Source : briefia.fr | Publication : 2026-10-10*
 
-- "Aucune nouvelle version ne sera rendue publique": le développeur d'un outil chinois de sécurité ferme son code source après qu'il a été détourné pour mener des cyberattaques Détourné par des "acteurs malveillants", Artex a été contraint de fermer son code source après avoir été détourné.
-- Cet outil de test de sécurité avait été conçu pour aider les entreprises à évaluer leurs systèmes de défense informatique au moyen de tests de sécurité visant à détecter leurs éventuels points faibles.
-- Artex a été "détourné par certains acteurs malveillants" pour lancer des cyberattaques, a écrit jeudi le développeur de l'outil, "Autumn-27", sur la plateforme d'hébergement de code Github, jugeant ce détournement "totalement contraire" à ses intentions.
-- "Compte tenu de l'utilisation abusive de l'outil, le projet Artex ne sera plus mis à jour et passera en code fermé", a-t-il annoncé.
+- Chez Google, la famille Gemini 4 évolue en coulisses.
+- Des employés évaluent une version interne baptisée Carbon, parfois rapprochée d’Opus 5.5, tandis qu’Argon doit d’abord passer par le programme Fairwind avant un lancement plus large.
+- Google met en avant des scores de référence et un accent défensif en cybersécurité, tout en gardant le silence sur le statut exact de Carbon.
+- Nom de code, publication incertaine et passage obligé par Fairwind Le modèle Barium-B a été retenu pour être présenté publiquement sous le nom Argon, illustrant la différence habituelle entre noms internes et noms publics chez Google.
 
-## [<b>Cybersécurité</b> et petites entreprises : 5 mesures à mettre en place sans attendre - Clubic](https://www.clubic.com/actualite-630373-cybersecurite-et-petites-entreprises-5-mesures-a-mettre-en-place-sans-attendre.html)  
-*Source : clubic.com | Publication : 2026-10-09*
+## [<b>Cybercriminalité</b> : que sont les « look up », ces moteurs de recherche de données volées ?](https://www.sudouest.fr/economie/cybersecurite/cybercriminalite-que-sont-les-look-up-ces-moteurs-de-recherche-de-donnees-volees-31005126.php)  
+*Source : sudouest.fr | Publication : 2026-10-10*
 
-- Comptables, courtiers et autres professionnels de la fiscalité sont régulièrement ciblés par les cyberattaques, notamment parce qu’ils manipulent au quotidien de nombreuses données sensibles.
-- Pour limiter les risques, quelques mesures simples et concrètes permettent de renforcer leur sécurité.
-- Il ne faut pas croire que, parce qu’on est une petite structure, on est à l’abri des cyberattaques.
-- Bien au contraire, les entreprises disposant de moyens limités représentent des cibles de choix pour les cybercriminels.
+- Après le démantèlement d’un premier site en France par l’Office anti-cybercriminalité, les autorités alertent sur la multiplication de plateformes clandestines qui compilent illégalement nos informations personnelles Taper le nom de quelqu’un et trouver son numéro de sécurité sociale ou encore ses coordonnées bancaires (IBAN) ?.
+- C’est possible en consultant un « look up ».
+- Ces sites, semblables à des moteurs de recherche, permettent de chercher des informations en saisissant par exemple un nom et un prénom.
+- Selon la personne désignée, il est parfois possible de trouver une adresse mail, postale, une date de naissance… Si certains ne sont accessibles que sur le dark web, d’autres peuvent aussi être consultés sur l’internet classique.
 
-## [La défense passe au digital : les centres de données et l'IA en première ligne de la sécurité nationale](https://www.lombardodier.com/fr/insights/2026/october/defence-goes-digital.html)  
-*Source : lombardodier.com | Publication : 2026-10-09*
+## [Nikkei : Les données personnelles de 320 millions de personnes volées. - Vietnam.vn](https://www.vietnam.vn/fr/nikkei-du-lieu-ca-nhan-cua-320-trieu-nguoi-bi-danh-cap)  
+*Source : vietnam.vn | Publication : 2026-10-10*
 
-- Les cookies nécessaires contribuent au bon fonctionnement du site en activant des fonctionnalités essentielles comme la navigation et l’accès aux zones sécurisées.
-- Ils ne peuvent pas être désactivés dans nos systèmes.
-- Lorsque vous visitez notre Site, des informations peuvent être stockées ou récupérées sur votre dispositif, principalement sous forme de cookies.
-- Nous utilisons des cookies nécessaires au bon fonctionnement du Site, ainsi que des cookies statistiques et marketing pour mesurer l’audience et personnaliser notre contenu.
+- Nikkei : Les données personnelles de 320 millions de personnes volées.
+- Les cyberattaques sont en hausse dans le monde entier, le nombre hebdomadaire moyen d'attaques ciblant chaque organisation augmentant de 48 % en un an.
+- Les pirates informatiques qui exploitent l'intelligence artificielle (IA) pour trouver des vulnérabilités, voler des données et extorquer de l'argent rendent la cybercriminalité de plus en plus sophistiquée, tandis que les tensions géopolitiques semblent également se propager dans le cyberespace.
+- D'après le quotidien japonais Nikkei du 9 octobre, entre le 1er septembre et le 6 octobre, les données personnelles d'environ 320 millions de personnes dans le monde ont été volées, selon des enquêtes menées sur des incidents ayant touché au moins 100 000 personnes.
 
-## [« On ne voit pas encore émerger d'attaques complètement autonomes » : le président d ...](https://www.usine-digitale.fr/cybersecurite/on-ne-voit-pas-encore-emerger-dattaques-completement-autonomes-le-president-dintercert-france-appelle-au-realisme-face-au-marketing-des-laboratoires-dia.7RZF3KP5B5H7DPD37AVIQ65YOE.html)  
-*Source : usine-digitale.fr | Publication : 2026-10-09*
+## [Garantir la sécurité des données dans le processus de transformation numérique.](https://www.vietnam.vn/fr/dam-bao-an-toan-du-lieu-trong-tien-trinh-chuyen-doi-so)  
+*Source : vietnam.vn | Publication : 2026-10-10*
 
-- cybersécurité , estime que l'IA continuera à rendre certaines étapes des intrusions plus efficaces.
-- Il prévoit une réduction du délai entre la.
+- La transformation numérique modifie en profondeur le fonctionnement de l'administration publique, de la gestion et de la prestation de services.
+- Les systèmes d'information s'interconnectent progressivement et les données sont partagées ; les procédures administratives sont numérisées et les informations sur les citoyens sont utilisées pour faciliter le traitement des dossiers, contribuant ainsi à réduire les délais et à améliorer l'efficacité des services rendus aux citoyens et aux entreprises.
+- Cependant, à mesure que les données se centralisent et s'interconnectent sur de multiples plateformes, le risque d'insécurité de l'information se complexifie.
+- Une intrusion dans un système, un vol de données ou une falsification de données peuvent avoir des répercussions directes sur le fonctionnement des organismes gouvernementaux et sur les droits des citoyens.
 
-## [Pourquoi la France semble-t-elle si vulnérable en matière de <b>cybersécurité</b> ? - LinuxFr.org](https://linuxfr.org/users/frayd/liens/pourquoi-la-france-semble-t-elle-si-vulnerable-en-matiere-de-cybersecurite)  
-*Source : linuxfr.org | Publication : 2026-10-09*
+## [Le réseau d'eau potable est-il à l'abri d'une cyberattaque? - Le Canada Français](https://www.canadafrancais.com/actualite/le-reseau-deau-potable-est-il-a-labri-dune-cyberattaque/)  
+*Source : canadafrancais.com | Publication : 2026-10-10*
 
-- On l'a vue dans des séries, avec des blackouts et des milliers de morts.
-- On l'a lue dans des romans d'anticipations avec l'effondrement de systèmes politiques entiers, d'économies, et le délitement de nations.
-- On en a parlé dans les journaux, avec les menacent sur nos vies, notre sécurité, notre souveraineté, nos économies, nos infrastructures.
-- Et elle est là !.
+- Ce type d'information pourrait, en soi, créer une vulnérabilité.
+- Ce que nous pouvons toutefois confirmer, c'est que la cybersécurité fait l'objet d'.
 
-## [Comment les agents IA bouleversent la <b>cybersécurité</b>, défensive et offensive - Next.ink](https://next.ink/260784/comment-les-agents-ia-bouleversent-la-cybersecurite-defensive-et-offensive/)  
-*Source : next.ink | Publication : 2026-10-09*
+## [Let's Encrypt annonce des certificats TLS de 64 jours dès le 10 février 2027](https://pasqualepillitteri.it/fr/news/22111/lets-encrypt-certificats-tls-64-jours-fevrier-2027)  
+*Source : pasqualepillitteri.it | Publication : 2026-10-10*
 
-- Comment les agents IA bouleversent la cybersécurité, défensive et offensive Mythos, va patcher Le 09 octobre à 17h08 Cela ne surprendra personne, mais les deux mots incontournables (ou presque) aux Assises de la cybersécurité de Monaco sont « IA » et « agent ».
-- Entre l’attaque, la défense et l’analyse (avec une forte asymétrie entre les deux), ils sont partout, à toutes les sauces.
-- Si la situation actuelle est compliquée, les élections à venir risquent d’être « un carnage ».
-- Comment les agents IA bouleversent la cybersécurité, défensive et offensive Mythos, va patcher Cela ne surprendra personne, mais les deux mots incontournables (ou presque) aux Assises de la cybersécurité de Monaco sont « IA » et « agent ».
+- Let's Encrypt annonce des certificats TLS de 64 jours dès le 10 février 2027 Dès le 10 février 2027, Let's Encrypt émet des certificats TLS de 64 jours, puis 45 en 2028.
+- Staging dès le 14 octobre, ce qu'il faut vérifier dans cron et scripts.
+- 1.Ce qui change le 10 février 2027 - 2.Trois dates à retenir, du 14 octobre au 11 mai - 3.Pourquoi la réutilisation de la validation tombe à 7 heures - 4.Que vérifier dans cron, scripts et runbooks - 5.Le tableau d'ensemble, entre CA/Browser Forum et faux certificats - 6.Questions fréquentes (FAQ) - 7.Quatre mois pour un contrôle ennuyeux - 8.Notez cet article - 9.Articles Connexes - 10.Recherchez-vous un Ingénieur Logiciel?.
+- - Let's Encrypt émettra par défaut des certificats TLS de 64 jours au lieu des 90 actuels à partir du 10 février 2027, puis passera à 45 jours le 16 février 2028.
 
-## [Cyberattaque : France Travail de nouveau visé par un piratage de données, plus de 100 ...](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-france-travail-de-nouveau-vise-par-un-piratage-de-donnees-plus-de-100-000-numeros-de-telephone-concernes-30981647.php)  
-*Source : sudouest.fr | Publication : 2026-10-09*
+## [Prix EY 2026 de l'Entrepreneur de l'année. Sept entreprises récompensées à Rennes](https://www.ouest-france.fr/economie/entreprises/prix-ey-2026-de-lentrepreneur-de-lannee-sept-entreprises-recompensees-a-rennes-f58aceec-c3ee-11f1-92e9-819eb738846b)  
+*Source : ouest-france.fr | Publication : 2026-10-10*
 
-- Les données personnelles de plus de 62 000 agents de France Travail ont été mises en vente sur un forum cybercriminel après une nouvelle intrusion informatique France Travail a de nouveau été victime la semaine dernière d’une cyberattaque, provoquant la mise en vente de données de 62 848 agents sur un forum cybercriminel, a rapporté jeudi le site French Breaches. «.
-- Selon nos informations, l’intrusion aurait eu lieu la semaine dernière via le compte Microsoft d’un employé.
-- L’accès aurait été détecté et bloqué quelques jours après l’exfiltration des données », selon ce site spécialisé dans la surveillance des fuites de données.
+- Dans la catégorie Start-Up de l'Année, le jury a récompensé GLIMPS, une entreprise de cybersécurité installée à Cesson-Sévigné (Ille-et-Vilaine).
 
-## [Face à l'essor des moteurs de recherche illégaux de données, un premier site « lookup » démantelé](https://fr.news.yahoo.com/sport/face-à-l-essor-moteurs-081720749.html)  
-*Source : fr.news.yahoo.com | Publication : 2026-10-09*
+## [Comment fonctionnent les &quot;look up&quot;, moteurs de recherche de données volées](https://www.notretemps.com/depeches/comment-fonctionnent-les-look-up-moteurs-de-recherche-de-donnees-volees-139644)  
+*Source : notretemps.com | Publication : 2026-10-10*
 
-- Face à l’essor des moteurs de recherche illégaux de données, un premier site « lookup » démantelé Un premier démantèlement d'un site « lookup », ces moteurs de recherche illégaux qui permettent d'accéder aux données personnelles d'un grand nombre de Français, a été réalisé mardi 6 octobre, a communiqué, jeudi, l'Office anti-cybercriminalité (OFAC). «.
-- L'OFAC a interpellé les trois administrateurs du lookup initialement connu sous le nom de Reacher, puis renommé Stryxx, qu'ils ont dans le même temps mis hors ligne », a annoncé le chef de l'OFAC Nicolas Guidoux sur le réseau social LinkedIn. «.
-- Ce démantèlement est le premier en France pour une plate-forme spécialisée dans l'organisation, la compilation et la revente de données », a-t-il ajouté.
-- Il n'y a pas que le fisc qui se fait pirater, chaque jour des milliers de données fuitent en France Selon le chef de l'office, le site, créé en mars dernier, revendiquait « 730 millions de lignes de données indexées et plus de trois millions de requêtes réalisées ».
+- Comment fonctionnent les "look up", moteurs de recherche de données volées Après l'interpellation de trois personnes et la fermeture d'un premier site d'agrégation de fuites de données personnelles en France, les autorités alertent sur ces moteurs de recherche clandestins alimentés par des bases issues de cyberattaques et qui se sont récemment multipliés.
+- De quoi s'agit-il ?.
+- - Comment fonctionnent ces sites ?.
+- Ces sites, communément appelés "look up", ne sont "pas une nouveauté", explique Damien Bancal, qui anime le blog spécialisé en cybersécurité Zataz.
