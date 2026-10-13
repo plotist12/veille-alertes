@@ -1,151 +1,149 @@
-# Résumés – 2026-10-12
+# Résumés – 2026-10-13
 
 
-## [On ne donne jamais l'identité de l'utilisateur à l'agent - Global Security Mag](http://www.globalsecuritymag.fr/on-ne-donne-jamais-l-identite-de-l-utilisateur-a-l-agent.html)  
-*Source : globalsecuritymag.fr | Publication : 2026-10-11*
+## [Presse &amp; Médias - <b>Cybersécurité</b>, le défi du siècle - CEA](https://www.cea.fr/presse/Pages/actualites-communiques/ntic/cybersecurite-defi-siecle.aspx)  
+*Source : cea.fr | Publication : 2026-10-12*
 
-- GSM : Quel est votre parcours ?.
-- P.-A.
-- F.-B. : Je suis chez ENGIE depuis seize ans, comme architecte infrastructure et cybersécurité, après avoir commencé il y a plus de trente ans dans l’identité, puis travaillé en cabinet de conseil.
-- GSM : Quelle est votre histoire avec Okta ?.
+- Pour accéder à toutes les fonctionnalités de ce site, vous devez activer JavaScript.
+- Voici les instructions pour activer JavaScript dans votre navigateur Web.
+- Actualité | Nouvelles technologies | Cybersécurité Alors que les cyberattaques n’épargnent désormais aucun aspect de notre vie quotidienne, la cybersécurité est devenue un impératif pour la souveraineté des États et la résilience de la Nation.
+- Conscient de l’enjeu, le CEA s’appuie sur une stratégie développée de longue date et des moyens de recherche conséquents, pour soutenir une transformation numérique sans risque au service de ses propres activités mais aussi des citoyens, des entreprises et des institutions.
 
-## [Comment fonctionnent les moteurs de recherche de données volées? - Les Affaires](https://www.lesaffaires.com/dossiers/cloud-devenir-plus-durable-est-necessaire/comment-fonctionnent-les-moteurs-de-recherche-de-donnees-volees/)  
-*Source : lesaffaires.com | Publication : 2026-10-11*
+## [Face à un déploiement à grande vitesse, comment les experts de la cyber courent après les ...](https://www.lesechos.fr/tech-medias/hightech/face-a-un-deploiement-a-grande-vitesse-comment-les-experts-de-la-cyber-courent-apres-les-agents-ia-en-entreprise-2256436)  
+*Source : lesechos.fr | Publication : 2026-10-12*
 
-- Comment fonctionnent les moteurs de recherche de donnÃ©es volÃ©es?.
-- AFP|PubliÃ© il y a 40 minutes(Photo: Annette Riedl / Getty Images) AprÃ¨s lâinterpellation de trois personnes et la fermeture dâun premier site dâagrÃ©gation de fuites de donnÃ©es personnelles en France, les autoritÃ©s alertent sur ces moteurs de recherche clandestins alimentÃ©s par des bases issues de cyberattaques et qui se sont rÃ©cemment multipliÃ©s.
-- De quoi sâagit-il?.
-- Comment fonctionnent ces sites?.
+- Les agents IA se multiplient dans les entreprises, mais leur déploiement rapide expose à des risques cyber croissants.
+- Les experts peinent à.
 
-## [Carte security.txt des transports suisses • DCOD | <b>Cybersécurité</b> • IA • Tech](https://dcod.ch/carte-security-txt-transports-suisses/)  
-*Source : dcod.ch | Publication : 2026-10-11*
+## [Cyberattaque contre les supermarchés : « Je suis stupéfait, je n'ai jamais vu ça » - Le Point](https://www.lepoint.fr/societe/cyberattaque-contre-les-supermarches-je-suis-stupefait-je-nai-jamais-vu-ca-G6FA4AIUXJGR5P3TTIL7O24W34/)  
+*Source : lepoint.fr | Publication : 2026-10-12*
 
-- Le security.txt est un fichier texte standardisé par la RFC 9116, publié à l’adresse /.well-known/security.txt d’un site, qui indique publiquement à qui signaler une faille de sécurité.
-- Les transports suisses figurent parmi les cibles des attaques contre les infrastructures critiques : un point de contact clair et surveillé permet à un chercheur qui découvre une faille chez un exploitant de la signaler sans délai à la bonne personne, plutôt que de la laisser sans suite.
-- Analyses cybersécurité passives : Aucun scan de vulnérabilités, aucune tentative d’accès ni d’exploitation.
-- Les contrôles se limitent à la lecture d’informations publiques que tout navigateur ou serveur de messagerie reçoit lors d’une connexion ordinaire au site.
+- Des failles de sécurité déjà identifiées.
+- Pour les spécialistes de cybersécurité , le scénario n'est pourtant pas totalement inédit.
+- Dès mai 2025, l'.
 
-## [Zelensky accuse Moscou de frapper l'énergie malgré le cessez-le-feu annoncé par Trump](https://www.lesaffaires.com/secteurs/monde/zelensky-accuse-moscou-de-frapper-lenergie-malgre-le-cessez-le-feu-annonce-par-trump/)  
-*Source : lesaffaires.com | Publication : 2026-10-11*
+## [Cyberattaque dans les supermarchés : « Les glaces avaient complètement fondu, il y avait ...](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-dans-les-supermarches-les-glaces-avaient-completement-fondu-il-y-avait-du-jus-partout-tous-les-produits-surgeles-etaient-touches-temoigne-le-responsable-du-secteur-frais-a-l-intermarche-de-parempuyre-31041302.php)  
+*Source : sudouest.fr | Publication : 2026-10-12*
 
-- Zelensky accuse Moscou de frapper lâÃ©nergie malgrÃ© le cessez-le-feu annoncÃ© par Trump AFP|PubliÃ© il y a 38 secondesLe prÃ©sident ukrainien Volodymyr Zelensky.
-- (Photo: Tetiana Dzhafarova / Getty Images) Kiev â La Russie a menÃ© des frappes sur des installations Ã©nergÃ©tiques en Ukraine Â«aprÃ¨sÂ» lâannonce surprise du prÃ©sident amÃ©ricain sur un cessez-le-feu selon lui conclu entre Kiev et Moscou, a affirmÃ© le prÃ©sident ukrainien Volodymyr Zelensky dimanche.
-- Â«Les Russes ont frappÃ© une centrale Ã©lectrique Ã KievÂ» et Â«plus tard, il y a eu des frappes sur des installations Ã©nergÃ©tiques dans la rÃ©gion de Kharkiv.
-- Et tout Ã§a sâest produit APRÃS que le prÃ©sident amÃ©ricain a fait sa dÃ©claration Ã propos dâun cessez-le-feu Ã©nergÃ©tiqueÂ», a dÃ©clarÃ© M. Zelensky dans un message sur Facebook aprÃ¨s sâÃªtre entretenu avec la cheffe de la Commission europÃ©enne Ursula von der Leyen.
+- Victime d’une cyberattaque nationale, le supermarché Intermarché de Parempuyre, en Gironde, a dû jeter l’ensemble des produits surgelés endommagés mis en rayon dans les installations frigorifiques connectées L’Intermarché de Parempuyre n’a pas eu la chance de passer entre les mailles du filet.
+- Il fait partie des supermarchés victimes de la cyberattaque nationale ayant frappé dans la nuit de dimanche à lundi les installations frigorifiques de quelque 500 magasins en France.
+- Aurélien Comte, responsable du secteur frais depuis cinq ans, a pu mesurer l’ampleur des dégâts ce lundi 12 octobre à l’embauche, à 5 heures du matin.
 
-## [Gumball, Les Super Nanas… 200 Go d'archives de Cartoon Network ont fuité - Clubic](https://www.clubic.com/actualite-633661-gumball-les-super-nanas-200-go-d-archives-de-cartoon-network-ont-fuite.html)  
-*Source : clubic.com | Publication : 2026-10-11*
+## [Des centaines de supermarchés victimes d'une cyberattaque visant leurs installations frigorifiques](https://www.nouvelobs.com/economie/20261012.OBS119144/des-centaines-de-supermarches-dont-intermarche-et-super-u-victimes-d-une-cyberattaque-visant-leurs-installations-frigorifiques-ce-que-l-on-sait.html)  
+*Source : nouvelobs.com | Publication : 2026-10-12*
 
-- Des internautes partagent en ligne des fichiers de travail d’une trentaine de séries de Cartoon Network.
-- Les fans d’animation épluchent ces archives avec gourmandise, alors que leur origine est inconnue et que leur authenticité n’a encore été vérifiée par aucune source indépendante.
-- Les passionnés profitent d’une plongée rare dans les coulisses de dessins animés cultes.
-- Le nouveau propriétaire de la chaîne hérite surtout d’une énigme, car personne ne sait encore qui a fait sortir ces archives du studio, ni par quel moyen.
+- Des centaines de supermarchés victimes d’une cyberattaque visant leurs installations frigorifiques : ce que l’on sait Récap Le parquet de Paris a annoncé le lancement d’une enquête de sa propre initiative sur « la cyberattaque d’ampleur touchant les réfrigérateurs connectés de plusieurs grands magasins de distribution alimentaire sur tout le territoire français ».
+- Vous voulez participer au débat ?.
+- S’abonner permet de commenter les articles.
+- Et pas que : vous pouvez les consulter et les offrir à vos proches.
 
-## [Sécurité des systèmes d'information : plus que des engagements, les organisations doivent ...](https://lematin.ma/economie/securite-des-si-il-faut-consentir-les-investissements-necessaires/369742)  
-*Source : lematin.ma | Publication : 2026-10-11*
+## [IonQ met la main sur Elisity pour se renforcer dans la <b>cybersécurité</b> | Zonebourse Suisse](https://ch.zonebourse.com/actualite-bourse/ionq-met-la-main-sur-elisity-pour-se-renforcer-dans-la-cybersecurite-ce785ddcd08efe25)  
+*Source : ch.zonebourse.com | Publication : 2026-10-12*
 
-- «La menace ne s’attaque pas à une moyenne nationale : elle cherche la vulnérabilité la plus accessible, là où les mesures de sécurité sont insuffisamment appliquées.».
-- Voilà un constat qui a résonné avec force à la clôture des huitièmes Assises de l’Association des utilisateurs des systèmes d’information au Maroc (AUSIM).
-- Son auteur, le général de brigade Abdellah Boutrig, directeur général de la Direction générale de la sécurité des systèmes d’information (DGSSI), le rappelle à juste titre : un pays bien classé en cybersécurité peut encore compter des systèmes mal protégés.
-- Le Maroc a pourtant de quoi faire valoir ses progrès.
+- Elisity apporte à IonQ une plateforme de sécurité déjà déployée auprès de plus de 100 clients dans le monde, ainsi qu&#039;un réseau de relations établi avec les responsables de la sécurité des systèmes d&#039;information des grandes entreprises.
+- La société a doublé chaque année son chiffre d&#039;affaires et sa clientèle, sans enregistrer de départ parmi les clients ayant déployé ses solutions.Cette acquisition permettra à IonQ d&#039;associer ses technologies de cryptographie post-quantique (PQC) et de distribution quantique de clés (QKD) à la plateforme de sécurité d&#039;Elisity, afin de proposer aux entreprises et aux administrations des solutions capables de répondre aux cybermenaces actuelles tout en les préparant aux risques liés à l&#039;essor de l&#039;informatique quantique.L&#039;opération s&#039;inscrit également dans le cadre des initiatives de l&#039;administration américaine visant à accélérer l&#039;adoption de technologies de cybersécurité résistantes aux futures capacités de calcul quantique, notamment à la suite d&#039;un décret de la Maison-Blanche daté du 22 juin.IonQ acquerra Elisity dans le cadre d&#039;une transaction entièrement rémunérée en actions, valorisée jusqu&#039;à 1,3 MdUSD.
+- Ce montant comprend un complément de prix pouvant atteindre 150 MUSD, dont le versement dépendra des performances futures d&#039;Elisity.Le nombre d&#039;actions IonQ émises dans le cadre de l&#039;opération sera déterminé au moment de sa finalisation, attendue au 4e trimestre 2026, sous réserve des conditions habituelles, notamment de l&#039;obtention des autorisations réglementaires nécessaires.
 
-## [Deux millions de cyberattaques ont été détectées l'année dernière à Monaco par l'Agence ...](https://www.nicematin.com/societe/securite/deux-millions-de-cyberattaques-ont-ete-detectees-l-annee-derniere-a-monaco-par-l-agence-monegasque-de-securite-numerique-comment-se-proteger-10737232)  
-*Source : nicematin.com | Publication : 2026-10-11*
+## [Forum <b>Cybersécurité</b> : L'EiJV réunit à Amiens experts, entreprises et acteurs publics pour ... - UPJV](https://www.u-picardie.fr/agenda/forum-cybersecurite-leijv-reunit-amiens-experts-entreprises-acteurs-publics-pour-echanger-sur-nouvelles-menaces-numeriques)  
+*Source : u-picardie.fr | Publication : 2026-10-12*
 
-- Deux millions de cyberattaques ont été détectées l’année dernière à Monaco par l’Agence monégasque de sécurité numérique : comment se protéger ?.
-- Avec plus de 3.500 visiteurs, le succès des 26e Assises de la cybersécurité de Monaco qui viennent de s’achever n’est plus à prouver.
-- Il faut dire qu’en ces temps de piratages informatiques provenant de tous horizons, la protection de nos données devient prégnante.
-- À l’Agence monégasque de sécurité numérique, 2 millions d’attaques ont été détectées en 2025, uniquement sur les services de l’Etat de la Principauté.
+- L’École d’ingénieurs Jules Verne (EiJV) de l’UPJV organise, jeudi 15 octobre à Amiens, la 4ᵉ édition de son rendez-vous annuel consacré à la cybersécurité.
+- Cette année, cet événement évolue et devient le Forum Cybersécurité, avec de nouveaux formats d’interventions favorisant les échanges et l’accompagnement des organisations.
+- Organisé avec le soutien d’Amiens Métropole et de la CCI Amiens-Picardie Hauts-de-France, ce Forum réunira entreprises, collectivités, acteurs publics, experts et étudiants pour décrypter les menaces actuelles et identifier les moyens concrets de renforcer la sécurité des organisations.
+- Comme chaque année depuis sa création, l’événement proposera conférences, retours d’expériences, table ronde et rencontres avec des professionnels pour les enjeux réglementaires, technologiques et opérationnels de la cybersécurité.
 
-## [Chambéry. Face au piratage informatique, les élèves de la Cardinière passent à l'action](https://www.ledauphine.com/education/2026/10/11/face-au-piratage-informatique-les-eleves-de-la-cardiniere-passent-a-l-action)  
-*Source : ledauphine.com | Publication : 2026-10-11*
+## [Fuites de données : le véritable risque n'est plus ce que l'on vole, mais ce que l'on peut en faire](https://www.journaldunet.com/cybersecurite/1555923-fuites-de-donnees-le-veritable-risque-n-est-plus-ce-que-l-on-vole-mais-ce-que-l-on-peut-en-faire/)  
+*Source : journaldunet.com | Publication : 2026-10-12*
 
-- Chambéry Face au piratage informatique, les élèves de la Cardinière passent à l’action Lundi 5 octobre, dans le cadre d’un projet mené avec CyberAix, le commandant Cyril Bras est intervenu au lycée chambérien de la Cardinière auprès des élèves en classe de première bac pro métiers du commerce et de la vente.
-- Objectif pour cet expert reconnu en cyber sécurité : sensibiliser les élèves aux réalités du piratage informatique et aux.
+- Fuites de données : le véritable risque n'est plus ce que l'on vole, mais ce que l'on peut en faire Les fuites de données ne relèvent plus seulement du numérique.
+- Elles peuvent désormais exposer des individus à des menaces physiques, faisant de la protection des données un enjeu de sécurité global Les fuites de données se multiplient, gagnent en ampleur et en gravité.
+- Elles sont devenues un phénomène massif et profondément déstabilisant pour les entreprises, les administrations… Et 2026 confirme cette tendance : selon une récente étude, 43,4 millions de comptes français ont été compromis entre janvier et juin 2026, faisant de la France le pays européen le plus touché par les fuites de données… et le deuxième au niveau mondial.
+- Au-delà de ces chiffres, c’est la nature du phénomène qui évolue.
 
-## [Bill Gates estime que les cyberattaques constituent la menace la plus immédiate liée à l'IA](https://fr.tradingview.com/news/afp:64db695faba09:0/)  
-*Source : fr.tradingview.com | Publication : 2026-10-11*
+## [Cyberattaque dans les supermarchés : magasins concernés, mode opératoire, auteurs… les ...](https://www.ladepeche.fr/2026/10/12/cyberattaque-dans-les-supermarches-magasins-concernes-mode-operatoire-auteurs-les-reponses-aux-questions-que-vous-vous-posez-13597502.php)  
+*Source : ladepeche.fr | Publication : 2026-10-12*
 
-- Bill Gates estime que les cyberattaques constituent la menace la plus immédiate liée à l'IA Le cofondateur de Microsoft, Bill Gates, a exprimé dimanche son inquiétude face à une potentielle multiplication des cyberattaques appuyées sur l'intelligence artificielle (IA), davantage que le risque de voir cette technologie devenir "incontrôlable".
-- "Les cyberattaques constitueront sans doute le défi le plus marquant auquel nous serons confrontés au cours de l'année à venir", a-t-il déclaré lors d'une interview sur la chaîne américaine ABC News.
-- "Le véritable danger, à l'heure actuelle, ce n'est pas que l'IA devienne incontrôlable" même s'il "va falloir y travailler", a-t-il ajouté.
-- Mais "plutôt que des personnes mal intentionnées l'utilisent".
+- Cyberattaque dans les supermarchés : magasins concernés, mode opératoire, auteurs… les réponses aux questions que vous vous posez l'essentiel Intermarché, Netto, E.Leclerc… Plusieurs centaines de supermarchés ont été touchés par une cyberattaque qui a perturbé leurs systèmes de réfrigération.
+- En exploitant des failles de sécurité, les pirates ont provoqué la hausse des températures et contraint des magasins à jeter des milliers d’euros de marchandises.
+- Les responsables de l’attaque restent inconnus.
+- Des centaines de supermarchés ont été touchés par une cyberattaque dans la nuit du dimanche 11 au lundi 12 octobre.
 
-## [Les 15 principales entreprises du marché mondial des logiciels antivirus - Spherical Insights](https://www.sphericalinsights.com/fr/blogs/top-15-companies-in-global-antivirus-software-market-2026-2035-spherical-insights-analysis)  
-*Source : sphericalinsights.com | Publication : 2026-10-11*
+## [Frigos surchauffés, failles d'un logiciel, millions d'euros perdus... comment expliquer la cyberattaque](https://www.ledauphine.com/faits-divers-justice/2026/10/12/frigos-surchauffes-failles-d-un-logiciel-millions-d-euros-perdus-comment-expliquer-la-cyberattaque)  
+*Source : ledauphine.com | Publication : 2026-10-12*
 
-- Les 15 principales entreprises du marché mondial des logiciels antivirus DATE DE PUBLICATION: Oct 2026 Auteur: Spherical InsightsDemander un échantillon gratuit Parler à un analyste Désignation des marchandises Selon un rapport de recherche publié par Spheric Insights & Consulting, la taille du marché mondial des logiciels antivirus devrait passer de 4,95 milliards de dollars en 2025 à 10,22 milliards de dollars en 2035, avec un TCAC de 7,52% au cours de la période de prévision 2026-2035.
-- L'adoption croissante de la sécurité basée sur l'IA aide les logiciels antivirus à détecter de nouveaux logiciels malveillants, analyser les activités suspectes, identifier les menaces plus rapidement, automatiser les réponses et améliorer la protection en temps réel contre les cyberattaques de plus en plus complexes.
-- Présentation Le marché mondial des logiciels antivirus comprend des logiciels conçus pour détecter, prévenir et éliminer les virus, les logiciels malveillants, les logiciels espions et d'autres cybermenaces des ordinateurs, des smartphones et des réseaux d'affaires.
-- Il est utilisé par les particuliers, les entreprises, les organismes gouvernementaux et les établissements d'enseignement pour protéger les appareils, les données et les systèmes numériques.
+- Cybersécurité Frigos surchauffés, failles d'un logiciel, millions d'euros perdus... comment expliquer la cyberattaque ?.
+- Les systèmes frigorifiques.
 
-## [ACTUALITÉS MONDIALES DE LA SEMAINE : L'IA transforme le paysage de la <b>cybersécurité</b>.](https://www.vietnam.vn/fr/the-gioi-tuan-qua-ai-lam-thay-doi-bai-toan-an-ninh-mang)  
-*Source : vietnam.vn | Publication : 2026-10-11*
+## [Appel à projets « Soutien au développement de solutions de <b>cybersécurité</b> et à l ... - Bpifrance](https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-soutien-au-developpement-de-solutions-de-cybersecurite-et-a-lamelioration-de-la-maturite-de-loffre-dans-lecosysteme)  
+*Source : bpifrance.fr | Publication : 2026-10-12*
 
-- L'IA peut aider les pirates informatiques à intensifier leurs attaques.
-- En Corée du Sud, plusieurs banques ont été la cible de cyberattaques.
-- Notamment, la banque Shinhan a annoncé le 1er octobre que les informations d'environ 25 000 clients avaient été compromises, incluant leurs noms, numéros de téléphone, revenus annuels et plafonds de crédit.
-- Selon l'agence de presse Yonhap, des experts soupçonnent que des agents d'IA ont été utilisés pour exploiter des vulnérabilités et infiltrer illégalement un service utilisé par des recruteurs de prêts.
+- Appel à projets « Soutien au développement de solutions de cybersécurité et à l'amélioration de la maturité de l'offre dans l'écosystème » Cet appel à projets vise à soutenir le développement de solutions innovantes de confiance par les PME et startups.
+- Les objectifs poursuivis sont l’émergence de prototypes et démonstrateurs sur des verrous techniques, la montée en maturité de l’offre de prestations cyber et l’amélioration de la capacité de projection dans les activités de normalisation.
+- Vous avez jusqu'au 19 janvier 2028 pour déposer votre candidature.
+- Appels à projets - Documents à télécharger Les projets peuvent s’inscrire dans trois axes Axe 1 – Solutions cyber et développements techniques - Axe 2 – Soutien aux prestataires de services de cybersécurité préfigurant une démarche de qualification ANSSI et aux organismes d’évaluation de la conformité des services - Axe 3 – Soutien aux PME et startups dans le champ de la normalisation, dont la rédaction de profils de protection - Projets attendus La réalisation de ces projets doit porter sur des travaux innovants de recherche et développement en cybersécurité réalisés en France, et non engagés avant la date de relève et s’inscrire dans un axe précis.
 
-## [Egide frappé par une cyberattaque : son site de Bollène partiellement interrompu](https://www.cyberattaque.org/egide-frappe-par-une-cyberattaque-son-site-de-bollene-partiellement-interrompu/)  
-*Source : cyberattaque.org | Publication : 2026-10-11*
+## [France : une “cyberattaque d'ampleur” vise les installations frigorifiques de centaines de ...](https://www.courrierinternational.com/article/economie-france-une-cyberattaque-d-ampleur-vise-les-installations-frigorifiques-de-centaines-de-supermarches_278047)  
+*Source : courrierinternational.com | Publication : 2026-10-12*
 
-- Egide, groupe industriel français spécialisé dans les composants destinés à protéger des équipements électroniques sensibles, confirme avoir été victime d’une cyberattaque le 6 octobre 2026.
-- L’incident ne serait pas parti directement de ses infrastructures mais d’un prestataire informatique externe.
-- La compromission est susceptible d’avoir affecté plusieurs systèmes du site industriel de Bollène, dans le Vaucluse.
-- Par mesure de précaution, Egide a décidé d’y interrompre temporairement une partie de ses activités pendant que les investigations et les opérations de restauration se poursuivent.
+- Coup de chaud sur les surgelés français.
+- “Une cyberattaque de grande ampleur visant des systèmes de réfrigération commerciale dans toute la France a causé des dommages s’élevant à plusieurs millions d’euros à plus de 150 supermarchés.
+- Des pirates informatiques ont modifié à distance la température des réfrigérateurs et congélateurs pendant la nuit”, résume le quotidien britannique The Independent.
+- Plusieurs centaines de supermarchés ont été victimes, dans la nuit du dimanche 11 au lundi 12 octobre, de ce raid numérique.
 
-## [Après 1,6 million de pièces d'identité exposées, le Japon veut que les banques lisent la puce](https://fr.martincid.com/technologie/apres-16-million-de-pieces-didentite-exposees-le-japon-veut-que-les-banques-lisent-la-puce/)  
-*Source : fr.martincid.com | Publication : 2026-10-11*
+## [Mois européen de la <b>cybersécurité</b> : les bons réflexes pour éviter les arnaques en ligne](https://rci.fm/deuxiles/infos/Informations-pratiques/Mois-europeen-de-la-cybersecurite-les-bons-reflexes-pour-eviter-les)  
+*Source : rci.fm | Publication : 2026-10-12*
 
-- Cinéma Technologie Musique Science Affaires et finances Sports Art Plus Livres Personnes Style Théâtre Histoire Actualités mondiales Santé Français English Español Deutsch Français Dansk हिन्दी Italiano 日本語 한국어 Norsk bokmål Polski Português (PT) Português (BR) Română Русский Svenska Türkçe Tiếng Việt 简体中文 繁體中文 Español (Latinoamérica) ✕.
-- Cinéma Technologie Musique Science Affaires et finances Sports Art Plus Livres Personnes Style Théâtre Histoire Actualités mondiales Santé Français English Español Deutsch Français Dansk हिन्दी Italiano 日本語 한국어 Norsk bokmål Polski Português (PT) Português (BR) Română Русский Svenska Türkçe Tiếng Việt 简体中文 繁體中文 Español (Latinoamérica) ✕ Appuyez sur Entrée pour rechercher.
+- Mois européen de la cybersécurité : les bons réflexes pour éviter les arnaques en ligne Faux SMS, mails frauduleux, comptes piratés ou liens piégés : les particuliers sont devenus des cibles privilégiées des cyberescrocs.
+- À l’occasion du mois européen de la cybersécurité, plusieurs gestes simples permettent de mieux protéger ses données personnelles.
+- Les cyberattaques ne concernent pas uniquement les grandes entreprises ou les administrations.
+- Un SMS imitant celui d’une banque, un message reçu sur WhatsApp, une fausse livraison ou encore un compte Facebook piraté peuvent suffire à piéger un particulier.
 
-## [IA : ni lièvre, ni tortue ! - Les Echos](https://www.lesechos.fr/idees-debats/editos-analyses/ia-ni-lievre-ni-tortue-2256227)  
-*Source : lesechos.fr | Publication : 2026-10-11*
+## [Des supermarchés français touchés par une cyberattaque inédite de leurs installations frigorifiques](https://actu.orange.fr/economie/des-supermarches-francais-touches-par-une-cyberattaque-inedite-de-leurs-installations-frigorifiques-CNT000002sFDSj.html)  
+*Source : actu.orange.fr | Publication : 2026-10-12*
 
-- Sylvain Duranton plaide pour un sprint en cybersécurité , mais une course de demi-fond pour les entreprises qui s'adaptent.
+- Des supermarchés français touchés par une cyberattaque inédite de leurs installations frigorifiques Pas de données volées, mais des produits frais à jeter : plusieurs enseignes de supermarchés françaises ont été victimes dans la nuit de dimanche à lundi d'une cyberattaque "inédite" visant leurs installations frigorifiques, suscitant des craintes en matière de sécurité alimentaire.
+- Au moins 300 points de vente Intermarché/Netto, moins d'une centaine du réseau de Coopérative U, "plusieurs magasins" du groupement E.Leclerc, 80 supermarchés Carrefour et une trentaine de Monoprix sont concernés par cette attaque révélée par BFMTV, ont confirmé à l'AFP ces distributeurs.
+- Sollicité par l'AFP, le parquet de Paris a annoncé le lancement d'une enquête de sa propre initiative sur "la cyberattaque d'ampleur touchant les réfrigérateurs connectés de plusieurs grands magasins".
+- L'enquête, dirigée par la section anticybercriminalité et "confiée à l'office anticybercriminalité (OFAC), doit permettre de recenser les victimes et d'établir le lien avec les dégâts rapportés" en matière de "pertes de denrées alimentaires" et d'équipements ayant commencé à prendre feu, a-t-il précisé.
 
-## [Le FBI arrête un cadre de la <b>cybersécurité</b> lié au hacker ShinyHunter - IDNFinancials](https://www.idnfinancials.com/fr/digital-asset/70015/le-fbi-arrête-un-cadre-de-la-cybersécurité-lié-au-hacker-shinyhunter)  
-*Source : idnfinancials.com | Publication : 2026-10-11*
+## [IonQ mise 1,3 milliard de dollars sur la <b>cybersécurité</b> avec Elisity - Distributique](https://www.distributique.com/actualites/lire-ionq-mise-1-3-milliard-de-dollars-sur-la-cybersecurite-avec-elisity-37434.html)  
+*Source : distributique.com | Publication : 2026-10-12*
 
-- Le FBI arrête un cadre de la cybersécurité lié au hacker ShinyHunter JAKARTA — Les agents du Bureau Fédéral d'Investigation (FBI) des États-Unis ont arrêté jeudi un cadre d'une société canadienne de cybersécurité.
-- Cette arrestation est liée à une enquête sur le groupe de hackers ShinyHunters, qui a récemment volé des données sensibles appartenant à des milliers d'agents du FBI, selon des sources de KrebsOnSecurity.
-- Le New York Times a rapporté aujourd'hui que le FBI avait arrêté un homme canadien en Pennsylvanie pour avoir prétendument aidé ShinyHunters.
-- Cependant, le rapport n'a pas divulgué l'identité de l'homme.
+- Le spécialiste de l'informatique quantique IonQ a conclu un accord pour acquérir Elisity, entreprise spécialisée dans la sécurité Zero Trust.
+- L'opération doit rapprocher protection des réseaux, cryptographie post-quantique et contrôle des accčs.
+- IonQ élargit son périmčtre au-delŕ du calcul quantique.
+- Le groupe américain a annoncé, le 12 octobre, un accord en vue d'acquérir Elisity, une société spécialisée dans la sécurisation des réseaux d'entreprise, dans le cadre d'une transaction en actions valorisée jusqu'ŕ 1,3 milliard de dollars.
 
-## [Fuite de données : le dispositif d'aide aux vacances des Caisses d'allocations familiales ...](https://www.ici.fr/infos/societe/fuite-de-donnees-le-dispositif-d-aide-aux-vacances-des-caisses-d-allocations-familiales-victime-d-une-cyberattaque-2844796)  
-*Source : ici.fr | Publication : 2026-10-11*
+## [<b>Cybersécurité</b>. TheGreenBow et XMCO s'implantent à Toulouse - ToulÉco](https://www.touleco.fr/Cybersecurite-TheGreenBow-et-XMCO-s-implantent-a-Toulouse,53739)  
+*Source : touleco.fr | Publication : 2026-10-12*
 
-- Fuite de données : le dispositif d’aide aux vacances des Caisses d’allocations familiales victime d’une cyberattaque Publié le Un "incident de cybersécurité" a touché vendredi le dispositif Vacaf d'aide aux vacances des Caisses d'allocations familiales, avec "une fuite concernant les données des bénéficiaires", a indiqué samedi la Caisse nationale des allocations familiales (Cnaf) sans donner de chiffres.
-- "Une fuite concernant les données des bénéficiaires" du dispositif d'aide aux vacances des Caisses d'allocations familiales (Vacaf) a été signalée vendredi, a indiqué samedi la Caisse nationale des allocations familiales (Cnaf) sans donner de chiffres.
-- L'organisme évoque un "incident de cybersécurité" et précise que "l'accès à la plateforme vacaf.org a été rapidement suspendu" afin de "sécuriser l'environnement et de prévenir tout nouvel accès non autorisé", et qu'"une cellule de crise a été activée".
-- "Les premières analyses confirment d'ores et déjà que ni les données bancaires des allocataires, ni les mots de passe d'accès aux services en ligne des Caf ne figurent parmi les données concernées", ajoute la Cnaf.
+- Deux acteurs français de la cybersécurité, TheGreenBow et XMCO, ont choisi de s’implanter à Toulouse avec l’accompagnement de Toulouse Team Invest, service de l’agence d’attractivité de Toulouse.
+- Éditeur français de solutions souveraines certifiées par l’agence nationale de la sécurité des systèmes d’information (Anssi) et déployées dans plus de 70 pays, TheGreenBow va poursuivre son développement depuis Toulouse.
+- Ses technologies sécurisent les communications d’entreprises, d’administrations et des opérateurs d’importance vitale.
+- XMCO, cabinet français reconnu depuis plus de vingt ans pour son expertise en cybersécurité, a choisi également Toulouse afin de renforcer sa proximité avec les grands acteurs industriels du territoire toulousain et d’accompagner leur transformation numérique.
 
-## [Vous oubliez toujours d'appeler vos parents ? L'IA de Google va bientôt pouvoir le faire à votre place](https://www.jeuxvideo.com/news/2108285/vous-oubliez-toujours-d-appeler-vos-parents-l-ia-de-google-va-bientot-pouvoir-le-faire-a-votre-place.htm)  
-*Source : jeuxvideo.com | Publication : 2026-10-11*
+## [Cyberattaque dans les supermarchés : 75 000 euros de pertes à Intermarché Marmande, un acte](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-dans-les-supermarches-75-000-euros-de-pertes-a-intermarche-marmande-un-acte-ecoeurant-selon-la-directrice-31038815.php)  
+*Source : sudouest.fr | Publication : 2026-10-12*
 
-- Marre de repousser ce coup de fil à vos proches par manque de temps ou pure flemme ?.
-- Google prépare une évolution majeure de son assistant Gemini sur Pixel 11 : déléguer la gestion de vos appels personnels à une intelligence artificielle capable de parler directement à vos contacts à votre place.
-- Oui, on en est là Automatisation des appels personnels : L'assistant vocal Gemini permettra bientôt de déléguer intégralement la passation d'appels téléphoniques à ses proches via une intelligence artificielle autonome.
-- - Risques de déshumanisation sociale : La sous-traitance technologique des échanges intimes soulève des inquiétudes éthiques majeures quant à la robotisation progressive des liens affectifs.
+- En ce lundi 12 octobre, la quasi-totalité des installations frigorifiques étaient hors d’usage : des centaines de kilos de denrées alimentaires sont à jeter Des rubalises et des chariots métalliques barrent les allées de réfrigérateurs.
+- Le surgelé, le rayon frais libre-service, les étals de fromages, de charcuterie et de viande : tout est hors service dans le magasin Intermarché de Marmande.
+- L’établissement est l’un des près de 300 points de vente du groupe Les Mousquetaires victimes d’une cyberattaque massive lancée dans la nuit de dimanche au lundi 12 octobre.
+- C’est le seul de la ville lot-et-garonnaise à en avoir subi les frais.
 
-## [Villers-lès-Nancy. Des objets connectés recherchés pour l'entraînement des élèves](https://www.estrepublicain.fr/education/2026/10/11/des-objets-connectes-recherches-pour-l-entrainement-des-eleves)  
-*Source : estrepublicain.fr | Publication : 2026-10-11*
+## [Vidéos : Expert <b>cybersécurité</b>: les vulnérabilités de la facturation électronique - L'Union](https://www.lunion.fr/videos/a_la_une_test_player/expert-cybersecurite-les-vulnerabilites-de-la-facturation-electronique?param01=3mklq5q&param02=01342685&param03=45)  
+*Source : lunion.fr | Publication : 2026-10-12*
 
-- cybersécurité et au hacking éthique.
-- L'Est Républicain - Aujourd'hui à 15:15 - Temps de lecture : 2 min.
-- Lire dans l'application Ajoutez-nous à vos.
+- Avec la généralisation de la facturation électronique, les entreprises pourraient devenir des cibles privilégiées des cyber hackers.
 
-## [Fuite de Données Cnaf : Vacaf Suspendu [2026] - Tech Insider](https://tech-insider.org/fr/fuite-donnees-cnaf-vacaf-suspendu-2026/)  
-*Source : tech-insider.org | Publication : 2026-10-11*
+## [&quot;En cinq ans, ça n'était jamais arrivé&quot;: en frappant Yandex, géant de la tech, les drones ...](https://www.bfmtv.com/tech/cybersecurite/en-cinq-ans-ca-n-etait-jamais-arrive-en-frappant-yandex-geant-de-la-tech-les-drones-ukrainiens-paralysent-le-cloud-russe-et-provoque-la-chute-du-trafic-de-bots-depuis-la-russie_AD-202610120724.html)  
+*Source : bfmtv.com | Publication : 2026-10-12*
 
-- Les faits, tels que rapportés par 01net.com et 20minutes.fr, se résument ainsi : la Cnaf a détecté un incident de cybersécurité concernant son service.
+- "En cinq ans, ça n'était jamais arrivé": en frappant Yandex, géant de la tech, les drones ukrainiens paralysent le cloud russe, et provoquent la chute du trafic de bots depuis la Russie Le géant russe de la tech Yandex est à l'arrêt.
+- L'entreprise a indiqué dimanche 11 octobre que son infrastructure cloud était en panne après une nouvelle attaque de drones ukrainienne sur un centre de données.
+- "À la suite d'une attaque de drones, l'infrastructure du centre de données de Vladimir (à l'est de Moscou, NDLR) a été endommagée.
+- Les opérations du centre de données ont été complètement interrompues", a indiqué l'entreprise sur Telegram.
 
-## [Anthropic lance Cyber Mission et un OSS Scanner gratuit - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/22686/anthropic-cyber-mission-oss-scanner-gratuit)  
-*Source : pasqualepillitteri.it | Publication : 2026-10-11*
+## [<b>Cybersécurité</b> : Sommes-nous tous piratables ? (Avec Maria LACONO) - YouTube](https://www.youtube.com/watch?v=sv8tD0ZEztw)  
+*Source : youtube.com | Publication : 2026-10-12*
 
-- Anthropic lance Cyber Mission et un OSS Scanner gratuit Anthropic Cyber Mission déploie Claude sur les réseaux électriques avec 11 partenaires et ouvre OSS Scanner, un scan gratuit sans relecture humaine.
-- 1.Le programme pour les infrastructures critiques - 2.OSS Scanner, des analyses sans relecture humaine - 3.Les chiffres de six mois d'analyses - 4.Comment inscrire un projet à OSS Scanner ?.
-- - 5.Ce qui reste à démontrer - 6.Questions fréquentes (FAQ) - 7.Notez cet article - 8.Articles Connexes - 9.Recherchez-vous un Ingénieur Logiciel?.
-- - L'Anthropic Cyber Mission est l'initiative présentée le jeudi 8 octobre 2026 par la firme californienne Anthropic pour défendre les infrastructures critiques et les logiciels open source, avec deux programmes distincts.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
