@@ -1,149 +1,147 @@
-# Résumés – 2026-10-16
+# Résumés – 2026-10-17
 
 
-## [Cette chaîne de supermarchés touchée par un important problème jusqu'à dimanche au moins](https://www.rtl.be/actu/conso/cette-chaine-de-supermarches-touchee-par-un-important-probleme-jusqua-dimanche/2026-10-15/article/803498)  
-*Source : rtl.be | Publication : 2026-10-16*
+## [OpenAI recrute Graham Seamans, de SpaceX, pour diriger les ventes de <b>cybersécurité</b>](https://www.zonebourse.com/actualite-bourse/openai-recrute-graham-seamans-de-spacex-pour-diriger-les-ventes-de-cybersecurite-ce785cdadf80f727)  
+*Source : zonebourse.com | Publication : 2026-10-16*
 
-- Partager: Albert Heijn ne livrera pas de courses commandées en ligne au moins jusqu’à dimanche inclus, a annoncé la chaîne de supermarchés dans une nouvelle mise à jour concernant l’incident de cybersécurité auquel elle est confrontée depuis dimanche dernier.
-- Les magasins sont en revanche à nouveau approvisionnés normalement.
-- Selon l’enseigne, les rayons des magasins sont de mieux en mieux remplis.
-- Ces derniers jours, de nombreux manques étaient apparus en raison de la perturbation de la distribution.
+- OpenAI recrute Graham Seamans, de SpaceX, pour diriger les ventes de cybersécurité Publié le 17/10/2026 à 01:00 MT Newswires - Traduit par Zonebourse Avertissement légalContactez-nous pour toute demande de correctionRetour - Voir l'originalCet article est réservé à nos membresConnectez-vous pour continuerSe connecterCréer un compte Continuer avec Google Continuer avec Apple Continuer avec LinkedIn ou par emailContinuer avec un email Créer un compte avec Google Créer un compte avec Apple Créer un compte avec LinkedIn ou par emailCréer un compte Pour un accès illimité, consultez nos abonnements.
 
-## [Pourquoi les PME devraient-elles faire évaluer leur posture de <b>cybersécurité</b>? - Les Affaires](https://www.lesaffaires.com/contenus-partenaires/pourquoi-les-pme-devraient-elles-faire-evaluer-leur-posture-de-cybersecurite/pourquoi-les-pme-devraient-elles-faire-evaluer-leur-posture-de-cybersecurite/)  
-*Source : lesaffaires.com | Publication : 2026-10-15*
+## [Supermarchés piratés : le mot de passe se calculait avec la date du jour - CNews](https://www.cnews.fr/france/2026-10-16/supermarches-pirates-le-mot-de-passe-se-calculait-avec-la-date-du-jour-1936525)  
+*Source : cnews.fr | Publication : 2026-10-16*
 
-- Pourquoi les PME devraient-elles faire Ã©valuer leur posture de cybersÃ©curitÃ©?.
-- Genatec|PubliÃ© Ã 10h30Lâenvironnement TI a beaucoup Ã©voluÃ© dans les PME au cours des derniÃ¨res annÃ©es.
-- Or, tout changement peut augmenter les risques et crÃ©er de nouveaux angles morts.
-- Aujourdâhui, les dirigeants dâentreprises devraient procÃ©der Ã une Ã©valuation de leurs besoins et se doter dâun plan de cybersÃ©curitÃ© solide.
+- La cyberattaque qui a touché plusieurs enseignes de la grande distribution dans la nuit du 11 au 12 octobre était-elle prévisible ?.
+- Le site de cybersécurité Claroty avait alerté dès le mois d’août sur des failles affectant des outils de supervision.
+- Dans la nuit du 11 au 12 octobre 2026, plusieurs magasins Intermarché, E. Leclerc, Système U et Monoprix ont été frappés par une cyberattaque.
+- Les températures de certains équipements frigorifiques ont été modifiées, obligeant les enseignes à jeter leurs stocks, entraînant des pertes de plusieurs millions d’euros.
 
-## [Proofpoint, filiale de Thoma Bravo, va racheter Varonis Systems dans le cadre d'une ...](https://www.boursorama.com/bourse/actualites-amp/proofpoint-filiale-de-thoma-bravo-va-racheter-varonis-systems-dans-le-cadre-d-une-operation-entierement-en-numeraire-d-un-montant-de-6-3-milliards-de-dollars-5bd93cfa70fbcecc0b5a3bcfa47f40cd)  
-*Source : boursorama.com | Publication : 2026-10-15*
+## [L'Agence de l'UE pour la <b>cybersécurité</b> teste les modèles cyber de l'entreprise Mistral](https://agenceurope.eu/fr/bulletin/article/13962/28/lagence-de-lue-pour-la-cybersecurite-teste-les-modeles-cyber-de-lentreprise-mistral)  
+*Source : agenceurope.eu | Publication : 2026-10-16*
 
-- Proofpoint, filiale de Thoma Bravo, va racheter Varonis Systems dans le cadre d'une opération entièrement en numéraire d'un montant de 6,3 milliards de dollars information fournie par Reuters 15/10/2026 à 23:23 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * Les entreprises indiquent que la transaction devrait être finalisée au cours du premier semestre 2027 * L'action Varonis progresse d'environ 2,7 % en séance prolongée * L'offre valorise le capital de Varonis à 5,71 milliards de dollars (Ajout de détails et de contexte tout au long de l'article) Proofpoint, société de cybersécurité détenue par Thoma Bravo, va racheter la société de sécurité des données Varonis Systems VRNS.O dans le cadre d'une opération entièrement en numéraire évaluée à environ 6,3 milliards de dollars, ont annoncé jeudi les deux entreprises.
-- Aux termes de l'accord, les actionnaires de Varonis recevront 49,75 dollars par action en numéraire, soit une prime de 52 % par rapport au cours de clôture de l'action le 22 juin, veille de l'apparition des premières rumeurs concernant une éventuelle vente, ont précisé les deux sociétés.
-- Cette offre valorise le capital de Varonis à 5,71 milliards de dollars.
-- Son titre a progressé d’environ 2,7 % en séance prolongée.
+- 16/10/2026 (Agence Europe) – Dans un article publié vendredi 16 octobre portant sur l’Agence de l’Union européenne pour la cybersécurité (ENISA), une erreur factuelle a été constatée.
+- Il y était indiqué que l’ENISA testait le dernier modèle de l’entreprise française Mistral AI, ML4.
+- Contrairement à ce que nous avons écrit, l’ENISA a précisé « avoir accès à des modèles cyber de Mistral AI » et les tester, sans préciser quels modèles étaient concernés par ce processus.
+- (LD).
 
-## [KPMG CEO Outlook 2026 : la <b>cybersécurité</b> dépasse l'IA comme priorité d'investissement](https://finyear.com/kpmg-ceo-outlook-2026-la-cybersecurite-depasse-lia-comme-priorite-dinvestissement/)  
-*Source : finyear.com | Publication : 2026-10-15*
+## [Le Qatar participe aux activités de la Semaine internationale de la <b>cybersécurité</b> de Singapour](https://qna.org.qa/fr-FR/News-Area/News/2026-10/16/le-qatar-participe-aux-activites-de-la-semaine-internationale-de-la-cybersecurite-de-singapour)  
+*Source : qna.org.qa | Publication : 2026-10-16*
 
-- KPMG CEO Outlook 2026 : la cybersécurité dépasse l’IA comme priorité d’investissement 15/10/2026 La 12e édition du Global CEO Outlook de KPMG, réalisée auprès de 1 400 dirigeants d’entreprise entre août et septembre 2026, montre que les risques cyber ont dépassé l’incertitude économique comme préoccupation principale.
-- En France, 99 % des dirigeants se disent préoccupés par l’usurpation d’identité et la confidentialité des données.
-- Le Global CEO Outlook de KPMG est conduit depuis 2014 auprès de dirigeants d’entreprises réalisant plus de 500 millions de dollars de chiffre d’affaires annuel — un tiers d’entre elles dépassent 10 milliards.
-- L’édition 2026 couvre 12 marchés et 13 secteurs d’activité, dont 75 répondants en France.
+- Le Qatar participe aux activités de la Semaine internationale de la cybersécurité de Singapour Singapour, le 16 octobre /QNA/ L’État du Qatar, représenté par l’Agence nationale de cybersécurité, a participé à la onzième édition de la Semaine internationale de la cybersécurité de Singapour, organisée du 12 au 15 octobre courant.
+- La délégation qatarie était conduite par M. Ahmed Mohammed Al Mutawa Al Hammadi, directeur général de l’Agence nationale de cybersécurité.
+- M.
+- Al Hammadi a participé à une table ronde de haut niveau intitulée « Algorithmes et alliances : l’intelligence artificielle dominera-t-elle la diplomatie cybernétique ?.
 
-## [Coup de filet contre le phishing sinophone qui inonde le Japon - Solutions-Numeriques](https://www.solutions-numeriques.com/coup-de-filet-contre-le-phishing-sinophone-qui-inonde-le-japon/)  
-*Source : solutions-numeriques.com | Publication : 2026-10-15*
+## [« Un scénario cauchemardesque » : ce virus infecte votre smartphone sans que vous ne ...](https://www.01net.com/actualites/un-scenario-cauchemardesque-ce-virus-infecte-votre-smartphone-sans-que-vous-ne-puissiez-rien-y-faire.html)  
+*Source : 01net.com | Publication : 2026-10-16*
 
-- Microsoft et Health-ISAC, épaulés par Proofpoint et plusieurs partenaires publics et privés, ont frappé l’écosystème de phishing sinophone qui gravite autour des kits CoGUI, CoAceV et CoFish_Ws et des plateformes YAM Store et Iron Man.
-- Selon Microsoft, cette nébuleuse a permis l’envoi de plus d’un milliard de messages malveillants depuis janvier 2026, à destination de plus de 75 000 organisations.
-- Les domaines saisis affichent désormais une page de substitution.
-- Une riposte judiciaire et technique L’offensive s’est jouée sur deux fronts.
+- Le Citizen Lab, le laboratoire de l’université de Toronto spécialisé dans la surveillance numérique, vient de lever le voile sur une nouvelle tactique de piratage, « AdFection ».
+- Il s’agit d’une attaque dite « zero clic » poussée à l’extrême.
+- L’opération consiste à installer un logiciel malveillant sur un appareil sans aucune action de la part de la victime.
+- Jusqu’ici, les attaques de ce genre, rares mais redoutables, passaient surtout par des failles de sécurité dans les applications de messagerie instantanée, comme WhatsApp.
 
-## [<b>Cybersécurité</b>: le Maroc 3e pays africain le plus visé par les cyberattaques - H24info](https://h24info.ma/economie/cybersecurite-maroc-afrique/)  
-*Source : h24info.ma | Publication : 2026-10-15*
+## [Richter Guardian : un nouveau service de <b>cybersécurité</b> personnelle - LaPresse.ca](https://www.lapresse.ca/xtra/2026-10-16/richter/richter-guardian-un-nouveau-service-de-cybersecurite-personnelle.php)  
+*Source : lapresse.ca | Publication : 2026-10-16*
 
-- Le Cameroun affronte le Maroc, le 16 novembre prochain à Casablanca pour le compte des… Cybersécurité: le Maroc 3e pays africain le plus visé par les attaques Publié leUn récent rapport de Mastercard classe le Maroc à la troisième place africaine en nombre de cyberattaques recensées, représentant environ 10,6 % des incidents liés à la cybersécurité signalés sur le continent.
-- S’il y a des images qui illustrent à la perfection des mots, les chiffres également en disent souvent long sur la réalité des choses.
-- Et les chiffres que viennent de publier Mastercard en font partie.
-- En effet, dans un récent rapport sur la cybersécurité sur le continent africain, le géant mondial des système de paiement table une hausse vertigineuse des cyberattaques à fin 2025.
+- Richter Richter Guardian : un nouveau service de cybersécurité personnelle Qu’est-ce qu’un XTRA?.
+- XTRA est une section qui regroupe des contenus promotionnels produits par ou pour des annonceurs.
+- Les journalistes et photographes de La Presse n’ont pas collaboré à ce contenu promotionnel.
+- Un nouveau service pour un nouveau risque à protéger Depuis sa création en 1926, Richter a considérablement élargi son champ d’action.
 
-## [Pourriez-vous détecter une fraude? - TVA Nouvelles](https://www.tvanouvelles.ca/2026/10/15/pourriez-vous-detecter-une-fraude)  
-*Source : tvanouvelles.ca | Publication : 2026-10-15*
+## [&quot;L'avenir, c'est aujourd'hui, depuis hier !&quot; : sa start-up de Tours veut renforcer la <b>cybersécurité</b>](https://www.lanouvellerepublique.fr/tours/l-avenir-c-est-aujourd-hui-depuis-hier-sa-start-up-de-tours-veut-renforcer-la-cybersecurite-1791477301)  
+*Source : lanouvellerepublique.fr | Publication : 2026-10-16*
 
-- Une experte rappelle que tout le monde peut tomber dans le piège.
-- Andréanne.
+- Après avoir été lui-même victime d’une attaque informatique, un entrepreneur a décidé de créer sa propre solution.
+- Son objectif : rendre la cybersécurité enfin accessible aux petites entreprises, souvent démunies face à cette menace.
+- Créée en juin 2025 et hébergée au Village by CA à Tours, Skyfall, spécialiste de la protection des données, commercialise sa box depuis juin 2026. «.
+- Toute l’ingénierie se fait dans nos bureaux et est implémentée dans cette box, installée sur le réseau de l’entreprise cliente.
 
-## [Le CERT Santé alerte les hôpitaux sur un risque d'intrusion via des dispositifs médicaux connectés](https://www.ticsante.com/story?ID=8476)  
-*Source : ticsante.com | Publication : 2026-10-15*
+## [curl 8.23.0 corrige la faille HTTP/2 trouvée avec Claude - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/24683/curl-8-23-0-faille-http2-claude-anthropic)  
+*Source : pasqualepillitteri.it | Publication : 2026-10-16*
 
-- "Une campagne d'exploitation active et fortement automatisée s'appuie sur des réseaux de relais décentralisés appelés ORB (Operational Relay Box) [et] opérés principalement par des groupes de cyberespionnage liés à la Chine", relate le centre de cybersécurité de l'Agence du numérique en santé (ANS).
-- "Ces réseaux détournent des équipements réseau vulnérables ou en fin de vie, notamment des routeurs sans fil […] et des objets connectés, afin de masquer l'origine de leurs attaques et de s'infiltrer dans les systèmes d'information cibles.".
-- "Des appareils médicaux connectés essentiels à la chaîne de soins peuvent être indirectement impactés ou servir de points d'entrée s'ils sont reliés au même réseau sans fil non segmenté", dont des pompes à perfusion, des équipements d'imagerie médicale et des moniteurs de surveillance des signes vitaux.
-- "La présence fréquente d'équipements anciens ou difficiles à redémarrer pour maintenance en fait des cibles privilégiées pour constituer des relais discrets.
+- curl 8.23.0 corrige la faille HTTP/2 trouvée avec Claude curl 8.23.0 corrige la CVE-2026-92392, un use-after-free HTTP/2 découvert par Anthropic avec Claude.
+- Qui est concerné, comment mettre à jour et pourquoi un plantage est plus probable.
+- Les plus lus Cybersécurité Tech Automobile Jeux Vidéo IA en local Gemini Outils IA & Avis Open Source Claude Droit & Réglementation Apple Opinions Tesla OpenAI ChatGPT Benchmarks et Comparatifs Microsoft Meta Anthropic Télémédecine Nvidia Développement Logiciel Actualités IA & Tendances Économie & Business Google Guides et Tutoriels Samsung Robotique Grok Big Tech Rapports et Analyses UI/UX Design Applis Mobiles Intelligence Artificielle Amazon IA chinoise Infrastructure Agents IA Ingénierie de Prompts.
 
-## [Forge de code Gitea, une faille exploitée en deux jours mène aux hyperviseurs - IT SOCIAL](https://itsocial.fr/cybersecurite/cybersecurite-articles/forge-de-code-gitea-une-faille-exploitee-en-deux-jours-mene-aux-hyperviseurs/)  
-*Source : itsocial.fr | Publication : 2026-10-15*
+## [Ce que mon chat sait et que beaucoup d'humains oublient #chat #<b>cybersecurite</b> #<b>cybersécurité</b>](https://www.youtube.com/watch?v=dnmX0EN8Jjo)  
+*Source : youtube.com | Publication : 2026-10-16*
 
-- Une faille de la forge de code Gitea, corrigée fin juillet, a ouvert à un groupe d’attaquants l’accès à des NAS, à des hyperviseurs et à des systèmes industriels.
-- La forge auto-hébergée détient les secrets de l’infrastructure, son inscription ouverte a suffi à rendre la faille exploitable, et le catalogue américain des failles exploitées ne l’a inscrite que quatre semaines après les premières attaques.
-- Les forges de code auto-hébergées, Gitea, Forgejo ou GitLab, rassemblent les dépôts, les clés de déploiement et les jetons des chaînes d’intégration continue, parce que les équipes de développement y branchent l’ensemble de leur chaîne de livraison.
-- Qui prend la main sur la forge hérite de ces accès, comme l’a montré à partir du 29 juillet une campagne menée contre des instances Gitea exposées à Internet.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Vos images sont-elles déjà en ligne ? - Docteur Imago](https://docteurimago.fr/management/qualite/vos-images-sont-elles-deja-en-ligne/)  
-*Source : docteurimago.fr | Publication : 2026-10-15*
+## [Insolite : les données de Sébastien Lecornu s'échappent à cause d'un slip](https://www.solutions-numeriques.com/insolite-les-donnees-de-sebastien-lecornu-sechappent-a-cause-dun-slip/)  
+*Source : solutions-numeriques.com | Publication : 2026-10-16*
 
-- Il y a quelques mois, je préparais des travaux pratiques (TP) pour des étudiants en cybersécurité.
-- L'idée était simple : leur montrer en conditions réelles que les serveurs d'imagerie médicale des cabinets libéraux sont une cible facile.
-- Je ne pensais pas tomber aussi vite.
-- En moins d'une heure, j'avais identifié plusieurs serveurs en Alsace qui exposaient leurs PACS sans aucune protection sérieuse.
+- Téléphones, adresses, identifiants professionnels : les informations personnelles de 25 des 36 membres du gouvernement circulent librement en ligne.
+- Aucun piratage d’envergure d’État derrière ce grand déballage, mais une succession de brèches chez un opticien, un marchand de sous-vêtements ou un réparateur d’électroménager.
+- Matignon, rayon lingerie Le chef du gouvernement n’a pas été trahi par un service de renseignement étranger, mais par sa garde-robe.
+- Comme le révèle Le Canard enchaîné le 7 octobre, Sébastien Lecornu figure parmi les 1,5 million de clients touchés par le piratage, en 2024, de la base de données du Slip français.
 
-## [Au Mondial de l'Automobile, l'&quot;électro-choc&quot; des lycéens en mécanique auto - Orange Actu](https://actu.orange.fr/economie/au-mondial-de-l-automobile-l-quot-electro-choc-quot-des-lyceens-en-mecanique-auto-CNT000002sQZRI.html)  
-*Source : actu.orange.fr | Publication : 2026-10-15*
+## [Quand &quot;la publicité en ligne est détournée à grande échelle pour établir le profil de millions ...](https://www.bfmtv.com/tech/cybersecurite/quand-la-publicite-en-ligne-est-detournee-a-grande-echelle-pour-etablir-le-profil-de-millions-d-utilisateurs-des-chercheurs-ont-decouvert-comment-une-agence-de-pub-sert-a-espionner-des-internautes_AV-202610160486.html)  
+*Source : bfmtv.com | Publication : 2026-10-16*
 
-- Au Mondial de l'Automobile, l'"électro-choc" des lycéens en mécanique auto "Ça pue pour nous": En sortant d'une visite du salon Mondial de l'automobile à Paris, Mya, Louise et Julie, en classe de première "mécanique auto" au lycée Narce à Angers, viennent de comprendre que leur avenir professionnel sera un peu différent de ce qu'elles avaient imaginé.
-- Les trois amies, âgées de 16 ans, disent aimer "la vraie mécanique qui fait du bruit", celle "où on entend les chevaux": les moteurs qui pétaradent, fument et sentent l'essence.
-- "Je suis plutôt thermique" dit Mya à l'AFP.
-- "Ici, il y a trop d'électricité" estiment les trois jeune-filles après une visite de stands débordant de voitures bourrées de capteurs et d'écrans numériques.
+- Quand "la publicité en ligne est détournée à grande échelle pour établir le profil de millions d’utilisateurs": des chercheurs ont découvert comment une agence de pub sert à espionner des internautes Après le scandale Pegasus, Israël est de nouveau pointé du doigt pour l'une de ses start-up qui se présente officiellement comme une agence de publicité en ligne.
+- Selon une enquête réalisée par des chercheurs canadiens du Citizen Lab de l'université de Toronto, cette entreprise israélienne aurait conçu un système qui lui permet de mettre les millions de publicités diffusées au service de fabricants de logiciels malveillants, notamment des espiogiciels, afin d'espionner certains utilisateurs.
+- Selon le Guardian, elle aurait été en mesure d'infecter des dizaines d'appareils appartenant à la chaîne qatari Al Jazeera, sans action de la part de leurs utilisateurs, simplement en intégrant à la publicité plusieurs logiciels espion "zéro clic" (ne nécessitant pas une action physique de l'utilisateur, mais juste l'affichage de la page ou de l'élément compromis).
+- Une plateforme tout-en-un pour viser des voix dissidentes La start-up en question, Discover-Tech, exploite une plateforme, Controlium, dont la spécialité est "d'établir un profilage de masse et de désanonymiser" les internautes.
 
-## [Selon une étude, la <b>cybersécurité</b> devient la priorité numéro 1 des dirigeants d'entreprises](https://www.lefigaro.fr/flash-eco/selon-une-etude-la-cybersecurite-devient-la-priorite-numero-1-des-dirigeants-d-entreprises-20261015)  
-*Source : lefigaro.fr | Publication : 2026-10-15*
+## [Coups de filet &amp; sanctions : 16 opérations contre la <b>cybercriminalité</b> du 16 octobre 2026 ...](https://dcod.ch/2026/10/16/coups-de-filet-sanctions-16-operations-contre-la-cybercriminalite-du-16-octobre-2026-dont-monstercloud/)  
+*Source : dcod.ch | Publication : 2026-10-16*
 
-- Selon une étude, la cybersécurité devient la priorité numéro 1 des dirigeants d'entreprises Les dirigeants placent désormais la cybersécurité au sommet de leurs préoccupations, devant l'incertitude économique mondiale, révèle la dernière édition du Global CEO Outlook de KPMG, publiée jeudi.
-- Ainsi, 31 % des 1.400 répondants considèrent les risques liés à la cybersécurité et à la protection des données comme la principale menace pour la croissance de leur entreprise au cours des trois prochaines années.
-- Viennent ensuite l'incertitude économique mondiale (28 %) puis l'instabilité géopolitique et les pressions réglementaires (26 %), selon cette enquête réalisée du 11 août au 21 septembre auprès de dirigeants d'entreprises réalisant un chiffre d'affaires annuel supérieur à 500 millions de dollars (environ 450 millions d'euros), issus de douze grands marchés sur l'ensemble des continents, dont 75 dirigeants en France.
-- Passer la publicitéFace à ces risques, les entreprises renforcent leurs investissements de protection.
+- Faits marquants de la semaine Les autorités américaines accusent le dirigeant d’une société de “remédiation ransomware” d’avoir facturé plus de 19 millions de dollars à des centaines de clients, tout en payant en secret plus de 8 millions de rançons sur cinq ans (jusqu’en 2023).
+- - Un bi-national ukraino-russe a plaidé coupable d’avoir piloté une opération massive de blanchiment d’argent, s’appuyant sur un réseau d’environ 15 000 “mules” (intermédiaires pour transférer des fonds) au profit de cybercriminels, pour des millions.
+- - L’Allemagne a arrêté un ressortissant russe soupçonné d’être un cadre du groupe Qilin, après une détention au Japon en mai à Osaka et une remise aux autorités allemandes.
+- Malgré cela, Qilin a continué, avec des centaines de nouvelles victimes depuis juin.
 
-## [Oidaneos : « L'IA et la <b>cybersécurité</b>, ce n'est plus optionnel » | EWAG](https://www.ewag.fr/articles/oidaneos-lia-et-la-cybersecurite-ce-nest-plus-optionnel/)  
-*Source : ewag.fr | Publication : 2026-10-15*
+## [Rochefort : collectivités et entreprises, attention aux cyberattaques - Sud Ouest](https://www.sudouest.fr/economie/cybersecurite/rochefort-collectivites-et-entreprises-attention-aux-cyberattaques-31100382.php)  
+*Source : sudouest.fr | Publication : 2026-10-16*
 
-- Oidaneos : « L’IA et la cybersécurité, ce n’est plus optionnel » L’organisme de formation Oidaneos propose des formations et certifications spécialisées en IA et cybersécurité. «.
-- De nouvelles compétences dont les entreprises ne peuvent plus se passer », note son président fondateur, Alain Franck Valero.
-- Article en partenariat - Formation - Innovation - Expertise - Oidaneos : « L’IA et la cybersécurité, ce n’est plus optionnel » L’organisme de formation Oidaneos propose des formations et certifications spécialisées en IA et cybersécurité. «.
-- De nouvelles compétences dont les entreprises ne peuvent plus se passer », note son président fondateur, Alain Franck Valero.
+- Mardi 20 octobre, Soluris propose une journée aux collectivités locales et aux entreprises pour mieux comprendre et savoir agir en cas de cyberattaque Rançongiciels, vols de données, plantages informatiques, les cyberattaques sont devenues une menace majeure pour les collectivités locales et les entreprises.
+- Pour se protéger, Soluris, qui accompagne la transition numérique des collectivités territoriales, veut sensibiliser et former ses 550 collectivités territoriales adhérentes en Charente-Maritime et dans les Deux-Sèvres.
 
-## [Qu'est-ce qui inquiète le plus les dirigeants d'entreprises? Dans le monde, c'est la ... - BFM](https://www.bfmtv.com/economie/entreprises/qu-est-ce-qui-inquiete-le-plus-les-dirigeants-d-entreprises-dans-le-monde-c-est-la-cybersecurite-en-france-c-est-l-incertitude-economique-mondiale_AD-202610150853.html)  
-*Source : bfmtv.com | Publication : 2026-10-15*
+## [Panorama de la <b>cybermenace</b> 2024 - CERT-FR - ANSSI](https://cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-003/)  
+*Source : cert.cyber.gouv.fr | Publication : 2026-10-16*
 
-- Qu'est-ce qui inquiète le plus les dirigeants d'entreprises?.
-- Dans le monde, c'est la cybersécurité, en France c'est l'incertitude économique Les dirigeants placent désormais la cybersécurité au sommet de leurs préoccupations, devant l'incertitude économique mondiale, révèle la dernière édition du Global CEO Outlook de KPMG, publiée jeudi.
-- Ainsi, 31 % des 1.400 répondants considèrent les risques liés à la cybersécurité et à la protection des données comme la principale menace pour la croissance de leur entreprise au cours des trois prochaines années.
-- Viennent ensuite l'incertitude économique mondiale (28 %) puis l'instabilité géopolitique et les pressions réglementaires (26 %), selon cette enquête réalisée du 11 août au 21 septembre auprès de dirigeants d'entreprises réalisant un chiffre d'affaires annuel supérieur à 500 millions de dollars (environ 450 millions d'euros), issus de douze grands marchés sur l'ensemble des continents, dont 75 dirigeants en France.
+- Rapport menaces et incidents du CERT-FR Objet : Panorama de la cybermenace 2024 Gestion du document Une gestion de version détaillée se trouve à la fin de ce document.
+- English version : 🇬🇧 Dans cette quatrième édition du panorama de la menace, l’Agence nationale de la sécurité des systèmes d’information (ANSSI) revient sur les grandes tendances de la menace informatique ainsi que sur les éléments et incidents marquants dont elle a eu connaissance en 2024.Dans la continuité des années précédentes, l’ANSSI estime aujourd’hui que les attaquants liés à l’écosystème cybercriminel ou réputés liés à la Chine et la Russie constituent les trois principales menaces tant pour les systèmes d’information les plus critiques que pour l’écosystème national de manière systémique.
+- L’année 2024 aura également été marquée par l’organisation des Jeux Olympiques et Paralympiques de Paris ainsi que par le nombre et l’impact des vulnérabilités affectant les équipements de sécurité situés en bordure de SI.
 
-## [Cohere s'apprête à racheter Aisle, une start-up spécialisée dans la <b>cybersécurité</b> basée sur l'IA](https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N461256:0/)  
-*Source : fr.tradingview.com | Publication : 2026-10-15*
+## [&quot;J'ai revendu de la drogue et des armes grâce aux réseaux criminels du dark web&quot;](https://www.journaldunet.com/cybersecurite/1556747-j-ai-revendu-de-la-drogue-et-des-armes-grace-aux-reseaux-criminels-du-dark-web/)  
+*Source : journaldunet.com | Publication : 2026-10-16*
 
-- Actualités/Reuters/Cohere s'apprête à racheter Aisle, une start-up spécialisée dans la cybersécurité basée sur l'IACohere s'apprête à racheter Aisle, une start-up spécialisée dans la cybersécurité basée sur l'IALire l'article completObtenez un accès illimité aux articles de Reuters et à toutes les autres sources d'actualités sur TradingView.Continuer à lire.
+- "J'ai revendu de la drogue et des armes grâce aux réseaux criminels du dark web" Plongée dans le dark web #8.
+- Sous le pseudonyme The Last Judgement (TLJ), cet homme de 30 ans, qui dissimule son identité derrière une cagoule, raconte au JDN comment il a introduit les pires réseaux criminels du dark web.
+- Pour mieux comprendre les business du dark web, je voulais discuter avec un membre du milieu.
+- Après de nombreux appels à témoignages infructueux, un contact m'a parlé de TLJ, un ancien revendeur d'armes et de drogues repenti.
 
-## [Le Vietnam salue l'évaluation objective des États-Unis sur la lutte contre la traite des êtres humains](https://lecourrier.vn/le-vietnam-salue-levaluation-objective-des-etats-unis-sur-la-lutte-contre-la-traite-des-etres-humains/1357510.html)  
-*Source : lecourrier.vn | Publication : 2026-10-15*
+## [Formation <b>Cybersécurité</b> mercredi 18 novembre 2026 14h à 16h. - Les communes illiwap](https://station.illiwap.com/fr/public/76354/actu/formation-cybersecurite-mercredi-18-novembre-2026-14h-a-16h)  
+*Source : station.illiwap.com | Publication : 2026-10-16*
 
-- >> Le Vietnam salue l'évaluation objective des États-Unis sur ses résultats en matière de lutte contre la traite des êtres humains >> La Convention de Hanoï : un outil mondial contre la cybercriminalité et la traite des êtres humains >> Le vice-PM Bùi Thanh Son plaide pour un combat accru contre la traite humaine Le Vietnam salue l'évaluation objective des États-Unis concernant les résultats positifs obtenus ces derniers temps dans la prévention et la lutte contre la traite des êtres humains, selon Pham Thu Hang, porte-parole du ministère des Affaires étrangères.
-- La porte-parole s'exprimait lors du point de presse régulier du ministère le 15 octobre, en réponse à une question concernant le Rapport 2026 sur la traite des êtres humains, publié le 9 octobre par le Département d'État américain, notamment les passages consacrés au Vietnam.
-- Selon Pham Thu Hang, le Vietnam a intensifié ses efforts dans ce domaine, notamment avec l'adoption et la mise en œuvre du Programme de prévention et de lutte contre la traite des êtres humains pour la période 2026-2030, avec des orientations à l'horizon 2035.
-- La Loi de 2024 sur la prévention et la lutte contre la traite des êtres humains est mise en œuvre de manière efficace et coordonnée.
+- Formation Cybersécurité mercredi 18 novembre 2026 14h à 16h.
+- Bonjour à toutes et à tous.
+- Nous vous informons qu'un stage de formation ʺCybersécuritéʺ vous est proposé, à titre gratuit et en partenariat avec Groupama, le mercredi 18 novembre 2026 de 14h à 16h à la salle polyvalente d'Hénouville, Rue du Stade.
+- Si vous êtes intéressé(e), présentez-vous directement à la salle à la date et à l'heure indiquées, sans préinscription.
 
-## [Prakash Panjwani prend les commandes d'Acronis - Silicon.fr](https://www.silicon.fr/cybersecurite-1371/prakash-panjwani-prend-les-commandes-dacronis-229689)  
-*Source : silicon.fr | Publication : 2026-10-15*
+## [IA et protection des données : Philippe Vallée invité d'Air&amp;Défense, en partenariat avec Air &amp; Cosmos](https://air-cosmos.latribune.fr/article/strategies/27732288759228/ia-et-protection-des-donnees-philippe-vallee-invite-d-air-defense-en-partenariat-avec-air-cosmos)  
+*Source : air-cosmos.latribune.fr | Publication : 2026-10-16*
 
-- Acronis, éditeur de solutions de cyberprotection IA pour MSP et équipes IT, a un nouveau CEO.
-- Prakash Panjwani succède à Jan-Jaap « JJ » Jager, qui conserve ses parts d’actionnaire au sein de l’entreprise.
-- Le nouveau CEO s’appuie sur un parcours marqué par la direction d’acteurs majeurs de la sécurité informatique.
-- Il a notamment dirigé WatchGuard Technologies et chez SafeNet.
+- IA et protection des données : Philippe Vallée invité d’Air&Défense, en partenariat avec Air & Cosmos Air & Défense BFM Business Air & Défense BFM Business L’intelligence artificielle et le quantique s’invitent toujours plus dans les enjeux de souveraineté européenne.
+- Mais le sujet du quantique peut être à double tranchant dans le domaine de la cybersécurité.
+- La protection des données contre le risque croissant de piratage étant devenue une des priorités chez les industriels, les mécanismes de défense robustes sont attendus.
+- Thales compte les maîtres d’œuvre de ces solutions.
 
-## [Les dirigeants classent la cyber comme une forte priorité - L'Informaticien](https://www.linformaticien.com/magazine/tendances/950-etudes/65376-les-dirigeants-classent-la-cyber-comme-une-forte-priorite.html)  
-*Source : linformaticien.com | Publication : 2026-10-15*
+## [Belfort. « On est nombreux à être en retard » : Trinaps sensibilise entreprises et collectivités ...](https://www.estrepublicain.fr/economie/2026/10/16/on-est-nombreux-a-etre-en-retard-trinaps-sensibilise-entreprises-et-collectivites-locales-a-la-cybersecurite)  
+*Source : estrepublicain.fr | Publication : 2026-10-16*
 
-- 31 % des dirigeants citent les risques liés à la cybersécurité et à la sécurité des données comme principale menace pour la croissance, devant l'.
+- Belfort « On est nombreux à être en retard » : Trinaps sensibilise entreprises et collectivités locales à la cybersécurité En plein cœur du Techn’hom à Belfort, mardi 13 octobre, pour la journée mondiale de la résilience et deux jours après l’attaque informatique de centaines de frigos de supermarchés, la société Trinaps, qui est devenue en Bourgogne Franche-Comté une référence en matière de protection des données, a voulu réunir des acteurs locaux pour réfléchir autour de la cybersécurité.
+- Collectivités, PME et grosses industries - qu’elles soient néophytes ou expertes en la matière - ont pu dédier cette matinée à partager expériences et erreurs pour savoir quels réflexes adopter en amont de crise.
 
-## [Tenable s'appuie sur les modèles GPT Cyber d'OpenAI - L'Informaticien](https://www.linformaticien.com/magazine/cybersecurite/65373-tenable-s-appuie-sur-les-modeles-gpt-cyber-d-openai.html)  
-*Source : linformaticien.com | Publication : 2026-10-15*
+## [Le Vietnam accélère sa stratégie numérique et attire l'intérêt des fintechs britanniques](https://www.teamfrance-export.fr/infos-sectorielles/42035/42035-le-vietnam-accelere-sa-strategie-numerique-et-attire-linteret-des-fintechs-britanniques)  
+*Source : teamfrance-export.fr | Publication : 2026-10-16*
 
-- La société de gestion de l'exposition au risque cyber, annonce l'élargissement du CyberAgents Exchange, sa plateforme destinée à accélérer.
+- Date de publication : Je souhaite aller plus loin, je veux être contacté(e) par un expert gratuitement.
+- Être contactéCette orientation s’inscrit dans une stratégie plus large visant à soutenir la transformation numérique du pays et à développer de nouveaux secteurs à forte valeur ajoutée.
+- La reconnaissance des technologies liées à la blockchain, à l’IA et aux actifs numériques pourrait favoriser l’émergence d’un cadre réglementaire plus structuré et stimuler les investissements dans les services numériques et financiers.
+- Parallèlement, le Vietnam suscite un intérêt croissant auprès des acteurs internationaux de la fintech.
 
-## [Pourquoi les PME devraient-elles faire évaluer leur posture de <b>cybersécurité</b>? - Les Affaires](https://www.lesaffaires.com/contenus-partenaires/pourquoi-les-pme-devraient-elles-faire-evaluer-leur-posture-de-cybersecurite/)  
-*Source : lesaffaires.com | Publication : 2026-10-15*
+## [Migration vers le Post-quantique : comment mener cette transformation technologique et de ...](https://www.programmez.com/actualites/migration-vers-le-post-quantique-comment-mener-cette-transformation-technologique-et-de-40317)  
+*Source : programmez.com | Publication : 2026-10-16*
 
-- 1 article Lâenvironnement TI a beaucoup Ã©voluÃ© dans les PME au cours des derniÃ¨res annÃ©es.
-- Or, tout chang... Genatec|PubliÃ© Ã 10h30.
+- Durant les Assises de la cybersécurité 2026 à Monaco, une des sessions les plus intéressantes fut « migration post-quantique » dans le groupe.
