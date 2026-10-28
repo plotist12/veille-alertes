@@ -1,144 +1,149 @@
-# Résumés – 2026-10-27
+# Résumés – 2026-10-28
 
 
-## [Croissance météorique et risques en pagaille, Anthropic lève le voile avant son entrée en Bourse](https://actu.orange.fr/economie/croissance-meteorique-et-risques-en-pagaille-anthropic-leve-le-voile-avant-son-entree-en-bourse-CNT000002toHAF.html)  
-*Source : actu.orange.fr | Publication : 2026-10-26*
+## [Notification aux personnes concernées par l'incident de <b>cybersécurité</b> - Renfe](https://www.renfe.com/es/fr/ayuda/notificacion-personas-afectadas)  
+*Source : renfe.com | Publication : 2026-10-28*
 
-- Croissance météorique et risques en pagaille, Anthropic lève le voile avant son entrée en Bourse Anthropic a rendu public lundi son dossier d'introduction en Bourse, attendu depuis plusieurs semaines, qui confirme la croissance météorique de la start-up et insiste sur les nombreux risques liés à l'intelligence artificielle (IA).
-- Le groupe de San Francisco, créateur du chatbot Claude, a réalisé au premier semestre un chiffre d'affaires de 16,3 milliards de dollars, contre 4,6 milliards pour l'ensemble de l'année 2025.
-- Jamais une société n'avait atteint de tels revenus en seulement cinq ans d'existence.
-- Le document ne mentionne pas de valorisation ou de date d'introduction à Wall Street, plusieurs médias faisant état d'une entrée en novembre.
+- Renfe Viajeros (Renfe voyageurs) tient à vous informer d’un incident de cybersécurité ayant affecté certains systèmes d’information et ayant pu compromettre des informations personnelles liées à l’utilisation de ses services.
+- Renfe Viajeros (Renfe voyageurs) a détecté l’accès non autorisé d’un tiers à certains systèmes de l’entreprise.
+- D’après les investigations menées à ce jour, cet accès aurait eu lieu le 24 septembre 2026.
+- L’incident a été identifié grâce à nos mécanismes internes de surveillance et de détection d’activité anormale.
 
-## [<b>Ransomware</b> SafePay : Tactiques, Impact et Atténuation - SOC Prime](https://socprime.com/fr/active-threats/safepay-ransomware-tactiques-techniques-et-mesures-defensives/)  
-*Source : socprime.com | Publication : 2026-10-26*
+## [<b>Cybercriminalité</b> : « Payer une rançon finance la prochaine attaque et ne garantit rien - leFaso.net](https://lefaso.net/spip.php?article150276)  
+*Source : lefaso.net | Publication : 2026-10-27*
 
-- SafePay Ransomware : Tactiques, Techniques et Mesures Défensives Detection stack.
-- - Alert -.
-- - Query - Résumé Les acteurs du ransomware SafePay ciblent les entreprises et les infrastructures critiques par le vol d’identifiants, le phishing et l’exploitation de vulnérabilités connues.
-- Ils maintiennent la persistance en manipulant les comptes administratifs et s’appuient sur des techniques de squattage pour le déplacement latéral.
+- Cybercriminalité : « Payer une rançon finance la prochaine attaque et ne garantit rien », Dr Karim Ganamé, spécialiste de la cybersécurité Les attaques par rançongiciels constituent une menace grandissante pour les entreprises, les administrations et les infrastructures stratégiques.
+- Derrière ces cyberattaques se cachent parfois de véritables organisations criminelles, structurées comme des entreprises, qui prennent en otage les données de leurs victimes et exigent des rançons pouvant atteindre plusieurs millions de dollars.
+- Chercheur en cybersécurité et fondateur de StreamScan, une entreprise spécialisée dans la détection des cybermenaces au Canada, le Burkinabè Karim Ganamé connaît bien cet univers.
+- Habitué à intervenir auprès d’organisations victimes, il a notamment participé à des négociations avec des cybercriminels.
 
-## [Burkina : 9 milliards de F de pertes liées à la <b>cybercriminalité</b> - APAnews](https://fr.apanews.net/security/burkina-9-milliards-de-fcfa-de-pertes-liees-a-la-cybercriminalite/)  
-*Source : fr.apanews.net | Publication : 2026-10-26*
+## [Dell Technologies étend son portefeuille de <b>cybersécurité</b> et de résilience aux ... - Zonebourse](https://www.zonebourse.com/actualite-bourse/dell-technologies-etend-son-portefeuille-de-cybersecurite-et-de-resilience-aux-environnements-da-in-ce785cdddc81f624)  
+*Source : zonebourse.com | Publication : 2026-10-27*
 
-- La Brigade centrale de lutte contre la cybercriminalité (BCLCC) a enregistré plus de neuf milliards de FCFA de préjudices financiers liés à la cybercriminalité, en cinq ans, a indiqué son commandant, le commissaire principal de police Bayi Akim Nignan, lors d’un point de presse le 23 octobre à Ouagadougou.
-- Parmi les infractions recensées figurent les cyber-escroqueries, le chantage à la vidéo, les atteintes aux systèmes informatiques et à la vie privée, ainsi que la diffusion de contenus illicites et de fausses informations.
-- La BCLCC met également en garde contre les fraudes liées au mobile money, aux services bancaires mobiles, au commerce en ligne et aux plateformes d’investissement.
-- Les cryptomonnaies et les paris numériques peuvent aussi servir de terrain à des escroqueries financières et au blanchiment de capitaux, selon ses responsables.
+- Dell a étoffé son portefeuille de services et ses fonctionnalités PowerProtect afin de renforcer la cybersécurité des environnements d'IA et de.
 
-## [<b>Cybersécurité</b> : les bons réflexes à adopter pour se protéger - agevillage](https://www.agevillage.com/actualites/cybersecurite-les-bons-reflexes-a-adopter-pour-se-proteger)  
-*Source : agevillage.com | Publication : 2026-10-26*
+## [CTRL + S : PME : qui veille vraiment sur votre <b>cybersécurité</b> ? - WeLiveSecurity](https://www.welivesecurity.com/fr/cybersecurite/ctrl-s-pme-qui-veille-vraiment-sur-votre-cybersecurite/)  
+*Source : welivesecurity.com | Publication : 2026-10-27*
 
-- Connaître vos droits Cybersécurité : les bons réflexes à adopter pour se protéger Auteur Raphaëlle Murignieux Temps de lecture 1 min Date de publication 26/10/2026 0 commentairesIls se font passer pour « l’Assurance maladie » (sic), Doctolib, la caisse de retraite ou encore la banque… les cybercriminels ne manquent pas d’idées quand il s’agit de voler des données ou pirater les appareils de leurs victimes.
-- Retour sur le petit guide destiné aux seniors publié par l’Union nationale des associations familiales.
-- Le phishing ou hameçonnage consiste à se faire passer pour un contact dans lequel vous avez confiance, afin de vous soutirer des informations personnelles (mots de passe, code de carte bleue, informations privées...).
-- Il s’agit de la principale menace pour les entreprises et les particuliers, explique le groupement d’intérêt public Acyma (actions contre la cybermalveillance).
+- La cybersécurité n’est plus seulement un sujet IT, mais une condition de continuité d’activité.
+- La sécurité numérique concerne donc toutes les entreprises, peu importe leur domaine d’activité et leur taille.
+- Pourtant, d’après notre Panorama ESET 2026 de la Cybersécurité PME en France, 78% des entreprises interrogées ont confiance dans leur résilience cyber face aux attaques numériques.
+- Paradoxalement, 44 % des entreprises françaises ont subi au moins un incident au cours des 12 derniers mois.
 
-## [Sommet européen 2027 - Santé-ISAC - Centre d'analyse et de partage d'informations sur la santé](https://health-isac.org/fr/rencontre-au-sommet/sommet-européen-de-2027/)  
-*Source : health-isac.org | Publication : 2026-10-26*
+## [Numérique, IA, <b>cybersécurité</b> : un nouveau partenariat avec le notariat](https://www.caissedesdepots.fr/eclairage/actualites/numerique-ia-cybersecurite-un-nouveau-partenariat-avec-le-notariat)  
+*Source : caissedesdepots.fr | Publication : 2026-10-27*
 
-- Sommet européen 2027 Octobre 11 - Octobre 15, 2027 Marbella, province de Malaga, Espagne Les défis complexes en matière de sécurité exigent des priorités claires, des décisions éclairées et une action coordonnée.
-- Le Sommet européen Health-ISAC 2027 réunit des professionnels de la sécurité du secteur de la santé afin d'examiner les nouveaux défis, d'échanger des connaissances pratiques et de renforcer la résilience de l'ensemble du secteur.
-- Des discussions et des apprentissages ciblés permettront d'explorer les stratégies, les relations et les décisions opérationnelles qui soutiennent un secteur de la santé plus sûr et plus résilient.
-- Save the Date D'autres dates clés concernant l'appel à propositions, l'ordre du jour et les modalités d'inscription seront ajoutées dès qu'elles seront disponibles.
+- Numérique, IA, cybersécurité : un nouveau partenariat avec le notariat La Banque des Territoires et le Conseil supérieur du notariat (CSN) viennent de signer une nouvelle convention de partenariat pour la période 2027-2030.
+- L’objectif : accompagner les transformations de la profession notariale face à l'accélération des transitions numériques, aux enjeux croissants de cybersécurité, à l'émergence de l'intelligence artificielle et aux attentes renforcées des citoyens en termes d'accès au droit et de qualité du service public.
+- La nouvelle convention entre la Banque des Territoires et le CSN s'inscrit dans le prolongement de la convention d'objectifs conclue entre l'État et le notariat pour la période 2025-2028.
+- Elle s'articule autour de 4 grandes priorités : renforcer l'accès au droit et la cohésion sociale ; - consolider le service public de la Justice et la souveraineté ; - accompagner la modernisation des offices et leur développement économique ; - soutenir les initiatives nationales et territoriales favorisant l'innovation, la professionnalisation des instances notariales et la qualité du service rendu aux usagers sur l'ensemble du territoire.
 
-## [Covéa mise sur le Virtual Patching pour faire face à l'explosion des vulnérabilités | LeMagIT](https://www.lemagit.fr/etude/Covea-mise-sur-le-Virtual-Patching-pour-faire-face-a-lexplosion-des-vulnerabilites)  
-*Source : lemagit.fr | Publication : 2026-10-26*
+## [De premières cyberattaques exploitant les failles PHP ont été repérées, le gouvernement ...](https://www.lefigaro.fr/secteur/high-tech/de-premieres-cyberattaques-exploitant-les-failles-php-ont-ete-reperees-le-gouvernement-americain-sonne-l-alarme-20261027)  
+*Source : lefigaro.fr | Publication : 2026-10-27*
 
-- icetray - Fotolia Covéa mise sur le Virtual Patching pour faire face à l’explosion des vulnérabilités À la suite d’une cyberattaque majeure sur sa marque MMA en 2020, le groupe Covéa a haussé son niveau de protection.
-- L’équipe cyber a été triplée, les principales briques de sécurité ont été remplacées et le recours au Virtual Patching a été élargi.
-- La nuit du 16 au 17 juillet 2020, MMA est victime d’un ransomware.
-- 25 % du parc de serveurs est chiffré et 1 500 postes de travail sont impactés par l’attaque.
+- De premières cyberattaques exploitant les failles PHP ont été repérées, le gouvernement américain sonne l’alarme Des rapports préliminaires ont fait état de tentatives d’intrusion exploitant les failles de ce code informatique essentiel à l’internet mondial, alors que le patron de Cloudflare a annoncé que plusieurs «millions» de tentatives d’intrusion avaient déjà été décomptées.
+- Passer la publicité Passer la publicitéAlerte rouge pour le web.
+- L’agence américaine de cybersécurité CISA a annoncé ce mardi 27 octobre que des pirates exploitaient déjà activement les deux failles repérées au sein du PHP, qui a contraint une bonne partie du web mondial à fermer le rideau le temps de déployer des correctifs la semaine dernière.
+- Ces vulnérabilités «constituent un vecteur d’attaque fréquent pour les cyberacteurs malveillants et représentent des risques importants pour l’administration fédérale», a-t-elle écrit un communiqué.
 
-## [Comment les pirates parviennent-ils à voler si facilement des données ? L'Anssi décortique ...](https://www.usine-digitale.fr/cybersecurite/comment-les-pirates-parviennent-ils-a-voler-si-facilement-des-donnees-lanssi-decortique-leurs-methodes-et-livre-ses-parades.JD534Q6UNRCZDG5XTVKZI4DCI4.html)  
-*Source : usine-digitale.fr | Publication : 2026-10-26*
+## [<b>Cybersécurité</b> d'une personne en situation de handicap : le guide pratique 2026](https://handinova.fr/cybersecurite-dune-personne-en-situation-de-handicap-le-guide-pratique-2026/)  
+*Source : handinova.fr | Publication : 2026-10-27*
 
-- Et c'est tout le secteur de la cybersécurité qui pourrait en sortir profondément transformé dans les prochaines années.
-- Alice Vitard, Journaliste à L'.
+- Pour une personne aveugle qui navigue avec un lecteur d’écran, un faux message de sa banque ne ressemble pas à un faux message.
+- Pas de logo flou ni de mise en page bancale pour mettre la puce à l’oreille.
+- Juste une voix de synthèse qui lit un texte, sur le même ton que tous les autres.
+- Ce constat résume un problème souvent ignoré : les conseils classiques de cybersécurité ont été pensés pour des personnes qui voient, entendent et utilisent un clavier sans difficulté.
 
-## [la dernière opération d'Interpol acte les progrès et défis concernant l'Afrique - YouTube](https://www.youtube.com/watch?v=gBRgW_yZb8g)  
-*Source : youtube.com | Publication : 2026-10-26*
+## [Salon Studyrama du Numérique et de la <b>Cybersécurité</b> à Aix-en-Provence 2027 - Marseille](https://marseille.evous.fr/salons/studyrama-numerique-aix/)  
+*Source : marseille.evous.fr | Publication : 2026-10-27*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Quelles formations numériques comparer ?.
+- Du développement à la création de jeux vidéo Les domaines à explorer vont du développement web ou logiciel à la conception de jeux vidéo, en passant par l’animation 2D-3D, le webdesign et les réseaux.
+- Pour choisir un cursus, comparez les matières enseignées, les modalités d’admission et les débouchés avec les établissements.
+- Epitech, CESI, l’ESAIP Angers et Ynov Aix-en-Provence figurent parmi les exposants annoncés.
 
-## [Cyberattaque : 850 000 plaques d'immatriculation volées, les noms et adresses de milliers ...](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-850-000-plaques-d-immatriculation-volees-les-noms-et-adresses-de-milliers-de-personnes-risquent-d-etre-devoiles-31251796.php)  
-*Source : sudouest.fr | Publication : 2026-10-26*
+## [Urgent – Sen TV : le chroniqueur Cheikh Tidiane Kandé convoqué à la <b>cybersécurité</b>](https://www.senenews.com/actualites/urgent-sen-tv-le-chroniqueur-cheikh-tidiane-kande-convoque-a-la-cybersecurite_604223.html)  
+*Source : senenews.com | Publication : 2026-10-27*
 
-- Un pirate a affirmé samedi 24 octobre détenir un fichier contenant des numéros d’immatriculation associés aux noms, adresses et numéros de téléphone.
-- Si ses dires venaient à se confirmer, les risques pourraient concerner des centaines de milliers d’automobilistes Samedi, un cybercriminel utilisant le pseudonyme ChimeraZ a annoncé sur un forum spécialisé la mise en vente d’un fichier associant des plaques d’immatriculation à des informations personnelles, révèlent ce lundi les médias RMC et l’Automobile Magazine.
-- Près de 850 000 plaques seraient concernées.
+- Urgent – Sen TV : le chroniqueur Cheikh Tidiane Kandé convoqué à la cybersécurité De nouvelles informations pourraient permettre d’en savoir davantage sur les circonstances de cette procédure.
+- Le chroniqueur de Sen TV, Cheikh Tidiane Kandé, est convoqué ce mercredi 28 octobre à 15 heures à la Division spéciale de cybersécurité (DSC), d’après Senegal7.
+- Les raisons de cette convocation n’ont pas encore été précisées.
+- De nouvelles informations pourraient permettre d’en savoir davantage sur les circonstances de cette procédure.
 
-## [<b>Cybersécurité</b> : attention à l'arnaque ! | Le journal du Gers](https://lejournaldugers.fr/article/95039-cybersecurite-attention-a-larnaque)  
-*Source : lejournaldugers.fr | Publication : 2026-10-26*
+## [ESET sécurise les usages de l'IA des particuliers et des petites entreprises](https://www.eset.com/fr/about/newsroom/press-releases/produits/eset-protection-ia-particuliers-petites-entreprises/)  
+*Source : eset.com | Publication : 2026-10-27*
 
-- Vous avez reçu un message #WhatsApp d'un proche, vous demandant de voter pour aider un enfant à gagner un concours ?.
-- Il s'agit d'une arnaque destinée à prendre le contrôle de votre compte WhatsApp.
-- Ne cliquez pas sur le lien !.
-- Le lien vous demande votre numéro et un code reçu par SMS.
+- La nouvelle couche de sécurité protège les conversations et les agents IA.
+- Elle surveille aussi leurs comportements.
+- - La protection du navigateur et le contrôle Web renforcent la confidentialité.
+- Ils sécurisent aussi les activités en ligne.
 
-## [Failles PHP : une première cyberattaque vient de réussir, et ce n'est qu'un début - 01net.com](https://www.01net.com/actualites/failles-php-une-premiere-cyberattaque-vient-de-reussir-et-ce-nest-quun-debut.html)  
-*Source : 01net.com | Publication : 2026-10-26*
+## [Formations <b>cybersécurité</b> et IA - Actualité illiwap de Mairie de Pavezin](https://station.illiwap.com/fr/public/@42410/actu/formations-cybersecurite-et-ia)  
+*Source : station.illiwap.com | Publication : 2026-10-27*
 
-- Les deux failles critiques qui frappent PHP, le langage qui fait tourner la majeure partie du web, ont été exploitées lors d’une cyberattaque réussie.
-- Adel Karimi, responsable détection et réponse chez Perplexity, a découvert qu’un pirate est parvenu à se servir d’une des vulnérabilités contre un serveur.
-- En amont, le chercheur avait tendu un « pot de miel » (honeypot), un serveur-leurre volontairement vulnérable, destiné à attirer les pirates pour observer leurs méthodes. «.
-- Il s’agit maintenant d’une exécution de code à distance confirmée, avec une fuite de mémoire exploitable, et non d’un simple plantage », détaille Adel Karimi.
+- Le département de la Loire propose deux parcours ludiques pour les jeunes entre 12 et 18 ans.
 
-## [IA, SEO, <b>cybersécurité</b>… Créez votre alerte BDM pour suivre vos thématiques préférées](https://www.blogdumoderateur.com/ia-seo-cybersecurite-alerte-bdm/)  
-*Source : blogdumoderateur.com | Publication : 2026-10-26*
+## [<b>Cybersécurité</b>, IA, réseaux : pourquoi Rennes reste stratégique pour Orange](https://www.rennes-infos-autrement.fr/cybersecurite-ia-reseaux-pourquoi-rennes-reste-strategique-pour-orange/)  
+*Source : rennes-infos-autrement.fr | Publication : 2026-10-27*
 
-- IA, SEO, cybersécurité… Créez votre alerte BDM pour suivre vos thématiques préférées Depuis votre profil BDM, vous pouvez sélectionner des thématiques parmi les rubriques et dossiers du site, afin de recevoir une sélection quotidienne d’articles en lien avec votre activité et les sujets que vous ne voulez pas manquer.
-- Nous lançons aujourd’hui les alertes thématiques, une nouvelle fonctionnalité accessible gratuitement depuis votre compte BDM.
-- Elle vous permet de recevoir chaque jour par email les articles publiés sur les sujets que vous avez choisis, à l’heure qui vous convient.
-- À noter que cette alerte s’ajoute à la newsletter BDM, que vous pouvez continuer à recevoir chaque matin ou chaque vendredi pour suivre l’ensemble de l’actualité du digital.
+- Avec quelque 7 300 salariés en Bretagne, dont près de 5 000 concentrés autour de ses principaux sites rennais, Orange revendique un ancrage exceptionnel dans la région.
+- Cybersécurité, intelligence artificielle, réseaux de télécommunications, recherche quantique et adaptation au changement climatique : l’opérateur entend faire de Rennes l’un de ses pôles stratégiques pour les années à venir.
+- Avec, en ligne de mire, la fermeture du réseau cuivre dans la métropole en janvier 2027 et une ambition nouvelle à l’horizon 2030 : commercialiser son expertise dans la résistance des réseaux aux aléas climatiques.
+- La Bretagne n’est pas seulement une terre historique des télécommunications.
 
-## [Conférence <b>cybercriminalité</b> de Corte - YouTube](https://www.youtube.com/watch?v=0FdWdi79SQw)  
-*Source : youtube.com | Publication : 2026-10-26*
+## [Kyndryl ouvre un nouveau SOC - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES](https://www.linformaticien.com/magazine/cybersecurite/65416-kyndryl-ouvre-un-nouveau-soc.html)  
+*Source : linformaticien.com | Publication : 2026-10-27*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- C'est le premier centre en Europe de l'ESN et renforce les capacités du groupe en matière de données, d'IA et de cyber résilience dans la région.
 
-## [Maîtriser la navigation, c'est préserver sa souveraineté - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1557073-maitriser-la-navigation-c-est-preserver-sa-souverainete/)  
-*Source : journaldunet.com | Publication : 2026-10-26*
+## [Cyberattaques: «Il est trop tard pour réagir pendant la crise» - Entreprise Romande](https://www.entrepriseromande.ch/web/er/w/cyberattaques-«il-est-trop-tard-pour-réagir-pendant-la-crise»-1)  
+*Source : entrepriseromande.ch | Publication : 2026-10-27*
 
-- Maîtriser la navigation, c'est préserver sa souveraineté Face aux vulnérabilités du GPS, la navigation inertielle devient un enjeu clé de résilience et de souveraineté européenne.
-- Pendant des décennies, la navigation par satellite a été considérée comme une évidence.
-- Aujourd'hui, ses vulnérabilités ne peuvent plus être ignorées.
-- Chaque jour, des milliards d'équipements (avions, navires, drones, véhicules autonomes, objets connectés, réseaux électriques et infrastructures de télécommunications) dépendent des systèmes mondiaux de navigation par satellite (GNSS).
+- #Finance Face à l’essor des cybermenaces, le Swiss Financial Sector Cyber Security Center prône l’anticipation.
+- Exercices cyber, coordination de crise et échanges d’informations: tout est fait pour que les banques et autorités sachent agir ensemble lors d'une crise touchant plusieurs acteurs.
+- La sécurité, avant tout.
+- Voilà ce que le secteur financier genevois attend en priorité du Canton, selon l’étude conjoncturelle 2026-2027 de la Fondation Genève Place financière (FGPF), présentée à la presse le 27 octobre.
 
-## [Check Point propose son firewall par abonnement - L'Informaticien](https://www.linformaticien.com/magazine/cybersecurite/65411-check-point-propose-son-firewall-par-abonnement.html)  
-*Source : linformaticien.com | Publication : 2026-10-26*
+## [Les Assises 2026 : comment les RSSI doivent piloter la transformation liée à l'IA | Wavestone](https://www.wavestone.com/fr/news/les-assises-2026/)  
+*Source : wavestone.com | Publication : 2026-10-27*
 
-- L'éditeur de solutions de cybersécurité ajoute un programme Firewall-as-a-Subscription, qui donne aux organisations de toutes tailles accès aux.
+- Les Assises 2026 : comment les RSSI doivent piloter la transformation liée à l’IA 27 octobre 2026 · News En bref Wavestone a participé aux Assises de la Cybersécurité 2026, un rendez-vous incontournable pour les décideurs et leaders du secteur, qui a réuni près de 3 500 participants, dont 1 515 décideurs invités et 187 entreprises partenaires.
+- - En tant que partenaire de l’événement, Wavestone a apporté son expertise en cybersécurité aux échanges, en partageant ses analyses sur les principaux enjeux qui façonnent l’avenir de la cybersécurité et de l’IA.
+- - Nos experts sont également intervenus lors de la session « Lead the Shift: comment les RSSI doivent piloter la transformation liée à l’IA », pour partager la vision de Wavestone sur les trois grandes transformations qui redéfinissent la cybersécurité à l’ère de l’IA.
+- - Trois évolutions, une seule transformation Lors des Assises 2026, un constat s’est imposé : alors que les cybermenaces s’accélèrent et que l’IA transforme les organisations, les RSSI doivent agir rapidement pour garder une longueur d’avance.
 
-## [Après de multiples dérapages, OpenAI entraîne désormais ses modèles de pointe dans un ... - BFM](https://www.bfmtv.com/tech/cybersecurite/apres-de-multiples-derapages-open-ai-entraine-desormais-ses-modeles-de-pointe-dans-un-monde-hors-ligne-mais-ses-agents-ia-ont-malgre-tout-reussi-a-s-en-echapper-pour-acceder-a-internet_AV-202610260424.html)  
-*Source : bfmtv.com | Publication : 2026-10-26*
+## [Du Salon du chocolat à la Foire de Paris : comment ce géant français organise 400 ...](https://www.lesechos.fr/weekend/business-story/du-salon-du-chocolat-a-la-foire-de-paris-comment-ce-geant-francais-organise-400-evenements-dans-le-monde-2259409)  
+*Source : lesechos.fr | Publication : 2026-10-27*
 
-- Après de multiples dérapages, OpenAI entraîne désormais ses modèles de pointe dans un "monde hors ligne", mais ses agents IA ont malgré tout réussi à s'en échapper pour accéder à internet Priver ses modèles d'internet lors de leur entraînement pour éviter de futurs incidents.
-- C'est la solution d'OpenAI, qui a perdu le contrôle de ses systèmes à plusieurs reprises ces derniers mois.
-- Face à ces incidents qui se sont enchaînés, le créateur de ChatGPT a décidé de couper l'accès à internet lors de la formation de ses modèles d'IA de pointe.
-- "À l'intérieur du périmètre de sécurité, les agents peuvent accéder aux navigateurs, aux environnements d'exécution de code, aux outils informatiques et aux autres services nécessaires à leurs tâches.
+- Cybersécurité.
+- (Photo Eleonora Strano pour Les Echos Week-end).
+- Par Laurent-David Samama.
+- Publié le 27 oct.
 
-## [<b>Cybersécurité</b> : l'IA gagne du terrain dans les entreprises Selon l'OCDE, 5,3 % des ... - Instagram](https://www.instagram.com/reel/De9c3TjoCXe/)  
-*Source : instagram.com | Publication : 2026-10-26*
+## [Paray-le-Monial. <b>Cybersécurité</b> : « Comprendre comment ça se passe et savoir comment faire »](https://www.lejsl.com/societe/2026/10/27/cybersecurite-comprendre-comment-ca-se-passe-et-savoir-comment-faire)  
+*Source : lejsl.com | Publication : 2026-10-27*
 
-- Cybersécurité : des milliers de sites mis hors ligne après des failles PHP Des vulnérabilités détectées grâce à l'intelligence artificielle dans.
+- Paray-le-Monial Cybersécurité : « Comprendre comment ça se passe et savoir comment faire » Sensibiliser à la cybersécurité, former et informer les utilisateurs pour réduire les risques d’erreurs humaines (un clic sur un lien frauduleux, le vol de mots de passe), souvent à l’origine des cyberattaques… L’adjudant Adrien Grégoire, référent départemental pour la cybersécurité basé à Chalon, est intervenu pour France services, dans les locaux de l’Espace socioculturel, 1 rue du 8-Mai.
+- L’essentiel du message était de « comprendre comment ça se passe et savoir comment faire ». «.
+- On reçoit plein de mails sans savoir si c’est vrai, on efface, on efface… », témoigne Didier, 62 ans.
+- Une vingtaine de personnes était présente, toutes ayant vécu une situation proche de l’arnaque, celle contre les congélateurs de grandes surfaces était dans les esprits. «.
 
-## [1 462 arrestations dans 21 pays, avec plus de 10 000 réseaux malveillants visés et près de ...](https://www.instagram.com/p/De9hOYbFeFT/)  
-*Source : instagram.com | Publication : 2026-10-26*
+## [AVIS D'EXPERT – Comment réduire les dépenses liées à l'IA sans compromettre les ...](https://www.solutions-numeriques.com/avis-dexpert-comment-reduire-les-depenses-liees-a-lia-sans-compromettre-les-capacites-de-securite/)  
+*Source : solutions-numeriques.com | Publication : 2026-10-27*
 
-- InstagramLog InSign Up.
+- L’IA peut rapidement faire grimper les coûts des opérations de sécurité, sans toujours améliorer la qualité des détections.
+- Matt Coons, Senior Manager of Security Operations chez GitLab, explique comment son équipe a réduit certaines dépenses liées à l’IA à environ un dollar par jour, en combinant filtrage des événements, modèles adaptés et intervention humaine ciblée.
+- Les modèles d’IA les plus performants coûtent trop cher pour les tâches quotidiennes à fort volume : c’est ce que découvrent les équipes de sécurité à la réception de leur première facture.
+- En France, cette pression s’exerce de plus en plus sur des équipes déjà sous tension.
 
-## [Un expert en <b>cybersécurité</b> recouvre sa voiture d'un motif d'autocollants et la rend invisible ...](https://www.lacremedugaming.fr/high-tech/expert-cybersecurite-recouvre-voiture-dun-motif-dautocollants-la-rend-invisible-aux-radars-aux-cameras-ia-222709.html)  
-*Source : lacremedugaming.fr | Publication : 2026-10-26*
+## [Nouvelle convention de partenariat entre la Banque des Territoires et le CSN](https://www.actu-juridique.fr/breves/notaires/nouvelle-convention-de-partenariat-entre-la-banque-des-territoires-et-le-csn/)  
+*Source : actu-juridique.fr | Publication : 2026-10-27*
 
-- Un expert en cybersécurité recouvre sa voiture d’un motif d’autocollants et la rend invisible aux radars et aux caméras IA À Las Vegas, une Toyota Yaris recouverte d’un motif d’autocollants généré par IA aurait échappé aux caméras Flock lors de DEF CON 2026.
-- Cette voiture invisible aux radars et aux caméras IA pourrait-elle bousculer notre façon de penser la surveillance routière ?.
-- À Las Vegas, lors de DEF CON 2026, l’expert en cybersécurité Bill Swearingen a présenté une démo qui fait frémir les fans de Tech et les services de police.
-- Il a recouvert une modeste Toyota Yaris 2009 d’un motif d’autocollants généré par IA, puis l’a fait passer devant une caméra intelligente Flock Safety, utilisée pour la reconnaissance automatique de plaques.
+- cybersécurité , l'émergence de l'IA et les attentes renforcées des citoyens en matière d'accès au droit et de qualité du service public.
+- Faire de.
 
-## [SASE et dépôt de plainte, le Clusif publie deux textes pour préparer la crise et réagir suite à ...](https://itsocial.fr/cybersecurite/cybersecurite-articles/sase-et-depot-de-plainte-le-clusif-publie-deux-textes-pour-preparer-la-crise-et-reagir-suite-a-une-compromission/)  
-*Source : itsocial.fr | Publication : 2026-10-26*
+## [Ingénieure <b>Cybersécurité</b>, Melissa déjoue les attaques informatiques - Ouest-France](https://www.ouest-france.fr/ouest-france-communication/video-ingenieure-cybersecurite-melissa-dejoue-les-attaques-informatiques-b6d7e4bf-c072-48fc-bb9a-e2298b0b1215)  
+*Source : ouest-france.fr | Publication : 2026-10-27*
 
-- Le Clusif a mis en accès libre en octobre un dossier technique sur le SASE, l’architecture qui confie le réseau et la sécurité à une même plateforme en nuage, et un livret sur le dépôt de plainte après une cyberattaque.
-- L’un sert à choisir et à contracter avant l’incident, l’autre à agir dans les 72 heures qui le suivent, et tous deux sortent de groupes de travail où acheteurs et fournisseurs de sécurité écrivent ensemble.
-- Le Clusif, le Club de la sécurité de l’information français, a mis en ligne le 22 octobre un dossier technique de 38 pages consacré au SASE, pour Secure Access Service Edge, trois jours après un livret de quatre pages intitulé « Déposer plainte après une cyber attaque ».
-- Le dossier est daté de mars 2026, le livret d’août.
+- « Ce que j'aime, c'est partir d'une alerte et comprendre ce qui s'est réellement passé. ».
+- Pour Melissa Gueraouni, la cybersécurité ressemble souvent à.
