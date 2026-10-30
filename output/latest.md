@@ -1,150 +1,151 @@
-# Résumés – 2026-10-29
+# Résumés – 2026-10-30
 
 
-## [Fortinet : Wall Street sanctionne l'essoufflement de la croissance malgré des résultats solides](https://bourse.fortuneo.fr/actualites/fortinet-wall-street-sanctionne-l-essoufflement-de-la-croissance-malgre-des-resultats-solides-5884040)  
-*Source : bourse.fortuneo.fr | Publication : 2026-10-28*
+## [Hameçonnage de cabinets d'avocats | McCarthy Tétrault et Davies victimes de vols de données](https://www.lapresse.ca/affaires/entreprises/2026-10-29/hameconnage-de-cabinets-d-avocats/mccarthy-tetrault-et-davies-victimes-de-vols-de-donnees.php)  
+*Source : lapresse.ca | Publication : 2026-10-30*
 
-- (Zonebourse.com) - Fortinet plonge de près de 20 % dans les échanges après-Bourse, une sanction particulièrement sévère pour le spécialiste américain de la cybersécurité et des équipements de protection des réseaux, qui a pourtant dépassé les attentes au troisième trimestre.
-- Son chiffre d'affaires a progressé de 20,5 % sur un an, à 2,08 MdsUSD, contre 2,06 MdsUSD attendus, tandis que son bénéfice ajusté par action a atteint 0,91 dollar, contre un consensus de 0,86 dollar.
-- Mais les investisseurs semblent surtout s'inquiéter de l'essoufflement de la croissance.
-- Les facturations (billings), indicateur avancé de l'activité commerciale, ont augmenté de 29 %, contre 33 % au trimestre précédent, tandis que la croissance des ventes d'équipements de sécurité réseau a ralenti de 52 % à 37 %.
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
 
-## [Suramortissement « industrie 4.0 » : l'Assemblée y ajoute l'IA et la <b>cybersécurité</b> | LégiFiscal](https://www.legifiscal.fr/actualites-fiscales/4705-suramortissement-industrie-40-assemblee-ajoute-ia-cybersecurite.html)  
-*Source : legifiscal.fr | Publication : 2026-10-28*
+## [Cinq questions sur la faille critique PHP qui continue de secouer l'Internet mondial | TF1 Info](https://www.tf1info.fr/high-tech/cinq-questions-sur-la-faille-critique-php-qui-continue-de-secouer-l-internet-mondial-2472703.html)  
+*Source : tf1info.fr | Publication : 2026-10-29*
 
-- Le dispositif proposé par le Gouvernement L’article 9 crée un article 39 decies H du CGI.
-- Il s’inspire du suramortissement « robotique » de 2019-2020, que la direction générale des entreprises a évalué favorablement en avril 2026.
-- Entreprises concernées : les PME et les ETI soumises à l’IS ou à l’IR selon un régime réel.
-- - Biens concernés : des biens neufs affectés à une activité industrielle, acquis entre le 1er janvier 2027 et le 31 décembre 2029, sur commande ferme passée à compter du 1er octobre 2026 (date précisée par l’amendement rédactionnel I-3413 du rapporteur général).
+- Des chercheurs en sécurité informatique utilisant des outils d'intelligence artificielle ont découvert des failles dans un langage de programmation très répandu appelé PHP.
+- - Leur découverte a conduit à la mise hors ligne de sites gouvernementaux la semaine dernière, le temps de corriger ces vulnérabilités critiques, mais d'autres pourraient demeurer vulnérables, alerte le gendarme français de la cybersécurité.
+- - L'annonce de la découverte de failles de cybersécurité critiques dans un langage de programmation très répandu appelé PHP a conduit à la mise hors ligne volontaire, à titre de précaution, de milliers de sites internet (nouvelle fenêtre) la semaine dernière.
+- La plupart de ces sites ont depuis été remis en ligne, des correctifs permettant de réparer ces "vulnérabilités critiques" ayant été publiés par la fondation qui coordonne le développement et les évolutions de PHP.
 
-## [« Il y a eu forcément une fuite », estime cet expert après les cyberattaques de la Région ...](https://www.courrier-picard.fr/id755517/article/2026-10-28/il-y-eu-forcement-une-fuite-estime-cet-expert-apres-les-cyberattaques-de-la)  
-*Source : courrier-picard.fr | Publication : 2026-10-28*
+## [Orange Cyberdefense annonce un partenariat avec Mistral AI dans le domaine de la <b>cybersécurité</b>](https://www.zonebourse.com/actualite-bourse/orange-cyberdefense-annonce-un-partenariat-avec-mistral-ai-dans-le-domaine-de-la-cybersecurite-ce785fdad880f325)  
+*Source : zonebourse.com | Publication : 2026-10-29*
 
-- Expert en cyber intelligence, le nordiste Damien Bancal est en contact avec le pirate qui s'est attaqué à la Région Hauts-de-France.
+- Ce partenariat lui donne un accès anticipé à une variante de Mistral Large 4, optimisée pour les processus avancés de cybersécurité.
+- "A mesure que.
 
-## [Gen Digital revoit à la hausse ses prévisions de chiffre d'affaires annuel grâce à une forte ...](https://fr.tradingview.com/news/reuters.com,2026:newsml_L5N46E34B:0/)  
-*Source : fr.tradingview.com | Publication : 2026-10-28*
+## [Désormais ouvert, Mistral Large 4 peut-il rivaliser avec les modèles chinois les plus performants ?](https://www.usine-digitale.fr/intelligence-artificielle/mistral-ai/desormais-ouvert-mistral-large-4-peut-il-rivaliser-avec-les-modeles-chinois-les-plus-performants.O4WJWPZ37RESVHNYJHMHCCLA4M.html)  
+*Source : usine-digitale.fr | Publication : 2026-10-29*
 
-- Gen Digital revoit à la hausse ses prévisions de chiffre d'affaires annuel grâce à une forte demande en matière de cybersécurité Lire l'article complet Obtenez un accès illimité aux articles de Reuters et à toutes les autres sources d'actualités sur TradingView.
+- Il revendique des performances de premier plan en programmation agentique et en cybersécurité , tout en mettant en avant une consommation réduite de.
 
-## [Cyberattaque contre Engie : une fuite de données touche les clients en France - 01net.com](https://www.01net.com/actualites/cyberattaque-contre-engie-fuite-donnees-touche-clients-france.html)  
-*Source : 01net.com | Publication : 2026-10-28*
+## [<b>Ransomware</b> n0n utilise l'IA pour les opérations d'extorsion - SOC Prime](https://socprime.com/fr/active-threats/analyse-du-ransomware-n0n-au-coeur-dune-operation-d-extorsion-assistee-par-ia/)  
+*Source : socprime.com | Publication : 2026-10-29*
 
-- Engie vient d’être victime d’une fuite de données.
-- Le géant de l’énergie prévient actuellement ses clients par mail d’un incident de sécurité majeur.
-- À ce stade, aucun groupe de pirates n’a revendiqué l’opération, et rien n’indique que les données aient été mises en vente ou publiées sur le dark web.
-- Le groupe n’a désigné aucun responsable, et aucun gang de rançongiciel ou d’extorsion n’a revendiqué le piratage.
+- Analyse du ransomware n0n : Au cœur d’une opération d’extorsion assistée par IA Detection stack.
+- - Alert -.
+- - Query - Résumé Le groupe de ransomware n0n mène des campagnes d’extorsion à grande échelle en utilisant des outils assistés par l’IA pour automatiser la création de scripts et les flux de travail d’attaques.
+- Le groupe se concentre principalement sur l’exfiltration de données et, dans certains incidents, sur l’effacement destructeur de données plutôt que sur le chiffrement traditionnel des fichiers.
 
-## [Piratage du site des impôts : un deuxième suspect, âgé de 16 ans, mis en examen](https://www.lemonde.fr/pixels/article/2026/10/28/piratage-du-site-des-impots-un-deuxieme-suspect-age-de-16-ans-mis-en-examen_6801643_4408996.html)  
-*Source : lemonde.fr | Publication : 2026-10-28*
+## [Le <b>ransomware</b> Gentlemen : tactiques et outils RaaS - SOC Prime](https://socprime.com/fr/active-threats/le-ransomware-gentlemen-a-l-interieur-d-une-operation-de-ransomware-en-tant-que-service/)  
+*Source : socprime.com | Publication : 2026-10-29*
 
-- JavaScript is disabled in your browser.
-- Please enable JavaScript to proceed.
-- A required part of this site couldn’t load.
-- This may be due to a browser extension, network issues, or browser settings.
+- Le ransomware Gentlemen : à l’intérieur d’une opération de ransomware en tant que service Detection stack.
+- - Alert -.
+- - Query - Résumé Les Gentlemen est un groupe Ransomware-as-a-Service (RaaS) russophone qui a émergé à la mi-2025 après avoir précédemment opéré en tant qu’affilié de LockBit et Qilin.
+- Le groupe suit un modèle de double extorsion, cryptant les données des victimes tout en menaçant de publier les informations volées sur un site de fuite dédié.
 
-## [Il ne faut pas &quot;considérer que le problème est définitivement résolu&quot;: l'Anssi alerte sur des ...](https://www.bfmtv.com/tech/cybersecurite/il-ne-faut-pas-considerer-que-le-probleme-est-definitivement-resolu-l-anssi-alerte-sur-des-impacts-secondaires-lies-aux-failles-php_AD-202610280917.html)  
-*Source : bfmtv.com | Publication : 2026-10-28*
+## [Le risque cyber est-il une fatalité ? - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1557227-le-risque-cyber-est-il-une-fatalite/)  
+*Source : journaldunet.com | Publication : 2026-10-29*
 
-- Il ne faut pas "considérer que le problème est définitivement résolu": l'Anssi alerte sur des "impacts secondaires" liés aux failles PHP La menace est toujours présente.
-- Après la suspension temporaire de nombreux sites liée à des vulnérabilités dans l'un des langages de programmation les plus répandus d'internet, PHP, l'agence de cybersécurité française a mis en garde mercredi contre de possibles "impacts secondaires" de ces failles.
-- La semaine précédente, des failles de cybersécurité repérées grâce à l'IA dans ce langage qui fait tourner une grande partie des sites web du monde entier avaient entraîné la mise hors ligne volontaire de milliers de sites à titre de précaution.
-- La grande majorité ont depuis été remis en ligne, des correctifs permettant de réparer ces "vulnérabilités critiques" ayant été publiés par la fondation qui coordonne le développement et les évolutions de PHP.
+- Le risque cyber est-il une fatalité ?.
+- Face aux cyberattaques dopées à l'IA, les entreprises doivent placer la cybersécurité au cœur de leur stratégie, renforcer leur résilience et faire de chaque collaborateur un acteur de leur sécurité.
+- Chaque semaine, de nouvelles avancées spectaculaires en matière d’intelligence artificielle promettent des gains d’efficacité inédits et un potentiel de transformation des métiers.
+- Pourtant, face à ce potentiel, la confiance des dirigeants vacille.
 
-## [Gen Digital revoit à la hausse ses prévisions de chiffre d'affaires annuel grâce à une forte ...](https://www.boursorama.com/bourse/actualites-amp/gen-digital-revoit-a-la-hausse-ses-previsions-de-chiffre-d-affaires-annuel-grace-a-une-forte-demande-en-matiere-de-cybersecurite-83c9c89c49838a73f5fea849511cf843)  
-*Source : boursorama.com | Publication : 2026-10-28*
+## [Orange Cyberdefense devient le premier partenaire européen de Mistral AI pour la ...](https://www.orange.com/fr/communiques/orange-cyberdefense-devient-le-premier-partenaire-europeen-de-mistral-ai-pour-la-conception-de-services-de-securite-manages-516565)  
+*Source : orange.com | Publication : 2026-10-29*
 
-- Gen Digital revoit à la hausse ses prévisions de chiffre d'affaires annuel grâce à une forte demande en matière de cybersécurité information fournie par Reuters 28/10/2026 à 21:20 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Ajout de l'évolution du cours de l'action) par Prathik Jayaprakash Gen Digital GEN.O a revu à la hausse mercredi ses prévisions de chiffre d'affaires annuel, signe d'une demande soutenue pour ses solutions de cybersécurité, les consommateurs cherchant à se protéger contre des menaces en ligne de plus en plus sophistiquées.
-- L'action de la société a progressé d'environ 7 % en séance prolongée.
-- Voici plus de détails: * Gen a enregistré son sixième trimestre consécutif de croissance à deux chiffres de ses prises de commandes, les consommateurs cherchant de l'aide pour faire face aux escroqueries basées sur l'IA et à l'utilisation croissante d'agents IA, a déclaré le directeur général Vincent Pilette à Reuters * La société a annoncé un chiffre d’affaires trimestriel de 1,37 milliard de dollars, contre une estimation moyenne des analystes de 1,34 milliard de dollars, selon les données compilées par LSEG * Le fabricant des produits Norton, Avast, LifeLock et MoneyLion a enregistré un nombre record de clients et un taux de fidélisation solide dans ses activités de cybersécurité et de bien-être financier, a déclaré Vincent Pilette * Elle a réalisé un bénéfice ajusté de 74 centimes par action pour le trimestre clos le 2 octobre, contre des estimations de 72 centimes * La société prévoit pour l’exercice 2027 un chiffre d’affaires compris entre 5,465 milliards et 5,515 milliards de dollars, en hausse par rapport à ses prévisions antérieures, qui s’échelonnaient entre 5,375 milliards et 5,475 milliards de dollars.
-- Les analystes tablaient sur un chiffre d’affaires annuel de 5,43 milliards de dollars.
+- Cookies disabled This website is using a security service to protect itself from online attacks.
+- The service requires full cookie support in order to view the website.
+- Please enable Cookies on your browser and try again.
+- Reference ID: 78dfe8334d0e709d75c7174ebe223daa.
 
-## [Le pire est à craindre : les failles PHP qui ont secoué tout internet sont désormais exploitées](https://www.journaldugeek.com/2026/10/28/le-pire-est-a-craindre-les-failles-php-qui-ont-secoue-tout-internet-sont-desormais-exploitees/)  
-*Source : journaldugeek.com | Publication : 2026-10-28*
+## [Piratage du fisc : un deuxième suspect, âgé de 16 ans, mis en examen - Libération](https://www.liberation.fr/economie/piratage-du-fisc-un-deuxieme-suspect-age-de-16-ans-mis-en-examen-20261029_EAAAGMFYJVH2XAQOXE6PROQU7M/)  
+*Source : liberation.fr | Publication : 2026-10-29*
 
-- Il y a une semaine, tout le web était en alerte.
-- En effet, le 21 octobre, la fondation qui développe PHP, l’une des briques majeures du web, a publié en urgence un correctif contre deux failles de sécurité critiques, d’une importante gravité.
-- La menace était tellement importante que certains sites se sont mis hors ligne, le temps d’installer le correctif.
-- Et aujourd’hui, on sait que le danger est réel pour les serveurs qui n’auraient pas encore fait cette mise à jour de PHP.
+- Il est soupçonné d'être membre du groupe de pirates informatiques ZeroBytes.
+- Cybersécurité.
 
-## [Gen Digital revoit à la hausse ses prévisions de chiffre d'affaires annuel grâce à une forte ...](https://www.boursorama.com/bourse/actualites-amp/gen-digital-revoit-a-la-hausse-ses-previsions-de-chiffre-d-affaires-annuel-grace-a-une-forte-demande-en-matiere-de-cybersecurite-39a7b72767d14e03f6376d6c37e26966)  
-*Source : boursorama.com | Publication : 2026-10-28*
+## [Sécurité cloud : la machine est prête, l'entreprise l'est-elle ? - Solutions-Numeriques](https://www.solutions-numeriques.com/securite-cloud-la-machine-est-prete-lentreprise-lest-elle/)  
+*Source : solutions-numeriques.com | Publication : 2026-10-29*
 
-- cybersécurité , les consommateurs cherchant à se protéger contre des ... cybersécurité et de bien-être financier, a déclaré M. Pilette.
-- * Elle.
+- Avec l’IA, l’attaque se démocratise et la défense doit désormais réagir en quelques minutes.
+- Stephan Hadinger, directeur technique d’AWS France, plaide pour une sécurité pensée pour réagir.
+- Pierre Codis, directeur général de la filiale française de Keyfactor, rappelle qu’avant de réagir vite, encore faut-il savoir qui agit dans son système.
+- Moins de treize minutes.
 
-## [Nous sommes un tiers de confiance dans un monde incertain | La Gazette France](https://www.lagazettefrance.fr/article/nous-sommes-un-tiers-de-confiance-dans-un-monde-incertain)  
-*Source : lagazettefrance.fr | Publication : 2026-10-28*
+## [NAS Synology - Attaque avec <b>ransomware</b> - Cachem](https://www.cachem.fr/alerte-synology-ransomware/)  
+*Source : cachem.fr | Publication : 2026-10-29*
 
-- Le plan stratégique «Trust the future», votre feuille de route nationale pour les cinq prochaines années, est aujourd’hui en marche.
-- Quel est le cap donné ?.
-- Jean-François Arnod : Le précédent plan (Lead the future : NDLR) avait pour principal objectif de recentrer Orange sur ses cœurs de métier.
-- Aujourd’hui, nous entendons renforcer notre rôle de tiers de confiance pour accompagner nos différents clients face à un monde plein d’incertitudes.
+- Cela faisait longtemps que les NAS n’avaient pas subi une attaque d’une telle ampleur… Synology a envoyé un e-mail à tous ses utilisateurs enregistrés.
+- Les pirates ciblent des boîtiers qui n’ont pas reçu les dernières mises à jour, avec à la clé un ransomware (C3RB3R) qui vient chiffrer les fichiers et réclamer ensuite une rançon.
+- Si vous possédez un NAS Synology, prenez 10 minutes pour mettre à jour DSM.
+- Faille connue et corrigée Les attaquants s’appuient sur une vulnérabilité déjà corrigée en novembre 2024 (Synology-SA-24:20).
 
-## [Bachelor <b>Cybersécurité</b> EPITA x École polytechnique](https://www.epita.fr/bachelor-ingenieur/bachelor-cybersecurite/)  
-*Source : epita.fr | Publication : 2026-10-28*
+## [Rockwell Automation présente les fonctionnalités de la plateforme SecureOT pour aider les ...](https://fr.tradingview.com/news/prnewswire:ebdfe763680e4:0/)  
+*Source : fr.tradingview.com | Publication : 2026-10-29*
 
-- Bachelor Cybersécurité EPITA x École polytechnique Les menaces informatiques n’ont jamais été aussi nombreuses.
-- Le besoin d’experts et d’expertes pour y faire face, lui, n’a jamais été aussi impératif.
-- La réponse : le Bachelor Cybersécurité de l’EPITA.
-- En partenariat avec l’École polytechnique et le ministère des Armées, cette formation habilitée par la CTI* vous place au cœur des enjeux de la sécurité numérique.
+- Rockwell Automation présente les fonctionnalités de la plateforme SecureOT pour aider les OEM à satisfaire aux nouvelles réglementations en matière de cybersécurité Les fonctionnalités de SecureOT aident les constructeurs de machines à identifier les vulnérabilités, à documenter la posture de cybersécurité et à préparer la conformité tout au long du cycle de vie des machines.
+- VOISINS-LE-BRETONNEUX, 29 octobre 2026 /PRNewswire/ -- Rockwell Automation, Inc. (NYSE : ROK), un leader mondial de l'automatisation industrielle et de la transformation numérique, enrichit sa solution SecureOTTM de nouvelles fonctionnalités pour aider les équipementiers (OEM) à simplifier leurs démarches de conformité, à renforcer la sécurité dès la conception et à mieux gérer les risques de cybersécurité tout au long du cycle de vie des machines.
+- Les réglementations en matière de cybersécurité, telles que le Règlement européen sur la cyberrésilience (CRA) et le Règlement sur les machines (MR), préparent aux échéances de conformité majeures de 2026 et 2027.
+- Alors que ces réglementations redéfinissent les exigences pour les constructeurs de machines, ces derniers sont soumis à une pression croissante pour démontrer leur capacité à faire face aux risques de cybersécurité, tenir une documentation détaillée et assurer un support continu pour les équipements déployés.
 
-## [Mois de la <b>cybersécurité</b> : sensibiliser tout le monde - Sosafe-awareness.com](https://sosafe-awareness.com/fr/blog/rendre-le-mois-de-la-sensibilisation-a-la-cybersecurite-pertinent-pour-lensemble-du-personnel/)  
-*Source : sosafe-awareness.com | Publication : 2026-10-28*
+## [Pourquoi le SPF Finances a-t-il été visé par une cyberattaque ? Un expert avance plusieurs pistes](https://www.rtl.be/actu/belgique/societe/pourquoi-le-spf-finances-t-il-ete-vise-par-une-cyberattaque-un-expert-avance/2026-10-29/article/804930)  
+*Source : rtl.be | Publication : 2026-10-29*
 
-- Tous les ans en octobre, le mois de la sensibilisation à la cybersécurité offre aux entreprises une excellente occasion de fédérer leurs équipes autour de la sécurité.
-- Des campagnes sont lancées, des affiches font leur apparition, et les équipes déploient des efforts considérables pour impliquer les collaborateurs.
-- Cependant, pour moi, la question la plus intéressante reste de savoir ce qui se passe ensuite, lorsque chacun reprend ses habitudes et doit prendre des décisions sans avoir un rappel sous les yeux.
-- En tant que Responsable Relations Clients Senior chez SoSafe, je constate à quel point il peut être difficile de rendre la sensibilisation pertinente pour l’ensemble du personnel.
+- Partager: Plusieurs services du SPF Finances restaient hors ligne jeudi en raison d’une cyberattaque perpétrée dans la nuit de mardi à mercredi.
+- L’administration œuvre à un redémarrage mais cela nécessite du temps pour éviter tout risque.
+- Aucune donnée n’a fuité, confirme le service public fédéral.
+- L’intrusion a été repérée en quelques heures, a indiqué un porte-parole du SPF Finances, Francis Adyns.
 
-## [Google lance le modèle d'IA « Gemini 4 Carbon », axé sur la <b>cybersécurité</b> - TradingView](https://fr.tradingview.com/news/reuters.com,2026:newsml_L5N46E2U6:0/)  
-*Source : fr.tradingview.com | Publication : 2026-10-28*
+## [Bercy de la Cyber : l'État mise sur la pédagogie, NIS 2 et DORA font grincer des dents](https://www.alliancy.fr/bercy-de-la-cyber-letat-mise-sur-la-pedagogie-nis-2-et-dora-font-grincer-des-dents-cc2379be-18e5-4f4e-9d27-11af875cad19)  
+*Source : alliancy.fr | Publication : 2026-10-29*
 
-- Actualités/Reuters/Google lance le modèle d'IA « Gemini 4 Carbon », axé sur la cybersécuritéGoogle lance le modèle d'IA « Gemini 4 Carbon », axé sur la cybersécuritéLire l'article completObtenez un accès illimité aux articles de Reuters et à toutes les autres sources d'actualités sur TradingView.Continuer à lire.
+- bercyber Bercy de la Cyber : l’État mise sur la pédagogie, NIS 2 et DORA font grincer des dents Pour sa première édition, le Bercy de la Cyber a misé sur la pédagogie auprès des TPE et PME, mais NIS 2 et DORA ont concentré les crispations.
+- “La pédagogie passe par la répétition.”.
+- La formule, lâchée au détour d’un couloir du ministère des Finances ce 29 octobre 2026, a résumé à elle seule l’esprit de cette première édition du Bercy de la Cyber.
+- Événement très généraliste, ce grand rassemblement ministériel aurait pu essuyer des critiques pour son manque de complexité technique.
 
-## [AVIS D'EXPERT – L'IA a protégé Internet. L'Europe, elle, n'avait que l'interrupteur](https://www.solutions-numeriques.com/avis-dexpert-lia-a-protege-internet-leurope-elle-navait-que-linterrupteur/)  
-*Source : solutions-numeriques.com | Publication : 2026-10-28*
+## [Orange Cyberdefense s'allie à Mistral AI pour renforcer ses services de <b>cybersécurité</b>](https://www.channelnews.fr/orange-cyberdefense-sallie-a-mistral-ai-pour-renforcer-ses-services-de-cybersecurite-159915)  
+*Source : channelnews.fr | Publication : 2026-10-29*
 
-- Mercredi 21 octobre, vers 14 heures, les sites des préfectures de la Drôme et de l’Ardèche ont cessé de répondre.
-- Puis toutes les préfectures, impots.gouv.fr, Météo-France.
-- Aux Pays-Bas, l’agence nationale de cybersécurité s’est elle-même mise hors ligne.
-- En Finlande, en Flandre, au Danemark, en Allemagne, communes, hôpitaux et universités ont suivi, raconte Martin Pavanello, cofondateur et président de Mister IA.
+- Orange Cyberdefense annonce un partenariat avec Mistral AI pour intégrer une version spécialisée de son nouveau modèle Mistral Large 4 à ses services de cybersécurité.
+- Premier fournisseur européen de services de sécurité managés (MSSP) à rejoindre le programme Design Partner de Mistral, il entend notamment accélérer la détection des vulnérabilités et la réponse aux incidents.
+- L’accord donne à Orange Cyberdefense un accès anticipé à une variante de Mistral Large 4 optimisée pour les usages de cybersécurité.
+- Surnommé « le Chonk », ce modèle multimodal de 1 000 milliards de paramètres, dont 52 milliards actifs, a été présenté début octobre par Mistral AI.
 
-## [Google dévoile Gemini 4 Carbon, un modèle d'IA dédié à la <b>cybersécurité</b> et à la programmation](https://www.boursorama.com/bourse/actualites-amp/google-devoile-gemini-4-carbon-un-modele-d-ia-dedie-a-la-cybersecurite-et-a-la-programmation-dcb9f6f11c532cc7cd7f61dc489c974b)  
-*Source : boursorama.com | Publication : 2026-10-28*
+## [Protection des renseignements personnels et <b>cybersécurité</b> au Canada, aux États-Unis et ... - Fasken](https://www.fasken.com/fr/knowledge/2026/10/faskens-noteworthy-news-privacy-cybersecurity-in-canada-the-us-and-the-eu-october-2026)  
+*Source : fasken.com | Publication : 2026-10-29*
 
-- Google dévoile Gemini 4 Carbon, un modèle d'IA dédié à la cybersécurité et à la programmation information fournie par Zonebourse 28/10/2026 à 19:23 Google a présenté Gemini 4 Carbon, un nouveau modèle d'intelligence artificielle conçu pour les tâches complexes de programmation et de cybersécurité.
-- Lancé deux semaines après Gemini 4 Argon, ce système vise à renforcer la position du groupe face à OpenAI et Anthropic, dans un contexte de concurrence accrue autour des modèles capables d'automatiser des opérations informatiques avancées.
-- Selon Google, Gemini 4 Carbon affiche des performances de premier plan dans la détection de vulnérabilités informatiques, leur exploitation et la génération de correctifs logiciels.
-- Le groupe affirme également que son nouveau modèle produit du code sécurisé avec un taux de réussite plus de deux fois supérieur à celui de Gemini 4 Argon, d'après ses évaluations internes.
+- Ce bulletin mensuel a été préparé par le groupe Protection des renseignements confidentiels, vie privée et cybersécurité de Fasken pour vous présenter.
 
-## [Google dévoile Gemini 4 Carbon, un modèle d'IA dédié à la <b>cybersécurité</b> et à la programmation](https://www.tradingsat.com/actualites/informations-societes/google-devoile-gemini-4-carbon-un-modele-d-ia-dedie-a-la-cybersecurite-et-a-la-programmation-1172689.html)  
-*Source : tradingsat.com | Publication : 2026-10-28*
+## [Le spécialiste vendéen des solutions industrielles connectées Soenno vise 70 M€ de chiffre ...](https://agence-api.ouest-france.fr/numerique/le-specialiste-vendeen-des-solutions-industrielles-connectees-soenno-vise-70-m-euros-de-chiffre-daffaires-en-2030-4aeed496-d3b2-11f1-af78-2d36ec019942)  
+*Source : agence-api.ouest-france.fr | Publication : 2026-10-29*
 
-- (Zonebourse.com) - Google a présenté Gemini 4 Carbon, un nouveau modèle d'intelligence artificielle conçu pour les tâches complexes de programmation et de cybersécurité.
-- Lancé deux semaines après Gemini 4 Argon, ce système vise à renforcer la position du groupe face à OpenAI et Anthropic, dans un contexte de concurrence accrue autour des modèles capables d'automatiser des opérations informatiques avancées.
-- Selon Google, Gemini 4 Carbon affiche des performances de premier plan dans la détection de vulnérabilités informatiques, leur exploitation et la génération de correctifs logiciels.
-- Le groupe affirme également que son nouveau modèle produit du code sécurisé avec un taux de réussite plus de deux fois supérieur à celui de Gemini 4 Argon, d'après ses évaluations internes.
+- Le spécialiste vendéen des solutions industrielles connectées Soenno vise 70 M€ de chiffre d’affaires en 2030 Groupe familial spécialisé dans les solutions connectées à destination de l’industrie, Soenno a réalisé 35 M€ de chiffre d’affaires en 2025, en hausse de plus de 50 % depuis 2022.
+- Basé à Montaigu, en Vendée, il entend doubler son activité d’ici à 2030, en misant sur la cybersécurité industrielle, les acquisitions et un développement européen.
+- Le groupe Soenno poursuit sa trajectoire de croissance.
+- À l’occasion des 25 ans de sa société historique, Sphinx, le groupe a inauguré un deuxième bâtiment sur son site de Boufféré, à Montaigu-Vendée.
 
-## [Google lance le modèle d'IA « Gemini 4 Carbon », axé sur la <b>cybersécurité</b> - Boursorama](https://www.boursorama.com/bourse/actualites-amp/google-lance-le-modele-d-ia-gemini-4-carbon-axe-sur-la-cybersecurite-37d8e339d295275dad808dc2530501b1)  
-*Source : boursorama.com | Publication : 2026-10-28*
+## [Google lance Gemini 4 Carbon, son IA la plus puissante, et vous ne pourrez pas l'essayer](https://korben.info/google-lance-gemini-4-carbon-son-ia-la-plus-puissante-et-vous-ne-pourrez-pas-lessayer.html)  
+*Source : korben.info | Publication : 2026-10-29*
 
-- Google lance le modèle d'IA « Gemini 4 Carbon », axé sur la cybersécurité information fournie par Reuters 28/10/2026 à 19:06 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) GOOGL.O , filiale d'Alphabet, a dévoilé mercredi « Gemini 4 Carbon », son tout dernier modèle d'IA de pointe, intensifiant ainsi la concurrence avec OpenAI et Anthropic alors que la course à la mise au point de systèmes de codage et de cybersécurité toujours plus performants s'accélère.
-- Ce lancement intervient deux semaines après la présentation par Google de Gemini 4 Argon , alors que l'entreprise élargit sa gamme de modèles d'IA Gemini destinés aux développeurs et aux entreprises.
-- Voici quelques détails: * L’entreprise a déclaré que lemodèle Carbon offre des performances de pointe pour toutes les tâches liées à la cybersécurité, notamment la détection des vulnérabilités, leur exploitation et l’application de correctifs logiciels * Google a indiqué que Carbon génère du code sécurisé avec un taux de réussite plus de deux fois supérieur à celui de Gemini 4 Argon lors de tests de performance internes * Le modèle est conçu pour gérer des tâches d’ingénierie et de codage complexes et de longue durée * Carbon est d’abord mis à la disposition d’un sous-ensemble de professionnels de la cybersécurité via le programme Fairwind de Google, tandis que l’entreprise poursuit ses tests de mesures de sécurité * Gemini 4 Carbon sera proposé au prix de 2 dollars par million de jetons d’entrée et de 10 dollars par million de jetons de sortie, ce qui correspond aux tarifs de lancement de Gemini 4 Argon.
+- Google lance Gemini 4 Carbon, son IA la plus puissante, et vous ne pourrez pas l'essayer Ce qu’il faut retenir Résumé généré par IA Gemini 4 Carbon prend la tête de l'Intelligence Index d'Artificial Analysis avec un score de 59, devant OpenAI et Anthropic - Carbon excelle en cybersécurité, détectant 88 % des failles sur SEC-bench Pro et en corrigeant 71 % sur CWE-bench, mais l'accès reste verrouillé via le programme Fairwind en attendant l'évaluation du gouvernement américain - Aucune date n'est annoncée pour les développeurs ou le grand public, tandis que les tarifs de lancement à 2 et 10 dollars par million de tokens doubleront ensuite à 4 et 20 dollars - Quinze jours après Gemini 4 Argon, Google remet ça avec Gemini 4 Carbon, présenté le 28 octobre, quelques jours à peine après Genie 4, son générateur de mondes virtuels.
+- Deux modèles dits de frontière en un mois, autrement dit ce qui se fait de plus avancé dans les labos d'IA, le rythme devient compliqué à suivre, même pour ceux qui ne font que ça.
+- Sur le papier, Carbon est le modèle le plus puissant du moment.
+- Il prend la première place de l'Intelligence Index d'Artificial Analysis, un classement indépendant qui agrège les grands tests du secteur, avec un score de 59, devant tout ce qui existe chez OpenAI et Anthropic.
 
-## [Post-quantique : vos échanges de 2026 lisibles en 2035 - Solutions-Numeriques](https://www.solutions-numeriques.com/post-quantique-vos-echanges-de-2026-lisibles-en-2035/)  
-*Source : solutions-numeriques.com | Publication : 2026-10-28*
+## [Oh, Behave ! 2026 : Nous savons ce que nous devrions faire — Pourquoi ne le faisons-nous pas](https://www.staysafeonline.org/fr/articles/comporte-toi-bien-2026-nous-savons-ce-que-nous-devrions-faire-pourquoi-ne-le-faisons-nous-pas)  
+*Source : staysafeonline.org | Publication : 2026-10-29*
 
-- Intercepter des échanges chiffrés, les stocker, et attendre qu’un ordinateur quantique sache les ouvrir : la menace n’a rien de théorique.
-- Avec l’échéance fixée par l’ANSSI pour 2027, visioconférence et messagerie basculent dans l’ère post-quantique.
-- Renaud Ghia, CEO de Tixeo, et Stéphane Bouché, président-fondateur de Secuserve, détaillent ce qui change et ce qui coince encore.
-- L’image est signée Stéphane Bouché, mais elle parle a tous : “Je prends le coffre.
+- Sécurité et confidentialité en ligne | Min de Lecture Oh, Behave !.
+- 2026 : Nous savons ce que nous devrions faire — Pourquoi ne le faisons-nous pas ?.
+- Plusieurs décennies après le début de l'ère d'Internet, la plupart des gens comprennent que la cybersécurité est importante... le problème est de traduire cette connaissance en comportements quotidiens.
+- Nous avons découvert cette tension centrale dans le rapport Oh, Behave!.
 
-## [Le cyberadversaire à l'ère de l'IA de pointe - CrowdStrike.com](https://www.crowdstrike.com/content/crowdstrike-www/locale-sites/fr/fr-fr/resources/white-papers/frontier-ai-adversary.html)  
-*Source : crowdstrike.com | Publication : 2026-10-28*
+## [<b>Cybersécurité</b> et jeux en ligne : les pièges qui vident vraiment les comptes - Consollection.com](https://www.consollection.com/jeux-video/actualite/cybersecurite-et-jeux-en-ligne-les-pieges-qui-vident-vraiment-les-comptes-10156.html)  
+*Source : consollection.com | Publication : 2026-10-29*
 
-- L'avantage temporel a disparu.
-- Voici ce que les responsables de la sécurité doivent faire désormais.
-- La cybersécurité est entrée dans une nouvelle ère.
-- Alors que l'IA de pointe accélère la découverte de vulnérabilités, le développement d'exploits et les opérations des cyberadversaires, les équipes de sécurité perdent l'avantage temporel sur lequel elles s'appuyaient depuis des décennies.
+- Cybersécurité et jeux en ligne : les pièges qui vident vraiment les comptes Ce qu'il faut retenir : Le marché noir du jeu vidéo fait des comptes en ligne (skins, inventaires, bibliothèques Steam) une cible de choix pour les pirates.
+- Plutôt que de pirater les serveurs, ces derniers misent sur l'ingénierie sociale (liens Discord piégés, faux e-mails), la diffusion de faux logiciels de triche ou l'injection de malwares dans des jeux gratuits peu connus.
+- Pour y faire face, l'utilisation d'un gestionnaire de mots de passe, l'activation systématique de la double authentification et la méfiance face au téléchargement de mods ou de petits jeux non vérifiés restent indispensables.
+- Sommaire "Salut, pourrais-tu voter pour la fille d'une amie ?.
