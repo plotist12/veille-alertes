@@ -1,151 +1,139 @@
-# Résumés – 2026-10-30
+# Résumés – 2026-10-31
 
 
-## [Hameçonnage de cabinets d'avocats | McCarthy Tétrault et Davies victimes de vols de données](https://www.lapresse.ca/affaires/entreprises/2026-10-29/hameconnage-de-cabinets-d-avocats/mccarthy-tetrault-et-davies-victimes-de-vols-de-donnees.php)  
-*Source : lapresse.ca | Publication : 2026-10-30*
+## [« C'est le plus grand vol de l'histoire, et pas seulement dans la crypto » : Binance victime d ...](https://www.lesechos.fr/finance-marches/marches-financiers/cryptomonnaies-binance-fait-face-a-une-cyberattaque-record-2260035)  
+*Source : lesechos.fr | Publication : 2026-10-30*
 
-- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
-- This requires JavaScript.
-- Enable JavaScript and then reload the page.
+- cybersécurité . «.
+- Ce montant pourrait continuer à augmenter à mesure que nos équipes collaborent étroitement avec les autorités, les émetteurs, les.
 
-## [Cinq questions sur la faille critique PHP qui continue de secouer l'Internet mondial | TF1 Info](https://www.tf1info.fr/high-tech/cinq-questions-sur-la-faille-critique-php-qui-continue-de-secouer-l-internet-mondial-2472703.html)  
-*Source : tf1info.fr | Publication : 2026-10-29*
+## [Orange Cyberdefense va intégrer Mistral Large 4 - L'INFORMATICIEN &amp; L'INFO CYBER ...](https://www.linformaticien.com/magazine/tendances/941-ia/65433-orange-cyberdefense-va-integre-mistral-large-4.html)  
+*Source : linformaticien.com | Publication : 2026-10-30*
 
-- Des chercheurs en sécurité informatique utilisant des outils d'intelligence artificielle ont découvert des failles dans un langage de programmation très répandu appelé PHP.
-- - Leur découverte a conduit à la mise hors ligne de sites gouvernementaux la semaine dernière, le temps de corriger ces vulnérabilités critiques, mais d'autres pourraient demeurer vulnérables, alerte le gendarme français de la cybersécurité.
-- - L'annonce de la découverte de failles de cybersécurité critiques dans un langage de programmation très répandu appelé PHP a conduit à la mise hors ligne volontaire, à titre de précaution, de milliers de sites internet (nouvelle fenêtre) la semaine dernière.
-- La plupart de ces sites ont depuis été remis en ligne, des correctifs permettant de réparer ces "vulnérabilités critiques" ayant été publiés par la fondation qui coordonne le développement et les évolutions de PHP.
+- Orange Cyberdefense s'appuiera sur des capacités de calcul situées en Europe pour exploiter des modèles dédiés aux opérations de cybersécurité.
 
-## [Orange Cyberdefense annonce un partenariat avec Mistral AI dans le domaine de la <b>cybersécurité</b>](https://www.zonebourse.com/actualite-bourse/orange-cyberdefense-annonce-un-partenariat-avec-mistral-ai-dans-le-domaine-de-la-cybersecurite-ce785fdad880f325)  
-*Source : zonebourse.com | Publication : 2026-10-29*
+## [<b>CYBERSÉCURITÉ</b> : Augmenter la résilience numérique des entreprises | Le Mauricien](https://www.lemauricien.com/actualites/societe/cybersecurite-augmenter-la-resilience-numerique-des-entreprises/722121/)  
+*Source : lemauricien.com | Publication : 2026-10-30*
 
-- Ce partenariat lui donne un accès anticipé à une variante de Mistral Large 4, optimisée pour les processus avancés de cybersécurité.
-- "A mesure que.
+- À l’heure où les technologies évoluent à un rythme fulgurant, les entreprises font face à des menaces numériques de plus en plus sophistiquées, exacerbées par l’intelligence artificielle qui rend les tentatives de fraude redoutablement crédibles.
+- Un simple incident de cybersécurité ne menace plus seulement les systèmes informatiques, mais fragilise l’ensemble des activités, les relations commerciales, la réputation de l’organisation ainsi que la sécurité de ses collaborateurs et de ses clients.
+- Pour les dirigeants et les conseils d’administration, le défi n’est plus seulement de rédiger des procédures, mais de s’assurer que l’organisation saurait détecter une attaque et réagir à temps, érigeant ainsi la cybersécurité en un pilier fondamental de la continuité des affaires.
+- C’est pour répondre à ces impératifs de gouvernance que le Mauritius Institute of Directors, en collaboration avec son partenaire Eagle Insurance, a récemment organisé une conférence sur le thème « Protecting People, Businesses & Our Digital Future ».
 
-## [Désormais ouvert, Mistral Large 4 peut-il rivaliser avec les modèles chinois les plus performants ?](https://www.usine-digitale.fr/intelligence-artificielle/mistral-ai/desormais-ouvert-mistral-large-4-peut-il-rivaliser-avec-les-modeles-chinois-les-plus-performants.O4WJWPZ37RESVHNYJHMHCCLA4M.html)  
-*Source : usine-digitale.fr | Publication : 2026-10-29*
+## [Un “faux télétravailleur” nord-coréen découvert ? Une première en Corée du Sud](https://www.courrierinternational.com/article/infiltration-un-faux-teletravailleur-nord-coreen-decouvert-une-premiere-en-coree-du-sud_283485)  
+*Source : courrierinternational.com | Publication : 2026-10-30*
 
-- Il revendique des performances de premier plan en programmation agentique et en cybersécurité , tout en mettant en avant une consommation réduite de.
+- Se faire embaucher sous une fausse identité par des entreprises étrangères pour leur soutirer de l’argent ou des informations sensibles est une pratique des informaticiens nord-coréens désormais connue.
+- Elle a augmenté depuis 2020, avec l’essor des recrutements à distance et du télétravail après la pandémie de Covid-19.
+- Pour autant, c’est la première fois qu’un cas présumé a été identifié en Corée du Sud.
+- La police de Séoul enquête depuis février 2025 : l’individu présumé effectuerait des travaux de développement informatique en ligne, à distance depuis l’étranger, sans jamais être entré sur le territoire sud-coréen.
 
-## [<b>Ransomware</b> n0n utilise l'IA pour les opérations d'extorsion - SOC Prime](https://socprime.com/fr/active-threats/analyse-du-ransomware-n0n-au-coeur-dune-operation-d-extorsion-assistee-par-ia/)  
-*Source : socprime.com | Publication : 2026-10-29*
+## [<b>Cybersécurité</b> : les JNC 2026 s'achèvent sur des recommandations clés - Malijet](https://malijet.com/a_la_une_du_mali/312602-cybersecurite-les-jnc-2026-sachevent-sur-des-recommandati.html)  
+*Source : malijet.com | Publication : 2026-10-30*
 
-- Analyse du ransomware n0n : Au cœur d’une opération d’extorsion assistée par IA Detection stack.
-- - Alert -.
-- - Query - Résumé Le groupe de ransomware n0n mène des campagnes d’extorsion à grande échelle en utilisant des outils assistés par l’IA pour automatiser la création de scripts et les flux de travail d’attaques.
-- Le groupe se concentre principalement sur l’exfiltration de données et, dans certains incidents, sur l’effacement destructeur de données plutôt que sur le chiffrement traditionnel des fichiers.
+- Cybersécurité : les JNC 2026 s’achèvent sur des recommandations clés Les Journées nationales de la cybersécurité (JNC 2026) ont pris fin ce vendredi 30 octobre, après plusieurs jours d’échanges sur la cybersécurité, l’intelligence artificielle et la protection du cyberespace.
+- Les Journées nationales de la cybersécurité 2026 se sont achevées sur la présentation des recommandations issues des conférences et des panels.
+- Les participants ont insisté sur la sensibilisation du public, la formation des acteurs, le renforcement de la sécurité des systèmes informatiques et la lutte contre les menaces numériques.
+- Ils ont appelé à une action concertée face aux défis du numérique et de l'intelligence artificielle.
 
-## [Le <b>ransomware</b> Gentlemen : tactiques et outils RaaS - SOC Prime](https://socprime.com/fr/active-threats/le-ransomware-gentlemen-a-l-interieur-d-une-operation-de-ransomware-en-tant-que-service/)  
-*Source : socprime.com | Publication : 2026-10-29*
+## [Protection des renseignements confidentiels, vie privée et <b>cybersécurité</b> en 2026 - Fasken](https://www.fasken.com/fr/events/2026/11/privacy-and-cybersecurity-in-2026)  
+*Source : fasken.com | Publication : 2026-10-30*
 
-- Le ransomware Gentlemen : à l’intérieur d’une opération de ransomware en tant que service Detection stack.
-- - Alert -.
-- - Query - Résumé Les Gentlemen est un groupe Ransomware-as-a-Service (RaaS) russophone qui a émergé à la mi-2025 après avoir précédemment opéré en tant qu’affilié de LockBit et Qilin.
-- Le groupe suit un modèle de double extorsion, cryptant les données des victimes tout en menaçant de publier les informations volées sur un site de fuite dédié.
+- Des avocates et avocats de notre équipe nationale s'exprimeront sur la cybersécurité , le droit de la protection des renseignements personnels et la.
 
-## [Le risque cyber est-il une fatalité ? - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1557227-le-risque-cyber-est-il-une-fatalite/)  
-*Source : journaldunet.com | Publication : 2026-10-29*
+## [IA et <b>cybersécurité</b>: les entreprises à l'heure des arbitrages - LesEco.ma](https://leseco.ma/business/ia-et-cybersecurite-les-entreprises-a-lheure-des-arbitrages.html)  
+*Source : leseco.ma | Publication : 2026-10-30*
 
-- Le risque cyber est-il une fatalité ?.
-- Face aux cyberattaques dopées à l'IA, les entreprises doivent placer la cybersécurité au cœur de leur stratégie, renforcer leur résilience et faire de chaque collaborateur un acteur de leur sécurité.
-- Chaque semaine, de nouvelles avancées spectaculaires en matière d’intelligence artificielle promettent des gains d’efficacité inédits et un potentiel de transformation des métiers.
-- Pourtant, face à ce potentiel, la confiance des dirigeants vacille.
+- IA et cybersécurité: les entreprises à l’heure des arbitrages L’intelligence artificielle s’invite dans les processus métiers, tandis que la cybersécurité devient un enjeu stratégique pour les directions générales.
+- Pour les entreprises marocaines, la transformation numérique entre dans une phase plus exigeante, où chaque investissement doit désormais se justifier par des gains mesurables, sans compromettre la sécurité des données.
+- Les récentes Assises de l’AUSIM, à Tanger, ont mis en lumière cette nouvelle équation : comment accélérer l’innovation tout en maîtrisant les coûts, les risques et les dépendances technologiques ?.
+- L’intelligence artificielle promet des gains de productivité, une meilleure exploitation des données et une transformation de nombreux métiers.
 
-## [Orange Cyberdefense devient le premier partenaire européen de Mistral AI pour la ...](https://www.orange.com/fr/communiques/orange-cyberdefense-devient-le-premier-partenaire-europeen-de-mistral-ai-pour-la-conception-de-services-de-securite-manages-516565)  
-*Source : orange.com | Publication : 2026-10-29*
+## [Mistral ouvre les poids de Mistral Large 4 et se rapproche d'Orange Cyberdefense](https://www.lemagit.fr/actualites/366653113/Mistral-ouvre-les-poids-de-Mistral-Large-4-et-se-rapproche-dOrange-Cyberdefense)  
+*Source : lemagit.fr | Publication : 2026-10-30*
 
-- Cookies disabled This website is using a security service to protect itself from online attacks.
-- The service requires full cookie support in order to view the website.
-- Please enable Cookies on your browser and try again.
-- Reference ID: 78dfe8334d0e709d75c7174ebe223daa.
+- g215 - stock.adobe.com Mistral ouvre les poids de Mistral Large 4 et se rapproche d'Orange Cyberdefense Si l’ouverture des poids de Mistral Large 4 n’apprend pas grand-chose sur ses qualités et ses défauts, les tests revus et corrigés d’Artificial Analysis prouvent les dires du laboratoire français en matière d’IA appliquée à la cybersécurité.
+- Si bien qu’Orange Cyberdefense entend tester le modèle en profondeur.
+- Au début du mois d’octobre, Mistral AI avait présenté la préversion publique de son modèle Mistral Large 4.
+- Le fournisseur avait promis de poursuivre son apprentissage par renforcement et de libérer les poids sur Hugging Face.
 
-## [Piratage du fisc : un deuxième suspect, âgé de 16 ans, mis en examen - Libération](https://www.liberation.fr/economie/piratage-du-fisc-un-deuxieme-suspect-age-de-16-ans-mis-en-examen-20261029_EAAAGMFYJVH2XAQOXE6PROQU7M/)  
-*Source : liberation.fr | Publication : 2026-10-29*
+## [Cyberattaques : comment les banques protègent-elles votre argent ? - RTBF Actus](https://www.rtbf.be/article/cyberattaques-comment-les-banques-protegent-elles-votre-argent-11808048)  
+*Source : rtbf.be | Publication : 2026-10-30*
 
-- Il est soupçonné d'être membre du groupe de pirates informatiques ZeroBytes.
-- Cybersécurité.
+- La plateforme Binance a confirmé une cyberattaque massive estimée à 6,3 milliards de dollars.
+- La moitié de ces fonds visés ont été gelés par des partenaires de la plateforme pour limiter le vol.
+- Des experts suspectent que des acteurs nord-coréens soient derrière le coup.
+- L’argent des banques en ligne est-il en danger ?.
 
-## [Sécurité cloud : la machine est prête, l'entreprise l'est-elle ? - Solutions-Numeriques](https://www.solutions-numeriques.com/securite-cloud-la-machine-est-prete-lentreprise-lest-elle/)  
-*Source : solutions-numeriques.com | Publication : 2026-10-29*
+## [Cryptomonnaie : la plus grande plateforme piratée, un préjudice estimé à 6,3 milliards de dollars](https://www.france24.com/fr/vidéo/20261030-cryptomonnaie-la-plus-grande-plateforme-piratée-un-préjudice-estimé-à-6-3-milliards-de-dollars)  
+*Source : france24.com | Publication : 2026-10-30*
 
-- Avec l’IA, l’attaque se démocratise et la défense doit désormais réagir en quelques minutes.
-- Stephan Hadinger, directeur technique d’AWS France, plaide pour une sécurité pensée pour réagir.
-- Pierre Codis, directeur général de la filiale française de Keyfactor, rappelle qu’avant de réagir vite, encore faut-il savoir qui agit dans son système.
-- Moins de treize minutes.
+- Une extension de votre navigateur semble bloquer le chargement du lecteur vidéo.
+- Pour pouvoir regarder ce contenu, vous devez la désactiver ou la désinstaller.
+- Vidéo Une extension de votre navigateur semble bloquer le chargement du lecteur vidéo.
+- Pour pouvoir regarder ce contenu, vous devez la désactiver ou la désinstaller.
 
-## [NAS Synology - Attaque avec <b>ransomware</b> - Cachem](https://www.cachem.fr/alerte-synology-ransomware/)  
-*Source : cachem.fr | Publication : 2026-10-29*
+## [ONU Info on X: &quot;<b>Cybercriminalité</b> : avec l'IA, tout le monde peut devenir escroc @UNODC ...](https://x.com/ONUinfo/status/2116229590477644169)  
+*Source : x.com | Publication : 2026-10-30*
 
-- Cela faisait longtemps que les NAS n’avaient pas subi une attaque d’une telle ampleur… Synology a envoyé un e-mail à tous ses utilisateurs enregistrés.
-- Les pirates ciblent des boîtiers qui n’ont pas reçu les dernières mises à jour, avec à la clé un ransomware (C3RB3R) qui vient chiffrer les fichiers et réclamer ensuite une rançon.
-- Si vous possédez un NAS Synology, prenez 10 minutes pour mettre à jour DSM.
-- Faille connue et corrigée Les attaquants s’appuient sur une vulnérabilité déjà corrigée en novembre 2024 (Synology-SA-24:20).
+- ONU Info@ONUinfoShow translationCybercriminalité : avec l’IA, tout le monde peut devenir escroc @UNODCCybercriminalité : avec l’IA, tout le monde peut devenir escrocFrom news.un.org6:03 PM · Oct 30, 2026·844Views12.
 
-## [Rockwell Automation présente les fonctionnalités de la plateforme SecureOT pour aider les ...](https://fr.tradingview.com/news/prnewswire:ebdfe763680e4:0/)  
-*Source : fr.tradingview.com | Publication : 2026-10-29*
+## [Deuxième exercice de <b>cybersécurité</b> en Suisse romande: immersion dans une enquête ... - Allnews](https://www.allnews.ch/content/points-de-vue/deuxième-exercice-de-cybersécurité-en-suisse-romande-immersion-dans-une)  
+*Source : allnews.ch | Publication : 2026-10-30*
 
-- Rockwell Automation présente les fonctionnalités de la plateforme SecureOT pour aider les OEM à satisfaire aux nouvelles réglementations en matière de cybersécurité Les fonctionnalités de SecureOT aident les constructeurs de machines à identifier les vulnérabilités, à documenter la posture de cybersécurité et à préparer la conformité tout au long du cycle de vie des machines.
-- VOISINS-LE-BRETONNEUX, 29 octobre 2026 /PRNewswire/ -- Rockwell Automation, Inc. (NYSE : ROK), un leader mondial de l'automatisation industrielle et de la transformation numérique, enrichit sa solution SecureOTTM de nouvelles fonctionnalités pour aider les équipementiers (OEM) à simplifier leurs démarches de conformité, à renforcer la sécurité dès la conception et à mieux gérer les risques de cybersécurité tout au long du cycle de vie des machines.
-- Les réglementations en matière de cybersécurité, telles que le Règlement européen sur la cyberrésilience (CRA) et le Règlement sur les machines (MR), préparent aux échéances de conformité majeures de 2026 et 2027.
-- Alors que ces réglementations redéfinissent les exigences pour les constructeurs de machines, ces derniers sont soumis à une pression croissante pour démontrer leur capacité à faire face aux risques de cybersécurité, tenir une documentation détaillée et assurer un support continu pour les équipements déployés.
+- De gauche à droite: Nemanja Mitic, Lead Cyber Industry Engagement chez UBS et responsable du Chapter «Exercises & Training» du Swiss FS-CSC; Simon.
 
-## [Pourquoi le SPF Finances a-t-il été visé par une cyberattaque ? Un expert avance plusieurs pistes](https://www.rtl.be/actu/belgique/societe/pourquoi-le-spf-finances-t-il-ete-vise-par-une-cyberattaque-un-expert-avance/2026-10-29/article/804930)  
-*Source : rtl.be | Publication : 2026-10-29*
+## [Défense, <b>cybersécurité</b>, énergie… Comment jouer la souveraineté en Bourse ? - Le Figaro](https://www.lefigaro.fr/conjoncture/defense-cybersecurite-energie-comment-jouer-la-souverainete-en-bourse-20261030)  
+*Source : lefigaro.fr | Publication : 2026-10-30*
 
-- Partager: Plusieurs services du SPF Finances restaient hors ligne jeudi en raison d’une cyberattaque perpétrée dans la nuit de mardi à mercredi.
-- L’administration œuvre à un redémarrage mais cela nécessite du temps pour éviter tout risque.
-- Aucune donnée n’a fuité, confirme le service public fédéral.
-- L’intrusion a été repérée en quelques heures, a indiqué un porte-parole du SPF Finances, Francis Adyns.
+- Défense, cybersécurité, énergie… Comment jouer la souveraineté en Bourse ?.
+- DÉCRYPTAGE - La question de l’autonomie stratégique européenne est devenue un thème d’investissement majeur et une source d’opportunités.
+- Passer la publicitéLa publication du rapport Draghi fin 2024 sur la compétitivité de l’Europe a provoqué une prise de conscience. «.
+- Il est désormais largement admis que l’Europe doit renforcer sa compétitivité, ses capacités industrielles et son autonomie dans les domaines jugés stratégiques pour sa souveraineté », estiment les spécialistes d’Edmond de Rothschild Asset Management (Edram).
 
-## [Bercy de la Cyber : l'État mise sur la pédagogie, NIS 2 et DORA font grincer des dents](https://www.alliancy.fr/bercy-de-la-cyber-letat-mise-sur-la-pedagogie-nis-2-et-dora-font-grincer-des-dents-cc2379be-18e5-4f4e-9d27-11af875cad19)  
-*Source : alliancy.fr | Publication : 2026-10-29*
+## [Réseaux sociaux : quatre conseils pour repérer les faux comptes • FRANCE 24 - YouTube](https://www.youtube.com/shorts/FAwJZqgjHoA)  
+*Source : youtube.com | Publication : 2026-10-30*
 
-- bercyber Bercy de la Cyber : l’État mise sur la pédagogie, NIS 2 et DORA font grincer des dents Pour sa première édition, le Bercy de la Cyber a misé sur la pédagogie auprès des TPE et PME, mais NIS 2 et DORA ont concentré les crispations.
-- “La pédagogie passe par la répétition.”.
-- La formule, lâchée au détour d’un couloir du ministère des Finances ce 29 octobre 2026, a résumé à elle seule l’esprit de cette première édition du Bercy de la Cyber.
-- Événement très généraliste, ce grand rassemblement ministériel aurait pu essuyer des critiques pour son manque de complexité technique.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Orange Cyberdefense s'allie à Mistral AI pour renforcer ses services de <b>cybersécurité</b>](https://www.channelnews.fr/orange-cyberdefense-sallie-a-mistral-ai-pour-renforcer-ses-services-de-cybersecurite-159915)  
-*Source : channelnews.fr | Publication : 2026-10-29*
+## [<b>Cybercriminalité</b> : avec l'IA, tout le monde peut devenir escroc | ONU Info - UN News](https://news.un.org/fr/story/2026/10/1159760)  
+*Source : news.un.org | Publication : 2026-10-30*
 
-- Orange Cyberdefense annonce un partenariat avec Mistral AI pour intégrer une version spécialisée de son nouveau modèle Mistral Large 4 à ses services de cybersécurité.
-- Premier fournisseur européen de services de sécurité managés (MSSP) à rejoindre le programme Design Partner de Mistral, il entend notamment accélérer la détection des vulnérabilités et la réponse aux incidents.
-- L’accord donne à Orange Cyberdefense un accès anticipé à une variante de Mistral Large 4 optimisée pour les usages de cybersécurité.
-- Surnommé « le Chonk », ce modèle multimodal de 1 000 milliards de paramètres, dont 52 milliards actifs, a été présenté début octobre par Mistral AI.
+- Cybercriminalité : avec l’IA, tout le monde peut devenir escroc Faux messages, voix clonées, vidéos truquées.
+- L’intelligence artificielle permet aux cybercriminels de multiplier les attaques tout en réduisant leurs coûts et leurs besoins en compétences techniques.
+- L’ONU alerte sur cette démocratisation de la fraude et appelle les États à renforcer leur coopération face à une criminalité qui se joue des frontières.
+- Plus besoin d’être un pirate informatique chevronné pour monter une escroquerie sophistiquée.
 
-## [Protection des renseignements personnels et <b>cybersécurité</b> au Canada, aux États-Unis et ... - Fasken](https://www.fasken.com/fr/knowledge/2026/10/faskens-noteworthy-news-privacy-cybersecurity-in-canada-the-us-and-the-eu-october-2026)  
-*Source : fasken.com | Publication : 2026-10-29*
+## [Cyberattaque contre Binance: comment des pirates ont dérobé pour 6,3 milliards de dollars ...](https://www.bfmtv.com/tech/cybersecurite/cyberattaque-contre-binance-comment-des-pirates-ont-derobe-pour-6-3-milliards-de-dollars-d-actifs-numeriques-a-la-premiere-plateforme-mondiale-de-cryptomonnaies_AV-202610300693.html)  
+*Source : bfmtv.com | Publication : 2026-10-30*
 
-- Ce bulletin mensuel a été préparé par le groupe Protection des renseignements confidentiels, vie privée et cybersécurité de Fasken pour vous présenter.
+- Cyberattaque contre Binance: comment des pirates ont dérobé pour 6,3 milliards de dollars d'actifs numériques à la première plateforme mondiale de cryptomonnaies La nuit n'a pas été de tout repos pour Binance.
+- Elle a même été très agitée pour le géant des cryptomonnaies (et même première place mondiale en matière de volume d'échange au comptant), victime d'une cyberattaque dans la soirée du 29 octobre.
+- Au total, 6,3 milliards de dollars en actifs numériques se seraient envolés.
+- La plateforme mène depuis l'enquête pour faire la lumière sur cet incident, multipliant les annonces sur les réseaux sociaux ces dernières heures.
 
-## [Le spécialiste vendéen des solutions industrielles connectées Soenno vise 70 M€ de chiffre ...](https://agence-api.ouest-france.fr/numerique/le-specialiste-vendeen-des-solutions-industrielles-connectees-soenno-vise-70-m-euros-de-chiffre-daffaires-en-2030-4aeed496-d3b2-11f1-af78-2d36ec019942)  
-*Source : agence-api.ouest-france.fr | Publication : 2026-10-29*
+## [L'UE et le Canada signent des accords de coopération sur les minerais critiques et l'IA](https://www.lesaffaires.com/secteurs/manufacturier/le-canada-et-lue-officialisent-le-projet-de-nouvelle-alliance/)  
+*Source : lesaffaires.com | Publication : 2026-10-30*
 
-- Le spécialiste vendéen des solutions industrielles connectées Soenno vise 70 M€ de chiffre d’affaires en 2030 Groupe familial spécialisé dans les solutions connectées à destination de l’industrie, Soenno a réalisé 35 M€ de chiffre d’affaires en 2025, en hausse de plus de 50 % depuis 2022.
-- Basé à Montaigu, en Vendée, il entend doubler son activité d’ici à 2030, en misant sur la cybersécurité industrielle, les acquisitions et un développement européen.
-- Le groupe Soenno poursuit sa trajectoire de croissance.
-- À l’occasion des 25 ans de sa société historique, Sphinx, le groupe a inauguré un deuxième bâtiment sur son site de Boufféré, à Montaigu-Vendée.
+- LâUE et le Canada signent des accords de coopÃ©ration sur les minerais critiques et lâIA AFP|PubliÃ© Ã 12h57 | Mis Ã jour Ã 15h14Le premier ministre Mark Carney, au centre, le prÃ©sident du Conseil de l'Europe, Antonio Costa, Ã gauche, et la prÃ©sidente de la Commission europÃ©enne, Ursula von der Leyen, le jeudi 29 octobre 2026 (Photo: Christopher Katsarov / La Presse Canadienne) LâUnion europÃ©enne et le Canada, dont les relations avec les Ãtats-Unis de Donald Trump sont houleuses, ont scellÃ© vendredi lâalliance la plus Ã©troite possible entre un pays non europÃ©en et les 27, passant par une coopÃ©ration accrue dans plusieurs domaines stratÃ©giques comme les minerais critiques ou lâintelligence artificielle.
+- Symbole fort, le Canada a par ailleurs dÃ©cidÃ© de participer au prÃªt de 90Â milliards dâeuros accordÃ© par lâUE Ã lâUkraine en apportant 500Â millions dâeuros.
+- Dans un monde Â«plus dangereux et divisÃ©Â», oÃ¹ le commerce est utilisÃ© comme Â«une armeÂ», le Canada et lâUE forgent une alliance fondÃ©e sur le Â«respect mutuelÂ», destinÃ©e Ã dÃ©fendre ensemble leur Â«souverainetÃ©Â» dans un monde dominÃ© par les Ãtats-Unis et la Chine, a dit le premier ministre canadien Mark Carney devant la presse.
+- LâUE et le Canada â dÃ©jÃ liÃ©s depuis dix ans par un traitÃ© de libre-Ã©change, le CETA â ont accÃ©lÃ©rÃ© leur rapprochement depuis le retour au pouvoir dÃ©but 2025 du prÃ©sident amÃ©ricain Donald Trump, avec qui leurs relations sont houleuses.
 
-## [Google lance Gemini 4 Carbon, son IA la plus puissante, et vous ne pourrez pas l'essayer](https://korben.info/google-lance-gemini-4-carbon-son-ia-la-plus-puissante-et-vous-ne-pourrez-pas-lessayer.html)  
-*Source : korben.info | Publication : 2026-10-29*
+## [14 millions de plaques d'immatriculation dérobées lors d'une cyberattaque: que risquent les ...](https://www.bfmtv.com/tech/cybersecurite/14-millions-de-plaques-d-immatriculation-derobees-lors-d-une-cyberattaque-que-risquent-les-automobilistes-concernes_AV-202610300758.html)  
+*Source : bfmtv.com | Publication : 2026-10-30*
 
-- Google lance Gemini 4 Carbon, son IA la plus puissante, et vous ne pourrez pas l'essayer Ce qu’il faut retenir Résumé généré par IA Gemini 4 Carbon prend la tête de l'Intelligence Index d'Artificial Analysis avec un score de 59, devant OpenAI et Anthropic - Carbon excelle en cybersécurité, détectant 88 % des failles sur SEC-bench Pro et en corrigeant 71 % sur CWE-bench, mais l'accès reste verrouillé via le programme Fairwind en attendant l'évaluation du gouvernement américain - Aucune date n'est annoncée pour les développeurs ou le grand public, tandis que les tarifs de lancement à 2 et 10 dollars par million de tokens doubleront ensuite à 4 et 20 dollars - Quinze jours après Gemini 4 Argon, Google remet ça avec Gemini 4 Carbon, présenté le 28 octobre, quelques jours à peine après Genie 4, son générateur de mondes virtuels.
-- Deux modèles dits de frontière en un mois, autrement dit ce qui se fait de plus avancé dans les labos d'IA, le rythme devient compliqué à suivre, même pour ceux qui ne font que ça.
-- Sur le papier, Carbon est le modèle le plus puissant du moment.
-- Il prend la première place de l'Intelligence Index d'Artificial Analysis, un classement indépendant qui agrège les grands tests du secteur, avec un score de 59, devant tout ce qui existe chez OpenAI et Anthropic.
+- 14 millions de plaques d'immatriculation dérobées lors d'une cyberattaque: que risquent les automobilistes concernés?.
+- L'alerte a été lancée le 29 octobre par le site spécialisé French Breaches.
+- Ce jour-là, un pirate a mis en vente sur le dark web ce qu'il affirme être un énorme dossier contenant près de 14 millions de plaques d'immatriculation, ainsi que les données de 18 millions de personnes.
+- En cause, une brèche chez deux prestataires, Auto-Planning et Auto-Controle-Paris, qui donnent accès à des outils pour réserver des contrôles techniques à des partenaires-clients.
 
-## [Oh, Behave ! 2026 : Nous savons ce que nous devrions faire — Pourquoi ne le faisons-nous pas](https://www.staysafeonline.org/fr/articles/comporte-toi-bien-2026-nous-savons-ce-que-nous-devrions-faire-pourquoi-ne-le-faisons-nous-pas)  
-*Source : staysafeonline.org | Publication : 2026-10-29*
+## [Binance : 6 milliards de dollars en crypto envolés en 20 minutes et une course contre la ...](https://www.lesechos.fr/finance-marches/marches-financiers/binance-6-milliards-de-dollars-en-crypto-envoles-en-20-minutes-et-une-course-contre-la-montre-le-recit-du-casse-du-siecle-2260264)  
+*Source : lesechos.fr | Publication : 2026-10-30*
 
-- Sécurité et confidentialité en ligne | Min de Lecture Oh, Behave !.
-- 2026 : Nous savons ce que nous devrions faire — Pourquoi ne le faisons-nous pas ?.
-- Plusieurs décennies après le début de l'ère d'Internet, la plupart des gens comprennent que la cybersécurité est importante... le problème est de traduire cette connaissance en comportements quotidiens.
-- Nous avons découvert cette tension centrale dans le rapport Oh, Behave!.
+- « C'est le plus grand vol cyber de l'histoire, et pas seulement dans la crypto », résume Aneirin Flynn, patron de la société de cybersécurité FailSafe.
 
-## [<b>Cybersécurité</b> et jeux en ligne : les pièges qui vident vraiment les comptes - Consollection.com](https://www.consollection.com/jeux-video/actualite/cybersecurite-et-jeux-en-ligne-les-pieges-qui-vident-vraiment-les-comptes-10156.html)  
-*Source : consollection.com | Publication : 2026-10-29*
+## [Le casse du siècle - L'INFORMATICIEN &amp; L'INFO CYBER-RISQUES - L'1FO Tech par L ...](https://www.linformaticien.com/magazine/cybersecurite/972-hacks-menaces/65431-le-casse-du-siecle.html)  
+*Source : linformaticien.com | Publication : 2026-10-30*
 
-- Cybersécurité et jeux en ligne : les pièges qui vident vraiment les comptes Ce qu'il faut retenir : Le marché noir du jeu vidéo fait des comptes en ligne (skins, inventaires, bibliothèques Steam) une cible de choix pour les pirates.
-- Plutôt que de pirater les serveurs, ces derniers misent sur l'ingénierie sociale (liens Discord piégés, faux e-mails), la diffusion de faux logiciels de triche ou l'injection de malwares dans des jeux gratuits peu connus.
-- Pour y faire face, l'utilisation d'un gestionnaire de mots de passe, l'activation systématique de la double authentification et la méfiance face au téléchargement de mods ou de petits jeux non vérifiés restent indispensables.
-- Sommaire "Salut, pourrais-tu voter pour la fille d'une amie ?.
+- Benoit GrunemwaldExpert en Cybersécurité chez ESET France, ajoute : << La cryptographie n'a pas besoin d'être cassée pour qu'un portefeuille soit vidé.
