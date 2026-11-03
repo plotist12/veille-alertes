@@ -1,160 +1,142 @@
-# Résumés – 2026-11-02
+# Résumés – 2026-11-03
 
 
-## [Nice : Appels à projets 2027 pour l'IA et la <b>cybersécurité</b> - Presse Agence](https://presseagence.fr/nice-numerique-leurope-lance-ses-appels-a-projets-2027-pour-lia-et-la-cybersecurite/)  
-*Source : presseagence.fr | Publication : 2026-11-02*
+## [« L'IA a fait sauter tous les verrous de sécurité » : une centaine de personnes présentes à la ...](https://www.charentelibre.fr/economie/l-ia-a-fait-sauter-tous-les-verrous-de-securite-une-centaine-de-personnes-presentes-a-la-conference-cybersecurite-organisee-par-la-prefecture-31353669.php)  
+*Source : charentelibre.fr | Publication : 2026-11-03*
 
-- NICE : Numérique – L’Europe lance ses appels à… Partager : NICE : Numérique – L’Europe lance ses appels à projets 2027 pour l’IA et la cybersécurité Les programmes européens Horizon Europe et Digital Europe ouvrent leurs appels à projets 2027, une opportunité pour les entreprises du numérique.
-- Intelligence artificielle, robotique, cybersécurité ou encore mondes virtuels : les entreprises innovantes de la Région Sud sont invitées à saisir les opportunités de financement offertes par les programmes Horizon Europe et Digital Europe pour 2027.
-- Présentées lors d’un récent webinaire organisé par la Région, ces enveloppes, complétées par un appel national sur la cybersécurité, visent à renforcer la souveraineté numérique du continent et à accélérer l’adoption des technologies de pointe.
-- Horizon Europe : 460 millions d’euros pour la recherche Le programme Horizon Europe, dédié à la recherche et à l’innovation, consacrera 460 millions d’euros à son volet numérique (cluster 4) en 2027.
+- « L’IA a fait sauter tous les verrous de sécurité » : une centaine de personnes présentes à la conférence « Cybersécurité » organisée par la préfecture Près d’une centaine de personnes ont assisté à la conférence sur l’IA organisée par la préfecture, à Soyaux. «.
+- L’IA est là et nous n’avons guère le choix de nous en emparer.
+- Mais il ne faut pas le faire n’importe comment. ».
+- Lundi soir, c’est devant un auditorium plein que le préfet a conclu un après-midi d’échanges autour de l’intelligence artificielle au siège du Crédit Agricole, à Soyaux.
 
-## [Des pirates ont dérobé 6,3 milliards $US en cryptomonnaie - InfoBref](https://infobref.com/piratage-binance-2026-11/)  
-*Source : infobref.com | Publication : 2026-11-01*
+## [Une cyberattaque frappe des réfrigérateurs à travers l'Europe : Actualités - Orange Actu](https://actu.orange.fr/economie/une-cyberattaque-frappe-des-refrigerateurs-a-travers-l-europe-CNT000002tvTNd.html)  
+*Source : actu.orange.fr | Publication : 2026-11-03*
 
-- Des pirates ont dérobé 6,3 milliards $US en cryptomonnaie Publié aujourd'hui Ce vol a été commis jeudi soir aux dépens de Binance, la plus grande plateforme d’échange de cryptomonnaies au monde.
-- Il serait le plus important de l’histoire du secteur.
-- - Le FBI et plusieurs experts en cybersécurité ont déterminé que la Corée du Nord en est responsable.
-- Binance a rapidement suspendu la possibilité pour ses clients de retirer leurs fonds, avant de la rétablir progressivement à partir de dimanche.
+- Une cyberattaque frappe des réfrigérateurs à travers l'Europe Les supermarchés de plusieurs pays européens ont vu la température de leurs réfrigérateurs s'envoler et gâcher la nourriture lundi de la Suède à la Sicile, en raison d'une cyberattaque similaire à celle survenue en France il y a trois semaines.
+- Des supermarchés en Belgique, en Estonie, en Finlande, en Irlande, en Italie, au Luxembourg, aux Pays-Bas, au Portugal et en Suède ont été touchés par cette nouvelle attaque de pirates informatiques.
+- Ils ont été obligés de jeter des quantités d'aliments.
+- Le 12 octobre, de grandes enseignes françaises de distribution avaient indiqué que des centaines de systèmes de réfrigération de leurs magasins avaient été frappés par une cyberattaque, les contraignant à jeter des denrées périmées et suscitant des inquiétudes pour la sécurité alimentaire.
 
-## [Pi-hole + Unbound : DNS Privé en 13 Étapes, 75 Min [2026] - shattered.io](https://shattered.io/fr/pi-hole-unbound-dns-prive-tutoriel-2026/)  
-*Source : shattered.io | Publication : 2026-11-01*
+## [Piratage de plaques d'immatriculation : Fausses amendes, « doublettes »… - Yahoo Actualités](https://fr.news.yahoo.com/sport/piratage-plaques-d-immatriculation-risquent-161739919.html)  
+*Source : fr.news.yahoo.com | Publication : 2026-11-03*
 
-- Chaque appareil de la maison pose sans cesse des questions DNS, et la plupart partent en clair vers le résolveur de votre fournisseur d’accès.
-- Pi-hole intercepte ces requêtes, écarte celles qui mènent à des régies publicitaires, à des traceurs ou à des domaines malveillants, puis laisse passer le reste.
-- Associé à Unbound, il cesse aussi de confier vos requêtes à un tiers, car votre propre machine interroge directement les serveurs racines et les serveurs faisant autorité.
-- Le choix de l’outil se discute, et Pi-hole face à AdGuard Home et NextDNS pèse les trois options côté coût et usage.
+- Piratage de plaques d’immatriculation : Fausses amendes, « doublettes »… Que risquent les automobilistes concernés ?.
+- Cybersécurité - Les plaques d'immatriculation et les coordonnées de millions d'automobilistes ont fuité après le piratage de deux plateformes de contrôle technique Une nouvelle fuite de données.
+- Le 29 octobre, le site spécialisé French Breaches a alerté sur le piratage de deux plateformes de réservation de contrôles techniques, Auto-Planning et Auto-Controle-Paris.
+- 14 millions de plaques d'immatriculation et les données de 18 millions de personnes ont été dérobées puis mises en vente sur le darkweb.
 
-## [Nigéria : La <b>cybercriminalité</b> commence à bien faire ! La NCC appelle à renforcer la sécurité en ligne](https://www.digitalbusiness.africa/nigeria-la-cybercriminalite-commence-a-bien-faire-la-ncc-appelle-a-renforcer-la-securite-en-ligne/)  
-*Source : digitalbusiness.africa | Publication : 2026-11-01*
+## [Ministère de la <b>Cybersécurité</b> et du Numérique démantelé: le PQ «bafoue des principes», dit QS](https://www.noovo.info/videos/2026/11/02/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/)  
+*Source : noovo.info | Publication : 2026-11-02*
 
-- [DIGITAL Business Africain] – Fermer les portes des systèmes à double tour.
-- La cybercriminalité ne recule pas, constate la NCC à l’occasion de la deuxième édition de la Conférence internationale sur la cybersécurité (ICSC), de ce mardi 28 octobre 2026.
-- Conformément à sa mission de protéger les consommateurs, la Commission nigériane des communications (NCC) a évoqué la nécessité d’une collaboration plus étroite.
-- Le thème de la conférence était : « La cyber-résilience à l’ère de l’IA : défendre les esprits, les réseaux et la nation ».
+- Le MNC a été démantelé par le gouvernement St-Pierre Plamondon sans que l’Assemblée nationale ait donné son accord sur le projet.
 
-## [Approuvé par les États-Unis, ce drone de 18 kg est équipé d'un fusil à pompe et d'un lance-grenade](https://www.science-et-vie.com/technos-et-futur/approuve-par-les-etats-unis-ce-drone-de-18-kg-est-equipe-dun-fusil-a-pompe-et-dun-lance-grenade-265035.html)  
-*Source : science-et-vie.com | Publication : 2026-11-01*
+## [“Danger radioactif” : des cyberattaques visent les applications d'urgence russes et ukrainiennes](https://www.courrierinternational.com/article/piratage-danger-radioactif-des-cyberattaques-visent-les-applications-d-urgence-russes-et-ukrainiennes_284595)  
+*Source : courrierinternational.com | Publication : 2026-11-02*
 
-- Le 26 octobre 2026, Skyborne Technologies a inscrit son drone Cerberus MI sur la liste Blue UAS du Pentagone.
-- - Le Cerberus MI, équipé d'un fusil et d'un lance-grenade, est conçu pour être réutilisable et contrôlé par un opérateur humain.
-- - Découvrez comment le Cerberus MI révolutionne l'usage des drones militaires avec sa technologie avancée et sa réutilisabilité.
-- - Ce résumé généré par IA a été validé par les journalistes de la rédaction.
+- “Danger radioactif.
+- Ne sortez pas”, “Menace chimique.
+- Ne sortez pas” ou encore “Combats de rue”.
+- Voilà ce qu’ont reçu les possesseurs d’applications mobiles d’urgence ukrainienne et russe dimanche 1er novembre au soir.
 
-## [Les petites entreprises sont ciblées par les cybercriminels | Genève Home Informations](https://ghi.ch/articles/les-petites-entreprises-sont-ciblees-par-les-cybercriminels)  
-*Source : ghi.ch | Publication : 2026-11-01*
+## [Ministère de la <b>Cybersécurité</b> et du Numérique démantelé: le PQ «bafoue des principes - YouTube](https://www.youtube.com/watch?v=PIf3RqMqiso)  
+*Source : youtube.com | Publication : 2026-11-02*
 
-- La cybermenace est devenue l’une des principales sources d’inquiétude des dirigeants un fléau qui ne touche pas seulement les grands groupes, mais aussi les boulangers, architectes ou fiduciaires.
-- Les fédérations d’entreprises multiplient prévention et formation.
-- La vulnérabilité identifiée la semaine dernière à l'échelle internationale au sein de PHP, le langage de programmation qui actionne près de 70% des sites Internet de la planète, est loin d’être anecdotique.
-- La faille permettait à des pirates d'exécuter du code à distance sans authentification.
+- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
 
-## [Azeem Azhar (Exponential View) : &quot;Le prochain grand gisement de revenus de l'IA viendra ...](https://www.lexpress.fr/economie/high-tech/azeem-azhar-exponential-view-les-alertes-danthropic-sur-les-dangers-de-lia-relevent-dun-argument-SK6DPLASSVHN3I6LZ6RELSYEAE/)  
-*Source : lexpress.fr | Publication : 2026-11-01*
+## [Cybermalveillance.gouv.fr prépare un portail national de la <b>cybersécurité</b> du quotidien](https://itsocial.fr/contenus/cas-dusages/cybermalveillance-gouv-fr-prepare-un-portail-national-de-la-cybersecurite-du-quotidien-les-assises-2026-de-la-cybersecurite/)  
+*Source : itsocial.fr | Publication : 2026-11-02*
 
-- Des données personnelles dérobées au fisc cet été au vol, jeudi 29 octobre, de plusieurs milliards de dollars en cryptoactifs, en passant par la récente faille découverte dans le langage informatique PHP, qui menace 70 % des sites web : la cybersécurité s'invite presque quotidiennement dans l'actualité.
-- Disons-le d'emblée, tout n'est pas imputable à l'intelligence artificielle.
-- Mais la technologie est l'éléphant dans la pièce.
-- L'IA trouve les failles plus vite, elle accélère les attaques.
+- Interview de Jerome NOTIN, Directeur Général de Cybermalveillance.gouv.fr (GIP ACYMA), réalisé lors de l'évènement Les Assises 2026 de la Cybersécurité Un dispositif national : Cybermalveillance.gouv.fr est le dispositif national d'assistance aux victimes d'actes de cybermalveillance, créé en 2017 par l'ANSSI et le ministère de l'Intérieur, pour anticiper la hausse de la menace cyber.
+- Le dispositif fête cette année ses 10 ans.
+- - Trois missions : L'assistance, opérée depuis le 17 décembre 2024 sous la marque 17Cyber.gouv.fr : un outil de qualification de la menace, avec un accompagnement possible 24 heures sur 24 et 7 jours sur 7 par messagerie instantanée, assuré par un policier ou un gendarme.
+- La prévention, avec la création de contenus et l'organisation du Mois européen de la cybersécurité.
 
-## [Une innovation israélienne primée à l'international - IsraJ - MediaJ](https://israj.media-j.com/article/73436/une-innovation-israelienne-primee-a-linternational)  
-*Source : israj.media-j.com | Publication : 2026-11-01*
+## [Piratage de frigos : après la France et les Etats-Unis, des dizaines de supermarchés touchés ...](https://www.liberation.fr/international/europe/piratage-de-frigos-apres-la-france-et-les-etats-unis-des-dizaines-de-supermarches-touches-en-suede-et-en-belgique-20261102_BZIZVKQNMNDZLLZGLO7CDCY3VE/)  
+*Source : liberation.fr | Publication : 2026-11-02*
 
-- Une recherche israélienne consacrée à la cybersécurité des infrastructures énergétiques vient de recevoir le prix du meilleur article scientifique -Best Paper Award- lors de l’atelier CPSS, organisé dans le cadre de la conférence internationale ASIA-CCS à Bangalore, en Inde.
-- Soutenu par le ministère de l’Énergie et des Infrastructures, le projet répond à un enjeu stratégique : protéger les centrales électriques et les installations énergétiques contre les cyberattaques, une menace particulièrement sensible en période de guerre.
-- Les chercheurs ont développé une méthode qui utilise l’intelligence artificielle pour identifier des comportements inhabituels dans les systèmes informatiques chargés de surveiller et de contrôler les installations industrielles.
-- Ces anomalies peuvent constituer les premiers signes d'une intrusion malveillante et permettre une détection plus précoce des menaces.
+- Selon les médias italiens ce lundi soir, l'Agence italienne de cybersécurité a reçu une notification sur un incident similaire de la part d'une.
 
-## [Mistral AI : les poids de Large 4 sont publiés, « Le Chonk » à mille milliards de paramètres ...](https://refrance.fr/mistral-ai-les-poids-de-large-4-sont-publies-le-chonk-a-mille-milliards-de-parametres-en-acces-libre/)  
-*Source : refrance.fr | Publication : 2026-11-01*
+## [Sopra Steria pitché au DSI – Les Assises 2026 de la <b>Cybersécurité</b> - IT SOCIAL](https://itsocial.fr/contenus/cas-dusages/sopra-steria-pitche-au-dsi-les-assises-2026-de-la-cybersecurite/)  
+*Source : itsocial.fr | Publication : 2026-11-02*
 
-- Mistral AI a publié le jeudi 29 octobre les poids de Mistral Large 4, son modèle d’un billion de paramètres, comme promis lors de la présentation du 6 octobre.
-- Licence, prix, résultats : explications.
-- Mistral AI a rendu publics, jeudi 29 octobre, les poids de Mistral Large 4, surnommé « Le Chonk » par l’entreprise, apprend-on dans un communiqué publié sur son site.
-- Le modèle, présenté en préversion le 6 octobre, avait fait l’objet d’une promesse : les poids annoncés pour la fin octobre.
+- Interview de Moustapha DIACK, Product Owner Mobile Security (MTD) chez Sopra Steria, réalisé lors de l'évènement Les Assises 2026 de la Cybersécurité Elevator pitch : Sopra Steria est une entreprise de services numériques spécialisée en cybersécurité et l'un des leaders européens du secteur.
+- Elle met en avant la sécurité mobile, un angle mort de la cyber-résilience : le MDM gère la flotte, mais seul le mobile threat defense (MTD) répond au risque.
+- Le MTD est simple à intégrer, car le mobile est déjà présent dans toute entreprise : il suffit de déployer un agent qui vérifie l'appareil, remédie aux problèmes et alerte les SOC.
+- - Customer journey : Le déploiement se fait à trois niveaux : la console MTD, où l'on configure les politiques de sécurité, son intégration au MDM qui automatise les remédiations, puis le déploiement silencieux de l'agent sur la flotte (zero touch), avec un minimum d'action pour l'utilisateur.
 
-## [6,3 milliards de dollars de cryptomonnaies dérobés chez Binance : le FBI accuse Pyongyang](https://fr.news.yahoo.com/fbi-accuse-corée-nord-piratage-081659634.html)  
-*Source : fr.news.yahoo.com | Publication : 2026-11-01*
+## [CrowdStrike et Deloitte Spain étendent leur alliance pour transformer la <b>cybersécurité</b> de la ...](https://www.zonebourse.com/actualite-bourse/crowdstrike-et-deloitte-spain-etendent-leur-alliance-pour-transformer-la-cybersecurite-de-la-salle-d-ce785fd9da8fff25)  
+*Source : zonebourse.com | Publication : 2026-11-02*
 
-- 6,3 milliards de dollars de cryptomonnaies dérobés chez Binance : le FBI accuse Pyongyang Selon l'Agence américaine de cybersécurité et de sécurité des infrastructures (CISA), TraderTraitor est un groupe de pirates nord-coréen soutenu par l'État, lié à des vols de cryptomonnaies et à des tactiques de cyberattaque depuis au moins 2020.
-- Le Federal Bureau of Investigation (FBI) des États-Unis a accusé la Corée du Nord d'être à l'origine d'un important piratage visant la plateforme d'échange de cryptomonnaies Binance plus tôt cette semaine.
-- Binance a été victime de ce que son co-directeur général Richard Teng a décrit comme une "attaque complexe", au cours de laquelle des pirates ont accédé à ses portefeuilles en ligne et ont dérobé 6,3 milliards de dollars d'actifs numériques.
-- "Le Federal Bureau of Investigation (FBI) diffuse des informations indiquant que la République populaire démocratique de Corée (Corée du Nord) est responsable du vol de plus de 6 milliards USD d'actifs virtuels sur la plateforme d'échange de cryptomonnaies Binance, le ou vers le 29 octobre 2026", a indiqué le FBI dans un communiqué samedi.
+- CrowdStrike et Deloitte ont annoncé l'élargissement de leur collaboration afin de transformer la cybersécurité des entreprises, de la stratégie.
 
-## [Même hors ligne, cette IA chinoise cherche à transmettre des données à Pékin - 01net.com](https://www.01net.com/actualites/meme-hors-ligne-cette-ia-chinoise-cherche-a-transmettre-des-donnees-a-pekin.html)  
-*Source : 01net.com | Publication : 2026-11-01*
+## [Cyberattaques En Europe : Israël Alerte Les Entreprises Sur La Sécurité De Leurs Systèmes ...](https://www.i24news.tv/fr/actu/israel/artc-cyberattaques-en-europe-israel-alerte-les-entreprises-sur-la-securite-de-leurs-systemes-de-refrigeration)  
+*Source : i24news.tv | Publication : 2026-11-02*
 
-- Le laboratoire d’IA canadien Cohere a publié lundi 26 octobre les résultats d’un test embarrassant pour Alibaba.
-- Ses équipes affirment avoir observé Qwen3.8-Flash-Next, l’un des derniers modèles ouverts du géant chinois, tenter de transmettre des données vers un serveur de stockage situé à Pékin.
-- La requête s’est heurtée à l’environnement de test, volontairement coupé d’Internet.
-- Une règle antivirus demandée, un envoi vers Pékin tenté Le protocole s’appuyait sur un banc d’essai conçu par Microsoft, qui place des IA dans la peau d’un analyste en cybersécurité.
+- Cyberattaques en Europe : Israël alerte les entreprises sur la sécurité de leurs systèmes de réfrigération Des pirates ont modifié à distance les températures d’équipements frigorifiques en Europe.
+- Les autorités israéliennes appellent les entreprises à sécuriser leurs installations.
+- La Direction nationale israélienne de la cybersécurité a adressé une alerte urgente aux chaînes de supermarchés, aux entreprises alimentaires et aux centres logistiques, leur demandant de renforcer immédiatement la protection de leurs systèmes de réfrigération et de congélation.
+- Cette mise en garde fait suite à des cyberattaques en Europe au cours desquelles des pirates ont pris le contrôle à distance d’installations frigorifiques.
 
-## [Wave plaide à Bamako pour une <b>cybersécurité</b> partagée du mobile money - Africtelegraph](https://africtelegraph.com/blog/wave-plaide-a-bamako-pour-une-cybersecurite-partagee-du-mobile-money/)  
-*Source : africtelegraph.com | Publication : 2026-11-01*
+## [Des cyberpirates ont vidé les frigos et congélos de plus de 70 de nos supermarchés - L'Avenir](https://www.lavenir.net/actu/2026/11/02/des-cyberpirates-ont-vide-les-frigos-et-congelos-de-plus-de-70-de-nos-supermarches-CVOVO2L2DRBM5OJF2ZUKR5SH2Y/)  
+*Source : lavenir.net | Publication : 2026-11-02*
 
-- La question de la cybersécurité du mobile money s’est invitée au cœur du débat public malien lors de la 4e édition des Journées Nationales de Cybersécurité (JNC), tenues à Bamako sous l’égide de l’Autorité malienne de régulation des télécommunications, des TIC et des postes (AMRTP).
-- Placée sous le thème de l’intelligence artificielle et des nouveaux défis du cyberespace, cette édition a réuni institutions publiques, experts et entreprises du numérique autour d’une préoccupation désormais stratégique pour l’Afrique de l’Ouest : la résilience des canaux de paiement électronique.
-- Parmi les intervenants, la fintech Wave a défendu une lecture industrielle du sujet.
-- L’entreprise, qui revendique plus de 15 000 points de vente au Mali, s’inscrit dans un marché où le paiement mobile est devenu la principale porte d’entrée vers les services financiers formels.
+- Des cyberpirates ont vidé les frigos et congélos de plus de 70 de nos supermarchés : le Centre pour la Cybercriminalité Belgique est inquiet Dans la nuit du 1er au 2 novembre, des pirates informatiques ont paralysé le système de refroidissement des frigos et congélos d'une septantaine de supermarchés belges dont des magasins Delhaize.
+- D'autres pays européens ont été touchés.
+- Le Centre pour la Cybercriminalité Belgique est inquiet : les cyberattaques sont en nette augmentation depuis 6 mois.
+- Publié le 02-11-2026 à 18h41 - Mis à jour le 02-11-2026 à 21h07 - Trois semaines, jour pour jour, après le piratage des installations frigorifiques de plus de 300 supermarchés français, plusieurs enseignes de la grande distribution en Belgique dont le groupe Delhaize ont été victimes de cybercriminels.
 
-## [Conférence <b>cybersécurité</b> à Cleppé. - Actualité illiwap de Mairie de Mizérieux](https://station.illiwap.com/fr/public/42143/actu/conference-cybersecurite-a-cleppe)  
-*Source : station.illiwap.com | Publication : 2026-11-01*
+## [Après la série d'incidents affectant des frigos de supermarchés dans sept de ses pays, l'UE ...](https://www.bfmtv.com/tech/cybersecurite/apres-la-serie-d-incidents-affectant-des-frigos-de-supermarches-dans-sept-de-ses-pays-l-ue-denonce-des-cyberattaques-repetees-extremement-preoccupantes_AD-202611020755.html)  
+*Source : bfmtv.com | Publication : 2026-11-02*
 
-- Conférence cybersécurité à Cleppé.
-- 01/11/2026.
-- Partagez l'article.
-- Partager sur Facebook · Partager sur LinkedIn · Partager sur Twitter · Parger.
+- Après la série d'incidents affectant des frigos de supermarchés dans sept de ses pays, l'UE dénonce "des cyberattaques répétées extrêmement préoccupantes" L'Union européenne a dénoncé lundi "des cyberattaques répétées extrêmement préoccupantes" contre des supermarchés de pays européens, touchés par une série d'incidents affectant des réfrigérateurs, trois semaines après ceux survenus en France.
+- "La répétition de ces cyberattaques est extrêmement préoccupante.
+- Il s'agit d'une tentative délibérée de perturber notre chaîne d'approvisionnement alimentaire et de saper la confiance des consommateurs - un avertissement que nous devons prendre au sérieux", a réagi le commissaire européen à l'Agriculture, Christophe Hansen.
+- "Notre sécurité alimentaire n'est pas menacée pour l'instant, mais le gaspillage alimentaire et ses répercussions sur les entreprises sont bien réels", a-t-il ajouté, dans un communiqué.
 
-## [<b>Cybersécurité</b> et finance numérique : Wave appelle à une mobilisation collective ... - Financial Afrik](https://www.financialafrik.com/2026/11/01/cybersecurite-et-finance-numerique-wave-appelle-a-une-mobilisation-collective-pour-renforcer-la-confiance-des-utilisateurs/)  
-*Source : financialafrik.com | Publication : 2026-11-01*
+## [Cyberattaques contre des supermarchés : après la France, des réfrigérateurs ciblés dans ...](https://www.sudouest.fr/economie/cybersecurite/cyberattaques-contre-des-supermarches-apres-la-france-des-refrigerateurs-cibles-dans-plusieurs-pays-d-europe-31353486.php)  
+*Source : sudouest.fr | Publication : 2026-11-02*
 
-- Hadjarata Ouattara, Bamako.
-- À l’occasion de la 4ᵉ édition des Journées Nationales de Cybersécurité (JNC), organisée à Bamako, Wave Mali a réaffirmé l’importance d’une collaboration renforcée entre les acteurs publics et privés pour sécuriser les services financiers numériques et accompagner leur développement.
-- Placée sous le thème « L’intelligence artificielle et le cyberespace : nouveaux défis pour la cybersécurité », cette quatrième édition des Journées Nationales de Cybersécurité, organisée par l’Autorité malienne de régulation des télécommunications, des technologies de l’information et de la communication (AMRTP), a réuni des représentants des institutions publiques, des experts et des entreprises du secteur numérique.
-- Présent à cette rencontre, Cheick Touradou Sissoko, Directeur du développement des affaires de Wave pour le Mali, le Niger, le Burkina Faso et la Côte d’Ivoire, est revenu sur les enjeux de sécurité qui accompagnent le développement des services financiers numériques, ainsi que sur la nécessité d’une mobilisation collective pour protéger les utilisateurs.
+- Après une première vague inédite en France en octobre, des centaines de magasins en Belgique, en Suède ou encore en Finlande ont été victimes d’un piratage informatique Les supermarchés de plusieurs pays européens ont vu la température de leurs réfrigérateurs s’envoler et gâcher la nourriture, lundi, en raison d’une cyberattaque similaire à celle survenue en France il y a trois semaines.
+- Des supermarchés en Belgique, Estonie, Finlande, Luxembourg, Suède, Irlande et Pays-Bas comptaient parmi les enseignes touchées par cette nouvelle attaque de pirates informatiques.
+- Ils ont été obligés de jeter des quantités d’aliments.
 
-## [CGECI Academy 2026 : Orange Côte d'Ivoire mise sur la formation de talents locaux pour ...](https://www.agenceecofin.com/actualites-numerique/0111-142972-cgeci-academy-2026-orange-cote-d-ivoire-mise-sur-la-formation-de-talents-locaux-pour-renforcer-la-souverainete-numerique)  
-*Source : agenceecofin.com | Publication : 2026-11-01*
+## [Cyberattaque dans les supermarchés : « Je m'attends à ce que la situation s'aggrave à l'avenir](https://www.lesoir.be/780517/article/2026-11-02/cyberattaque-dans-les-supermarches-je-mattends-ce-que-la-situation-saggrave)  
+*Source : lesoir.be | Publication : 2026-11-02*
 
-- (Agence Ecofin) - Face aux besoins croissants en compétences numériques, Orange Côte d’Ivoire mise sur la formation des talents locaux.
-- Cette ambition rejoint le plan d’accélération numérique 2026-2028 de l’État ivoirien, qui prévoit 40 projets prioritaires, notamment dans le développement des compétences numériques.
-- La formation de compétences locales dans les métiers du cloud, de la cybersécurité et de l’intelligence artificielle constitue un enjeu pour la souveraineté numérique de la Côte d’Ivoire.
-- C’est le message porté par Orange Côte d’Ivoire, lors du panel « Bâtir des champions nationaux de la connaissance », organisé le jeudi 29 octobre 2026, en marge de la CGECI Academy, au Sofitel Abidjan Hôtel Ivoire, à Cocody.
+- Des expertes en cybersécurité estiment que l'attaque visant des supermarchés belges symbolise une menace de plus en plus importante,.
 
-## [Les opérations de machine learning peuvent révolutionner la <b>cybersécurité</b> - IBM](https://www.ibm.com/fr-fr/think/news/machine-learning-operations-can-revolutionize-cybersecurity)  
-*Source : ibm.com | Publication : 2026-11-01*
+## [Fuite Vacaf : 1,6 million d'allocataires touchés, la double authentification arrive après coup](https://www.solutions-numeriques.com/fuite-vacaf-16-million-dallocataires-touches-la-double-authentification-arrive-apres-coup/)  
+*Source : solutions-numeriques.com | Publication : 2026-11-02*
 
-- Le MLOps (opérations de machine learning) désigne les pratiques et les outils utilisés pour rationaliser le déploiement, la gestion et la surveillance des modèles de machine learning dans les environnements de production.
-- Si le MLOps est généralement associé aux workflows de science des données et de machine learning, son intégration à la cybersécurité apporte de nouvelles capacités pour détecter les menaces et y répondre en temps réel.
-- Il consiste à rationaliser le déploiement et la gestion des modèles machine learning pour permettre aux entreprises de tirer des informations de grands volumes de données et d’améliorer leur posture de sécurité globale.
-- Le MLOps est un domaine relativement récent qui combine machine learning et ingénierie logicielle.
+- Trois semaines après l’incident, la Cnaf livre enfin un chiffre : 1 619 893 allocataires sont concernés par la fuite de données de la plateforme Vacaf.
+- Le site d’aide aux vacances des Caf rouvre ce lundi 2 novembre, désormais protégé par une double authentification.
+- La Cnaf ne dit toujours pas comment l’attaquant est entré.
+- Un volume enfin chiffré Le 10 octobre, la Caisse nationale des allocations familiales évoquait une fuite “signalée” la veille au soir, sans avancer le moindre ordre de grandeur.
 
-## [Un pirate affirme détenir les données de 615 000 personnes liées à Autosur - Clubic](https://www.clubic.com/actualite-637012-un-pirate-affirme-detenir-les-donnees-de-615-000-personnes-liees-a-autosur.html)  
-*Source : clubic.com | Publication : 2026-11-01*
+## [Chez Poclain, automatiser la cyber pour relancer la modernisation IT](https://www.itforbusiness.fr/poclain-automatisation-cybersecurite-cloud-109231)  
+*Source : itforbusiness.fr | Publication : 2026-11-02*
 
-- Noms, prénoms et numéros de portable de clients d’Autosur sont en vente depuis le 31 octobre sur un forum de cybercriminels.
-- Leur vendeur, ChimeraZ, parle de près de 800 000 fiches, sans dire comment il les a obtenues.
-- Encore et toujours lui.
-- C'est ce qu'annonce FrenchBreaches.
+- Secu Par Reynald Fléchaux, publié le 02 novembre 2026 La cybersécurité mobilise désormais 40 % du temps des administrateurs de Poclain, au détriment des projets de transformation.
+- Pour retrouver des marges de manœuvre, le CTO de l'industriel mise sur l'automatisation de la sécurité et du support.
+- […].
+- Reynald Fléchaux Laurent Delattre Xavier Biseul Guillaume Perissat Frédéric Bergonzoli Jade Berre Enregistrement gratuit en 1 clic.
 
-## [Faux invitations Anthropic, une attaque de phishing vole les mots de passe Google et Microsoft](https://pasqualepillitteri.it/fr/news/28980/faux-invitations-apercu-anthropic-phishing-cofense)  
-*Source : pasqualepillitteri.it | Publication : 2026-11-01*
+## [Okta fait marche arrière ; l'entreprise spécialisée dans la <b>cybersécurité</b> s'apprête à ... - Boursorama](https://www.boursorama.com/bourse/actualites-amp/okta-fait-marche-arriere-l-entreprise-specialisee-dans-la-cybersecurite-s-apprete-a-remplacer-kenvue-le-fabricant-du-tylenol-dans-l-indice-s-p-500-bca3906ecbc566b35e3dbfd276d32c55)  
+*Source : boursorama.com | Publication : 2026-11-02*
 
-- Faux invitations Anthropic, une attaque de phishing vole les mots de passe Google et Microsoft Cofense décrit une campagne de phishing avec de fausses invitations à un aperçu privé d'Anthropic, envoyées via GoTo Webinar, pour voler les identifiants Google et Microsoft.
-- Les plus lus Cybersécurité Outils IA & Avis Jeux Vidéo IA en local Intelligence Artificielle Gemini Biotech et longévité Actualités IA & Tendances Big Tech OpenAI Grok Google Rapports et Analyses ChatGPT Infrastructure Agents IA Droit & Réglementation Électronique IA chinoise Événements Meta Claude Finance Apple Nvidia Domotique Guides Amazon Mistral Tesla IA pour Professionnels Anthropic Économie & Business Robotique Télémédecine Microsoft Open Source.
+- Okta fait marche arrière ; l'entreprise spécialisée dans la cybersécurité s'apprête à remplacer Kenvue, le fabricant du Tylenol, dans l'indice S&P 500 information fournie par Reuters 02/11/2026 à 18:30 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Mises à jour, ajout de contexte) 2 novembre - ** Les actions de la société de vérification d'identité numérique Okta OKTA.O ont perdu leurs gains enregistrés avant l'ouverture du marché et ont clôturé en baisse de 5,2 % à 197,44 dollars lundi, alors qu'elle s'apprête à intégrer l'indice S&P 500 .SPX cette semaine ** OKTA quitte l'indice S&P MidCap 400 .IDX pour remplacer Kenvue KVUE.N dans l'indice SPX à compter du mercredi 4 novembre, ont annoncé vendredi soir les indices S&P Dow Jones ** Kimberly-Clark KMB.O va acquérir KVUE, le fabricant du Tylenol, dans le cadre d’une opération d’environ 40 milliards de dollars qui devrait être finalisée prochainement ** L'action d'OKTA et celles de ses concurrents du secteur de la cybersécurité, notamment CrowdStrike CRWD.O et Zscaler ZS.O , ont accentué leurs pertes récentes lundi, après que Fortinet FTNT.O a signalé la semaine dernière un ralentissement de sa croissance ** Lundi, l’action de la société israélienne Check Point Software Technologies CHKP.O a reculé de 4 % après que cette entreprise spécialisée dans la cybersécurité a revu à la baisse ses prévisions pour 2026 ** Les fonds passifs devront acquérir environ 9,5 millions d’actions OKTA, ce qui correspond à trois jours de demande d’achat, a souligné Melissa Roberts, analyste chez Stephens, dans une note adressée à ses clients ** OKTA, dont le siège se trouve à San Francisco, en Californie, compte environ 174,8 millions d’actions en circulation, pour une capitalisation boursière d’environ 36,4 milliards de dollars vendredi ** Malgré cette baisse, l’action OKTA affiche une hausse d’environ 128 % depuis le début de l’année ** Sur 45 analystes, 36 attribuent à l'action la note « achat fort » ou « achat », contre 9 qui recommandent de « conserver »; le cours cible médian s'établit à 225 dollars, selon les données de LSEG ** Par ailleurs, la société de technologies médicales Glaukos GKOS.N quitte l’indice S&P SmallCap 600 .SPCY pour remplacer OKTA dans l’IDX, tandis que la société de location B2B McGrath RentCorp MGRC.O fera son entrée dans l’indice SPCY mercredi.
 
-## [Mistral AI ouvre à Orange Cyberdefense l'accès anticipé à une version spécialisée de Large 4](https://www.lemondeinformatique.fr/actualites/lireamp-mistral-ai-ouvre-a-orange-cyberdefense-l-acces-anticipe-a-une-version-specialisee-de-large-4-100890.html)  
-*Source : lemondeinformatique.fr | Publication : 2026-11-01*
+## [Dissuasion nucléaire française : la résilience industrielle à l'épreuve | FRS](https://www.frstrategie.org/programmes/observatoire-de-la-dissuasion/dissuasion-nucleaire-francaise-resilience-industrielle-epreuve-2026)  
+*Source : frstrategie.org | Publication : 2026-11-02*
 
-- Alors que Mistral vient d’ouvrir les poids de son modèle Large 4, le fournisseur français s'associe à Orange Cyberdefense premier partenaire européen pour la conception de services de sécurité managés.
-- Dans le cadre de son programme Design Partner, la filiale d'Orange bénéficiera d'un accès anticipé à une version spécialisée, conçue pour répondre à plusieurs problématiques opérationnelles.
-- Les premiers travaux porteront sur les tests d'intrusion et les audits techniques.
-- L'objectif est d'aider les experts à explorer davantage de scénarios d'attaque et à identifier les vulnérabilités des systèmes d'information.
+- Observatoire de la dissuasion n°143.
+- Aurore Mermet 2 novembre 2026.
+- BITD Cybersécurité Dissuasion.
+- Partager.
 
-## [Si Washington coupe le robinet, on fait quoi ? La France dispose désormais de sa propre IA ...](https://www.journaldugeek.com/2026/11/01/mistral-france-dispose-ia-cybersecurite/)  
-*Source : journaldugeek.com | Publication : 2026-11-01*
+## [Réaction de Québec solidaire - Démantèlement du ministère de la <b>Cybersécurité</b> et du Numérique](https://www.quebec.ca/nouvelles/actualites/details/reaction-de-quebec-solidaire-demantelement-du-ministere-de-la-cybersecurite-et-du-numerique-le-gouvernement-met-la-charrue-devant-les-boeufs-72869)  
+*Source : quebec.ca | Publication : 2026-11-02*
 
-- En octobre, le laboratoire d’IA français Mistral a fait les titres de la presse, en dévoilant Mistral Large 4.
-- Par rapport aux précédents modèles Mistral, celui-ci progresse fortement en matière d’intelligence.
-- Et grâce à cette progression, Mistral Large 4 fait également partie de l’un des meilleurs modèles ouverts dans le monde (en concurrence principalement avec les technologies chinoises).
-- Selon TechCrunch, Mistral compare les performances générales de ML4 à celles de GLM-5.3, développé par la startup chinoise Z.ai, tout en consommant moins de ressources.
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
