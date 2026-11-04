@@ -1,142 +1,156 @@
-# Résumés – 2026-11-03
+# Résumés – 2026-11-04
 
 
-## [« L'IA a fait sauter tous les verrous de sécurité » : une centaine de personnes présentes à la ...](https://www.charentelibre.fr/economie/l-ia-a-fait-sauter-tous-les-verrous-de-securite-une-centaine-de-personnes-presentes-a-la-conference-cybersecurite-organisee-par-la-prefecture-31353669.php)  
-*Source : charentelibre.fr | Publication : 2026-11-03*
+## [Nouvelle cyberattaque visant des réfrigérateurs dans plus de 10 pays européens](https://ici.radio-canada.ca/nouvelle/2297833/cyberattaque-refrigerateurs-pays-europeens)  
+*Source : ici.radio-canada.ca | Publication : 2026-11-04*
 
-- « L’IA a fait sauter tous les verrous de sécurité » : une centaine de personnes présentes à la conférence « Cybersécurité » organisée par la préfecture Près d’une centaine de personnes ont assisté à la conférence sur l’IA organisée par la préfecture, à Soyaux. «.
-- L’IA est là et nous n’avons guère le choix de nous en emparer.
-- Mais il ne faut pas le faire n’importe comment. ».
-- Lundi soir, c’est devant un auditorium plein que le préfet a conclu un après-midi d’échanges autour de l’intelligence artificielle au siège du Crédit Agricole, à Soyaux.
+- Nouvelle cyberattaque visant des réfrigérateurs dans plus de 10 pays européens La chaîne de supermarchés Delhaize de Boortmeerbeek, à environ 30 km de Bruxelles, a déclaré que les systèmes de réfrigération de « dizaines » de ses magasins avaient été touchés par un incident informatique.
+- Photo : afp via getty images / MAUDE BRULARD Agence France-Presse - L’Allemagne et la Roumanie ont rejoint la liste des plus de dix pays européens touchés lundi par une cyberattaque présumée ayant visé les réfrigérateurs et congélateurs de plusieurs supermarchés, mettant au jour – trois semaines après une attaque similaire en France – la vulnérabilité de la chaîne d’approvisionnement alimentaire de l’Union européenne (UE).
+- Ces incidents montrent, une fois de plus, comment les cyberattaques peuvent perturber les services essentiels et affecter la vie quotidienne des citoyens , a déclaré mardi Thomas Regnier, porte-parole de l’UE, précisant que plusieurs États membres étaient concernés.
+- Il s’est toutefois refusé à attribuer une quelconque responsabilité à ces incidents, renvoyant aux enquêtes menées par les diverses autorités nationales européennes.
 
-## [Une cyberattaque frappe des réfrigérateurs à travers l'Europe : Actualités - Orange Actu](https://actu.orange.fr/economie/une-cyberattaque-frappe-des-refrigerateurs-a-travers-l-europe-CNT000002tvTNd.html)  
-*Source : actu.orange.fr | Publication : 2026-11-03*
+## [le Royaume-Uni alerte sur une vague sans précédent de cyberattaques dopées à l'IA - RTL](https://www.rtl.fr/actu/international/lorsque-les-rayons-des-magasins-seront-vides-le-royaume-uni-alerte-sur-une-vague-sans-precedent-de-cyberattaques-dopees-a-l-ia-7900692317)  
+*Source : rtl.fr | Publication : 2026-11-03*
 
-- Une cyberattaque frappe des réfrigérateurs à travers l'Europe Les supermarchés de plusieurs pays européens ont vu la température de leurs réfrigérateurs s'envoler et gâcher la nourriture lundi de la Suède à la Sicile, en raison d'une cyberattaque similaire à celle survenue en France il y a trois semaines.
-- Des supermarchés en Belgique, en Estonie, en Finlande, en Irlande, en Italie, au Luxembourg, aux Pays-Bas, au Portugal et en Suède ont été touchés par cette nouvelle attaque de pirates informatiques.
-- Ils ont été obligés de jeter des quantités d'aliments.
-- Le 12 octobre, de grandes enseignes françaises de distribution avaient indiqué que des centaines de systèmes de réfrigération de leurs magasins avaient été frappés par une cyberattaque, les contraignant à jeter des denrées périmées et suscitant des inquiétudes pour la sécurité alimentaire.
+- En Direct 2 min de lecture Une multiplication sans précédent des cyberattaques dans les prochains mois et des infrastructures essentielles prises pour cible par des États étrangers, en particulier la Chine, à l'aide de l'intelligence artificielle.
+- C'est l'avertissement lancé mardi au Royaume-Uni par Richard Horne, directeur du Centre national britannique de cybersécurité (NCSC), lors de la présentation du rapport annuel de l'organisme.
+- D'ici 2028, il est probable que la Chine, la Russie et d'autres États utilisent régulièrement l'intelligence artificielle dans l'espace virtuel pour atteindre leurs objectifs géopolitiques, estime cet organisme public chargé de protéger le pays contre les menaces informatiques.
+- Le Royaume-Uni est déjà confronté à une augmentation de l'ampleur et de la rapidité de cyberattaques sophistiquées, à l'instar de celle qui a touché Jaguar Land Rover l'an dernier et fortement perturbé la production du constructeur automobile.
 
-## [Piratage de plaques d'immatriculation : Fausses amendes, « doublettes »… - Yahoo Actualités](https://fr.news.yahoo.com/sport/piratage-plaques-d-immatriculation-risquent-161739919.html)  
+## [Pourquoi la conformité réglementaire ne garantit pas la sécurité réelle - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1557365-pourquoi-la-conformite-reglementaire-ne-garantit-pas-la-securite-reelle/)  
+*Source : journaldunet.com | Publication : 2026-11-03*
+
+- Pourquoi la conformité réglementaire ne garantit pas la sécurité réelle Le paysage de la cybersécurité en Europe entre dans une nouvelle ère.
+- Des réglementations telles que NIS2 et DORA relèvent les exigences en matière de résilience, de responsabilité et de gouvernance opérationnelle, imposant aux organisations de démontrer non seulement que des contrôles de sécurité existent, mais qu'ils restent efficaces dans le temps.
+- Plutôt que de prescrire des technologies spécifiques, ces nouvelles réglementations établissent de grands principes : exiger des organisations qu'elles mettent en œuvre des "mesures techniques appropriées et proportionnées" tout en laissant les détails pratiques à la discrétion de chaque entité.
+- Cette flexibilité est intentionnelle, mais elle crée également un défi majeur de mise en œuvre.
+
+## [Fuite de données, comment vérifier si vos données circulent et quoi faire - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/29851/fuite-de-donnees-comment-verifier)  
+*Source : pasqualepillitteri.it | Publication : 2026-11-03*
+
+- Fuite de données, comment vérifier si vos données circulent et quoi faire Comment savoir si vos données ont fuité, avec quels outils gratuits et quoi faire dans les deux premières heures.
+- Mots de passe, sessions actives, papiers.
+- 1.Ce que signifie vraiment finir dans une fuite de données - 2.Les chiffres de 2026 et pourquoi la transparence a reculé - 3.Où vérifier, gratuitement - 4.Pourquoi chercher un mot de passe ne le livre à personne - 5.Le contrôle que Google a éteint - 6.Les deux premières heures, dans l'ordre - 7.Pourquoi le second facteur ne suffit plus - 8.Cartes, papiers, identité - 9.La seconde vague, le phishing sur mesure - 10.Ce que doit faire l'entreprise et ce que vous pouvez exiger - 11.Key Takeaways - 12.Questions fréquentes - 13.Le contrôle vaut pour ce que vous faites après - 14.Notez cet article - 15.Articles Connexes - 16.Recherchez-vous un Ingénieur Logiciel?.
+- - Une fuite de données, c'est quand une entreprise qui gardait vos informations se les fait voler.
+
+## [Italie tient réunion d'urgence après cyberattaques contre les frigos de supermarchés européens](https://fr.news.yahoo.com/italie-tient-réunion-durgence-après-202406619.html)  
 *Source : fr.news.yahoo.com | Publication : 2026-11-03*
 
-- Piratage de plaques d’immatriculation : Fausses amendes, « doublettes »… Que risquent les automobilistes concernés ?.
-- Cybersécurité - Les plaques d'immatriculation et les coordonnées de millions d'automobilistes ont fuité après le piratage de deux plateformes de contrôle technique Une nouvelle fuite de données.
-- Le 29 octobre, le site spécialisé French Breaches a alerté sur le piratage de deux plateformes de réservation de contrôles techniques, Auto-Planning et Auto-Controle-Paris.
-- 14 millions de plaques d'immatriculation et les données de 18 millions de personnes ont été dérobées puis mises en vente sur le darkweb.
+- Italie tient réunion d'urgence après cyberattaques contre les frigos de supermarchés européens L'UE affirme que ces cyberattaques sont une tentative délibérée de perturber la chaîne d'approvisionnement alimentaire, mais le chef roumain de la cybersécurité les qualifie de *semi-amateurs*.
+- Le gouvernement italien a tenu mardi des réunions d'urgence avec les responsables des services de renseignement après que des cyberattaques visant les systèmes de congélation des supermarchés ont touché au moins 11 pays européens ces derniers jours.
+- Des supermarchés d'au moins dix pays de l'UE, dont l'Allemagne, l'Italie et les Pays-Bas, ont été contraints de jeter des denrées alimentaires après une hausse des températures dans leurs réfrigérateurs et congélateurs.
+- Le Royaume-Uni a également été touché.
 
-## [Ministère de la <b>Cybersécurité</b> et du Numérique démantelé: le PQ «bafoue des principes», dit QS](https://www.noovo.info/videos/2026/11/02/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/)  
-*Source : noovo.info | Publication : 2026-11-02*
+## [JRES Tours 2026 : réseaux, <b>cybersécurité</b> et logiciels libres - evous](https://www.evous.fr/tours/salons/jres-tours/)  
+*Source : evous.fr | Publication : 2026-11-03*
 
-- Le MNC a été démantelé par le gouvernement St-Pierre Plamondon sans que l’Assemblée nationale ait donné son accord sur le projet.
+- Quatre jours pour comparer les pratiques des équipes numériques Les sessions s’adressent aux techniciens, ingénieurs et responsables informatiques de l’enseignement supérieur et de la recherche.
+- Plusieurs auditoriums travaillent en parallèle : le choix d’une session implique parfois de renoncer à une autre.
+- Voici quelques repères dans le programme : Mardi 8 décembre : de 16h30 à 17h10, Maxime Marty et Sandra Gaye présentent la migration nationale de VMware vers Proxmox à l’INRAE, auditorium François Ier.
+- À Descartes, de 17h10 à 17h50, Virgile Deville et Samuel Paccoud abordent LaSuite Docs et la documentation collaborative.
 
-## [“Danger radioactif” : des cyberattaques visent les applications d'urgence russes et ukrainiennes](https://www.courrierinternational.com/article/piratage-danger-radioactif-des-cyberattaques-visent-les-applications-d-urgence-russes-et-ukrainiennes_284595)  
-*Source : courrierinternational.com | Publication : 2026-11-02*
+## [OpenAI embauche un ancien secrétaire américain à l'armée de terre - Noovo Info](https://www.noovo.info/nouvelles/technologie/article/openai-embauche-un-ancien-secretaire-americain-a-larmee-de-terre/)  
+*Source : noovo.info | Publication : 2026-11-03*
 
-- “Danger radioactif.
-- Ne sortez pas”, “Menace chimique.
-- Ne sortez pas” ou encore “Combats de rue”.
-- Voilà ce qu’ont reçu les possesseurs d’applications mobiles d’urgence ukrainienne et russe dimanche 1er novembre au soir.
+- OpenAI a nommé l’ancien secrétaire américain à l’armée de terre, Dan Driscoll, à un nouveau poste consacré à l’utilisation de l’intelligence artificielle (IA) dans le domaine de la sécurité nationale, a indiqué l’entreprise lundi.
+- M. Driscoll, qui a remis fin août sa démission après des mois de tensions, selon la presse, avec le ministre de la Défense Pete Hegseth, rejoint la firme américaine comme «haut conseiller responsable de la modernisation de la sécurité nationale».
+- Il réfléchira à «la manière dont l’IA de pointe peut renforcer la sécurité nationale et la cybersécurité», selon un communiqué d’OpenAI.
+- «Je rejoins OpenAI pour aider les États-Unis et nos alliés à mettre cette technologie au service des personnes qui assurent notre sécurité, de manière responsable»», a déclaré Dan Driscoll dans le communiqué d’OpenAI.
 
-## [Ministère de la <b>Cybersécurité</b> et du Numérique démantelé: le PQ «bafoue des principes - YouTube](https://www.youtube.com/watch?v=PIf3RqMqiso)  
-*Source : youtube.com | Publication : 2026-11-02*
+## [Midterms: l'agence chargée de la <b>cybersécurité</b> n'en a plus rien à carrer des élections - Next](https://next.ink/265398/midterms-lagence-us-chargee-de-la-cybersecurite-nen-a-plus-rien-a-carrer-des-elections/)  
+*Source : next.ink | Publication : 2026-11-03*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Midterms: l’agence chargée de la cybersécurité n’en a plus rien à carrer des élections Bid terms Le 03 novembre à 18h04 L’administration Trump a licencié un tiers des employés de l’agence fédérale chargée de la cybersécurité, et systématiquement démantelé l’expertise accumulée notamment en matière de sécurité électorale.
+- La CISA ne communique même pas sur les midterms, et sa nouvelle stratégie censée « sécuriser l’Amérique pour les 250 prochaines années » ne tient que sur 3 pages.
+- Midterms: l’agence chargée de la cybersécurité n’en a plus rien à carrer des élections Bid terms L’administration Trump a licencié un tiers des employés de l’agence fédérale chargée de la cybersécurité, et systématiquement démantelé l’expertise accumulée notamment en matière de sécurité électorale.
+- La CISA ne communique même pas sur les midterms, et sa nouvelle stratégie censée « sécuriser l’Amérique pour les 250 prochaines années » ne tient que sur 3 pages.
 
-## [Cybermalveillance.gouv.fr prépare un portail national de la <b>cybersécurité</b> du quotidien](https://itsocial.fr/contenus/cas-dusages/cybermalveillance-gouv-fr-prepare-un-portail-national-de-la-cybersecurite-du-quotidien-les-assises-2026-de-la-cybersecurite/)  
-*Source : itsocial.fr | Publication : 2026-11-02*
+## [CrowdStrike lance un dispositif d'arrêt d'urgence pour les agents d'intelligence artificielle](https://www.boursorama.com/bourse/actualites-amp/crowdstrike-lance-un-dispositif-d-arret-d-urgence-pour-les-agents-d-intelligence-artificielle-24561f51e4392274a99b60db5588cb4e)  
+*Source : boursorama.com | Publication : 2026-11-03*
 
-- Interview de Jerome NOTIN, Directeur Général de Cybermalveillance.gouv.fr (GIP ACYMA), réalisé lors de l'évènement Les Assises 2026 de la Cybersécurité Un dispositif national : Cybermalveillance.gouv.fr est le dispositif national d'assistance aux victimes d'actes de cybermalveillance, créé en 2017 par l'ANSSI et le ministère de l'Intérieur, pour anticiper la hausse de la menace cyber.
-- Le dispositif fête cette année ses 10 ans.
-- - Trois missions : L'assistance, opérée depuis le 17 décembre 2024 sous la marque 17Cyber.gouv.fr : un outil de qualification de la menace, avec un accompagnement possible 24 heures sur 24 et 7 jours sur 7 par messagerie instantanée, assuré par un policier ou un gendarme.
-- La prévention, avec la création de contenus et l'organisation du Mois européen de la cybersécurité.
+- CrowdStrike lance un dispositif d'arrêt d'urgence pour les agents d'intelligence artificielle information fournie par Zonebourse 03/11/2026 à 21:07 CrowdStrike a dévoilé une nouvelle fonction de sécurité permettant aux entreprises de neutraliser rapidement les agents d'intelligence artificielle dont le comportement devient dangereux ou incontrôlable.
+- Baptisé "AI kill switch", ce dispositif est intégré à Falcon Guardian, sa plateforme de protection des agents autonomes lancée en septembre.
+- Le spécialiste américain de la cybersécurité a également annoncé une intégration avec Claude Cowork d'Anthropic et deux projets d'acquisition destinés à renforcer son offre de sécurité de l'IA.
+- La nouvelle fonction permet aux équipes de cybersécurité d'interrompre l'exécution d'un agent, de bloquer son redémarrage et de lui retirer l'accès au réseau de l'entreprise.
 
-## [Piratage de frigos : après la France et les Etats-Unis, des dizaines de supermarchés touchés ...](https://www.liberation.fr/international/europe/piratage-de-frigos-apres-la-france-et-les-etats-unis-des-dizaines-de-supermarches-touches-en-suede-et-en-belgique-20261102_BZIZVKQNMNDZLLZGLO7CDCY3VE/)  
-*Source : liberation.fr | Publication : 2026-11-02*
+## [KIA Inde certifiée pour la <b>cybersécurité</b> et les mises à jour logicielles - Team France Export](https://www.teamfrance-export.fr/infos-sectorielles/42215/42215-kia-inde-certifiee-pour-la-cybersecurite-et-les-mises-a-jour-logicielles)  
+*Source : teamfrance-export.fr | Publication : 2026-11-03*
 
-- Selon les médias italiens ce lundi soir, l'Agence italienne de cybersécurité a reçu une notification sur un incident similaire de la part d'une.
+- Date de publication : Je souhaite aller plus loin, je veux être contacté(e) par un expert gratuitement.
+- Être contactéKIA Inde obtient auprès de l’Automotive Research Association of India (ARAI) les certifications de conformité AIS 189 et AIS 190 pour son portefeuille de véhicules.
+- AIS 189 couvre le système de gestion de la cybersécurité, notamment l’évaluation des risques, la gestion des incidents et la surveillance continue des menaces pendant le cycle de vie du véhicule.
+- AIS 190 porte sur la gestion des mises à jour logicielles, de leur planification jusqu’à leur déploiement et leur suivi.
 
-## [Sopra Steria pitché au DSI – Les Assises 2026 de la <b>Cybersécurité</b> - IT SOCIAL](https://itsocial.fr/contenus/cas-dusages/sopra-steria-pitche-au-dsi-les-assises-2026-de-la-cybersecurite/)  
-*Source : itsocial.fr | Publication : 2026-11-02*
+## [Écoles allemandes, six Länder achètent la souveraineté par contrat, la France l'impose par doctrine](https://itsocial.fr/cybersecurite/cybersecurite-articles/ecoles-allemandes-six-lander-achetent-la-souverainete-par-contrat-la-france-limpose-par-doctrine/)  
+*Source : itsocial.fr | Publication : 2026-11-03*
 
-- Interview de Moustapha DIACK, Product Owner Mobile Security (MTD) chez Sopra Steria, réalisé lors de l'évènement Les Assises 2026 de la Cybersécurité Elevator pitch : Sopra Steria est une entreprise de services numériques spécialisée en cybersécurité et l'un des leaders européens du secteur.
-- Elle met en avant la sécurité mobile, un angle mort de la cyber-résilience : le MDM gère la flotte, mais seul le mobile threat defense (MTD) répond au risque.
-- Le MTD est simple à intégrer, car le mobile est déjà présent dans toute entreprise : il suffit de déployer un agent qui vérifie l'appareil, remédie aux problèmes et alerte les SOC.
-- - Customer journey : Le déploiement se fait à trois niveaux : la console MTD, où l'on configure les politiques de sécurité, son intégration au MDM qui automatise les remédiations, puis le déploiement silencieux de l'agent sur la flotte (zero touch), avec un minimum d'action pour l'utilisateur.
+- Six Länder allemands confient à Ionos les outils collaboratifs de leurs écoles, par un accord-cadre ouvert, payé à l’usager et qui exige du logiciel libre pour pouvoir en sortir.
+- L’offre repose sur la suite de Nextcloud, et l’éditeur y voit l’Allemagne suivre l’exemple français.
+- Les deux pays empruntent pourtant deux chemins, la commande publique d’un côté, la doctrine et l’hébergement par le ministère de l’autre.
+- La coopérative publique allemande govdigital a publié le 28 octobre l’attribution à l’hébergeur Ionos d’un accord-cadre de collaboration en ligne pour les écoles, dans Tenders Electronic Daily (TED), le supplément du Journal officiel de l’Union européenne consacré aux marchés publics (avis 747205-2026).
 
-## [CrowdStrike et Deloitte Spain étendent leur alliance pour transformer la <b>cybersécurité</b> de la ...](https://www.zonebourse.com/actualite-bourse/crowdstrike-et-deloitte-spain-etendent-leur-alliance-pour-transformer-la-cybersecurite-de-la-salle-d-ce785fd9da8fff25)  
-*Source : zonebourse.com | Publication : 2026-11-02*
+## [Pour le meilleur ou pour le pire? Microsoft a breveté une IA capable de transformer, &quot;quasi ... - BFM](https://www.bfmtv.com/tech/intelligence-artificielle/pour-le-meilleur-ou-pour-le-pire-microsoft-a-brevete-une-ia-capable-de-transformer-quasi-en-temps-reel-les-propos-et-mouvements-des-levres-d-une-personne-filmee-en-direct_AV-202611030583.html)  
+*Source : bfmtv.com | Publication : 2026-11-03*
 
-- CrowdStrike et Deloitte ont annoncé l'élargissement de leur collaboration afin de transformer la cybersécurité des entreprises, de la stratégie.
+- Pour le meilleur ou pour le pire?.
+- Microsoft a breveté une IA capable de transformer, "quasi en temps réel", les propos et mouvements des lèvres d'une personne filmée en direct Microsoft a déposé le brevet d'un logiciel qui pourrait transformer, grâce à l'intelligence artificielle, les mots prononcés par une personne sur un flux vidéo en direct.
+- Et ce tout en redessinant les mouvements des lèvres, pour qu'ils collent à ce nouveau script.
+- Ce brevet, répéré par Patentlyze, promet une "amélioration, quasi en temps réel, grâce à l'IA, des flux vidéo, ou des présentations d'événements en réalité augmentée".
 
-## [Cyberattaques En Europe : Israël Alerte Les Entreprises Sur La Sécurité De Leurs Systèmes ...](https://www.i24news.tv/fr/actu/israel/artc-cyberattaques-en-europe-israel-alerte-les-entreprises-sur-la-securite-de-leurs-systemes-de-refrigeration)  
-*Source : i24news.tv | Publication : 2026-11-02*
+## [Nouvelle cyberattaque visant des réfrigérateurs : une douzaine de pays européens concernés](https://actu.orange.fr/economie/nouvelle-cyberattaque-visant-des-refrigerateurs-une-douzaine-de-pays-europeens-concernes-CNT000002twJCX.html)  
+*Source : actu.orange.fr | Publication : 2026-11-03*
 
-- Cyberattaques en Europe : Israël alerte les entreprises sur la sécurité de leurs systèmes de réfrigération Des pirates ont modifié à distance les températures d’équipements frigorifiques en Europe.
-- Les autorités israéliennes appellent les entreprises à sécuriser leurs installations.
-- La Direction nationale israélienne de la cybersécurité a adressé une alerte urgente aux chaînes de supermarchés, aux entreprises alimentaires et aux centres logistiques, leur demandant de renforcer immédiatement la protection de leurs systèmes de réfrigération et de congélation.
-- Cette mise en garde fait suite à des cyberattaques en Europe au cours desquelles des pirates ont pris le contrôle à distance d’installations frigorifiques.
+- Nouvelle cyberattaque visant des réfrigérateurs : une douzaine de pays européens concernés L'Allemagne, la Roumanie et le Royaume-Uni ont rejoint mardi la liste des pays européens touchés par une cyberattaque présumée ayant visé les réfrigérateurs et congélateurs de supermarchés, illustrant trois semaines après une attaque similaire en France la vulnérabilité de la chaîne d'approvisionnement alimentaire en Europe.
+- "Ces incidents montrent, une fois de plus, comment les cyberattaques peuvent perturber les services essentiels et affecter la vie quotidienne des citoyens", a déclaré mardi Thomas Regnier, porte-parole de la Commission européenne.
+- Il s'est toutefois refusé à pointer une quelconque responsabilité, renvoyant aux enquêtes menées par les diverses autorités nationales européennes.
+- Le Royaume-Uni s'est ajouté à une liste de pays touchés depuis lundi, comptant déjà l'Allemagne, la Belgique, l'Estonie, la Finlande, l'Irlande, l'Italie, le Luxembourg, les Pays-Bas, le Portugal, la Roumanie et la Suède.
 
-## [Des cyberpirates ont vidé les frigos et congélos de plus de 70 de nos supermarchés - L'Avenir](https://www.lavenir.net/actu/2026/11/02/des-cyberpirates-ont-vide-les-frigos-et-congelos-de-plus-de-70-de-nos-supermarches-CVOVO2L2DRBM5OJF2ZUKR5SH2Y/)  
-*Source : lavenir.net | Publication : 2026-11-02*
+## [Campagne ECSM d'octobre : créer des habitudes durables | SoSafe](https://sosafe-awareness.com/fr/blog/synthese-de-la-communaute-comment-transformer-votre-campagne-ecsm-doctobre-en-changement-de-comportement-durable/)  
+*Source : sosafe-awareness.com | Publication : 2026-11-03*
 
-- Des cyberpirates ont vidé les frigos et congélos de plus de 70 de nos supermarchés : le Centre pour la Cybercriminalité Belgique est inquiet Dans la nuit du 1er au 2 novembre, des pirates informatiques ont paralysé le système de refroidissement des frigos et congélos d'une septantaine de supermarchés belges dont des magasins Delhaize.
-- D'autres pays européens ont été touchés.
-- Le Centre pour la Cybercriminalité Belgique est inquiet : les cyberattaques sont en nette augmentation depuis 6 mois.
-- Publié le 02-11-2026 à 18h41 - Mis à jour le 02-11-2026 à 21h07 - Trois semaines, jour pour jour, après le piratage des installations frigorifiques de plus de 300 supermarchés français, plusieurs enseignes de la grande distribution en Belgique dont le groupe Delhaize ont été victimes de cybercriminels.
+- Le mois d’octobre est l’une de ces périodes où les équipes de sécurité bénéficient d’un soutien accru de la direction, d’un budget supplémentaire et de l’attention de toute l’entreprise.
+- Mais mener d’excellentes campagnes pendant un mois n’est qu’une première étape : le véritable défi consiste à s’assurer que ces habitudes perdurent le reste de l’année.
+- C’est le sujet sur lequel Andrew Rose s’est récemment penché au sein de la communauté SoSafe.
+- En tant qu’ancien directeur de la sécurité et premier ambassadeur de notre communauté, il utilise cet espace réservé aux clients pour expliquer le fonctionnement pratique de la stratégie, répondre aux questions des membres et partager ce qui contribue actuellement à la réussite d’autres équipes.
 
-## [Après la série d'incidents affectant des frigos de supermarchés dans sept de ses pays, l'UE ...](https://www.bfmtv.com/tech/cybersecurite/apres-la-serie-d-incidents-affectant-des-frigos-de-supermarches-dans-sept-de-ses-pays-l-ue-denonce-des-cyberattaques-repetees-extremement-preoccupantes_AD-202611020755.html)  
-*Source : bfmtv.com | Publication : 2026-11-02*
+## [<b>Ransomwares</b> &amp; piratages : 15 cyberattaques d'ampleur du 3 novembre 2026 (dont Binance)](https://dcod.ch/2026/11/03/ransomwares-piratages-15-cyberattaques-dampleur-du-3-novembre-2026-dont-binance/)  
+*Source : dcod.ch | Publication : 2026-11-03*
 
-- Après la série d'incidents affectant des frigos de supermarchés dans sept de ses pays, l'UE dénonce "des cyberattaques répétées extrêmement préoccupantes" L'Union européenne a dénoncé lundi "des cyberattaques répétées extrêmement préoccupantes" contre des supermarchés de pays européens, touchés par une série d'incidents affectant des réfrigérateurs, trois semaines après ceux survenus en France.
-- "La répétition de ces cyberattaques est extrêmement préoccupante.
-- Il s'agit d'une tentative délibérée de perturber notre chaîne d'approvisionnement alimentaire et de saper la confiance des consommateurs - un avertissement que nous devons prendre au sérieux", a réagi le commissaire européen à l'Agriculture, Christophe Hansen.
-- "Notre sécurité alimentaire n'est pas menacée pour l'instant, mais le gaspillage alimentaire et ses répercussions sur les entreprises sont bien réels", a-t-il ajouté, dans un communiqué.
+- Faits marquants de la semaine Binance a subi un vol record estimé à 6,3 milliards de dollars.
+- La plateforme indique avoir gelé 3 milliards d’actifs, promet de couvrir toutes les pertes clients et a suspendu dépôts et retraits le temps des vérifications.
+- - Des attaquants soupçonnés d’être liés à la Chine ont compromis 25 serveurs en chaînant PHP2Shell et une élévation de privilèges du noyau Linux, dont des pare-feu Palo Alto Networks associés à des organisations affiliées au gouvernement américain.
+- - Selon Lumen, le réseau clandestin « Silent Train », attribué à Volt Typhoon, a dissimulé l’exploitation d’au moins quatre failles « zero-day » (vulnérabilités inconnues des éditeurs) via des chaînes de relais jetables traversant plusieurs appareils compromis.
 
-## [Cyberattaques contre des supermarchés : après la France, des réfrigérateurs ciblés dans ...](https://www.sudouest.fr/economie/cybersecurite/cyberattaques-contre-des-supermarches-apres-la-france-des-refrigerateurs-cibles-dans-plusieurs-pays-d-europe-31353486.php)  
-*Source : sudouest.fr | Publication : 2026-11-02*
+## [&quot;Nos fausses publicités permettent aux banques d'identifier les fraudeurs et les victimes d'arnaque&quot;](https://www.journaldunet.com/cybersecurite/1557511-on-diffuse-de-fausses-publicites-pour-identifier-les-potentiels-fraudeurs-et-victimes-d-arnaques-au-profit-des-banques/)  
+*Source : journaldunet.com | Publication : 2026-11-03*
 
-- Après une première vague inédite en France en octobre, des centaines de magasins en Belgique, en Suède ou encore en Finlande ont été victimes d’un piratage informatique Les supermarchés de plusieurs pays européens ont vu la température de leurs réfrigérateurs s’envoler et gâcher la nourriture, lundi, en raison d’une cyberattaque similaire à celle survenue en France il y a trois semaines.
-- Des supermarchés en Belgique, Estonie, Finlande, Luxembourg, Suède, Irlande et Pays-Bas comptaient parmi les enseignes touchées par cette nouvelle attaque de pirates informatiques.
-- Ils ont été obligés de jeter des quantités d’aliments.
+- Geert Baudewijns (Secutec) "Nos fausses publicités permettent aux banques d'identifier les fraudeurs et les victimes d'arnaque" Le négociateur de cyber-rançons belge et PDG de Secutec, Geert Baudewijns, précise comment son entreprise de cybersécurité aide les banques à identifier les profils à risque.
+- JDN.
+- Chez Secutec, vous diffusez de fausses publicités sur les réseaux sociaux pour identifier les profils à risque pour les banques.
+- Pouvez-vous nous en dire plus ?.
 
-## [Cyberattaque dans les supermarchés : « Je m'attends à ce que la situation s'aggrave à l'avenir](https://www.lesoir.be/780517/article/2026-11-02/cyberattaque-dans-les-supermarches-je-mattends-ce-que-la-situation-saggrave)  
-*Source : lesoir.be | Publication : 2026-11-02*
+## [Cyberattaques IA : le pire serait encore à venir, alerte le Royaume-Uni - 01net.com](https://www.01net.com/actualites/cyberattaques-ia-le-pire-serait-encore-a-venir-alerte-le-royaume-uni.html)  
+*Source : 01net.com | Publication : 2026-11-03*
 
-- Des expertes en cybersécurité estiment que l'attaque visant des supermarchés belges symbolise une menace de plus en plus importante,.
+- On peut dire que ces dernières semaines ont été très mouvementées dans le secteur de la cybersécurité.
+- La découverte de deux failles critiques dans le langage informatique PHP a semé la panique au sein de l’Internet mondial, et la situation n’est toujours pas totalement réglée.
+- Des cyberattaques ont par ailleurs ciblé des supermarchés à travers l’Europe, entraînant des montagnes de nourriture jetées.
+- La liste des cyberattaques en France s’allonge quant à elle de jour en jour.
 
-## [Fuite Vacaf : 1,6 million d'allocataires touchés, la double authentification arrive après coup](https://www.solutions-numeriques.com/fuite-vacaf-16-million-dallocataires-touches-la-double-authentification-arrive-apres-coup/)  
-*Source : solutions-numeriques.com | Publication : 2026-11-02*
+## [Synology : des pirates prennent vos fichiers en otage en exploitant des failles déjà corrigées](https://www.clubic.com/actualite-637345-synology-des-pirates-prennent-vos-fichiers-en-otage-en-exploitant-des-failles-deja-corrigees.html)  
+*Source : clubic.com | Publication : 2026-11-03*
 
-- Trois semaines après l’incident, la Cnaf livre enfin un chiffre : 1 619 893 allocataires sont concernés par la fuite de données de la plateforme Vacaf.
-- Le site d’aide aux vacances des Caf rouvre ce lundi 2 novembre, désormais protégé par une double authentification.
-- La Cnaf ne dit toujours pas comment l’attaquant est entré.
-- Un volume enfin chiffré Le 10 octobre, la Caisse nationale des allocations familiales évoquait une fuite “signalée” la veille au soir, sans avancer le moindre ordre de grandeur.
+- Des NAS Synology sont la cible d'une vague d'attaques par ransomware, qui chiffre les fichiers de leurs propriétaires et réclame plusieurs milliers de dollars pour leur restitution.
+- Depuis la mi-octobre, les témoignages d'internautes désemparés affluent sur les Reddit et autre forums d'entraide.
+- Photos, documents personnels, sauvegardes professionnelles… Les fichiers qu'ils avaient confiés à leur NAS sont désormais illisibles, flanqués d’une note de rançon.
+- Dans un communiqué publié le 29 octobre, Synology a confirmé les attaques et exhorté ses clients à mettre à jour leur système d'exploitation sans attendre.
 
-## [Chez Poclain, automatiser la cyber pour relancer la modernisation IT](https://www.itforbusiness.fr/poclain-automatisation-cybersecurite-cloud-109231)  
-*Source : itforbusiness.fr | Publication : 2026-11-02*
+## [I-Tracing finalise l'absorption de doIT solutions et installe son champion européen de la ... - infoDSI](https://infodsi.com/articles/211518/i-tracing-finalise-labsorption-de-doit-solutions-et-installe-son-champion-europeen-de-la-cybersecurite-en-allemagne.html)  
+*Source : infodsi.com | Publication : 2026-11-03*
 
-- Secu Par Reynald Fléchaux, publié le 02 novembre 2026 La cybersécurité mobilise désormais 40 % du temps des administrateurs de Poclain, au détriment des projets de transformation.
-- Pour retrouver des marges de manœuvre, le CTO de l'industriel mise sur l'automatisation de la sécurité et du support.
-- […].
-- Reynald Fléchaux Laurent Delattre Xavier Biseul Guillaume Perissat Frédéric Bergonzoli Jade Berre Enregistrement gratuit en 1 clic.
+- Veuillez activer Javascript.
 
-## [Okta fait marche arrière ; l'entreprise spécialisée dans la <b>cybersécurité</b> s'apprête à ... - Boursorama](https://www.boursorama.com/bourse/actualites-amp/okta-fait-marche-arriere-l-entreprise-specialisee-dans-la-cybersecurite-s-apprete-a-remplacer-kenvue-le-fabricant-du-tylenol-dans-l-indice-s-p-500-bca3906ecbc566b35e3dbfd276d32c55)  
-*Source : boursorama.com | Publication : 2026-11-02*
+## [Faux entretien d'embauche, logiciels malveillants, détournement d'IA : Binance révèle l ...](https://www.lesechos.fr/finance-marches/marches-financiers/faux-entretien-dembauche-logiciels-malveillants-detournement-dia-binance-revele-leffarant-mode-operatoire-du-piratage-record-2260878)  
+*Source : lesechos.fr | Publication : 2026-11-03*
 
-- Okta fait marche arrière ; l'entreprise spécialisée dans la cybersécurité s'apprête à remplacer Kenvue, le fabricant du Tylenol, dans l'indice S&P 500 information fournie par Reuters 02/11/2026 à 18:30 ((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) (Mises à jour, ajout de contexte) 2 novembre - ** Les actions de la société de vérification d'identité numérique Okta OKTA.O ont perdu leurs gains enregistrés avant l'ouverture du marché et ont clôturé en baisse de 5,2 % à 197,44 dollars lundi, alors qu'elle s'apprête à intégrer l'indice S&P 500 .SPX cette semaine ** OKTA quitte l'indice S&P MidCap 400 .IDX pour remplacer Kenvue KVUE.N dans l'indice SPX à compter du mercredi 4 novembre, ont annoncé vendredi soir les indices S&P Dow Jones ** Kimberly-Clark KMB.O va acquérir KVUE, le fabricant du Tylenol, dans le cadre d’une opération d’environ 40 milliards de dollars qui devrait être finalisée prochainement ** L'action d'OKTA et celles de ses concurrents du secteur de la cybersécurité, notamment CrowdStrike CRWD.O et Zscaler ZS.O , ont accentué leurs pertes récentes lundi, après que Fortinet FTNT.O a signalé la semaine dernière un ralentissement de sa croissance ** Lundi, l’action de la société israélienne Check Point Software Technologies CHKP.O a reculé de 4 % après que cette entreprise spécialisée dans la cybersécurité a revu à la baisse ses prévisions pour 2026 ** Les fonds passifs devront acquérir environ 9,5 millions d’actions OKTA, ce qui correspond à trois jours de demande d’achat, a souligné Melissa Roberts, analyste chez Stephens, dans une note adressée à ses clients ** OKTA, dont le siège se trouve à San Francisco, en Californie, compte environ 174,8 millions d’actions en circulation, pour une capitalisation boursière d’environ 36,4 milliards de dollars vendredi ** Malgré cette baisse, l’action OKTA affiche une hausse d’environ 128 % depuis le début de l’année ** Sur 45 analystes, 36 attribuent à l'action la note « achat fort » ou « achat », contre 9 qui recommandent de « conserver »; le cours cible médian s'établit à 225 dollars, selon les données de LSEG ** Par ailleurs, la société de technologies médicales Glaukos GKOS.N quitte l’indice S&P SmallCap 600 .SPCY pour remplacer OKTA dans l’IDX, tandis que la société de location B2B McGrath RentCorp MGRC.O fera son entrée dans l’indice SPCY mercredi.
-
-## [Dissuasion nucléaire française : la résilience industrielle à l'épreuve | FRS](https://www.frstrategie.org/programmes/observatoire-de-la-dissuasion/dissuasion-nucleaire-francaise-resilience-industrielle-epreuve-2026)  
-*Source : frstrategie.org | Publication : 2026-11-02*
-
-- Observatoire de la dissuasion n°143.
-- Aurore Mermet 2 novembre 2026.
-- BITD Cybersécurité Dissuasion.
-- Partager.
-
-## [Réaction de Québec solidaire - Démantèlement du ministère de la <b>Cybersécurité</b> et du Numérique](https://www.quebec.ca/nouvelles/actualites/details/reaction-de-quebec-solidaire-demantelement-du-ministere-de-la-cybersecurite-et-du-numerique-le-gouvernement-met-la-charrue-devant-les-boeufs-72869)  
-*Source : quebec.ca | Publication : 2026-11-02*
-
-- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
-- This requires JavaScript.
-- Enable JavaScript and then reload the page.
+- Les équipes de cybersécurité de Binance ont repéré le logiciel malveillant et l'ont supprimé, mais les pirates avaient eu le temps de récupérer.
