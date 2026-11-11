@@ -1,151 +1,146 @@
-# Résumés – 2026-11-10
+# Résumés – 2026-11-11
 
 
-## [La Maison-Blanche nomme LoSapio, de Palantir, à la tête de l'agence de <b>cybersécurité</b> du ...](https://ch.zonebourse.com/actualite-bourse/la-maison-blanche-nomme-losapio-de-palantir-a-la-tete-de-la-agence-de-cybersecurite-du-departemen-ce785fd3d08af621)  
-*Source : ch.zonebourse.com | Publication : 2026-11-09*
+## [Après les supermarchés, les appareils ménagers domestiques pourraient être la prochaine ...](https://www.lesoir.be/782085/article/2026-11-10/apres-les-supermarches-les-appareils-menagers-domestiques-pourraient-etre-la)  
+*Source : lesoir.be | Publication : 2026-11-10*
 
-- La Maison-Blanche a annoncé lundi avoir nommé Michael LoSapio au poste de directeur de l'Agence de cybersécurité et de sécurité des.
+- Dans ce contexte, la cybersécurité est cruciale, a encore expliqué M. Lepassaar, qui présentait mardi le rapport bisannuel de son agence, basée à.
 
-## [Cyberattaque contre les frigos de supermarchés : le parquet de Paris soupçonne l'Iran](https://actu.orange.fr/france/cyberattaque-contre-les-frigos-de-supermarches-le-parquet-de-paris-soupconne-l-iran-l-express-via-6medias-CNT000002tDjVm.html)  
-*Source : actu.orange.fr | Publication : 2026-11-09*
+## [NIS2, DORA, CRA : ce que le Bercy de la Cyber révèle du retard français en <b>cybersécurité</b>](https://www.portail-ie.fr/univers/risques-et-gouvernance-cyber/2026/nis2-dora-cra-ce-que-le-bercy-de-la-cyber-revele-du-retard-francais-en-cybersecurite/)  
+*Source : portail-ie.fr | Publication : 2026-11-10*
 
-- Cyberattaque contre les frigos de supermarchés : le parquet de Paris soupçonne l'Iran Rayon produits laitiers dans un supermarche.
-- Yaourts – Photo by Schneider/ANDBZ/ABACAPRESS.COM – produits laitiers; alimentation; alimentaire; rayon; nourriture; yaourt; yaourts; yoghourt; yoghourts; Agro alimentaire; Agroalimentaire; Caddie ©; Commerce; Economie; GMS; Grande distribution; Grande surface; Grandes et moyennes surfaces; Industrie; Produit Laitier; Produits laitiers; Supermarche; Yaourt; yoghourt; Europe; Europe de l’Ouest; Western Europe; France Près d'un mois après la cyberattaque contre les réfrigérateurs de centaines de supermarchés français, le parquet de Paris a annoncé, lundi 9 novembre, l'ouverture d'une information judiciaire.
-- Les soupçons se portent sur un groupe iranien lié aux Gardiens de la révolution.
-- La piste iranienne se précise.
+- Le 29 octobre 2026, Bercy a accueilli la première édition du Bercy de la Cyber.
+- Entre pédagogie envers les PME et tensions réglementaires, l’événement montre que la cybersécurité conditionne désormais la compétitivité des entreprises françaises.
+- Anne Le Hénanff et Roland Lescure ont ouvert une matinée de trois tables rondes et 25 stands de jeunes pousses françaises de la cyber.
+- Hygiène numérique des TPE-PME, protection des entités critiques et de leurs sous-traitants, secteur financier : le programme montre que l’État traite désormais la cybersécurité comme un sujet de sécurité économique, et plus seulement comme une affaire de spécialistes.
 
-## [Participation de l'ANSSI à l'European Cyber Week (ECW) 2026](https://cyber.gouv.fr/actualites/anssi-ecw-2026/)  
-*Source : cyber.gouv.fr | Publication : 2026-11-09*
+## [Une enquête ouverte après une cyberattaque visant les chambres froides de l ... - Ouest-France](https://www.ouest-france.fr/societe/cyberattaque/une-enquete-ouverte-apres-une-cyberattaque-visant-les-chambres-froides-de-letablissement-francais-du-sang-6ab88a68-dd4b-11f1-86b6-0a2fbb1d8ed9)  
+*Source : ouest-france.fr | Publication : 2026-11-10*
 
-- Participation de l’ANSSI à l’European Cyber Week (ECW) 2026 Publié le lundi 9 novembre 2026 Du 16 au 19 novembre 2026, l’ANSSI participera à l’European Cyber Week (ECW), le grand rendez-vous européen des acteurs de la cybersécurité, organisé à Rennes.
-- Durant les quatre jours du salon, les agents de l’ANSSI seront présents sur le stand pour rencontrer l’écosystème cyber dans son ensemble, ainsi que les partenaires internationaux.
-- L’ECW sera également le moment pour l’Agence de parler de sujets importants, tels que NIS 2, le CRA ou encore l’intelligence artificielle.
-- Cette nouvelle édition s’articulera autour de trois thématiques majeures, qui serviront de fil rouge à l’ensemble des conférences, ateliers et tables rondes, et au cours desquels participeront des agents de l’ANSSI.
+- Après un « incident de cybersécurité » ayant affecté des installations de supervision et de pilotage de chambres froides dans trois sites régionaux, «.
 
-## [Comment faire face aux cyberattaques pilotées par l'IA ? - Solutions-Numeriques](https://www.solutions-numeriques.com/communiques/comment-faire-face-aux-cyberattaques-pilotees-par-lia/)  
-*Source : solutions-numeriques.com | Publication : 2026-11-09*
+## [ENISA alerte: après les frigos piratés, les appareils domestiques pourraient suivre](https://fr.euronews.com/2026/11/10/enisa-alerte-apres-les-frigos-pirates-les-appareils-domestiques-pourraient-suivre)  
+*Source : fr.euronews.com | Publication : 2026-11-10*
 
-- Les cyberattaquants confient désormais à l’IA une part croissante de leurs opérations et certaines campagnes atteignent un degré d’automatisation élevé.
-- Pour faire face aux cyberattaques pilotées par l’IA, les entreprises doivent accélérer leur capacité de détection et de réponse, en s’appuyant sur une analyse contextualisée des comportements et des protections automatisées, ciblées et réversibles.
-- Dans une opération d’espionnage décrite par Anthropic, un agent IA aurait exécuté 80 à 90 % des opérations tactiques sur une trentaine d’organisations.
-- Des opérateurs humains sont intervenus à des moments clés pour autoriser l’exploitation d’une faille ou choisir les données à exfiltrer, mais l’IA a exécuté l’essentiel de l’attaque.
+- Avertissement lancé après des cyberattaques ayant touché, en octobre et novembre, des supermarchés dans au moins 12 pays européens, la France étant la plus touchée.
+- Après les récentes attaques visant des réfrigérateurs de supermarchés, les appareils électroménagers pourraient être les prochains, a averti mardi le responsable de la cybersécurité de l'UE, appelant l'Europe à investir davantage pour contrer la montée des menaces numériques.
+- L'alerte intervient alors que l'Europe a été frappée par de nombreux incidents informatiques ces derniers mois, suscitant une vive inquiétude, non seulement des gouvernements mais aussi du public, sur la vulnérabilité de la société face aux cyberattaques et sur le niveau de préparation du continent pour faire face aux menaces futures. «.
+- La sécurité ne doit pas et ne peut pas être une réflexion après coup », a déclaré à l'AFP Juhan Lepassaar, directeur exécutif de l'agence européenne de cybersécurité ENISA. «.
 
-## [Cyberattaque contre des frigos connectés : la France accuse officiellement l'Iran - Sud Ouest](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-contre-des-frigos-connectes-la-france-accuse-officiellement-l-iran-31461110.php)  
-*Source : sudouest.fr | Publication : 2026-11-09*
+## [<b>Cybersécurité</b> : alors que le projet de loi NIS2 est enfin débattu, la Cnil inflige des amendes ...](https://www.banquedesterritoires.fr/cybersecurite-alors-que-le-projet-de-loi-nis2-est-enfin-debattu-la-cnil-inflige-des-amendes-10)  
+*Source : banquedesterritoires.fr | Publication : 2026-11-10*
 
-- Le gouvernement français attribue la cyberattaque d’octobre contre des centaines de supermarchés aux Gardiens de la révolution iraniens et annonce des sanctions à venir Les Gardiens de la révolution de la République islamique d’Iran sont derrière la cyberattaque contre les frigos de supermarchés au mois d’octobre en France, a dénoncé lundi le chef de la diplomatie française Jean-Noël Barrot, assurant que des sanctions seraient prises « à l’échelle européenne ».
+- Cybersécurité : alors que le projet de loi NIS2 est enfin débattu, la Cnil inflige des amendes à 10 collectivités Au moment où le texte transposant la directive NIS2 arrive enfin à l'Assemblée nationale, la Cnil vient de prononcer 10 sanctions financières à l'encontre de collectivités pour des manquements sur la cybersécurité.
+- Le gouvernement espère éviter la surtransposition, ce n'est pas le chemin qui se dessine.
+- La Cnil a annoncé le 9 novembre 2026 dix sanctions financières à l'encontre de collectivités territoriales et d'un établissement public, pour des manquements en matière de cybersécurité.
+- Les amendes vont de 3.000 à 20.000 euros, ce dernier montant étant le plafond de cette procédure dite "simplifiée".
 
-## [Amendement n°306 - Projet de loi relatif à la résilience des infrastructures critiques et au ... - Datan](https://datan.fr/votes/legislature-17/vote_9762)  
-*Source : datan.fr | Publication : 2026-11-09*
+## [Avec l'attribution des cyberattaques contre les frigos à l'Iran, la France hausse d'un cran sa réplique](https://www.liberation.fr/societe/police-justice/avec-lattribution-des-cyberattaques-contre-les-frigos-a-liran-la-france-hausse-dun-cran-sa-replique-20261110_O2MDF7TQCJFP5FEFHMCXR4RAGQ/)  
+*Source : liberation.fr | Publication : 2026-11-10*
 
-- LÉGISLATURE 17 - VOTE n° 9762 L'amendement n° 306 de M. Sabatou à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).
-- 14.
-- 1.
-- 30 Résultat du vote Les députés ont rejeté le 09 novembre 2026 l'amendement n° 306 de M. Sabatou à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).
+- Les autorités françaises ont attribué lundi soir les piratages de mi-octobre à une «unité cyber offensive» des Gardiens de la révolution,.
 
-## [Article n°1 - Projet de loi relatif à la résilience des infrastructures critiques et au renforcement ...](https://datan.fr/votes/legislature-17/vote_9769)  
-*Source : datan.fr | Publication : 2026-11-09*
+## [GitLab, deux failles notées 10 en neuf jours et des serveurs autogérés attaqués trois ...](https://itsocial.fr/cybersecurite/cybersecurite-articles/gitlab-deux-failles-notees-10-en-neuf-jours-et-des-serveurs-autogeres-attaques-trois-semaines-apres-le-correctif/)  
+*Source : itsocial.fr | Publication : 2026-11-10*
 
-- LÉGISLATURE 17 - VOTE n° 9769 L'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).
-- 53.
-- 0.
-- 0 Résultat du vote Les députés ont adopté le 09 novembre 2026 l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).
+- Une faille de GitLab notée 10 sur 10, corrigée le 12 octobre, est exploitée en nombre depuis le 4 novembre sur les serveurs que les entreprises hébergent elles-mêmes.
+- GitLab a publié neuf jours plus tard un second correctif critique de même gravité.
+- Une forge qui concentre code, secrets de déploiement et instructions d’agents ne peut plus attendre la fenêtre de maintenance mensuelle, et l’entreprise qui l’héberge porte seule le délai entre correctif et attaque.
+- Les forges logicielles, ces plateformes qui hébergent le code, les chaînes d’intégration et de déploiement continus (CI/CD) et désormais les agents de développement, sont devenues une cible privilégiée.
 
-## [Amendement n°347 - Projet de loi relatif à la résilience des infrastructures critiques et au ... - Datan](https://datan.fr/votes/legislature-17/vote_9764)  
-*Source : datan.fr | Publication : 2026-11-09*
+## [Un haut responsable européen avertit: après les supermarchés, voici ce qui pourrait être la ...](https://www.lalibre.be/economie/conjoncture/2026/11/10/un-haut-responsable-europeen-avertit-apres-les-supermarches-voici-ce-qui-pourrait-etre-la-prochaine-cible-des-cyberattaques-LR5TSHVQ3VEC3G25ENFVQUAOFE/)  
+*Source : lalibre.be | Publication : 2026-11-10*
 
-- LÉGISLATURE 17 - VOTE n° 9764 L'amendement n° 347 de M. Bothorel à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).
-- 28.
-- 0.
-- 17 Résultat du vote Les députés ont adopté le 09 novembre 2026 l'amendement n° 347 de M. Bothorel à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).
+- Un haut responsable européen avertit: après les supermarchés, voici ce qui pourrait être la prochaine cible des cyberattaques Après la cyberattaque qui a frappé les réfrigérateurs de supermarchés dans plusieurs pays, les appareils électroménagers équipant les logements pourraient être la prochaine cible, a prévenu mardi Juhan Lepassaar, chef de l'agence européenne de cybersécurité (Enisa), dans un entretien à l'AFP.
+- Publié le 10-11-2026 à 19h26 - Mis à jour le 10-11-2026 à 19h29 - "La sécurité ne devrait pas et ne doit pas être reléguée au second plan.
+- Aujourd'hui c'était les frigos, demain ce pourraient être les routeurs (équipements pour les réseaux informatiques, ndlr), et après-demain les appareils ménagers domestiques, et ainsi de suite", a souligné le responsable estonien.
+- Des supermarchés d'au moins 12 pays européens ont été touchés par des cyberattaques en octobre et en novembre, la plus grave ayant eu lieu en France.
 
-## [<b>Cybersécurité</b>: comment réduire les risques de l'IA - Les Affaires](https://www.lesaffaires.com/sans-section/cybersecurite-comment-reduire-les-risques-de-lia/)  
-*Source : lesaffaires.com | Publication : 2026-11-09*
+## [Qubole : des accès cloud oubliés exposent les entreprises au vol de données](https://www.lemondeinformatique.fr/cybersecurite-conformite/qubole-des-acces-cloud-oublies-exposent-les-entrep)  
+*Source : lemondeinformatique.fr | Publication : 2026-11-10*
 
-- CybersÃ©curitÃ©: comment rÃ©duire les risques de lâIA Martin Berthiaume|PubliÃ© Ã 15h20 | Mis Ã jour il y a 1 minuteDeux failles critiques de PHP ont Ã©tÃ© repÃ©rÃ©es avec lâaide de Gemini.
-- (Photo: Adobe Stock) EXPERT INVITÃ.
-- Si personne nây est arrivÃ© en vingt ou trente ans, câest que câest impossible.
-- Ce raisonnement a protÃ©gÃ© nos thÃ©orÃ¨mes, nos systÃ¨mes et nos budgets pendant des dÃ©cennies.
+- ArticleCybersécurité & Conformité Qubole : des accès cloud oubliés exposent les entreprises au vol de données Des attaquants ont détourné les accès AWS de Qubole pour voler des secrets et des données chez plusieurs entreprises clientes.
+- Certaines avaient abandonné la plateforme sans révoquer ses autorisations.
+- Rendue publique le 9 novembre 2026, la campagne a été observée du 14 au 26 octobre.
+- Des attaquants non identifiés ont utilisé des identifiants compromis associés au compte AWS de Qubole pour s’introduire dans les environnements cloud de plusieurs clients.
 
-## [<b>Cybersécurité</b> | Associations.gouv.fr](https://associations.gouv.fr/cybersécurité)  
-*Source : associations.gouv.fr | Publication : 2026-11-09*
+## [Après les supermarchés, les appareils ménagers pourraient être la prochaine cible des ... - Le Figaro](https://www.lefigaro.fr/secteur/high-tech/apres-les-supermarches-les-appareils-menagers-pourraient-etre-la-prochaine-cible-des-cyberattaques-20261110)  
+*Source : lefigaro.fr | Publication : 2026-11-10*
 
-- Cybersécurité La transformation numérique des associations emporte, avec elle, de nouveaux risques pour leur fonctionnement et la sécurité des données traitées.
-- Découvrez comment agir pour votre cybersécurité et réduire votre risque d'être victime d'une cyberattaque.
-- Je souhaite être accompagné Description Le réseau d’appui à la vie associative pour que chaque association puisse trouver près de chez elle un endroit, une personne pour répondre à ses questions.
-- Description Vous ne trouvez pas une information ou souhaitez des renseignements ?.
+- Après les supermarchés, les appareils ménagers pourraient être la prochaine cible des cyberattaques «Aujourd’hui c’étaient les frigos, demain ce pourrait être les routeurs, et après-demain les appareils ménagers domestiques, et ainsi de suite», a averti Juhan Lepassaar, chef de l’agence européenne de cybersécurité (Enisa).
+- Passer la publicité Passer la publicitéAprès la cyberattaque qui a frappé les réfrigérateurs de supermarchés dans plusieurs pays, les appareils électroménagers équipant les logements pourraient être la prochaine cible, a prévenu mardi 10 novembre Juhan Lepassaar, chef de l’agence européenne de cybersécurité (Enisa), dans un entretien à l’AFP.
+- «La sécurité ne devrait pas et ne doit pas être reléguée au second plan.
+- Aujourd’hui c’étaient les frigos, demain ce pourrait être les routeurs (équipements pour les réseaux informatiques, NDLR), et après-demain les appareils ménagers domestiques, et ainsi de suite», a souligné le responsable estonien.
 
-## [Division spéciale de <b>cybersécurité</b> : L'animatrice Bijou Ngoné libre après son audition](https://www.seneweb.com/fr/news/Justice/division-speciale-de-cybersecurite-lanimatrice-bijou-ngone-libre-apres-son-audition_n_999003147.html)  
-*Source : seneweb.com | Publication : 2026-11-09*
+## [<b>Cybersécurité</b> : faut-il vraiment combattre l'IA par l'IA ? - ZDNET](https://www.zdnet.fr/publicite/cybersecurite-faut-il-vraiment-combattre-lia-par-lia-507479.htm)  
+*Source : zdnet.fr | Publication : 2026-11-10*
 
-- Division spéciale de Cybersécurité :l'animatrice Bijou Ngoné libre après son audition Convoquée ce lundi dans le cadre de l'exécution de la délégation judiciaire délivrée par le juge d'instruction du 2e cabinet près le tribunal de grande instance de Pikine-Guédiawaye, l'animatrice Bijou Ngoné est sortie libre de son audition à la Division spéciale de cybersécurité (DSC).
-- Selon des sources de Seneweb, l'animatrice de l'émission « Confrontation » sur la 2STV reste toutefois à la disposition de la justice.
-- Nos informations souligent aussi qu'un célèbre homme d'affaires (E.
-- L.).
+- L'intelligence artificielle renforce les capacités des cybercriminels, mais ne révolutionne pas nécessairement leurs méthodes.
+- Face à cette évolution, la réponse ne consiste pas toujours à déployer davantage d'IA, mais à détecter plus efficacement les mécanismes des attaques.
+- D'un côté, il y a les craintes des entreprises face aux cybercriminels qui sont désormais armés d'intelligence artificielle.
+- Et puis de l'autre, il y a ce que les spécialistes de la cybersécurité observent réellement sur le terrain.
 
-## [NIS2 et CRA, les différences et comment les gérer avec un seul système - Pasquale Pillitteri](https://pasqualepillitteri.it/fr/news/31540/nis2-cra-systeme-unique-securite)  
-*Source : pasqualepillitteri.it | Publication : 2026-11-09*
+## [Atos et l'Inria nouent un partenariat stratégique de projets de recherche dans un ensemble ...](https://www.boursier.com/actions/actualites/news/atos-et-l-inria-nouent-un-partenariat-strategique-de-projets-de-recherche-dans-un-ensemble-de-domaine-ia-robotique-cybersecurite-997996.html)  
+*Source : boursier.com | Publication : 2026-11-10*
 
-- NIS2 et CRA, les différences et comment les gérer avec un seul système La NIS2 encadre l'organisation, le CRA les produits.
-- Un seul système de contrôles, deux notifications (24 h, 72 h), plateforme ENISA dès le 11 septembre 2026.
-- 1.Deux textes, deux cibles - 2.Les dates qui comptent - 3.Là où les textes se rejoignent - 4.Là où ils restent distincts - 5.Étape 1, un inventaire unique - 6.Étape 2, un catalogue de contrôles - 7.Étape 3, une seule chaîne pour les incidents - 8.Étape 4, les fournisseurs dans le cahier des charges - 9.Étape 5, les preuves et les répétitions - 10.Questions fréquentes (FAQ) - 11.Par où commencer - 12.Notez cet article - 13.Articles Connexes - 14.Recherchez-vous un Ingénieur Logiciel?.
-- - La NIS2 (directive UE 2022/2555) encadre l'organisation et les services d'une entreprise, tandis que le Cyber Resilience Act ou CRA (règlement UE 2024/2847) encadre les produits comportant des éléments numériques que l'entreprise met sur le marché.
+- Atos et l'Inria nouent un partenariat stratégique de projets de recherche dans un ensemble de domaine (IA, robotique, cybersécurité ...) Par La.
 
-## [Le directeur général du ministère israélien de la Défense en visite officielle au Maroc](https://fr.le360.ma/politique/le-directeur-general-du-ministere-israelien-de-la-defense-en-visite-officielle-au-maroc_J5GX7RR2VJETVGBWUDRRTUE2Z4/)  
-*Source : fr.le360.ma | Publication : 2026-11-09*
+## [Save the Children protège sa mission grâce à la <b>cybersécurité</b> de CrowdStrike](https://www.crowdstrike.com/fr-fr/resources/customer-stories/save-the-children-protects-its-mission-crowdstrike-cybersecurity/)  
+*Source : crowdstrike.com | Publication : 2026-11-10*
 
-- En exécution des hautes instructions royales, Abdeltif Loudyi, ministre délégué auprès de la cheffe du gouvernement chargé de l’Administration de la défense nationale, a reçu lundi, au siège de l’ADN, Amir Baram, directeur général du ministère de défense israélien, en visite officielle au Maroc à la tête d’une importante délégation.
-- À cette occasion, les deux responsables se sont félicités des niveaux de coopération réalisés dans le domaine de la défense et qui bénéficie d’une base juridique couvrant les domaines de la protection des informations et matériels militaires classifiés, la cybersécurité, les échanges d’expériences et d’expertises ainsi que la formation du personnel.
-- Lire aussi : Qui est Gadi Eisenkot, l’ex-chef d’état-major d’origine marocaine choisi pour former le gouvernement israélien?.
-- Dans leurs discussions, les deux responsables ont également mis en avant les avancées réalisées dans le partenariat en matière d’acquisition d’équipements et technologies militaires et dans le domaine de l’industrie de défense, tout en échangeant sur les voies de renforcement des différents aspects de la coopération bilatérale, notamment la construction d’une base industrielle de défense et le développement de la cybersécurité.
+- CrowdStrike aide Save the Children à défendre sa mission face aux cybermenaces Défis Activités dans des régions à haut risque avec des ressources de sécurité limitées et des cybermenaces constantes - Besoin d'une visibilité en temps réel pour 24 000 utilisateurs (personnel, bénévoles et partenaires) - Incapacité à détecter et à répondre rapidement et de manière proactive aux cybermenaces - Résultats Réduction du délai moyen de réponse de plusieurs jours à moins de 70 minutes avec Falcon Complete - Visibilité en temps réel sur le comportement des utilisateurs de 24 000 comptes - Réponse à incident simplifiée avec des workflows automatisés et une surveillance 24 h/24 et 7 j/7 - Protection renforcée des données sensibles dans les régions à haut risque, contribuant à protéger des vies - Solutions CrowdStrike Falcon® Insight XDR pour la détection et la réponse étendues - Détection et intervention managées nouvelle génération de Falcon Complete - Falcon Cloud Security - Falcon Next-Gen Identity Security - Falcon Spotlight - Falcon® Adversary OverWatch™ - Pour la plupart des organisations, la cybersécurité consiste à protéger les données et à assurer la continuité de l'activité.
+- Mais pour Save the Children, protéger les systèmes numériques signifie protéger les enfants vulnérables et le personnel contre les cybermenaces qui pourraient mettre leur vie en danger.
+- Save the Children International, l’une des plus grandes organisations mondiales de défense des droits de l’enfant, opère dans 113 pays et compte plus de 18 000 employés.
+- La mission de l’organisation est simple, mais d’une envergure considérable : améliorer la vie des enfants grâce à l’éducation, à des programmes de santé et à la défense de leurs droits.
 
-## [Affaire des frigos piratés : comment la France a remonté la piste jusqu'à l'Iran - Les Echos](https://www.lesechos.fr/industrie-services/conso-distribution/frigos-pirates-dans-des-supermarches-liran-est-responsable-des-attaques-en-france-selon-le-quai-dorsay-2261931)  
-*Source : lesechos.fr | Publication : 2026-11-09*
+## [IA, mails, télé, <b>cybersécurité</b>… Orange lance une «super-app» mobile pour réunir tous ses services](https://www.lefigaro.fr/secteur/high-tech/ia-mails-tele-cybersecurite-orange-lance-une-super-app-mobile-pour-reunir-tous-ses-services-20261110)  
+*Source : lefigaro.fr | Publication : 2026-11-10*
 
-- La France accuse l'Iran d'une cyberattaque massive ayant touché 700 supermarchés en octobre.
-- Les services de renseignement et de cybersécurité.
+- IA, mails, télé, cybersécurité… Orange lance une «super-app» mobile pour réunir tous ses services DÉCRYPTAGE - L’opérateur mise sur une nouvelle application donnant accès à l’ensemble des modèles d’IA du marché, aux côtés de ses services traditionnels.
+- L’entreprise ouvre également son écosystème à des fournisseurs de services tiers.
+- Passer la publicité«On ne se refait pas.».
+- À la tête d’Orange France depuis le 1er juin 2025, Jérôme Hénique n’a pu retenir un sourire, mardi, lors du lancement de la «super-app» de l’opérateur télécoms.
 
-## [<b>Cybersécurité</b> : enfin un peu plus de sérieux avec la loi examiné cette semaine ? - Clubic](https://www.clubic.com/actualite-638434-cybersecurite-enfin-un-peu-plus-de-serieux-avec-la-loi-examine-cette-semaine.html)  
-*Source : clubic.com | Publication : 2026-11-09*
+## [<b>Cybersécurité</b> des PME : quand l'empilement d'outils devient un risque structurel | ESET](https://www.eset.com/fr/about/newsroom/conseils/conseils/cybersecurite-pme-risques-empilement-outils/)  
+*Source : eset.com | Publication : 2026-11-10*
 
-- La question de la cybersécurité va être abordée à l'Assemblée nationale avec un projet de loi.
-- Projet de loi qui a du retard !.
-- En France, on n'est clairement pas à la pointe quant à la question de la cybersécurité des organisations.
-- À vrai dire, on serait plutôt en retard, avec des attaques qui touchent jusqu'aux plus importantes institutions, que ce soit le fisc, ou même une banque comme le Crédit Mutuel Arkéa.
+- Par Benoit Grunemwald, Expert en cybersécurité La cybersécurité des PME s’est construite pendant longtemps par couches successives, au gré des évolutions technologiques.
+- Ce qui s'est souvent traduit par un antivirus d'abord, puis un pare-feu plus robuste jusqu'à une solution EDR.
+- Et le schéma s'est souvent répété tant sur la messagerie que sur la sauvegarde ou la protection des accès distants.
+- À chaque nouvelle menace ou exigence, une solution supplémentaire est venue s’ajouter à l’existant.
 
-## [Politique. <b>Cybersécurité</b> : que contient le projet de loi « résilience » enfin de retour à l'Assemblée ?](https://www.vosgesmatin.fr/politique/2026/11/09/cybersecurite-que-contient-le-projet-de-loi-resilience-enfin-de-retour-a-l-assemblee)  
-*Source : vosgesmatin.fr | Publication : 2026-11-09*
+## [Chaque voix compte - <b>Cybersécurité</b> : la France a-t-elle un train de retard ? | LCP](https://lcp.fr/programmes/chaque-voix-compte/cybersecurite-la-france-a-t-elle-un-train-de-retard-443996)  
+*Source : lcp.fr | Publication : 2026-11-10*
 
-- Politique Cybersécurité : que contient le projet de loi « résilience » enfin de retour à l'Assemblée ?.
-- Attendu depuis deux ans, le projet de loi « résilience » arrive ce lundi dans l’hémicycle.
-- Le texte devrait contraindre des milliers d’entreprises et d’administration à muscler leur sécurité informatique, alors que la France est devenue une des cibles préférées des cybercriminels.
-- Mieux vaut tard que jamais, même si l’échéance est dépassée depuis longtemps.
+- Aller au contenu principal Menu recherche mobile Recherche Direct En direct Recherche Écrit le - Tout - 7 jours 1 an Plus d'un an Menu Menu sitemap Actualités Dossiers Loi intégrale contre les violences sexuelles et sexistes Budget 2027 Présidentielle 2027 Tous les dossiers Replays Documentaires Émissions A-Z Questions au gouvernement Podcasts Guide Programme La chaîne Qui sommes-nous ?.
+- La gouvernance Une chaîne, une équipe LCP en chiffres Contenus et programmes de LCP Regarder LCP | Chaînes et fréquences Tous les présentateurs Rejoignez-nous Marchés publics et Mises en concurrence Prix photo politique Espace Presse Accueil presse Communiqués de presse Vidéothèque Temps forts Dossiers de presse Phototélé Fil d'Ariane Accueil - Émissions A-Z - Chaque voix compte - Cybersécurité : la France a-t-elle un train de retard ?.
+- Back to top Pour voir cette vidéo, vous devez préalablement accepter les cookies "Vidéo".
+- La vidéo de ce programme sera bientôt disponible Image Chaque voix compte - Cybersécurité : la France a-t-elle un train de retard ?.
 
-## [<b>Cybersécurité</b> : un projet de loi très attendu débattu à l'Assemblée - TV5MONDE Info](https://information.tv5monde.com/economie/cybersecurite-un-projet-de-loi-tres-attendu-debattu-lassemblee-2845125?amp)  
-*Source : information.tv5monde.com | Publication : 2026-11-09*
+## [<b>Cybersécurité</b>: renforcer la résilience et la protection des infrastructures | 11-11-2026](https://www.europarl.europa.eu/news/fr/agenda/plenary-news/2026-11-11/2/cybersecurite-renforcer-la-resilience-et-la-protection-des-infrastructures)  
+*Source : europarl.europa.eu | Publication : 2026-11-10*
 
-- Cybersécurité : un projet de loi très attendu débattu à l'Assemblée Deux ans après sa première lecture au Sénat, et un retour manqué début octobre, les députés ont commencé lundi à discuter dans l'hémicycle d'un projet de loi sur la cybersécurité, après un long débat sur les messageries chiffrées et un été marqué par de nouvelles cyberattaques.
-- Le projet de loi sur la résilience des infrastructures critiques et le renforcement de la cybersécurité doit transposer en droit français trois textes européens.
-- Le projet de loi opère "un véritable changement de paradigme en matière de cybersécurité", notamment pour de nombreuses entreprises "en imposant leur sécurisation", a défendu en ouverture des débats la ministre chargée du Numérique Anne Le Hénanff.
-- "Les récentes attaques contre les installations frigorifiques (de supermarchés, NDLR) ont directement visé notre économie et nos chaînes d'approvisionnement", a-t-elle rappelé.
+- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
+- This requires JavaScript.
+- Enable JavaScript and then reload the page.
 
-## [[DIRECT] <b>Cybersécurité</b> : début de l'examen dans l'hémicycle - 09/11/2026 - YouTube](https://www.youtube.com/watch?v=ed6EaILnj_E)  
-*Source : youtube.com | Publication : 2026-11-09*
+## [<b>Cybersécurité</b> : les chauffages et climatisations dans le viseur des pirates - Orange Actu](https://actu.orange.fr/france/cybersecurite-les-chauffages-et-climatisations-dans-le-viseur-des-pirates-l-express-via-6medias-CNT000002tEvLs.html)  
+*Source : actu.orange.fr | Publication : 2026-11-10*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Cybersécurité : les chauffages et climatisations dans le viseur des pirates ?.
+- © Un radiateur (Illustration).
+- Selon un expert en cybersécurité interrogé par 20 Minutes, les systèmes de chauffage pourraient bien être la nouvelle proie des pirates, avec des conséquences à différentes échelles selon les structures visées.
+- Après les frigos connectés, les système de chauffage d'immeubles seront-ils les prochains équipements à faire les frais de cyberattaques ?.
 
-## [KPMG CEO Outlook 2026 : la <b>cybersécurité</b> s'impose, les dirigeants français plus prudents](https://finyear.com/kpmg-ceo-outlook-2026-la-cybersecurite-simpose-les-dirigeants-francais-plus-prudents)  
-*Source : finyear.com | Publication : 2026-11-09*
+## [&quot;La <b>cybersécurité</b> n'est pas bon marché&quot;: après la cyberattaque contre les réfrigérateurs de...](https://x.com/bfmbusiness/status/2120214306415632547)  
+*Source : x.com | Publication : 2026-11-10*
 
-- KPMG CEO Outlook 2026 : la cybersécurité s’impose, les dirigeants français plus prudents 09/11/2026 La cybersécurité s’est hissée au rang de première menace pour la croissance des entreprises dans le monde, selon la 12e édition du CEO Outlook de KPMG, publiée le 15 octobre 2026.
-- Sur les 1 400 dirigeants interrogés entre le 11 août et le 21 septembre 2026 — tous à la tête d’entreprises réalisant plus de 500 millions de dollars de chiffre d’affaires, dans 12 marchés et 13 secteurs —, 31% citent la cybersécurité comme principal risque pour leur trajectoire de croissance, devant l’incertitude économique (28%) et l’instabilité géopolitique (26%).
-- En conséquence, 45% déclarent avoir augmenté leurs investissements en cybersécurité sur la période.
-- Les 75 dirigeants français interrogés présentent un profil légèrement différent.
+- BFM Business@bfmbusinessShow translation"La cybersécurité n'est pas bon marché": après la cyberattaque contre les réfrigérateurs de supermarchés, les routeurs et appareils ménagers pourraient être la prochaine cible, prévient le chef de l'agence européenne de cybersécurité"La cybersécurité n'est pas bon marché": après la cyberattaque contre les réfrigérateurs de...From bfmtv.com5:57 PM · Nov 10, 2026·1,482Views12.
 
-## [Choisir son prestataire informatique ou son MSP : la grille d'évaluation <b>cybersécurité</b> que ... - Clubic](https://www.clubic.com/dossier-631303-choisir-son-prestataire-informatique-ou-son-msp-la-grille-d-evaluation-cybersecurite-que-tout-dirigeant-de-pme-devrait-utiliser.html)  
-*Source : clubic.com | Publication : 2026-11-09*
+## [&quot;La <b>cybersécurité</b> n'est pas bon marché&quot;: après la cyberattaque contre les réfrigérateurs de ...](https://www.bfmtv.com/tech/cybersecurite/la-cybersecurite-n-est-pas-bon-marche-apres-la-cyberattaque-contre-les-refrigerateurs-de-supermarches-les-routeurs-et-appareils-menagers-pourraient-etre-la-prochaine-cible-previent-le-chef-de-l-agence-europeenne-de-cybersecurite_AD-202611100781.html)  
+*Source : bfmtv.com | Publication : 2026-11-10*
 
-- Votre prestataire informatique détient les accès administrateur de vos serveurs et de vos sauvegardes.
-- En 2026, deux juridictions françaises ont condamné des prestataires pour une sauvegarde jamais vérifiée et pour un serveur livré sans pare-feu.
-- Dans les deux dossiers, l'entreprise cliente avait d'abord payé la remise en route de son activité, avant d'attendre des années une indemnisation.
-- Dans l'exemple le plus récent d'incident cyber, jusqu'à 1,7 million de dossiers de l'Afpa ont pu être exposés à cause d'une faille dans l'outil de gestion des hébergements d'un éditeur tiers.
+- "La cybersécurité n'est pas bon marché": après la cyberattaque contre les réfrigérateurs de supermarchés, les routeurs et appareils ménagers pourraient être la prochaine cible, prévient le chef de l'agence européenne de cybersécurité Après la cyberattaque qui a frappé les réfrigérateurs de supermarchés dans plusieurs pays, d'autres appareils pourraient-ils être ciblés?.
+- Juhan Lepassaar, chef de l'agence européenne de cybersécurité (Enisa), en a bien peur.
+- Dans un entretien à l'AFP, il alerte sur le danger que les appareils électroménagers équipant les logements soient la prochaine cible.
+- "La sécurité ne devrait pas et ne doit pas être reléguée au second plan.
