@@ -1,146 +1,153 @@
-# Résumés – 2026-11-11
+# Résumés – 2026-11-12
 
 
-## [Après les supermarchés, les appareils ménagers domestiques pourraient être la prochaine ...](https://www.lesoir.be/782085/article/2026-11-10/apres-les-supermarches-les-appareils-menagers-domestiques-pourraient-etre-la)  
-*Source : lesoir.be | Publication : 2026-11-10*
+## [<b>Cybersécurité</b> : des pirates nord-coréens visent l'industrie des drones - KBS WORLD](https://world.kbs.co.kr/service/news_view.htm?lang=f&Seq_Code=97069)  
+*Source : world.kbs.co.kr | Publication : 2026-11-12*
 
-- Dans ce contexte, la cybersécurité est cruciale, a encore expliqué M. Lepassaar, qui présentait mardi le rapport bisannuel de son agence, basée à.
+- 140 ans Séoul-Paris : quand les échanges culturels scellent l'amitié (Ⅰ) 2026-11-11 Write: 2026-11-12 10:43:14 / Update: 2026-11-12 11:03:38 Photo : YONHAP News 2026-11-11 2026-11-11 2026-11-10 Notre site utilise des cookies et d'autres techniques pour offrir une meilleure qualité de services.
+- En continuant à visiter le site, vous acceptez l'usage de ces techniques et notre politique.
+- Voir en détail >.
 
-## [NIS2, DORA, CRA : ce que le Bercy de la Cyber révèle du retard français en <b>cybersécurité</b>](https://www.portail-ie.fr/univers/risques-et-gouvernance-cyber/2026/nis2-dora-cra-ce-que-le-bercy-de-la-cyber-revele-du-retard-francais-en-cybersecurite/)  
-*Source : portail-ie.fr | Publication : 2026-11-10*
+## [&quot;La confiance à l'ère de l'IA&quot; : nouvelle journée de conférences pour les lycéens de Claude ...](https://www.lanouvellerepublique.fr/romorantin/la-confiance-a-l-ere-de-l-ia-nouvelle-journee-de-conferences-pour-les-lyceens-de-claude-de-france-a-romorantin-1794416161)  
+*Source : lanouvellerepublique.fr | Publication : 2026-11-11*
 
-- Le 29 octobre 2026, Bercy a accueilli la première édition du Bercy de la Cyber.
-- Entre pédagogie envers les PME et tensions réglementaires, l’événement montre que la cybersécurité conditionne désormais la compétitivité des entreprises françaises.
-- Anne Le Hénanff et Roland Lescure ont ouvert une matinée de trois tables rondes et 25 stands de jeunes pousses françaises de la cyber.
-- Hygiène numérique des TPE-PME, protection des entités critiques et de leurs sous-traitants, secteur financier : le programme montre que l’État traite désormais la cybersécurité comme un sujet de sécurité économique, et plus seulement comme une affaire de spécialistes.
+- Depuis 2023, le lycée Claude-de-France de Romorantin organise chaque année une journée de conférences consacrée aux enjeux high-tech contemporains liés au numérique, à la cybersécurité et, plus récemment, à l’intelligence artificielle.
+- Cette initiative est née de la volonté de deux enseignants en informatique des classes de BTS, Samuel Poujol et Philippe Clavier. «.
+- Cette rencontre est essentielle pour connecter élèves, étudiants et professionnels en permettant de mettre les deux premiers en relation avec les professionnels.
+- Cet article a été tronqué.
 
-## [Une enquête ouverte après une cyberattaque visant les chambres froides de l ... - Ouest-France](https://www.ouest-france.fr/societe/cyberattaque/une-enquete-ouverte-apres-une-cyberattaque-visant-les-chambres-froides-de-letablissement-francais-du-sang-6ab88a68-dd4b-11f1-86b6-0a2fbb1d8ed9)  
-*Source : ouest-france.fr | Publication : 2026-11-10*
+## [Vanderbilt rétablit ses systèmes après une cyberattaque. hackers vol de données de réclamation](https://www.malwarebytes.com/fr/blog/news/2026/11/vanderbilt-restores-systems-after-cyberattack-as-hackers-claim-data-theft)  
+*Source : malwarebytes.com | Publication : 2026-11-11*
 
-- Après un « incident de cybersécurité » ayant affecté des installations de supervision et de pilotage de chambres froides dans trois sites régionaux, «.
+- Dans cet article L'université Vanderbilt remet en service les systèmes informatiques du campus après une cyberattaque.
+- - BYOD affirme avoir volé des données sensibles, mais Vanderbilt n'a pas confirmé ces allégations.
+- - Les étudiants et le personnel doivent suivre les consignes officielles et être attentifs aux messages suspects.
+- - Les étudiants admissibles peuvent obtenir Malwarebytes gratuitement grâce à notre programme de protection des étudiants - L'université Vanderbilt remet ses systèmes en ligne après un incident de cybersécurité revendiqué par le groupe de ransomware BYOD.
 
-## [ENISA alerte: après les frigos piratés, les appareils domestiques pourraient suivre](https://fr.euronews.com/2026/11/10/enisa-alerte-apres-les-frigos-pirates-les-appareils-domestiques-pourraient-suivre)  
-*Source : fr.euronews.com | Publication : 2026-11-10*
+## [Occitanie/ Mardi 17 novembre, 11H : un ancien des Armées anime un webminaire <b>cybersécurité</b>](https://ouillade.eu/agenda/occitanie-mardi-17-novembre-11h-un-ancien-des-armees-anime-un-webminaire-cybersecurite/445638)  
+*Source : ouillade.eu | Publication : 2026-11-11*
 
-- Avertissement lancé après des cyberattaques ayant touché, en octobre et novembre, des supermarchés dans au moins 12 pays européens, la France étant la plus touchée.
-- Après les récentes attaques visant des réfrigérateurs de supermarchés, les appareils électroménagers pourraient être les prochains, a averti mardi le responsable de la cybersécurité de l'UE, appelant l'Europe à investir davantage pour contrer la montée des menaces numériques.
-- L'alerte intervient alors que l'Europe a été frappée par de nombreux incidents informatiques ces derniers mois, suscitant une vive inquiétude, non seulement des gouvernements mais aussi du public, sur la vulnérabilité de la société face aux cyberattaques et sur le niveau de préparation du continent pour faire face aux menaces futures. «.
-- La sécurité ne doit pas et ne peut pas être une réflexion après coup », a déclaré à l'AFP Juhan Lepassaar, directeur exécutif de l'agence européenne de cybersécurité ENISA. «.
+- Pierre Caillet Le mardi 17 novembre à 11h, Interstis Solutions, éditeur montpelliérain français de logiciels collaboratifs souverains, organise un webinaire : « SecNumCloud : quels impacts pour votre organisation et vos données » L’expert invité sera Pierre Caillet, Responsable de la Sécurité des Systèmes d’Information (RSSI) d’Interstis.
+- Pendant plus de vingt-cinq ans au sein des armées, il a notamment géré les clés de chiffrement et les codes des armées françaises et contribué aux standards de sécurité de l’OTAN.
+- Il conduit aujourd’hui Interstis vers la qualification SecNumCloud, le plus haut niveau de sécurité défini par l’ANSSI pour le cloud.
+- J’animerai l’échange avec lui, en ma qualité de responsable communication.
 
-## [<b>Cybersécurité</b> : alors que le projet de loi NIS2 est enfin débattu, la Cnil inflige des amendes ...](https://www.banquedesterritoires.fr/cybersecurite-alors-que-le-projet-de-loi-nis2-est-enfin-debattu-la-cnil-inflige-des-amendes-10)  
-*Source : banquedesterritoires.fr | Publication : 2026-11-10*
+## [Les <b>cybermenaces</b> qui se dessinent pour 2027 - Portail de l'assurance](https://portail-assurance.ca/article/les-cybermenaces-qui-se-dessinent-pour-2027/)  
+*Source : portail-assurance.ca | Publication : 2026-11-11*
 
-- Cybersécurité : alors que le projet de loi NIS2 est enfin débattu, la Cnil inflige des amendes à 10 collectivités Au moment où le texte transposant la directive NIS2 arrive enfin à l'Assemblée nationale, la Cnil vient de prononcer 10 sanctions financières à l'encontre de collectivités pour des manquements sur la cybersécurité.
-- Le gouvernement espère éviter la surtransposition, ce n'est pas le chemin qui se dessine.
-- La Cnil a annoncé le 9 novembre 2026 dix sanctions financières à l'encontre de collectivités territoriales et d'un établissement public, pour des manquements en matière de cybersécurité.
-- Les amendes vont de 3.000 à 20.000 euros, ce dernier montant étant le plafond de cette procédure dite "simplifiée".
+- L’intelligence artificielle (IA) agentique devrait devenir une nouvelle surface d’attaque majeure pour les cybercriminels, tandis que les chaînes d’approvisionnement en logiciels rendront les applications vulnérables aux attaques.
+- Le nombre d’attaques menées par des « essaims » d’agents d’IA devrait quadrupler au cours de la prochaine année.
+- Les hypertrucages devraient se généraliser, avec des conséquences importantes pour la sécurité.
+- Enfin, les entreprises sont plus nombreuses que jamais à accepter de payer les rançons exigées par ceux qui ont chiffré leurs données ou menacent de les exfiltrer.
 
-## [Avec l'attribution des cyberattaques contre les frigos à l'Iran, la France hausse d'un cran sa réplique](https://www.liberation.fr/societe/police-justice/avec-lattribution-des-cyberattaques-contre-les-frigos-a-liran-la-france-hausse-dun-cran-sa-replique-20261110_O2MDF7TQCJFP5FEFHMCXR4RAGQ/)  
-*Source : liberation.fr | Publication : 2026-11-10*
+## [Le parquet de Paris ouvre une enquête après la cyberattaque ayant visé l'Établissement ...](https://imazpress.com/france-monde/le-parquet-de-paris-ouvre-une-enquete-apres-la-cyberattaque-ayant-vise-l-tablissement-francais-du-sang)  
+*Source : imazpress.com | Publication : 2026-11-11*
 
-- Les autorités françaises ont attribué lundi soir les piratages de mi-octobre à une «unité cyber offensive» des Gardiens de la révolution,.
+- La cyberattaque, qui s’est déroulée mardi 3 novembre dernier, avait ciblé plusieurs équipements frigorifiques qui contenaient des échantillons de prélèvements sanguins.
+- (Photo : www.imapress.com) Une enquête a été ouverte par la section cybercriminalité du parquet de Paris après la cyberattaque ayant touché au début du mois des chambres froides de l'Établissement français du sang, a indiqué mardi le ministère public, sollicité par l'AFP.
+- Les investigations ont été confiées à l'Office anti-cybercriminalité (Ofac) et à la Direction générale de la sécurité intérieure (DGSI) pour "atteinte à un système de traitement informatisé de données".
+- Le parquet de Paris n'est pas en mesure de "confirmer à ce stade de lien avec l'affaire des frigos connectés", dans laquelle l'Iran a été mis en cause (et dont il se défend), mais "les investigations se poursuivent".
 
-## [GitLab, deux failles notées 10 en neuf jours et des serveurs autogérés attaqués trois ...](https://itsocial.fr/cybersecurite/cybersecurite-articles/gitlab-deux-failles-notees-10-en-neuf-jours-et-des-serveurs-autogeres-attaques-trois-semaines-apres-le-correctif/)  
-*Source : itsocial.fr | Publication : 2026-11-10*
+## [Une enquête ouverte après la cyberattaque des chambres froides de l'Établissement ... - Le Parisien](https://www.leparisien.fr/international/une-enquete-ouverte-apres-la-cyberattaque-des-chambres-froides-de-letablissement-francais-du-sang-pas-de-lien-avec-liran-a-ce-stade-10-11-2026-ITT6GUSS4VCQ3HUNUPGXSWHVCQ.php)  
+*Source : leparisien.fr | Publication : 2026-11-11*
 
-- Une faille de GitLab notée 10 sur 10, corrigée le 12 octobre, est exploitée en nombre depuis le 4 novembre sur les serveurs que les entreprises hébergent elles-mêmes.
-- GitLab a publié neuf jours plus tard un second correctif critique de même gravité.
-- Une forge qui concentre code, secrets de déploiement et instructions d’agents ne peut plus attendre la fenêtre de maintenance mensuelle, et l’entreprise qui l’héberge porte seule le délai entre correctif et attaque.
-- Les forges logicielles, ces plateformes qui hébergent le code, les chaînes d’intégration et de déploiement continus (CI/CD) et désormais les agents de développement, sont devenues une cible privilégiée.
+- « Seul un nombre limité d'unités Coolworld a été affecté » par « l'incident de cybersécurité » sur un logiciel de surveillance à distance des systèmes.
 
-## [Un haut responsable européen avertit: après les supermarchés, voici ce qui pourrait être la ...](https://www.lalibre.be/economie/conjoncture/2026/11/10/un-haut-responsable-europeen-avertit-apres-les-supermarches-voici-ce-qui-pourrait-etre-la-prochaine-cible-des-cyberattaques-LR5TSHVQ3VEC3G25ENFVQUAOFE/)  
-*Source : lalibre.be | Publication : 2026-11-10*
+## [Des milliers d'écoles italiennes visées par de fausses alertes à la bombe - Orange Actu](https://actu.orange.fr/monde/des-milliers-d-ecoles-italiennes-visees-par-de-fausses-alertes-a-la-bombe-CNT000002tFSJW.html)  
+*Source : actu.orange.fr | Publication : 2026-11-11*
 
-- Un haut responsable européen avertit: après les supermarchés, voici ce qui pourrait être la prochaine cible des cyberattaques Après la cyberattaque qui a frappé les réfrigérateurs de supermarchés dans plusieurs pays, les appareils électroménagers équipant les logements pourraient être la prochaine cible, a prévenu mardi Juhan Lepassaar, chef de l'agence européenne de cybersécurité (Enisa), dans un entretien à l'AFP.
-- Publié le 10-11-2026 à 19h26 - Mis à jour le 10-11-2026 à 19h29 - "La sécurité ne devrait pas et ne doit pas être reléguée au second plan.
-- Aujourd'hui c'était les frigos, demain ce pourraient être les routeurs (équipements pour les réseaux informatiques, ndlr), et après-demain les appareils ménagers domestiques, et ainsi de suite", a souligné le responsable estonien.
-- Des supermarchés d'au moins 12 pays européens ont été touchés par des cyberattaques en octobre et en novembre, la plus grave ayant eu lieu en France.
+- Des milliers d'écoles italiennes visées par de fausses alertes à la bombe Des milliers d'écoles italiennes ont reçu mercredi par mail de fausses alertes à la bombe, ayant conduit à l'évacuation de certaines d'entre elles, sans qu'aucun "danger concret" n'ait été identifié, selon la Première ministre italienne.
+- Des menaces similaires, également considérées comme de fausses alertes, ont été signalées dans des écoles au Royaume-Uni et en Irlande, entraînant, selon la presse, l'évacuation de plusieurs établissements en Écosse.
+- Environ 6.300 établissements publics ont reçu des menaces, sur les 7.476 que compte le pays, selon le ministre italien de l'Éducation Giuseppe Valditara, cité par les médias.
+- La présidente du Conseil italien Giorgia Meloni a assuré mercredi soir qu'aucune des alertes ne permettait, à ce stade, de conclure à une menace concrète.
 
-## [Qubole : des accès cloud oubliés exposent les entreprises au vol de données](https://www.lemondeinformatique.fr/cybersecurite-conformite/qubole-des-acces-cloud-oublies-exposent-les-entrep)  
-*Source : lemondeinformatique.fr | Publication : 2026-11-10*
+## [Après les supermarchés, les appareils ménagers pourraient être la prochaine cible ... - Le Parisien](https://www.leparisien.fr/high-tech/apres-les-supermarches-les-appareils-menagers-pourraient-etre-la-prochaine-cible-de-cyberattaques-selon-un-haut-responsable-europeen-10-11-2026-2PRDYW53HNHAPBIH63DGWQCMXY.php)  
+*Source : leparisien.fr | Publication : 2026-11-11*
 
-- ArticleCybersécurité & Conformité Qubole : des accès cloud oubliés exposent les entreprises au vol de données Des attaquants ont détourné les accès AWS de Qubole pour voler des secrets et des données chez plusieurs entreprises clientes.
-- Certaines avaient abandonné la plateforme sans révoquer ses autorisations.
-- Rendue publique le 9 novembre 2026, la campagne a été observée du 14 au 26 octobre.
-- Des attaquants non identifiés ont utilisé des identifiants compromis associés au compte AWS de Qubole pour s’introduire dans les environnements cloud de plusieurs clients.
+- Son directeur appelle à investir davantage dans la cybersécurité ... cybersécurité (Enisa), dans un entretien à l'AFP. «.
+- La sécurité ne devrait.
 
-## [Après les supermarchés, les appareils ménagers pourraient être la prochaine cible des ... - Le Figaro](https://www.lefigaro.fr/secteur/high-tech/apres-les-supermarches-les-appareils-menagers-pourraient-etre-la-prochaine-cible-des-cyberattaques-20261110)  
-*Source : lefigaro.fr | Publication : 2026-11-10*
+## [« C'est une stratégie pour susciter l'alarme et l'inquiétude » : alerte à la bombe dans ... - Les Echos](https://www.lesechos.fr/monde/europe/cest-une-strategie-pour-susciter-lalarme-et-linquietude-alerte-a-la-bombe-dans-des-centaines-decoles-en-italie-au-royaume-uni-et-en-irlande-2262205)  
+*Source : lesechos.fr | Publication : 2026-11-11*
 
-- Après les supermarchés, les appareils ménagers pourraient être la prochaine cible des cyberattaques «Aujourd’hui c’étaient les frigos, demain ce pourrait être les routeurs, et après-demain les appareils ménagers domestiques, et ainsi de suite», a averti Juhan Lepassaar, chef de l’agence européenne de cybersécurité (Enisa).
-- Passer la publicité Passer la publicitéAprès la cyberattaque qui a frappé les réfrigérateurs de supermarchés dans plusieurs pays, les appareils électroménagers équipant les logements pourraient être la prochaine cible, a prévenu mardi 10 novembre Juhan Lepassaar, chef de l’agence européenne de cybersécurité (Enisa), dans un entretien à l’AFP.
-- «La sécurité ne devrait pas et ne doit pas être reléguée au second plan.
-- Aujourd’hui c’étaient les frigos, demain ce pourrait être les routeurs (équipements pour les réseaux informatiques, NDLR), et après-demain les appareils ménagers domestiques, et ainsi de suite», a souligné le responsable estonien.
+- Entre cybercriminalité , effets d'émulation et éventuelles tentatives de déstabilisation géopolitique, remonter la piste des commanditaires est un.
 
-## [<b>Cybersécurité</b> : faut-il vraiment combattre l'IA par l'IA ? - ZDNET](https://www.zdnet.fr/publicite/cybersecurite-faut-il-vraiment-combattre-lia-par-lia-507479.htm)  
-*Source : zdnet.fr | Publication : 2026-11-10*
+## [Thaïlande : le gouvernement renforce ses défenses face à la multiplication des <b>cybermenaces</b>](https://lepetitjournal.com/thailande/actualites/thailande-gouvernement-renforce-defenses-multiplication-cybermenaces-458462)  
+*Source : lepetitjournal.com | Publication : 2026-11-11*
 
-- L'intelligence artificielle renforce les capacités des cybercriminels, mais ne révolutionne pas nécessairement leurs méthodes.
-- Face à cette évolution, la réponse ne consiste pas toujours à déployer davantage d'IA, mais à détecter plus efficacement les mécanismes des attaques.
-- D'un côté, il y a les craintes des entreprises face aux cybercriminels qui sont désormais armés d'intelligence artificielle.
-- Et puis de l'autre, il y a ce que les spécialistes de la cybersécurité observent réellement sur le terrain.
+- Face aux cybermenaces, la Thaïlande renforce la protection de ses infrastructures numériques et coordonne sa réponse avec les géants technologiques et les agences de sécurité.
+- La Thaïlande renforce sa vigilance face aux cybermenaces.
+- Le ministre de l'Économie et de la Société numériques, Chaichanok Chidchob, devait rencontrer des représentants d'Apple mercredi 11 novembre 2026 afin de discuter des moyens de renforcer la cybersécurité du royaume.
+- Le gouvernement prévoit également d'engager des discussions avec Google et Line, deux acteurs majeurs des communications numériques.
 
-## [Atos et l'Inria nouent un partenariat stratégique de projets de recherche dans un ensemble ...](https://www.boursier.com/actions/actualites/news/atos-et-l-inria-nouent-un-partenariat-strategique-de-projets-de-recherche-dans-un-ensemble-de-domaine-ia-robotique-cybersecurite-997996.html)  
-*Source : boursier.com | Publication : 2026-11-10*
+## [Décrypt'innov #9 : La <b>cybersécurité</b> - Le Dauphiné Libéré](https://www.ledauphine.com/culture-loisirs/2026/11/11/decrypt-innov-9-la-cybersecurite)  
+*Source : ledauphine.com | Publication : 2026-11-11*
 
-- Atos et l'Inria nouent un partenariat stratégique de projets de recherche dans un ensemble de domaine (IA, robotique, cybersécurité ...) Par La.
+- Connectez-vous ou créez un compte Pour pouvoir enregistrer un article, un compte est nécessaire.
+- Se connecter ou créer un compteLe Dauphiné Libéré, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de votre compte, ainsi que des abonnements et autres services souscrits.
+- Si vous y avez consenti, ces données peuvent également être utilisées pour l’envoi de newsletters et/ou d’offres promotionnelles par Le Dauphiné Libéré, les sociétés qui lui sont affiliées et/ou ses partenaires commerciaux.
+- Vous pouvez exercer en permanence vos droits d’accès, rectification, effacement, limitation, opposition, retirer votre consentement et/ou pour toute question relative au traitement de vos données à caractère personnel en contactant LDLABOWEB@ledauphine.com ou consulter les liens suivants : Protection des données, CGU du site et Contact.
 
-## [Save the Children protège sa mission grâce à la <b>cybersécurité</b> de CrowdStrike](https://www.crowdstrike.com/fr-fr/resources/customer-stories/save-the-children-protects-its-mission-crowdstrike-cybersecurity/)  
-*Source : crowdstrike.com | Publication : 2026-11-10*
+## [Frigos, routeurs, appareils électroménagers : pourquoi l'Europe redoute d'autres cyberattaques - RTL](https://www.rtl.fr/actu/sciences-tech/frigos-routeurs-appareils-electromenagers-pourquoi-l-europe-redoute-d-autres-cyberattaques-7900695119)  
+*Source : rtl.fr | Publication : 2026-11-11*
 
-- CrowdStrike aide Save the Children à défendre sa mission face aux cybermenaces Défis Activités dans des régions à haut risque avec des ressources de sécurité limitées et des cybermenaces constantes - Besoin d'une visibilité en temps réel pour 24 000 utilisateurs (personnel, bénévoles et partenaires) - Incapacité à détecter et à répondre rapidement et de manière proactive aux cybermenaces - Résultats Réduction du délai moyen de réponse de plusieurs jours à moins de 70 minutes avec Falcon Complete - Visibilité en temps réel sur le comportement des utilisateurs de 24 000 comptes - Réponse à incident simplifiée avec des workflows automatisés et une surveillance 24 h/24 et 7 j/7 - Protection renforcée des données sensibles dans les régions à haut risque, contribuant à protéger des vies - Solutions CrowdStrike Falcon® Insight XDR pour la détection et la réponse étendues - Détection et intervention managées nouvelle génération de Falcon Complete - Falcon Cloud Security - Falcon Next-Gen Identity Security - Falcon Spotlight - Falcon® Adversary OverWatch™ - Pour la plupart des organisations, la cybersécurité consiste à protéger les données et à assurer la continuité de l'activité.
-- Mais pour Save the Children, protéger les systèmes numériques signifie protéger les enfants vulnérables et le personnel contre les cybermenaces qui pourraient mettre leur vie en danger.
-- Save the Children International, l’une des plus grandes organisations mondiales de défense des droits de l’enfant, opère dans 113 pays et compte plus de 18 000 employés.
-- La mission de l’organisation est simple, mais d’une envergure considérable : améliorer la vie des enfants grâce à l’éducation, à des programmes de santé et à la défense de leurs droits.
-
-## [IA, mails, télé, <b>cybersécurité</b>… Orange lance une «super-app» mobile pour réunir tous ses services](https://www.lefigaro.fr/secteur/high-tech/ia-mails-tele-cybersecurite-orange-lance-une-super-app-mobile-pour-reunir-tous-ses-services-20261110)  
-*Source : lefigaro.fr | Publication : 2026-11-10*
-
-- IA, mails, télé, cybersécurité… Orange lance une «super-app» mobile pour réunir tous ses services DÉCRYPTAGE - L’opérateur mise sur une nouvelle application donnant accès à l’ensemble des modèles d’IA du marché, aux côtés de ses services traditionnels.
-- L’entreprise ouvre également son écosystème à des fournisseurs de services tiers.
-- Passer la publicité«On ne se refait pas.».
-- À la tête d’Orange France depuis le 1er juin 2025, Jérôme Hénique n’a pu retenir un sourire, mardi, lors du lancement de la «super-app» de l’opérateur télécoms.
-
-## [<b>Cybersécurité</b> des PME : quand l'empilement d'outils devient un risque structurel | ESET](https://www.eset.com/fr/about/newsroom/conseils/conseils/cybersecurite-pme-risques-empilement-outils/)  
-*Source : eset.com | Publication : 2026-11-10*
-
-- Par Benoit Grunemwald, Expert en cybersécurité La cybersécurité des PME s’est construite pendant longtemps par couches successives, au gré des évolutions technologiques.
-- Ce qui s'est souvent traduit par un antivirus d'abord, puis un pare-feu plus robuste jusqu'à une solution EDR.
-- Et le schéma s'est souvent répété tant sur la messagerie que sur la sauvegarde ou la protection des accès distants.
-- À chaque nouvelle menace ou exigence, une solution supplémentaire est venue s’ajouter à l’existant.
-
-## [Chaque voix compte - <b>Cybersécurité</b> : la France a-t-elle un train de retard ? | LCP](https://lcp.fr/programmes/chaque-voix-compte/cybersecurite-la-france-a-t-elle-un-train-de-retard-443996)  
-*Source : lcp.fr | Publication : 2026-11-10*
-
-- Aller au contenu principal Menu recherche mobile Recherche Direct En direct Recherche Écrit le - Tout - 7 jours 1 an Plus d'un an Menu Menu sitemap Actualités Dossiers Loi intégrale contre les violences sexuelles et sexistes Budget 2027 Présidentielle 2027 Tous les dossiers Replays Documentaires Émissions A-Z Questions au gouvernement Podcasts Guide Programme La chaîne Qui sommes-nous ?.
-- La gouvernance Une chaîne, une équipe LCP en chiffres Contenus et programmes de LCP Regarder LCP | Chaînes et fréquences Tous les présentateurs Rejoignez-nous Marchés publics et Mises en concurrence Prix photo politique Espace Presse Accueil presse Communiqués de presse Vidéothèque Temps forts Dossiers de presse Phototélé Fil d'Ariane Accueil - Émissions A-Z - Chaque voix compte - Cybersécurité : la France a-t-elle un train de retard ?.
-- Back to top Pour voir cette vidéo, vous devez préalablement accepter les cookies "Vidéo".
-- La vidéo de ce programme sera bientôt disponible Image Chaque voix compte - Cybersécurité : la France a-t-elle un train de retard ?.
-
-## [<b>Cybersécurité</b>: renforcer la résilience et la protection des infrastructures | 11-11-2026](https://www.europarl.europa.eu/news/fr/agenda/plenary-news/2026-11-11/2/cybersecurite-renforcer-la-resilience-et-la-protection-des-infrastructures)  
-*Source : europarl.europa.eu | Publication : 2026-11-10*
-
-- JavaScript is disabled In order to continue, we need to verify that you're not a robot.
-- This requires JavaScript.
-- Enable JavaScript and then reload the page.
-
-## [<b>Cybersécurité</b> : les chauffages et climatisations dans le viseur des pirates - Orange Actu](https://actu.orange.fr/france/cybersecurite-les-chauffages-et-climatisations-dans-le-viseur-des-pirates-l-express-via-6medias-CNT000002tEvLs.html)  
-*Source : actu.orange.fr | Publication : 2026-11-10*
-
-- Cybersécurité : les chauffages et climatisations dans le viseur des pirates ?.
-- © Un radiateur (Illustration).
-- Selon un expert en cybersécurité interrogé par 20 Minutes, les systèmes de chauffage pourraient bien être la nouvelle proie des pirates, avec des conséquences à différentes échelles selon les structures visées.
-- Après les frigos connectés, les système de chauffage d'immeubles seront-ils les prochains équipements à faire les frais de cyberattaques ?.
-
-## [&quot;La <b>cybersécurité</b> n'est pas bon marché&quot;: après la cyberattaque contre les réfrigérateurs de...](https://x.com/bfmbusiness/status/2120214306415632547)  
-*Source : x.com | Publication : 2026-11-10*
-
-- BFM Business@bfmbusinessShow translation"La cybersécurité n'est pas bon marché": après la cyberattaque contre les réfrigérateurs de supermarchés, les routeurs et appareils ménagers pourraient être la prochaine cible, prévient le chef de l'agence européenne de cybersécurité"La cybersécurité n'est pas bon marché": après la cyberattaque contre les réfrigérateurs de...From bfmtv.com5:57 PM · Nov 10, 2026·1,482Views12.
-
-## [&quot;La <b>cybersécurité</b> n'est pas bon marché&quot;: après la cyberattaque contre les réfrigérateurs de ...](https://www.bfmtv.com/tech/cybersecurite/la-cybersecurite-n-est-pas-bon-marche-apres-la-cyberattaque-contre-les-refrigerateurs-de-supermarches-les-routeurs-et-appareils-menagers-pourraient-etre-la-prochaine-cible-previent-le-chef-de-l-agence-europeenne-de-cybersecurite_AD-202611100781.html)  
-*Source : bfmtv.com | Publication : 2026-11-10*
-
-- "La cybersécurité n'est pas bon marché": après la cyberattaque contre les réfrigérateurs de supermarchés, les routeurs et appareils ménagers pourraient être la prochaine cible, prévient le chef de l'agence européenne de cybersécurité Après la cyberattaque qui a frappé les réfrigérateurs de supermarchés dans plusieurs pays, d'autres appareils pourraient-ils être ciblés?.
-- Juhan Lepassaar, chef de l'agence européenne de cybersécurité (Enisa), en a bien peur.
-- Dans un entretien à l'AFP, il alerte sur le danger que les appareils électroménagers équipant les logements soient la prochaine cible.
+- En Direct 2 min de lecture Après la cyberattaque qui a frappé les réfrigérateurs de supermarchés dans plusieurs pays, les appareils électroménagers équipant les logements pourraient être la prochaine cible, a prévenu mardi 10 novembre Juhan Lepassaar, chef de l'agence européenne de cybersécurité (Enisa), dans un entretien à l'AFP.
 - "La sécurité ne devrait pas et ne doit pas être reléguée au second plan.
+- Aujourd'hui c'était les frigos, demain ce pourraient être les routeurs (équipements pour les réseaux informatiques, ndlr), et après-demain les appareils ménagers domestiques, et ainsi de suite", a souligné le responsable estonien.
+- Des supermarchés d'au moins 12 pays européens ont été touchés par des cyberattaques en octobre et en novembre, la plus grave ayant eu lieu en France, pour laquelle les autorités ont pointé l'implication du régime iranien.
+
+## [Cyberattaques : après les supermarchés, les pirates pourraient s'inviter dans nos cuisines et ...](https://www.francetransactions.com/actus/actualites-socio-economiques/objets-connectes-hacking.html)  
+*Source : francetransactions.com | Publication : 2026-11-11*
+
+- Cyberattaques : après les supermarchés, les pirates pourraient s’inviter dans nos cuisines et nos chambres 🎁 Bon plan épargne sans risque : Taux de 3.50% pendant 12 mois BforBank (Groupe Crédit Agricole) propose à ses nouveaux clients épargne de bénéficier, pendant 12 mois, d’un taux boosté de 3.50% brut sur le livret épargne Bfor+, dans la limite de 300.000 euros versés, sous conditions.
+- Ce livret épargne peut être souscrit sans aucune offre bancaire payante sur le compte courant.
+- Les objets connectés ont envahi nos logements.
+- Réfrigérateurs, téléviseurs, caméras de surveillance, assistants vocaux, thermostats, serrures intelligentes.
+
+## [Séoul estime que les vols de cryptomonnaies ont des implications importantes pour la ...](https://fr.yna.co.kr/view/AFR20261111002100884)  
+*Source : fr.yna.co.kr | Publication : 2026-11-11*
+
+- Séoul estime que les vols de cryptomonnaies ont des implications importantes pour la sécurité internationale SEOUL, 11 nov.
+- (Yonhap) -- Un haut diplomate sud-coréen a affirmé que les récents vols de cryptomonnaies avaient des implications sérieuses pour la sécurité mondiale, appelant dès lors à un changement de paradigme sur le plan de la cybersécurité afin d'être mieux préparé au risque d'attaques réalisées à l'aide de l'intelligence artificielle (IA).
+- Selon le ministère des Affaires étrangères, son vice-ministre en charge de la stratégie et du renseignement, Jeong Yeon-doo, a tenu ces propos hier lors d'une conférence sur la cybersécurité qui s'est tenue à Vienne, en Autriche, à l'initiative de la Corée du Sud et de l'Organisation pour la sécurité et la coopération en Europe (OSCE).
+- La plate-forme d'échange de cryptomonnaies Binance a été victime le mois dernier d'une attaque qui aurait permis aux auteurs de dérober l'équivalent de 6,3 milliards de dollars, et la Corée du Nord est suspectée d'être derrière ce coup.
+
+## [Après les menaces d'alertes à la bombe, l'Italie veut rassurer et renforcer sa <b>cybersécurité</b>](https://www.lefigaro.fr/international/apres-les-menaces-d-alertes-a-la-bombe-l-italie-veut-rassurer-et-renforcer-sa-cybersecurite-20261111)  
+*Source : lefigaro.fr | Publication : 2026-11-11*
+
+- Après les menaces d’alertes à la bombe, l’Italie veut rassurer et renforcer sa cybersécurité DÉCRYPTAGE - Alors que des milliers d’écoles publiques italiennes ont été la cible d’alertes à la bombe, Giorgia Meloni et ses ministres étaient sur le pont pour tenter d’apaiser l’opinion publique.
+- Passer la publicitéPetit vent de panique ce matin aux quatre coins de l’Italie : plus de 6000 écoles publiques du pays ont été la cible d’alertes à la bombe.
+- De Milan à Rome en passant par Turin, Palerme ou Trieste, tous ces établissements ont reçu dans la matinée de mercredi un email affirmant qu’un engin explosif télécommandé avait été déposé sur place, caché dans un sac plastique, contraignant les directeurs à faire évacuer des milliers d’élèves à travers toute la Péninsule.
+- Il y a dix jours déjà, plusieurs centaines d’écoles avaient été visées par une menace similaire, proférée par un expéditeur se revendiquant du « Corps des gardiens de la révolution islamique ».
+
+## [Togo Cyber Arena : le Togo mobilise les acteurs du numérique face aux <b>cybermenaces</b>](https://www.togofirst.com/fr/tic/1111-20605-togo-cyber-arena-le-togo-mobilise-les-acteurs-du-numerique-face-aux-cybermenaces)  
+*Source : togofirst.com | Publication : 2026-11-11*
+
+- (Togo First) - Au Togo, les acteurs publics et privés du numérique sont appelés à renforcer leur mobilisation face à la progression des cybermenaces.
+- C’est dans cette perspective que l’Agence nationale de la cybersécurité (ANCy) organise, les 19 et 20 novembre 2026 à Lomé, la première édition de Togo Cyber Arena.
+- L’événement a été présenté à la presse le 10 novembre, en présence de représentants de l’ANCy, de Cyber Defense Africa (CDA) et de la GIZ. «.
+- Aujourd'hui, c'est devenu un classique pour tous les pays du monde.
+
+## [Gemini 4 Carbon disponible : Google lance enfin son IA la plus puissante, mais il faudra ...](https://www.journaldugeek.com/2026/11/11/gemini-4-carbon-disponible-google-lance-enfin-son-ia-la-plus-puissante-mais-il-faudra-payer-cher-pour-lutiliser/)  
+*Source : journaldugeek.com | Publication : 2026-11-11*
+
+- Après l’avoir annoncé il y a deux semaines, Google lance enfin le modèle Gemini 4 Carbon, qui permet à la firme de Mountain View de faire partie des meilleurs laboratoires d’intelligence artificielle dans le monde.
+- En effet, cette nouvelle version de Gemini est, selon Artificial Analysis, la seconde meilleure IA du marché, après le modèle Claude Fable 5.2 qu’Anthropic vient de lancer.
+- En tout cas, grâce à Gemini 4 Carbon, Google propose désormais un modèle que ses clients peuvent utiliser pour gérer les tâches les plus complexes, que ce soit en codage, ou dans des domaines tels que le droit ou la finance.
+- “Carbon est notre modèle le plus performant, offrant des capacités de pointe en matière de cybersécurité et des flux de travail autonomes à long terme dans les domaines du travail intellectuel complexe, de l’ingénierie logicielle et du raisonnement scientifique”, explique Google.
+
+## [« C'est une réalité » : vos appareils électroménagers risquent aussi des cyberattaques, voici ...](https://actu.fr/societe/c-est-une-realite-vos-appareils-electromenagers-risquent-aussi-des-cyberattaques-voici-comment-vous-proteger_65043750.html)  
+*Source : actu.fr | Publication : 2026-11-11*
+
+- Et si votre réfrigérateur, votre machine à laver ou encore vos autres appareils connectés devenaient les prochaines cibles des pirates informatiques ?.
+- C’est en tout cas le risque pointé par Juhan Lepassaar, directeur exécutif de l’Agence de l’Union européenne pour la cybersécurité, dans un entretien accordé à l’AFP mardi 10 novembre 2026. «.
+- La sécurité ne devrait pas être reléguée au second plan.
+- Aujourd’hui c’était les frigos, demain ce pourraient être les routeurs (équipements pour les réseaux informatiques, ndlr), et après-demain les appareils ménagers domestiques, et ainsi de suite. ».
+
+## [Appareils connectés : un expert en <b>cybersécurité</b> donne deux conseils face au risque de ...](https://www.tf1info.fr/high-tech/reportage-appareils-connectes-un-expert-en-cybersecurite-donne-deux-conseils-face-au-risque-de-piratage-a-domicile-2475239.html)  
+*Source : tf1info.fr | Publication : 2026-11-11*
+
+- Après plusieurs cyberattaques qui ont visé la France, les appareils électroménagers équipant les logements pourraient être la prochaine cible, s'inquiètent des experts.
+- - Quelques conseils simples à appliquer permettent de s'en prémunir, explique ce reportage du JT de TF1.
+- - Pour faire sa liste de courses, Thomas utilise toujours sa tablette connectée.
+- Depuis cet appareil il peut même piloter sept autres objets numériques.
