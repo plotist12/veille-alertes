@@ -1,161 +1,151 @@
-# Résumés – 2026-11-15
+# Résumés – 2026-11-16
 
 
-## [<b>Cybersécurité</b> : la France et le Ghana renforcent le dialogue international sur la régulation ...](https://gh.diplomatie.gouv.fr/fr/cybersecurite-la-france-et-le-ghana-renforcent-le-dialogue-international-sur-la-regulation-des-0)  
-*Source : gh.diplomatie.gouv.fr | Publication : 2026-11-15*
+## [Piratage des impôts, le téléphone de sa mère le trahit, les policiers visés chez eux](https://frenchbreaches.com/blog/piratage-des-impots-le-telephone-de-sa-mere-le-trahit-les-policiers-vises-chez-eux)  
+*Source : frenchbreaches.com | Publication : 2026-11-16*
 
-- Actualité Cybersécurité : la France et le Ghana renforcent le dialogue international sur la régulation des capacités d’intrusion cyber Accra, le 3 novembre 2026 – Le Ghana et la France, avec le soutien de l’Union européenne, ont organisé un symposium consacré à la « Gouvernance des capacités commerciales d’intrusion cyber » (Commercial Cyber Intrusion Capabilities – CCICs), réunissant de nombreux représentants de gouvernements africains, du secteur privé, du monde universitaire et de la société civile.
-- Publié le 13 novembre 2026 Ce symposium avait pour objectif d’aborder les menaces cyber qui pèsent sur la sécurité et la stabilité de nos économies, ainsi que sur la vitalité de nos démocraties.
-- Cet événement de haut niveau, organisé par Expertise France, l’agence française de coopération technique internationale, la Cyber Security Authority du Ghana et le ministère français de l’Europe et des Affaires étrangères, a rassemblé 70 experts issus de 22 pays, en marge du Forum africain sur la gouvernance de l’Internet (Africa Internet Governance Forum).
-- Il marque une nouvelle étape concrète dans le renforcement de la coopération stratégique entre l’Afrique et l’Union européenne.
+- CYBERCRIMINALITÉ — Deux jeunes Français de 18 et 16 ans sont soupçonnés d'être impliqués dans le piratage de l'administration fiscale, qui a exposé les données de plus de 678 000 particuliers et professionnels.
+- Une simple connexion depuis le téléphone de la mère de l'un des suspects aurait permis aux enquêteurs de remonter jusqu'à lui.
+- Mais l'affaire a pris une tournure particulièrement inquiétante : des policiers spécialisés dans la cybercriminalité auraient été menacés, tandis que d'autres ont subi des coupures d'électricité, de gaz et d'Internet à leur domicile.
+- Le téléphone de sa mère aurait permis de le retrouver C'est une erreur qui aurait fait basculer l'enquête sur l'un des piratages les plus embarrassants pour l'État français.
 
-## [<b>Cybersécurité</b> : Rabat accueille une initiative africaine dédiée au leadership féminin](https://fnh.ma/articles/cybersecurite-rabat-accueille-une-initiative-africaine-dediee-au-leadership-feminin)  
-*Source : fnh.ma | Publication : 2026-11-14*
+## [Redwood AI Corp. (CVE:AIRX) | - WebDisclosure](http://www.webdisclosure.com/article/redwood-ai-corp-cve-airx-redwood-ai-corp-ameliore-sa-plateforme-de-cybersecurite-quantique-pour-la-conformite-aux-normes-de-defense-hFLOR6NgG7x)  
+*Source : webdisclosure.com | Publication : 2026-11-15*
 
-- Cybersécurité : Rabat accueille une initiative africaine dédiée au leadership féminin La ville de Rabat accueillera, du 16 au 20 novembre, la semaine "ECOWAS Women in Cybersecurity", une initiative régionale visant à promouvoir le leadership des femmes africaines dans le domaine de la cybersécurité et à renforcer leurs compétences, a annoncé la Direction générale de la sécurité des systèmes d'information (DGSSI).
-- Mobilisant la DGSSI, Smart Africa et la Banque mondiale, cet événement ambitionne également de favoriser la participation des femmes africaines aux instances de réflexion stratégique et de décision, ainsi qu'à l'élaboration et à la mise en œuvre des stratégies nationales et régionales de cybersécurité, précise la DGSSI dans un communiqué.
-- Portée par la Communauté Economique des États de l'Afrique de l'Ouest (CEDEAO), cette initiative réunira des représentants de plusieurs institutions ainsi que des professionnelles de la cybersécurité issues de différents pays africains, fait savoir la même source.
-- La cérémonie officielle d'ouverture sera marquée par une allocution du Général de Brigade, Abdellah Boutrig, Vice-Président du Réseau Africain des Autorités de Cybersécurité (ANCA) et Directeur général de la DGSSI, note le communiqué, ajoutant que sur cinq jours, le programme associera conférences stratégiques, sessions techniques, exercices pratiques, simulations de cybercrises et échanges d'expériences entre participantes et experts internationaux.
+- on Redwood AI Corp. (CVE:AIRX) Redwood AI Corp. améliore sa plateforme de cybersécurité quantique pour la conformité aux normes de défense Redwood AI Corp. a annoncé son intention d'étendre sa plateforme de cybersécurité post-quantique Quantum.IQ afin de répondre aux exigences de conformité des secteurs de la défense canadien et américain.
+- Ces mises à jour aideront les organisations à se conformer aux exigences des programmes CPCSC du Canada et CMMC des États-Unis.
+- Ces programmes imposent des normes de cybersécurité aux entités participant aux opérations gouvernementales et de défense.
+- L'entreprise se concentre sur le développement de fonctionnalités facilitant la conformité de niveau 1, en aidant les utilisateurs à maintenir leurs contrôles de cybersécurité et à constituer les preuves de conformité.
 
-## [pourquoi des vidéos virales sur les réseaux sociaux annoncent-elles «un black-out mondial](https://lareleve.ma/211390/)  
-*Source : lareleve.ma | Publication : 2026-11-14*
+## [Fausses factures, mails frauduleux : quelles arnaques redouter après le piratage de Maileva ... - ici.fr](https://www.ici.fr/infos/faits-divers-justice/fausses-factures-mails-frauduleux-quelles-arnaques-redouter-apres-le-piratage-de-maileva-7899463)  
+*Source : ici.fr | Publication : 2026-11-15*
 
-- Cybersécurité : pourquoi des vidéos virales sur les réseaux sociaux annoncent-elles «un black-out mondial» le 17 novembre ?.
-- lareleve.ma.
-- 14.
+- Fausses factures, mails frauduleux : quelles arnaques redouter après le piratage de Maileva, filiale de La Poste ?.
+- Publié le Le vol de données chez Maileva, filiale du groupe La Poste, pourrait ouvrir la voie à des escroqueries ciblées.
+- Faux courriers, messages frauduleux, relances de paiement : à quels pièges les personnes concernées doivent-elles se préparer ?.
+- C’est l’une des cyberattaques les plus importantes commises en France.
 
-## [Libye/Egypte : Saddam Haftar reçu par le chef des renseignements généraux égyptiens](https://fr.apanews.net/diplomacy/libye-egypte-saddam-haftar-recu-par-le-chef-des-renseignements-generaux-egyptiens/)  
-*Source : fr.apanews.net | Publication : 2026-11-14*
+## [<b>Cybersécurité</b> : 10 actualités majeures du 15 novembre 2026 (dont ANSSI)](https://dcod.ch/2026/11/15/cybersecurite-10-actualites-majeures-du-15-novembre-2026-dont-anssi/)  
+*Source : dcod.ch | Publication : 2026-11-15*
 
-- Le chef des renseignements généraux égyptiens, le ministre Hassan Rachad, a reçu vendredi 13 novembre au Caire le vice-commandant en chef de l’armée libyenne, le général de corps d’armée Saddam Haftar.
-- Lors de cet échange, les deux parties ont examiné la coopération entre les deux pays dans différents dossiers d’intérêt commun, ainsi que la mise en place d’un mécanisme de travail visant à activer les différents projets stratégiques et économiques conjoints entre l’Egypte et la Libye, selon le média local Al Qahera News.
-- L’entretien a également porté sur les moyens de faire avancer le processus politique en vue d’unifier le pouvoir politique et de parvenir à l’organisation d’élections en Libye, ajoute la source.
-- Cette rencontre s’inscrit dans le cadre de l’ouverture du Caire à l’ensemble des parties libyennes concernées et de ses efforts visant à préserver l’unité et l’intégrité de l’Etat libyen.
+- Faits marquants de la semaine La France attribue aux Gardiens de la révolution iraniens (IRGC-ECC) des sabotages informatiques visant des réfrigérateurs de supermarchés les 11 et 12 octobre, avec 700 sites touchés, des denrées jetées et plusieurs incendies.
+- - Aux États-Unis, un élu affirme que Nvidia lui a indiqué en privé qu’un suivi géographique des puces d’intelligence artificielle, envisagé par le « Chip Security Act » contre la contrebande vers la Chine, serait techniquement réalisable.
+- - Une panne Microsoft a perturbé Microsoft 365, Outlook, Teams et Copilot le 12 novembre, avec plus de 97’000 incidents Outlook signalés à 14h07 (heure de l’Est) et un impact sur les connecteurs OpenAI et Anthropic vers Microsoft 365.
+- - Le FBI examine si une mise à jour logicielle est à l’origine d’une panne ayant immobilisé des vols aux États-Unis, selon Bloomberg, tout en estimant qu’une cyberattaque ou un acte criminel n’est pas en cause à ce stade.
 
-## [Cyberattaque sur une filiale de La Poste : 22 millions de personnes touchées par un vol de données](https://www.lesechos.fr/tech-medias/hightech/cyberattaque-sur-une-filiale-de-la-poste-22-millions-de-personnes-touchees-par-un-vol-de-donnees-2262680)  
-*Source : lesechos.fr | Publication : 2026-11-14*
+## [<b>Cybersécurité</b>: les FAR déjouent plus de 2 150 tentatives de cyberattaques | le360.ma](https://fr.le360.ma/politique/cybersecurite-les-far-dejouent-plus-de-2-150-tentatives-de-cyberattaques_JFDNCZDFOJHDHE7A6TCM5GJIKM/)  
+*Source : fr.le360.ma | Publication : 2026-11-15*
 
-- Avec AFP.
-- Les Echos.
-- Thématiques associées.
-- La Poste Cybersécurité.
+- Le ministre délégué chargé de l’Administration de la Défense nationale, Abdellatif Loudyi, a indiqué que la Direction générale de la sécurité des systèmes d’information (DGSSI) a détecté, de manière proactive, 2 154 tentatives de cyberattaques contre les systèmes d’information des ministères, des établissements publics et des infrastructures.
+- S’exprimant récemment devant la Commission des affaires étrangères de la Chambre des représentants, il a souligné que le centre de veille, de détection et de riposte aux cyberattaques a publié, en 2026, 968 bulletins de sécurité, dont 373 à caractère critique.
+- Le ministre délégué a précisé que ce centre a intensifié ses efforts et ses interventions dans le domaine de la prévention et de la détection des menaces.
+- «Le nombre de signalements a atteint 419 incidents cybernétiques, qui ont nécessité 123 interventions directes entre janvier et septembre 2026», rapporte Assabah du16 novembre.
 
-## [La filiale du groupe français La Poste confirme avoir subi un piratage massif mi-septembre ...](https://www.facebook.com/blickfr/posts/la-filiale-du-groupe-français-la-poste-confirme-avoir-subi-un-piratage-massif-mi/1512810757570845/)  
-*Source : facebook.com | Publication : 2026-11-14*
+## [La brigade <b>cybercriminalité</b> saisie de l'enquête après l'attaque massive d'une filiale de La Poste](https://www.bfmtv.com/police-justice/la-brigade-cybercriminalite-saisie-de-l-enquete-apres-l-attaque-massive-d-une-filiale-de-la-poste_AD-202611150406.html)  
+*Source : bfmtv.com | Publication : 2026-11-15*
 
-- cybersécurité les plus graves de son histoire récente.
-- Une intrusion ... cybercriminalité.
-- Hugues Lab and 6 others.
-- 7 reactions ·.
+- La brigade cybercriminalité saisie de l'enquête après l'attaque massive d'une filiale de La Poste La Brigade de lutte contre la cybercriminalité est chargée de l'enquête sur la cyberattaque massive mi-septembre visant Maileva, filiale du groupe La Poste, a confirmé ce dimanche 15 novembre le parquet de Paris, sollicité par l'AFP.
+- Les investigations ont été ouvertes pour "atteinte à un système de traitement automatisé de données" par la section cybercriminalité du parquet parisien et confiées à la BL2C, service d'enquête spécialisé.
+- Dès samedi soir, La Poste indiquait à l'AFP qu'"une enquête judiciaire" était "en cours".
+- Cette cyberattaque, une des plus importantes commises en France, a conduit au vol des coordonnées de 22 millions de personnes, selon La Poste.
 
-## [Une filiale de La Poste victime d'une cyberattaque : 22 millions de personnes touchées par ...](https://www.midilibre.fr/2026/11/14/une-filiale-de-la-poste-victime-dune-cyberattaque-22-millions-de-personnes-touchees-par-lune-des-plus-importantes-fuites-de-donnees-en-france-13653060.php)  
-*Source : midilibre.fr | Publication : 2026-11-14*
+## [Les Philippines renforcent la <b>cybersécurité</b> en vue du Sommet de l'ASEAN](https://fr.vietnamplus.vn/les-philippines-renforcent-la-cybersecurite-en-vue-du-sommet-de-lasean-post271150.vnp)  
+*Source : fr.vietnamplus.vn | Publication : 2026-11-15*
 
-- Une filiale de La Poste victime d’une cyberattaque : 22 millions de personnes touchées par "l’une des plus importantes fuites de données en France" Une plainte a été déposée par Maileva, une filiale du groupe La Poste, après que les données de 22 millions de personnes ont fuité.
-- La filiale a en effet été visée par une cyberattaque à la mi-septembre dernier.
-- Maileva, filiale du groupe La Poste, a été victime d’une cyberattaque mi-septembre ayant conduit au vol des coordonnées de 22 millions de personnes, a annoncé La Poste ce samedi 14 novembre à l’AFP.
-- Maileva "a notifié la Commission nationale de l’informatique et des libertés (CNIL) et déposé une plainte.
+- Manille (VNA) – Le gouvernement philippin a expliqué que le ralentissement de la connexion Wi-Fi au Centre de presse international, installé au Centre international des médias de Manille pour le 49e Sommet de l’ASEAN, était dû au renforcement des mesures de cybersécurité.
+- Cette situation a perturbé le travail des journalistes philippins et étrangers couvrant l’événement.
+- Le ministère philippin des Technologies de l’information et de la communication (DICT) a indiqué que des couches de sécurité supplémentaires avaient été mises en place afin de protéger les utilisateurs et de prévenir les intrusions dans le réseau.
+- Selon son ministre, Robert Joseph de Claro, le ministère a effectué des contrôles de sécurité supplémentaires et appliqué des procédures strictes pendant le sommet.
 
-## [<b>Cybersécurité</b>. Cyberattaque: vol de données chez une filiale de la Poste française](https://www.laliberte.ch/articles/cyberattaque-vol-de-donnees-chez-une-filiale-de-la-poste-francaise-1486836)  
-*Source : laliberte.ch | Publication : 2026-11-14*
+## [<b>Cybersécurité</b> : le groupe Lazarus du Nord aurait ciblé 30 serveurs au Sud, selon CYFIRMA](https://fr.yna.co.kr/view/MYH20261115012500884?section=video/videos)  
+*Source : fr.yna.co.kr | Publication : 2026-11-15*
 
-- Maileva, filiale du groupe La Poste françiase, a été victime d'une cyberattaque mi-septembre ayant conduit au vol des coordonnées de 22 millions de personnes, a annoncé La Poste samedi à l'AFP.
-- Maileva "a notifié la Commission nationale de l'informatique et des libertés (CNIL) et déposé une plainte.
-- Une enquête judiciaire est en cours", a ajouté La Poste, confirmant des informations données par le site cyberattaque.org, pour qui il s'agit de "l'une des plus importantes fuites de données en France".
-- Plateforme spécialisée dans l'envoi de courriers professionnels pour les PME et les entreprises de taille intermédiaire (bulletins de paie, recommandés, factures, convocations d'assemblées générales...), Maileva est une filiale de Docaposte, elle-même filiale du groupe La Poste.
+- Cybersécurité : le groupe Lazarus du Nord aurait ciblé 30 serveurs au Sud, selon CYFIRMA 15.11.2026 à 16h51 replay time00:44 SEOUL, 15 nov.
+- -- Le groupe de hackers nord-coréen Lazarus aurait ciblé une trentaine de serveurs sud-coréens des secteurs public, financier et des télécommunications, en exploitant une vulnérabilité du langage de programmation PHP utilisé pour les serveurs Web, selon un rapport publié par la société internationale de cybersécurité CYFIRMA et actualisé au début du mois sous le titre «Exploitation malveillante de la vulnérabilité PHP2Shell».
+- D'après des échanges entre des hackers sur le Dark Web, le groupe a commencé à rechercher des cibles le 28 octobre.
+- Les pirates ont ensuite partagé les résultats de leurs recherches, estimant que «certaines plages d'adresses IP en Corée du Sud, au Japon, aux Etats-Unis, en Thaïlande, en Indonésie et en Inde pourraient constituer des cibles potentielles».
 
-## [<b>Cybersécurité</b>: Rabat accueille une initiative dédiée aux femmes africaines - APAnews](https://fr.apanews.net/security/cybersecurite-rabat-accueille-une-initiative-dediee-aux-femmes-africaines/)  
-*Source : fr.apanews.net | Publication : 2026-11-14*
+## [Panne Microsoft 365, de faux e-mails menacent d'effacer la boîte mail sous 24 h](https://pasqualepillitteri.it/fr/news/33748/panne-microsoft-365-faux-e-mails-effacer-boite-mail-24-h)  
+*Source : pasqualepillitteri.it | Publication : 2026-11-15*
 
-- La ville de Rabat accueillera, du 16 au 20 novembre 2026, l’initiative « ECOWAS Women in Cybersecurity »,, un programme de renforcement des capacités destiné aux femmes professionnelles de la cybersécurité issues de la région de la Communauté économique des États de l’Afrique de l’Ouest (CEDEAO).
-- L’initiative régionale vise à promouvoir le leadership des femmes africaines dans le domaine de la cybersécurité et à renforcer leurs compétences, selon la Direction générale de la sécurité des systèmes d’information du Maroc (DGSSI).
-- Mobilisant la DGSSI, Smart Africa et la Banque mondiale, cet événement a pour objectif de favoriser la participation des femmes africaines aux instances de réflexion stratégique et de décision, ainsi que l’élaboration et la mise en œuvre des stratégies nationales et régionales de cybersécurité, ajoute la DGSSI dans un communiqué.
-- Portée par la Communauté Economique des États de l’Afrique de l’Ouest (CEDEAO), cette initiative réunira des représentants de plusieurs institutions ainsi que des professionnelles de la cybersécurité issues de différents pays africains, note la même source.
+- Panne Microsoft 365, de faux e-mails menacent d'effacer la boîte mail sous 24 h Microsoft Threat Intelligence confirme une campagne d'hameçonnage née de la panne Microsoft 365, avec une fausse menace d'effacement des e-mails sous 24 h.
+- Les plus lus Cybersécurité Nvidia IoT Finance Claude Jeux Vidéo Meta Actualités IA & Tendances Applis Mobiles Smartphones Droit & Réglementation IA chinoise Robotique Intelligence Artificielle Réseaux sociaux et plateformes Économie & Business Big Tech Gemini OpenAI Apple Matériel et PC Microsoft ChatGPT Multi-Agents & Orchestration Tutoriels IA pour Professionnels Biotech et longévité IA en local Développement Logiciel Open Source Tesla Anthropic Grok xAI Tech Automobile Outils IA & Avis Google Samsung Événements.
 
-## [La plateforme Maileva du groupe La Poste victime d'un vol de données touchant 22 millions ...](https://www.bfmtv.com/tech/cybersecurite/la-plateforme-maileva-du-groupe-la-poste-victime-d-un-vol-de-donnees-touchant-22-millions-de-personnes_AD-202611140348.html)  
-*Source : bfmtv.com | Publication : 2026-11-14*
+## [QNA » : cet exercice permet d'évaluer la capacité des institutions à faire face aux incidents ...](https://qna.org.qa/fr-FR/News-Area/News/2026-11/15/la-13eme-edition-de-lexercice-national-de-cybersecurite-debutera-le-30-novembre-le-president-du-comite-des-exercices-de-cybersecurite-a-qna-cet-exercice-permet-devaluer-la-capacite-des-institutions-a-faire-face-aux-incidents-et-aux-crises-cybern)  
+*Source : qna.org.qa | Publication : 2026-11-15*
 
-- La plateforme Maileva du groupe La Poste victime d'un vol de données touchant 22 millions de personnes Maileva, filiale du groupe La Poste, a été victime d’une cyberattaque mi-septembre ayant conduit au vol des coordonnées de 22 millions de personnes, a annoncé La Poste ce samedi 14 novembre à l'AFP.
-- Maileva "a notifié la Commission nationale de l'informatique et des libertés (CNIL) et déposé une plainte.
-- Une enquête judiciaire est en cours", a ajouté La Poste, confirmant des informations données par le site cyberattaque.org, pour qui il s'agit de "l’une des plus importantes fuites de données en France".
-- Plateforme spécialisée dans l'envoi de courriers professionnels pour les PME et les entreprises de taille intermédiaire (bulletins de paie, recommandés, factures, convocations d'assemblées générales...), Maileva est une filiale de Docaposte, elle-même filiale du groupe La Poste.
+- Le président du comité des exercices de cybersécurité à « QNA » : cet exercice permet d’évaluer la capacité des institutions à faire face aux incidents et aux crises cybernétiques La 13ème édition de l’exercice national de cybersécurité débutera le 30 novembre Doha, le 15 novembre /QNA/ La 13e édition de l’exercice national de cybersécurité débutera le 30 novembre courant.
+- Organisé par l’Agence nationale de cybersécurité sous le thème « Renforcer la souveraineté numérique », cet exercice réunira plus de 150 entités représentant 14 secteurs.
+- Cet exercice vise à répondre aux défis et aux menaces qui pèsent sur le cyberespace, à travers un entraînement national destiné à évaluer l’état de préparation des institutions et leur capacité à faire face aux incidents et aux crises cybernétiques, à renforcer la continuité des services essentiels et à limiter les risques liés à la dépendance envers les prestataires de services externes.
+- Dans ce contexte, M. Mohammed Morshed Al-Mannai, président du comité des exercices de cybersécurité au sein de l’Agence nationale de cybersécurité, a affirmé que cet exercice avait pour objectif d’évaluer la capacité des institutions à détecter les incidents cybernétiques et à mener des investigations numériques, ainsi que de mesurer le degré de préparation des dirigeants administratifs à gérer les incidents et les crises cybernétiques et leur aptitude à prendre les décisions appropriées sur la base des rapports et des informations communiqués par les équipes techniques.
 
-## [Félix Tshisekedi à Phnom Penh pour défendre les intérêts de son pays au XXe Sommet de l'OIF](https://www.mediacongo.net/article-actualite-169422_francophonie_felix_tshisekedi_a_phnom_penh_pour_defendre_les_interets_de_son_pays_au_xxe_sommet_de_l_oif.html)  
-*Source : mediacongo.net | Publication : 2026-11-14*
+## [Cyberattaque de Maileva, filiale de La Poste : vol de données, 22 millions de personnes ...](https://www.ouest-france.fr/societe/cyberattaque/cyberattaque-de-maileva-filiale-de-la-poste-vol-de-donnees-22-millions-de-personnes-concernees-ce-que-lon-sait-fced375a-e0c3-11f1-9a29-f4bab172af08)  
+*Source : ouest-france.fr | Publication : 2026-11-15*
 
-- Politique Le président de la République démocratique du Congo, Félix-Antoine Tshisekedi Tshilombo, est arrivé ce samedi 14 novembre 2026 à Phnom Penh, capitale du Cambodge, où il prendra part au XXe Sommet de l’Organisation internationale de la Francophonie (OIF), prévu du 15 au 16 novembre.
-- Cette rencontre internationale se tient autour du thème : « Réinvestir dans la paix pour une prospérité partagée et une stabilité durable ».
-- Au-delà des questions liées à la coopération entre les États membres, ce rendez-vous francophone sera marqué par un enjeu institutionnel majeur, à savoir la désignation du prochain Secrétaire général de l’OIF.
-- Dans cette perspective, la République démocratique du Congo a fait part de sa volonté de privilégier une démarche consensuelle afin de parvenir à un choix susceptible de fédérer les différentes sensibilités au sein de l’organisation.
+- cybercriminalité.
+- Le point sur ce que l'on sait ... « Une enquête judiciaire est en cours », a-t-elle ajouté: elle a été confiée à la Brigade de lutte.
 
-## [<b>Cybersécurité</b> : le Maroc détecte des failles critiques et renforce la protection des ...](https://fr.hespress.com/496472-cybersecurite-le-maroc-detecte-des-failles-critiques-et-renforce-la-protection-des-plateformes-numeriques.html)  
-*Source : fr.hespress.com | Publication : 2026-11-14*
+## [&quot;Des courriers ont pu être lus&quot; : ce que l'on sait de la cyberattaque contre Maileva, filiale de ...](https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-courriers-ont-pu-etre-lus-ce-que-l-on-sait-de-la-cyberattaque-contre-maileva-filiale-de-la-poste-qui-a-conduit-au-vol-de-donnees-de-22-millions-de-personnes_8283266.html)  
+*Source : franceinfo.fr | Publication : 2026-11-15*
 
-- Le Maroc renforce son dispositif de cybersécurité face à la multiplication des menaces numériques.
-- En 2026, les opérations d’évaluation et d’audit menées auprès des institutions publiques et des infrastructures d’importance vitale ont permis d’identifier des vulnérabilités critiques sur 31 applications, tandis que plus de 2.100 menaces de sécurité ont été signalées de manière proactive aux organismes concernés.
-- Ces données ont été dévoilées par Abdellatif Loudiyi, ministre délégué auprès de la cheffe du gouvernement chargé de l’Administration de la Défense nationale, lors d’une réunion de la Commission des affaires étrangères, de la défense nationale, des affaires islamiques et des Marocains résidant à l’étranger à la Chambre des représentants.
-- Dans le cadre de la mise en œuvre de la Stratégie nationale de cybersécurité à l’horizon 2030, la Direction générale de la sécurité des systèmes d’information (DGSSI) a engagé de nouvelles études consacrées à la maturité cyber des secteurs bancaire, du transport et de l’énergie.
+- "Des courriers ont pu être lus" : ce que l'on sait de la cyberattaque contre Maileva, filiale de La Poste, qui a conduit au vol de données de 22 millions de personnes La brigade de lutte contre la cybercriminalité a été chargée de l'enquête, a confirmé dimanche le parquet de Paris.
+- Les investigations ont été ouvertes pour "atteinte à un système de traitement automatisé de données" par la section cybercriminalité du parquet parisien.
+- C'est l'une des cyberattaques les plus importantes commises en France.
+- Maileva, une filiale du groupe La Poste, a annoncé samedi 14 novembre avoir été touchée par une cyberattaque de grande ampleur.
 
-## [Compte rendu - Le premier ministre Carney rencontre le président des Philippines ...](https://www.lesaffaires.com/communique-de-presse/compte-rendu-le-premier-ministre-carney-rencontre-le-president-des-philippines-ferdinand-marcos-jr-2/)  
-*Source : lesaffaires.com | Publication : 2026-11-14*
+## [Ivoire Tech Forum : L'ANSSI plaide pour une synergie entre les DSI et les RSSI face ... - Abidjan.net](https://news.abidjan.net/articles/750008/ivoire-tech-forum-lanssi-plaide-pour-une-synergie-entre-les-dsi-et-les-rssi-face-aux-enjeux-de-cybersecurite)  
+*Source : news.abidjan.net | Publication : 2026-11-15*
 
-- Compte rendu – Le premier ministre Carney rencontre le prÃ©sident des Philippines, Ferdinand Marcos Jr.
-- Cision|PubliÃ© Ã 1h33 | Mis Ã jour Ã 1h41MANILLE, Philippines, le 14 nov.
-- 2026 /CNW/ — Aujourd’hui, le premier ministre, MarkÂ Carney, a rencontrÃ© le prÃ©sident des Philippines, Ferdinand MarcosÂ Jr., dans le cadre de sa visite Ã Manille, aux Philippines.
-- Le premier ministre Carney et le prÃ©sident MarcosÂ Jr.
+- La collaboration entre les directeurs des systèmes d'information (DSI) et les responsables de la sécurité des systèmes d'information (RSSI) a été au cœur d'un masterclass organisé en marge de l'Ivoire Tech Forum, qui s'est tenu du 11 au 13 novembre 2026 à Abidjan-Cocody.
+- Les échanges ont mis en évidence la nécessité d'une meilleure coordination entre ces deux fonctions pour accompagner la transformation numérique des organisations tout en renforçant la sécurité de leurs infrastructures informatiques. «.
+- Innovation organisationnelle : DSI/RSSI, amis ou ennemis ?.
+- ».
 
-## [Post de Arnaud Touati - LinkedIn](https://fr.linkedin.com/posts/arnaudtouati_la-france-a-deux-ans-de-retard-sur-la-cybersécurité-activity-7527067788402835456-Fw04)  
-*Source : fr.linkedin.com | Publication : 2026-11-14*
+## [Cyberattaque d'une filiale de La Poste : enquête confiée à la Brigade <b>cybercriminalité</b>](https://www.europe1.fr/police-justice/cyberattaque-dune-filiale-de-la-poste-enquete-confiee-a-la-brigade-cybercriminalite-1235340)  
+*Source : europe1.fr | Publication : 2026-11-15*
 
-- Avocat Nouvelles Technologies & Regulatory | Fintech & Web 3 & IA | Co-fondateur #Hashtag Avocats La France a deux ans de retard sur la cybersécurité.
-- Votre entreprise n'aura pas ce luxe, croyez-moi.
-- Ce matin, lors d'une table ronde sur l'IA et la sécurité des données dans le transport, on m'a demandé ce que la loi Résilience allait changer pour les entreprises.
-- La question tombait bien.
+- La Brigade de lutte contre la cybercriminalité est chargée de l'enquête sur la cyberattaque massive mi-septembre visant Maileva, filiale du groupe La Poste, a confirmé dimanche le parquet de Paris, sollicité par l'AFP.
+- Une cyberattaque a touché Maileva, filiale de La Poste.
+- La Brigade de lutte contre la cybercriminalité est chargée de l'enquête.
+- Les investigations ont été ouvertes pour "atteinte à un système de traitement automatisé de données" par la section cybercriminalité du parquet parisien et confiées à la BL2C, service d'enquête spécialisé.
 
-## [Expresso 14.11 : Trezor détecte des implants voleurs de phrases - DCOD | <b>Cybersécurité</b>](https://dcod.ch/2026/11/14/expresso-14-11-trezor-detecte-des-implants-voleurs-de-phrases/)  
-*Source : dcod.ch | Publication : 2026-11-14*
+## [Cyberattaque d'une filiale de La Poste : l'enquête confiée à la Brigade <b>cybercriminalité</b>](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-d-une-filiale-de-la-poste-l-enquete-confiee-a-la-brigade-cybercriminalite-31535861.php)  
+*Source : sudouest.fr | Publication : 2026-11-15*
 
-- 1 Vulnérabilité Des pirates compromettent des passerelles Check Point Une faille d’exécution de code à distance dans PHP2Shell, combinée à une élévation de privilèges locale, permet de prendre le contrôle de passerelles non corrigées et d’obtenir les droits root, avec des cas d’effacement d’hôtes VMware ESXi.
-- 2 Cyberattaque Trezor détecte des implants voleurs de phrases Trois portefeuilles matériels Safe 5 vendus par le revendeur CryptoBilis contenaient des implants conçus pour dérober les phrases de récupération et les transmettre à des attaquants via des réseaux cellulaires, selon le fabricant.
-- 3 Vulnérabilité Six failles touchent des contrôleurs Danfoss Six vulnérabilités zero-day de type exécution de code à distance avant authentification affectent le contrôleur de réfrigération AK-SM800A, ouvrant la voie à un accès root à distance sur toutes les versions jusqu’à la 5.3.2.
-- 4 Cyberattaque Microsoft montre une backdoor LLM discrète La technique Lazarus insère une porte dérobée dormante dans un modèle à poids ouverts en modifiant moins de dix neurones rarement activés, tout en passant les évaluations standard et en ne s’activant qu’avec un déclencheur.
+- Cette cyberattaque, une des plus importantes commises en France, a conduit au vol des coordonnées de 22 millions de personnes, selon La Poste La Brigade de lutte contre la cybercriminalité est chargée de l’enquête sur la cyberattaque massive mi-septembre visant Maileva, filiale du groupe La Poste, a confirmé dimanche le parquet de Paris.
+- Les investigations ont été ouvertes pour « atteinte à un système de traitement automatisé de données » par la section cybercriminalité du parquet parisien et confiées à la BL2C, service d’enquête spécialisé.
 
-## [Fausses alertes virus iPhone : 3e <b>cybermenace</b> en France - Netz Trends](https://www.netz-trends.de/fr/fausses-alertes-virus-iphone-france-cybermalveillance/)  
-*Source : netz-trends.de | Publication : 2026-11-14*
+## [Cyberattaque contre Maileva, filiale de La Poste : la Brigade de lutte contre la ... - ici.fr](https://www.ici.fr/infos/faits-divers-justice/cyberattaque-contre-maileva-filiale-de-la-poste-la-brigade-de-lutte-contre-la-cybercriminalite-chargee-de-l-enquete-4022466)  
+*Source : ici.fr | Publication : 2026-11-15*
 
-- Les pop-up annoncant des virus sur iPhone sont toujours fausses – l’arnaque au faux support technique est le 3e cyber-risque le plus frequent en France.
-- Ce que les lecteurs de Tendances du Net ont vu dans Grindr Le 14 novembre 2026, des lecteurs de notre édition allemande ont envoyé des captures montrant, dans Grindr sur iPhone, de fausses alertes imitant Apple.
-- Une alerte affichait un compte à rebours et prétendait avoir détecté huit virus.
-- Les captures montrent un renvoi vers une application de l’App Store proposant des achats intégrés.
+- Cyberattaque contre Maileva, filiale de La Poste : la Brigade de lutte contre la cybercriminalité chargée de l’enquête Publié le Le parquet de Paris a confirmé dimanche l’ouverture d’une enquête, confiée à la brigade de lutte contre la cybercriminalité, sur la cyberattaque massive visant mi-septembre Maileva, filiale de La Poste.
+- Les coordonnées de 22 millions de personnes ont été volées, selon La Poste.
+- Le parquet de Paris a confirmé dimanche que la brigade de lutte contre la cybercriminalité (BL2C) était chargée de l’enquête sur la cyberattaque visant Maileva, filiale du groupe La Poste, mi-septembre.
+- Cette attaque, l’une des plus importantes commises en France, a conduit au vol des coordonnées de 22 millions de personnes, selon La Poste.
 
-## [<b>Cybersécurité</b> : un déjeuner-conférence destiné aux PME et OBNL de la région](https://www.infodimanche.com/actualite/cybersecurite-un-dejeuner-conference-destine-aux-pme-et-obnl-de-la-region/)  
-*Source : infodimanche.com | Publication : 2026-11-14*
+## [Maroc-Israël: La coopération militaire entre dans une nouvelle phase - L'Economiste](https://www.leconomiste.com/flash-infos/maroc-israel-la-cooperation-militaire-entre-dans-une-nouvelle-phase/)  
+*Source : leconomiste.com | Publication : 2026-11-15*
 
-- Le Service aux entreprises du Cégep de Rivière-du-Loup invite les gestionnaires de petites ou moyennes entreprises et d’organismes à but non lucratif à un déjeuner-conférence consacré à la cybersécurité, le mardi 1er décembre à 8 h à l’Hôtel Levesque de Rivière-du-Loup.
-- Les attaques informatiques ont déjà touché plusieurs organisations de la région, parfois en raison de pratiques qui auraient pu être évitées.
-- La conférence permettra aux propriétaires d’entreprises, du travailleur autonome à la PME, et aux gestionnaires d’OBNL, de mieux comprendre les risques et de connaitre les bonnes pratiques à adopter pour protéger leur organisation.
-- Le conférencier Jonathan Bastille qui œuvre au Cégep de Rivière-du-Loup est un expert certifié en sécurité des systèmes d’information.
+- cybersécurité et formation: le Maroc entend renforcer ses capacités et développer une base industrielle de défense autonome.
+- La coopération.
 
-## [354 arrestations dont 23 en France dans une opération mondiale contre les trafics du dark web](https://www.clubic.com/actualite-639301-arrestations-dont-23-en-france-dans-une-operation-mondiale-contre-les-trafics-du-dark-web.html)  
-*Source : clubic.com | Publication : 2026-11-14*
+## [Cyberattaque d'une filiale de La Poste: la Brigade <b>cybercriminalité</b> enquête - Zonebourse](https://ch.zonebourse.com/actualite-bourse/cyberattaque-d-une-filiale-de-la-poste-la-brigade-cybercriminalite-enquete-ce785ededc81ff21)  
+*Source : ch.zonebourse.com | Publication : 2026-11-15*
 
-- Les gendarmes ont interpellé 23 personnes en France lors de TorNado, une opération coordonnée par Europol contre les vendeurs et les acheteurs de drogue du dark web.
-- Dans le monde, la police a arrêté 354 suspects, retrouvés notamment grâce aux données de cinq marchés illégaux fermés depuis plus d’un an.
-- Sur le dark web, via Tor le plus souvent, des marchés clandestins vendent de la drogue et des armes contre des cryptomonnaies.
-- Pendant dix-huit mois, les polices de quatorze pays ont recherché les vendeurs et les clients d’Archetyp, Bohemia, Nemesis, Kingdom et Tor2Door, cinq de ces plateformes saisies par les autorités.
+- Paris - La Brigade de lutte contre la cybercriminalité est chargée de l'enquête sur la cyberattaque massive mi-septembre visant Maileva,.
 
-## [Microsoft annonce le rétablissement complet de ses services en ligne après presque deux ...](https://www.ladepeche.fr/2026/11/14/microsoft-annonce-le-retablissement-complet-de-ses-services-en-ligne-apres-presque-deux-jours-de-panne-13652667.php)  
-*Source : ladepeche.fr | Publication : 2026-11-14*
+## [Drogues, armes et cryptos : la France frappe un grand coup contre le dark web - 01net.com](https://www.01net.com/actualites/drogues-armes-cryptos-france-interpelle-23-clients-vendeurs-dark-web.html)  
+*Source : 01net.com | Publication : 2026-11-15*
 
-- Microsoft annonce le rétablissement complet de ses services en ligne après presque deux jours de panne l'essentiel Le géant américain de l'informatique a annoncé ce samedi 14 novembre le rétablissement total de ses services après un incident ayant paralysé l'ensemble de ses logiciels depuis jeudi.
-- La panne a impacté de nombreuses entreprises, administrations et particuliers partout dans le monde.
-- Des problèmes de serveurs seraient à l'origine de l'incident alors que Microsoft affirme ne pas avoir connaissance d'activité malveillante.
-- Le géant américain de l'informatique Microsoft a annoncé ce samedi 14 novembre à la mi-journée le rétablissement de l'ensemble de ses services en ligne, notamment Outlook.
+- La France a pris part à un vaste coup de filet contre le dark web, orchestré par Europol.
+- L’agence de police criminelle de l’Union européenne indique que l’opération, baptisée TorNado, a abouti à 354 arrestations et des centaines de perquisitions dans le monde.
+- Sur le sol français, la gendarmerie nationale a interpellé 23 personnes et saisi 50 kilos de cannabis.
+- Menée de mai 2025 à octobre 2026, l’opération de police s’est concentrée sur l’identification de vendeurs et d’acheteurs de drogues sur le dark web.
 
-## [Un écran noir sur votre smartphone ? Ce malware Android pourrait être en train de vous dépouiller](https://www.phonandroid.com/un-ecran-noir-sur-votre-smartphone-ce-malware-android-pourrait-etre-en-train-de-vous-depouiller.html)  
-*Source : phonandroid.com | Publication : 2026-11-14*
+## [Une nouvelle alliance met en garde contre le streaming illégal](https://www.vermoegenszentrum.ch/fr/bourses-et-marches/news/une-nouvelle-alliance-met-en-garde-contre-le-streaming-illegal)  
+*Source : vermoegenszentrum.ch | Publication : 2026-11-15*
 
-- Un écran noir sur votre smartphone ?.
-- Ce malware Android pourrait être en train de vous dépouiller Des chercheurs en cybersécurité viennent de détecter de nouvelles capacités d’attaque liées au malware Android ArcticRAT.
-- Celui-ci permettrait non seulement aux hackers d’espionner en permanence votre smartphone, mais également de mettre la main sur vos données bancaires.
-- Avec près de 4 milliards d’utilisateurs à travers le monde, Android est de loin le système d’exploitation mobile le plus populaire.
+- En bref Généré par IA En Suisse, 634'000 personnes utilisent des services de streaming illégaux, soit 9% de la population âgée de 16 à 74 ans, générant 33 millions de francs de chiffre d'affaires.
+- - Les jeunes de 16 à 24 ans sont particulièrement touchés avec 18% d'utilisateurs illégaux, soit deux fois la moyenne suisse, en raison de prix élevés et de fragmentation de l'offre.
+- - L'Office fédéral de la cybersécurité avertit des risques importants: logiciels malveillants, hameçonnage et fraudes facilitées par l'intelligence artificielle.
+- - Description Berne (awp/ats) - De plus en plus de Suisses se tournent vers des sites de streaming illégaux en raison de la hausse des prix des abonnements et de la fragmentation de l'offre.
