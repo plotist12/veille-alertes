@@ -1,151 +1,143 @@
-# Résumés – 2026-11-16
+# Résumés – 2026-11-17
 
 
-## [Piratage des impôts, le téléphone de sa mère le trahit, les policiers visés chez eux](https://frenchbreaches.com/blog/piratage-des-impots-le-telephone-de-sa-mere-le-trahit-les-policiers-vises-chez-eux)  
-*Source : frenchbreaches.com | Publication : 2026-11-16*
+## [La <b>cybercriminalité</b> : quelle est la solution ? - JW.ORG](https://www.jw.org/fr/bibliothèque/rubriques/divers/cybercriminalite-solution/)  
+*Source : jw.org | Publication : 2026-11-17*
 
-- CYBERCRIMINALITÉ — Deux jeunes Français de 18 et 16 ans sont soupçonnés d'être impliqués dans le piratage de l'administration fiscale, qui a exposé les données de plus de 678 000 particuliers et professionnels.
-- Une simple connexion depuis le téléphone de la mère de l'un des suspects aurait permis aux enquêteurs de remonter jusqu'à lui.
-- Mais l'affaire a pris une tournure particulièrement inquiétante : des policiers spécialisés dans la cybercriminalité auraient été menacés, tandis que d'autres ont subi des coupures d'électricité, de gaz et d'Internet à leur domicile.
-- Le téléphone de sa mère aurait permis de le retrouver C'est une erreur qui aurait fait basculer l'enquête sur l'un des piratages les plus embarrassants pour l'État français.
+- La cybercriminalité : quelle est la solution ?.
+- Les ordinateurs, Internet, les appareils mobiles et l’intelligence artificielle (IA) ont révolutionné la vie moderne.
+- Mais ces technologies ont aussi donné naissance à une nouvelle forme de criminalité : la cybercriminalité. «.
+- Je n’aurais jamais pensé, pas même une seconde, que je serais un jour victime d’une arnaque en ligne.
 
-## [Redwood AI Corp. (CVE:AIRX) | - WebDisclosure](http://www.webdisclosure.com/article/redwood-ai-corp-cve-airx-redwood-ai-corp-ameliore-sa-plateforme-de-cybersecurite-quantique-pour-la-conformite-aux-normes-de-defense-hFLOR6NgG7x)  
-*Source : webdisclosure.com | Publication : 2026-11-15*
+## [Microsoft 365 est hors service. Quel est votre plan de secours ? - Health-ISAC](https://health-isac.org/fr/Microsoft-365-est-hors-service :-quel-est-votre-plan-de-secours /)  
+*Source : health-isac.org | Publication : 2026-11-17*
 
-- on Redwood AI Corp. (CVE:AIRX) Redwood AI Corp. améliore sa plateforme de cybersécurité quantique pour la conformité aux normes de défense Redwood AI Corp. a annoncé son intention d'étendre sa plateforme de cybersécurité post-quantique Quantum.IQ afin de répondre aux exigences de conformité des secteurs de la défense canadien et américain.
-- Ces mises à jour aideront les organisations à se conformer aux exigences des programmes CPCSC du Canada et CMMC des États-Unis.
-- Ces programmes imposent des normes de cybersécurité aux entités participant aux opérations gouvernementales et de défense.
-- L'entreprise se concentre sur le développement de fonctionnalités facilitant la conformité de niveau 1, en aidant les utilisateurs à maintenir leurs contrôles de cybersécurité et à constituer les preuves de conformité.
+- Microsoft 365 est hors service.
+- Quel est votre plan de secours ?.
+- Le 12 novembre 2026, Microsoft 365 a subi une panne généralisée, perturbant la messagerie professionnelle et d'autres services cloud dans plusieurs régions.
+- Citation extraite de Health-ISAC : Errol Weiss, responsable de la sécurité chez Health-ISAC, a décrit une technique d'hameçonnage vocal et a déclaré : « Les attaquants se font passer pour le service d'assistance informatique et font pression sur les employés pour qu'ils ouvrent des pages de connexion frauduleuses sur leurs téléphones personnels.
 
-## [Fausses factures, mails frauduleux : quelles arnaques redouter après le piratage de Maileva ... - ici.fr](https://www.ici.fr/infos/faits-divers-justice/fausses-factures-mails-frauduleux-quelles-arnaques-redouter-apres-le-piratage-de-maileva-7899463)  
-*Source : ici.fr | Publication : 2026-11-15*
+## [Ipsos signale une faille de <b>cybersécurité</b> dans son système interne - WebDisclosure](https://www.webdisclosure.com/article/ipsos-epa-ips-ipsos-signale-une-faille-de-cybersecurite-dans-son-systeme-interne-qzbwISqb3vl)  
+*Source : webdisclosure.com | Publication : 2026-11-17*
 
-- Fausses factures, mails frauduleux : quelles arnaques redouter après le piratage de Maileva, filiale de La Poste ?.
-- Publié le Le vol de données chez Maileva, filiale du groupe La Poste, pourrait ouvrir la voie à des escroqueries ciblées.
-- Faux courriers, messages frauduleux, relances de paiement : à quels pièges les personnes concernées doivent-elles se préparer ?.
-- C’est l’une des cyberattaques les plus importantes commises en France.
+- on IPSOS (EPA:IPS) Ipsos signale une faille de cybersécurité dans son système interne Paris, le 16 novembre 2026 – Ipsos a signalé une faille de sécurité informatique concernant l'un de ses systèmes d'information internes.
+- L'entreprise a déposé une plainte officielle auprès des autorités compétentes le 11 novembre.
+- Dès la découverte de la faille, Ipsos a immédiatement déclenché ses procédures de réponse aux incidents.
+- L'entreprise a pris des mesures pour contenir la situation et a fait appel à des experts externes en cybersécurité pour l'aider dans l'enquête en cours.
 
-## [<b>Cybersécurité</b> : 10 actualités majeures du 15 novembre 2026 (dont ANSSI)](https://dcod.ch/2026/11/15/cybersecurite-10-actualites-majeures-du-15-novembre-2026-dont-anssi/)  
-*Source : dcod.ch | Publication : 2026-11-15*
+## [Les députés votent sur le projet de loi <b>cybersécurité</b>, en pleine multiplication des cyberattaques](https://www.notretemps.com/depeches/les-deputes-votent-sur-le-projet-de-loi-cybersecurite-en-pleine-multiplication-des-cyberattaques-141392)  
+*Source : notretemps.com | Publication : 2026-11-17*
 
-- Faits marquants de la semaine La France attribue aux Gardiens de la révolution iraniens (IRGC-ECC) des sabotages informatiques visant des réfrigérateurs de supermarchés les 11 et 12 octobre, avec 700 sites touchés, des denrées jetées et plusieurs incendies.
-- - Aux États-Unis, un élu affirme que Nvidia lui a indiqué en privé qu’un suivi géographique des puces d’intelligence artificielle, envisagé par le « Chip Security Act » contre la contrebande vers la Chine, serait techniquement réalisable.
-- - Une panne Microsoft a perturbé Microsoft 365, Outlook, Teams et Copilot le 12 novembre, avec plus de 97’000 incidents Outlook signalés à 14h07 (heure de l’Est) et un impact sur les connecteurs OpenAI et Anthropic vers Microsoft 365.
-- - Le FBI examine si une mise à jour logicielle est à l’origine d’une panne ayant immobilisé des vols aux États-Unis, selon Bloomberg, tout en estimant qu’une cyberattaque ou un acte criminel n’est pas en cause à ce stade.
+- Les députés votent sur le projet de loi cybersécurité, en pleine multiplication des cyberattaques Les députés devraient adopter mardi un projet de loi renforçant les obligations de milliers d'entreprises en matière de cybersécurité, un texte très attendu alors que les cyberattaques se multiplient, mais dont beaucoup déplorent qu'il arrive avec des années de retard.
+- France Travail, fisc, Urssaf.
+- Les fuites de données sont en augmentation depuis plusieurs années.
+- Ce week-end encore, une filiale du groupe La Poste a annoncé avoir été victime d'une cyberattaque de grande ampleur mi-septembre, conduisant au vol des coordonnées de 22 millions de personnes.
 
-## [<b>Cybersécurité</b>: les FAR déjouent plus de 2 150 tentatives de cyberattaques | le360.ma](https://fr.le360.ma/politique/cybersecurite-les-far-dejouent-plus-de-2-150-tentatives-de-cyberattaques_JFDNCZDFOJHDHE7A6TCM5GJIKM/)  
-*Source : fr.le360.ma | Publication : 2026-11-15*
+## [L'état de la menace cyber (année 2025) - Gend'élus, Gendarmerie nationale](https://www.gendarmerie.interieur.gouv.fr/gendelus/cybermenaces/l-etat-de-la-menace-cyber-annee-2025)  
+*Source : gendarmerie.interieur.gouv.fr | Publication : 2026-11-16*
 
-- Le ministre délégué chargé de l’Administration de la Défense nationale, Abdellatif Loudyi, a indiqué que la Direction générale de la sécurité des systèmes d’information (DGSSI) a détecté, de manière proactive, 2 154 tentatives de cyberattaques contre les systèmes d’information des ministères, des établissements publics et des infrastructures.
-- S’exprimant récemment devant la Commission des affaires étrangères de la Chambre des représentants, il a souligné que le centre de veille, de détection et de riposte aux cyberattaques a publié, en 2026, 968 bulletins de sécurité, dont 373 à caractère critique.
-- Le ministre délégué a précisé que ce centre a intensifié ses efforts et ses interventions dans le domaine de la prévention et de la détection des menaces.
-- «Le nombre de signalements a atteint 419 incidents cybernétiques, qui ont nécessité 123 interventions directes entre janvier et septembre 2026», rapporte Assabah du16 novembre.
+- Le podium des cybermenaces en 2025 : • les attaques DDoS (saturation de sites et services en ligne) : 53 % des incidents, portées par l'hacktivisme ;.
 
-## [La brigade <b>cybercriminalité</b> saisie de l'enquête après l'attaque massive d'une filiale de La Poste](https://www.bfmtv.com/police-justice/la-brigade-cybercriminalite-saisie-de-l-enquete-apres-l-attaque-massive-d-une-filiale-de-la-poste_AD-202611150406.html)  
-*Source : bfmtv.com | Publication : 2026-11-15*
+## [<b>Cybersécurité</b> : la consolidation sur une plateforme unique pousse 26 % des entreprises ... - ITRnews](https://itrnews.com/articles/211650/cybersecurite-la-consolidation-sur-une-plateforme-unique-pousse-26-des-entreprises-a-envisager-de-changer-de-fournisseur.html)  
+*Source : itrnews.com | Publication : 2026-11-16*
 
-- La brigade cybercriminalité saisie de l'enquête après l'attaque massive d'une filiale de La Poste La Brigade de lutte contre la cybercriminalité est chargée de l'enquête sur la cyberattaque massive mi-septembre visant Maileva, filiale du groupe La Poste, a confirmé ce dimanche 15 novembre le parquet de Paris, sollicité par l'AFP.
-- Les investigations ont été ouvertes pour "atteinte à un système de traitement automatisé de données" par la section cybercriminalité du parquet parisien et confiées à la BL2C, service d'enquête spécialisé.
-- Dès samedi soir, La Poste indiquait à l'AFP qu'"une enquête judiciaire" était "en cours".
-- Cette cyberattaque, une des plus importantes commises en France, a conduit au vol des coordonnées de 22 millions de personnes, selon La Poste.
+- Veuillez activer Javascript.
 
-## [Les Philippines renforcent la <b>cybersécurité</b> en vue du Sommet de l'ASEAN](https://fr.vietnamplus.vn/les-philippines-renforcent-la-cybersecurite-en-vue-du-sommet-de-lasean-post271150.vnp)  
-*Source : fr.vietnamplus.vn | Publication : 2026-11-15*
+## [l'escroquerie en ligne lors des achats est le cyberrisque le plus répandu en Suisse | - EQS News](https://www.eqs-news.com/news/corporate-news/avis-aux-adeptes-du-black-friday-l-escroquerie-en-ligne-lors-des-achats-est-le-cyberrisque-le-plus-repandu-en-suisse/9f881778-e7a3-4564-bb7c-6842f4719ca3_fr)  
+*Source : eqs-news.com | Publication : 2026-11-16*
 
-- Manille (VNA) – Le gouvernement philippin a expliqué que le ralentissement de la connexion Wi-Fi au Centre de presse international, installé au Centre international des médias de Manille pour le 49e Sommet de l’ASEAN, était dû au renforcement des mesures de cybersécurité.
-- Cette situation a perturbé le travail des journalistes philippins et étrangers couvrant l’événement.
-- Le ministère philippin des Technologies de l’information et de la communication (DICT) a indiqué que des couches de sécurité supplémentaires avaient été mises en place afin de protéger les utilisateurs et de prévenir les intrusions dans le réseau.
-- Selon son ministre, Robert Joseph de Claro, le ministère a effectué des contrôles de sécurité supplémentaires et appliqué des procédures strictes pendant le sommet.
+- Helvetia Baloise Holding AG Avis aux adeptes du Black Friday: l’escroquerie en ligne lors des achats est le cyberrisque le plus répandu en Suisse Communiqué de presse Bâle, le 16 novembre 2026 L’essentiel en bref: En Suisse, une personne sur trois (31%) a déjà été victime directement (21%) et/ou indirectement (12%) de cybercriminalité.
+- - Parmi les victimes de cybercriminalité, l’escroquerie lors d’achats en ligne est la forme de fraude la plus courante (42%).
+- Elle est suivie du phishing (29%) et du piratage de comptes personnels (24%).
+- - Les jeunes adultes âgés de 18 à 29 ans sont particulièrement touchés: 34% ont été directement victimes de cybercriminalité, soit une proportion nettement supérieure à celle observée, par exemple, chez les 50-59 ans, où ce chiffre n’est que de 15%.
 
-## [<b>Cybersécurité</b> : le groupe Lazarus du Nord aurait ciblé 30 serveurs au Sud, selon CYFIRMA](https://fr.yna.co.kr/view/MYH20261115012500884?section=video/videos)  
-*Source : fr.yna.co.kr | Publication : 2026-11-15*
+## [ESET, partenaire officiel de la réunion annuelle des accélérateurs DIANA de l'OTAN](https://www.eset.com/fr/about/newsroom/press-releases/actualites-de-lentreprise/eset-partenaire-diana-otan/)  
+*Source : eset.com | Publication : 2026-11-16*
 
-- Cybersécurité : le groupe Lazarus du Nord aurait ciblé 30 serveurs au Sud, selon CYFIRMA 15.11.2026 à 16h51 replay time00:44 SEOUL, 15 nov.
-- -- Le groupe de hackers nord-coréen Lazarus aurait ciblé une trentaine de serveurs sud-coréens des secteurs public, financier et des télécommunications, en exploitant une vulnérabilité du langage de programmation PHP utilisé pour les serveurs Web, selon un rapport publié par la société internationale de cybersécurité CYFIRMA et actualisé au début du mois sous le titre «Exploitation malveillante de la vulnérabilité PHP2Shell».
-- D'après des échanges entre des hackers sur le Dark Web, le groupe a commencé à rechercher des cibles le 28 octobre.
-- Les pirates ont ensuite partagé les résultats de leurs recherches, estimant que «certaines plages d'adresses IP en Corée du Sud, au Japon, aux Etats-Unis, en Thaïlande, en Indonésie et en Inde pourraient constituer des cibles potentielles».
+- ESET, partenaire officiel de la réunion annuelle des accélérateurs DIANA de l’OTAN ESET est fier d’être le partenaire officiel de la réunion annuelle des accélérateurs DIANA de l’OTAN à Prague, organisée par le pôle Défense de CzechInvest.
+- L’événement s’est tenu le 29 octobre au soir, à bord du Grand Bohemia.
+- Il a été inauguré par Jakub Landovský, du ministère tchèque de la Défense, Jan Michal, représentant de CzechInvest, Kadri Tammai, directeur régional de DIANA à l’OTAN, et David Března, vice-président des solutions d’entreprise chez ESET.
+- Le programme DIANA de l’OTAN met en relation des startups innovantes avec des experts techniques au sein de centres d’essais alliés, afin d’accélérer le développement et l’adoption de technologies à double usage, civil et militaire.
 
-## [Panne Microsoft 365, de faux e-mails menacent d'effacer la boîte mail sous 24 h](https://pasqualepillitteri.it/fr/news/33748/panne-microsoft-365-faux-e-mails-effacer-boite-mail-24-h)  
-*Source : pasqualepillitteri.it | Publication : 2026-11-15*
+## [Pourquoi l'Europe doit développer ses propres modèles d'IA dédiés à la <b>cybersécurité</b> ?](https://www.bfmtv.com/economie/professionnels/pourquoi-l-europe-doit-developper-ses-propres-modeles-d-ia-dedies-a-la-cybersecurite_AB-202611160674.html)  
+*Source : bfmtv.com | Publication : 2026-11-16*
 
-- Panne Microsoft 365, de faux e-mails menacent d'effacer la boîte mail sous 24 h Microsoft Threat Intelligence confirme une campagne d'hameçonnage née de la panne Microsoft 365, avec une fausse menace d'effacement des e-mails sous 24 h.
-- Les plus lus Cybersécurité Nvidia IoT Finance Claude Jeux Vidéo Meta Actualités IA & Tendances Applis Mobiles Smartphones Droit & Réglementation IA chinoise Robotique Intelligence Artificielle Réseaux sociaux et plateformes Économie & Business Big Tech Gemini OpenAI Apple Matériel et PC Microsoft ChatGPT Multi-Agents & Orchestration Tutoriels IA pour Professionnels Biotech et longévité IA en local Développement Logiciel Open Source Tesla Anthropic Grok xAI Tech Automobile Outils IA & Avis Google Samsung Événements.
+- Pourquoi l’Europe doit développer ses propres modèles d’IA dédiés à la cybersécurité ?.
+- À des fins personnelles comme professionnelles, l’intelligence artificielle fascine autant qu’elle questionne.
+- Aujourd’hui, elle ne se limite plus à générer des contenus.
+- Avec l’essor de l’IA agentique, certains systèmes sont désormais capables de planifier et d’exécuter de manière autonome des actions complexes, en accédant à des données, des outils et des services qu’il reste essentiel de protéger.
 
-## [QNA » : cet exercice permet d'évaluer la capacité des institutions à faire face aux incidents ...](https://qna.org.qa/fr-FR/News-Area/News/2026-11/15/la-13eme-edition-de-lexercice-national-de-cybersecurite-debutera-le-30-novembre-le-president-du-comite-des-exercices-de-cybersecurite-a-qna-cet-exercice-permet-devaluer-la-capacite-des-institutions-a-faire-face-aux-incidents-et-aux-crises-cybern)  
-*Source : qna.org.qa | Publication : 2026-11-15*
+## [Sans fournir de détail sur &quot;la nature et l'ampleur de l'incident&quot;, l'institut de sondage Ipsos ...](https://www.bfmtv.com/tech/cybersecurite/sans-fournir-de-detail-sur-la-nature-et-l-ampleur-de-l-incident-l-institut-de-sondage-ipsos-annonce-avoir-ete-victime-d-une-cyberattaque_AD-202611160791.html)  
+*Source : bfmtv.com | Publication : 2026-11-16*
 
-- Le président du comité des exercices de cybersécurité à « QNA » : cet exercice permet d’évaluer la capacité des institutions à faire face aux incidents et aux crises cybernétiques La 13ème édition de l’exercice national de cybersécurité débutera le 30 novembre Doha, le 15 novembre /QNA/ La 13e édition de l’exercice national de cybersécurité débutera le 30 novembre courant.
-- Organisé par l’Agence nationale de cybersécurité sous le thème « Renforcer la souveraineté numérique », cet exercice réunira plus de 150 entités représentant 14 secteurs.
-- Cet exercice vise à répondre aux défis et aux menaces qui pèsent sur le cyberespace, à travers un entraînement national destiné à évaluer l’état de préparation des institutions et leur capacité à faire face aux incidents et aux crises cybernétiques, à renforcer la continuité des services essentiels et à limiter les risques liés à la dépendance envers les prestataires de services externes.
-- Dans ce contexte, M. Mohammed Morshed Al-Mannai, président du comité des exercices de cybersécurité au sein de l’Agence nationale de cybersécurité, a affirmé que cet exercice avait pour objectif d’évaluer la capacité des institutions à détecter les incidents cybernétiques et à mener des investigations numériques, ainsi que de mesurer le degré de préparation des dirigeants administratifs à gérer les incidents et les crises cybernétiques et leur aptitude à prendre les décisions appropriées sur la base des rapports et des informations communiqués par les équipes techniques.
+- Sans fournir de détail sur "la nature et l'ampleur de l'incident", l'institut de sondage Ipsos annonce avoir été victime d'une cyberattaque L'entreprise française Ipsos, spécialisée dans les sondages et les études de marché, a été touchée par une cyberattaque et a porté plainte, a-t-elle annoncé lundi dans un communiqué, assurant que celle-ci n'avait pas eu d'effet sur ses opérations.
+- "Ipsos a identifié un incident de cybersécurité affectant un système d'information interne et a déposé une plainte auprès des autorités compétentes" le 11 novembre, a indiqué le groupe.
+- Ce dernier, qui compte 20.000 employés et est présent dans 90 pays, n'a pas donné de détails sur la date à laquelle l'attaque a été découverte, ni sur ses éventuelles conséquences.
+- "L'enquête est en cours afin de déterminer la nature et l'ampleur de l'incident", a souligné Ipsos, précisant toutefois que cela n'avait eu "aucun impact" sur ses opérations.
 
-## [Cyberattaque de Maileva, filiale de La Poste : vol de données, 22 millions de personnes ...](https://www.ouest-france.fr/societe/cyberattaque/cyberattaque-de-maileva-filiale-de-la-poste-vol-de-donnees-22-millions-de-personnes-concernees-ce-que-lon-sait-fced375a-e0c3-11f1-9a29-f4bab172af08)  
-*Source : ouest-france.fr | Publication : 2026-11-15*
+## [Ipsos : un incident de <b>cybersécurité</b> et une possible fuite de données - Fuites Infos](https://fuitesinfos.fr/article/2026-11-16-ipsos)  
+*Source : fuitesinfos.fr | Publication : 2026-11-16*
 
-- cybercriminalité.
-- Le point sur ce que l'on sait ... « Une enquête judiciaire est en cours », a-t-elle ajouté: elle a été confiée à la Brigade de lutte.
+- Les entreprises clientes et les partenaires commerciaux d'Ipsos pourraient être concernés par l'incident de cybersécurité que le groupe a annoncé le 16 novembre 2026.
+- Ipsos, groupe français d'études de marché et de sondages coté à Euronext Paris et présent sur 90 marchés, indique que l'un de ses systèmes d'information internes a été touché.
+- Il ne dit pas, à ce stade, si des données ont été dérobées.
+- Communiqué publié par Ipsos le 16 novembre 2026.
 
-## [&quot;Des courriers ont pu être lus&quot; : ce que l'on sait de la cyberattaque contre Maileva, filiale de ...](https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-courriers-ont-pu-etre-lus-ce-que-l-on-sait-de-la-cyberattaque-contre-maileva-filiale-de-la-poste-qui-a-conduit-au-vol-de-donnees-de-22-millions-de-personnes_8283266.html)  
-*Source : franceinfo.fr | Publication : 2026-11-15*
+## [&quot;L'IA, une arme à double tranchant dans la <b>cybersécurité</b>&quot; - BX1](https://bx1.be/categories/societe/lia-une-arme-a-double-tranchant-dans-la-cybersecurite/)  
+*Source : bx1.be | Publication : 2026-11-16*
 
-- "Des courriers ont pu être lus" : ce que l'on sait de la cyberattaque contre Maileva, filiale de La Poste, qui a conduit au vol de données de 22 millions de personnes La brigade de lutte contre la cybercriminalité a été chargée de l'enquête, a confirmé dimanche le parquet de Paris.
-- Les investigations ont été ouvertes pour "atteinte à un système de traitement automatisé de données" par la section cybercriminalité du parquet parisien.
-- C'est l'une des cyberattaques les plus importantes commises en France.
-- Maileva, une filiale du groupe La Poste, a annoncé samedi 14 novembre avoir été touchée par une cyberattaque de grande ampleur.
+- Si on parle de cybersécurité , aujourd'hui c'est parce que la cybercriminalité gagne du terrain en Belgique.
+- En effet, la menace est réelle et elle.
 
-## [Ivoire Tech Forum : L'ANSSI plaide pour une synergie entre les DSI et les RSSI face ... - Abidjan.net](https://news.abidjan.net/articles/750008/ivoire-tech-forum-lanssi-plaide-pour-une-synergie-entre-les-dsi-et-les-rssi-face-aux-enjeux-de-cybersecurite)  
-*Source : news.abidjan.net | Publication : 2026-11-15*
+## [L'entreprise française Ipsos touchée par une cyberattaque, une enquête en cours](https://www.liberation.fr/lifestyle/hightech/lentreprise-francaise-ipsos-touchee-par-une-cyberattaque-une-enquete-en-cours-20261116_UPBTFGJUXRF2BF5YKSFK5AMMZY/)  
+*Source : liberation.fr | Publication : 2026-11-16*
 
-- La collaboration entre les directeurs des systèmes d'information (DSI) et les responsables de la sécurité des systèmes d'information (RSSI) a été au cœur d'un masterclass organisé en marge de l'Ivoire Tech Forum, qui s'est tenu du 11 au 13 novembre 2026 à Abidjan-Cocody.
-- Les échanges ont mis en évidence la nécessité d'une meilleure coordination entre ces deux fonctions pour accompagner la transformation numérique des organisations tout en renforçant la sécurité de leurs infrastructures informatiques. «.
-- Innovation organisationnelle : DSI/RSSI, amis ou ennemis ?.
-- ».
+- «Ipsos a identifié un incident de cybersécurité affectant un système d'information interne et a déposé une plainte auprès des autorités compétentes».
 
-## [Cyberattaque d'une filiale de La Poste : enquête confiée à la Brigade <b>cybercriminalité</b>](https://www.europe1.fr/police-justice/cyberattaque-dune-filiale-de-la-poste-enquete-confiee-a-la-brigade-cybercriminalite-1235340)  
-*Source : europe1.fr | Publication : 2026-11-15*
+## [Black Friday : la messagerie d'entreprise, angle mort de la <b>cybersécurité</b> - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1557907-black-friday-la-messagerie-d-entreprise-angle-mort-de-la-cybersecurite/)  
+*Source : journaldunet.com | Publication : 2026-11-16*
 
-- La Brigade de lutte contre la cybercriminalité est chargée de l'enquête sur la cyberattaque massive mi-septembre visant Maileva, filiale du groupe La Poste, a confirmé dimanche le parquet de Paris, sollicité par l'AFP.
-- Une cyberattaque a touché Maileva, filiale de La Poste.
-- La Brigade de lutte contre la cybercriminalité est chargée de l'enquête.
-- Les investigations ont été ouvertes pour "atteinte à un système de traitement automatisé de données" par la section cybercriminalité du parquet parisien et confiées à la BL2C, service d'enquête spécialisé.
+- Black Friday : la messagerie d'entreprise, angle mort de la cybersécurité À l'heure où le Black Friday bat tous les records de trafic commercial, la messagerie professionnelle absorbe elle aussi le choc.
+- Un salarié reçoit une promotion trop belle pour être honnête, clique, et saisit ses identifiants sur un portail qui ressemble à s'y méprendre à celui de son entreprise ou d'un grand magasin en ligne.
+- Il ne pensait exposer que lui-même ; c'est tout le système d'information de son employeur qui l'est avec lui.
+- Le Black Friday ne se joue plus seulement dans les rayons ou sur les sites marchands : il se joue aussi, chaque année un peu plus, dans la boîte de réception professionnelle.
 
-## [Cyberattaque d'une filiale de La Poste : l'enquête confiée à la Brigade <b>cybercriminalité</b>](https://www.sudouest.fr/economie/cybersecurite/cyberattaque-d-une-filiale-de-la-poste-l-enquete-confiee-a-la-brigade-cybercriminalite-31535861.php)  
-*Source : sudouest.fr | Publication : 2026-11-15*
+## [Neutraliser les <b>cybermenaces</b> : comment les passkeys protègent le fret aérien](https://www.journaldunet.com/cybersecurite/1557919-neutraliser-les-cybermenaces-comment-les-passkeys-protegent-le-fret-aerien/)  
+*Source : journaldunet.com | Publication : 2026-11-16*
 
-- Cette cyberattaque, une des plus importantes commises en France, a conduit au vol des coordonnées de 22 millions de personnes, selon La Poste La Brigade de lutte contre la cybercriminalité est chargée de l’enquête sur la cyberattaque massive mi-septembre visant Maileva, filiale du groupe La Poste, a confirmé dimanche le parquet de Paris.
-- Les investigations ont été ouvertes pour « atteinte à un système de traitement automatisé de données » par la section cybercriminalité du parquet parisien et confiées à la BL2C, service d’enquête spécialisé.
+- Neutraliser les cybermenaces : comment les passkeys protègent le fret aérien Dans un secteur où quelques minutes de perturbation peuvent avoir des répercussions sur toute une chaîne logistique, la cybersécurité est devenue un enjeu opérationnel majeur.
+- Il y a plus d’un an, une cyberattaque visant Collins Aerospace, un fournisseur de technologies aéronautiques, perturbait les systèmes d’enregistrement de plusieurs grands aéroports européens, dont Bruxelles, Berlin et Londres-Heathrow.
+- Cet incident a illustré concrètement les effets en cascade qu’une compromission d’un prestataire peut avoir sur un écosystème aussi interconnecté.
+- Le fret aérien repose en effet sur un écosystème interconnecté de compagnies aériennes, aéroports, transitaires, logisticiens et prestataires technologiques, dont les systèmes doivent fonctionner de manière coordonnée.
 
-## [Cyberattaque contre Maileva, filiale de La Poste : la Brigade de lutte contre la ... - ici.fr](https://www.ici.fr/infos/faits-divers-justice/cyberattaque-contre-maileva-filiale-de-la-poste-la-brigade-de-lutte-contre-la-cybercriminalite-chargee-de-l-enquete-4022466)  
-*Source : ici.fr | Publication : 2026-11-15*
+## [Ipsos a constaté un incident de <b>cybersécurité</b> affectant un système d'information interne](https://www.boursorama.com/bourse/actualites-amp/ipsos-a-constate-un-incident-de-cybersecurite-affectant-un-systeme-d-information-interne-178741485837ae57ebb83c1aefadbe9c)  
+*Source : boursorama.com | Publication : 2026-11-16*
 
-- Cyberattaque contre Maileva, filiale de La Poste : la Brigade de lutte contre la cybercriminalité chargée de l’enquête Publié le Le parquet de Paris a confirmé dimanche l’ouverture d’une enquête, confiée à la brigade de lutte contre la cybercriminalité, sur la cyberattaque massive visant mi-septembre Maileva, filiale de La Poste.
-- Les coordonnées de 22 millions de personnes ont été volées, selon La Poste.
-- Le parquet de Paris a confirmé dimanche que la brigade de lutte contre la cybercriminalité (BL2C) était chargée de l’enquête sur la cyberattaque visant Maileva, filiale du groupe La Poste, mi-septembre.
-- Cette attaque, l’une des plus importantes commises en France, a conduit au vol des coordonnées de 22 millions de personnes, selon La Poste.
+- Ipsos a constaté un incident de cybersécurité affectant un système d'information interne information fournie par Reuters 16/11/2026 à 18:40 Ipsos SA ISOS.PA :.
+- Pour plus de détails, cliquez sur ISOS.PA (Rédaction de Gdansk).
 
-## [Maroc-Israël: La coopération militaire entre dans une nouvelle phase - L'Economiste](https://www.leconomiste.com/flash-infos/maroc-israel-la-cooperation-militaire-entre-dans-une-nouvelle-phase/)  
-*Source : leconomiste.com | Publication : 2026-11-15*
+## [Ipsos signale un incident de <b>cybersécurité</b> sur un système d'information interne](https://www.zonebourse.com/actualite-bourse/ipsos-signale-un-incident-de-cybersecurite-sur-un-systeme-d-information-interne-ce785edfdd8bf42c)  
+*Source : zonebourse.com | Publication : 2026-11-16*
 
-- cybersécurité et formation: le Maroc entend renforcer ses capacités et développer une base industrielle de défense autonome.
-- La coopération.
+- PARIS (Agefi-Dow Jones)--Le groupe d'études par enquêtes Ipsos a annoncé lundi soir avoir identifié un incident de cybersécurité affectant un.
 
-## [Cyberattaque d'une filiale de La Poste: la Brigade <b>cybercriminalité</b> enquête - Zonebourse](https://ch.zonebourse.com/actualite-bourse/cyberattaque-d-une-filiale-de-la-poste-la-brigade-cybercriminalite-enquete-ce785ededc81ff21)  
-*Source : ch.zonebourse.com | Publication : 2026-11-15*
+## [Ipsos signale un incident de <b>cybersécurité</b> sur un système d'information interne](https://www.abcbourse.com/marches/ipsos-signale-un-incident-de-cybersecurite-sur-un-systeme-d-information-interne_706180)  
+*Source : abcbourse.com | Publication : 2026-11-16*
 
-- Paris - La Brigade de lutte contre la cybercriminalité est chargée de l'enquête sur la cyberattaque massive mi-septembre visant Maileva,.
+- Le groupe d'études par enquêtes Ipsos a annoncé lundi soir avoir identifié un incident de cybersécurité affectant un système d'information interne et que cet incident n'a eu aucun impact sur ses activités ni sur sa capacité à tenir ses engagements envers ses clients.
+- Ipsos a déposé plainte auprès des autorités compétentes.
+- "Dès la découverte de cet incident, nous avons immédiatement activé nos procédures d'intervention, pris des mesures pour en limiter la portée et fait appel à des spécialistes externes en cybersécurité afin de nous aider dans notre enquête.
+- L'enquête est en cours afin de déterminer la nature et l'ampleur de l'incident", précise le groupe dans un communiqué.
 
-## [Drogues, armes et cryptos : la France frappe un grand coup contre le dark web - 01net.com](https://www.01net.com/actualites/drogues-armes-cryptos-france-interpelle-23-clients-vendeurs-dark-web.html)  
-*Source : 01net.com | Publication : 2026-11-15*
+## [Ipsos a constaté un incident de <b>cybersécurité</b> affectant un système d'information interne](https://fr.tradingview.com/news/reuters.com,2026:newsml_FWN46X1K3:0/)  
+*Source : fr.tradingview.com | Publication : 2026-11-16*
 
-- La France a pris part à un vaste coup de filet contre le dark web, orchestré par Europol.
-- L’agence de police criminelle de l’Union européenne indique que l’opération, baptisée TorNado, a abouti à 354 arrestations et des centaines de perquisitions dans le monde.
-- Sur le sol français, la gendarmerie nationale a interpellé 23 personnes et saisi 50 kilos de cannabis.
-- Menée de mai 2025 à octobre 2026, l’opération de police s’est concentrée sur l’identification de vendeurs et d’acheteurs de drogues sur le dark web.
+- Actualités/Reuters/Ipsos a constaté un incident de cybersécurité affectant un système d'information interneIpsos a constaté un incident de cybersécurité affectant un système d'information interneLire l'article completObtenez un accès illimité aux articles de Reuters et à toutes les autres sources d'actualités sur TradingView.Continuer à lire.
 
-## [Une nouvelle alliance met en garde contre le streaming illégal](https://www.vermoegenszentrum.ch/fr/bourses-et-marches/news/une-nouvelle-alliance-met-en-garde-contre-le-streaming-illegal)  
-*Source : vermoegenszentrum.ch | Publication : 2026-11-15*
+## [À peine créée et déjà licorne : l'ascension fulgurante de la startup israélienne Corma - IsraJ](https://israj.media-j.com/article/74764/a-peine-creee-et-deja-licorne-lascension-fulgurante-de-la-startup-israelienne-corma)  
+*Source : israj.media-j.com | Publication : 2026-11-16*
 
-- En bref Généré par IA En Suisse, 634'000 personnes utilisent des services de streaming illégaux, soit 9% de la population âgée de 16 à 74 ans, générant 33 millions de francs de chiffre d'affaires.
-- - Les jeunes de 16 à 24 ans sont particulièrement touchés avec 18% d'utilisateurs illégaux, soit deux fois la moyenne suisse, en raison de prix élevés et de fragmentation de l'offre.
-- - L'Office fédéral de la cybersécurité avertit des risques importants: logiciels malveillants, hameçonnage et fraudes facilitées par l'intelligence artificielle.
-- - Description Berne (awp/ats) - De plus en plus de Suisses se tournent vers des sites de streaming illégaux en raison de la hausse des prix des abonnements et de la fragmentation de l'offre.
+- Fondée il y a seulement un an, la start-up israélienne Corma vient de rejoindre le cercle très convoité des « licornes », ces entreprises non cotées en Bourse valorisées à au moins un milliard de dollars.
+- Spécialisée dans la cybersécurité et l'intelligence artificielle, elle a annoncé ce lundi une levée de fonds de 125 millions de dollars, portant sa valorisation à un milliard de dollars.
+- L'opération, menée par le fonds américain NEA avec la participation de Sequoia Capital, Khosla Ventures et Coatue, intervient seulement trois mois après une première levée de 60 millions de dollars.
+- Au total, Corma a déjà attiré 185 millions de dollars d'investissements depuis sa création en 2025.
