@@ -1,143 +1,143 @@
-# Résumés – 2026-11-17
+# Résumés – 2026-11-18
 
 
-## [La <b>cybercriminalité</b> : quelle est la solution ? - JW.ORG](https://www.jw.org/fr/bibliothèque/rubriques/divers/cybercriminalite-solution/)  
-*Source : jw.org | Publication : 2026-11-17*
+## [Microsoft lance de nouveaux modèles d'IA spécialisés pour concurrencer Anthropic et OpenAI](https://bourse.fortuneo.fr/actualites-amp/microsoft-lance-de-nouveaux-modeles-d-ia-specialises-pour-concurrencer-anthropic-et-openai-5293337)  
+*Source : bourse.fortuneo.fr | Publication : 2026-11-18*
 
-- La cybercriminalité : quelle est la solution ?.
-- Les ordinateurs, Internet, les appareils mobiles et l’intelligence artificielle (IA) ont révolutionné la vie moderne.
-- Mais ces technologies ont aussi donné naissance à une nouvelle forme de criminalité : la cybercriminalité. «.
-- Je n’aurais jamais pensé, pas même une seconde, que je serais un jour victime d’une arnaque en ligne.
+- (Zonebourse.com) - Microsoft a dévoilé mardi, lors de sa conférence Ignite à San Francisco, plusieurs modèles d'intelligence artificielle spécialisés dans la programmation, la cybersécurité, la génération d'images et la transcription.
+- Le groupe américain cherche à renforcer sa compétitivité face à Anthropic et OpenAI en proposant des systèmes aux performances comparables, mais à des coûts d'exploitation sensiblement inférieurs.
+- Cette stratégie repose sur le développement de modèles adaptés à des tâches précises, plutôt que sur la seule recherche de performances maximales avec des systèmes généralistes.
+- Microsoft entend ainsi améliorer l'efficacité économique de ses technologies tout en élargissant leur utilisation dans les entreprises.
 
-## [Microsoft 365 est hors service. Quel est votre plan de secours ? - Health-ISAC](https://health-isac.org/fr/Microsoft-365-est-hors-service :-quel-est-votre-plan-de-secours /)  
-*Source : health-isac.org | Publication : 2026-11-17*
+## [Un composant JavaScript malveillant distribué sur près de 180 sites Web majeurs - LeMagIT](https://www.lemagit.fr/actualites/366654823/Un-composant-JavaScript-malveillant-distribue-sur-pres-de-180-sites-Web-majeurs)  
+*Source : lemagit.fr | Publication : 2026-11-17*
 
-- Microsoft 365 est hors service.
-- Quel est votre plan de secours ?.
-- Le 12 novembre 2026, Microsoft 365 a subi une panne généralisée, perturbant la messagerie professionnelle et d'autres services cloud dans plusieurs régions.
-- Citation extraite de Health-ISAC : Errol Weiss, responsable de la sécurité chez Health-ISAC, a décrit une technique d'hameçonnage vocal et a déclaré : « Les attaquants se font passer pour le service d'assistance informatique et font pression sur les employés pour qu'ils ouvrent des pages de connexion frauduleuses sur leurs téléphones personnels.
+- Gajus - Fotolia Un composant JavaScript malveillant distribué sur près de 180 sites Web majeurs Air France-KLM, Zoom, la BBC, CNN, Salesforce, ou encore Ikea, pour ne citer que quelques exemples, ont vu leurs sites Web temporairement infectés par un dangereux script malveillant.
+- Hier, 16 novembre, un composant JavaScript a empoisonné les sites Web de près 180 organisations dans le monde entier.
+- Parmi elles, notamment, Air France-KLM, Zoom, la BBC, CNN, Salesforce, Ikea, mais aussi Thales, pour le site de sa communauté de cybersécurité.
+- Dans un billet, Scott Helme (de Report URI), qui a lancé l’alerte, explique : « le maliciel était un kit multimission.
 
-## [Ipsos signale une faille de <b>cybersécurité</b> dans son système interne - WebDisclosure](https://www.webdisclosure.com/article/ipsos-epa-ips-ipsos-signale-une-faille-de-cybersecurite-dans-son-systeme-interne-qzbwISqb3vl)  
-*Source : webdisclosure.com | Publication : 2026-11-17*
+## [Au début du mois, le FBI a confirmé que des hackers nord-coréens étaient derrière le vol de ...](https://www.facebook.com/blickfr/posts/au-début-du-mois-le-fbi-a-confirmé-que-des-hackers-nord-coréens-étaient-derrière/1515756873942900/)  
+*Source : facebook.com | Publication : 2026-11-17*
 
-- on IPSOS (EPA:IPS) Ipsos signale une faille de cybersécurité dans son système interne Paris, le 16 novembre 2026 – Ipsos a signalé une faille de sécurité informatique concernant l'un de ses systèmes d'information internes.
-- L'entreprise a déposé une plainte officielle auprès des autorités compétentes le 11 novembre.
-- Dès la découverte de la faille, Ipsos a immédiatement déclenché ses procédures de réponse aux incidents.
-- L'entreprise a pris des mesures pour contenir la situation et a fait appel à des experts externes en cybersécurité pour l'aider dans l'enquête en cours.
+- # CyberSécurité #Crypto #Blockchain #Hackers #CoréeDuNord #Lazarus #Cyberattaque #SécuritéNumérique #LinkedInTech · No photo description available.
 
-## [Les députés votent sur le projet de loi <b>cybersécurité</b>, en pleine multiplication des cyberattaques](https://www.notretemps.com/depeches/les-deputes-votent-sur-le-projet-de-loi-cybersecurite-en-pleine-multiplication-des-cyberattaques-141392)  
-*Source : notretemps.com | Publication : 2026-11-17*
+## [Cyberattaque chez Optimizely : Air France, Ledger, Zoom et la BBC parmi 178 organisations ...](https://www.cyberattaque.org/cyberattaque-chez-optimizely-air-france-ledger-zoom-et-la-bbc-parmi-178-organisations-touchees/)  
+*Source : cyberattaque.org | Publication : 2026-11-17*
 
-- Les députés votent sur le projet de loi cybersécurité, en pleine multiplication des cyberattaques Les députés devraient adopter mardi un projet de loi renforçant les obligations de milliers d'entreprises en matière de cybersécurité, un texte très attendu alors que les cyberattaques se multiplient, mais dont beaucoup déplorent qu'il arrive avec des années de retard.
-- France Travail, fisc, Urssaf.
-- Les fuites de données sont en augmentation depuis plusieurs années.
-- Ce week-end encore, une filiale du groupe La Poste a annoncé avoir été victime d'une cyberattaque de grande ampleur mi-septembre, conduisant au vol des coordonnées de 22 millions de personnes.
+- Air France, Transavia, Ledger, Zoom, la BBC, CNN, HSBC ou encore Salesforce figurent parmi les 178 organisations dont des scripts informatiques ont été compromis lors d’une cyberattaque mondiale survenue le 16 novembre 2026.
+- À l’origine de cette opération, une vulnérabilité exploitée sur la plateforme Optimizely, qui a permis à des cybercriminels de diffuser du JavaScript malveillant directement depuis une infrastructure normalement considérée comme fiable.
+- Le code était notamment capable de détourner des transferts de cryptomonnaies, d’intercepter des données bancaires et de cibler les iPhone à l’aide d’outils d’exploitation sophistiqués.
+- Optimizely a officiellement confirmé l’incident et annoncé avoir corrigé la vulnérabilité.
 
-## [L'état de la menace cyber (année 2025) - Gend'élus, Gendarmerie nationale](https://www.gendarmerie.interieur.gouv.fr/gendelus/cybermenaces/l-etat-de-la-menace-cyber-annee-2025)  
-*Source : gendarmerie.interieur.gouv.fr | Publication : 2026-11-16*
+## [OpenAI travaillera avec l'OTAN sur la <b>cybersécurité</b> - Le Devoir](https://www.ledevoir.com/monde/1025792/openai-travaillera-otan-cybersecurite)  
+*Source : ledevoir.com | Publication : 2026-11-17*
 
-- Le podium des cybermenaces en 2025 : • les attaques DDoS (saturation de sites et services en ligne) : 53 % des incidents, portées par l'hacktivisme ;.
+- OpenAI a annoncé mardi coopérer avec l’OTAN pour des solutions de cyberdéfense et des moyens d’enquête, alors que se déroule en Turquie un salon de l’Alliance atlantique sur la sécurité numérique qui consacre l’omniprésence de l’IA dans la défense.
+- Avec Daybreak, OpenAI propose à l’organisation transatlantique un panel de solutions « allant de la revue de logiciels et de l’investigation d’activités suspectes à la validation de vulnérabilités et au développement et test de correctifs », selon un communiqué.
+- L’annonce intervient pendant la NATO Edge, conférence phare sur la technologie et l’armement numérique organisée par l’Agence d’information et de communication de l’OTAN (NCIA), à Izmir, dans l’ouest de la Turquie.
+- La NATO Edge réunit les commandements militaires, gouvernements et industriels de défense des pays membres pour accélérer le déploiement de capacités technologiques critiques. «.
 
-## [<b>Cybersécurité</b> : la consolidation sur une plateforme unique pousse 26 % des entreprises ... - ITRnews](https://itrnews.com/articles/211650/cybersecurite-la-consolidation-sur-une-plateforme-unique-pousse-26-des-entreprises-a-envisager-de-changer-de-fournisseur.html)  
-*Source : itrnews.com | Publication : 2026-11-16*
+## [Cyberattaques: le FBI alerte sur la libre disponibilité d'outils utilisant l'IA et capables de ...](https://www.bfmtv.com/tech/cybersecurite/cyberattaques-le-fbi-alerte-sur-la-libre-disponibilite-d-outils-utilisant-l-ia-et-capables-de-pirater-des-entreprises-en-moins-de-trois-heures_AV-202611170701.html)  
+*Source : bfmtv.com | Publication : 2026-11-17*
+
+- Cyberattaques: le FBI alerte sur la libre disponibilité d'outils utilisant l'IA et capables de pirater des entreprises en moins de trois heures Les pirates informatiques n'ont parfois plus besoin que de quelques heures pour s'introduire dans le système d'une entreprise.
+- Et ils peuvent désormais compter sur l'IA pour accélérer considérablement leurs opérations.
+- Dans un bulletin d'alerte publié le 13 novembre, le FBI met en garde contre la multiplication des cyberattaques menées à l'aide d'outils autonomes basés sur l'IA.
+- Au cœur de ces opérations figure Artex, une plateforme open source de test d'intrusion, rapporte Techcrunch.
+
+## [Recrutement Tech : la <b>cybersécurité</b> s'impose comme la priorité absolue pour 2027 - infoDSI](https://infodsi.com/articles/211675/recrutement-tech-la-cybersecurite-simpose-comme-la-priorite-absolue-pour-2027.html)  
+*Source : infodsi.com | Publication : 2026-11-17*
 
 - Veuillez activer Javascript.
 
-## [l'escroquerie en ligne lors des achats est le cyberrisque le plus répandu en Suisse | - EQS News](https://www.eqs-news.com/news/corporate-news/avis-aux-adeptes-du-black-friday-l-escroquerie-en-ligne-lors-des-achats-est-le-cyberrisque-le-plus-repandu-en-suisse/9f881778-e7a3-4564-bb7c-6842f4719ca3_fr)  
-*Source : eqs-news.com | Publication : 2026-11-16*
+## [Risque cyber fournisseurs : les achats encore trop peu impliqués](https://www.decision-achats.fr/strategie-achats-1236/relation-fournisseurs-2263/risque-cyber-fournisseurs-les-achats-encore-trop-peu-impliques-52868/amp)  
+*Source : decision-achats.fr | Publication : 2026-11-17*
 
-- Helvetia Baloise Holding AG Avis aux adeptes du Black Friday: l’escroquerie en ligne lors des achats est le cyberrisque le plus répandu en Suisse Communiqué de presse Bâle, le 16 novembre 2026 L’essentiel en bref: En Suisse, une personne sur trois (31%) a déjà été victime directement (21%) et/ou indirectement (12%) de cybercriminalité.
-- - Parmi les victimes de cybercriminalité, l’escroquerie lors d’achats en ligne est la forme de fraude la plus courante (42%).
-- Elle est suivie du phishing (29%) et du piratage de comptes personnels (24%).
-- - Les jeunes adultes âgés de 18 à 29 ans sont particulièrement touchés: 34% ont été directement victimes de cybercriminalité, soit une proportion nettement supérieure à celle observée, par exemple, chez les 50-59 ans, où ce chiffre n’est que de 15%.
+- La cybersécurité des fournisseurs est devenue un enjeu opérationnel pour les entreprises.
+- Selon la quatrième édition de l’Observatoire du risque cyber lié aux fournisseurs, réalisée par Board of Cyber en partenariat avec le CESIN et publiée en novembre 2026, 40 % des organisations interrogées déclarent avoir subi une cyberattaque liée à un fournisseur au cours des douze derniers mois.
+- Cette proportion atteint 55 % parmi celles qui travaillent avec plus de 200 fournisseurs, contre 21 % pour les organisations disposant d’un portefeuille plus restreint.
+- L’étude, menée entre juin et septembre 2026 auprès de près de 200 responsables de la cybersécurité, du risque et de la gestion des tiers, met en évidence un décalage entre la prise de conscience du risque et les moyens mobilisés pour le maîtriser.
 
-## [ESET, partenaire officiel de la réunion annuelle des accélérateurs DIANA de l'OTAN](https://www.eset.com/fr/about/newsroom/press-releases/actualites-de-lentreprise/eset-partenaire-diana-otan/)  
-*Source : eset.com | Publication : 2026-11-16*
+## [L'IA amplifie la <b>cybercriminalité</b> en Afrique - Africa Defense Forum](https://adf-magazine.com/fr/2026/11/lia-amplifie-la-cybercriminalite-en-afrique/)  
+*Source : adf-magazine.com | Publication : 2026-11-17*
 
-- ESET, partenaire officiel de la réunion annuelle des accélérateurs DIANA de l’OTAN ESET est fier d’être le partenaire officiel de la réunion annuelle des accélérateurs DIANA de l’OTAN à Prague, organisée par le pôle Défense de CzechInvest.
-- L’événement s’est tenu le 29 octobre au soir, à bord du Grand Bohemia.
-- Il a été inauguré par Jakub Landovský, du ministère tchèque de la Défense, Jan Michal, représentant de CzechInvest, Kadri Tammai, directeur régional de DIANA à l’OTAN, et David Března, vice-président des solutions d’entreprise chez ESET.
-- Le programme DIANA de l’OTAN met en relation des startups innovantes avec des experts techniques au sein de centres d’essais alliés, afin d’accélérer le développement et l’adoption de technologies à double usage, civil et militaire.
+- Selon un nouveau rapport d’Interpol, plus de la moitié des cybercrimes signalés en Afrique sont facilités par l’intelligence artificielle ; celle-ci, qui servait autrefois à soutenir les attaques, est devenue le principal moteur de la cybercriminalité sur le continent.
+- Les chercheurs d’Interpol indiquent dans leur évaluation de la cybercriminalité en Afrique pour 2026 : « L’IA est désormais utilisée pour automatiser chaque étape du cycle de vie d’une attaque : de la reconnaissance et l’hameçonnage à l’extorsion et aux techniques d’évasion.
+- Les criminels opèrent maintenant à la vitesse des machines ; l’IA permet des attaques plus rapides, plus facilement extensibles et plus difficiles à attribuer. ».
+- Dans un rapport distinct, la société Anthropic spécialisée dans l’IA a révélé que des cybercriminels utilisent son agent (Claude) pour lancer des cyberattaques, effectuer des opérations de surveillance et orchestrer des campagnes d’influence en ligne.
 
-## [Pourquoi l'Europe doit développer ses propres modèles d'IA dédiés à la <b>cybersécurité</b> ?](https://www.bfmtv.com/economie/professionnels/pourquoi-l-europe-doit-developper-ses-propres-modeles-d-ia-dedies-a-la-cybersecurite_AB-202611160674.html)  
-*Source : bfmtv.com | Publication : 2026-11-16*
+## [«123456» est encore le mot de passe le plus courant - l-express.ca](https://l-express.ca/123456-est-encore-le-mot-de-passe-le-plus-courant/)  
+*Source : l-express.ca | Publication : 2026-11-17*
 
-- Pourquoi l’Europe doit développer ses propres modèles d’IA dédiés à la cybersécurité ?.
-- À des fins personnelles comme professionnelles, l’intelligence artificielle fascine autant qu’elle questionne.
-- Aujourd’hui, elle ne se limite plus à générer des contenus.
-- Avec l’essor de l’IA agentique, certains systèmes sont désormais capables de planifier et d’exécuter de manière autonome des actions complexes, en accédant à des données, des outils et des services qu’il reste essentiel de protéger.
+- «123456» est encore le mot de passe le plus courant au Canada comme dans le monde entier, suivi par «admin», selon le 8e classement annuel des spécialistes en cybersécurité chez NordPass.
+- Dans la majorité des 44 pays analysés, les mots de passe les plus courants étaient constitués des mêmes combinaisons simples «admin», «password», «qwerty», ainsi que des variantes de «12345» et d’autres séquences numériques similaires.
+- «Il reste encore beaucoup à faire pour sensibiliser le public à la sécurité des mots de passe», lit-on dans la page web consacrée au classement.
+- La culture populaire En plus de présenter les 200 mots de passe les plus utilisés, l’étude 2026 examine la situation sous l’angle de la culture populaire.
 
-## [Sans fournir de détail sur &quot;la nature et l'ampleur de l'incident&quot;, l'institut de sondage Ipsos ...](https://www.bfmtv.com/tech/cybersecurite/sans-fournir-de-detail-sur-la-nature-et-l-ampleur-de-l-incident-l-institut-de-sondage-ipsos-annonce-avoir-ete-victime-d-une-cyberattaque_AD-202611160791.html)  
-*Source : bfmtv.com | Publication : 2026-11-16*
+## [La séance est ouverte ! - <b>Cybersécurité</b> et résilience : vote solennel - 17/11/2026 - Vidéo Dailymotion](https://www.dailymotion.com/video/xbxjsy6)  
+*Source : dailymotion.com | Publication : 2026-11-17*
 
-- Sans fournir de détail sur "la nature et l'ampleur de l'incident", l'institut de sondage Ipsos annonce avoir été victime d'une cyberattaque L'entreprise française Ipsos, spécialisée dans les sondages et les études de marché, a été touchée par une cyberattaque et a porté plainte, a-t-elle annoncé lundi dans un communiqué, assurant que celle-ci n'avait pas eu d'effet sur ses opérations.
-- "Ipsos a identifié un incident de cybersécurité affectant un système d'information interne et a déposé une plainte auprès des autorités compétentes" le 11 novembre, a indiqué le groupe.
-- Ce dernier, qui compte 20.000 employés et est présent dans 90 pays, n'a pas donné de détails sur la date à laquelle l'attaque a été découverte, ni sur ses éventuelles conséquences.
-- "L'enquête est en cours afin de déterminer la nature et l'ampleur de l'incident", a souligné Ipsos, précisant toutefois que cela n'avait eu "aucun impact" sur ses opérations.
+- Font.
 
-## [Ipsos : un incident de <b>cybersécurité</b> et une possible fuite de données - Fuites Infos](https://fuitesinfos.fr/article/2026-11-16-ipsos)  
-*Source : fuitesinfos.fr | Publication : 2026-11-16*
+## [Microsoft dévoile des modèles pour le codage, la <b>cybersécurité</b> et la prise de décision ...](https://www.zonebourse.com/actualite-bourse/microsoft-devoile-des-modeles-pour-le-codage-la-cybersecurite-et-la-prise-de-decision-fondee-sur-la-ce785edcdd80f12d)  
+*Source : zonebourse.com | Publication : 2026-11-17*
 
-- Les entreprises clientes et les partenaires commerciaux d'Ipsos pourraient être concernés par l'incident de cybersécurité que le groupe a annoncé le 16 novembre 2026.
-- Ipsos, groupe français d'études de marché et de sondages coté à Euronext Paris et présent sur 90 marchés, indique que l'un de ses systèmes d'information internes a été touché.
-- Il ne dit pas, à ce stade, si des données ont été dérobées.
-- Communiqué publié par Ipsos le 16 novembre 2026.
+- Microsoft a annoncé mardi le lancement de modèles d'intelligence artificielle conçus spécifiquement pour le codage, la cybersécurité et la prise.
 
-## [&quot;L'IA, une arme à double tranchant dans la <b>cybersécurité</b>&quot; - BX1](https://bx1.be/categories/societe/lia-une-arme-a-double-tranchant-dans-la-cybersecurite/)  
-*Source : bx1.be | Publication : 2026-11-16*
+## [Conf. IIC Can. 2025 – Comment l'IA change le paysage de la <b>cybersécurité</b> - Dossier public](https://www.cpac.ca/dossier-public/l-episode/conf-iic-can-2025---comment-lia-change-le-paysage-de-la-cybersecurite?id=1237b085-14de-425c-948b-b6040fb1ebe9)  
+*Source : cpac.ca | Publication : 2026-11-17*
 
-- Si on parle de cybersécurité , aujourd'hui c'est parce que la cybercriminalité gagne du terrain en Belgique.
-- En effet, la menace est réelle et elle.
+- Passer au contenu principal Défiler jusqu'au bas de la page Ouvrir le menu latéral Fermer le menu latéral Logo CPAC - Retour à la page d'accueil En direct Vidéos archivées Chambre Sénat English Ouvrir la recherche Fermer la recherche Ouvrir la recherche Fermer la recherche Aide vidéo Que recherchez-vous ?.
+- Recherche Vidéos archivées Chambre Sénat Textes Balados Émissions Horaire CPAC Dans votre région Fermer Conf.
+- IIC Can. 2025 – Comment l'IA change le paysage de la cybersécurité.
 
-## [L'entreprise française Ipsos touchée par une cyberattaque, une enquête en cours](https://www.liberation.fr/lifestyle/hightech/lentreprise-francaise-ipsos-touchee-par-une-cyberattaque-une-enquete-en-cours-20261116_UPBTFGJUXRF2BF5YKSFK5AMMZY/)  
-*Source : liberation.fr | Publication : 2026-11-16*
+## [Les députés adoptent le projet de loi renforçant les mesures de <b>cybersécurité</b> en entreprise ...](https://www.leparisien.fr/politique/les-deputes-adoptent-le-projet-de-loi-renforcant-les-mesures-de-cybersecurite-en-entreprise-alors-que-les-attaques-se-multiplient-17-11-2026-N7YSYSGXYNAHZBIKJKL3CQIAIA.php)  
+*Source : leparisien.fr | Publication : 2026-11-17*
 
-- «Ipsos a identifié un incident de cybersécurité affectant un système d'information interne et a déposé une plainte auprès des autorités compétentes».
+- Les députés ont adopté mardi 17 novembre un projet de loi renforçant les obligations de milliers d'entreprises en matière de cybersécurité , un texte.
 
-## [Black Friday : la messagerie d'entreprise, angle mort de la <b>cybersécurité</b> - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1557907-black-friday-la-messagerie-d-entreprise-angle-mort-de-la-cybersecurite/)  
-*Source : journaldunet.com | Publication : 2026-11-16*
+## [&quot;Des grandes entreprises craignent de se tromper dans la qualification NIS 2 de leurs entités&quot;](https://www.journaldunet.com/cybersecurite/1558107-certaines-grandes-entreprises-craignent-de-se-tromper-dans-la-qualification-nis-2-de-leurs-entites/)  
+*Source : journaldunet.com | Publication : 2026-11-17*
 
-- Black Friday : la messagerie d'entreprise, angle mort de la cybersécurité À l'heure où le Black Friday bat tous les records de trafic commercial, la messagerie professionnelle absorbe elle aussi le choc.
-- Un salarié reçoit une promotion trop belle pour être honnête, clique, et saisit ses identifiants sur un portail qui ressemble à s'y méprendre à celui de son entreprise ou d'un grand magasin en ligne.
-- Il ne pensait exposer que lui-même ; c'est tout le système d'information de son employeur qui l'est avec lui.
-- Le Black Friday ne se joue plus seulement dans les rayons ou sur les sites marchands : il se joue aussi, chaque année un peu plus, dans la boîte de réception professionnelle.
+- Aurélia Pons (Ashurst Perkins Coie) "Des grandes entreprises craignent de se tromper dans la qualification NIS 2 de leurs entités" Aurélia Pons, avocate spécialisée en droit de la cybersécurité chez Ashurst Perkins Coie, précise au JDN les difficultés que rencontrent ses clients dans leur conformité à la directive NIS 2.
+- JDN.
+- La directive NIS 2 est transposée différemment dans chaque pays de l'UE.
+- Quelles sont les difficultés que cela engendre pour les entreprises ?.
 
-## [Neutraliser les <b>cybermenaces</b> : comment les passkeys protègent le fret aérien](https://www.journaldunet.com/cybersecurite/1557919-neutraliser-les-cybermenaces-comment-les-passkeys-protegent-le-fret-aerien/)  
-*Source : journaldunet.com | Publication : 2026-11-16*
+## [Microsoft dévoile des modèles d'IA dédiés au codage et à la <b>cybersécurité</b>, alors qu'il se ...](https://fr.tradingview.com/news/reuters.com,2026:newsml_L5N46Y2AZ:0/)  
+*Source : fr.tradingview.com | Publication : 2026-11-17*
 
-- Neutraliser les cybermenaces : comment les passkeys protègent le fret aérien Dans un secteur où quelques minutes de perturbation peuvent avoir des répercussions sur toute une chaîne logistique, la cybersécurité est devenue un enjeu opérationnel majeur.
-- Il y a plus d’un an, une cyberattaque visant Collins Aerospace, un fournisseur de technologies aéronautiques, perturbait les systèmes d’enregistrement de plusieurs grands aéroports européens, dont Bruxelles, Berlin et Londres-Heathrow.
-- Cet incident a illustré concrètement les effets en cascade qu’une compromission d’un prestataire peut avoir sur un écosystème aussi interconnecté.
-- Le fret aérien repose en effet sur un écosystème interconnecté de compagnies aériennes, aéroports, transitaires, logisticiens et prestataires technologiques, dont les systèmes doivent fonctionner de manière coordonnée.
+- Microsoft dévoile des modèles d'IA dédiés au codage et à la cybersécurité, alors qu'il se lance dans la concurrence avec Anthropic et OpenAI Lire l'article complet Obtenez un accès illimité aux articles de Reuters et à toutes les autres sources d'actualités sur TradingView.
 
-## [Ipsos a constaté un incident de <b>cybersécurité</b> affectant un système d'information interne](https://www.boursorama.com/bourse/actualites-amp/ipsos-a-constate-un-incident-de-cybersecurite-affectant-un-systeme-d-information-interne-178741485837ae57ebb83c1aefadbe9c)  
-*Source : boursorama.com | Publication : 2026-11-16*
+## [Que contient le projet de loi de <b>cybersécurité</b>, adopté par les députés ce mardi après une ...](https://www.lefigaro.fr/secteur/high-tech/que-contient-le-projet-de-loi-de-cybersecurite-adopte-par-les-deputes-ce-mardi-apres-une-vague-de-cyberattaques-20261117)  
+*Source : lefigaro.fr | Publication : 2026-11-17*
 
-- Ipsos a constaté un incident de cybersécurité affectant un système d'information interne information fournie par Reuters 16/11/2026 à 18:40 Ipsos SA ISOS.PA :.
-- Pour plus de détails, cliquez sur ISOS.PA (Rédaction de Gdansk).
+- Que contient le projet de loi de cybersécurité, adopté par les députés ce mardi après une vague de cyberattaques ?.
+- Selon la ministre chargée du Numérique Anne Le Hénanff, plus de 18.000 entités dans 18 secteurs critiques seront concernées par de nouvelles obligations «en matière de gestion des risques, de sécurisation des sous-traitants» ou «de notification des incidents» à l’Anssi.
+- Passer la publicité Passer la publicitéLes députés ont adopté mardi un projet de loi renforçant les obligations de milliers d'entreprises en matière de cybersécurité, un texte très attendu alors que les cyberattaques se multiplient, mais dont beaucoup déplorent qu'il arrive avec deux années de retard.
+- Le projet de loi a été adopté par 464 voix contre 64, tous les groupes politiques votant favorablement, à l'exception de La France insoumise.
 
-## [Ipsos signale un incident de <b>cybersécurité</b> sur un système d'information interne](https://www.zonebourse.com/actualite-bourse/ipsos-signale-un-incident-de-cybersecurite-sur-un-systeme-d-information-interne-ce785edfdd8bf42c)  
-*Source : zonebourse.com | Publication : 2026-11-16*
+## [Mises à jour de sécurité pour Java annoncées : les exploitants doivent vérifier leurs systèmes](https://www.bacs.admin.ch/fr/warnung-java-fr)  
+*Source : bacs.admin.ch | Publication : 2026-11-17*
 
-- PARIS (Agefi-Dow Jones)--Le groupe d'études par enquêtes Ipsos a annoncé lundi soir avoir identifié un incident de cybersécurité affectant un.
+- Java4Shell : faille critique dans Java - installez immédiatement les mises à jour de sécurité Mise à jour du 18 novembre - La faille critique « Java4Shell » (CVE-2026-114938) permet à des attaquants d’exécuter du code malveillant sur les systèmes concernés via le réseau, dans certains cas sans authentification.
+- Des mises à jour de sécurité sont disponibles.
+- L’OFCS recommande aux exploitants de vérifier sans délai si leurs systèmes sont concernés et de les mettre à jour.
+- Java est une composante technique de nombreuses applications.
 
-## [Ipsos signale un incident de <b>cybersécurité</b> sur un système d'information interne](https://www.abcbourse.com/marches/ipsos-signale-un-incident-de-cybersecurite-sur-un-systeme-d-information-interne_706180)  
-*Source : abcbourse.com | Publication : 2026-11-16*
+## [Microsoft dévoile des modèles d'IA dédiés au codage et à la <b>cybersécurité</b>, alors qu'il ... - Boursorama](https://www.boursorama.com/bourse/actualites-amp/microsoft-devoile-des-modeles-d-ia-dedies-au-codage-et-a-la-cybersecurite-alors-qu-il-se-lance-dans-la-concurrence-avec-anthropic-et-openai-e44fca619524b4fcc636b4772582d6e2)  
+*Source : boursorama.com | Publication : 2026-11-17*
 
-- Le groupe d'études par enquêtes Ipsos a annoncé lundi soir avoir identifié un incident de cybersécurité affectant un système d'information interne et que cet incident n'a eu aucun impact sur ses activités ni sur sa capacité à tenir ses engagements envers ses clients.
-- Ipsos a déposé plainte auprès des autorités compétentes.
-- "Dès la découverte de cet incident, nous avons immédiatement activé nos procédures d'intervention, pris des mesures pour en limiter la portée et fait appel à des spécialistes externes en cybersécurité afin de nous aider dans notre enquête.
-- L'enquête est en cours afin de déterminer la nature et l'ampleur de l'incident", précise le groupe dans un communiqué.
+- Microsoft dévoile des modèles d'IA dédiés au codage et à la cybersécurité, alors qu'il se lance dans la concurrence avec Anthropic et OpenAI information fournie par Reuters 17/11/2026 à 19:12 Microsoft MSFT.O a annoncé mardi une suite de modèles d'IA dotés de puissantes capacités en matière de programmation et de cybersécurité, alors que l'entreprise s'efforce de rivaliser avec des concurrents tels qu'Anthropic et OpenAI.
+- Lors de la conférence Microsoft Ignite à San Francisco, l’entreprise a dévoilé un modèle de programmation informatique baptisé MAI Code 2, qui , selon elle , offre des performances quasi équivalentes à celles des modèles d’IA concurrents , pour un coût nettement inférieur.
+- L’entreprise a également mis en avant un modèle dédié à la cybersécurité qu’elle prévoit de proposer à un groupe restreint de clients afin de contribuer à faire face à la multiplication des vulnérabilités logicielles que les outils d’IA mettent de plus en plus en évidence.
+- L’entreprise a par ailleurs lancé de nouveaux modèles d’IA dédiés à la génération d’images et à la transcription.
 
-## [Ipsos a constaté un incident de <b>cybersécurité</b> affectant un système d'information interne](https://fr.tradingview.com/news/reuters.com,2026:newsml_FWN46X1K3:0/)  
-*Source : fr.tradingview.com | Publication : 2026-11-16*
+## [Cyberattaques : l'Assemblée nationale adopte le projet de loi sur la <b>cybersécurité</b> - La Croix](https://www.la-croix.com/politique/cyberattaques-l-assemblee-nationale-adopte-le-projet-de-loi-sur-la-cybersecurite-20261117)  
+*Source : la-croix.com | Publication : 2026-11-17*
 
-- Actualités/Reuters/Ipsos a constaté un incident de cybersécurité affectant un système d'information interneIpsos a constaté un incident de cybersécurité affectant un système d'information interneLire l'article completObtenez un accès illimité aux articles de Reuters et à toutes les autres sources d'actualités sur TradingView.Continuer à lire.
-
-## [À peine créée et déjà licorne : l'ascension fulgurante de la startup israélienne Corma - IsraJ](https://israj.media-j.com/article/74764/a-peine-creee-et-deja-licorne-lascension-fulgurante-de-la-startup-israelienne-corma)  
-*Source : israj.media-j.com | Publication : 2026-11-16*
-
-- Fondée il y a seulement un an, la start-up israélienne Corma vient de rejoindre le cercle très convoité des « licornes », ces entreprises non cotées en Bourse valorisées à au moins un milliard de dollars.
-- Spécialisée dans la cybersécurité et l'intelligence artificielle, elle a annoncé ce lundi une levée de fonds de 125 millions de dollars, portant sa valorisation à un milliard de dollars.
-- L'opération, menée par le fonds américain NEA avec la participation de Sequoia Capital, Khosla Ventures et Coatue, intervient seulement trois mois après une première levée de 60 millions de dollars.
-- Au total, Corma a déjà attiré 185 millions de dollars d'investissements depuis sa création en 2025.
+- Les députés ont adopté mardi 17 novembre le projet de loi renforçant les obligations de milliers d’entreprises en matière de cybersécurité, un texte très attendu alors que les cyberattaques se multiplient, mais dont beaucoup déplorent qu’il arrive avec deux années de retard.
+- Le projet de loi a été adopté par 464 voix contre 64, tous les groupes politiques votant favorablement, à l’exception de La France insoumise.
+- Le texte devra encore faire l’objet d’un accord entre députés et sénateurs en commission mixte paritaire.
+- Cette version commune sera ensuite soumise au vote définitif des parlementaires des deux chambres.
