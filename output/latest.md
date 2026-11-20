@@ -1,145 +1,149 @@
-# Résumés – 2026-11-19
+# Résumés – 2026-11-20
 
 
-## [Saint-Pascal victime d'un incident de <b>cybersécurité</b> - Info-web](https://info-web.ca/saint-pascal-victime-dun-incident-de-cybersecurite/)  
-*Source : info-web.ca | Publication : 2026-11-19*
+## [Donald Trump limoge le directeur de la <b>cybersécurité</b> de la Maison Blanche - Le Temps](https://www.letemps.ch/cyber/donald-trump-limoge-le-directeur-de-la-cybersecurite-de-la-maison-blanche)  
+*Source : letemps.ch | Publication : 2026-11-20*
 
-- La Ville de Saint-Pascal confirme avoir été victime d’un incident de cybersécurité survenu le 10 novembre dernier.
-- Dès la découverte de la situation, la Municipalité a fait appel à des experts en cybersécurité et à des conseillers juridiques externes afin de sécuriser ses systèmes et de mener une enquête.
-- Les autorités policières ont également été informées.
-- Selon la Ville, l’incident a entraîné des perturbations mineures, mais les services municipaux fonctionnent maintenant normalement.
+- Le directeur de la cybersécurité de la Maison Blanche, Sean Cairncross, a été limogé, a indiqué jeudi une source proche de la Maison Blanche.
+- Selon cette même source, Donald Trump a pleinement soutenu le renvoi du directeur de la cybersécurité, jugé dépourvu des compétences nécessaires pour occuper ce poste.
+- Sean Cairncross avait notamment mené les discussions sur la régulation de modèles d’intelligence artificielle (IA) toujours plus puissants.
+- L’intérim à ce poste sera assuré par Kirsten Davies, actuelle directrice des systèmes d’information (Chief Information Officer) du département de la Guerre.
 
-## [L'Assemblée adopte enfin le projet de loi <b>cybersécurité</b> - Affaires | Dalloz Actualité](https://www.dalloz-actualite.fr/flash/l-assemblee-adopte-enfin-projet-de-loi-cybersecurite)  
-*Source : dalloz-actualite.fr | Publication : 2026-11-18*
+## [Trump limoge le directeur de la <b>cybersécurité</b> après que des pannes techniques ont suscité ...](https://www.boursorama.com/bourse/actualites/trump-limoge-le-directeur-de-la-cybersecurite-apres-que-des-pannes-techniques-ont-suscite-des-critiques-ef903c95328d64c10d878e0f0d201d2c)  
+*Source : boursorama.com | Publication : 2026-11-20*
 
-- AdministratifToute la matière - > Bien - > Collectivités territoriales - > Compétence - > Contrats et marchés - > Droit économique - > Droits fondamentaux et libertés publiques - > Elections - > Environnement - > Fonction publique - > Institution administrative - > Police - > Pouvoirs publics - > Procédure contentieuse - > Responsabilité - > Service public - > Urbanisme - - Affaires - CivilToute la matière - > Arbitrage - Médiation - Conciliation - > Biens - Propriété - > Contrats et obligations - > Droit et liberté fondamentaux - > Droit international et communautaire - > Famille - Personnes - > Filiation - > Mariage - Divorce - Couple - > Procédure civile - > Responsabilité - > Successions - Libéralités - > Sûretés - > Voies d'exécution - - Européen - Immobilier - IP/IT et Communication - PénalToute la matière - > Atteinte à l'autorité de l'état - > Atteinte à la personne - > Circulation et transport - > Criminalité organisée et terrorisme - > Droit pénal des affaires - > Droit pénal général - > Droit pénal international - > Enquête - > Etranger - > Informatique - > Instruction - > Jugement - > Mineur - > Peine et exécution des peines - > Presse et communication - > Santé publique - - SocialToute la matière - > Accident, maladie et maternité - > Contrat de travail - > Contrôle et contentieux - > Formation professionnelle - > IRP et syndicat professionnel - > Négociation collective - > Protection sociale - > Rémunération - > Rupture du contrat de travail - > Santé publique - > Temps de travail - > Travailleurs handicapés - - Avocat - Article L’Assemblée adopte enfin le projet de loi cybersécurité L’Assemblée adopte enfin le projet de loi cybersécurité Avec deux ans de retard, l’Assemblée nationale a adopté hier le projet de loi relatif « à la résilience des infrastructures critiques et au renforcement de la cybersécurité ».
-- Un texte qui transpose trois directives, REC, NIS 2 et DORA, afin de renforcer les obligations en matière de prévention de cyberattaques.
-- Revue des principales évolutions.
-- par Pierre Januel, Journalistele 18 novembre 2026 La succession de cyberattaques cet été a rappelé la nécessité de renforcer les dispositifs préventifs et mis en lumière le déficit de transposition de trois directives européennes en la matière (Dalloz actualité, 11 sept.
+- Sean Cairncross, directeur national de la cybersécurité à la Maison Blanche, a été "limogé", a déclaré jeudi une source proche de la Maison Blanche, quelques jours après que des pannes techniques ont perturbé le trafic aérien, le secteur bancaire et les systèmes de sécurité nationale aux États-Unis.
+- Ce limogeage intervient alors que le président américain Donald Trump et son administration font l'objet d'une surveillance de plus en plus étroite concernant leur gestion de la série de perturbations survenues la semaine dernière, notamment une panne mondiale qui a touché des centaines de millions d'utilisateurs de Microsoft et un arrêt du trafic aérien à l'échelle nationale qui a perturbé plus de 18 000 vols.
+- Le limogeage de M. Cairncross constitue la première mesure importante prise par l’administration en matière de personnel depuis ces pannes.
+- M. Cairncross supervisait la politique et la stratégie en matière de cybersécurité au sein de l’ensemble du gouvernement fédéral.
 
-## [Loi Résilience : l'Assemblée adopte la transposition de NIS2 par 464 voix contre 64](https://www.solutions-numeriques.com/loi-resilience-lassemblee-adopte-nis2-par-464-voix-contre-64/)  
-*Source : solutions-numeriques.com | Publication : 2026-11-18*
+## [Le directeur de la <b>cybersécurité</b> de la Maison-Blanche limogé - LaPresse.ca](https://www.lapresse.ca/international/etats-unis/2026-11-19/le-directeur-de-la-cybersecurite-de-la-maison-blanche-limoge.php)  
+*Source : lapresse.ca | Publication : 2026-11-20*
 
-- Par 464 voix contre 64, les députés ont adopté ce mardi 17 novembre, en première lecture, le projet de loi qui transpose NIS2.
-- Le texte a plus de deux ans de retard sur le calendrier européen et a été en partie réécrit contre l’avis du gouvernement.
-- Il doit encore passer en commission mixte paritaire.
-- Un large consensus, avec des réserves Le vote compte 464 voix pour, 64 contre et 16 abstentions.
+- Le directeur de la cybersécurité de la Maison-Blanche limogé (Washington) Le directeur de la cybersécurité de la Maison-Blanche, Sean Cairncross, a été limogé, a indiqué jeudi une source proche de la Maison-Blanche.
+- Selon cette même source, Donald Trump a pleinement soutenu le renvoi du directeur de la cybersécurité, jugé dépourvu des compétences nécessaires pour occuper ce poste.
+- M. Cairncross avait notamment mené les discussions sur la régulation de modèles d’intelligence artificielle (IA) toujours plus puissants.
+- L’intérim à ce poste sera assuré par Kirsten Davies, actuelle directrice des systèmes d’information (Chief Information Officer) du département de la Défense.
 
-## [Pannes informatiques à répétition aux États-Unis : hasard ou cyberattaques? - YouTube](https://www.youtube.com/watch?v=Dy3bMsXTfHM)  
-*Source : youtube.com | Publication : 2026-11-18*
+## [Victime d'une cybermalveillance ? Le réflexe 17Cyber s'affiche désormais sur les sites ...](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/17cyber-mairies-oise)  
+*Source : cybermalveillance.gouv.fr | Publication : 2026-11-20*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Victime d’une cybermalveillance ?.
+- Le réflexe 17Cyber s’affiche désormais sur les sites internet des mairies de l’Oise Publié le 19/11/2026 - 2 minutes de lecture - Face à la multiplication des arnaques en ligne, les administrés ne savent pas toujours vers qui se tourner.
+- Le 17Cyber, service public gratuit porté par la Police nationale, la Gendarmerie nationale et Cybermalveillance.gouv.fr, apporte une réponse simple et fiable.
+- Et dans le département de l’Oise, c’est près de 150 mairies qui le proposent déjà directement sur leur site internet.
 
-## [&quot;Code jaune&quot;, opération de maintenance... Ce que l'on sait de la panne qui a touché ... - BFM](https://www.bfmtv.com/tech/cybersecurite/code-jaune-operation-de-maintenance-ce-que-l-on-sait-de-la-panne-qui-a-touche-nsa-net-le-reseau-interne-de-communication-de-la-nsa_AN-202611180901.html)  
-*Source : bfmtv.com | Publication : 2026-11-18*
+## [Multiples vulnérabilités dans les produits Splunk (19 novembre 2026) - Global Security Mag](https://www.globalsecuritymag.fr/multiples-vulnerabilites-dans-les-produits-splunk-19-novembre-2026.html)  
+*Source : globalsecuritymag.fr | Publication : 2026-11-19*
 
-- "Code jaune", opération de maintenance.
-- Ce que l'on sait de la panne qui a touché NSANet, le réseau interne de communication de la NSA La journée du 17 novembre n'a pas été de tout repos pour la National Security Agency (NSA).
-- L'agence américaine de renseignement a été privée de son réseau de communication interne, l'obligeant à échelonner les arrivées des employés à son siège de Fort Meade, dans le Maryland, rapporte la chaîne américaine CNN.
-- Un incident qui intervient alors que les États-Unis ont été touchés par plusieurs pannes liées à des outils informatiques en moins d'une semaine.
+- De multiples vulnérabilités ont été découvertes dans les produits Splunk.
+- Certaines d’entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.
+- 19 novembre 2026 Vigilance.fr - JBoss RESTEasy : obtention d’information via Default Exception Mapper, analysé le 04/11/2026 Un attaquant peut contourner les restrictions d’accès aux données de JBoss RESTEasy, via Default (…).
 
-## [« Incident de <b>cybersécurité</b> » : appel à la vigilance à Saint-Pascal | Radio-Canada](https://ici.radio-canada.ca/article/info/2301584/cybersecurite-ville-saint-pascal-enquete)  
-*Source : ici.radio-canada.ca | Publication : 2026-11-18*
+## [Le directeur national de la <b>cybersécurité</b> américain démissionne - TVA Nouvelles](https://www.tvanouvelles.ca/2026/11/19/le-directeur-national-de-la-cybersecurite-americaine-demissionne)  
+*Source : tvanouvelles.ca | Publication : 2026-11-19*
 
-- « Incident de cybersécurité » : appel à la vigilance à Saint-Pascal L'administration municipale invite ses citoyens à garder l'œil ouvert sur toute information inhabituelle qui semble provenir de la Ville de Saint-Pascal.
-- Photo : iStock Un « incident de cybersécurité » est survenu à la Ville de Saint-Pascal le 10 novembre dernier, informe la Municipalité dans un communiqué envoyé mercredi.
-- La Municipalité assure que l’événement a causé des impacts mineurs sur les activités et les services municipaux.
-- Ni la Ville ni la Sûreté du Québec n'ont souhaité commenter la situation ou indiquer si l’événement était lié ou non à une cyberattaque.
+- Le directeur national de la cybersécurité américain, Sean Cairncross, a démissionné jeudi, a rapporté le média américain Axios.
 
-## [Cybernégociateurs: ces experts qui traitent avec les pirates informatiques - 98.5 Montréal](https://www.985fm.ca/audio/816621/cybernegociateurs-ces-experts-qui-traitent-avec-les-pirates-informatiques)  
-*Source : 985fm.ca | Publication : 2026-11-18*
+## [Au procès de membres d'un groupe masculiniste sur Telegram, l'impossible prise de ... - Libération](https://www.liberation.fr/societe/droits-des-femmes/au-proces-de-membres-dun-groupe-masculiniste-sur-telegram-limpossible-prise-de-conscience-de-prevenus-enfermes-dans-leur-radicalisation-20261119_5VR65MXKS5E6PI7YYOHAZNESFY/)  
+*Source : liberation.fr | Publication : 2026-11-19*
 
-- Alors que les pannes informatiques et les cyberattaques se multiplient, les réponses à ces attaques se professionnalisent, donnant naissance notamment au métier de cybernégociateur.
-- Mandatés principalement par les compagnies d'assurance, les cybernégociateurs agissent comme médiateurs neutres entre les entreprises victimes de rançongiciels et des groupes criminels de plus en plus structurés.
-- Face à environ 150 organisations criminelles professionnelles actives dans le monde, Maxime Coulon rappelle qu'aucune entreprise n'est totalement à l'abri et qu'il faut adopter une bonne hygiène numérique.
-- Écoutez le directeur de Secutec Canada et expert en surveillance des cybermenaces, partager les avancées de la cybersécurité, mercredi à La commission.
+- Cybercriminalité.
+- Les cybermenaces sur la France sont à un ... MasculinismeRacismeAntisémitismeViolences faites aux femmes Cybercriminalité Telegram.
 
-## [L'agence allemande de <b>cybersécurité</b> met en garde contre la faille critique Java4Shell](https://ch.zonebourse.com/actualite-bourse/la-agence-allemande-de-cybersecurite-met-en-garde-contre-la-faille-critique-java4shell-ce785eddda88f625)  
-*Source : ch.zonebourse.com | Publication : 2026-11-18*
+## [Le directeur national de la <b>cybersécurité</b> de Donald Trump démissionne, selon Axios](https://www.lefigaro.fr/international/le-directeur-national-de-la-cybersecurite-de-donald-trump-demissionne-selon-axios-20261120)  
+*Source : lefigaro.fr | Publication : 2026-11-19*
 
-- L'Office fédéral allemand pour la sécurité des technologies de l'information a émis mercredi une mise en garde concernant une faille logicielle.
+- Le directeur de la cybersécurité de Donald Trump limogé Le nouveau chef de cabinet du président, Stephen Miller, aurait souhaité ce changement et poussé Sean Cairncross vers la sortie.
+- Passer la publicité Passer la publicitéLe directeur de la cybersécurité de Donald Trump, Sean Cairncross, a été limogé, a indiqué jeudi une source proche de la Maison-Blanche.
+- Selon celle-ci, le président des États-Unis a pleinement soutenu le renvoi du directeur de la cybersécurité, jugé dépourvu des compétences nécessaires pour occuper ce poste.
+- C’est notamment le nouveau chef de cabinet du président, Stephen Miller, qui aurait souhaité ce changement et poussé Sean Cairncross vers la sortie.
 
-## [<b>Cybersécurité</b> : les failles détectées augmentent de 30 % | Brief IA](https://www.briefia.fr/article/cybersecurite-les-failles-detectees-augmentent-de-30)  
-*Source : briefia.fr | Publication : 2026-11-18*
+## [Optivalue.ai remporte le Trophée de la <b>Cybersécurité</b> 2026 dans la catégorie Innovation Cyber](https://www.sophianet.com/article/optivalue-ai-remporte-trophee-cybersecurite-2026-categorie-innovation-cyber)  
+*Source : sophianet.com | Publication : 2026-11-19*
 
-- Selon une étude non identifiée, les vulnérabilités détectées ont été 30 % plus nombreuses que l'année précédente.
-- La recherche de failles progresse plus vite grâce à l'IA, ce qui risque de saturer les capacités de réponse des entreprises et des agences gouvernementales.
-- Des experts proposent de hiérarchiser les corrections Pour des experts en cybersécurité, la réponse passe par une révision des méthodes de traitement des vulnérabilités.
-- Certains recommandent des outils d'IA capables de classer les corrections selon la gravité des failles et leurs conséquences possibles, plutôt que de se limiter à leur détection.
+- Optivalue.ai remporte le Trophée de la Cybersécurité 2026 dans la catégorie Innovation Cyber La société de Sophia Antipolis a été récompensée ce jeudi 19 novembre au Tech Show Paris pour son IA souveraine, qui répond aux questionnaires de sécurité, aux audits et aux appels d’offres en apportant la preuve de chaque réponse.
+- Nouvelle distinction pour Optivalue.ai.
+- La société, dont le siège est à Sophia Antipolis, a reçu ce jeudi 19 novembre, sur la scène du Tech Show Paris, le trophée Innovation Cyber des Trophées de la Cybersécurité 2026, organisés en partenariat avec la Fédération Française de la Cybersécurité.
+- Le jury a récompensé une approche encore peu couverte, celle de la preuve.
 
-## [Défense et intelligence artificielle : Rennes accueillera un centre international dès 2027](https://hitwest.ouest-france.fr/rennes-va-accueillir-le-centre-international-pour-l-ia-de-defense-european-cyber-week-cybersecurite)  
-*Source : hitwest.ouest-france.fr | Publication : 2026-11-18*
+## [plan du 19 novembre 2026 et loi Résilience votée à l'Assemblée, obligations et recours de la société](https://kohenavocats.com/cybersecurite-entreprise-plan-19-novembre-2026-loi-resilience-obligations/)  
+*Source : kohenavocats.com | Publication : 2026-11-19*
 
-- Défense et intelligence artificielle : Rennes accueillera un centre international dès 2027 La ville de Rennes a été choisie pour accueillir le futur centre international dédié à l'intelligence artificielle de défense.
-- Opérationnel à l'été 2027, il réunira des civils et des militaires français et de pays alliés de l'OTAN pour partager leurs expériences et développer leur coopération dans ce domaine stratégique.
-- Publié : 18 novembre 2026 à 15h38 par Noëlline Garon La Bretagne : capitale de la cybersécurité.
-- L’European Cyber Week se poursuit jusqu’à ce jeudi 19 novembre, à Rennes.
+- Le 19 novembre 2026, le ministre de l’Intérieur a présenté un plan de renforcement de la cybersécurité en décrivant une menace d’un niveau grave et inédit, selon la presse nationale qui a relayé l’annonce le jour même.
+- Deux jours plus tôt, le 17 novembre 2026, l’Assemblée nationale avait adopté en première lecture, par 464 voix contre 64 et 16 abstentions, le projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité, selon la presse spécialisée qui a suivi le vote.
+- Ce texte transpose trois actes européens dont la transposition était due au 17 octobre 2024 : la directive sur la résilience des entités critiques, la directive NIS 2 sur la sécurité des réseaux et des systèmes d’information, et le volet du règlement sur la résilience opérationnelle numérique du secteur financier qui relève du droit national.
+- La presse spécialisée chiffre à quelque 15 000 le nombre d’entités essentielles et importantes qui entreraient dans la cybersécurité obligatoire, contre environ 500 infrastructures soumises au régime de 2016.
 
-## [Thomas Mann : le prix de l'exil / La France face aux hackers | 28 minutes | ARTE - YouTube](https://www.youtube.com/watch?v=NBfqti_ipUA)  
-*Source : youtube.com | Publication : 2026-11-18*
+## [<b>Cybersécurité</b> : les ministères devront consacrer au moins 5 % de leurs budgets numériques ...](https://www.aefinfo.fr/depeche/760564-cybersecurite-les-ministeres-devront-consacrer-au-moins-5-de-leurs-budgets-numeriques-a-la-cybersecurite-des-2027)  
+*Source : aefinfo.fr | Publication : 2026-11-19*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Alors que plusieurs administrations font face à d'importantes fuites de données, le Premier ministre demande au secrétaire général de la défense et de la sécurité nationale "de constituer une équipe de c Sébastien Lecornu veut "fusionner Dinum et DITP</ L'Anssi publie, jeudi 9 avril 2026, la "feuille de route 2026-2027 de sécurité numérique de l'État".
+- Ce document, actualisé tous les ans, est pour la première fois rendu public, après plusieurs attaq.
 
-## [Les députés adoptent le projet de loi <b>cybersécurité</b>, en pleine multiplication des cyberattaques](https://imazpress.com/france-monde/cybersecurite-en-pleine-multiplication-des-cyberattaques)  
-*Source : imazpress.com | Publication : 2026-11-18*
+## [Maine-et-Loire. La <b>cybersécurité</b> au cœur des préoccupations des acteurs du territoire](https://www.le-kiosque.org/actualites/vie-de-la-cite/maine-et-loire-la-cybersecurite-au-coeur-des-preoccupations-des-acteurs-du-territoire)  
+*Source : le-kiosque.org | Publication : 2026-11-19*
 
-- Les députés ont adopté mardi un projet de loi renforçant les obligations de milliers d'entreprises en matière de cybersécurité, un texte très attendu alors que les cyberattaques se multiplient, mais dont beaucoup déplorent qu'il arrive avec deux années de retard.
-- Le projet de loi a été adopté par 464 voix contre 64, tous les groupes politiques votant favorablement, à l'exception de La France insoumise.
-- Le texte devra encore faire l'objet d'un accord entre députés et sénateurs en commission mixte paritaire.
-- Cette version commune sera ensuite soumise au vote définitif des parlementaires des deux chambres.
+- Maine-et-Loire.
+- La cybersécurité au cœur des préoccupations des acteurs du territoire Face à la multiplication des cyberattaques et des fuites de données, les acteurs publics et privés du Maine-et-Loire entendent renforcer leur capacité à prévenir les risques et à réagir aux incidents.
+- Un Comité départemental de sécurité numérique s'est ainsi réuni ce lundi 16 novembre 2026, sous la présidence de Cyrille Lefeuvre, directeur de cabinet du préfet de Maine-et-Loire.
+- Cette rencontre a rassemblé de nombreux partenaires du territoire, parmi lesquels les services de l'État, l'Association des maires de Maine-et-Loire (AMF 49), la Chambre de commerce et d'industrie (CCI) de Maine-et-Loire ou encore Anjou Numérique.
 
-## [<b>Cybersécurité</b> : les inquiétantes vulnérabilités du secteur spatial français - Journaldunet.com](https://www.journaldunet.com/cybersecurite/1558213-cybersecurite-les-inquietantes-vulnerabilites-du-secteur-spatial-francaiscybersecurite-les-inquietantes-vulnerabilites-du-secteur-spatial-francais/)  
-*Source : journaldunet.com | Publication : 2026-11-18*
+## [La Commission européenne attaquée à coups d'IA : ARTEX, le logiciel de <b>cybersécurité</b> qui ...](https://www.macg.co/intelligence-artificielle/2026/11/la-commission-europeenne-attaquee-coups-dia-artex-le-logiciel-de-cybersecurite-qui-mal-tourne-312525)  
+*Source : macg.co | Publication : 2026-11-19*
 
-- Cybersécurité : les inquiétantes vulnérabilités du secteur spatial français Porté par l'essor du new space, le secteur spatial français accueille de nombreuses jeunes pousses moins matures en cybersécurité que les grands acteurs historiques.
-- Résultat : la filière est confrontée à d'importantes failles de sécurité.
-- Le secteur critique de l'industrie spatiale française souffre d'importantes failles cyber, selon le premier observatoire de la performance cybersécurité du secteur spatial publié ce 19 novembre 2026.
-- Il est l'œuvre du groupe de travail sur la cyberdéfense du spatial, créé en 2026 et piloté par le Pôle d'excellence cyber et IRISPACE.
+- On connaissait les logiciels de cybersécurité destinés à protéger les entreprises des pirates informatiques.
+- Voici maintenant ceux qui leur facilitent le travail : la Commission européenne vient de confirmer avoir été victime d’une importante campagne de cyberattaques utilisant l’intelligence artificielle, avec plusieurs services internes perturbés pendant plus de dix jours.
+- Selon les informations de Politico, les attaquants auraient notamment utilisé ARTEX, un outil initialement conçu pour tester la sécurité des réseaux informatiques.
+- Le logiciel s’est montré tellement efficace entre de mauvaises mains que son créateur a préféré le retirer de GitHub.
 
-## [Cyberattaques : pourquoi la France est-elle si vulnérable ? | 28 minutes | ARTE - YouTube](https://www.youtube.com/watch?v=6e3gf14u1H8)  
-*Source : youtube.com | Publication : 2026-11-18*
+## [Les Echos on X: &quot;<b>Cybersécurité</b> : Sébastien Lecornu s'inquiète d'un « niveau de menace ...](https://x.com/LesEchos/status/2123490867361046900)  
+*Source : x.com | Publication : 2026-11-19*
 
-- About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC.
+- Les Echos@LesEchosShow translationCybersécurité : Sébastien Lecornu s'inquiète d'un « niveau de menace particulièrement grave » 👉 ebx.sh/UHQdOa6:57 PM · Nov 19, 2026·1,796Views1.
 
-## [La numérisation du système électrique accentue les risques de cyberattaques](https://www.pv-magazine.fr/2026/11/18/la-numerisation-du-systeme-electrique-accentue-les-risques-de-cyberattaques/)  
-*Source : pv-magazine.fr | Publication : 2026-11-18*
+## [<b>Cybersécurité</b> : ce que contient le plan du gouvernement face au risque de sabotage](https://www.capital.fr/economie-politique/cybersecurite-ce-que-contient-le-plan-du-gouvernement-face-au-risque-de-sabotage-1532000)  
+*Source : capital.fr | Publication : 2026-11-19*
 
-- La numérisation du système électrique accentue les risques de cyberattaques La numérisation du système électrique européen, portée par le développement des énergies renouvelables et l’électrification des usages, multiplie les actifs connectés, les échanges de données et les accès distants.
-- Si ces évolutions facilitent le pilotage en temps réel et l’intégration des productions décentralisées, elles élargissent également la surface d’exposition aux cyberattaques.
-- C’est le constat de l’étude « État de la menace cyber sur le secteur de la transition énergétique et priorités à adresser », publiée par Wavestone et l’Office franco-allemand pour la transition énergétique (OFATE).
-- Elle souligne que la cybersécurité dépasse désormais le seul périmètre informatique pour devenir un enjeu de continuité d’exploitation, de souveraineté et de résilience du système énergétique européen.
+- Le temps où les cyberattaques se limitaient au vol de données et aux demandes de rançon semble révolu.
+- C’est le constat dressé par l’exécutif, jeudi 19 novembre, à l’issue d’une réunion interministérielle consacrée à la cybersécurité.
+- Le niveau de menace est «particulièrement grave et inédit» et «rien ne laisse à penser (…) que les choses vont s’arranger», a averti le Premier ministre, Sébastien Lecornu.
+- Le diagnostic est partagé par Vincent Strubel, directeur général de l’Agence nationale de la sécurité des systèmes d’information (Anssi), qui décrit des menaces «sans précédent», appelées à progresser encore «en volume» comme en «sévérité».
 
-## [Alerte contre une faille dans le langage Java, très répandu dans le monde - L'Orient-Le Jour](https://www.lorientlejour.com/article/1554897/alerte-contre-une-faille-dans-le-langage-java-tres-repandu-dans-le-monde.html)  
-*Source : lorientlejour.com | Publication : 2026-11-18*
+## [Sophia : Optivalue.ai a reçu le trophée Innovation Cyber des Trophées de la <b>Cybersécurité</b> 2026](https://www.petitesaffiches.fr/actualites,069/tech,080/sophia-optivalue-ai-a-recu-le,47775.html)  
+*Source : petitesaffiches.fr | Publication : 2026-11-19*
 
-- Les autorités de plusieurs pays ont lancé, entre mardi et mercredi, des alertes après la découverte d'une faille dans le langage de programmation Java, qui est très répandu dans le monde et particulièrement utilisé par les entreprises.
-- La société technologique américaine Calif, qui avait découvert en octobre dernier une faille de cybersécurité dans un autre langage de programmation PHP, a annoncé mercredi avoir identifié cette nouvelle vulnérabilité, baptisée « Java4Shell », dans les fonctions de gestion de la mémoire de Java.
-- Les autorités américaines, sud-coréennes, allemandes et britanniques, ainsi que le groupe chinois Tencent, ont exhorté les entreprises et les organisations à installer un correctif pour remédier à cette vulnérabilité.
-- L'agence néerlandaise de cybersécurité a, de son côté, indiqué qu'elle enquêtait sur le problème.
+- Cette distinction récompense sa solution d'intelligence artificielle dédiée aux questionnaires de sécurité, aux audits et aux appels d'offres.
+- Basée.
 
-## [La Finlande et l'Estonie réclament une réponse UE aux incidents d'IA](https://dcod.ch/2026/11/18/menaces-ia-12-derives-et-avancees-cles-du-18-novembre-2026-dont-claude-code/)  
-*Source : dcod.ch | Publication : 2026-11-18*
+## [Les Etats-Unis ont été secoués par des pannes informatiques à répétition au plus haut niveau - BFM](https://www.bfmtv.com/tech/cybersecurite/les-etats-unis-ont-ete-secoues-par-des-pannes-informatiques-a-repetition-au-plus-haut-niveau-la-principale-responsable-a-peut-etre-ete-trouvee-l-intelligence-artificielle_AV-202611190898.html)  
+*Source : bfmtv.com | Publication : 2026-11-19*
 
-- Faits marquants de la semaine La Finlande et l’Estonie demandent des dispositifs au niveau de l’Union européenne pour répondre aux « incidents graves » liés à l’IA, à l’approche d’un Conseil européen consacré à l’IA.
-- - Google présente Gemini 4 Hydrogen, un modèle d’IA destiné à remplacer Flash.
-- Selon des benchmarks, il approche le niveau de Claude Sonnet 5.5, mais est moins bon sur le travail agentique en terminal.
-- - Le responsable du développement du noyau Linux dit voir des signes d’accalmie dans l’afflux de correctifs lié à l’IA.
+- Les Etats-Unis ont été secoués par des pannes informatiques à répétition au plus haut niveau: la principale responsable a peut-être été trouvée, l'intelligence artificielle En l'espace de trois semaines, on ne peut pas dire que le secteur américain de la tech se soit fait une bonne publicité.
+- Les services Outlook et Teams de Microsoft ont connu une panne de plusieurs heures, suivie par un arrêt soudain des vols aux États-Unis après un bug occasionné par l'installation de nouveaux routeurs dans un contexte où le matériel obsolète prédomine, et, dernièrement, c'est l'indisponibilité de la plupart des services d'Apple, dont l'App store et Apple Pay, ainsi que la mise hors ligne du réseau de communication de la NSA, qui ont fait les gros titres.
+- Selon le Washington Sun, l'agence nationale de sécurité, la NSA, aurait déclaré au Congrès que l'intelligence artificielle serait l'une des principales responsables de ces pannes à répétition.
+- Concrètement, ce sont des correctifs déployés pour contrecarrer des cyberattaques grâce à l'IA qui auraient tout fait dérailler.
 
-## [Les députés adoptent le projet de loi <b>cybersécurité</b> - Stratégies](https://www.strategies.fr/actualites/medias/LQ6934014C/les-deputes-adoptent-le-projet-de-loi-cybersecurite.html)  
-*Source : strategies.fr | Publication : 2026-11-18*
+## [96 % des victimes de <b>ransomware</b> ont vu leurs sauvegardes ciblées. - Alliancy](https://alliancy.fr/communaute/evenements/2026/11/26/c5d1a97b-ad0c-4494-9e04-fd89f731206f)  
+*Source : alliancy.fr | Publication : 2026-11-19*
 
-- Les députés ont adopté un projet de loi renforçant les obligations de milliers d’entreprises en matière de cybersécurité, un texte très attendu alors que les cyberattaques se multiplient.
-- Le projet de loi renforçant les obligations de milliers d’entreprises en matière de cybersécurité a été adopté par 464 voix contre 64, tous les groupes politiques votant favorablement, à l’exception de La France insoumise.
-- Le texte devra encore faire l’objet d’un accord entre députés et sénateurs en commission mixte paritaire.
-- Cette version commune sera ensuite soumise au vote définitif des parlementaires des deux chambres.
+- 26 nov.
+- 2026 12:30 - 13:15 96 % des victimes de ransomware ont vu leurs sauvegardes ciblées.
+- Comment redémarrer quand l’attaquant a déjà les clés ?.
+- Webinaire gratuit · Jeudi 26 novembre · 12h30-13h15 · En ligne · 45 min À propos Vos sauvegardes sont devenues la première cible Si l’entreprise peut restaurer, elle n’a aucune raison de payer.
 
-## [ENTRETIEN. Cyberattaques : « L'intensité des menaces est sans précédent - Ouest-France](https://www.ouest-france.fr/societe/cyberattaque/entretien-cyberattaques-lintensite-de-la-menace-est-sans-precedent-alerte-le-patron-de-lagence-de-cyberdefense-b1c67e60-e327-11f1-a3b1-0c6de532ce7d)  
-*Source : ouest-france.fr | Publication : 2026-11-18*
+## [<b>Cybersécurité</b> : panique générale face à la déferlante IA - l'Opinion](https://www.lopinion.fr/international/cybersecurite-panique-generale-face-a-la-deferlante-ia)  
+*Source : lopinion.fr | Publication : 2026-11-19*
 
-- Vincent Strubel, le patron de l'Anssi, l'agence de cybersécurité française, était ce mercredi 18 novembre à l'European Cyber Week de Rennes.
+- Cybersécurité : panique générale face à la déferlante IA « On est sur un niveau de menace particulièrement grave et inédit.
+- Et rien ne laisse à penser que les choses vont s’arranger », a déclaré ce jeudi le Premier ministre Sébastien Lecornu, à l’issue d’une réunion interministérielle sur la cybersécurité.
+- Tous les ministères sont invités à renforcer leur défense après les récentes attaques et fuites de données.
+- De l’avis des habitués, cette 11e édition de la European Cyber Week (ECW), à Rennes, n’était pas comme les autres.
 
-## [Une faille dans le langage de programmation Java expose les systèmes informatiques au ...](https://www.boursier.com/actualites/reuters/une-faille-dans-le-langage-de-programmation-java-expose-les-systemes-informatiques-au-piratage-selon-des-etats-430469.html)  
-*Source : boursier.com | Publication : 2026-11-18*
+## [<b>Cybersécurité</b> : la France renforce son plan de protection - Libnanews](https://libnanews.com/cybersecurite-la-france-renforce-son-plan-de-protection/)  
+*Source : libnanews.com | Publication : 2026-11-19*
 
-- cybersécurité.
-- L'entreprise technologique américaine Calif, celle qui avait découvert le mois dernier une faille de cybersécurité dans un autre.
+- Le gouvernement français a présenté, le 19 novembre, un plan de cybersécurité visant les administrations et les services essentiels.
+- Sébastien Lecornu annonce notamment l’opération Gigawatt pour le secteur énergétique.
+- L’ANSSI doit étendre son accompagnement aux opérateurs de taille intermédiaire.
+- Cybersécurité : des objectifs budgétaires réaffirmés Chaque ministère devra consacrer au moins 5 % de son budget numérique à la cybersécurité dès 2027, avec un objectif de 10 % en 2030.
