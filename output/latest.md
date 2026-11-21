@@ -1,149 +1,154 @@
-# Résumés – 2026-11-20
+# Résumés – 2026-11-21
 
 
-## [Donald Trump limoge le directeur de la <b>cybersécurité</b> de la Maison Blanche - Le Temps](https://www.letemps.ch/cyber/donald-trump-limoge-le-directeur-de-la-cybersecurite-de-la-maison-blanche)  
-*Source : letemps.ch | Publication : 2026-11-20*
+## [<b>Ransomware</b> : le FBI piège un arnaqueur qui prétendait pouvoir déchiffrer | LeMagIT](https://www.lemagit.fr/actualites/366655114/Ransomware-le-FBI-piege-un-arnaqueur-qui-pretendait-pouvoir-dechiffrer)  
+*Source : lemagit.fr | Publication : 2026-11-20*
 
-- Le directeur de la cybersécurité de la Maison Blanche, Sean Cairncross, a été limogé, a indiqué jeudi une source proche de la Maison Blanche.
-- Selon cette même source, Donald Trump a pleinement soutenu le renvoi du directeur de la cybersécurité, jugé dépourvu des compétences nécessaires pour occuper ce poste.
-- Sean Cairncross avait notamment mené les discussions sur la régulation de modèles d’intelligence artificielle (IA) toujours plus puissants.
-- L’intérim à ce poste sera assuré par Kirsten Davies, actuelle directrice des systèmes d’information (Chief Information Officer) du département de la Guerre.
+- sonsedskaya - stock.adobe.com Ransomware : le FBI piège un arnaqueur qui prétendait pouvoir déchiffrer Le piège s’est refermé avec l’intervention de deux agents, l’un se faisant passer pour une victime de rançongiciel et l’autre… pour le cybercriminel ayant conduit la prétendue attaque.
+- L’histoire rapportée par nos confrères de 404 ne manque pas de sel.
+- Le FBI a mené une opération d’infiltration pour débusquer une société de récupération de données frauduleuse opérant sous la direction de Juan Ricardo Palacio Escobar.
+- L’enquête a ciblé une entreprise basée en Floride qui prétendait fournir des services de récupération de données aux victimes de ransomware.
 
-## [Trump limoge le directeur de la <b>cybersécurité</b> après que des pannes techniques ont suscité ...](https://www.boursorama.com/bourse/actualites/trump-limoge-le-directeur-de-la-cybersecurite-apres-que-des-pannes-techniques-ont-suscite-des-critiques-ef903c95328d64c10d878e0f0d201d2c)  
-*Source : boursorama.com | Publication : 2026-11-20*
+## [<b>Cybersécurité</b> : des documents fiscaux de clients de KPMG consultés](https://www.finance-investissement.com/actualites/cybersecurite-des-documents-fiscaux-de-clients-de-kpmg-consultes/)  
+*Source : finance-investissement.com | Publication : 2026-11-20*
 
-- Sean Cairncross, directeur national de la cybersécurité à la Maison Blanche, a été "limogé", a déclaré jeudi une source proche de la Maison Blanche, quelques jours après que des pannes techniques ont perturbé le trafic aérien, le secteur bancaire et les systèmes de sécurité nationale aux États-Unis.
-- Ce limogeage intervient alors que le président américain Donald Trump et son administration font l'objet d'une surveillance de plus en plus étroite concernant leur gestion de la série de perturbations survenues la semaine dernière, notamment une panne mondiale qui a touché des centaines de millions d'utilisateurs de Microsoft et un arrêt du trafic aérien à l'échelle nationale qui a perturbé plus de 18 000 vols.
-- Le limogeage de M. Cairncross constitue la première mesure importante prise par l’administration en matière de personnel depuis ces pannes.
-- M. Cairncross supervisait la politique et la stratégie en matière de cybersécurité au sein de l’ensemble du gouvernement fédéral.
+- KPMG Canada indique que certains documents fiscaux de clients ont été consultés à la suite d'une faille de cybersécurité.
 
-## [Le directeur de la <b>cybersécurité</b> de la Maison-Blanche limogé - LaPresse.ca](https://www.lapresse.ca/international/etats-unis/2026-11-19/le-directeur-de-la-cybersecurite-de-la-maison-blanche-limoge.php)  
-*Source : lapresse.ca | Publication : 2026-11-20*
+## [<b>Cybersécurité</b> : le Togo Cyber Arena mobilise les acteurs autour de la protection des ...](https://www.togofirst.com/fr/tic/2011-20707-cybersecurite-le-togo-cyber-arena-mobilise-les-acteurs-autour-de-la-protection-des-services-numeriques)  
+*Source : togofirst.com | Publication : 2026-11-20*
 
-- Le directeur de la cybersécurité de la Maison-Blanche limogé (Washington) Le directeur de la cybersécurité de la Maison-Blanche, Sean Cairncross, a été limogé, a indiqué jeudi une source proche de la Maison-Blanche.
-- Selon cette même source, Donald Trump a pleinement soutenu le renvoi du directeur de la cybersécurité, jugé dépourvu des compétences nécessaires pour occuper ce poste.
-- M. Cairncross avait notamment mené les discussions sur la régulation de modèles d’intelligence artificielle (IA) toujours plus puissants.
-- L’intérim à ce poste sera assuré par Kirsten Davies, actuelle directrice des systèmes d’information (Chief Information Officer) du département de la Défense.
+- (Togo First) - Annoncée il y a peu par Togo First, la première édition du Togo Cyber Arena s’est ouverte hier, jeudi 19 novembre 2026, à Lomé, pour deux jours.
+- Elle met l’accent sur la protection des services numériques, la formation et le développement des compétences locales.
+- Le rendez-vous, organisé par l’Agence nationale de la cybersécurité (ANCy), avec l’appui du projet ProDigiT de la coopération allemande (GIZ), rassemble des administrations, des entreprises, des experts et des étudiants autour du thème de la confiance numérique.
+- Les échanges portent notamment sur la protection des infrastructures critiques, la gouvernance des systèmes d’information et la souveraineté technologique. «.
 
-## [Victime d'une cybermalveillance ? Le réflexe 17Cyber s'affiche désormais sur les sites ...](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/17cyber-mairies-oise)  
-*Source : cybermalveillance.gouv.fr | Publication : 2026-11-20*
+## [Java4Shell : une faille critique menace les systèmes des entreprises | Le Revenu](https://www.lerevenu.com/reussir-bourse/coeur-operations/cybersecurite-une-faille-majeure-dans-java-menace-les-systemes-de-milliers-d-entreprises/)  
+*Source : lerevenu.com | Publication : 2026-11-20*
 
-- Victime d’une cybermalveillance ?.
-- Le réflexe 17Cyber s’affiche désormais sur les sites internet des mairies de l’Oise Publié le 19/11/2026 - 2 minutes de lecture - Face à la multiplication des arnaques en ligne, les administrés ne savent pas toujours vers qui se tourner.
-- Le 17Cyber, service public gratuit porté par la Police nationale, la Gendarmerie nationale et Cybermalveillance.gouv.fr, apporte une réponse simple et fiable.
-- Et dans le département de l’Oise, c’est près de 150 mairies qui le proposent déjà directement sur leur site internet.
+- Une vulnérabilité critique baptisée « Java4Shell » suscite l’inquiétude des autorités et des spécialistes de la cybersécurité.
+- Découverte par l’entreprise américaine Calif avec l’aide de l’intelligence artificielle, elle pourrait exposer les systèmes informatiques de nombreuses organisations à des intrusions et à des perturbations.
+- Plusieurs gouvernements appellent les entreprises à sécuriser rapidement leurs installations.
+- Une nouvelle alerte majeure vient rappeler la fragilité des infrastructures numériques mondiales.
 
-## [Multiples vulnérabilités dans les produits Splunk (19 novembre 2026) - Global Security Mag](https://www.globalsecuritymag.fr/multiples-vulnerabilites-dans-les-produits-splunk-19-novembre-2026.html)  
-*Source : globalsecuritymag.fr | Publication : 2026-11-19*
+## [&quot;Ce n'est ni une attaque, ni la sortie de 'GTA VI'&quot;: des impôts au ministère de la Justice ...](https://www.bfmtv.com/tech/cybersecurite/ce-n-est-ni-une-attaque-ni-la-sortie-de-gta-vi-des-impots-au-ministere-de-la-justice-pourquoi-plusieurs-sites-institutionnels-francais-etaient-inaccessibles-le-19-novembre_AV-202611200703.html)  
+*Source : bfmtv.com | Publication : 2026-11-20*
 
-- De multiples vulnérabilités ont été découvertes dans les produits Splunk.
-- Certaines d’entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.
-- 19 novembre 2026 Vigilance.fr - JBoss RESTEasy : obtention d’information via Default Exception Mapper, analysé le 04/11/2026 Un attaquant peut contourner les restrictions d’accès aux données de JBoss RESTEasy, via Default (…).
+- "Ce n'est ni une attaque, ni la sortie de 'GTA VI'": des impôts au ministère de la Justice, pourquoi plusieurs sites institutionnels français étaient inaccessibles le 19 novembre "Le site est actuellement en maintenance".
+- Ce message, vous l'avez peut-être vu sur un site institutionnel français dans la journée du 19 novembre.
+- Assurance maladie, impôts, ministère de la Justice... Plusieurs de ces sites étaient inaccessibles et certains le sont toujours.
+- "Le site est en cours de maintenance et sera de nouveau disponible dans les meilleurs délais", affiche ainsi celui dédié à la désignation des conseillers prud'hommes.
 
-## [Le directeur national de la <b>cybersécurité</b> américain démissionne - TVA Nouvelles](https://www.tvanouvelles.ca/2026/11/19/le-directeur-national-de-la-cybersecurite-americaine-demissionne)  
-*Source : tvanouvelles.ca | Publication : 2026-11-19*
+## [La Maison-Blanche nomme Kirsten Davies au poste de directrice de la <b>cybersécurité</b>](https://ici.radio-canada.ca/article/info/2302007/kirsten-davies-cybersecurite-washington-nomination)  
+*Source : ici.radio-canada.ca | Publication : 2026-11-20*
 
-- Le directeur national de la cybersécurité américain, Sean Cairncross, a démissionné jeudi, a rapporté le média américain Axios.
+- La Maison-Blanche nomme Kirsten Davies au poste de directrice de la cybersécurité C'est Kirsten Davies qui sera désormais directrice de la cybersécurité au cabinet du président Donald Trump.
+- Photo : AP / Jacquelyn Martin La Presse canadienne - La Maison-Blanche a nommé une nouvelle directrice nationale de la cybersécurité après qu’une série de pannes généralisées ont perturbé la vie quotidienne et inquiété de nombreux Américains.
+- Kirsten Davies, directrice des systèmes d’information au département de la Défense, occupera ce poste, selon des publications sur les réseaux sociaux de plusieurs membres du cabinet de Donald Trump.
+- Elle remplacera Sean Cairncross au poste de responsable de la cybersécurité au sein de l’administration.
 
-## [Au procès de membres d'un groupe masculiniste sur Telegram, l'impossible prise de ... - Libération](https://www.liberation.fr/societe/droits-des-femmes/au-proces-de-membres-dun-groupe-masculiniste-sur-telegram-limpossible-prise-de-conscience-de-prevenus-enfermes-dans-leur-radicalisation-20261119_5VR65MXKS5E6PI7YYOHAZNESFY/)  
-*Source : liberation.fr | Publication : 2026-11-19*
+## [la loi imposant aux plateformes numériques de mieux rémunérer la presse a été adoptée - BFM](https://www.bfmtv.com/tech/intelligence-artificielle/le-modele-economique-des-geants-du-numerique-constitue-l-une-des-principales-menaces-pour-le-droit-a-l-information-la-loi-imposant-aux-plateformes-numeriques-de-mieux-remunerer-la-presse-a-ete-adoptee_AD-202611200567.html)  
+*Source : bfmtv.com | Publication : 2026-11-20*
 
-- Cybercriminalité.
-- Les cybermenaces sur la France sont à un ... MasculinismeRacismeAntisémitismeViolences faites aux femmes Cybercriminalité Telegram.
+- "Le modèle économique des géants du numérique constitue l'une des principales menaces pour le droit à l'information": la loi imposant aux plateformes numériques de mieux rémunérer la presse a été adoptée Le Parlement a définitivement adopté jeudi, après un dernier vote au Sénat, une loi pour que les plateformes numériques rémunèrent mieux la presse au titre des "droits voisins".
+- Ces droits permettent aux éditeurs et aux agences de presse d'être rémunérés lorsque des plateformes comme Google ou Meta utilisent leurs contenus.
+- Cette loi permet de mieux établir leur règlement.
+- Un droit difficile à faire appliquer Issus d'une directive européenne de 2019 transposée dans le droit français, les droits voisins du droit d'auteur s'appliquent par exemple aux extraits d'articles accompagnant des liens dans un moteur de recherche.
 
-## [Le directeur national de la <b>cybersécurité</b> de Donald Trump démissionne, selon Axios](https://www.lefigaro.fr/international/le-directeur-national-de-la-cybersecurite-de-donald-trump-demissionne-selon-axios-20261120)  
-*Source : lefigaro.fr | Publication : 2026-11-19*
+## [Trump a licencié le directeur de la <b>cybersécurité</b> Sean Cairncross, nommé Kirsten Davies.](https://fr.qz.com/trump-licencie-directeur-cyber-cairncross-davies-112026)  
+*Source : fr.qz.com | Publication : 2026-11-20*
 
-- Le directeur de la cybersécurité de Donald Trump limogé Le nouveau chef de cabinet du président, Stephen Miller, aurait souhaité ce changement et poussé Sean Cairncross vers la sortie.
-- Passer la publicité Passer la publicitéLe directeur de la cybersécurité de Donald Trump, Sean Cairncross, a été limogé, a indiqué jeudi une source proche de la Maison-Blanche.
-- Selon celle-ci, le président des États-Unis a pleinement soutenu le renvoi du directeur de la cybersécurité, jugé dépourvu des compétences nécessaires pour occuper ce poste.
-- C’est notamment le nouveau chef de cabinet du président, Stephen Miller, qui aurait souhaité ce changement et poussé Sean Cairncross vers la sortie.
+- Le président Donald Trump remplace le directeur national de la cybersécurité de la Maison-Blanche, Sean Cairncross, par Kirsten Davies, directrice de l'information du Pentagone, qui prendra le relais à titre intérimaire, selon CNN.
+- Des responsables de l'administration ont confirmé le changement sur les réseaux sociaux jeudi, et un responsable de la Maison-Blanche a déclaré à CNN que Cairncross quittait l'administration.
 
-## [Optivalue.ai remporte le Trophée de la <b>Cybersécurité</b> 2026 dans la catégorie Innovation Cyber](https://www.sophianet.com/article/optivalue-ai-remporte-trophee-cybersecurite-2026-categorie-innovation-cyber)  
-*Source : sophianet.com | Publication : 2026-11-19*
+## [Le gouvernement appuie l'expansion de Bell Cyber au Nouveau-Brunswick - GNB.ca](https://www.gnb.ca/fr/nouvelles/n-b.2026.11.gouvernement-appuie-lexpansion-bell-cyber-nouveau-brunswick.html)  
+*Source : gnb.ca | Publication : 2026-11-20*
 
-- Optivalue.ai remporte le Trophée de la Cybersécurité 2026 dans la catégorie Innovation Cyber La société de Sophia Antipolis a été récompensée ce jeudi 19 novembre au Tech Show Paris pour son IA souveraine, qui répond aux questionnaires de sécurité, aux audits et aux appels d’offres en apportant la preuve de chaque réponse.
-- Nouvelle distinction pour Optivalue.ai.
-- La société, dont le siège est à Sophia Antipolis, a reçu ce jeudi 19 novembre, sur la scène du Tech Show Paris, le trophée Innovation Cyber des Trophées de la Cybersécurité 2026, organisés en partenariat avec la Fédération Française de la Cybersécurité.
-- Le jury a récompensé une approche encore peu couverte, celle de la preuve.
+- Opportunités Nouveau-Brunswick 20 novembre 2026 FREDERICTON (GNB) – Bell Cyber étend ses activités au Nouveau-Brunswick et créera jusqu’à 40 postes à temps plein au cours des trois prochaines années.
+- L’expansion s’inscrit dans le cadre de la stratégie de croissance de l’entreprise à l’échelle du Canada, qui considère le Nouveau-Brunswick comme un emplacement stratégique pour accroître sa capacité à fournir des services dans le secteur de la cybersécurité. «.
+- La stratégie de développement économique de notre gouvernement, Bâtir un Nouveau-Brunswick compétitif et résilient, permet à notre province de tirer parti de projets d’envergure comme cet investissement de Bell Cyber », a déclaré le ministre responsable d’Opportunités, NB, Luke Randall. «.
+- À une époque où la sécurité des données est au cœur de nos préoccupations, nous sommes fiers que Bell Cyber reconnaisse l’expertise de notre province dans ce secteur important et qu’elle ait choisi de prendre de l’expansion et de créer de nouveaux emplois au Nouveau-Brunswick. ».
 
-## [plan du 19 novembre 2026 et loi Résilience votée à l'Assemblée, obligations et recours de la société](https://kohenavocats.com/cybersecurite-entreprise-plan-19-novembre-2026-loi-resilience-obligations/)  
-*Source : kohenavocats.com | Publication : 2026-11-19*
+## [États-Unis : Le directeur de la <b>cybersécurité</b> de la Maison-Blanche limogé - Yahoo Actualités](https://fr.news.yahoo.com/sport/états-unis-directeur-cybersécurité-maison-132057597.html)  
+*Source : fr.news.yahoo.com | Publication : 2026-11-20*
 
-- Le 19 novembre 2026, le ministre de l’Intérieur a présenté un plan de renforcement de la cybersécurité en décrivant une menace d’un niveau grave et inédit, selon la presse nationale qui a relayé l’annonce le jour même.
-- Deux jours plus tôt, le 17 novembre 2026, l’Assemblée nationale avait adopté en première lecture, par 464 voix contre 64 et 16 abstentions, le projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité, selon la presse spécialisée qui a suivi le vote.
-- Ce texte transpose trois actes européens dont la transposition était due au 17 octobre 2024 : la directive sur la résilience des entités critiques, la directive NIS 2 sur la sécurité des réseaux et des systèmes d’information, et le volet du règlement sur la résilience opérationnelle numérique du secteur financier qui relève du droit national.
-- La presse spécialisée chiffre à quelque 15 000 le nombre d’entités essentielles et importantes qui entreraient dans la cybersécurité obligatoire, contre environ 500 infrastructures soumises au régime de 2016.
+- États-Unis : Le directeur de la cybersécurité de la Maison-Blanche limogé BYE - Sean Cairncross a été limogé sachant que Donald Trump le jugeait dépourvu des compétences nécessaires pour occuper ce poste Sean Cairncross, directeur de la cybersécurité de la Maison-Blanche, a été limogé, a indiqué jeudi une source proche du dossier.
+- Selon cette même source, Donald Trump a pleinement soutenu ce renvoi, jugeant l'homme dépourvu des compétences nécessaires pour occuper ce poste.
+- Le directeur de la cybersécurité avait notamment mené les discussions sur la régulation de modèles d'intelligence artificielle (IA) toujours plus puissants.
+- Congratulations to the new National Cyber Director Kirsten Davies — look forward to working together to strengthen America's cybersecurity.
 
-## [<b>Cybersécurité</b> : les ministères devront consacrer au moins 5 % de leurs budgets numériques ...](https://www.aefinfo.fr/depeche/760564-cybersecurite-les-ministeres-devront-consacrer-au-moins-5-de-leurs-budgets-numeriques-a-la-cybersecurite-des-2027)  
-*Source : aefinfo.fr | Publication : 2026-11-19*
+## [Manque de confiance et pannes généralisés : Stephen Miller, chef de cabinet de Trump, se ...](https://www.lalibre.be/international/amerique/2026/11/20/manque-de-confiance-et-pannes-generalises-stephen-miller-chef-de-cabinet-de-trump-se-debarrasse-du-directeur-de-la-cybersecurite-americaine-GWKXRNPP4JBZXFEL4AM7UYIELM/)  
+*Source : lalibre.be | Publication : 2026-11-20*
 
-- Alors que plusieurs administrations font face à d'importantes fuites de données, le Premier ministre demande au secrétaire général de la défense et de la sécurité nationale "de constituer une équipe de c Sébastien Lecornu veut "fusionner Dinum et DITP</ L'Anssi publie, jeudi 9 avril 2026, la "feuille de route 2026-2027 de sécurité numérique de l'État".
-- Ce document, actualisé tous les ans, est pour la première fois rendu public, après plusieurs attaq.
+- Manque de confiance et pannes généralisés : Stephen Miller, chef de cabinet de Trump, se débarrasse du directeur de la cybersécurité américaine Le nouveau chef de cabinet de Donald Trump est intervenu suite aux pannes généralisées qui ont touché les États-Unis.
+- Publié le 20-11-2026 à 15h58 - Les nombreuses pannes technologiques qui ont touché les États-Unis ces derniers jours ont fait des dégâts.
+- Économiques et organisationnels, bien sûr, mais également au sein de l'administration de Donald Trump, où un climat de méfiance semble s'être installé.
+- Malgré les déclarations de Marco Rubio à ce sujet, soulignant que ces évènements n'étaient pas liés, l'administration de Donald Trump a rapidement cherché des responsables.
 
-## [Maine-et-Loire. La <b>cybersécurité</b> au cœur des préoccupations des acteurs du territoire](https://www.le-kiosque.org/actualites/vie-de-la-cite/maine-et-loire-la-cybersecurite-au-coeur-des-preoccupations-des-acteurs-du-territoire)  
-*Source : le-kiosque.org | Publication : 2026-11-19*
+## [NIS2 et loi Résilience : pourquoi attendre est un risque pour les entreprises et nos données](https://www.journaldunet.com/cybersecurite/1558041-nis2-et-loi-resilience-pourquoi-attendre-est-un-risque-pour-les-entreprises-et-nos-donnees/)  
+*Source : journaldunet.com | Publication : 2026-11-20*
 
-- Maine-et-Loire.
-- La cybersécurité au cœur des préoccupations des acteurs du territoire Face à la multiplication des cyberattaques et des fuites de données, les acteurs publics et privés du Maine-et-Loire entendent renforcer leur capacité à prévenir les risques et à réagir aux incidents.
-- Un Comité départemental de sécurité numérique s'est ainsi réuni ce lundi 16 novembre 2026, sous la présidence de Cyrille Lefeuvre, directeur de cabinet du préfet de Maine-et-Loire.
-- Cette rencontre a rassemblé de nombreux partenaires du territoire, parmi lesquels les services de l'État, l'Association des maires de Maine-et-Loire (AMF 49), la Chambre de commerce et d'industrie (CCI) de Maine-et-Loire ou encore Anjou Numérique.
+- NIS2 et loi Résilience : pourquoi attendre est un risque pour les entreprises et nos données Alors que la transposition de NIS2 franchit une nouvelle étape législative, les entreprises ne doivent pas attendre son adoption définitive pour renforcer leur cybersécurité et leur résilience.
+- Confier des données, des infrastructures ou la sécurité des sites à un tiers relève avant tout d’une preuve de confiance.
+- Mais cette dernière est aujourd’hui, plus que jamais, mise à l’épreuve par la multiplication des cyberattaques, alors même que plus de 15 000 violations ont été déclarées à la CNIL entre 2025 et 2026.
+- Dans ce contexte, la directive européenne NIS2, dont la transposition en France est prévue dans le cadre du projet de loi Résilience, entend renforcer la cybersécurité et la résilience des organisations critiques et du secteur financier.
 
-## [La Commission européenne attaquée à coups d'IA : ARTEX, le logiciel de <b>cybersécurité</b> qui ...](https://www.macg.co/intelligence-artificielle/2026/11/la-commission-europeenne-attaquee-coups-dia-artex-le-logiciel-de-cybersecurite-qui-mal-tourne-312525)  
-*Source : macg.co | Publication : 2026-11-19*
+## [Face à la gravité de la menace, le gouvernement priorise la <b>cybersécurité</b> sur les autres ...](https://www.banquedesterritoires.fr/face-la-gravite-de-la-menace-le-gouvernement-priorise-la-cybersecurite-sur-les-autres-projets)  
+*Source : banquedesterritoires.fr | Publication : 2026-11-20*
 
-- On connaissait les logiciels de cybersécurité destinés à protéger les entreprises des pirates informatiques.
-- Voici maintenant ceux qui leur facilitent le travail : la Commission européenne vient de confirmer avoir été victime d’une importante campagne de cyberattaques utilisant l’intelligence artificielle, avec plusieurs services internes perturbés pendant plus de dix jours.
-- Selon les informations de Politico, les attaquants auraient notamment utilisé ARTEX, un outil initialement conçu pour tester la sécurité des réseaux informatiques.
-- Le logiciel s’est montré tellement efficace entre de mauvaises mains que son créateur a préféré le retirer de GitHub.
+- Face à la gravité de la menace, le gouvernement priorise la cybersécurité sur les autres projets numériques Le Premier ministre, Sébastien Lecornu, a annoncé le 19 novembre 2026 concentrer les moyens de l'État sur la cybersécurité.
+- Il a priorisé un contrôle des dispositifs connectés et promis une publication rapide des décrets de la loi Résilience (NIS2), sitôt adoptée par le Parlement.
+- Le même jour, devant la délégation aux collectivités territoriales du Sénat, l'Anssi a appelé les communes à mutualiser leurs moyens informatiques.
+- "On est sur un niveau de menace particulièrement grave et inédit.".
 
-## [Les Echos on X: &quot;<b>Cybersécurité</b> : Sébastien Lecornu s'inquiète d'un « niveau de menace ...](https://x.com/LesEchos/status/2123490867361046900)  
-*Source : x.com | Publication : 2026-11-19*
+## [Coups de filet &amp; sanctions : 8 opérations contre la <b>cybercriminalité</b> du 20 novembre 2026 (dont DOJ)](https://dcod.ch/2026/11/20/coups-de-filet-sanctions-8-operations-contre-la-cybercriminalite-du-20-novembre-2026-dont-doj/)  
+*Source : dcod.ch | Publication : 2026-11-20*
 
-- Les Echos@LesEchosShow translationCybersécurité : Sébastien Lecornu s'inquiète d'un « niveau de menace particulièrement grave » 👉 ebx.sh/UHQdOa6:57 PM · Nov 19, 2026·1,796Views1.
+- Faits marquants de la semaine Une opération internationale a conduit à l’arrestation de 354 suspects, visant des vendeurs et acheteurs actifs sur plusieurs places de marché du dark web, dont Archetyp, Nemesis, Tor2Door, Bohemia et Kingdom.
+- - Le Department of Justice (DOJ) annonce deux actions liées contre des opérations nord-coréennes de vol de cryptomonnaies, avec plus de 1,2 milliard de dollars remis sous contrôle des forces de l’ordre, et la saisie d’infrastructures du dispositif FaceStealer.
+- - Des acteurs liés à la Chine ont utilisé ARTEX, un framework open source de tests d’intrusion automatisés (agents), pour voler des identifiants d’accès à des API de grands modèles de langage, selon une enquête d’Amazon Threat Intelligence basée sur le réseau-leurre MadPot.
+- - Un ancien agent du FBI a plaidé coupable après avoir volé près de 2,5 millions de dollars en cryptomonnaies depuis des portefeuilles appartenant à des victimes de fraude et à des hackers étatiques sous enquête.
 
-## [<b>Cybersécurité</b> : ce que contient le plan du gouvernement face au risque de sabotage](https://www.capital.fr/economie-politique/cybersecurite-ce-que-contient-le-plan-du-gouvernement-face-au-risque-de-sabotage-1532000)  
-*Source : capital.fr | Publication : 2026-11-19*
+## [(Multimédia) Trump limoge son responsable de la <b>cybersécurité</b>, dans un contexte d ...](https://french.news.cn/20261120/108abc2ce90b4eff9c2afbe137d45b5a/c.html)  
+*Source : french.news.cn | Publication : 2026-11-20*
 
-- Le temps où les cyberattaques se limitaient au vol de données et aux demandes de rançon semble révolu.
-- C’est le constat dressé par l’exécutif, jeudi 19 novembre, à l’issue d’une réunion interministérielle consacrée à la cybersécurité.
-- Le niveau de menace est «particulièrement grave et inédit» et «rien ne laisse à penser (…) que les choses vont s’arranger», a averti le Premier ministre, Sébastien Lecornu.
-- Le diagnostic est partagé par Vincent Strubel, directeur général de l’Agence nationale de la sécurité des systèmes d’information (Anssi), qui décrit des menaces «sans précédent», appelées à progresser encore «en volume» comme en «sévérité».
+- Le président des Etats-Unis Donald Trump a limogé jeudi le directeur national de la cybersécurité de la Maison Blanche, Sean Cairncross, quelques jours après qu'une série de pannes ayant perturbé le trafic aérien, le secteur bancaire et les systèmes de sécurité nationale.
+- WASHINGTON, 19 novembre (Xinhua) -- Le président des Etats-Unis Donald Trump a limogé jeudi le directeur national de la cybersécurité de la Maison Blanche, Sean Cairncross, quelques jours après qu'une série de pannes ayant perturbé le trafic aérien, le secteur bancaire et les systèmes de sécurité nationale.
+- L'administration Trump fait l'objet de vives critiques depuis quelques jours.
+- Une panne mondiale a touché des centaines de millions d'utilisateurs de Microsoft, tandis que des défaillances de communication ont entraîné des restrictions de trafic dans les aéroports américains qui ont perturbé près de 20.000 vols à travers le pays.
 
-## [Sophia : Optivalue.ai a reçu le trophée Innovation Cyber des Trophées de la <b>Cybersécurité</b> 2026](https://www.petitesaffiches.fr/actualites,069/tech,080/sophia-optivalue-ai-a-recu-le,47775.html)  
-*Source : petitesaffiches.fr | Publication : 2026-11-19*
+## [Mourenx : les industriels et administrations sensibilisés face à la <b>cybercriminalité</b>](https://www.larepubliquedespyrenees.fr/pyrenees-atlantiques/mourenx/mourenx-les-gendarmes-et-les-acteurs-locaux-sensibilises-face-a-la-cybercriminalite-31585946.php)  
+*Source : larepubliquedespyrenees.fr | Publication : 2026-11-20*
 
-- Cette distinction récompense sa solution d'intelligence artificielle dédiée aux questionnaires de sécurité, aux audits et aux appels d'offres.
-- Basée.
+- Mourenx : les industriels et administrations sensibilisés face à la cybercriminalité Une réunion d’information s’est tenue en présence des autorités et des industriels pour sensibiliser aux risques des cyberattaques et présenter les dispositifs de protection sur le bassin de Lacq.
+- Les élus de la Communauté de communes Lacq-Orthez et les industriels étaient invités mercredi soir à un séminaire sur la cybersécurité.
+- Sous la haute autorité du colonel Benoît Alégoët, commandant le groupement de gendarmerie des Pyrénées-Atlantiques, plusieurs intervenants ont décortiqué les différentes attaques et les actions à entreprendre pour éviter de subir des cyberattaques.
 
-## [Les Etats-Unis ont été secoués par des pannes informatiques à répétition au plus haut niveau - BFM](https://www.bfmtv.com/tech/cybersecurite/les-etats-unis-ont-ete-secoues-par-des-pannes-informatiques-a-repetition-au-plus-haut-niveau-la-principale-responsable-a-peut-etre-ete-trouvee-l-intelligence-artificielle_AV-202611190898.html)  
-*Source : bfmtv.com | Publication : 2026-11-19*
+## [Menace cyber “grave et inédite”, Lecornu fait passer la protection de l'État avant l'innovation](https://alliancy.fr/menace-cyber-grave-et-inedite-lecornu-fait-passer-la-protection-de-letat-avant-linnovation-6a416c58-fba8-441d-aab9-fc1fc492120a)  
+*Source : alliancy.fr | Publication : 2026-11-20*
 
-- Les Etats-Unis ont été secoués par des pannes informatiques à répétition au plus haut niveau: la principale responsable a peut-être été trouvée, l'intelligence artificielle En l'espace de trois semaines, on ne peut pas dire que le secteur américain de la tech se soit fait une bonne publicité.
-- Les services Outlook et Teams de Microsoft ont connu une panne de plusieurs heures, suivie par un arrêt soudain des vols aux États-Unis après un bug occasionné par l'installation de nouveaux routeurs dans un contexte où le matériel obsolète prédomine, et, dernièrement, c'est l'indisponibilité de la plupart des services d'Apple, dont l'App store et Apple Pay, ainsi que la mise hors ligne du réseau de communication de la NSA, qui ont fait les gros titres.
-- Selon le Washington Sun, l'agence nationale de sécurité, la NSA, aurait déclaré au Congrès que l'intelligence artificielle serait l'une des principales responsables de ces pannes à répétition.
-- Concrètement, ce sont des correctifs déployés pour contrecarrer des cyberattaques grâce à l'IA qui auraient tout fait dérailler.
+- cyberbranle-bas Menace cyber “grave et inédite”, Lecornu fait passer la protection de l’État avant l’innovation À l’issue d’une réunion au SGDSN, Sébastien Lecornu a jugé la menace cyber “grave et inédite”.
+- Le Premier ministre assume de flécher les crédits vers la protection plutôt que l’innovation.
+- Branle-bas de combat au sommet de l’État.
+- Jeudi 19 novembre, Sébastien Lecornu a réuni cinq ministres au secrétariat général de la Défense et de la Sécurité nationale (SGDSN), parmi lesquels Roland Lescure, ministre de l’Économie, et Anne Le Hénanff, ministre déléguée chargée de l’Intelligence artificielle et du Numérique, pour faire face à une menace informatique qu’il juge “particulièrement grave et inédite”.
 
-## [96 % des victimes de <b>ransomware</b> ont vu leurs sauvegardes ciblées. - Alliancy](https://alliancy.fr/communaute/evenements/2026/11/26/c5d1a97b-ad0c-4494-9e04-fd89f731206f)  
-*Source : alliancy.fr | Publication : 2026-11-19*
+## [<b>Cybersécurité</b>: Trump limoge le directeur de la Maison Blanche - 24 Heures](https://www.24heures.ch/cybersecurite-trump-limoge-le-directeur-de-la-maison-blanche-251321614353)  
+*Source : 24heures.ch | Publication : 2026-11-20*
 
-- 26 nov.
-- 2026 12:30 - 13:15 96 % des victimes de ransomware ont vu leurs sauvegardes ciblées.
-- Comment redémarrer quand l’attaquant a déjà les clés ?.
-- Webinaire gratuit · Jeudi 26 novembre · 12h30-13h15 · En ligne · 45 min À propos Vos sauvegardes sont devenues la première cible Si l’entreprise peut restaurer, elle n’a aucune raison de payer.
+- Ãtats-Unis Trump a soutenu ce renvoi, selon une source proche de la prÃ©sidence.
+- Kirsten Davies prend le relais aprÃ¨s une sÃ©rie dâincidents techniques.
+- Le directeur de la cybersÃ©curitÃ© de la Maison-Blanche, Sean Cairncross, a Ã©tÃ© limogÃ©, a indiquÃ© jeudi une source proche de la Maison-Blanche.
+- Selon cette mÃªme source, Donald Trump a pleinement soutenu le renvoi du directeur de la cybersÃ©curitÃ©, jugÃ© dÃ©pourvu des compÃ©tences nÃ©cessaires pour occuper ce poste.
 
-## [<b>Cybersécurité</b> : panique générale face à la déferlante IA - l'Opinion](https://www.lopinion.fr/international/cybersecurite-panique-generale-face-a-la-deferlante-ia)  
-*Source : lopinion.fr | Publication : 2026-11-19*
+## [<b>Cybersécurité</b> : après l'attaque d'Arkéa, la BCE sonne l'alarme auprès des banques](https://trends.levif.be/a-la-une/banque/cybersecurite-apres-lattaque-darkea-la-bce-sonne-lalarme-aupres-des-banques/)  
+*Source : trends.levif.be | Publication : 2026-11-20*
 
-- Cybersécurité : panique générale face à la déferlante IA « On est sur un niveau de menace particulièrement grave et inédit.
-- Et rien ne laisse à penser que les choses vont s’arranger », a déclaré ce jeudi le Premier ministre Sébastien Lecornu, à l’issue d’une réunion interministérielle sur la cybersécurité.
-- Tous les ministères sont invités à renforcer leur défense après les récentes attaques et fuites de données.
-- De l’avis des habitués, cette 11e édition de la European Cyber Week (ECW), à Rennes, n’était pas comme les autres.
+- Un butin estimé à 100 millions d'euros.
+- Le spectaculaire braquage dont a récemment été victime le groupe français Arkéa agit comme une piqûre de.
 
-## [<b>Cybersécurité</b> : la France renforce son plan de protection - Libnanews](https://libnanews.com/cybersecurite-la-france-renforce-son-plan-de-protection/)  
-*Source : libnanews.com | Publication : 2026-11-19*
+## [Après le piratage du fisc et des frigos, Sébastien Lecornu dévoile son plan de <b>cybersécurité</b> ...](https://www.clubic.com/actualite-640228-apres-le-piratage-du-fisc-et-des-frigos-sebastien-lecornu-devoile-son-plan-de-cybersecurite-pour-la-france.html)  
+*Source : clubic.com | Publication : 2026-11-20*
 
-- Le gouvernement français a présenté, le 19 novembre, un plan de cybersécurité visant les administrations et les services essentiels.
-- Sébastien Lecornu annonce notamment l’opération Gigawatt pour le secteur énergétique.
-- L’ANSSI doit étendre son accompagnement aux opérateurs de taille intermédiaire.
-- Cybersécurité : des objectifs budgétaires réaffirmés Chaque ministère devra consacrer au moins 5 % de son budget numérique à la cybersécurité dès 2027, avec un objectif de 10 % en 2030.
+- Après une année 2026 marquée par plusieurs cyberattaques d'ampleur, l'État essaie de réagir.
+- Sébastien Lecornu a dévoilé jeudi un plan de cybersécurité qui impose un budget cyber minimum aux ministères et renforce les obligations des entreprises.
+- Le plan de cybersécurité dévoilé le jeudi 19 novembre par le Premier ministre Sébastien Lecornu a été écrit sous la pression des événements.
+- Il y a eu l'important vol de données à la DGFiP, le fisc, cet été, puis, il y a quelques semaines, une attaque rocambolesque contre des installations frigorifiques que les services français attribuent à l'Iran.
