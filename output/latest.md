@@ -1,147 +1,156 @@
-# Résumés – 2026-11-26
+# Résumés – 2026-11-27
 
 
-## [Pourquoi les autorités belges ont-elles invité des hackers à infiltrer leurs propres sites](https://www.rtl.be/actu/belgique/societe/pourquoi-les-autorites-belges-ont-elles-invite-des-hackers-infiltrer-leurs/2026-11-25/article/807798)  
-*Source : rtl.be | Publication : 2026-11-25*
+## [Antivirus payant ou protection native de Windows : quel est le système le plus efficace ...](https://www.futura-sciences.com/tech/questions-reponses/cybersecurite-antivirus-payant-protection-native-windows-systeme-plus-efficace-nouveaux-malwares-26659/)  
+*Source : futura-sciences.com | Publication : 2026-11-27*
 
-- Partager: Devant leurs écrans, ces hackers éthiques sont en train d’infiltrer les sites gouvernementaux.
-- Ils cherchent les failles dans une dizaine de sites, comme ceux de la police, de l’INAMI ou de l’Agence fédérale des médicaments.
-- Simon et Guillaume, étudiants en cybersécurité, ont découvert cinq vulnérabilités dans les systèmes informatiques. «.
-- J’avais une faille où j’avais accès à des données confidentielles.
+- Déjà, que testent ces fameux laboratoires ?.
+- Les deux grands instituts font des tests sur Windows 11 à jour, avec les réglages par défaut et un accès au cloud.
+- AV-TEST, d'une part, note chaque produit sur 18 points, soit 6 pour la protection, 6 pour les performances et 6 pour la facilité d'usage, et décerne son label "Top Product" à partir de 17,5.
+- AV-Comparatives fait de son côté le "Real-World Protection Test", qui se base sur des centaines de menaces actives rencontrées en navigation, qu'un logiciel peut bloquer à n'importe quelle étape, de l'adresse du site à l'exécution du fichier.
 
-## [« Un haut lieu breton de la cyberdéfense » : à Vannes, le campus datascience attend ses ...](https://www.ouest-france.fr/education/enseignement/un-haut-lieu-breton-de-la-cyberdefense-a-vannes-le-campus-datascience-attend-ses-premiers-etudiants-en-janvier-dfb1627a-e829-11f1-86c1-70195b4d2e52)  
-*Source : ouest-france.fr | Publication : 2026-11-25*
+## [Nucleon Security et Thales s'associent au Maroc - SocialNetLink](https://www.socialnetlink.org/2026/11/26/nucleon-security-thales-cybersecurite-maroc/)  
+*Source : socialnetlink.org | Publication : 2026-11-27*
 
-- Ce mardi 24 novembre 2026, le futur campus datascience et cybersécurité a été inauguré à Vannes (Morbihan).
-- Réhabilité par Golfe du Morbihan-Vannes.
+- 🇬🇧 English | 🇫🇷 Français La scale-up franco-marocaine Nucleon Security et le groupe français Thales ont annoncé le 25 novembre 2026 un partenariat technologique destiné aux administrations, aux entreprises réglementées et aux opérateurs d’infrastructures critiques au Maroc.
+- Les deux sociétés disent viser aussi, à terme, le reste du continent africain.
+- Selon le communiqué conjoint, daté de Paris et Casablanca, l’accord combine la solution de détection et de réponse sur les postes de travail et les serveurs (EDR) de Nucleon Security avec les capacités d’intégration, de supervision et de réponse aux incidents de Thales.
+- Les deux entreprises proposent par ailleurs une offre de cybersécurité managée au Maroc, avec un hébergement dans un cloud situé dans le pays, afin que les données sensibles restent sous contrôle local.
 
-## [[Contenu partenaire] Orange Maroc mobilise ses expertises locales et celles d'Orange ... - Instagram](https://www.instagram.com/p/DgLTWXgjcmg/)  
-*Source : instagram.com | Publication : 2026-11-25*
+## [Artex et les autres : ces « frameworks » offensifs basés sur l'IA qui accélèrent le tempo de la menace](https://www.lefilia.fr/article/6529597-artex-et-les-autres-ces-frameworks-offensifs-bases-sur-l-ia-qui-accelerent-le-tempo-de-la-menace)  
+*Source : lefilia.fr | Publication : 2026-11-27*
 
-- InstagramLog InSign Up.
+- Artex et les autres : ces « frameworks » offensifs basés sur l’IA qui accélèrent le tempo de la menace Artex, un outil de cybersécurité basé sur l'IA détourné par des cybercriminels, a successivement frappé des banques sud-coréennes début octobre, la Commission européenne quelques semaines plus tard, puis plusieurs grandes agences de renseignement américaines.
+- Le FBI vient d'alerter sur sa capacité à réduire considérablement le temps nécessaire pour enchaîner les techniques d'attaque : dans certains cas, une intrusion passe du ciblage initial à l'obtention d'un accès privilégié en moins de trois heures.
+- Mais Artex n'est pas isolé.
+- Un spécialiste français de la lutte contre les cybermenaces rappelle qu'au moins 20 cadres d'IA offensifs sont disponibles sur GitHub, et Mandiant, la filiale cybersécurité de Google Cloud, a signalé les capacités de « PentAGI » et de « Cairn ».
 
-## [Un système de la CIA et du renseignement américain victime d'une intrusion - Next.ink](https://next.ink/brief-article/un-systeme-de-la-cia-et-du-renseignement-americain-victime-dune-intrusion/)  
-*Source : next.ink | Publication : 2026-11-25*
+## [Des hackeurs, des espions, les Gafam et la souveraineté en question : « Cybernation - Ouest-France](https://www.ouest-france.fr/medias/radio/des-hackeurs-des-espions-les-gafam-et-la-souverainete-en-question-cybernation-un-podcast-captivant-de-france-inter-c7ac549a-e9b5-11f1-9b33-2f81462d3339)  
+*Source : ouest-france.fr | Publication : 2026-11-27*
 
-- Un système de la CIA et du renseignement américain victime d’une intrusion 2 min Sécurité Sécurité Un système informatique utilisé par la CIA et le Bureau du directeur du renseignement national (ODNI) a été victime d’une intrusion.
-- Selon les sources du New York Times, une brèche de sécurité a exposé des informations non classifiées sur ces deux agences fédérales américaines, d’autres pourraient être concernées.
-- Le système en question sert à produire du renseignement à partir de sources ouvertes (OSINT), c’est-à-dire disponibles publiquement : réseaux sociaux, images satellites, bases de données commerciales vendues par des courtiers.
-- Il s’agit de données accessibles à tous, mais savoir les publications surveillées par les analystes des agences, avec quelles autres informations elles sont recoupées, et quelles conclusions ils peuvent en tirer peut avoir de la valeur pour un service de renseignement étranger.
+- Du cinéma radiophonique qui mêle cybersécurité , guerre hybride et enjeux économiques.
+- Les huit épisodes, dont les personnages sont incarnés entre.
 
-## [Cyberattaque contre Ipsos : le groupe Qilin revendique un vol de données sensibles](https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-contre-ipsos-le-groupe-qilin-revendique-un-vol-de-donnees-sensibles)  
-*Source : lemondeinformatique.fr | Publication : 2026-11-25*
+## [Des agents IA attaquent des infrastructures critiques en Suisse | 7sur7.be](https://www.7sur7.be/tech/des-agents-ia-attaquent-des-infrastructures-critiques-en-suisse~a28d5a4d/)  
+*Source : 7sur7.be | Publication : 2026-11-27*
 
-- ArticleCybersécurité & Conformité Cyberattaque contre Ipsos : le groupe Qilin revendique un vol de données sensibles Le groupe de cybercriminels Qilin revendique une attaque contre Ipsos et affirme détenir des documents commerciaux appartenant au spécialiste français des études de marché.
-- Plusieurs extraits de fichiers, qui mentionneraient notamment Roblox, KPMG et Ferrero, ont été publiés sur son site de divulgation.
-- Ipsos avait reconnu, quelques jours auparavant, une intrusion dans l’un de ses systèmes informatiques internes, sans constater de perturbation de ses activités.
-- L’ampleur de l’éventuelle fuite de données reste à déterminer.
+- Ces cas illustrent une évolution des cybermenaces , indique l'Office fédéral de la cybersécurité.
+- Rédaction.
+- Source: BELGA.
+- 26 novembre 2026, 17:53.
 
-## [Qu'est-ce qu'Artex, ce logiciel d'intrusion dopé à l'IA qui fait trembler le monde de la ...](https://www.liberation.fr/checknews/quest-ce-quartex-ce-logiciel-dintrusion-dope-a-lia-qui-fait-trembler-le-monde-de-la-cybersecurite-20261125_BW7WXDE3UNBTDP5DEABGHFJWFI/)  
-*Source : liberation.fr | Publication : 2026-11-25*
+## [Cyberattaque chez Eneco : les données bancaires de milliers de clients dérobées](https://www.bruxellestoday.be/actualite/cybersecurite-eneco-faille-donnees-bancaires.html)  
+*Source : bruxellestoday.be | Publication : 2026-11-26*
 
-- Depuis quelques mois, le milieu de la cybersécurité s'inquiète de l'apparition d'un nouvel outil d'intrusion : Artex.
-- Y compris en France, où de.
+- Cyberattaque chez Eneco : les données bancaires de milliers de clients dérobées Les données personnelles et bancaires de clients belges d’Eneco ont été dérobées lors d’une cyberattaque survenue le week-end dernier.
+- Plus de 100.000 clients concernés ?.
+- Le fournisseur d'énergie Eneco a été victime d'une fuite de données clients à la suite d'une cyberattaque survenue le week-end dernier.
+- L'entreprise a été informée mercredi soir par le Centre pour la cybersécurité Belgique (CCB) que des informations personnelles auraient été dérobées par des pirates informatiques.
 
-## [Continuité et reprise d'activité : trois établissements partagent leur démarche](https://esante.gouv.fr/produits-services/cybersecurite/continuite-et-reprise-d-activite-trois-etablissements-partagent-leur-demarche)  
-*Source : esante.gouv.fr | Publication : 2026-11-25*
+## [Cloud souverain, <b>cybersécurité</b>… comment inwi héberge et protège les données dans ses ... - Le360](https://fr.le360.ma/economie/cloud-souverain-cybersecurite-comment-inwi-heberge-et-protege-les-donnees-dans-ses-data-centers-au_EY2XFAGYRVHPPPD5LSJKOFVGAM/)  
+*Source : fr.le360.ma | Publication : 2026-11-26*
 
-- La continuité et la reprise d’activité constituent l’un des axes majeurs du programme CaRE.
-- Dès son lancement, des kits méthodologiques dédiés à la continuité d’activité et à la gestion de crise ont été co-construits avec les établissements de santé afin d’apporter des outils opérationnels adaptés à leurs besoins et à leurs réalités de terrain.
-- Le domaine 2 s’inscrit dans cette continuité en accompagnant les établissements dans le déploiement et l’appropriation de ces travaux, à travers l’élaboration et l’actualisation des plans de continuité et de reprise d’activité (PCRA), le renforcement des dispositifs de sauvegarde et l’organisation d’exercices destinés à préparer les équipes aux situations de crise.
-- À l’occasion du Cybermois, trois structures aux profils différents partagent leur retour d’expérience : le Centre Léon Bérard, centre de lutte contre le cancer de référence en région Auvergne-Rhône-Alpes et membre du réseau Unicancer, le Centre hospitalier d’Auxerre, établissement public, support du GHT Unyon regroupant cinq établissements dont un établissement spécialisé en psychiatrie, et le groupe privé Vivalto Santé, à travers notamment le témoignage de la Polyclinique du Parc à Cholet.
+- Derrière les portes d’un data center, la continuité de service ne repose pas uniquement sur les serveurs.
+- Alimentation électrique, refroidissement, surveillance, contrôle d’accès ou encore redondance des connexions: tout est pensé pour éviter la moindre interruption.
+- C’est dans cet environnement, au sein de son site de Rabat Technopolis, qu’inwi a présenté ce jeudi 26 novembre les infrastructures sur lesquelles s’appuient ses offres d’hébergement, de cloud souverain et de cybersécurité.
+- Le site fait partie d’un réseau de neuf data centers répartis entre Rabat, Casablanca, Settat, Tanger, Oujda, Meknès, Marrakech et Agadir.
 
-## [Des hackers éthiques traquent les failles de la <b>cybersécurité</b> publique - RTL Info](https://www.rtl.be/page-videos/des-hackers-ethiques-traquent-les-failles-de-la-cybersecurite-publique/2026-11-25/video/807787)  
-*Source : rtl.be | Publication : 2026-11-25*
+## [<b>Ransomware</b>: Kaspersky reports victims in Senegal in an AuditTeam campaign](https://www.socialnetlink.org/2026/11/26/kaspersky-auditteam-ransomware-senegal/)  
+*Source : socialnetlink.org | Publication : 2026-11-26*
 
-- Vous souhaitez nous envoyer une information?.
-- Utilisez le formulaire de contact pour nous envoyer vos scoops!.
+- 🇬🇧 English | 🇫🇷 Français Kaspersky’s Global Research and Analysis Team (GReAT) says it has uncovered a campaign by the AuditTeam ransomware group that compromised dozens of organisations in at least seven countries and territories, including Senegal, between January and October 2026.
+- The cybersecurity company identified a previously unknown attack tool, OpsAgent, whose code was probably written in part with the help of an AI model.
+- According to Kaspersky’s press release, published on 18 November and circulated in French on 26 November, victims were identified in China, Finland, Hong Kong, Italy, the Philippines, Russia and Senegal, the only African country named.
+- The company does not give the number of victims per country, nor the sectors or organisations affected.
 
-## [IA, <b>cybersécurité</b>, géopolitique et parité au cœur du rapport annuel de l'AMF sur la gouvernance](https://citywire.com/fr/news/ia-cybersécurité-géopolitique-et-parité-au-cœur-du-rapport-annuel-de-l-amf-sur-la-gouvernance/a2504207)  
-*Source : citywire.com | Publication : 2026-11-25*
+## [Le podcast “Cybernation”, sur France Inter, un projet ambitieux aux enjeux citoyens… et financiers](https://www.telerama.fr/radio/le-podcast-cybernation-sur-france-inter-un-projet-ambitieux-aux-enjeux-citoyens-et-financiers-7034054.php)  
+*Source : telerama.fr | Publication : 2026-11-26*
 
-- Request unsuccessful.
-- Incapsula incident ID: 102000400684845234-356027418473269800.
+- Financée grâce au programme d’investissement de France 2030, “Cybernation” est la première fiction d’ampleur produite par Radio France Studios.
+- Un tournant pour le modèle économique de la radio publique, qui doit augmenter ses ressources propres.
+- Réservé aux abonnés Publié le 26 novembre 2026 à 18h03 Un casting de cent vingt comédiens, Reda Kateb, Angelina Woreth, Jacques Gamblin et Marie Dompnier en têtes d’affiche, dix-sept jours de tournage, autant pour le montage, rebelote pour le mixage… La nouvelle fiction sonore de Radio France, qui court sur quatre heures réparties en huit épisodes, est d’une ampleur rare.
+- À l’écriture de ce thriller haletant intitulé Cybernation : Tanguy Blum et Antoine Piombino (avec la participation de France Lanot) ; à la réalisation, Baptiste Guiton.
 
-## [<b>Cybersécurité</b> : la prise de conscience des petites communes progresse, les actes tardent](https://www.banquedesterritoires.fr/salon-des-maires-cybersecurite-la-prise-de-conscience-des-petites-communes-progresse-les-actes?pk_campaign=newsletter_quotidienne&pk_kwd=2026-11-25&pk_source=Actualités_Localtis&pk_medium=newsletter_quotidienne)  
-*Source : banquedesterritoires.fr | Publication : 2026-11-25*
+## [L'Agence France-Presse dit avoir été visée par une cyberattaque qui paralyse l'une de ses ...](https://www.lemonde.fr/actualite-medias/article/2026/11/26/l-afp-dit-avoir-ete-visee-par-une-cyberattaque-qui-paralyse-l-une-de-ses-plateformes-de-mise-a-disposition-des-depeches-et-des-images_6815596_3236.html)  
+*Source : lemonde.fr | Publication : 2026-11-26*
 
-- Salon des maires – Cybersécurité : la prise de conscience des petites communes progresse, les actes tardent Le baromètre 2026 de Cybermalveillance.gouv.fr montre des communes plus au fait des risques cyber, mais toujours aussi mal préparées à une attaque.
-- Le GIP Acyma et l'AMF lancent un mémento destiné aux communes rurales.
-- Les collectivités peuvent aussi s’appuyer sur un nouvel outil en ligne de l’Anssi.
-- Selon le 4e baromètre* réalisé par OpinionWay pour Cybermalveillance.gouv.fr, 42% des communes de moins de 25.000 habitants jugent leur exposition au risque cyber "élevée", soit 4 points de plus qu'en 2024 et 59% s'estiment “insuffisamment préparées” à une attaque, contre 54% deux ans plus tôt.
+- JavaScript is disabled in your browser.
+- Please enable JavaScript to proceed.
+- A required part of this site couldn’t load.
+- This may be due to a browser extension, network issues, or browser settings.
 
-## [Les données de plus d'un million de Flamands siphonnées dans une nouvelle cyberattaque ...](https://www.lesoir.be/784894/article/2026-11-25/les-donnees-de-plus-dun-million-de-flamands-siphonnees-dans-une-nouvelle)  
-*Source : lesoir.be | Publication : 2026-11-25*
+## [L'Agence France Presse ciblée par une cyberattaque, l'une de ses plateformes ... - Libération](https://www.liberation.fr/economie/medias/lagence-france-presse-ciblee-par-une-cyberattaque-lune-de-ses-plateformes-temporairement-inaccessible-20261126_N6Z3CSEIZBDLRANBZAR7T6UELY/)  
+*Source : liberation.fr | Publication : 2026-11-26*
 
-- Le CEO de Secutec, poids lourd de la cybersécurité privée en Belgique, lance un pavé dans la mare.
-- Il affirme avoir identifié une attaque touchant.
+- A ce stade, l'AFP ne dispose «d'aucun élément sur l'identité des auteurs de cette attaque».
+- Cybersécurité.
 
-## [Cyberattaques et fuites de données contre la &quot;souveraineté de la France&quot;: le Sénat lance ...](https://www.bfmtv.com/tech/cybersecurite/cyberattaque-et-fuites-de-donnees-contre-la-souverainete-de-la-france-le-senat-lance-une-commission-d-enquete_AD-202611250817.html)  
-*Source : bfmtv.com | Publication : 2026-11-25*
+## [QR : un hôpital peut-il facturer des frais supplémentaires liés à la <b>cybersécurité</b> - RTBF](https://www.rtbf.be/article/qr-un-hopital-peut-il-facturer-des-frais-supplementaires-lies-a-la-cybersecurite-11819461)  
+*Source : rtbf.be | Publication : 2026-11-26*
 
-- Cyberattaques et fuites de données contre la "souveraineté de la France": le Sénat lance une commission d'enquête "Comprendre ces failles et essayer d'y remédier".
-- C'est l'objectif d'une commission d'enquête sur les cyberattaques qui va être lancée au Sénat dans les prochains jours.
-- Elle aura pour l'objectif d'aboutir à des propositions pour contrer les "fuites de données" portant atteinte à la "souveraineté" de la France, a-t-on appris mercredi auprès de la sénatrice Nathalie Goulet, qui en est à l'initiative.
-- Le groupe de l'Union centriste et indépendants, deuxième groupe du Sénat allié à la droite, a utilisé son "droit de tirage" pour créer cette commission, une disposition du règlement du Sénat qui permet à chaque formation parlementaire de lancer une mission de son choix par an.
+- Pierre, de Bruxelles, nous a posé la question suivante : "Sur la facture d’un hôpital, on retrouve des frais administratifs liés à la cybersécurité.
+- Est-ce autorisé ?.
+- ".
+- Pourquoi la cybersécurité ne peut-elle pas être facturée en supplément ?.
 
-## [Bénin: Kaspersky et MTN Business s'allient pour renforcer la <b>cybersécurité</b> des entreprises](https://afriquinfos.com/article/benin-kaspersky-et-mtn-business-s-allient-pour-batir-la-confiance-2)  
-*Source : afriquinfos.com | Publication : 2026-11-25*
+## [Ingénieur risque cyber tiers F/H - Bouygues Telecom](https://www.corporate.bouyguestelecom.fr/travailler-ensemble/nos-offres/ingenieur-risque-cyber-tiers-fh-reference-2462/)  
+*Source : corporate.bouyguestelecom.fr | Publication : 2026-11-26*
 
-- Par cet accord, Kaspersky poursuit le développement de son réseau de partenaires en Afrique de l’Ouest et rapproche ses technologies des organisations béninoises, confrontées à des cybermenaces de plus en plus nombreuses et sophistiquées.
-- Un modèle de service pensé pour les entreprises locales Dans le cadre de ce partenariat, MTN Business assurera la commercialisation, le déploiement et l’accompagnement des solutions de cybersécurité de Kaspersky au Bénin.
-- Le modèle MSP permet à MTN Business de gérer et de soutenir ces solutions au plus près de ses clients, une approche adaptée aux petites et moyennes entreprises, qui ne disposent pas toujours de ressources internes dédiées à la sécurité informatique.
-- L’alliance associe l’expertise technologique de Kaspersky à la proximité, au réseau et à la connaissance du marché local de MTN Business.
+- Ingénieur risque cyber tiers F/H Publié le 26/11/2026 La description du poste Localisation : Meudon-la-Foret Type de contrat : CDI Si vous êtes toujours d’attaque pour pratiquer la cyber-défense, on est fait pour être ensemble 💙 Ce que l'on vous propose : Au sein de la Direction Cybersécurité et Résilience, vous rejoignez le service en charge de la gouvernance cybersécurité de Bouygues Telecom et de ses filiales en tant qu’Ingénieur risque cyber tiers.
+- Rattaché au pôle TPRM (Third-Party Risk Management), vous en êtes le référent technique.
+- Dans un contexte de forte hausse de la menace cyber, en particulier des incidents impliquant des tiers, vous êtes chargé d'assurer que la maîtrise contractuelle du risque se double d'une maîtrise technique continue.
+- Vous rejoindrez le pôle dans une phase structurante de déploiement d’un nouveau processus TPRM et d’une nouvelle plateforme de gestion des risques liés aux tiers.
 
-## [Le CHU de Bordeaux aussi victime d'un incident de <b>cybersécurité</b> - GNT](https://www.generation-nt.com/actualites/chu-bordeaux-incident-cybersecurite-groupe-ransomware-2085063)  
-*Source : generation-nt.com | Publication : 2026-11-25*
+## [Technologies quantiques, l'Europe verrouille sa future industrie par les achats publics et la ...](https://itsocial.fr/tech-digital/tech-digital-articles/technologies-quantiques-leurope-verrouille-sa-future-industrie-par-les-achats-publics-et-la-cryptographie-post-quantique/)  
+*Source : itsocial.fr | Publication : 2026-11-26*
 
-- Le centre hospitalier universitaire (CHU) de Bordeaux est également touché par un incident de cybersécurité.
-- Il a abouti à la compromission de son système d'information.
-- La cyberattaque a pour origine l'utilisation frauduleuse de deux adresses e-mail pour " procéder à des envois massifs de courriels à destination de professionnels de l'établissement ". ".
-- Les analyses techniques se poursuivent afin de déterminer précisément à quels éléments et à quelles données les auteurs de cette attaque ont pu accéder, d'en évaluer le périmètre et de déterminer si des données ont été extraites ou non ", indique le CHU de Bordeaux dans un communiqué de presse.
+- La Commission européenne réserve aux fournisseurs contrôlés dans l’Union les achats publics de technologies quantiques, pour faire de sa recherche une industrie sous contrôle européen.
+- Son Quantum Act impose aussi la cryptographie post-quantique dans une partie des achats numériques des administrations.
+- Une technologie de rupture ne devient une industrie que si quelqu’un achète ses premiers produits.
+- L’Europe en a fait l’expérience avec les semi-conducteurs, où l’excellence de ses laboratoires n’a pas empêché la production de partir en Asie et aux États-Unis.
 
-## [Cyberattaques : le Sénat lance une commission d'enquête sur les failles de <b>cybersécurité</b> en France](https://www.boursorama.com/actualite-economique/actualites/cyberattaques-le-senat-lance-une-commission-d-enquete-sur-les-failles-de-cybersecurite-en-france-25b6fe32960dc9f41a380cb1cd5893b6)  
-*Source : boursorama.com | Publication : 2026-11-25*
+## [L'AFP, l'une des trois agences mondiales d'informations, victime d'une cyberattaque dans la ...](https://www.ladepeche.fr/2026/11/26/lafp-lune-des-trois-agences-mondiales-dinformations-victime-dune-cyberattaque-dans-la-nuit-lune-de-ses-plateformes-toujours-inaccessible-13673232.php)  
+*Source : ladepeche.fr | Publication : 2026-11-26*
 
-- La commission doit débuter avant la fin de l'année, ses travaux dureront six mois.
-- Une commission d'enquête sur les cyberattaques va être lancée au Sénat dans les prochains jours, avec l'objectif d'aboutir à des propositions pour contrer les "fuites de données" portant atteinte à la "souveraineté" de la France, a-t-on appris mercredi auprès de la sénatrice Nathalie Goulet, qui en est à l'initiative.
-- Le groupe de l'Union centriste et indépendants, deuxième groupe du Sénat allié à la droite, a utilisé son "droit de tirage" pour créer cette commission, une disposition du règlement du Sénat qui permet à chaque formation parlementaire de lancer une mission de son choix par an.
-- "Nous observons des problèmes manifestes de priorisation et d'organisation du cyber dans les ministères, les opérateurs de l'État" , a déclaré Nathalie Goulet (UDI) à l' AFP.
+- L'AFP, l'une des trois agences mondiales d'informations, victime d'une cyberattaque dans la nuit, l'une de ses plateformes toujours inaccessible l'essentiel L'Agence France-Presse (AFP) a été victime d'une cyberattaque dans la nuit du mercredi 25 au jeudi 26 novembre, contraignant l'agence à suspendre temporairement l'accès à l'une de ses principales plateformes de diffusion de contenus.
+- Une enquête est en cours pour déterminer l'origine de cette intrusion, dont les auteurs n'ont pas encore été identifiés.
+- Cela faisait déjà plusieurs heures que ses clients n'avaient plus accès à ses contenus.
+- Ce jeudi 26 novembre en début de soirée, l'Agence France-Presse a révélé avoir été la cible d'une cyberattaque dans la nuit de mercredi à jeudi, nécessitant de rendre temporairement inaccessible sa plateforme de contenus AFP Forum.
 
-## [<b>Cybersécurité</b> : le pire est peut-être à venir - Courrier international](https://www.courrierinternational.com/article/a-a-une-du-magazine-cybersecurite-le-pire-est-peut-etre-a-venir_289937)  
-*Source : courrierinternational.com | Publication : 2026-11-25*
+## [L'essor des fausses images : comment la tromperie visuelle alimente la <b>cybercriminalité</b>](https://refrance.fr/essor-des-fausses-images/)  
+*Source : refrance.fr | Publication : 2026-11-26*
 
-- Sommes-nous entrés dans l’ère de l’instabilité, voire du chaos numérique ?.
-- C’est la question que l’on peut légitimement se poser à la lecture de notre dossier cette semaine.
-- Et la réponse de la presse étrangère, en la matière, est assez claire.
-- En octobre, une cyberattaque d’ampleur visait les installations frigorifiques de centaines de supermarchés en France entraînant la destruction, choquante, de tonnes de nourriture.
+- Imaginez que vous receviez un SMS puis un appel vidéo de votre patron, qui vous demande de lui transférer de l’argent, sur son ton arrogant habituel.
+- Que feriez-vous ?.
+- Vous poseriez-vous des questions ?.
+- Vous demanderiez-vous si la personne au téléphone est réellement votre patron ou un escroc ?.
 
-## [<b>Cybersécurité</b> : une commission d'enquête sur les cyberattaques et les fuites de données va ...](https://www.sudouest.fr/sciences-et-technologie/cybersecurite-une-commission-d-enquete-sur-les-cyberattaques-et-les-fuites-de-donnees-va-etre-lancee-au-senat-31669510.php)  
-*Source : sudouest.fr | Publication : 2026-11-25*
+## [Cyberattaque chez OPCO EP : l'organisme qui accompagne 442 700 entreprises françaises ...](https://www.cyberattaque.org/cyberattaque-chez-opco-ep-lorganisme-qui-accompagne-442-700-entreprises-francaises-suspend-ses-services/)  
+*Source : cyberattaque.org | Publication : 2026-11-26*
 
-- Le Sénat va créer une commission d’enquête pour analyser les failles de cybersécurité et proposer des mesures pour renforcer la souveraineté numérique de la France Une commission d’enquête sur les cyberattaques va être lancée au Sénat dans les prochains jours, avec l’objectif d’aboutir à des propositions pour contrer les « fuites de données » portant atteinte à la « souveraineté » de la France, a-t-on appris mercredi auprès de la sénatrice Nathalie Goulet, qui en est à l’initiative.
-- Le groupe de l’Union centriste et indépendants, deuxième groupe du Sénat allié à la droite, a utilisé son « droit de tirage » pour créer cette commission, une disposition du règlement du Sénat qui permet à chaque formation parlementaire de lancer une mission de son choix par an.
+- OPCO EP, l’un des principaux acteurs du financement de la formation professionnelle et de l’apprentissage en France, confirme être victime d’un incident de cybersécurité.
+- Ce jeudi 26 novembre 2026, l’organisme annonce avoir suspendu plusieurs de ses portails numériques afin de protéger ses systèmes informatiques et les données qui y sont hébergées.
+- L’opérateur accompagne 442 700 entreprises françaises et leurs 2,5 millions de salariés.
+- L’incident intervient à quelques jours d’une importante échéance administrative pour le financement des formations professionnelles.
 
-## [Arthur Bataille, spécialiste de la <b>cybersécurité</b> : « Nous serons remplacés par l'IA sur l ...](https://www.lefigaro.fr/vox/societe/arthur-bataille-tous-les-metiers-qui-consistent-a-recolter-a-trier-et-a-extraire-de-l-information-peuvent-disparaitre-dans-les-deux-ans-20261125)  
-*Source : lefigaro.fr | Publication : 2026-11-25*
+## [“Un système d'alarme ne sert à rien si la porte d'entrée reste ouverte” | L'Echo](https://www.lecho.be/partner/ccb/safeonweb/un-systeme-d-alarme-ne-sert-a-rien-si-la-porte-d-entree-reste-ouverte/10707213.html)  
+*Source : lecho.be | Publication : 2026-11-26*
 
-- « Nous serons remplacés par l’IA sur l’ensemble des métiers » : l’alerte d’Arthur Bataille, spécialiste de la cybersécurité ENTRETIEN - Le fondateur de Neverhack met en garde contre les bouleversements provoqués par l’intelligence artificielle.
-- Dans son roman d’anticipation L’Alignement, cet ingénieur imagine une humanité administrée par les machines.
-- Passer la publicitéIngénieur civil des télécoms, Arthur Bataille est le président fondateur de Neverhack, acteur majeur de la cybersécurité en France.
-- Réserviste opérationnel au 54e régiment de transmissions, l’unité de guerre électronique de l’armée française, il vient d’achever l’écriture de L’Alignement, un roman de science-fiction sur un monde gouverné par l’IA (intelligence artificielle ).
+- La cybersécurité demande un suivi continu.
+- L'authentification à deux facteurs, les mises à jour et les sauvegardes sont essentielles.
+- Une assurance ne.
 
-## [Vos agents IA ont-ils trop de pouvoir ? Table ronde demain à 11 h - Solutions-Numeriques](https://www.solutions-numeriques.com/vos-agents-ia-ont-ils-trop-de-pouvoir-table-ronde-demain-a-11-h/)  
-*Source : solutions-numeriques.com | Publication : 2026-11-25*
+## [Rançongiciels : une menace qui s'intensifie - LeMagIT](https://www.lemagit.fr/actualites/366655557/Rancongiciels-une-menace-qui-sintensifie)  
+*Source : lemagit.fr | Publication : 2026-11-26*
 
-- Demain, jeudi 26 novembre à 11 h, la rédaction de Solutions Numériques & Cybersécurité reçoit Microsoft Security et Metsys pour une table ronde en ligne sur le contrôle des agents IA.
-- Accès aux données, responsabilités, suivi des actions… Venez poser vos questions aux intervenants.
-- Un agent IA peut consulter des documents, envoyer un e-mail ou modifier une fiche client.
-- Chaque action suppose des droits d’accès.
+- jiris - stock.adobe.com Rançongiciels : une menace qui s’intensifie Si la France peut apparaître relativement protégée de l’intensification de la menace, il serait malvenu de baisser la garde.
+- Car la menace des ransomwares change, qualitativement, avec un raccourcissement de la fenêtre de détection.
+- La menace des ransomwares a comme pris un fort coup d’accélérateur durant l’été dernier, au moins à l’échelle mondiale.
+- Car pour l’instant, c’est moins vrai en France, où les données statistiques disponibles suggèrent une stabilité à un niveau toujours élevé.
 
-## [C'est officiel: les cyberattaques menées par des agents IA touchent désormais la Suisse](https://www.ictjournal.ch/news/2026-11-25/cest-officiel-les-cyberattaques-menees-par-des-agents-ia-touchent-desormais-la)  
-*Source : ictjournal.ch | Publication : 2026-11-25*
+## [Des infrastructures critiques attaquées par des agents IA en Suisse - Le Soir](http://plus.lesoir.be/785136/article/2026-11-26/des-infrastructures-critiques-attaquees-par-des-agents-ia-en-suisse)  
+*Source : plus.lesoir.be | Publication : 2026-11-26*
 
-- C’est officiel: les cyberattaques menées par des agents IA touchent désormais la Suisse Pour la première fois, la Confédération a reçu des signalements de cyberattaques réussies contre des entreprises suisses impliquant l’utilisation d’agents IA par les attaquants.
-- Les entreprises et les exploitants d’infrastructures critiques sont invités à renforcer leur cybersécurité et leur résilience.
-- Quelques mois après avoir mis en garde contre la hausse des cyberattaques ciblées faisant appel à l’IA, l’Office fédéral de la cybersécurité (OFCS) fait désormais état de premières attaques réussies impliquant des agents IA contre des entreprises suisses.
-- Dans un communiqué, l’office indique s’attendre à une recrudescence de ces attaques, caractérisées par leur rapidité et leur efficacité.
+- Ces cas illustrent une évolution des cybermenaces , indique l'Office fédéral de la cybersécurité.
+- thumbnail. «.
+- On recense actuellement cinq cas.
